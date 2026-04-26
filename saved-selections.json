@@ -836,6 +836,285 @@
         "topCueIndex": 15,
         "bottomCueIndex": 32
       }
+    },
+    {
+      "id": "1caff72a-5a11-4d5d-8e77-fdbbaf2cdcfb",
+      "createdAt": "2026-04-26T11:22:37.905Z",
+      "videoName": "Friends.S02E01.The.One.with.Ross's.New.Girlfriend.1440p.HMAX.WEB-DL.H.265-AtotIK.mkv",
+      "audioTrackName": "Friends.S02E01.The.One.with.Ross's.New.Girlfriend.1440p.HMAX.WEB-DL.H.265-AtotIK.eng.mp3",
+      "selectedText": "Airport! Airport!",
+      "selection": {
+        "rawText": "Airport! Airport!",
+        "startOffset": 10,
+        "endOffset": 27,
+        "cueIndex": 62,
+        "cueStart": 174.257,
+        "cueEnd": 176.217,
+        "cueText": "[panting]\nAirport! Airport!"
+      },
+      "context": {
+        "top": [
+          {
+            "index": 29,
+            "start": 146.354,
+            "end": 150.066,
+            "text": "Ничего себе. Вот это новость. Огромная..."
+          },
+          {
+            "index": 30,
+            "start": 150.567,
+            "end": 152.861,
+            "text": "Это даже больше, чем огромная. Это как..."
+          },
+          {
+            "index": 31,
+            "start": 153.111,
+            "end": 154.821,
+            "text": "Так, что еще больше, чем огромная?"
+          },
+          {
+            "index": 32,
+            "start": 157.198,
+            "end": 158.616,
+            "text": "- Это?\n- Именно."
+          },
+          {
+            "index": 33,
+            "start": 159.868,
+            "end": 161.285,
+            "text": "Ребята, вы что, постриглись?"
+          },
+          {
+            "index": 34,
+            "start": 161.286,
+            "end": 163.746,
+            "text": "Да, именно. Спасибо стилисту Буффе."
+          },
+          {
+            "index": 35,
+            "start": 165.54,
+            "end": 166.498,
+            "text": "Потому что, ну знаешь,"
+          },
+          {
+            "index": 36,
+            "start": 166.499,
+            "end": 168.835,
+            "text": "«Обслужим культурно каждого посетителя»."
+          },
+          {
+            "index": 37,
+            "start": 169.46,
+            "end": 170.712,
+            "text": "Обожаю этот голос!"
+          },
+          {
+            "index": 38,
+            "start": 172.255,
+            "end": 173.089,
+            "text": "Ребята!"
+          },
+          {
+            "index": 39,
+            "start": 173.631,
+            "end": 174.506,
+            "text": "Рэйчел!"
+          },
+          {
+            "index": 40,
+            "start": 174.507,
+            "end": 177.01,
+            "text": "Аэропорт. Росс."
+          },
+          {
+            "index": 41,
+            "start": 177.177,
+            "end": 178.595,
+            "text": "Не... один."
+          },
+          {
+            "index": 42,
+            "start": 179.137,
+            "end": 181.598,
+            "text": "Джули. Обнимает ее!"
+          },
+          {
+            "index": 43,
+            "start": 183.183,
+            "end": 186.018,
+            "text": "Судорога!"
+          },
+          {
+            "index": 44,
+            "start": 186.019,
+            "end": 187.979,
+            "text": "Я думаю, она пытается нам что-то сказать."
+          },
+          {
+            "index": 45,
+            "start": 188.813,
+            "end": 190.19,
+            "text": "Быстрее, нужны глаголы."
+          },
+          {
+            "index": 46,
+            "start": 191.691,
+            "end": 193.525,
+            "text": "Ты!"
+          },
+          {
+            "index": 47,
+            "start": 193.526,
+            "end": 195.11,
+            "text": "Ты сказал, что я ему нравлюсь!"
+          },
+          {
+            "index": 48,
+            "start": 195.111,
+            "end": 196.446,
+            "text": "Ты!"
+          },
+          {
+            "index": 49,
+            "start": 196.779,
+            "end": 199.073,
+            "text": "Ну вы и черепахи!"
+          }
+        ],
+        "bottom": [
+          {
+            "index": 52,
+            "start": 147.856,
+            "end": 149.232,
+            "text": "This is huge."
+          },
+          {
+            "index": 53,
+            "start": 149.274,
+            "end": 151.693,
+            "text": "This is..\nThis is bigger than huge."
+          },
+          {
+            "index": 54,
+            "start": 151.735,
+            "end": 154.779,
+            "text": "This is like...alright,\nwhat's bigger than huge?"
+          },
+          {
+            "index": 55,
+            "start": 156.156,
+            "end": 158.658,
+            "text": "- Um...this?\n- Yes."
+          },
+          {
+            "index": 56,
+            "start": 159.576,
+            "end": 161.119,
+            "text": "Guys, you got new haircuts."
+          },
+          {
+            "index": 57,
+            "start": 161.202,
+            "end": 163.747,
+            "text": "Yes, yes, we did,\nthanks to Vidal Buffay."
+          },
+          {
+            "index": 58,
+            "start": 165.373,
+            "end": 167.375,
+            "text": "'Cause, you know,\nif you don't look good"
+          },
+          {
+            "index": 59,
+            "start": 167.417,
+            "end": 169.169,
+            "text": "we don't look good."
+          },
+          {
+            "index": 60,
+            "start": 169.252,
+            "end": 171.463,
+            "text": "I love that voice."
+          },
+          {
+            "index": 61,
+            "start": 172.922,
+            "end": 174.174,
+            "text": "- Whoa.\n- Oh."
+          },
+          {
+            "index": 62,
+            "start": 174.257,
+            "end": 176.217,
+            "text": "[panting]\nAirport! Airport!"
+          },
+          {
+            "index": 63,
+            "start": 176.301,
+            "end": 178.928,
+            "text": "Ross...not alone!"
+          },
+          {
+            "index": 64,
+            "start": 178.97,
+            "end": 180.638,
+            "text": "Julie.."
+          },
+          {
+            "index": 65,
+            "start": 180.722,
+            "end": 181.681,
+            "text": "Arm around her!"
+          },
+          {
+            "index": 66,
+            "start": 181.765,
+            "end": 185.643,
+            "text": "Oh...cramp!\nCramp! Cramp!"
+          },
+          {
+            "index": 67,
+            "start": 185.727,
+            "end": 188.48,
+            "text": "Okay, I think she's trying\nto tell us something."
+          },
+          {
+            "index": 68,
+            "start": 188.563,
+            "end": 190.815,
+            "text": "Quick,\nget the verbs."
+          },
+          {
+            "index": 69,
+            "start": 190.857,
+            "end": 191.816,
+            "text": "Ow."
+          },
+          {
+            "index": 70,
+            "start": 191.9,
+            "end": 195.07,
+            "text": "You...you, you said\nhe liked me."
+          },
+          {
+            "index": 71,
+            "start": 195.111,
+            "end": 196.696,
+            "text": "You, you.."
+          },
+          {
+            "index": 72,
+            "start": 196.78,
+            "end": 198.948,
+            "text": "You slowpokes!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 175.232951,
+        "topCueIndex": 39,
+        "bottomCueIndex": 62
+      }
     }
   ]
 }
