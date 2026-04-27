@@ -557,6 +557,285 @@
         "topCueIndex": 156,
         "bottomCueIndex": 178
       }
+    },
+    {
+      "id": "d3084ef9-4299-40e6-8c9e-eefc7e8a4273",
+      "createdAt": "2026-04-27T20:46:54.947Z",
+      "videoName": "S4E17 - The Front Porch.mkv",
+      "audioTrackName": "S4E17 - The Front Porch.eng.m4a",
+      "selectedText": "whenever",
+      "selection": {
+        "rawText": "whenever",
+        "startOffset": 3,
+        "endOffset": 11,
+        "cueIndex": 180,
+        "cueStart": 466.733,
+        "cueEnd": 469.801,
+        "cueText": "So whenever\nyou've been dating\nsomebody for a while,"
+      },
+      "context": {
+        "top": [
+          {
+            "index": 148,
+            "start": 436.92,
+            "end": 440.02,
+            "text": "Подумай о том как много\nмы значим друг для друга."
+          },
+          {
+            "index": 149,
+            "start": 440.05,
+            "end": 443.7,
+            "text": "Когда я представляю будущее,\nЯ представляю нас всех вместе."
+          },
+          {
+            "index": 150,
+            "start": 443.71,
+            "end": 447.97,
+            "text": "Как мы состаримся, и будем пить чай\nна веранде нашего домика на берегу моря,"
+          },
+          {
+            "index": 151,
+            "start": 447.98,
+            "end": 449.8,
+            "text": "и играть в бридж целыми днями."
+          },
+          {
+            "index": 152,
+            "start": 449.83,
+            "end": 452.33,
+            "text": "Окей, бридж супер."
+          },
+          {
+            "index": 153,
+            "start": 452.36,
+            "end": 454.98,
+            "text": "Четыре бриджа бьют королевский бридж."
+          },
+          {
+            "index": 154,
+            "start": 455.01,
+            "end": 458.81,
+            "text": "Я принимаю твой бридж и я\nповышаю тебя еще на три бриджа."
+          },
+          {
+            "index": 155,
+            "start": 458.85,
+            "end": 461.08,
+            "text": "Бридж! Я выиграл!"
+          },
+          {
+            "index": 156,
+            "start": 461.47,
+            "end": 463.58,
+            "text": "Вы не знаете как играть в бридж, не так ли?"
+          },
+          {
+            "index": 157,
+            "start": 463.61,
+            "end": 464.72,
+            "text": "Мы собираемся играть бридж."
+          },
+          {
+            "index": 158,
+            "start": 464.75,
+            "end": 467.06,
+            "text": "Главное оставаться активным."
+          },
+          {
+            "index": 159,
+            "start": 467.25,
+            "end": 472.2,
+            "text": "Всякий раз когда ты встречался с кем-нибудь\nдостаточно долго, я делала тест НА ВЕРАНДЕ."
+          },
+          {
+            "index": 160,
+            "start": 472.24,
+            "end": 476.32,
+            "text": "Ты знаешь, этот человек будет\nв нашей группе многие годы?"
+          },
+          {
+            "index": 161,
+            "start": 476.33,
+            "end": 478.74,
+            "text": "И когда я думаю что Карен там..."
+          },
+          {
+            "index": 162,
+            "start": 478.78,
+            "end": 481,
+            "text": "Бридж! Я выиграл!"
+          },
+          {
+            "index": 163,
+            "start": 481.01,
+            "end": 483.43,
+            "text": "Чудесно. Опять бридж."
+          },
+          {
+            "index": 164,
+            "start": 483.44,
+            "end": 485.72,
+            "text": "Может почитаете книги или сделаете что-нибудь еще."
+          },
+          {
+            "index": 165,
+            "start": 485.75,
+            "end": 488.82,
+            "text": "Посмотри, дорогая... дельфины."
+          },
+          {
+            "index": 166,
+            "start": 488.83,
+            "end": 490.21,
+            "text": "Они кажутся счастливыми."
+          },
+          {
+            "index": 167,
+            "start": 490.25,
+            "end": 495.38,
+            "text": "Я предполагаю, что их органы еще не сгнили от химикатов с этого элитного пляжа."
+          },
+          {
+            "index": 168,
+            "start": 495.39,
+            "end": 498.13,
+            "text": "Это будущее. Вода убьет вас."
+          }
+        ],
+        "bottom": [
+          {
+            "index": 170,
+            "start": 443.61,
+            "end": 445.11,
+            "text": "How we'll all be retired,"
+          },
+          {
+            "index": 171,
+            "start": 445.112,
+            "end": 447.913,
+            "text": "sipping tea\non the front porch\nof our beach house,"
+          },
+          {
+            "index": 172,
+            "start": 447.915,
+            "end": 449.648,
+            "text": "playing bridge all day."
+          },
+          {
+            "index": 173,
+            "start": 449.65,
+            "end": 452.117,
+            "text": "Okay, bridges are wild."
+          },
+          {
+            "index": 174,
+            "start": 452.119,
+            "end": 454.619,
+            "text": "Four of a bridge\nbeats a royal bridge."
+          },
+          {
+            "index": 175,
+            "start": 454.621,
+            "end": 458.757,
+            "text": "I see your bridge,\nand I raise you\nthree bridges."
+          },
+          {
+            "index": 176,
+            "start": 458.759,
+            "end": 460.759,
+            "text": "Bridge! I win!"
+          },
+          {
+            "index": 177,
+            "start": 460.761,
+            "end": 463.528,
+            "text": "You have no idea how\nto play bridge, do you?"
+          },
+          {
+            "index": 178,
+            "start": 463.53,
+            "end": 464.663,
+            "text": "We're gonna take a class."
+          },
+          {
+            "index": 179,
+            "start": 464.665,
+            "end": 466.731,
+            "text": "It's important to stay\nactive."
+          },
+          {
+            "index": 180,
+            "start": 466.733,
+            "end": 469.801,
+            "text": "So whenever\nyou've been dating\nsomebody for a while,"
+          },
+          {
+            "index": 181,
+            "start": 469.803,
+            "end": 471.336,
+            "text": "I do the\nfront porch test."
+          },
+          {
+            "index": 182,
+            "start": 471.338,
+            "end": 476.174,
+            "text": "You know, how is this\nperson gonna fit in with\nour group over the years?"
+          },
+          {
+            "index": 183,
+            "start": 476.176,
+            "end": 478.743,
+            "text": "And when I think\nabout Karen there..."
+          },
+          {
+            "index": 184,
+            "start": 478.745,
+            "end": 480.645,
+            "text": "Bridge! I win!"
+          },
+          {
+            "index": 185,
+            "start": 480.647,
+            "end": 483.248,
+            "text": "Fantastic.\nAnother game of bridge."
+          },
+          {
+            "index": 186,
+            "start": 483.25,
+            "end": 485.717,
+            "text": "Don't read\na book or anything."
+          },
+          {
+            "index": 187,
+            "start": 485.719,
+            "end": 488.653,
+            "text": "Look, dear, dolphins."
+          },
+          {
+            "index": 188,
+            "start": 488.655,
+            "end": 489.621,
+            "text": "KAREN: They seem happy."
+          },
+          {
+            "index": 189,
+            "start": 489.623,
+            "end": 492.657,
+            "text": "I guess the\nchemical runoff from this\nelitist beachfront property"
+          },
+          {
+            "index": 190,
+            "start": 492.659,
+            "end": 495.16,
+            "text": "hasn't rotted out\ntheir blowholes yet."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 469.334289,
+        "topCueIndex": 158,
+        "bottomCueIndex": 180
+      }
     }
   ]
 }
