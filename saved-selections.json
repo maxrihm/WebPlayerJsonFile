@@ -1673,6 +1673,285 @@
         "topCueIndex": 166,
         "bottomCueIndex": 189
       }
+    },
+    {
+      "id": "2cc72156-0818-4452-bba7-1a5d4f9e1423",
+      "createdAt": "2026-04-27T20:53:18.774Z",
+      "videoName": "S4E17 - The Front Porch.mkv",
+      "audioTrackName": "S4E17 - The Front Porch.eng.m4a",
+      "selectedText": "take a dip.",
+      "selection": {
+        "rawText": "take a dip.",
+        "startOffset": 10,
+        "endOffset": 21,
+        "cueIndex": 193,
+        "cueStart": 500.667,
+        "cueEnd": 502.501,
+        "cueText": "I'm gonna take a dip."
+      },
+      "context": {
+        "top": [
+          {
+            "index": 160,
+            "start": 472.24,
+            "end": 476.32,
+            "text": "Ты знаешь, этот человек будет\nв нашей группе многие годы?"
+          },
+          {
+            "index": 161,
+            "start": 476.33,
+            "end": 478.74,
+            "text": "И когда я думаю что Карен там..."
+          },
+          {
+            "index": 162,
+            "start": 478.78,
+            "end": 481,
+            "text": "Бридж! Я выиграл!"
+          },
+          {
+            "index": 163,
+            "start": 481.01,
+            "end": 483.43,
+            "text": "Чудесно. Опять бридж."
+          },
+          {
+            "index": 164,
+            "start": 483.44,
+            "end": 485.72,
+            "text": "Может почитаете книги или сделаете что-нибудь еще."
+          },
+          {
+            "index": 165,
+            "start": 485.75,
+            "end": 488.82,
+            "text": "Посмотри, дорогая... дельфины."
+          },
+          {
+            "index": 166,
+            "start": 488.83,
+            "end": 490.21,
+            "text": "Они кажутся счастливыми."
+          },
+          {
+            "index": 167,
+            "start": 490.25,
+            "end": 495.38,
+            "text": "Я предполагаю, что их органы еще не сгнили от химикатов с этого элитного пляжа."
+          },
+          {
+            "index": 168,
+            "start": 495.39,
+            "end": 498.13,
+            "text": "Это будущее. Вода убьет вас."
+          },
+          {
+            "index": 169,
+            "start": 498.14,
+            "end": 500.64,
+            "text": "Это токсичная смертельная ловушка."
+          },
+          {
+            "index": 170,
+            "start": 500.67,
+            "end": 502.04,
+            "text": "Я хочу искупаться."
+          },
+          {
+            "index": 171,
+            "start": 502.08,
+            "end": 503.95,
+            "text": "Я с тобой."
+          },
+          {
+            "index": 172,
+            "start": 503.96,
+            "end": 507.12,
+            "text": "Карен провалила тест НА ВЕРАНДЕ. Она должна уйти."
+          },
+          {
+            "index": 173,
+            "start": 507.13,
+            "end": 509.44,
+            "text": "Я не могу поверить в то что ты сделала."
+          },
+          {
+            "index": 174,
+            "start": 509.47,
+            "end": 512.8,
+            "text": "Тед, подумай как круты ты, я, и Маршалл."
+          },
+          {
+            "index": 175,
+            "start": 512.83,
+            "end": 515.63,
+            "text": "Серьезно, подумай об этом."
+          },
+          {
+            "index": 176,
+            "start": 519.11,
+            "end": 521.51,
+            "text": "- Мы достаточно крутые.\n- Мы полностью крутые!"
+          },
+          {
+            "index": 177,
+            "start": 521.52,
+            "end": 525.86,
+            "text": "На ком бы ты не женился,\nон должен присоединиться к команде крутых,"
+          },
+          {
+            "index": 178,
+            "start": 525.87,
+            "end": 528.7,
+            "text": "планка установлена достаточно высоко."
+          },
+          {
+            "index": 179,
+            "start": 529.01,
+            "end": 531.98,
+            "text": "Посмотри, я не говорю что я права, но..."
+          },
+          {
+            "index": 180,
+            "start": 532,
+            "end": 533.3,
+            "text": "Тебе лучше без нее."
+          }
+        ],
+        "bottom": [
+          {
+            "index": 183,
+            "start": 476.176,
+            "end": 478.743,
+            "text": "And when I think\nabout Karen there..."
+          },
+          {
+            "index": 184,
+            "start": 478.745,
+            "end": 480.645,
+            "text": "Bridge! I win!"
+          },
+          {
+            "index": 185,
+            "start": 480.647,
+            "end": 483.248,
+            "text": "Fantastic.\nAnother game of bridge."
+          },
+          {
+            "index": 186,
+            "start": 483.25,
+            "end": 485.717,
+            "text": "Don't read\na book or anything."
+          },
+          {
+            "index": 187,
+            "start": 485.719,
+            "end": 488.653,
+            "text": "Look, dear, dolphins."
+          },
+          {
+            "index": 188,
+            "start": 488.655,
+            "end": 489.621,
+            "text": "KAREN: They seem happy."
+          },
+          {
+            "index": 189,
+            "start": 489.623,
+            "end": 492.657,
+            "text": "I guess the\nchemical runoff from this\nelitist beachfront property"
+          },
+          {
+            "index": 190,
+            "start": 492.659,
+            "end": 495.16,
+            "text": "hasn't rotted out\ntheir blowholes yet."
+          },
+          {
+            "index": 191,
+            "start": 495.162,
+            "end": 497.863,
+            "text": "It will.\nThat water\nwill kill you."
+          },
+          {
+            "index": 192,
+            "start": 497.865,
+            "end": 500.665,
+            "text": "It is a toxic death trap."
+          },
+          {
+            "index": 193,
+            "start": 500.667,
+            "end": 502.501,
+            "text": "I'm gonna take a dip."
+          },
+          {
+            "index": 194,
+            "start": 502.503,
+            "end": 503.702,
+            "text": "I'll join you."
+          },
+          {
+            "index": 195,
+            "start": 503.704,
+            "end": 506.304,
+            "text": "Karen failed\nthe front porch test."
+          },
+          {
+            "index": 196,
+            "start": 506.306,
+            "end": 507.472,
+            "text": "She had to go."
+          },
+          {
+            "index": 197,
+            "start": 507.474,
+            "end": 509.207,
+            "text": "I can't believe you did that."
+          },
+          {
+            "index": 198,
+            "start": 509.209,
+            "end": 513.178,
+            "text": "Ted,\nthink about how awesome\nyou, me and Marshall are."
+          },
+          {
+            "index": 199,
+            "start": 513.18,
+            "end": 516.214,
+            "text": "Seriously, think about it."
+          },
+          {
+            "index": 200,
+            "start": 518.684,
+            "end": 521.086,
+            "text": "We're pretty awesome.\nWe're totally awesome!"
+          },
+          {
+            "index": 201,
+            "start": 521.088,
+            "end": 525.757,
+            "text": "So whoever you marry,\nwhoever joins Team Awesome,"
+          },
+          {
+            "index": 202,
+            "start": 525.759,
+            "end": 528.36,
+            "text": "the bar is set\npretty damn high."
+          },
+          {
+            "index": 203,
+            "start": 528.362,
+            "end": 531.696,
+            "text": "Look, I'm not saying\nwhat I did was right,\nbut..."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 501.313502,
+        "topCueIndex": 170,
+        "bottomCueIndex": 193
+      }
     }
   ]
 }
