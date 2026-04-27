@@ -1,3 +1,283 @@
 {
-  "selections": []
+  "selections": [
+    {
+      "id": "b4241b9a-eaed-4840-b18f-97734d8829ee",
+      "createdAt": "2026-04-27T14:35:55.947Z",
+      "videoName": "S4E17 - The Front Porch.mkv",
+      "audioTrackName": "S4E17 - The Front Porch.eng.m4a",
+      "selectedText": "carrying the team.",
+      "selection": {
+        "rawText": "carrying the team.",
+        "startOffset": 19,
+        "endOffset": 37,
+        "cueIndex": 137,
+        "cueStart": 349.149,
+        "cueEnd": 351.85,
+        "cueText": "Come on, guys.\nI'm carrying the team."
+      },
+      "context": {
+        "top": [
+          {
+            "index": 112,
+            "start": 325.34,
+            "end": 326.76,
+            "text": "И это тот самый момент!"
+          },
+          {
+            "index": 113,
+            "start": 326.8,
+            "end": 327.82,
+            "text": "Это ночная рубашка."
+          },
+          {
+            "index": 114,
+            "start": 327.83,
+            "end": 331.15,
+            "text": "Если хотите, вы можете назвать это Ninja\nStar Danger Jock."
+          },
+          {
+            "index": 115,
+            "start": 331.18,
+            "end": 332.91,
+            "text": "Ты всё равно останешься носителем женской одежды."
+          },
+          {
+            "index": 116,
+            "start": 332.95,
+            "end": 334.6,
+            "text": "Что еще, стиляга. Это комфортно."
+          },
+          {
+            "index": 117,
+            "start": 335.34,
+            "end": 338.09,
+            "text": "Итак,летать в Neverland с\nPeter и Tink, было изумительно?"
+          },
+          {
+            "index": 118,
+            "start": 338.11,
+            "end": 339.55,
+            "text": "О, позволь я продолжу!"
+          },
+          {
+            "index": 119,
+            "start": 339.6,
+            "end": 343.97,
+            "text": "Это было мило, что ты наконец встал с этой большой кровати\nи взял Чарли на шоколадную фабрику?"
+          },
+          {
+            "index": 120,
+            "start": 344.02,
+            "end": 345.68,
+            "text": "O,я,я,я,я!"
+          },
+          {
+            "index": 121,
+            "start": 345.73,
+            "end": 348.49,
+            "text": "Эм, что-то о Скрудже!"
+          },
+          {
+            "index": 122,
+            "start": 349.01,
+            "end": 351.19,
+            "text": "Народ, ну поддержите меня."
+          },
+          {
+            "index": 123,
+            "start": 351.53,
+            "end": 354.15,
+            "text": "Я не знаю. Я прожил\nс Маршаллом 12 лет."
+          },
+          {
+            "index": 124,
+            "start": 354.16,
+            "end": 357.47,
+            "text": "И если на нем что-нибудь надето, это уже хорошо."
+          },
+          {
+            "index": 125,
+            "start": 359.73,
+            "end": 361.33,
+            "text": "Тед, шоу начинается!"
+          },
+          {
+            "index": 126,
+            "start": 361.36,
+            "end": 363.35,
+            "text": "Сейчас подойду!"
+          },
+          {
+            "index": 127,
+            "start": 376.4,
+            "end": 379.55,
+            "text": "Доброе утро, Нью-Йорк. Я Робин..."
+          },
+          {
+            "index": 128,
+            "start": 381.01,
+            "end": 384.21,
+            "text": "Маршалл, я только что нашел сережку Робин на твоём комоде."
+          },
+          {
+            "index": 129,
+            "start": 384.22,
+            "end": 386.56,
+            "text": "Ты как-то связан с тем, что вторая оказалась на моей кровати?"
+          },
+          {
+            "index": 130,
+            "start": 386.59,
+            "end": 387.47,
+            "text": "О чем ты говоришь?"
+          },
+          {
+            "index": 131,
+            "start": 387.52,
+            "end": 390.68,
+            "text": "Ты всегда ненавидел Карен. Ты говорил\nчтобы я расстался с ней."
+          },
+          {
+            "index": 132,
+            "start": 390.69,
+            "end": 394.34,
+            "text": "И ты сделал это. Ты положил сережку в мою кровать,\nчтобы Карен ее нашла."
+          }
+        ],
+        "bottom": [
+          {
+            "index": 127,
+            "start": 327.561,
+            "end": 328.226,
+            "text": "It's a nightshirt."
+          },
+          {
+            "index": 128,
+            "start": 328.228,
+            "end": 331.196,
+            "text": "You can\ncall it a Ninja Star\nDanger Jock if you want,"
+          },
+          {
+            "index": 129,
+            "start": 331.198,
+            "end": 333.398,
+            "text": "doesn't make you any\nless of a cross-dresser."
+          },
+          {
+            "index": 130,
+            "start": 333.4,
+            "end": 334.766,
+            "text": "Whatever, dude. It's comfy."
+          },
+          {
+            "index": 131,
+            "start": 334.768,
+            "end": 335.701,
+            "text": "BARNEY: Uh-huh?\nMmm-hmm."
+          },
+          {
+            "index": 132,
+            "start": 335.703,
+            "end": 338.737,
+            "text": "So, flying to Neverland\nwith Peter and Tink,\nwas that amazing?"
+          },
+          {
+            "index": 133,
+            "start": 338.739,
+            "end": 339.738,
+            "text": "Ooh! Let me go next!"
+          },
+          {
+            "index": 134,
+            "start": 339.74,
+            "end": 341.84,
+            "text": "Was it nice\nto finally get out\nof that crowded bed"
+          },
+          {
+            "index": 135,
+            "start": 341.842,
+            "end": 343.942,
+            "text": "and take Charlie to\nthe chocolate factory?"
+          },
+          {
+            "index": 136,
+            "start": 343.944,
+            "end": 349.147,
+            "text": "Ooh! Me, me, me, me!\nSomething about Scrooge!"
+          },
+          {
+            "index": 137,
+            "start": 349.149,
+            "end": 351.85,
+            "text": "Come on, guys.\nI'm carrying the team."
+          },
+          {
+            "index": 138,
+            "start": 351.852,
+            "end": 352.584,
+            "text": "I don't know."
+          },
+          {
+            "index": 139,
+            "start": 352.586,
+            "end": 354.119,
+            "text": "I lived with Marshall\nfor 12 years."
+          },
+          {
+            "index": 140,
+            "start": 354.121,
+            "end": 358.223,
+            "text": "Any time he's wearing\nclothes at all, it's\na victory."
+          },
+          {
+            "index": 141,
+            "start": 359.992,
+            "end": 361.96,
+            "text": "LILY:\nTed, show's\nabout to start!"
+          },
+          {
+            "index": 142,
+            "start": 361.962,
+            "end": 363.795,
+            "text": "Be right there!"
+          },
+          {
+            "index": 143,
+            "start": 373.84,
+            "end": 375.841,
+            "text": "(THEME MUSIC PLAYING)"
+          },
+          {
+            "index": 144,
+            "start": 375.843,
+            "end": 376.842,
+            "text": "(MARSHALL GASPS)"
+          },
+          {
+            "index": 145,
+            "start": 376.844,
+            "end": 379.444,
+            "text": "Good morning, New York.\nI'm..."
+          },
+          {
+            "index": 146,
+            "start": 379.446,
+            "end": 380.912,
+            "text": "Hey!\nWhoa!"
+          },
+          {
+            "index": 147,
+            "start": 380.914,
+            "end": 383.915,
+            "text": "Marshall,\nI just found Robin's\nearring on your dresser."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 349.798827,
+        "topCueIndex": 122,
+        "bottomCueIndex": 137
+      }
+    }
+  ]
 }
