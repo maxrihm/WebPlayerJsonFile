@@ -1952,6 +1952,285 @@
         "topCueIndex": 170,
         "bottomCueIndex": 193
       }
+    },
+    {
+      "id": "b22e0eb7-6e27-4599-b845-39c77e0d90b5",
+      "createdAt": "2026-04-27T20:54:21.610Z",
+      "videoName": "S4E17 - The Front Porch.mkv",
+      "audioTrackName": "S4E17 - The Front Porch.eng.m4a",
+      "selectedText": "the bar is set pretty damn high.",
+      "selection": {
+        "rawText": "the bar is set\npretty damn high.",
+        "startOffset": 0,
+        "endOffset": 32,
+        "cueIndex": 202,
+        "cueStart": 525.759,
+        "cueEnd": 528.36,
+        "cueText": "the bar is set\npretty damn high."
+      },
+      "context": {
+        "top": [
+          {
+            "index": 167,
+            "start": 490.25,
+            "end": 495.38,
+            "text": "Я предполагаю, что их органы еще не сгнили от химикатов с этого элитного пляжа."
+          },
+          {
+            "index": 168,
+            "start": 495.39,
+            "end": 498.13,
+            "text": "Это будущее. Вода убьет вас."
+          },
+          {
+            "index": 169,
+            "start": 498.14,
+            "end": 500.64,
+            "text": "Это токсичная смертельная ловушка."
+          },
+          {
+            "index": 170,
+            "start": 500.67,
+            "end": 502.04,
+            "text": "Я хочу искупаться."
+          },
+          {
+            "index": 171,
+            "start": 502.08,
+            "end": 503.95,
+            "text": "Я с тобой."
+          },
+          {
+            "index": 172,
+            "start": 503.96,
+            "end": 507.12,
+            "text": "Карен провалила тест НА ВЕРАНДЕ. Она должна уйти."
+          },
+          {
+            "index": 173,
+            "start": 507.13,
+            "end": 509.44,
+            "text": "Я не могу поверить в то что ты сделала."
+          },
+          {
+            "index": 174,
+            "start": 509.47,
+            "end": 512.8,
+            "text": "Тед, подумай как круты ты, я, и Маршалл."
+          },
+          {
+            "index": 175,
+            "start": 512.83,
+            "end": 515.63,
+            "text": "Серьезно, подумай об этом."
+          },
+          {
+            "index": 176,
+            "start": 519.11,
+            "end": 521.51,
+            "text": "- Мы достаточно крутые.\n- Мы полностью крутые!"
+          },
+          {
+            "index": 177,
+            "start": 521.52,
+            "end": 525.86,
+            "text": "На ком бы ты не женился,\nон должен присоединиться к команде крутых,"
+          },
+          {
+            "index": 178,
+            "start": 525.87,
+            "end": 528.7,
+            "text": "планка установлена достаточно высоко."
+          },
+          {
+            "index": 179,
+            "start": 529.01,
+            "end": 531.98,
+            "text": "Посмотри, я не говорю что я права, но..."
+          },
+          {
+            "index": 180,
+            "start": 532,
+            "end": 533.3,
+            "text": "Тебе лучше без нее."
+          },
+          {
+            "index": 181,
+            "start": 533.33,
+            "end": 536.12,
+            "text": "И если ангел Clarence\nговорит что это правда, это точно правда."
+          },
+          {
+            "index": 182,
+            "start": 536.16,
+            "end": 538.62,
+            "text": "Хорошо, знаешь что?\nМожешь шутить дальше."
+          },
+          {
+            "index": 183,
+            "start": 538.63,
+            "end": 540.28,
+            "text": "Серьезно, почему ты носишь это?"
+          },
+          {
+            "index": 184,
+            "start": 540.32,
+            "end": 543.05,
+            "text": "- На это есть много причин.\n- Ты не назовешь даже пяти."
+          },
+          {
+            "index": 185,
+            "start": 543.06,
+            "end": 545.12,
+            "text": "Первая: Нет необходимости носить\nчто-нибудь под ним."
+          },
+          {
+            "index": 186,
+            "start": 545.17,
+            "end": 547.31,
+            "text": "Я могу поручиться за это. Не мог бы ты, приятель,\nскрестить ноги?"
+          },
+          {
+            "index": 187,
+            "start": 547.32,
+            "end": 549.21,
+            "text": "Вторая: Это сексуально."
+          }
+        ],
+        "bottom": [
+          {
+            "index": 192,
+            "start": 497.865,
+            "end": 500.665,
+            "text": "It is a toxic death trap."
+          },
+          {
+            "index": 193,
+            "start": 500.667,
+            "end": 502.501,
+            "text": "I'm gonna take a dip."
+          },
+          {
+            "index": 194,
+            "start": 502.503,
+            "end": 503.702,
+            "text": "I'll join you."
+          },
+          {
+            "index": 195,
+            "start": 503.704,
+            "end": 506.304,
+            "text": "Karen failed\nthe front porch test."
+          },
+          {
+            "index": 196,
+            "start": 506.306,
+            "end": 507.472,
+            "text": "She had to go."
+          },
+          {
+            "index": 197,
+            "start": 507.474,
+            "end": 509.207,
+            "text": "I can't believe you did that."
+          },
+          {
+            "index": 198,
+            "start": 509.209,
+            "end": 513.178,
+            "text": "Ted,\nthink about how awesome\nyou, me and Marshall are."
+          },
+          {
+            "index": 199,
+            "start": 513.18,
+            "end": 516.214,
+            "text": "Seriously, think about it."
+          },
+          {
+            "index": 200,
+            "start": 518.684,
+            "end": 521.086,
+            "text": "We're pretty awesome.\nWe're totally awesome!"
+          },
+          {
+            "index": 201,
+            "start": 521.088,
+            "end": 525.757,
+            "text": "So whoever you marry,\nwhoever joins Team Awesome,"
+          },
+          {
+            "index": 202,
+            "start": 525.759,
+            "end": 528.36,
+            "text": "the bar is set\npretty damn high."
+          },
+          {
+            "index": 203,
+            "start": 528.362,
+            "end": 531.696,
+            "text": "Look, I'm not saying\nwhat I did was right,\nbut..."
+          },
+          {
+            "index": 204,
+            "start": 531.698,
+            "end": 532.664,
+            "text": "You're better\noff without her."
+          },
+          {
+            "index": 205,
+            "start": 532.666,
+            "end": 535.267,
+            "text": "And if Clarence\nthe angel says it's\ntrue, it must be true."
+          },
+          {
+            "index": 206,
+            "start": 535.269,
+            "end": 538.236,
+            "text": "Okay, you know what?\nFine, make your little jokes."
+          },
+          {
+            "index": 207,
+            "start": 538.238,
+            "end": 540.171,
+            "text": "Seriously,\nwhy would you wear\nsomething like that?"
+          },
+          {
+            "index": 208,
+            "start": 540.173,
+            "end": 541.373,
+            "text": "Lots of reasons."
+          },
+          {
+            "index": 209,
+            "start": 541.375,
+            "end": 542.841,
+            "text": "I bet you can't name five."
+          },
+          {
+            "index": 210,
+            "start": 542.843,
+            "end": 544.309,
+            "text": "One,\nno need to wear\nanything underneath."
+          },
+          {
+            "index": 211,
+            "start": 544.311,
+            "end": 547.746,
+            "text": "I can vouch for that.\nWill you cross your\nlegs, buddy?"
+          },
+          {
+            "index": 212,
+            "start": 547.748,
+            "end": 549.18,
+            "text": "Two, sexy."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 527.286196,
+        "topCueIndex": 177,
+        "bottomCueIndex": 202
+      }
     }
   ]
 }
