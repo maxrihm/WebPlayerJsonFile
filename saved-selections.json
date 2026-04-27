@@ -4184,6 +4184,285 @@
         "topCueIndex": 201,
         "bottomCueIndex": 229
       }
+    },
+    {
+      "id": "e791118f-2d31-4b93-94c6-270229a7b41a",
+      "createdAt": "2026-04-27T21:05:38.247Z",
+      "videoName": "S4E17 - The Front Porch.mkv",
+      "audioTrackName": "S4E17 - The Front Porch.eng.m4a",
+      "selectedText": "tiniest chance",
+      "selection": {
+        "rawText": "tiniest chance",
+        "startOffset": 22,
+        "endOffset": 36,
+        "cueIndex": 255,
+        "cueStart": 698.065,
+        "cueEnd": 700.932,
+        "cueText": "If there was ever the\ntiniest chance of that,"
+      },
+      "context": {
+        "top": [
+          {
+            "index": 213,
+            "start": 655.03,
+            "end": 656.36,
+            "text": "С кем еще?"
+          },
+          {
+            "index": 214,
+            "start": 656.4,
+            "end": 661.58,
+            "text": "Помнишь ту помешанную на фантастике девченку которая\nхотела пожениться спустя месяца?"
+          },
+          {
+            "index": 215,
+            "start": 661.59,
+            "end": 665.84,
+            "text": "Тебе она даже нравилась, но ты еще\nне думал об этом, так..."
+          },
+          {
+            "index": 216,
+            "start": 668.28,
+            "end": 672.65,
+            "text": "Послушай, Тед, ты великолепен,\nи это так трудно,"
+          },
+          {
+            "index": 217,
+            "start": 672.66,
+            "end": 675.52,
+            "text": "но я думаю что мы предназначены\nдля разных вещей."
+          },
+          {
+            "index": 218,
+            "start": 675.54,
+            "end": 679.87,
+            "text": "Так, живи долго и процветай. Или что бы там ни было."
+          },
+          {
+            "index": 219,
+            "start": 685.22,
+            "end": 687.95,
+            "text": "Дак это была ты? Это сумасшествие!"
+          },
+          {
+            "index": 220,
+            "start": 687.96,
+            "end": 690.23,
+            "text": "Тед, я сделала это, чтобы помочь тебе."
+          },
+          {
+            "index": 221,
+            "start": 690.25,
+            "end": 692.28,
+            "text": "Ты наркоман обязательств."
+          },
+          {
+            "index": 222,
+            "start": 692.31,
+            "end": 695.74,
+            "text": "Ты был бы несчастлив в любви с этими женщинами,\nдаже если бы они заслуживали тебя."
+          },
+          {
+            "index": 223,
+            "start": 695.79,
+            "end": 698.37,
+            "text": "Что если одной из этих женщин было предназначено\nстать матерью моих детей?"
+          },
+          {
+            "index": 224,
+            "start": 698.41,
+            "end": 702.28,
+            "text": "Если когда-либо был крошечный шанс\nэтого, Я клянусь, я бы ничего ни сделала."
+          },
+          {
+            "index": 225,
+            "start": 702.32,
+            "end": 704.66,
+            "text": "Например, как с Викторией или Стеллой."
+          },
+          {
+            "index": 226,
+            "start": 704.7,
+            "end": 706.67,
+            "text": "Или Робин."
+          },
+          {
+            "index": 227,
+            "start": 707.53,
+            "end": 709.35,
+            "text": "или Робин."
+          },
+          {
+            "index": 228,
+            "start": 709.38,
+            "end": 711.49,
+            "text": "Робин, Робин."
+          },
+          {
+            "index": 229,
+            "start": 711.51,
+            "end": 713.84,
+            "text": "Мы расстались из-за тебя?"
+          },
+          {
+            "index": 230,
+            "start": 714.17,
+            "end": 716.2,
+            "text": "Мы расстались из-за тебя?"
+          },
+          {
+            "index": 231,
+            "start": 716.23,
+            "end": 719.1,
+            "text": "Прекрати говорить со мной так, как будто я твой враг!"
+          },
+          {
+            "index": 232,
+            "start": 719.11,
+            "end": 724.05,
+            "text": "Ты печалишься об этих женщинах,\nно ты не знаешь того что знаю я:"
+          },
+          {
+            "index": 233,
+            "start": 724.09,
+            "end": 728.04,
+            "text": "все эти трагические распады,\nвозможно спасли тебя от дрянного"
+          }
+        ],
+        "bottom": [
+          {
+            "index": 245,
+            "start": 665.832,
+            "end": 667.866,
+            "text": "(SCI-FI MUSIC PLAYING)"
+          },
+          {
+            "index": 246,
+            "start": 667.868,
+            "end": 672.337,
+            "text": "Listen, Ted, you're great,\nand this is so difficult,"
+          },
+          {
+            "index": 247,
+            "start": 672.339,
+            "end": 675.707,
+            "text": "but I think\nwe're looking\nfor different things."
+          },
+          {
+            "index": 248,
+            "start": 675.709,
+            "end": 680.578,
+            "text": "So, live long and prosper.\nWhatever."
+          },
+          {
+            "index": 249,
+            "start": 683.082,
+            "end": 685.083,
+            "text": "(ROARING)"
+          },
+          {
+            "index": 250,
+            "start": 685.085,
+            "end": 687.619,
+            "text": "That was you?\nThis is insane!"
+          },
+          {
+            "index": 251,
+            "start": 687.621,
+            "end": 692.49,
+            "text": "Ted, I did those\nthings to help you.\nYou're a commitment junkie."
+          },
+          {
+            "index": 252,
+            "start": 692.492,
+            "end": 694.125,
+            "text": "You fall in love\nwith these women"
+          },
+          {
+            "index": 253,
+            "start": 694.127,
+            "end": 695.026,
+            "text": "even if they\ndon't deserve you."
+          },
+          {
+            "index": 254,
+            "start": 695.028,
+            "end": 698.063,
+            "text": "What if one of those\nwomen was supposed to be\nthe mother of my children?"
+          },
+          {
+            "index": 255,
+            "start": 698.065,
+            "end": 700.932,
+            "text": "If there was ever the\ntiniest chance of that,"
+          },
+          {
+            "index": 256,
+            "start": 700.934,
+            "end": 702.5,
+            "text": "I swear I didn't do anything."
+          },
+          {
+            "index": 257,
+            "start": 702.502,
+            "end": 705.07,
+            "text": "Like with Victoria or Stella."
+          },
+          {
+            "index": 258,
+            "start": 705.072,
+            "end": 706.905,
+            "text": "Or Robin."
+          },
+          {
+            "index": 259,
+            "start": 708.107,
+            "end": 709.741,
+            "text": "Or Robin."
+          },
+          {
+            "index": 260,
+            "start": 709.743,
+            "end": 711.743,
+            "text": "Robin, Robin..."
+          },
+          {
+            "index": 261,
+            "start": 711.745,
+            "end": 714.479,
+            "text": "Did you break us up, too?"
+          },
+          {
+            "index": 262,
+            "start": 714.481,
+            "end": 715.98,
+            "text": "Did you break us up, too?"
+          },
+          {
+            "index": 263,
+            "start": 715.982,
+            "end": 719.017,
+            "text": "Stop talking to me\nlike I'm your enemy!"
+          },
+          {
+            "index": 264,
+            "start": 719.019,
+            "end": 720.118,
+            "text": "You weep for these women,"
+          },
+          {
+            "index": 265,
+            "start": 720.12,
+            "end": 724.089,
+            "text": "but you have the luxury\nof not knowing what I know,"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 700.722822,
+        "topCueIndex": 223,
+        "bottomCueIndex": 255
+      }
     }
   ]
 }
