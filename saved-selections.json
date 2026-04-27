@@ -5300,6 +5300,285 @@
         "topCueIndex": 236,
         "bottomCueIndex": 270
       }
+    },
+    {
+      "id": "590bed3b-6573-4eca-a054-c51f166fa019",
+      "createdAt": "2026-04-27T21:10:05.613Z",
+      "videoName": "S4E17 - The Front Porch.mkv",
+      "audioTrackName": "S4E17 - The Front Porch.eng.m4a",
+      "selectedText": "Same old",
+      "selection": {
+        "rawText": "Same old",
+        "startOffset": 8,
+        "endOffset": 16,
+        "cueIndex": 295,
+        "cueStart": 801,
+        "cueEnd": 803.134,
+        "cueText": "(SIGHS) Same old same-old."
+      },
+      "context": {
+        "top": [
+          {
+            "index": 246,
+            "start": 770.68,
+            "end": 775.5,
+            "text": "Постой у обогревателя. Твой член будто бы\nна тропическом острове."
+          },
+          {
+            "index": 247,
+            "start": 777.14,
+            "end": 779.62,
+            "text": "Маленький Барни сказал \"Махало.\""
+          },
+          {
+            "index": 248,
+            "start": 779.63,
+            "end": 782.22,
+            "text": "Серьезно, что происходит с тобой, Лили?"
+          },
+          {
+            "index": 249,
+            "start": 782.24,
+            "end": 783.22,
+            "text": "Как ты могла это сделать?"
+          },
+          {
+            "index": 250,
+            "start": 783.25,
+            "end": 785.47,
+            "text": "Я сделала это, поскольку забочусь о тебе!"
+          },
+          {
+            "index": 251,
+            "start": 785.5,
+            "end": 788.91,
+            "text": "Я так рада что вы смотрели мое шоу!"
+          },
+          {
+            "index": 252,
+            "start": 788.92,
+            "end": 791.75,
+            "text": "О Боже, что с тобой случилось?"
+          },
+          {
+            "index": 253,
+            "start": 793.58,
+            "end": 795.52,
+            "text": "Вы не смотрели шоу?"
+          },
+          {
+            "index": 254,
+            "start": 795.53,
+            "end": 797.57,
+            "text": "Шоу. Извини."
+          },
+          {
+            "index": 255,
+            "start": 797.58,
+            "end": 800.06,
+            "text": "Случилось что-нибудь особенное?"
+          },
+          {
+            "index": 256,
+            "start": 801.23,
+            "end": 803.37,
+            "text": "Ничего нового, Ничего нового."
+          },
+          {
+            "index": 257,
+            "start": 803.4,
+            "end": 805.96,
+            "text": "Лили только что рассказала мне, что\nона виновата в нашем расставании."
+          },
+          {
+            "index": 258,
+            "start": 805.97,
+            "end": 809.11,
+            "text": "Что? Разлучила нас?\nЧто это означает?"
+          },
+          {
+            "index": 259,
+            "start": 809.12,
+            "end": 811.05,
+            "text": "И почему они носят платья?"
+          },
+          {
+            "index": 260,
+            "start": 811.06,
+            "end": 811.92,
+            "text": "- Ночные рубашки.\n- Ночные рубашки."
+          },
+          {
+            "index": 261,
+            "start": 811.93,
+            "end": 813.49,
+            "text": "- Это ночные рубашки.\n- Это ночные рубашки, Робин."
+          },
+          {
+            "index": 262,
+            "start": 813.5,
+            "end": 818.23,
+            "text": "Оказывается Лили виновата в саботаже\nмногих моих отношений, включая наши."
+          },
+          {
+            "index": 263,
+            "start": 818.25,
+            "end": 821.71,
+            "text": "Нет. С Робин всё было иначе.\nЯ не хотела чтобы вы расстались,"
+          },
+          {
+            "index": 264,
+            "start": 821.72,
+            "end": 826.85,
+            "text": "но вы хотели совершенно различные вещи от жизни\nи не могли отказаться от этого."
+          },
+          {
+            "index": 265,
+            "start": 826.88,
+            "end": 829.46,
+            "text": "Я могла представить картину НА ВЕРАНДЕ."
+          },
+          {
+            "index": 266,
+            "start": 829.48,
+            "end": 831.39,
+            "text": "Мм, два черви."
+          }
+        ],
+        "bottom": [
+          {
+            "index": 285,
+            "start": 772.272,
+            "end": 776.174,
+            "text": "It's like\nyour junk is on\na tropical island."
+          },
+          {
+            "index": 286,
+            "start": 777.042,
+            "end": 778.877,
+            "text": "Little Barney says,\n\"Mahalo.\""
+          },
+          {
+            "index": 287,
+            "start": 778.879,
+            "end": 779.711,
+            "text": "Mmm-hmm."
+          },
+          {
+            "index": 288,
+            "start": 779.713,
+            "end": 782.147,
+            "text": "Seriously,\nwhat is wrong\nwith you, Lily?"
+          },
+          {
+            "index": 289,
+            "start": 782.149,
+            "end": 783.114,
+            "text": "How could you do that?"
+          },
+          {
+            "index": 290,
+            "start": 783.116,
+            "end": 785.15,
+            "text": "I did this\nbecause I care about you!"
+          },
+          {
+            "index": 291,
+            "start": 785.152,
+            "end": 789.087,
+            "text": "I am so glad that is\nthe one you watched!"
+          },
+          {
+            "index": 292,
+            "start": 789.089,
+            "end": 791.89,
+            "text": "Dear God,\nwhat happened to you?"
+          },
+          {
+            "index": 293,
+            "start": 793.726,
+            "end": 794.959,
+            "text": "You didn't watch my show?"
+          },
+          {
+            "index": 294,
+            "start": 794.961,
+            "end": 799.097,
+            "text": "Oh! The show. Sorry.\nSomething special\nhappen?"
+          },
+          {
+            "index": 295,
+            "start": 801,
+            "end": 803.134,
+            "text": "(SIGHS) Same old same-old."
+          },
+          {
+            "index": 296,
+            "start": 803.136,
+            "end": 805.937,
+            "text": "Lily just told us that\nshe broke you and me up."
+          },
+          {
+            "index": 297,
+            "start": 805.939,
+            "end": 809.007,
+            "text": "What? Broke us up?\nWhat does that even mean?"
+          },
+          {
+            "index": 298,
+            "start": 809.009,
+            "end": 811.142,
+            "text": "And why\nare these guys\nwearing nightgowns?"
+          },
+          {
+            "index": 299,
+            "start": 811.144,
+            "end": 812.21,
+            "text": "Nightshirt.\nNightshirt."
+          },
+          {
+            "index": 300,
+            "start": 812.212,
+            "end": 813.812,
+            "text": "It's a nightshirt.\nIt's called\na nightshirt, Robin."
+          },
+          {
+            "index": 301,
+            "start": 813.814,
+            "end": 816.047,
+            "text": "Turns out Lily\nhas taken it upon\nherself to sabotage"
+          },
+          {
+            "index": 302,
+            "start": 816.049,
+            "end": 818.116,
+            "text": "many of my relationships,\nincluding ours."
+          },
+          {
+            "index": 303,
+            "start": 818.118,
+            "end": 819.918,
+            "text": "No. Robin was different."
+          },
+          {
+            "index": 304,
+            "start": 819.92,
+            "end": 821.186,
+            "text": "I didn't want you two\nto break up,"
+          },
+          {
+            "index": 305,
+            "start": 821.188,
+            "end": 824.889,
+            "text": "but you wanted completely\ndifferent things out of life"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 801.676257,
+        "topCueIndex": 256,
+        "bottomCueIndex": 295
+      }
     }
   ]
 }
