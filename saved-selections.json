@@ -3347,6 +3347,285 @@
         "topCueIndex": 191,
         "bottomCueIndex": 218
       }
+    },
+    {
+      "id": "aa0e34e4-a55e-48a3-a8df-7a041aef2160",
+      "createdAt": "2026-04-27T21:00:25.816Z",
+      "videoName": "S4E17 - The Front Porch.mkv",
+      "audioTrackName": "S4E17 - The Front Porch.eng.m4a",
+      "selectedText": "wrinkle",
+      "selection": {
+        "rawText": "wrinkle",
+        "startOffset": 41,
+        "endOffset": 48,
+        "cueIndex": 224,
+        "cueStart": 585.452,
+        "cueEnd": 590.789,
+        "cueText": "I have to\nlie perfectly still so I\ndon't wrinkle my suit-jamas."
+      },
+      "context": {
+        "top": [
+          {
+            "index": 186,
+            "start": 545.17,
+            "end": 547.31,
+            "text": "Я могу поручиться за это. Не мог бы ты, приятель,\nскрестить ноги?"
+          },
+          {
+            "index": 187,
+            "start": 547.32,
+            "end": 549.21,
+            "text": "Вторая: Это сексуально."
+          },
+          {
+            "index": 188,
+            "start": 549.23,
+            "end": 550.44,
+            "text": "Я могу поручиться за это."
+          },
+          {
+            "index": 189,
+            "start": 550.46,
+            "end": 552.52,
+            "text": "Раздвинь ноги, приятель?"
+          },
+          {
+            "index": 190,
+            "start": 553.15,
+            "end": 556.87,
+            "text": "Третья: Мой дедушка Олаф носил его\nи дожил до 107 лет."
+          },
+          {
+            "index": 191,
+            "start": 556.91,
+            "end": 562,
+            "text": "Четвертая: Нет эластичного пояса оставляющего\nрозовые отметки вокруг моего живота."
+          },
+          {
+            "index": 192,
+            "start": 562.04,
+            "end": 567.46,
+            "text": "И в пятых: Каждую ночь когда\nя ложусь спать, мне так свежо."
+          },
+          {
+            "index": 193,
+            "start": 567.47,
+            "end": 569.55,
+            "text": "Это лучшее чувство в мире."
+          },
+          {
+            "index": 194,
+            "start": 569.58,
+            "end": 573,
+            "text": "Я чувствую... что я летаю."
+          },
+          {
+            "index": 195,
+            "start": 578.36,
+            "end": 582.43,
+            "text": "Поэтому каждую ночь я ложусь\nспать: счастливым и невесомым."
+          },
+          {
+            "index": 196,
+            "start": 582.47,
+            "end": 585.19,
+            "text": "С сердцем полным радости.\nЧто ты скажешь в ответ?"
+          },
+          {
+            "index": 197,
+            "start": 586.41,
+            "end": 590.73,
+            "text": "Я должен лежать в одном положении,\nчтобы не помять свой пижамный костюм."
+          },
+          {
+            "index": 198,
+            "start": 591.24,
+            "end": 593.92,
+            "text": "Но по крайней мере, я не ношу платье."
+          },
+          {
+            "index": 199,
+            "start": 594.86,
+            "end": 597.73,
+            "text": "Так... Ты считаешь меня сумасшедшей?"
+          },
+          {
+            "index": 200,
+            "start": 597.74,
+            "end": 599.54,
+            "text": "Я не знаю. Я думаю,"
+          },
+          {
+            "index": 201,
+            "start": 599.55,
+            "end": 604.38,
+            "text": "наверное, если вы так уверены насчёт Карен, то может это к лучшему."
+          },
+          {
+            "index": 202,
+            "start": 604.39,
+            "end": 605.97,
+            "text": "Я извиняюсь."
+          },
+          {
+            "index": 203,
+            "start": 606,
+            "end": 609.53,
+            "text": "Я очень не хотела делать это снова,\nно Карен должна уйти."
+          },
+          {
+            "index": 204,
+            "start": 610.49,
+            "end": 615.04,
+            "text": "\"Снова\"? Подожди. Как часто ты\nссорила меня с моими девушками?"
+          },
+          {
+            "index": 205,
+            "start": 615.05,
+            "end": 616.95,
+            "text": "Никогда! Шесть."
+          },
+          {
+            "index": 206,
+            "start": 616.96,
+            "end": 619.83,
+            "text": "- С кем?\n- Ни с кем! С Энджи."
+          }
+        ],
+        "bottom": [
+          {
+            "index": 214,
+            "start": 550.15,
+            "end": 552.284,
+            "text": "Will you uncross\nyour legs, buddy?"
+          },
+          {
+            "index": 215,
+            "start": 552.286,
+            "end": 556.087,
+            "text": "Three, my\ngrandpa Olaf wore one,\nand he lived to be 107."
+          },
+          {
+            "index": 216,
+            "start": 556.089,
+            "end": 560.292,
+            "text": "Four, no elastic waistband\nleaving its judgmental\npink teeth marks"
+          },
+          {
+            "index": 217,
+            "start": 560.294,
+            "end": 561.426,
+            "text": "around my Thanksgiving belly."
+          },
+          {
+            "index": 218,
+            "start": 561.428,
+            "end": 566.531,
+            "text": "And five, every night\nwhen I go to sleep,\nit's the freest,"
+          },
+          {
+            "index": 219,
+            "start": 566.533,
+            "end": 572.871,
+            "text": "most wonderful\nfeeling in the world.\nI feel like I'm flying."
+          },
+          {
+            "index": 220,
+            "start": 572.873,
+            "end": 575.307,
+            "text": "(CHEERFUL MUSIC PLAYING)"
+          },
+          {
+            "index": 221,
+            "start": 577.577,
+            "end": 580.211,
+            "text": "So that's how I go\nto bed every night,"
+          },
+          {
+            "index": 222,
+            "start": 580.213,
+            "end": 583.715,
+            "text": "happy, weightless,\nwith a heart full\nof joy."
+          },
+          {
+            "index": 223,
+            "start": 583.717,
+            "end": 585.45,
+            "text": "What about you?"
+          },
+          {
+            "index": 224,
+            "start": 585.452,
+            "end": 590.789,
+            "text": "I have to\nlie perfectly still so I\ndon't wrinkle my suit-jamas."
+          },
+          {
+            "index": 225,
+            "start": 590.791,
+            "end": 594.225,
+            "text": "But at least I'm\nnot wearing a dress."
+          },
+          {
+            "index": 226,
+            "start": 595.027,
+            "end": 597.963,
+            "text": "(SIGHS) So, how mad are you?"
+          },
+          {
+            "index": 227,
+            "start": 597.965,
+            "end": 599.331,
+            "text": "I don't know. I mean,"
+          },
+          {
+            "index": 228,
+            "start": 599.333,
+            "end": 602.968,
+            "text": "I guess if you guys\nfeel that strongly\nabout Karen,"
+          },
+          {
+            "index": 229,
+            "start": 602.97,
+            "end": 604.869,
+            "text": "then maybe it\nwas for the best."
+          },
+          {
+            "index": 230,
+            "start": 604.871,
+            "end": 605.937,
+            "text": "I really am sorry."
+          },
+          {
+            "index": 231,
+            "start": 605.939,
+            "end": 610.008,
+            "text": "I hated\ndoing that again,\nbut Karen had to go."
+          },
+          {
+            "index": 232,
+            "start": 610.01,
+            "end": 615.58,
+            "text": "Again? Wait. How many times\nhave you broken me up with\na girlfriend?"
+          },
+          {
+            "index": 233,
+            "start": 615.582,
+            "end": 617.082,
+            "text": "Never! Six."
+          },
+          {
+            "index": 234,
+            "start": 617.084,
+            "end": 619.985,
+            "text": "Like who?\nNo one! Angie."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 588.668059,
+        "topCueIndex": 196,
+        "bottomCueIndex": 224
+      }
     }
   ]
 }
