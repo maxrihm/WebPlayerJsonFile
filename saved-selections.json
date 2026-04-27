@@ -5579,6 +5579,285 @@
         "topCueIndex": 256,
         "bottomCueIndex": 295
       }
+    },
+    {
+      "id": "c27fbcc1-b83e-41df-8a79-e7fa70de59e3",
+      "createdAt": "2026-04-27T21:12:07.161Z",
+      "videoName": "S4E17 - The Front Porch.mkv",
+      "audioTrackName": "S4E17 - The Front Porch.eng.m4a",
+      "selectedText": "taken it upon herself",
+      "selection": {
+        "rawText": "taken it upon\nherself",
+        "startOffset": 19,
+        "endOffset": 40,
+        "cueIndex": 301,
+        "cueStart": 813.814,
+        "cueEnd": 816.047,
+        "cueText": "Turns out Lily\nhas taken it upon\nherself to sabotage"
+      },
+      "context": {
+        "top": [
+          {
+            "index": 252,
+            "start": 788.92,
+            "end": 791.75,
+            "text": "О Боже, что с тобой случилось?"
+          },
+          {
+            "index": 253,
+            "start": 793.58,
+            "end": 795.52,
+            "text": "Вы не смотрели шоу?"
+          },
+          {
+            "index": 254,
+            "start": 795.53,
+            "end": 797.57,
+            "text": "Шоу. Извини."
+          },
+          {
+            "index": 255,
+            "start": 797.58,
+            "end": 800.06,
+            "text": "Случилось что-нибудь особенное?"
+          },
+          {
+            "index": 256,
+            "start": 801.23,
+            "end": 803.37,
+            "text": "Ничего нового, Ничего нового."
+          },
+          {
+            "index": 257,
+            "start": 803.4,
+            "end": 805.96,
+            "text": "Лили только что рассказала мне, что\nона виновата в нашем расставании."
+          },
+          {
+            "index": 258,
+            "start": 805.97,
+            "end": 809.11,
+            "text": "Что? Разлучила нас?\nЧто это означает?"
+          },
+          {
+            "index": 259,
+            "start": 809.12,
+            "end": 811.05,
+            "text": "И почему они носят платья?"
+          },
+          {
+            "index": 260,
+            "start": 811.06,
+            "end": 811.92,
+            "text": "- Ночные рубашки.\n- Ночные рубашки."
+          },
+          {
+            "index": 261,
+            "start": 811.93,
+            "end": 813.49,
+            "text": "- Это ночные рубашки.\n- Это ночные рубашки, Робин."
+          },
+          {
+            "index": 262,
+            "start": 813.5,
+            "end": 818.23,
+            "text": "Оказывается Лили виновата в саботаже\nмногих моих отношений, включая наши."
+          },
+          {
+            "index": 263,
+            "start": 818.25,
+            "end": 821.71,
+            "text": "Нет. С Робин всё было иначе.\nЯ не хотела чтобы вы расстались,"
+          },
+          {
+            "index": 264,
+            "start": 821.72,
+            "end": 826.85,
+            "text": "но вы хотели совершенно различные вещи от жизни\nи не могли отказаться от этого."
+          },
+          {
+            "index": 265,
+            "start": 826.88,
+            "end": 829.46,
+            "text": "Я могла представить картину НА ВЕРАНДЕ."
+          },
+          {
+            "index": 266,
+            "start": 829.48,
+            "end": 831.39,
+            "text": "Мм, два черви."
+          },
+          {
+            "index": 267,
+            "start": 831.43,
+            "end": 836.9,
+            "text": "Точно также как сердца двух детей, которых у меня никогда не было, потому что моя жена ненавидит детей."
+          },
+          {
+            "index": 268,
+            "start": 837.43,
+            "end": 839.28,
+            "text": "Мм, двойка."
+          },
+          {
+            "index": 269,
+            "start": 839.31,
+            "end": 844.71,
+            "text": "Моя карьера пошла вниз, как только я\nрешила успокоиться и выйти замуж за Теда."
+          },
+          {
+            "index": 270,
+            "start": 844.72,
+            "end": 847.15,
+            "text": "Бридж! Я выиграла."
+          },
+          {
+            "index": 271,
+            "start": 848.19,
+            "end": 851.67,
+            "text": "Мне не нравится этот сценарий."
+          },
+          {
+            "index": 272,
+            "start": 851.7,
+            "end": 855.72,
+            "text": "Все что я пыталась делать, заставляло\nвас говорить о ваших проблемах."
+          }
+        ],
+        "bottom": [
+          {
+            "index": 291,
+            "start": 785.152,
+            "end": 789.087,
+            "text": "I am so glad that is\nthe one you watched!"
+          },
+          {
+            "index": 292,
+            "start": 789.089,
+            "end": 791.89,
+            "text": "Dear God,\nwhat happened to you?"
+          },
+          {
+            "index": 293,
+            "start": 793.726,
+            "end": 794.959,
+            "text": "You didn't watch my show?"
+          },
+          {
+            "index": 294,
+            "start": 794.961,
+            "end": 799.097,
+            "text": "Oh! The show. Sorry.\nSomething special\nhappen?"
+          },
+          {
+            "index": 295,
+            "start": 801,
+            "end": 803.134,
+            "text": "(SIGHS) Same old same-old."
+          },
+          {
+            "index": 296,
+            "start": 803.136,
+            "end": 805.937,
+            "text": "Lily just told us that\nshe broke you and me up."
+          },
+          {
+            "index": 297,
+            "start": 805.939,
+            "end": 809.007,
+            "text": "What? Broke us up?\nWhat does that even mean?"
+          },
+          {
+            "index": 298,
+            "start": 809.009,
+            "end": 811.142,
+            "text": "And why\nare these guys\nwearing nightgowns?"
+          },
+          {
+            "index": 299,
+            "start": 811.144,
+            "end": 812.21,
+            "text": "Nightshirt.\nNightshirt."
+          },
+          {
+            "index": 300,
+            "start": 812.212,
+            "end": 813.812,
+            "text": "It's a nightshirt.\nIt's called\na nightshirt, Robin."
+          },
+          {
+            "index": 301,
+            "start": 813.814,
+            "end": 816.047,
+            "text": "Turns out Lily\nhas taken it upon\nherself to sabotage"
+          },
+          {
+            "index": 302,
+            "start": 816.049,
+            "end": 818.116,
+            "text": "many of my relationships,\nincluding ours."
+          },
+          {
+            "index": 303,
+            "start": 818.118,
+            "end": 819.918,
+            "text": "No. Robin was different."
+          },
+          {
+            "index": 304,
+            "start": 819.92,
+            "end": 821.186,
+            "text": "I didn't want you two\nto break up,"
+          },
+          {
+            "index": 305,
+            "start": 821.188,
+            "end": 824.889,
+            "text": "but you wanted completely\ndifferent things out of life"
+          },
+          {
+            "index": 306,
+            "start": 824.891,
+            "end": 826.624,
+            "text": "and refused\nto deal with it."
+          },
+          {
+            "index": 307,
+            "start": 826.626,
+            "end": 829.894,
+            "text": "I could just\npicture that\nfront porch."
+          },
+          {
+            "index": 308,
+            "start": 829.896,
+            "end": 831.029,
+            "text": "Hmm. Two of hearts."
+          },
+          {
+            "index": 309,
+            "start": 831.031,
+            "end": 833.932,
+            "text": "Just like the hearts\nof the two children\nI never had"
+          },
+          {
+            "index": 310,
+            "start": 833.934,
+            "end": 837.001,
+            "text": "because my lovely wife\nhates kids."
+          },
+          {
+            "index": 311,
+            "start": 837.77,
+            "end": 838.436,
+            "text": "Mmm, a deuce."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 815.327818,
+        "topCueIndex": 262,
+        "bottomCueIndex": 301
+      }
     }
   ]
 }
