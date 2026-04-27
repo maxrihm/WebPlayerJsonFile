@@ -2510,6 +2510,285 @@
         "topCueIndex": 185,
         "bottomCueIndex": 211
       }
+    },
+    {
+      "id": "b6f4b3c9-5ac5-400a-a67c-bd83d7b2e6c9",
+      "createdAt": "2026-04-27T20:57:12.220Z",
+      "videoName": "S4E17 - The Front Porch.mkv",
+      "audioTrackName": "S4E17 - The Front Porch.eng.m4a",
+      "selectedText": "cross",
+      "selection": {
+        "rawText": "cross",
+        "startOffset": 31,
+        "endOffset": 36,
+        "cueIndex": 211,
+        "cueStart": 544.311,
+        "cueEnd": 547.746,
+        "cueText": "I can vouch for that.\nWill you cross your\nlegs, buddy?"
+      },
+      "context": {
+        "top": [
+          {
+            "index": 175,
+            "start": 512.83,
+            "end": 515.63,
+            "text": "Серьезно, подумай об этом."
+          },
+          {
+            "index": 176,
+            "start": 519.11,
+            "end": 521.51,
+            "text": "- Мы достаточно крутые.\n- Мы полностью крутые!"
+          },
+          {
+            "index": 177,
+            "start": 521.52,
+            "end": 525.86,
+            "text": "На ком бы ты не женился,\nон должен присоединиться к команде крутых,"
+          },
+          {
+            "index": 178,
+            "start": 525.87,
+            "end": 528.7,
+            "text": "планка установлена достаточно высоко."
+          },
+          {
+            "index": 179,
+            "start": 529.01,
+            "end": 531.98,
+            "text": "Посмотри, я не говорю что я права, но..."
+          },
+          {
+            "index": 180,
+            "start": 532,
+            "end": 533.3,
+            "text": "Тебе лучше без нее."
+          },
+          {
+            "index": 181,
+            "start": 533.33,
+            "end": 536.12,
+            "text": "И если ангел Clarence\nговорит что это правда, это точно правда."
+          },
+          {
+            "index": 182,
+            "start": 536.16,
+            "end": 538.62,
+            "text": "Хорошо, знаешь что?\nМожешь шутить дальше."
+          },
+          {
+            "index": 183,
+            "start": 538.63,
+            "end": 540.28,
+            "text": "Серьезно, почему ты носишь это?"
+          },
+          {
+            "index": 184,
+            "start": 540.32,
+            "end": 543.05,
+            "text": "- На это есть много причин.\n- Ты не назовешь даже пяти."
+          },
+          {
+            "index": 185,
+            "start": 543.06,
+            "end": 545.12,
+            "text": "Первая: Нет необходимости носить\nчто-нибудь под ним."
+          },
+          {
+            "index": 186,
+            "start": 545.17,
+            "end": 547.31,
+            "text": "Я могу поручиться за это. Не мог бы ты, приятель,\nскрестить ноги?"
+          },
+          {
+            "index": 187,
+            "start": 547.32,
+            "end": 549.21,
+            "text": "Вторая: Это сексуально."
+          },
+          {
+            "index": 188,
+            "start": 549.23,
+            "end": 550.44,
+            "text": "Я могу поручиться за это."
+          },
+          {
+            "index": 189,
+            "start": 550.46,
+            "end": 552.52,
+            "text": "Раздвинь ноги, приятель?"
+          },
+          {
+            "index": 190,
+            "start": 553.15,
+            "end": 556.87,
+            "text": "Третья: Мой дедушка Олаф носил его\nи дожил до 107 лет."
+          },
+          {
+            "index": 191,
+            "start": 556.91,
+            "end": 562,
+            "text": "Четвертая: Нет эластичного пояса оставляющего\nрозовые отметки вокруг моего живота."
+          },
+          {
+            "index": 192,
+            "start": 562.04,
+            "end": 567.46,
+            "text": "И в пятых: Каждую ночь когда\nя ложусь спать, мне так свежо."
+          },
+          {
+            "index": 193,
+            "start": 567.47,
+            "end": 569.55,
+            "text": "Это лучшее чувство в мире."
+          },
+          {
+            "index": 194,
+            "start": 569.58,
+            "end": 573,
+            "text": "Я чувствую... что я летаю."
+          },
+          {
+            "index": 195,
+            "start": 578.36,
+            "end": 582.43,
+            "text": "Поэтому каждую ночь я ложусь\nспать: счастливым и невесомым."
+          }
+        ],
+        "bottom": [
+          {
+            "index": 201,
+            "start": 521.088,
+            "end": 525.757,
+            "text": "So whoever you marry,\nwhoever joins Team Awesome,"
+          },
+          {
+            "index": 202,
+            "start": 525.759,
+            "end": 528.36,
+            "text": "the bar is set\npretty damn high."
+          },
+          {
+            "index": 203,
+            "start": 528.362,
+            "end": 531.696,
+            "text": "Look, I'm not saying\nwhat I did was right,\nbut..."
+          },
+          {
+            "index": 204,
+            "start": 531.698,
+            "end": 532.664,
+            "text": "You're better\noff without her."
+          },
+          {
+            "index": 205,
+            "start": 532.666,
+            "end": 535.267,
+            "text": "And if Clarence\nthe angel says it's\ntrue, it must be true."
+          },
+          {
+            "index": 206,
+            "start": 535.269,
+            "end": 538.236,
+            "text": "Okay, you know what?\nFine, make your little jokes."
+          },
+          {
+            "index": 207,
+            "start": 538.238,
+            "end": 540.171,
+            "text": "Seriously,\nwhy would you wear\nsomething like that?"
+          },
+          {
+            "index": 208,
+            "start": 540.173,
+            "end": 541.373,
+            "text": "Lots of reasons."
+          },
+          {
+            "index": 209,
+            "start": 541.375,
+            "end": 542.841,
+            "text": "I bet you can't name five."
+          },
+          {
+            "index": 210,
+            "start": 542.843,
+            "end": 544.309,
+            "text": "One,\nno need to wear\nanything underneath."
+          },
+          {
+            "index": 211,
+            "start": 544.311,
+            "end": 547.746,
+            "text": "I can vouch for that.\nWill you cross your\nlegs, buddy?"
+          },
+          {
+            "index": 212,
+            "start": 547.748,
+            "end": 549.18,
+            "text": "Two, sexy."
+          },
+          {
+            "index": 213,
+            "start": 549.182,
+            "end": 550.148,
+            "text": "I can vouch for that."
+          },
+          {
+            "index": 214,
+            "start": 550.15,
+            "end": 552.284,
+            "text": "Will you uncross\nyour legs, buddy?"
+          },
+          {
+            "index": 215,
+            "start": 552.286,
+            "end": 556.087,
+            "text": "Three, my\ngrandpa Olaf wore one,\nand he lived to be 107."
+          },
+          {
+            "index": 216,
+            "start": 556.089,
+            "end": 560.292,
+            "text": "Four, no elastic waistband\nleaving its judgmental\npink teeth marks"
+          },
+          {
+            "index": 217,
+            "start": 560.294,
+            "end": 561.426,
+            "text": "around my Thanksgiving belly."
+          },
+          {
+            "index": 218,
+            "start": 561.428,
+            "end": 566.531,
+            "text": "And five, every night\nwhen I go to sleep,\nit's the freest,"
+          },
+          {
+            "index": 219,
+            "start": 566.533,
+            "end": 572.871,
+            "text": "most wonderful\nfeeling in the world.\nI feel like I'm flying."
+          },
+          {
+            "index": 220,
+            "start": 572.873,
+            "end": 575.307,
+            "text": "(CHEERFUL MUSIC PLAYING)"
+          },
+          {
+            "index": 221,
+            "start": 577.577,
+            "end": 580.211,
+            "text": "So that's how I go\nto bed every night,"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 547.405332,
+        "topCueIndex": 185,
+        "bottomCueIndex": 211
+      }
     }
   ]
 }
