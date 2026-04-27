@@ -5858,6 +5858,285 @@
         "topCueIndex": 262,
         "bottomCueIndex": 301
       }
+    },
+    {
+      "id": "a2a2e96b-5574-49e6-8a7b-04621d3201f3",
+      "createdAt": "2026-04-27T21:15:16.310Z",
+      "videoName": "S4E17 - The Front Porch.mkv",
+      "audioTrackName": "S4E17 - The Front Porch.eng.m4a",
+      "selectedText": "one bit.",
+      "selection": {
+        "rawText": "one bit.",
+        "startOffset": 34,
+        "endOffset": 42,
+        "cueIndex": 314,
+        "cueStart": 847.981,
+        "cueEnd": 851.049,
+        "cueText": "Well, I do not like\nthat scenario one bit."
+      },
+      "context": {
+        "top": [
+          {
+            "index": 261,
+            "start": 811.93,
+            "end": 813.49,
+            "text": "- Это ночные рубашки.\n- Это ночные рубашки, Робин."
+          },
+          {
+            "index": 262,
+            "start": 813.5,
+            "end": 818.23,
+            "text": "Оказывается Лили виновата в саботаже\nмногих моих отношений, включая наши."
+          },
+          {
+            "index": 263,
+            "start": 818.25,
+            "end": 821.71,
+            "text": "Нет. С Робин всё было иначе.\nЯ не хотела чтобы вы расстались,"
+          },
+          {
+            "index": 264,
+            "start": 821.72,
+            "end": 826.85,
+            "text": "но вы хотели совершенно различные вещи от жизни\nи не могли отказаться от этого."
+          },
+          {
+            "index": 265,
+            "start": 826.88,
+            "end": 829.46,
+            "text": "Я могла представить картину НА ВЕРАНДЕ."
+          },
+          {
+            "index": 266,
+            "start": 829.48,
+            "end": 831.39,
+            "text": "Мм, два черви."
+          },
+          {
+            "index": 267,
+            "start": 831.43,
+            "end": 836.9,
+            "text": "Точно также как сердца двух детей, которых у меня никогда не было, потому что моя жена ненавидит детей."
+          },
+          {
+            "index": 268,
+            "start": 837.43,
+            "end": 839.28,
+            "text": "Мм, двойка."
+          },
+          {
+            "index": 269,
+            "start": 839.31,
+            "end": 844.71,
+            "text": "Моя карьера пошла вниз, как только я\nрешила успокоиться и выйти замуж за Теда."
+          },
+          {
+            "index": 270,
+            "start": 844.72,
+            "end": 847.15,
+            "text": "Бридж! Я выиграла."
+          },
+          {
+            "index": 271,
+            "start": 848.19,
+            "end": 851.67,
+            "text": "Мне не нравится этот сценарий."
+          },
+          {
+            "index": 272,
+            "start": 851.7,
+            "end": 855.72,
+            "text": "Все что я пыталась делать, заставляло\nвас говорить о ваших проблемах."
+          },
+          {
+            "index": 273,
+            "start": 855.75,
+            "end": 859.74,
+            "text": "Я не знала, что мои слова приведут к вашему разрыву."
+          },
+          {
+            "index": 274,
+            "start": 859.75,
+            "end": 863.07,
+            "text": "Эй, здесь прикольный вопрос, просто для забавы."
+          },
+          {
+            "index": 275,
+            "start": 863.17,
+            "end": 866.05,
+            "text": "Где ты видишь себя через пять лет?"
+          },
+          {
+            "index": 276,
+            "start": 866.06,
+            "end": 869.03,
+            "text": "Ты знаешь что интересно? Прикольные вопросы."
+          },
+          {
+            "index": 277,
+            "start": 869.25,
+            "end": 872.26,
+            "text": "Где ты видишь себя через пять лет?"
+          },
+          {
+            "index": 278,
+            "start": 872.27,
+            "end": 874.11,
+            "text": "Где ты видишь себя через пять лет?"
+          },
+          {
+            "index": 279,
+            "start": 874.12,
+            "end": 875.81,
+            "text": "Где ты видишь себя?"
+          },
+          {
+            "index": 280,
+            "start": 875.82,
+            "end": 880.32,
+            "text": "Не буду говорить за тебя,\nно возможно ты хочешь выйти замуж."
+          },
+          {
+            "index": 281,
+            "start": 880.35,
+            "end": 882.03,
+            "text": "Я возможно хочу выйти замуж."
+          }
+        ],
+        "bottom": [
+          {
+            "index": 304,
+            "start": 819.92,
+            "end": 821.186,
+            "text": "I didn't want you two\nto break up,"
+          },
+          {
+            "index": 305,
+            "start": 821.188,
+            "end": 824.889,
+            "text": "but you wanted completely\ndifferent things out of life"
+          },
+          {
+            "index": 306,
+            "start": 824.891,
+            "end": 826.624,
+            "text": "and refused\nto deal with it."
+          },
+          {
+            "index": 307,
+            "start": 826.626,
+            "end": 829.894,
+            "text": "I could just\npicture that\nfront porch."
+          },
+          {
+            "index": 308,
+            "start": 829.896,
+            "end": 831.029,
+            "text": "Hmm. Two of hearts."
+          },
+          {
+            "index": 309,
+            "start": 831.031,
+            "end": 833.932,
+            "text": "Just like the hearts\nof the two children\nI never had"
+          },
+          {
+            "index": 310,
+            "start": 833.934,
+            "end": 837.001,
+            "text": "because my lovely wife\nhates kids."
+          },
+          {
+            "index": 311,
+            "start": 837.77,
+            "end": 838.436,
+            "text": "Mmm, a deuce."
+          },
+          {
+            "index": 312,
+            "start": 838.438,
+            "end": 845.109,
+            "text": "Exactly what my career dropped\nonce I decided to settle down\nand marry Ted."
+          },
+          {
+            "index": 313,
+            "start": 845.111,
+            "end": 847.979,
+            "text": "Bridge! I win."
+          },
+          {
+            "index": 314,
+            "start": 847.981,
+            "end": 851.049,
+            "text": "Well, I do not like\nthat scenario one bit."
+          },
+          {
+            "index": 315,
+            "start": 851.051,
+            "end": 855.253,
+            "text": "All I tried\nto do was get you guys\nto talk about your issues."
+          },
+          {
+            "index": 316,
+            "start": 855.255,
+            "end": 857.455,
+            "text": "I didn't know I was\nfeeding you the words"
+          },
+          {
+            "index": 317,
+            "start": 857.457,
+            "end": 859.157,
+            "text": "that would lead\nto your breakup."
+          },
+          {
+            "index": 318,
+            "start": 859.159,
+            "end": 863.161,
+            "text": "Hey, here's a fun question,\njust for fun."
+          },
+          {
+            "index": 319,
+            "start": 863.163,
+            "end": 866.03,
+            "text": "Where do you see\nyourself in five\nyears?"
+          },
+          {
+            "index": 320,
+            "start": 866.032,
+            "end": 869.367,
+            "text": "You know what's fun?\nFun questions."
+          },
+          {
+            "index": 321,
+            "start": 869.369,
+            "end": 872.337,
+            "text": "Where do you see\nyourself in five\nyears?"
+          },
+          {
+            "index": 322,
+            "start": 872.339,
+            "end": 874.205,
+            "text": "Where do you see\nyourself in five\nyears?"
+          },
+          {
+            "index": 323,
+            "start": 874.207,
+            "end": 875.94,
+            "text": "Where do you see yourself?"
+          },
+          {
+            "index": 324,
+            "start": 875.942,
+            "end": 877.508,
+            "text": "Not\nto put words\nin your mouth,"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 850.374498,
+        "topCueIndex": 271,
+        "bottomCueIndex": 314
+      }
     }
   ]
 }
