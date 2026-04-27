@@ -4463,6 +4463,285 @@
         "topCueIndex": 223,
         "bottomCueIndex": 255
       }
+    },
+    {
+      "id": "3b65bc03-a9ba-40fb-8d17-5e623f592437",
+      "createdAt": "2026-04-27T21:06:23.195Z",
+      "videoName": "S4E17 - The Front Porch.mkv",
+      "audioTrackName": "S4E17 - The Front Porch.eng.m4a",
+      "selectedText": "weep",
+      "selection": {
+        "rawText": "weep",
+        "startOffset": 4,
+        "endOffset": 8,
+        "cueIndex": 264,
+        "cueStart": 719.019,
+        "cueEnd": 720.118,
+        "cueText": "You weep for these women,"
+      },
+      "context": {
+        "top": [
+          {
+            "index": 221,
+            "start": 690.25,
+            "end": 692.28,
+            "text": "Ты наркоман обязательств."
+          },
+          {
+            "index": 222,
+            "start": 692.31,
+            "end": 695.74,
+            "text": "Ты был бы несчастлив в любви с этими женщинами,\nдаже если бы они заслуживали тебя."
+          },
+          {
+            "index": 223,
+            "start": 695.79,
+            "end": 698.37,
+            "text": "Что если одной из этих женщин было предназначено\nстать матерью моих детей?"
+          },
+          {
+            "index": 224,
+            "start": 698.41,
+            "end": 702.28,
+            "text": "Если когда-либо был крошечный шанс\nэтого, Я клянусь, я бы ничего ни сделала."
+          },
+          {
+            "index": 225,
+            "start": 702.32,
+            "end": 704.66,
+            "text": "Например, как с Викторией или Стеллой."
+          },
+          {
+            "index": 226,
+            "start": 704.7,
+            "end": 706.67,
+            "text": "Или Робин."
+          },
+          {
+            "index": 227,
+            "start": 707.53,
+            "end": 709.35,
+            "text": "или Робин."
+          },
+          {
+            "index": 228,
+            "start": 709.38,
+            "end": 711.49,
+            "text": "Робин, Робин."
+          },
+          {
+            "index": 229,
+            "start": 711.51,
+            "end": 713.84,
+            "text": "Мы расстались из-за тебя?"
+          },
+          {
+            "index": 230,
+            "start": 714.17,
+            "end": 716.2,
+            "text": "Мы расстались из-за тебя?"
+          },
+          {
+            "index": 231,
+            "start": 716.23,
+            "end": 719.1,
+            "text": "Прекрати говорить со мной так, как будто я твой враг!"
+          },
+          {
+            "index": 232,
+            "start": 719.11,
+            "end": 724.05,
+            "text": "Ты печалишься об этих женщинах,\nно ты не знаешь того что знаю я:"
+          },
+          {
+            "index": 233,
+            "start": 724.09,
+            "end": 728.04,
+            "text": "все эти трагические распады,\nвозможно спасли тебя от дрянного"
+          },
+          {
+            "index": 234,
+            "start": 728.05,
+            "end": 730.05,
+            "text": "и очень дорогого первого брака."
+          },
+          {
+            "index": 235,
+            "start": 730.07,
+            "end": 732.11,
+            "text": "Я и Робин разошлись из-за тебя?"
+          },
+          {
+            "index": 236,
+            "start": 732.15,
+            "end": 736.76,
+            "text": "Ты не хочешь принять правду, поскольку глубоко внутри,\nты хочешь чтобы я присматривала за тобой."
+          },
+          {
+            "index": 237,
+            "start": 736.8,
+            "end": 741.68,
+            "text": "И глубоко внутри, ты знаешь, что ни одна из этих женщин никогда не собиралась быть матерью твоих детей."
+          },
+          {
+            "index": 238,
+            "start": 741.71,
+            "end": 744.11,
+            "text": "- Я и Робин разошлись из-за тебя?\n- Я сделала то что должна была сделать."
+          },
+          {
+            "index": 239,
+            "start": 744.12,
+            "end": 747.72,
+            "text": "- Я и Робин разошлись из-за тебя?\n- Да, Ты можешь осуждать меня!"
+          },
+          {
+            "index": 240,
+            "start": 751.73,
+            "end": 756.44,
+            "text": "Маршалл, твой дедушка\nОлаф был мудрым человеком."
+          },
+          {
+            "index": 241,
+            "start": 761.28,
+            "end": 763.08,
+            "text": "Мы разошлись из-за тебя?"
+          }
+        ],
+        "bottom": [
+          {
+            "index": 254,
+            "start": 695.028,
+            "end": 698.063,
+            "text": "What if one of those\nwomen was supposed to be\nthe mother of my children?"
+          },
+          {
+            "index": 255,
+            "start": 698.065,
+            "end": 700.932,
+            "text": "If there was ever the\ntiniest chance of that,"
+          },
+          {
+            "index": 256,
+            "start": 700.934,
+            "end": 702.5,
+            "text": "I swear I didn't do anything."
+          },
+          {
+            "index": 257,
+            "start": 702.502,
+            "end": 705.07,
+            "text": "Like with Victoria or Stella."
+          },
+          {
+            "index": 258,
+            "start": 705.072,
+            "end": 706.905,
+            "text": "Or Robin."
+          },
+          {
+            "index": 259,
+            "start": 708.107,
+            "end": 709.741,
+            "text": "Or Robin."
+          },
+          {
+            "index": 260,
+            "start": 709.743,
+            "end": 711.743,
+            "text": "Robin, Robin..."
+          },
+          {
+            "index": 261,
+            "start": 711.745,
+            "end": 714.479,
+            "text": "Did you break us up, too?"
+          },
+          {
+            "index": 262,
+            "start": 714.481,
+            "end": 715.98,
+            "text": "Did you break us up, too?"
+          },
+          {
+            "index": 263,
+            "start": 715.982,
+            "end": 719.017,
+            "text": "Stop talking to me\nlike I'm your enemy!"
+          },
+          {
+            "index": 264,
+            "start": 719.019,
+            "end": 720.118,
+            "text": "You weep for these women,"
+          },
+          {
+            "index": 265,
+            "start": 720.12,
+            "end": 724.089,
+            "text": "but you have the luxury\nof not knowing what I know,"
+          },
+          {
+            "index": 266,
+            "start": 724.091,
+            "end": 725.623,
+            "text": "that those breakups,\nwhile tragic,"
+          },
+          {
+            "index": 267,
+            "start": 725.625,
+            "end": 730.095,
+            "text": "probably saved you\nfrom a crappy and very\nexpensive first marriage."
+          },
+          {
+            "index": 268,
+            "start": 730.097,
+            "end": 731.83,
+            "text": "Did you break\nme and Robin up?"
+          },
+          {
+            "index": 269,
+            "start": 731.832,
+            "end": 734.466,
+            "text": "You don't\nwant the truth\nbecause deep down,"
+          },
+          {
+            "index": 270,
+            "start": 734.468,
+            "end": 736.701,
+            "text": "you want me out there\nwatching out for you."
+          },
+          {
+            "index": 271,
+            "start": 736.703,
+            "end": 739.17,
+            "text": "And deep down, you know\nthat none of those women"
+          },
+          {
+            "index": 272,
+            "start": 739.172,
+            "end": 741.873,
+            "text": "were ever gonna be the\nmother of your children."
+          },
+          {
+            "index": 273,
+            "start": 741.875,
+            "end": 743.508,
+            "text": "Did you break\nme and Robin up?"
+          },
+          {
+            "index": 274,
+            "start": 743.51,
+            "end": 744.509,
+            "text": "I did what I had to do."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 719.505715,
+        "topCueIndex": 231,
+        "bottomCueIndex": 264
+      }
     }
   ]
 }
