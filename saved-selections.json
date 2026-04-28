@@ -12554,6 +12554,255 @@
         "topCueIndex": 371,
         "bottomCueIndex": 436
       }
+    },
+    {
+      "id": "26d322b4-bec6-4b28-b148-97f5a0aa168b",
+      "createdAt": "2026-04-28T20:35:46.995Z",
+      "videoName": "S4E17 - The Front Porch.mkv",
+      "audioTrackName": "S4E17 - The Front Porch.eng.m4a",
+      "selectedText": "ground rules",
+      "selection": {
+        "rawText": "ground rules",
+        "startOffset": 44,
+        "endOffset": 56,
+        "cueIndex": 446,
+        "cueStart": 1227.86,
+        "cueEnd": 1230.728,
+        "cueText": "(CLEARING THROAT)\nSo, should we set up\nsome ground rules for this?"
+      },
+      "context": {
+        "top": [
+          {
+            "index": 368,
+            "start": 1181.75,
+            "end": 1184.89,
+            "text": "Но Лили была права. Мы были не готовы."
+          },
+          {
+            "index": 369,
+            "start": 1184.9,
+            "end": 1187.78,
+            "text": "Мы должны идти дальше и заниматься своими делами."
+          },
+          {
+            "index": 370,
+            "start": 1188.47,
+            "end": 1191.31,
+            "text": "Я надеюсь на это."
+          },
+          {
+            "index": 371,
+            "start": 1192.77,
+            "end": 1194.8,
+            "text": "Мы должны заключить договор."
+          },
+          {
+            "index": 372,
+            "start": 1194.85,
+            "end": 1199.74,
+            "text": "Если пройдут годы, нам обоим будет под 40,\nи мы будем все еще одни..."
+          },
+          {
+            "index": 373,
+            "start": 1206.09,
+            "end": 1208.6,
+            "text": "Робин Щербатски..."
+          },
+          {
+            "index": 374,
+            "start": 1208.61,
+            "end": 1211.77,
+            "text": "Вы будете моей запасной женой?"
+          },
+          {
+            "index": 375,
+            "start": 1211.8,
+            "end": 1214.12,
+            "text": "Девушка всегда мечтает услышать эти слова."
+          },
+          {
+            "index": 376,
+            "start": 1214.16,
+            "end": 1217.75,
+            "text": "Да! Да! Миллион раз, да!"
+          },
+          {
+            "index": 377,
+            "start": 1224.91,
+            "end": 1227,
+            "text": "- Хорошо, договорились.\n- Да."
+          },
+          {
+            "index": 378,
+            "start": 1228.31,
+            "end": 1230.36,
+            "text": "Итак. мы должны обговорить некоторые основные правила договора?"
+          },
+          {
+            "index": 379,
+            "start": 1230.41,
+            "end": 1231.11,
+            "text": "Что именно?"
+          },
+          {
+            "index": 380,
+            "start": 1231.15,
+            "end": 1234.12,
+            "text": "Я не знаю. Никто из нас не может потолстеть. Что-то типа этого."
+          },
+          {
+            "index": 381,
+            "start": 1234.13,
+            "end": 1236.6,
+            "text": "Отлично,у меня тоже есть предложение:\nты не можешь носить ночную рубашку."
+          },
+          {
+            "index": 382,
+            "start": 1236.64,
+            "end": 1240.07,
+            "text": "- Я никогда не буду носить ночную рубашку.\n- Спасибо Господи."
+          },
+          {
+            "index": 383,
+            "start": 1256.72,
+            "end": 1258.64,
+            "text": "Ничего."
+          },
+          {
+            "index": 384,
+            "start": 1258.96,
+            "end": 1261.18,
+            "text": "Неееееееееееееет!"
+          }
+        ],
+        "bottom": [
+          {
+            "index": 436,
+            "start": 1193.091,
+            "end": 1194.892,
+            "text": "We should make a pact."
+          },
+          {
+            "index": 437,
+            "start": 1194.894,
+            "end": 1198.129,
+            "text": "If the years go by,\nand we both turn 40,"
+          },
+          {
+            "index": 438,
+            "start": 1198.131,
+            "end": 1200.731,
+            "text": "and we're still single, we..."
+          },
+          {
+            "index": 439,
+            "start": 1205.837,
+            "end": 1211.042,
+            "text": "Robin Scherbatsky,\nwill you be my backup wife?"
+          },
+          {
+            "index": 440,
+            "start": 1211.61,
+            "end": 1214.078,
+            "text": "A girl always dreams\nof hearing those words."
+          },
+          {
+            "index": 441,
+            "start": 1214.08,
+            "end": 1217.481,
+            "text": "Yes! Yes!\nA million times, yes!"
+          },
+          {
+            "index": 442,
+            "start": 1217.483,
+            "end": 1219.383,
+            "text": "(ROBIN GIGGLING)"
+          },
+          {
+            "index": 443,
+            "start": 1222.788,
+            "end": 1224.388,
+            "text": "(SOFTLY) Thank you."
+          },
+          {
+            "index": 444,
+            "start": 1224.856,
+            "end": 1226.991,
+            "text": "All right, it's a deal.\nYeah."
+          },
+          {
+            "index": 445,
+            "start": 1226.993,
+            "end": 1227.858,
+            "text": "(BOTH EXCLAIM)"
+          },
+          {
+            "index": 446,
+            "start": 1227.86,
+            "end": 1230.728,
+            "text": "(CLEARING THROAT)\nSo, should we set up\nsome ground rules for this?"
+          },
+          {
+            "index": 447,
+            "start": 1230.73,
+            "end": 1231.128,
+            "text": "Okay, like what?"
+          },
+          {
+            "index": 448,
+            "start": 1231.13,
+            "end": 1233.798,
+            "text": "I don't know. Like neither\none of us can get super fat.\nStuff like that."
+          },
+          {
+            "index": 449,
+            "start": 1233.8,
+            "end": 1236.167,
+            "text": "Okay, I only have one,\nyou can't wear a nightshirt."
+          },
+          {
+            "index": 450,
+            "start": 1236.169,
+            "end": 1238.135,
+            "text": "I will never\nwear a nightshirt."
+          },
+          {
+            "index": 451,
+            "start": 1238.137,
+            "end": 1239.971,
+            "text": "Thank God."
+          },
+          {
+            "index": 452,
+            "start": 1243.942,
+            "end": 1245.81,
+            "text": "(DOORBELL RINGING)"
+          },
+          {
+            "index": 453,
+            "start": 1247.646,
+            "end": 1248.98,
+            "text": "(GRUNTS)"
+          },
+          {
+            "index": 454,
+            "start": 1256.788,
+            "end": 1259.357,
+            "text": "Never mind."
+          },
+          {
+            "index": 455,
+            "start": 1259.825,
+            "end": 1261.058,
+            "text": "No!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1228.755274,
+        "topCueIndex": 378,
+        "bottomCueIndex": 446
+      }
     }
   ]
 }
