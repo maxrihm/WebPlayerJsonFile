@@ -6137,6 +6137,285 @@
         "topCueIndex": 271,
         "bottomCueIndex": 314
       }
+    },
+    {
+      "id": "9983abb2-c1bf-4a0c-8896-c1cfed8032a3",
+      "createdAt": "2026-04-28T20:11:42.219Z",
+      "videoName": "S4E17 - The Front Porch.mkv",
+      "audioTrackName": "S4E17 - The Front Porch.eng.m4a",
+      "selectedText": "put words in your mouth,",
+      "selection": {
+        "rawText": "put words\nin your mouth,",
+        "startOffset": 7,
+        "endOffset": 31,
+        "cueIndex": 324,
+        "cueStart": 875.942,
+        "cueEnd": 877.508,
+        "cueText": "Not\nto put words\nin your mouth,"
+      },
+      "context": {
+        "top": [
+          {
+            "index": 270,
+            "start": 844.72,
+            "end": 847.15,
+            "text": "Бридж! Я выиграла."
+          },
+          {
+            "index": 271,
+            "start": 848.19,
+            "end": 851.67,
+            "text": "Мне не нравится этот сценарий."
+          },
+          {
+            "index": 272,
+            "start": 851.7,
+            "end": 855.72,
+            "text": "Все что я пыталась делать, заставляло\nвас говорить о ваших проблемах."
+          },
+          {
+            "index": 273,
+            "start": 855.75,
+            "end": 859.74,
+            "text": "Я не знала, что мои слова приведут к вашему разрыву."
+          },
+          {
+            "index": 274,
+            "start": 859.75,
+            "end": 863.07,
+            "text": "Эй, здесь прикольный вопрос, просто для забавы."
+          },
+          {
+            "index": 275,
+            "start": 863.17,
+            "end": 866.05,
+            "text": "Где ты видишь себя через пять лет?"
+          },
+          {
+            "index": 276,
+            "start": 866.06,
+            "end": 869.03,
+            "text": "Ты знаешь что интересно? Прикольные вопросы."
+          },
+          {
+            "index": 277,
+            "start": 869.25,
+            "end": 872.26,
+            "text": "Где ты видишь себя через пять лет?"
+          },
+          {
+            "index": 278,
+            "start": 872.27,
+            "end": 874.11,
+            "text": "Где ты видишь себя через пять лет?"
+          },
+          {
+            "index": 279,
+            "start": 874.12,
+            "end": 875.81,
+            "text": "Где ты видишь себя?"
+          },
+          {
+            "index": 280,
+            "start": 875.82,
+            "end": 880.32,
+            "text": "Не буду говорить за тебя,\nно возможно ты хочешь выйти замуж."
+          },
+          {
+            "index": 281,
+            "start": 880.35,
+            "end": 882.03,
+            "text": "Я возможно хочу выйти замуж."
+          },
+          {
+            "index": 282,
+            "start": 882.05,
+            "end": 885.3,
+            "text": "Ты возможно хочешь побывать в Токио или Париже."
+          },
+          {
+            "index": 283,
+            "start": 885.33,
+            "end": 888.74,
+            "text": "Возможно я хочу побывать в Аргентине."
+          },
+          {
+            "index": 284,
+            "start": 888.75,
+            "end": 889.68,
+            "text": "В Аргентине?"
+          },
+          {
+            "index": 285,
+            "start": 889.71,
+            "end": 892.35,
+            "text": "Или Токио или Париже."
+          },
+          {
+            "index": 286,
+            "start": 892.87,
+            "end": 895.36,
+            "text": "Наши отношения иссякли, не так ли?"
+          },
+          {
+            "index": 287,
+            "start": 895.39,
+            "end": 896.36,
+            "text": "Oх, Боже мой."
+          },
+          {
+            "index": 288,
+            "start": 896.4,
+            "end": 899.55,
+            "text": "Лили, ты не можешь манипулировать людьми!"
+          },
+          {
+            "index": 289,
+            "start": 899.6,
+            "end": 903.77,
+            "text": "- Я знаю тебя 12 лет, и я могу честно сказать,\nчто я никогда не был так зол на тебя."
+          },
+          {
+            "index": 290,
+            "start": 903.81,
+            "end": 906.56,
+            "text": "- Слушай, Я не думала что... Я была только...\n- Нет! Я даже не хочу слышать этого!"
+          }
+        ],
+        "bottom": [
+          {
+            "index": 314,
+            "start": 847.981,
+            "end": 851.049,
+            "text": "Well, I do not like\nthat scenario one bit."
+          },
+          {
+            "index": 315,
+            "start": 851.051,
+            "end": 855.253,
+            "text": "All I tried\nto do was get you guys\nto talk about your issues."
+          },
+          {
+            "index": 316,
+            "start": 855.255,
+            "end": 857.455,
+            "text": "I didn't know I was\nfeeding you the words"
+          },
+          {
+            "index": 317,
+            "start": 857.457,
+            "end": 859.157,
+            "text": "that would lead\nto your breakup."
+          },
+          {
+            "index": 318,
+            "start": 859.159,
+            "end": 863.161,
+            "text": "Hey, here's a fun question,\njust for fun."
+          },
+          {
+            "index": 319,
+            "start": 863.163,
+            "end": 866.03,
+            "text": "Where do you see\nyourself in five\nyears?"
+          },
+          {
+            "index": 320,
+            "start": 866.032,
+            "end": 869.367,
+            "text": "You know what's fun?\nFun questions."
+          },
+          {
+            "index": 321,
+            "start": 869.369,
+            "end": 872.337,
+            "text": "Where do you see\nyourself in five\nyears?"
+          },
+          {
+            "index": 322,
+            "start": 872.339,
+            "end": 874.205,
+            "text": "Where do you see\nyourself in five\nyears?"
+          },
+          {
+            "index": 323,
+            "start": 874.207,
+            "end": 875.94,
+            "text": "Where do you see yourself?"
+          },
+          {
+            "index": 324,
+            "start": 875.942,
+            "end": 877.508,
+            "text": "Not\nto put words\nin your mouth,"
+          },
+          {
+            "index": 325,
+            "start": 877.51,
+            "end": 880.178,
+            "text": "but you probably\nwant to be married."
+          },
+          {
+            "index": 326,
+            "start": 880.18,
+            "end": 882.046,
+            "text": "I probably\nwant to be married."
+          },
+          {
+            "index": 327,
+            "start": 882.048,
+            "end": 885.216,
+            "text": "You probably want to\nbe in Tokyo or Paris."
+          },
+          {
+            "index": 328,
+            "start": 885.218,
+            "end": 889.287,
+            "text": "I probably want\nto be in Argentina."
+          },
+          {
+            "index": 329,
+            "start": 889.289,
+            "end": 890.388,
+            "text": "Argentina?"
+          },
+          {
+            "index": 330,
+            "start": 890.39,
+            "end": 892.857,
+            "text": "Or Tokyo or Paris."
+          },
+          {
+            "index": 331,
+            "start": 892.859,
+            "end": 895.827,
+            "text": "We have\nan expiration\ndate, don't we?"
+          },
+          {
+            "index": 332,
+            "start": 895.829,
+            "end": 897.228,
+            "text": "Oh, my God.\nLily,"
+          },
+          {
+            "index": 333,
+            "start": 897.23,
+            "end": 899.898,
+            "text": "you can't manipulate\npeople like that!"
+          },
+          {
+            "index": 334,
+            "start": 899.9,
+            "end": 902.066,
+            "text": "I've known you 12 years,\nand I can honestly say,"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 877.278277,
+        "topCueIndex": 280,
+        "bottomCueIndex": 324
+      }
     }
   ]
 }
