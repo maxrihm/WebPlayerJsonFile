@@ -7532,6 +7532,285 @@
         "topCueIndex": 303,
         "bottomCueIndex": 352
       }
+    },
+    {
+      "id": "9e343051-9b42-4b55-a606-13d028d4213b",
+      "createdAt": "2026-04-28T20:16:01.730Z",
+      "videoName": "S4E17 - The Front Porch.mkv",
+      "audioTrackName": "S4E17 - The Front Porch.eng.m4a",
+      "selectedText": "concerned",
+      "selection": {
+        "rawText": "concerned",
+        "startOffset": 10,
+        "endOffset": 19,
+        "cueIndex": 356,
+        "cueStart": 948.348,
+        "cueEnd": 951.049,
+        "cueText": "You're so concerned about\nwho you and Marshall are\ngonna end up"
+      },
+      "context": {
+        "top": [
+          {
+            "index": 295,
+            "start": 916.27,
+            "end": 919.89,
+            "text": "Итак, если бы не ты,\nТед и Я могли бы все еще встречаться?"
+          },
+          {
+            "index": 296,
+            "start": 919.9,
+            "end": 922.74,
+            "text": "Или вы были бы вместе слишком долго,"
+          },
+          {
+            "index": 297,
+            "start": 922.78,
+            "end": 926.69,
+            "text": "невероятно горько расстались бы\nи не остались бы даже друзьями,"
+          },
+          {
+            "index": 298,
+            "start": 926.72,
+            "end": 930.2,
+            "text": "и тогда ты и я никогда не\nстали бы лучшими друзьями."
+          },
+          {
+            "index": 299,
+            "start": 930.23,
+            "end": 933.13,
+            "text": "Даже не говори так. Хорошо?"
+          },
+          {
+            "index": 300,
+            "start": 933.14,
+            "end": 934.69,
+            "text": "Прекратите обниматься!"
+          },
+          {
+            "index": 301,
+            "start": 934.73,
+            "end": 938.96,
+            "text": "Лили, ты не имеешь права\nвмешиваться в мои отношения."
+          },
+          {
+            "index": 302,
+            "start": 938.99,
+            "end": 940.04,
+            "text": "Ты стала счастливой. Хорошо?"
+          },
+          {
+            "index": 303,
+            "start": 940.05,
+            "end": 943.44,
+            "text": "Ты встретила любовь своей жизни в\nприхожей общежития, когда тебе было 18."
+          },
+          {
+            "index": 304,
+            "start": 943.49,
+            "end": 945.16,
+            "text": "Но это не дает тебе право изображать из себя Бога,"
+          },
+          {
+            "index": 305,
+            "start": 945.22,
+            "end": 948.71,
+            "text": "оставшаяся часть - нас смертных все еще ищут кого-то."
+          },
+          {
+            "index": 306,
+            "start": 948.72,
+            "end": 952.01,
+            "text": "Ты слишком обеспокоена тем, с кем вы и Маршалл\nсобираетесь остаться на той веранде."
+          },
+          {
+            "index": 307,
+            "start": 952.05,
+            "end": 953.82,
+            "text": "Хорошо, ты знаешь что?"
+          },
+          {
+            "index": 308,
+            "start": 953.85,
+            "end": 956.39,
+            "text": "Живите там сами."
+          },
+          {
+            "index": 309,
+            "start": 961.11,
+            "end": 962.34,
+            "text": "Что случилось с твоим жакетом?"
+          },
+          {
+            "index": 310,
+            "start": 962.38,
+            "end": 965.79,
+            "text": "Oх, сажа, хлебные крошки, плацента."
+          },
+          {
+            "index": 311,
+            "start": 965.8,
+            "end": 968.83,
+            "text": "Вы хоть записали шоу?"
+          },
+          {
+            "index": 312,
+            "start": 970.34,
+            "end": 974.5,
+            "text": "Так тебе удобно каждую ночь,\nи Лили все еще занимается сексом с тобой?"
+          },
+          {
+            "index": 313,
+            "start": 974.51,
+            "end": 977.85,
+            "text": "Да. Это брак, безоговорочная любовь."
+          },
+          {
+            "index": 314,
+            "start": 977.86,
+            "end": 980.56,
+            "text": "Ты можешь носить все что захочешь,\nда еще и трахаться."
+          },
+          {
+            "index": 315,
+            "start": 981.36,
+            "end": 983.97,
+            "text": "Расскажи мне больше о том как быть женатым."
+          }
+        ],
+        "bottom": [
+          {
+            "index": 346,
+            "start": 925.392,
+            "end": 927.091,
+            "text": "and not even\nremained friends,"
+          },
+          {
+            "index": 347,
+            "start": 927.093,
+            "end": 930.061,
+            "text": "and then\nyou and I would never\nhave become best friends."
+          },
+          {
+            "index": 348,
+            "start": 930.063,
+            "end": 933.031,
+            "text": "Don't even say that.\nOkay?"
+          },
+          {
+            "index": 349,
+            "start": 933.599,
+            "end": 934.232,
+            "text": "Stop hugging!"
+          },
+          {
+            "index": 350,
+            "start": 934.234,
+            "end": 939.17,
+            "text": "Lily, you had no right\nto interfere in my\nrelationships."
+          },
+          {
+            "index": 351,
+            "start": 939.172,
+            "end": 940.204,
+            "text": "You got lucky. Okay?"
+          },
+          {
+            "index": 352,
+            "start": 940.206,
+            "end": 943.174,
+            "text": "You met the love of your life\nin a dorm hallway when you\nwere 18."
+          },
+          {
+            "index": 353,
+            "start": 943.176,
+            "end": 945.31,
+            "text": "But that doesn't give\nyou the right to play\nGod"
+          },
+          {
+            "index": 354,
+            "start": 945.312,
+            "end": 947.045,
+            "text": "to the rest of us\nmortals down here"
+          },
+          {
+            "index": 355,
+            "start": 947.047,
+            "end": 948.346,
+            "text": "who are still\nlooking for someone."
+          },
+          {
+            "index": 356,
+            "start": 948.348,
+            "end": 951.049,
+            "text": "You're so concerned about\nwho you and Marshall are\ngonna end up"
+          },
+          {
+            "index": 357,
+            "start": 951.051,
+            "end": 952.283,
+            "text": "on that front porch with."
+          },
+          {
+            "index": 358,
+            "start": 952.285,
+            "end": 956.988,
+            "text": "Well, you know what?\nYou can have it to\nyourselves."
+          },
+          {
+            "index": 359,
+            "start": 957.957,
+            "end": 959.223,
+            "text": "(DOOR SLAMS)"
+          },
+          {
+            "index": 360,
+            "start": 961.026,
+            "end": 963.094,
+            "text": "What happened\nto your jacket?"
+          },
+          {
+            "index": 361,
+            "start": 963.096,
+            "end": 966.03,
+            "text": "Soot, bread crumbs, placenta."
+          },
+          {
+            "index": 362,
+            "start": 966.032,
+            "end": 968.599,
+            "text": "Did you at least TiVo it?"
+          },
+          {
+            "index": 363,
+            "start": 968.601,
+            "end": 969.968,
+            "text": "(SIGHS)"
+          },
+          {
+            "index": 364,
+            "start": 970.302,
+            "end": 972.37,
+            "text": "So, you're this\ncomfy every night,"
+          },
+          {
+            "index": 365,
+            "start": 972.372,
+            "end": 974.205,
+            "text": "and Lily still\nhas sex with you?"
+          },
+          {
+            "index": 366,
+            "start": 974.207,
+            "end": 977.542,
+            "text": "Yeah. That's what\nmarriage is all about,\nman, unconditional love."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 950.299013,
+        "topCueIndex": 305,
+        "bottomCueIndex": 356
+      }
     }
   ]
 }
