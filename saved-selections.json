@@ -6695,6 +6695,285 @@
         "topCueIndex": 291,
         "bottomCueIndex": 339
       }
+    },
+    {
+      "id": "c8a20f08-e946-4826-ac7b-ed4f54c44b00",
+      "createdAt": "2026-04-28T20:13:58.097Z",
+      "videoName": "S4E17 - The Front Porch.mkv",
+      "audioTrackName": "S4E17 - The Front Porch.eng.m4a",
+      "selectedText": "if it weren't for you,",
+      "selection": {
+        "rawText": "if it weren't for you,",
+        "startOffset": 4,
+        "endOffset": 26,
+        "cueIndex": 343,
+        "cueStart": 915.916,
+        "cueEnd": 919.918,
+        "cueText": "So, if it weren't for you,\nTed and I might still be\ndating?"
+      },
+      "context": {
+        "top": [
+          {
+            "index": 285,
+            "start": 889.71,
+            "end": 892.35,
+            "text": "Или Токио или Париже."
+          },
+          {
+            "index": 286,
+            "start": 892.87,
+            "end": 895.36,
+            "text": "Наши отношения иссякли, не так ли?"
+          },
+          {
+            "index": 287,
+            "start": 895.39,
+            "end": 896.36,
+            "text": "Oх, Боже мой."
+          },
+          {
+            "index": 288,
+            "start": 896.4,
+            "end": 899.55,
+            "text": "Лили, ты не можешь манипулировать людьми!"
+          },
+          {
+            "index": 289,
+            "start": 899.6,
+            "end": 903.77,
+            "text": "- Я знаю тебя 12 лет, и я могу честно сказать,\nчто я никогда не был так зол на тебя."
+          },
+          {
+            "index": 290,
+            "start": 903.81,
+            "end": 906.56,
+            "text": "- Слушай, Я не думала что... Я была только...\n- Нет! Я даже не хочу слышать этого!"
+          },
+          {
+            "index": 291,
+            "start": 907.73,
+            "end": 909.73,
+            "text": "Успокойся! Просто успокойся!"
+          },
+          {
+            "index": 292,
+            "start": 909.74,
+            "end": 912.13,
+            "text": "Нет, Я должен задать один вопрос."
+          },
+          {
+            "index": 293,
+            "start": 912.17,
+            "end": 913.7,
+            "text": "Как эти плохие мальчики почувствуют себя в постели?"
+          },
+          {
+            "index": 294,
+            "start": 913.73,
+            "end": 915.54,
+            "text": "Иди за мной. Проверим."
+          },
+          {
+            "index": 295,
+            "start": 916.27,
+            "end": 919.89,
+            "text": "Итак, если бы не ты,\nТед и Я могли бы все еще встречаться?"
+          },
+          {
+            "index": 296,
+            "start": 919.9,
+            "end": 922.74,
+            "text": "Или вы были бы вместе слишком долго,"
+          },
+          {
+            "index": 297,
+            "start": 922.78,
+            "end": 926.69,
+            "text": "невероятно горько расстались бы\nи не остались бы даже друзьями,"
+          },
+          {
+            "index": 298,
+            "start": 926.72,
+            "end": 930.2,
+            "text": "и тогда ты и я никогда не\nстали бы лучшими друзьями."
+          },
+          {
+            "index": 299,
+            "start": 930.23,
+            "end": 933.13,
+            "text": "Даже не говори так. Хорошо?"
+          },
+          {
+            "index": 300,
+            "start": 933.14,
+            "end": 934.69,
+            "text": "Прекратите обниматься!"
+          },
+          {
+            "index": 301,
+            "start": 934.73,
+            "end": 938.96,
+            "text": "Лили, ты не имеешь права\nвмешиваться в мои отношения."
+          },
+          {
+            "index": 302,
+            "start": 938.99,
+            "end": 940.04,
+            "text": "Ты стала счастливой. Хорошо?"
+          },
+          {
+            "index": 303,
+            "start": 940.05,
+            "end": 943.44,
+            "text": "Ты встретила любовь своей жизни в\nприхожей общежития, когда тебе было 18."
+          },
+          {
+            "index": 304,
+            "start": 943.49,
+            "end": 945.16,
+            "text": "Но это не дает тебе право изображать из себя Бога,"
+          },
+          {
+            "index": 305,
+            "start": 945.22,
+            "end": 948.71,
+            "text": "оставшаяся часть - нас смертных все еще ищут кого-то."
+          }
+        ],
+        "bottom": [
+          {
+            "index": 333,
+            "start": 897.23,
+            "end": 899.898,
+            "text": "you can't manipulate\npeople like that!"
+          },
+          {
+            "index": 334,
+            "start": 899.9,
+            "end": 902.066,
+            "text": "I've known you 12 years,\nand I can honestly say,"
+          },
+          {
+            "index": 335,
+            "start": 902.068,
+            "end": 903.968,
+            "text": "I have never been\nmore furious at you!"
+          },
+          {
+            "index": 336,
+            "start": 903.97,
+            "end": 905.236,
+            "text": "Look, I didn't mean to...\nI was just..."
+          },
+          {
+            "index": 337,
+            "start": 905.238,
+            "end": 907.138,
+            "text": "No!\nI don't even\nwant to hear it!"
+          },
+          {
+            "index": 338,
+            "start": 907.14,
+            "end": 907.939,
+            "text": "Whoa, whoa, whoa!"
+          },
+          {
+            "index": 339,
+            "start": 907.941,
+            "end": 910.208,
+            "text": "Settle down!\nLet's just settle down!"
+          },
+          {
+            "index": 340,
+            "start": 910.21,
+            "end": 912.176,
+            "text": "Now, I have one question."
+          },
+          {
+            "index": 341,
+            "start": 912.178,
+            "end": 914.178,
+            "text": "What do these bad\nboys feel like in bed?"
+          },
+          {
+            "index": 342,
+            "start": 914.18,
+            "end": 915.914,
+            "text": "Come on. Let's go see."
+          },
+          {
+            "index": 343,
+            "start": 915.916,
+            "end": 919.918,
+            "text": "So, if it weren't for you,\nTed and I might still be\ndating?"
+          },
+          {
+            "index": 344,
+            "start": 919.92,
+            "end": 922.854,
+            "text": "Or you\nwould have stayed\ntogether far too long,"
+          },
+          {
+            "index": 345,
+            "start": 922.856,
+            "end": 925.39,
+            "text": "had\nan incredibly\nbitter breakup"
+          },
+          {
+            "index": 346,
+            "start": 925.392,
+            "end": 927.091,
+            "text": "and not even\nremained friends,"
+          },
+          {
+            "index": 347,
+            "start": 927.093,
+            "end": 930.061,
+            "text": "and then\nyou and I would never\nhave become best friends."
+          },
+          {
+            "index": 348,
+            "start": 930.063,
+            "end": 933.031,
+            "text": "Don't even say that.\nOkay?"
+          },
+          {
+            "index": 349,
+            "start": 933.599,
+            "end": 934.232,
+            "text": "Stop hugging!"
+          },
+          {
+            "index": 350,
+            "start": 934.234,
+            "end": 939.17,
+            "text": "Lily, you had no right\nto interfere in my\nrelationships."
+          },
+          {
+            "index": 351,
+            "start": 939.172,
+            "end": 940.204,
+            "text": "You got lucky. Okay?"
+          },
+          {
+            "index": 352,
+            "start": 940.206,
+            "end": 943.174,
+            "text": "You met the love of your life\nin a dorm hallway when you\nwere 18."
+          },
+          {
+            "index": 353,
+            "start": 943.176,
+            "end": 945.31,
+            "text": "But that doesn't give\nyou the right to play\nGod"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 918.31962,
+        "topCueIndex": 295,
+        "bottomCueIndex": 343
+      }
     }
   ]
 }
