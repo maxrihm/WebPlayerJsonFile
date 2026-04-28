@@ -11438,6 +11438,285 @@
         "topCueIndex": 349,
         "bottomCueIndex": 407
       }
+    },
+    {
+      "id": "42a7ae2e-d26c-4ccc-837c-0ee9b320cb7d",
+      "createdAt": "2026-04-28T20:29:57.262Z",
+      "videoName": "S4E17 - The Front Porch.mkv",
+      "audioTrackName": "S4E17 - The Front Porch.eng.m4a",
+      "selectedText": "obituary.",
+      "selection": {
+        "rawText": "obituary.",
+        "startOffset": 19,
+        "endOffset": 28,
+        "cueIndex": 409,
+        "cueStart": 1121.788,
+        "cueEnd": 1124.455,
+        "cueText": "Anyway, here's his obituary."
+      },
+      "context": {
+        "top": [
+          {
+            "index": 341,
+            "start": 1083.51,
+            "end": 1086.24,
+            "text": "P.S. Жаль конверт был уже открыт."
+          },
+          {
+            "index": 342,
+            "start": 1086.28,
+            "end": 1089.41,
+            "text": "Я должен прочитать что она написала. Маршалл."
+          },
+          {
+            "index": 343,
+            "start": 1090.04,
+            "end": 1091.85,
+            "text": "Саботаж наших отношений?"
+          },
+          {
+            "index": 344,
+            "start": 1091.89,
+            "end": 1097.09,
+            "text": "Я должна сказать, что даже зная твоих друзей,"
+          },
+          {
+            "index": 345,
+            "start": 1097.11,
+            "end": 1099.28,
+            "text": "Лили действительно превзошла себя на сей раз."
+          },
+          {
+            "index": 346,
+            "start": 1099.32,
+            "end": 1101.72,
+            "text": "Очевидно мы никогда не увидим ее снова."
+          },
+          {
+            "index": 347,
+            "start": 1101.73,
+            "end": 1104.69,
+            "text": "Я знаю. Это большая потеря, правда?"
+          },
+          {
+            "index": 348,
+            "start": 1108.7,
+            "end": 1111.65,
+            "text": "Эй, помнишь парня из твоей старой комнаты в колледже?"
+          },
+          {
+            "index": 349,
+            "start": 1111.67,
+            "end": 1115.59,
+            "text": "Он был женат на той противной\nмаленькой слабоумной девочке."
+          },
+          {
+            "index": 350,
+            "start": 1115.6,
+            "end": 1119.6,
+            "text": "Маршалл. Ох, это было так давно."
+          },
+          {
+            "index": 351,
+            "start": 1119.61,
+            "end": 1121.89,
+            "text": "О боже, я ненавидела его."
+          },
+          {
+            "index": 352,
+            "start": 1121.91,
+            "end": 1124.4,
+            "text": "Так или иначе, вот его некролог"
+          },
+          {
+            "index": 353,
+            "start": 1126.04,
+            "end": 1130.13,
+            "text": "И я понял, возможно не должно иметь значения,\nчто мои друзья думают о моей подруге,"
+          },
+          {
+            "index": 354,
+            "start": 1130.16,
+            "end": 1134.19,
+            "text": "но я уверен, имеет значение то,\nчто моя подруга думает о моих друзьях"
+          },
+          {
+            "index": 355,
+            "start": 1135.04,
+            "end": 1137.32,
+            "text": "- Итак, это конец?\n- Да."
+          },
+          {
+            "index": 356,
+            "start": 1138.93,
+            "end": 1143.04,
+            "text": "Не хочешь ли быть моей парой на сегодня,\nЛили адски хороший повар."
+          },
+          {
+            "index": 357,
+            "start": 1143.92,
+            "end": 1148.08,
+            "text": "Пирог из говядины и сыр,\nсамодельные молочные булочки."
+          },
+          {
+            "index": 358,
+            "start": 1148.12,
+            "end": 1151.22,
+            "text": "Понятно, неудивительно что Маршалл умрет в 68."
+          },
+          {
+            "index": 359,
+            "start": 1153.06,
+            "end": 1154.45,
+            "text": "Спасибо тебе."
+          },
+          {
+            "index": 360,
+            "start": 1154.49,
+            "end": 1157.12,
+            "text": "Итак, Робин и я наслаждались прекрасным обедом."
+          },
+          {
+            "index": 361,
+            "start": 1157.15,
+            "end": 1158.98,
+            "text": "Для нее это был затрак."
+          }
+        ],
+        "bottom": [
+          {
+            "index": 399,
+            "start": 1085.919,
+            "end": 1089.687,
+            "text": "\"I had to read what\nshe wrote. Marshall.\""
+          },
+          {
+            "index": 400,
+            "start": 1089.689,
+            "end": 1092.39,
+            "text": "Sabotaging our relationship?\nI got to say,"
+          },
+          {
+            "index": 401,
+            "start": 1092.392,
+            "end": 1095.493,
+            "text": "even using\nthe specially-ordered,\nextra-low bar by which I"
+          },
+          {
+            "index": 402,
+            "start": 1095.495,
+            "end": 1099.397,
+            "text": "judge your friends,\nLily really outdid\nherself this time."
+          },
+          {
+            "index": 403,
+            "start": 1099.399,
+            "end": 1101.699,
+            "text": "Obviously,\nwe can't ever\nsee her again."
+          },
+          {
+            "index": 404,
+            "start": 1101.701,
+            "end": 1105.536,
+            "text": "I know.\nIt's a big loss, right?"
+          },
+          {
+            "index": 405,
+            "start": 1108.273,
+            "end": 1110.942,
+            "text": "Hey,\nremember your\nold college roommate?"
+          },
+          {
+            "index": 406,
+            "start": 1110.944,
+            "end": 1115.413,
+            "text": "He was married to that\nshrill, little idiot girl."
+          },
+          {
+            "index": 407,
+            "start": 1115.415,
+            "end": 1119.884,
+            "text": "Marshall.\nOh, it's been so long."
+          },
+          {
+            "index": 408,
+            "start": 1119.886,
+            "end": 1121.786,
+            "text": "God, I hated him."
+          },
+          {
+            "index": 409,
+            "start": 1121.788,
+            "end": 1124.455,
+            "text": "Anyway, here's his obituary."
+          },
+          {
+            "index": 410,
+            "start": 1124.99,
+            "end": 1127.692,
+            "text": "And I realized,\nmaybe it shouldn't\nmatter what my friends"
+          },
+          {
+            "index": 411,
+            "start": 1127.694,
+            "end": 1130.895,
+            "text": "think of my girlfriend,\nbut it sure as hell\nmatters what"
+          },
+          {
+            "index": 412,
+            "start": 1130.897,
+            "end": 1133.965,
+            "text": "my girlfriend\nthinks of my friends."
+          },
+          {
+            "index": 413,
+            "start": 1133.967,
+            "end": 1136.801,
+            "text": "Wow. So you ended it?"
+          },
+          {
+            "index": 414,
+            "start": 1136.803,
+            "end": 1138.903,
+            "text": "Yeah."
+          },
+          {
+            "index": 415,
+            "start": 1138.905,
+            "end": 1143.241,
+            "text": "So if you want\nto be my plus one,\nLily's a damn good cook."
+          },
+          {
+            "index": 416,
+            "start": 1143.243,
+            "end": 1143.674,
+            "text": "ROBIN: Mmm!"
+          },
+          {
+            "index": 417,
+            "start": 1143.676,
+            "end": 1148.179,
+            "text": "Beef pot pie, mac and cheese,\nhomemade buttermilk biscuits."
+          },
+          {
+            "index": 418,
+            "start": 1148.181,
+            "end": 1151.749,
+            "text": "Wow, no wonder\nMarshall dies at 68."
+          },
+          {
+            "index": 419,
+            "start": 1151.751,
+            "end": 1153.417,
+            "text": "(ROBIN LAUGHS)"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1123.377438,
+        "topCueIndex": 351,
+        "bottomCueIndex": 409
+      }
     }
   ]
 }
