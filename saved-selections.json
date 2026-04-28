@@ -12275,6 +12275,285 @@
         "topCueIndex": 365,
         "bottomCueIndex": 427
       }
+    },
+    {
+      "id": "ae9a1303-291c-4c82-b48f-4808ababd1d9",
+      "createdAt": "2026-04-28T20:34:28.240Z",
+      "videoName": "S4E17 - The Front Porch.mkv",
+      "audioTrackName": "S4E17 - The Front Porch.eng.m4a",
+      "selectedText": "pact.",
+      "selection": {
+        "rawText": "pact.",
+        "startOffset": 17,
+        "endOffset": 22,
+        "cueIndex": 436,
+        "cueStart": 1193.091,
+        "cueEnd": 1194.892,
+        "cueText": "We should make a pact."
+      },
+      "context": {
+        "top": [
+          {
+            "index": 361,
+            "start": 1157.15,
+            "end": 1158.98,
+            "text": "Для нее это был затрак."
+          },
+          {
+            "index": 362,
+            "start": 1159.01,
+            "end": 1162.74,
+            "text": "И мы делали то что\nЛили хотела чтобы мы сделали вовремя:"
+          },
+          {
+            "index": 363,
+            "start": 1162.76,
+            "end": 1165.19,
+            "text": "Мы говорили о наших отношениях."
+          },
+          {
+            "index": 364,
+            "start": 1165.77,
+            "end": 1169.96,
+            "text": "- Лили разбила наши отношения.\n- Да."
+          },
+          {
+            "index": 365,
+            "start": 1171.09,
+            "end": 1173.69,
+            "text": "- Это немного странно.\n- Да."
+          },
+          {
+            "index": 366,
+            "start": 1174.09,
+            "end": 1178.67,
+            "text": "Возможно,если бы не она,\nмы бы все еще встречались?"
+          },
+          {
+            "index": 367,
+            "start": 1178.97,
+            "end": 1181.25,
+            "text": "Может быть."
+          },
+          {
+            "index": 368,
+            "start": 1181.75,
+            "end": 1184.89,
+            "text": "Но Лили была права. Мы были не готовы."
+          },
+          {
+            "index": 369,
+            "start": 1184.9,
+            "end": 1187.78,
+            "text": "Мы должны идти дальше и заниматься своими делами."
+          },
+          {
+            "index": 370,
+            "start": 1188.47,
+            "end": 1191.31,
+            "text": "Я надеюсь на это."
+          },
+          {
+            "index": 371,
+            "start": 1192.77,
+            "end": 1194.8,
+            "text": "Мы должны заключить договор."
+          },
+          {
+            "index": 372,
+            "start": 1194.85,
+            "end": 1199.74,
+            "text": "Если пройдут годы, нам обоим будет под 40,\nи мы будем все еще одни..."
+          },
+          {
+            "index": 373,
+            "start": 1206.09,
+            "end": 1208.6,
+            "text": "Робин Щербатски..."
+          },
+          {
+            "index": 374,
+            "start": 1208.61,
+            "end": 1211.77,
+            "text": "Вы будете моей запасной женой?"
+          },
+          {
+            "index": 375,
+            "start": 1211.8,
+            "end": 1214.12,
+            "text": "Девушка всегда мечтает услышать эти слова."
+          },
+          {
+            "index": 376,
+            "start": 1214.16,
+            "end": 1217.75,
+            "text": "Да! Да! Миллион раз, да!"
+          },
+          {
+            "index": 377,
+            "start": 1224.91,
+            "end": 1227,
+            "text": "- Хорошо, договорились.\n- Да."
+          },
+          {
+            "index": 378,
+            "start": 1228.31,
+            "end": 1230.36,
+            "text": "Итак. мы должны обговорить некоторые основные правила договора?"
+          },
+          {
+            "index": 379,
+            "start": 1230.41,
+            "end": 1231.11,
+            "text": "Что именно?"
+          },
+          {
+            "index": 380,
+            "start": 1231.15,
+            "end": 1234.12,
+            "text": "Я не знаю. Никто из нас не может потолстеть. Что-то типа этого."
+          },
+          {
+            "index": 381,
+            "start": 1234.13,
+            "end": 1236.6,
+            "text": "Отлично,у меня тоже есть предложение:\nты не можешь носить ночную рубашку."
+          }
+        ],
+        "bottom": [
+          {
+            "index": 426,
+            "start": 1169.302,
+            "end": 1170.902,
+            "text": "Yeah."
+          },
+          {
+            "index": 427,
+            "start": 1171.136,
+            "end": 1173.07,
+            "text": "Kind of makes you wonder."
+          },
+          {
+            "index": 428,
+            "start": 1173.072,
+            "end": 1174.138,
+            "text": "Yeah."
+          },
+          {
+            "index": 429,
+            "start": 1174.14,
+            "end": 1176.174,
+            "text": "I mean,\nif it weren't for her,"
+          },
+          {
+            "index": 430,
+            "start": 1176.176,
+            "end": 1179.41,
+            "text": "would we still be\ndating right now?"
+          },
+          {
+            "index": 431,
+            "start": 1179.412,
+            "end": 1180.978,
+            "text": "Maybe."
+          },
+          {
+            "index": 432,
+            "start": 1181.713,
+            "end": 1184.982,
+            "text": "But\nLily was right.\nWe weren't ready."
+          },
+          {
+            "index": 433,
+            "start": 1184.984,
+            "end": 1188.786,
+            "text": "We both needed to move on,\ndo our own thing."
+          },
+          {
+            "index": 434,
+            "start": 1188.788,
+            "end": 1190.188,
+            "text": "Still do, I guess."
+          },
+          {
+            "index": 435,
+            "start": 1190.19,
+            "end": 1191.889,
+            "text": "Mmm-hmm."
+          },
+          {
+            "index": 436,
+            "start": 1193.091,
+            "end": 1194.892,
+            "text": "We should make a pact."
+          },
+          {
+            "index": 437,
+            "start": 1194.894,
+            "end": 1198.129,
+            "text": "If the years go by,\nand we both turn 40,"
+          },
+          {
+            "index": 438,
+            "start": 1198.131,
+            "end": 1200.731,
+            "text": "and we're still single, we..."
+          },
+          {
+            "index": 439,
+            "start": 1205.837,
+            "end": 1211.042,
+            "text": "Robin Scherbatsky,\nwill you be my backup wife?"
+          },
+          {
+            "index": 440,
+            "start": 1211.61,
+            "end": 1214.078,
+            "text": "A girl always dreams\nof hearing those words."
+          },
+          {
+            "index": 441,
+            "start": 1214.08,
+            "end": 1217.481,
+            "text": "Yes! Yes!\nA million times, yes!"
+          },
+          {
+            "index": 442,
+            "start": 1217.483,
+            "end": 1219.383,
+            "text": "(ROBIN GIGGLING)"
+          },
+          {
+            "index": 443,
+            "start": 1222.788,
+            "end": 1224.388,
+            "text": "(SOFTLY) Thank you."
+          },
+          {
+            "index": 444,
+            "start": 1224.856,
+            "end": 1226.991,
+            "text": "All right, it's a deal.\nYeah."
+          },
+          {
+            "index": 445,
+            "start": 1226.993,
+            "end": 1227.858,
+            "text": "(BOTH EXCLAIM)"
+          },
+          {
+            "index": 446,
+            "start": 1227.86,
+            "end": 1230.728,
+            "text": "(CLEARING THROAT)\nSo, should we set up\nsome ground rules for this?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1194.124666,
+        "topCueIndex": 371,
+        "bottomCueIndex": 436
+      }
     }
   ]
 }
