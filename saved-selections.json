@@ -6695,6 +6695,285 @@
         "topCueIndex": 78,
         "bottomCueIndex": 85
       }
+    },
+    {
+      "id": "e43659c3-3b57-465c-951c-806260a2b34f",
+      "createdAt": "2026-04-28T12:37:19.385Z",
+      "videoName": "S02E02.The.One.With.The.Breast.Milk.2160p.REMUX-002p013.mkv",
+      "audioTrackName": "02-eng-english.m4a",
+      "selectedText": "I",
+      "selection": {
+        "rawText": "I",
+        "startOffset": 27,
+        "endOffset": 28,
+        "cueIndex": 85,
+        "cueStart": 353.312,
+        "cueEnd": 356.44,
+        "cueText": "You had a salad.\nNo wonder I don't feel full."
+      },
+      "context": {
+        "top": [
+          {
+            "index": 68,
+            "start": 312.897,
+            "end": 315.817,
+            "text": "Слушай, я знаю, что\nты новенький..."
+          },
+          {
+            "index": 69,
+            "start": 316.067,
+            "end": 318.319,
+            "text": "...НО ПОЙМИ, ЧТО ВСЕ..."
+          },
+          {
+            "index": 70,
+            "start": 318.569,
+            "end": 323.533,
+            "text": "...ОТ мужского до эскалатора,\nмоя территория."
+          },
+          {
+            "index": 71,
+            "start": 323.699,
+            "end": 326.869,
+            "text": "Твоя территория?"
+          },
+          {
+            "index": 72,
+            "start": 327.119,
+            "end": 328.746,
+            "text": "Мужской Бижан?\nНет, спасибо."
+          },
+          {
+            "index": 73,
+            "start": 328.996,
+            "end": 330.414,
+            "text": "Хомбре?"
+          },
+          {
+            "index": 74,
+            "start": 330.665,
+            "end": 334.46,
+            "text": "Да, хорошо."
+          },
+          {
+            "index": 75,
+            "start": 339.674,
+            "end": 342.301,
+            "text": "Что вы сказали?"
+          },
+          {
+            "index": 76,
+            "start": 344.762,
+            "end": 349.392,
+            "text": "Фиби, слушай. Ты была со мной,\nи мы ходили по магазинам весь день."
+          },
+          {
+            "index": 77,
+            "start": 349.642,
+            "end": 351.269,
+            "text": "Мы ходили и ещё зашли пообедать."
+          },
+          {
+            "index": 78,
+            "start": 351.519,
+            "end": 353.187,
+            "text": "Что я ела?"
+          },
+          {
+            "index": 79,
+            "start": 353.437,
+            "end": 357.608,
+            "text": "Ты ела салат.\nНе удивительно, что я не наелась."
+          },
+          {
+            "index": 80,
+            "start": 357.859,
+            "end": 358.985,
+            "text": "Привет. Что такое?"
+          },
+          {
+            "index": 81,
+            "start": 359.235,
+            "end": 363.698,
+            "text": "Я ходила по магазинам с Моникой\nвесь день и ела салат."
+          },
+          {
+            "index": 82,
+            "start": 364.448,
+            "end": 368.202,
+            "text": "Хорошо, Фибс.\nЧто купили?"
+          },
+          {
+            "index": 83,
+            "start": 368.202,
+            "end": 370.872,
+            "text": "Мы ходили за..."
+          },
+          {
+            "index": 84,
+            "start": 371.122,
+            "end": 372.331,
+            "text": "3d..."
+          },
+          {
+            "index": 85,
+            "start": 372.582,
+            "end": 375.96,
+            "text": "за... мехом."
+          },
+          {
+            "index": 86,
+            "start": 377.003,
+            "end": 380.423,
+            "text": "Вы ходили за мехом?"
+          },
+          {
+            "index": 87,
+            "start": 380.673,
+            "end": 384.427,
+            "text": "И тогда я поняла, что я\nпротив этого."
+          },
+          {
+            "index": 88,
+            "start": 384.677,
+            "end": 388.097,
+            "text": "И тогда мы купили..."
+          }
+        ],
+        "bottom": [
+          {
+            "index": 75,
+            "start": 314.982,
+            "end": 318.152,
+            "text": "...but, uh, it's kind of\nunderstood that everything..."
+          },
+          {
+            "index": 76,
+            "start": 318.319,
+            "end": 321.823,
+            "text": "...from young men's to\nthe escalator is, uh, my territory."
+          },
+          {
+            "index": 77,
+            "start": 323.491,
+            "end": 325.576,
+            "text": "Your territory, huh’?\nYeah."
+          },
+          {
+            "index": 78,
+            "start": 326.911,
+            "end": 328.663,
+            "text": "Bijan for men?\nNo, thanks."
+          },
+          {
+            "index": 79,
+            "start": 328.83,
+            "end": 330.331,
+            "text": "Hombre?"
+          },
+          {
+            "index": 80,
+            "start": 330.498,
+            "end": 332.667,
+            "text": "Yeah, all right."
+          },
+          {
+            "index": 81,
+            "start": 339.423,
+            "end": 340.508,
+            "text": "You were saying?"
+          },
+          {
+            "index": 82,
+            "start": 344.512,
+            "end": 348.558,
+            "text": "Phoebe, listen. You were with me,\nand we were shopping all day."
+          },
+          {
+            "index": 83,
+            "start": 348.724,
+            "end": 351.102,
+            "text": "What?\nWe were shopping and we had lunch."
+          },
+          {
+            "index": 84,
+            "start": 351.269,
+            "end": 353.145,
+            "text": "All right. What did I have?"
+          },
+          {
+            "index": 85,
+            "start": 353.312,
+            "end": 356.44,
+            "text": "You had a salad.\nNo wonder I don't feel full."
+          },
+          {
+            "index": 86,
+            "start": 357.65,
+            "end": 358.901,
+            "text": "Hi, guys. What's up?"
+          },
+          {
+            "index": 87,
+            "start": 359.068,
+            "end": 361.988,
+            "text": "| went shopping with Monica all day\nand I had a salad."
+          },
+          {
+            "index": 88,
+            "start": 364.24,
+            "end": 366.576,
+            "text": "Good, Pheebs. What'd you buy?"
+          },
+          {
+            "index": 89,
+            "start": 366.742,
+            "end": 367.827,
+            "text": "Um...."
+          },
+          {
+            "index": 90,
+            "start": 367.994,
+            "end": 370.413,
+            "text": "We went shopping for, um...."
+          },
+          {
+            "index": 91,
+            "start": 370.913,
+            "end": 372.039,
+            "text": "For, um...."
+          },
+          {
+            "index": 92,
+            "start": 372.373,
+            "end": 374.208,
+            "text": "For fur."
+          },
+          {
+            "index": 93,
+            "start": 376.752,
+            "end": 379.839,
+            "text": "You went shopping for fur?\nYeah."
+          },
+          {
+            "index": 94,
+            "start": 380.423,
+            "end": 384.302,
+            "text": "And then I realized\nthat I'm against that and, um...."
+          },
+          {
+            "index": 95,
+            "start": 384.468,
+            "end": 386.721,
+            "text": "So then we bought some, um...."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 354.916244,
+        "topCueIndex": 78,
+        "bottomCueIndex": 85
+      }
     }
   ]
 }
