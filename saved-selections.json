@@ -9764,6 +9764,285 @@
         "topCueIndex": 326,
         "bottomCueIndex": 381
       }
+    },
+    {
+      "id": "6698ba34-571a-4c27-8df1-aa3236a6c19c",
+      "createdAt": "2026-04-28T20:23:29.706Z",
+      "videoName": "S4E17 - The Front Porch.mkv",
+      "audioTrackName": "S4E17 - The Front Porch.eng.m4a",
+      "selectedText": "slugger.",
+      "selection": {
+        "rawText": "slugger.",
+        "startOffset": 14,
+        "endOffset": 22,
+        "cueIndex": 384,
+        "cueStart": 1032.999,
+        "cueEnd": 1034.999,
+        "cueText": "Sweet dreams, slugger."
+      },
+      "context": {
+        "top": [
+          {
+            "index": 320,
+            "start": 997.17,
+            "end": 999.91,
+            "text": "Я люблю цветы."
+          },
+          {
+            "index": 321,
+            "start": 1000.3,
+            "end": 1003.83,
+            "text": "И иногда, когда ты волнуешься, что принял\nнеправильные решения в жизни"
+          },
+          {
+            "index": 322,
+            "start": 1003.87,
+            "end": 1007.96,
+            "text": "и ты не являешься тем человеком которым хотел быть,\nчто она делает тогда?"
+          },
+          {
+            "index": 323,
+            "start": 1007.97,
+            "end": 1012.59,
+            "text": "Она говорит что ты великолепен и все становится хорошо."
+          },
+          {
+            "index": 324,
+            "start": 1012.6,
+            "end": 1014.9,
+            "text": "Это прекрасно."
+          },
+          {
+            "index": 325,
+            "start": 1015.33,
+            "end": 1019.47,
+            "text": "И она поможет тебе найти цыпочек для секса?"
+          },
+          {
+            "index": 326,
+            "start": 1022.31,
+            "end": 1023.66,
+            "text": "Я думаю,"
+          },
+          {
+            "index": 327,
+            "start": 1023.7,
+            "end": 1026.85,
+            "text": "Возможно да, если вы согласовали это заранее."
+          },
+          {
+            "index": 328,
+            "start": 1028.51,
+            "end": 1031.02,
+            "text": "Малыш прожил большой день."
+          },
+          {
+            "index": 329,
+            "start": 1031.06,
+            "end": 1032.71,
+            "text": "Мы поговорим об этом завтра."
+          },
+          {
+            "index": 330,
+            "start": 1032.73,
+            "end": 1035.03,
+            "text": "Сладких снов, малыш."
+          },
+          {
+            "index": 331,
+            "start": 1049.51,
+            "end": 1052.25,
+            "text": "Следующей ночью я был все еще\nсердит на вашу тетю Лили."
+          },
+          {
+            "index": 332,
+            "start": 1052.27,
+            "end": 1053.98,
+            "text": "Пока..."
+          },
+          {
+            "index": 333,
+            "start": 1056.05,
+            "end": 1058.11,
+            "text": "Что ты..."
+          },
+          {
+            "index": 334,
+            "start": 1060.05,
+            "end": 1062.65,
+            "text": "Лили пришла и объяснила все."
+          },
+          {
+            "index": 335,
+            "start": 1062.66,
+            "end": 1065.57,
+            "text": "И она дала мне это письмо для тебя."
+          },
+          {
+            "index": 336,
+            "start": 1069.68,
+            "end": 1071.24,
+            "text": "Тед, я извиняюсь."
+          },
+          {
+            "index": 337,
+            "start": 1071.27,
+            "end": 1073.66,
+            "text": "Для меня не имеет значения на ком ты женишься."
+          },
+          {
+            "index": 338,
+            "start": 1073.69,
+            "end": 1077.52,
+            "text": "Я знаю она будет удивительной,\nпоскольку я знаю тебя."
+          },
+          {
+            "index": 339,
+            "start": 1077.55,
+            "end": 1082.11,
+            "text": "Чтобы доказать это, я приготовила\nнебольшой сюрприз \"для тебя и Карен наверху."
+          },
+          {
+            "index": 340,
+            "start": 1082.15,
+            "end": 1083.46,
+            "text": "C любовью Лили."
+          }
+        ],
+        "bottom": [
+          {
+            "index": 374,
+            "start": 999.065,
+            "end": 999.664,
+            "text": "(MARSHALL CHUCKLES)"
+          },
+          {
+            "index": 375,
+            "start": 999.666,
+            "end": 1003.334,
+            "text": "And sometimes, when you're\nworried you've made all\nthe wrong decisions in life,"
+          },
+          {
+            "index": 376,
+            "start": 1003.336,
+            "end": 1007.305,
+            "text": "and you're not nearly\nthe man you want to be,\nwhat does she do then?"
+          },
+          {
+            "index": 377,
+            "start": 1007.307,
+            "end": 1012.21,
+            "text": "Well, she tells\nyou that you're great\nand it's all gonna be okay."
+          },
+          {
+            "index": 378,
+            "start": 1012.212,
+            "end": 1015.013,
+            "text": "(CHUCKLES) That's wonderful."
+          },
+          {
+            "index": 379,
+            "start": 1015.015,
+            "end": 1020.151,
+            "text": "And she'll help you find\nother girls to have sex\nwith?"
+          },
+          {
+            "index": 380,
+            "start": 1022.588,
+            "end": 1023.221,
+            "text": "I mean, I guess."
+          },
+          {
+            "index": 381,
+            "start": 1023.223,
+            "end": 1027.925,
+            "text": "Maybe\nif you agreed upon\nthat beforehand, yeah."
+          },
+          {
+            "index": 382,
+            "start": 1027.927,
+            "end": 1028.526,
+            "text": "Mmm."
+          },
+          {
+            "index": 383,
+            "start": 1028.528,
+            "end": 1032.997,
+            "text": "Little guy had a big day.\nWe'll talk about it tomorrow."
+          },
+          {
+            "index": 384,
+            "start": 1032.999,
+            "end": 1034.999,
+            "text": "Sweet dreams, slugger."
+          },
+          {
+            "index": 385,
+            "start": 1036.068,
+            "end": 1039.971,
+            "text": "(CHEERFUL MUSIC PLAYING)"
+          },
+          {
+            "index": 386,
+            "start": 1048.714,
+            "end": 1052.617,
+            "text": "OLDER TED: The next night,\nI was still angry at your\naunt Lily."
+          },
+          {
+            "index": 387,
+            "start": 1052.619,
+            "end": 1054.185,
+            "text": "Until..."
+          },
+          {
+            "index": 388,
+            "start": 1054.187,
+            "end": 1057.555,
+            "text": "Hi.\nHi. What are you..."
+          },
+          {
+            "index": 389,
+            "start": 1059.992,
+            "end": 1062.627,
+            "text": "Lily came by and\nexplained everything."
+          },
+          {
+            "index": 390,
+            "start": 1062.629,
+            "end": 1066.564,
+            "text": "And she gave me\nthis note for you."
+          },
+          {
+            "index": 391,
+            "start": 1066.566,
+            "end": 1067.899,
+            "text": "(TED SIGHS)"
+          },
+          {
+            "index": 392,
+            "start": 1069.601,
+            "end": 1071.135,
+            "text": "LILY: \"Ted, I'm sorry."
+          },
+          {
+            "index": 393,
+            "start": 1071.137,
+            "end": 1072.837,
+            "text": "\"It doesn't matter\nto me who you marry."
+          },
+          {
+            "index": 394,
+            "start": 1072.839,
+            "end": 1077.708,
+            "text": "\"I know they'll be awesome\nbecause they'll think you are."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1034.647185,
+        "topCueIndex": 330,
+        "bottomCueIndex": 384
+      }
     }
   ]
 }
