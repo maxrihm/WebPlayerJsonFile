@@ -11717,6 +11717,285 @@
         "topCueIndex": 351,
         "bottomCueIndex": 409
       }
+    },
+    {
+      "id": "7989ef31-bbdf-467b-9da7-ac3c5d5ce52b",
+      "createdAt": "2026-04-28T20:32:38.332Z",
+      "videoName": "S4E17 - The Front Porch.mkv",
+      "audioTrackName": "S4E17 - The Front Porch.eng.m4a",
+      "selectedText": "all along,",
+      "selection": {
+        "rawText": "all along,",
+        "startOffset": 56,
+        "endOffset": 66,
+        "cueIndex": 423,
+        "cueStart": 1158.258,
+        "cueEnd": 1162.593,
+        "cueText": "And we ended up\ndoing exactly what Lily\nwanted us to do all along,"
+      },
+      "context": {
+        "top": [
+          {
+            "index": 351,
+            "start": 1119.61,
+            "end": 1121.89,
+            "text": "О боже, я ненавидела его."
+          },
+          {
+            "index": 352,
+            "start": 1121.91,
+            "end": 1124.4,
+            "text": "Так или иначе, вот его некролог"
+          },
+          {
+            "index": 353,
+            "start": 1126.04,
+            "end": 1130.13,
+            "text": "И я понял, возможно не должно иметь значения,\nчто мои друзья думают о моей подруге,"
+          },
+          {
+            "index": 354,
+            "start": 1130.16,
+            "end": 1134.19,
+            "text": "но я уверен, имеет значение то,\nчто моя подруга думает о моих друзьях"
+          },
+          {
+            "index": 355,
+            "start": 1135.04,
+            "end": 1137.32,
+            "text": "- Итак, это конец?\n- Да."
+          },
+          {
+            "index": 356,
+            "start": 1138.93,
+            "end": 1143.04,
+            "text": "Не хочешь ли быть моей парой на сегодня,\nЛили адски хороший повар."
+          },
+          {
+            "index": 357,
+            "start": 1143.92,
+            "end": 1148.08,
+            "text": "Пирог из говядины и сыр,\nсамодельные молочные булочки."
+          },
+          {
+            "index": 358,
+            "start": 1148.12,
+            "end": 1151.22,
+            "text": "Понятно, неудивительно что Маршалл умрет в 68."
+          },
+          {
+            "index": 359,
+            "start": 1153.06,
+            "end": 1154.45,
+            "text": "Спасибо тебе."
+          },
+          {
+            "index": 360,
+            "start": 1154.49,
+            "end": 1157.12,
+            "text": "Итак, Робин и я наслаждались прекрасным обедом."
+          },
+          {
+            "index": 361,
+            "start": 1157.15,
+            "end": 1158.98,
+            "text": "Для нее это был затрак."
+          },
+          {
+            "index": 362,
+            "start": 1159.01,
+            "end": 1162.74,
+            "text": "И мы делали то что\nЛили хотела чтобы мы сделали вовремя:"
+          },
+          {
+            "index": 363,
+            "start": 1162.76,
+            "end": 1165.19,
+            "text": "Мы говорили о наших отношениях."
+          },
+          {
+            "index": 364,
+            "start": 1165.77,
+            "end": 1169.96,
+            "text": "- Лили разбила наши отношения.\n- Да."
+          },
+          {
+            "index": 365,
+            "start": 1171.09,
+            "end": 1173.69,
+            "text": "- Это немного странно.\n- Да."
+          },
+          {
+            "index": 366,
+            "start": 1174.09,
+            "end": 1178.67,
+            "text": "Возможно,если бы не она,\nмы бы все еще встречались?"
+          },
+          {
+            "index": 367,
+            "start": 1178.97,
+            "end": 1181.25,
+            "text": "Может быть."
+          },
+          {
+            "index": 368,
+            "start": 1181.75,
+            "end": 1184.89,
+            "text": "Но Лили была права. Мы были не готовы."
+          },
+          {
+            "index": 369,
+            "start": 1184.9,
+            "end": 1187.78,
+            "text": "Мы должны идти дальше и заниматься своими делами."
+          },
+          {
+            "index": 370,
+            "start": 1188.47,
+            "end": 1191.31,
+            "text": "Я надеюсь на это."
+          },
+          {
+            "index": 371,
+            "start": 1192.77,
+            "end": 1194.8,
+            "text": "Мы должны заключить договор."
+          }
+        ],
+        "bottom": [
+          {
+            "index": 413,
+            "start": 1133.967,
+            "end": 1136.801,
+            "text": "Wow. So you ended it?"
+          },
+          {
+            "index": 414,
+            "start": 1136.803,
+            "end": 1138.903,
+            "text": "Yeah."
+          },
+          {
+            "index": 415,
+            "start": 1138.905,
+            "end": 1143.241,
+            "text": "So if you want\nto be my plus one,\nLily's a damn good cook."
+          },
+          {
+            "index": 416,
+            "start": 1143.243,
+            "end": 1143.674,
+            "text": "ROBIN: Mmm!"
+          },
+          {
+            "index": 417,
+            "start": 1143.676,
+            "end": 1148.179,
+            "text": "Beef pot pie, mac and cheese,\nhomemade buttermilk biscuits."
+          },
+          {
+            "index": 418,
+            "start": 1148.181,
+            "end": 1151.749,
+            "text": "Wow, no wonder\nMarshall dies at 68."
+          },
+          {
+            "index": 419,
+            "start": 1151.751,
+            "end": 1153.417,
+            "text": "(ROBIN LAUGHS)"
+          },
+          {
+            "index": 420,
+            "start": 1153.419,
+            "end": 1154.118,
+            "text": "Thank you."
+          },
+          {
+            "index": 421,
+            "start": 1154.12,
+            "end": 1157.054,
+            "text": "OLDER TED:\nSo, Robin and I\nenjoyed a gourmet dinner."
+          },
+          {
+            "index": 422,
+            "start": 1157.056,
+            "end": 1158.256,
+            "text": "Well, for her\nit was breakfast."
+          },
+          {
+            "index": 423,
+            "start": 1158.258,
+            "end": 1162.593,
+            "text": "And we ended up\ndoing exactly what Lily\nwanted us to do all along,"
+          },
+          {
+            "index": 424,
+            "start": 1162.595,
+            "end": 1165.363,
+            "text": "we talked about\nour relationship."
+          },
+          {
+            "index": 425,
+            "start": 1165.964,
+            "end": 1169.3,
+            "text": "So,\nLily broke\nus up, sort of."
+          },
+          {
+            "index": 426,
+            "start": 1169.302,
+            "end": 1170.902,
+            "text": "Yeah."
+          },
+          {
+            "index": 427,
+            "start": 1171.136,
+            "end": 1173.07,
+            "text": "Kind of makes you wonder."
+          },
+          {
+            "index": 428,
+            "start": 1173.072,
+            "end": 1174.138,
+            "text": "Yeah."
+          },
+          {
+            "index": 429,
+            "start": 1174.14,
+            "end": 1176.174,
+            "text": "I mean,\nif it weren't for her,"
+          },
+          {
+            "index": 430,
+            "start": 1176.176,
+            "end": 1179.41,
+            "text": "would we still be\ndating right now?"
+          },
+          {
+            "index": 431,
+            "start": 1179.412,
+            "end": 1180.978,
+            "text": "Maybe."
+          },
+          {
+            "index": 432,
+            "start": 1181.713,
+            "end": 1184.982,
+            "text": "But\nLily was right.\nWe weren't ready."
+          },
+          {
+            "index": 433,
+            "start": 1184.984,
+            "end": 1188.786,
+            "text": "We both needed to move on,\ndo our own thing."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1159.217527,
+        "topCueIndex": 361,
+        "bottomCueIndex": 423
+      }
     }
   ]
 }
