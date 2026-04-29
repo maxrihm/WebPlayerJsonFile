@@ -19502,6 +19502,285 @@
         "topCueIndex": 165,
         "bottomCueIndex": 153
       }
+    },
+    {
+      "id": "13390e00-9e42-45a0-bb18-65a428c8945f",
+      "createdAt": "2026-04-29T22:33:58.097Z",
+      "videoName": "S4E18 - Old King Clancy.mkv",
+      "audioTrackName": "S4E18 - Old King Clancy.eng.m4a",
+      "selectedText": "contaminated",
+      "selection": {
+        "rawText": "contaminated",
+        "startOffset": 6,
+        "endOffset": 18,
+        "cueIndex": 167,
+        "cueStart": 421.288,
+        "cueEnd": 423.155,
+        "cueText": "which contaminated\nthe drinking water."
+      },
+      "context": {
+        "top": [
+          {
+            "index": 174,
+            "start": 401.73,
+            "end": 403.26,
+            "text": "Если кто-то спрашивает тебя,"
+          },
+          {
+            "index": 175,
+            "start": 403.3,
+            "end": 405.9,
+            "text": "отвлеки их от настоящей лжи еще большей ложью."
+          },
+          {
+            "index": 176,
+            "start": 405.93,
+            "end": 406.9,
+            "text": "Позволь я продемонтрирую."
+          },
+          {
+            "index": 177,
+            "start": 406.93,
+            "end": 408.03,
+            "text": "У меня есть пони."
+          },
+          {
+            "index": 178,
+            "start": 408.06,
+            "end": 409.76,
+            "text": "Задай мне вопрос."
+          },
+          {
+            "index": 179,
+            "start": 409.8,
+            "end": 411.53,
+            "text": "Ладно."
+          },
+          {
+            "index": 180,
+            "start": 411.56,
+            "end": 414.63,
+            "text": "Эм, ну и какого цвета твое пони?"
+          },
+          {
+            "index": 181,
+            "start": 414.66,
+            "end": 415.8,
+            "text": "Хорошо, ее звали одуванчик,"
+          },
+          {
+            "index": 182,
+            "start": 415.83,
+            "end": 417.8,
+            "text": "она была глубокого, красновато-коричневого цвета,"
+          },
+          {
+            "index": 183,
+            "start": 417.83,
+            "end": 420.93,
+            "text": "но, к сожалению, ее конюшня расположена около химического завода,"
+          },
+          {
+            "index": 184,
+            "start": 420.96,
+            "end": 422.63,
+            "text": "который загрязняет питьевую воду."
+          },
+          {
+            "index": 185,
+            "start": 422.66,
+            "end": 426.1,
+            "text": "Поэтому, со временем, она стала болезненного, серовато-белого цвета"
+          },
+          {
+            "index": 186,
+            "start": 426.13,
+            "end": 429.23,
+            "text": "и нет ничего, чем ветеринар мог бы помочь ей."
+          },
+          {
+            "index": 187,
+            "start": 429.26,
+            "end": 430.73,
+            "text": "О Боже мой!"
+          },
+          {
+            "index": 188,
+            "start": 430.76,
+            "end": 432.5,
+            "text": "Это ужасно."
+          },
+          {
+            "index": 189,
+            "start": 432.53,
+            "end": 433.73,
+            "text": "С Одуванчиком все будет хорошо."
+          },
+          {
+            "index": 190,
+            "start": 434.76,
+            "end": 436.1,
+            "text": "Хорошо."
+          },
+          {
+            "index": 191,
+            "start": 436.13,
+            "end": 437.1,
+            "text": "Все хорошо. Ха!"
+          },
+          {
+            "index": 192,
+            "start": 437.13,
+            "end": 438.43,
+            "text": "Ты великолепен!"
+          },
+          {
+            "index": 193,
+            "start": 438.46,
+            "end": 441.06,
+            "text": "Одуванчик даже не болен, не так ли?"
+          },
+          {
+            "index": 194,
+            "start": 442.43,
+            "end": 444.83,
+            "text": "Так проект действительно пересмотрели"
+          }
+        ],
+        "bottom": [
+          {
+            "index": 157,
+            "start": 398.298,
+            "end": 399.898,
+            "text": "Okay,\nI don't have a spaceship."
+          },
+          {
+            "index": 158,
+            "start": 399.9,
+            "end": 403.468,
+            "text": "No! Stand your ground.\nIf someone questions you,"
+          },
+          {
+            "index": 159,
+            "start": 403.47,
+            "end": 406.204,
+            "text": "distract them from the\noriginal lie with more lies."
+          },
+          {
+            "index": 160,
+            "start": 406.206,
+            "end": 409.174,
+            "text": "Here, let me demonstrate.\nI own a pony."
+          },
+          {
+            "index": 161,
+            "start": 409.176,
+            "end": 410.475,
+            "text": "Ask me a question."
+          },
+          {
+            "index": 162,
+            "start": 410.477,
+            "end": 413.345,
+            "text": "(SCOFFS) Okay. Um..."
+          },
+          {
+            "index": 163,
+            "start": 413.98,
+            "end": 414.88,
+            "text": "What color is your pony?"
+          },
+          {
+            "index": 164,
+            "start": 414.882,
+            "end": 416.782,
+            "text": "Well,\nwhen I first\ngot Dandelion,"
+          },
+          {
+            "index": 165,
+            "start": 416.784,
+            "end": 418.15,
+            "text": "she was a deep\nchestnut brown,"
+          },
+          {
+            "index": 166,
+            "start": 418.152,
+            "end": 421.286,
+            "text": "but sadly,\nher stable is located\nnear a chemical plant"
+          },
+          {
+            "index": 167,
+            "start": 421.288,
+            "end": 423.155,
+            "text": "which contaminated\nthe drinking water."
+          },
+          {
+            "index": 168,
+            "start": 423.157,
+            "end": 424.79,
+            "text": "So over time,\nshe's turned"
+          },
+          {
+            "index": 169,
+            "start": 424.792,
+            "end": 427.125,
+            "text": "a sickly,\ngrayish-white color,"
+          },
+          {
+            "index": 170,
+            "start": 427.127,
+            "end": 428.326,
+            "text": "(VOICE TREMBLING)\nand there's nothing"
+          },
+          {
+            "index": 171,
+            "start": 428.328,
+            "end": 430.362,
+            "text": "that the vet\ncan do to fix her."
+          },
+          {
+            "index": 172,
+            "start": 430.364,
+            "end": 433.165,
+            "text": "My God! I'm...\nThat's horrible."
+          },
+          {
+            "index": 173,
+            "start": 433.167,
+            "end": 435.934,
+            "text": "Is Dandelion\ngoing to be okay?"
+          },
+          {
+            "index": 174,
+            "start": 435.936,
+            "end": 438.203,
+            "text": "Okay.\nAll right.\nYou are good!"
+          },
+          {
+            "index": 175,
+            "start": 438.205,
+            "end": 438.804,
+            "text": "Huh?"
+          },
+          {
+            "index": 176,
+            "start": 438.806,
+            "end": 442.974,
+            "text": "Dandelion's not\neven sick, is she?"
+          },
+          {
+            "index": 177,
+            "start": 442.976,
+            "end": 447.345,
+            "text": "So the\nbuilding's really dead\nand you guys lied to me?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 421.288,
+        "topCueIndex": 184,
+        "bottomCueIndex": 167
+      }
     }
   ]
 }
