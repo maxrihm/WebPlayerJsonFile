@@ -16154,6 +16154,285 @@
         "topCueIndex": 118,
         "bottomCueIndex": 110
       }
+    },
+    {
+      "id": "085535ea-6f77-4654-83a6-872558a00f49",
+      "createdAt": "2026-04-29T22:25:50.608Z",
+      "videoName": "S4E18 - Old King Clancy.mkv",
+      "audioTrackName": "S4E18 - Old King Clancy.eng.m4a",
+      "selectedText": "retreat",
+      "selection": {
+        "rawText": "retreat",
+        "startOffset": 20,
+        "endOffset": 27,
+        "cueIndex": 113,
+        "cueStart": 295.663,
+        "cueEnd": 298.897,
+        "cueText": "at the bi-quarterly\nretreat in Saint Croix."
+      },
+      "context": {
+        "top": [
+          {
+            "index": 111,
+            "start": 273.6,
+            "end": 274.46,
+            "text": "-Мы должны сказать ему.\n-Я не хочу говорить это."
+          },
+          {
+            "index": 112,
+            "start": 274.66,
+            "end": 275.96,
+            "text": "-Я думаю, мы должны сказать ему.\n-Мы не можем сказать ему."
+          },
+          {
+            "index": 113,
+            "start": 275.96,
+            "end": 276.7,
+            "text": "Не было никакого взгляда."
+          },
+          {
+            "index": 114,
+            "start": 276.7,
+            "end": 278.44,
+            "text": "Парни, что, черт возьми происходит?"
+          },
+          {
+            "index": 115,
+            "start": 278.98,
+            "end": 281.2,
+            "text": "Хорошо, ты должен узнать правду."
+          },
+          {
+            "index": 116,
+            "start": 281.2,
+            "end": 284.58,
+            "text": "Несколько недель назад, Билсон вызвал нас в свой офис."
+          },
+          {
+            "index": 117,
+            "start": 284.58,
+            "end": 287.7,
+            "text": "Мы пересматриваем план относительно нового штаба GNB."
+          },
+          {
+            "index": 118,
+            "start": 287.7,
+            "end": 290.27,
+            "text": "Этот кризис убивает нас."
+          },
+          {
+            "index": 119,
+            "start": 290.27,
+            "end": 292.21,
+            "text": "Мы должны сократить что-нибудь несущественное."
+          },
+          {
+            "index": 120,
+            "start": 293.05,
+            "end": 294.6,
+            "text": "И у меня есть несколько жестких решений, чтобы"
+          },
+          {
+            "index": 121,
+            "start": 294.6,
+            "end": 297.6,
+            "text": "купить что-нибудь изысканное в Санта-Крусе."
+          },
+          {
+            "index": 122,
+            "start": 298.47,
+            "end": 300.36,
+            "text": "Парни, Тед растроится."
+          },
+          {
+            "index": 123,
+            "start": 300.36,
+            "end": 302.62,
+            "text": "Нет, если он услышит это от своего лучшего друга.."
+          },
+          {
+            "index": 124,
+            "start": 302.62,
+            "end": 304.14,
+            "text": "-Я расскажу ему !\n-Я расскажу ему !"
+          },
+          {
+            "index": 125,
+            "start": 305.28,
+            "end": 306.75,
+            "text": "Мы должны рассказать ему, мы его лучшие друзья."
+          },
+          {
+            "index": 126,
+            "start": 306.75,
+            "end": 308.04,
+            "text": "Я не могу, ты его лучший друг."
+          },
+          {
+            "index": 127,
+            "start": 308.04,
+            "end": 309.24,
+            "text": "Я не могу, ты его лучший друг."
+          },
+          {
+            "index": 128,
+            "start": 309.24,
+            "end": 311.05,
+            "text": "Тихо, он идет."
+          },
+          {
+            "index": 129,
+            "start": 311.05,
+            "end": 313.09,
+            "text": "Белый чувак или тот азиатский товарищ?"
+          },
+          {
+            "index": 130,
+            "start": 313.09,
+            "end": 314.53,
+            "text": "Смотри я даже не знаю этого парня."
+          },
+          {
+            "index": 131,
+            "start": 315.37,
+            "end": 317.5,
+            "text": "-Эй, Тед, как настроение?\n-Эй, как дела?"
+          }
+        ],
+        "bottom": [
+          {
+            "index": 103,
+            "start": 273.874,
+            "end": 275.073,
+            "text": "Should we tell him?\nI don't want to tell him."
+          },
+          {
+            "index": 104,
+            "start": 275.075,
+            "end": 276.908,
+            "text": "I think we should tell him.\nWe're not telling him."
+          },
+          {
+            "index": 105,
+            "start": 276.91,
+            "end": 277.909,
+            "text": "There was no look."
+          },
+          {
+            "index": 106,
+            "start": 277.911,
+            "end": 279.678,
+            "text": "Guys, what the hell?"
+          },
+          {
+            "index": 107,
+            "start": 279.68,
+            "end": 281.58,
+            "text": "Okay,\nit's time that\nyou know the truth."
+          },
+          {
+            "index": 108,
+            "start": 281.582,
+            "end": 285.25,
+            "text": "A few weeks ago,\nBilson called us\ninto his office."
+          },
+          {
+            "index": 109,
+            "start": 285.252,
+            "end": 288.72,
+            "text": "We're scrapping the plan\nfor the new GNB headquarters."
+          },
+          {
+            "index": 110,
+            "start": 288.722,
+            "end": 290.856,
+            "text": "This recession is\nkilling us."
+          },
+          {
+            "index": 111,
+            "start": 290.858,
+            "end": 293.659,
+            "text": "We're cutting\nanything non-essential."
+          },
+          {
+            "index": 112,
+            "start": 293.661,
+            "end": 295.661,
+            "text": "And I have a lot of\ntough choices to make"
+          },
+          {
+            "index": 113,
+            "start": 295.663,
+            "end": 298.897,
+            "text": "at the bi-quarterly\nretreat in Saint Croix."
+          },
+          {
+            "index": 114,
+            "start": 298.899,
+            "end": 300.699,
+            "text": "Man,\nTed is gonna\nbe devastated."
+          },
+          {
+            "index": 115,
+            "start": 300.701,
+            "end": 303.268,
+            "text": "Not when he hears it\ncoming from his best\nfriend."
+          },
+          {
+            "index": 116,
+            "start": 303.27,
+            "end": 305.804,
+            "text": "I have to tell him?\nI have to tell him?"
+          },
+          {
+            "index": 117,
+            "start": 305.806,
+            "end": 307.306,
+            "text": "You should tell him,\nyou're his best friend."
+          },
+          {
+            "index": 118,
+            "start": 307.308,
+            "end": 308.774,
+            "text": "Am not,\nyou're his best friend."
+          },
+          {
+            "index": 119,
+            "start": 308.776,
+            "end": 309.841,
+            "text": "Am not, you're his best..."
+          },
+          {
+            "index": 120,
+            "start": 309.843,
+            "end": 311.877,
+            "text": "Am...\n(SHUSHING)\nQuiet, here he comes."
+          },
+          {
+            "index": 121,
+            "start": 311.879,
+            "end": 313.779,
+            "text": "What, the white dude\nor the Asian fellow?"
+          },
+          {
+            "index": 122,
+            "start": 313.781,
+            "end": 315.881,
+            "text": "See? I barely know the guy."
+          },
+          {
+            "index": 123,
+            "start": 315.883,
+            "end": 318.283,
+            "text": "Hey, Ted, what's up?\nHey, how're you doing?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 295.992379,
+        "topCueIndex": 121,
+        "bottomCueIndex": 113
+      }
     }
   ]
 }
