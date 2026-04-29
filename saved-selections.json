@@ -13028,6 +13028,195 @@
         "topCueIndex": 380,
         "bottomCueIndex": 448
       }
+    },
+    {
+      "id": "89109a29-1760-4695-b2df-7a5ce0985403",
+      "createdAt": "2026-04-29T22:08:25.204Z",
+      "videoName": "S4E18 - Old King Clancy.mkv",
+      "audioTrackName": "S4E18 - Old King Clancy.eng.m4a",
+      "selectedText": "voice",
+      "selection": {
+        "rawText": "voice",
+        "startOffset": 37,
+        "endOffset": 42,
+        "cueIndex": 2,
+        "cueStart": 5.573,
+        "cueEnd": 8.807,
+        "cueText": "And I was eager\nto add as much of my\nvoice as an architect"
+      },
+      "context": {
+        "top": [
+          {
+            "index": 0,
+            "start": 0.21,
+            "end": 1.47,
+            "text": "Весной 2009 года"
+          },
+          {
+            "index": 1,
+            "start": 1.79,
+            "end": 2.77,
+            "text": "Меня наняли для проектирования"
+          },
+          {
+            "index": 2,
+            "start": 2.77,
+            "end": 5.35,
+            "text": "новой штаб-квартиры национального банка Голиаф (GNB)."
+          },
+          {
+            "index": 3,
+            "start": 5.55,
+            "end": 7.71,
+            "text": "И я горел желанием добавить как можно больше своих идей,"
+          },
+          {
+            "index": 4,
+            "start": 7.71,
+            "end": 9.75,
+            "text": "как архитектор этого здания."
+          },
+          {
+            "index": 5,
+            "start": 9.75,
+            "end": 13.84,
+            "text": "Деревянные балки освещаются естественным светом атриума."
+          },
+          {
+            "index": 6,
+            "start": 15.38,
+            "end": 16.98,
+            "text": "Им должно это понравиться!"
+          },
+          {
+            "index": 7,
+            "start": 16.98,
+            "end": 18.56,
+            "text": "Была только одна проблема"
+          },
+          {
+            "index": 8,
+            "start": 18.94,
+            "end": 20.95,
+            "text": "и ее звали Билсон."
+          },
+          {
+            "index": 9,
+            "start": 20.95,
+            "end": 23.23,
+            "text": "Деревянные балки, естественный свет?"
+          },
+          {
+            "index": 10,
+            "start": 23.23,
+            "end": 25.21,
+            "text": "Ну уж нет!"
+          },
+          {
+            "index": 11,
+            "start": 25.21,
+            "end": 28.81,
+            "text": "Естественный свет напоминает рабочим, что существует внешний мир,"
+          },
+          {
+            "index": 12,
+            "start": 28.81,
+            "end": 30.99,
+            "text": "где у них есть семья и друзья"
+          },
+          {
+            "index": 13,
+            "start": 30.99,
+            "end": 32.8,
+            "text": "Мы никогда не одобрим это!"
+          }
+        ],
+        "bottom": [
+          {
+            "index": 0,
+            "start": 0.467,
+            "end": 3.068,
+            "text": "OLDER TED:\nIn the spring of 2009,\nI'd been hired to design"
+          },
+          {
+            "index": 1,
+            "start": 3.07,
+            "end": 5.571,
+            "text": "a new headquarters for\nGoliath National Bank."
+          },
+          {
+            "index": 2,
+            "start": 5.573,
+            "end": 8.807,
+            "text": "And I was eager\nto add as much of my\nvoice as an architect"
+          },
+          {
+            "index": 3,
+            "start": 8.809,
+            "end": 10.342,
+            "text": "into the plans as possible."
+          },
+          {
+            "index": 4,
+            "start": 10.344,
+            "end": 15.18,
+            "text": "Wood beams bathed\nin natural light\nin the atrium."
+          },
+          {
+            "index": 5,
+            "start": 16.049,
+            "end": 17.149,
+            "text": "They're gonna love it!"
+          },
+          {
+            "index": 6,
+            "start": 17.151,
+            "end": 21.954,
+            "text": "There was\nonly one problem,\nand his name was Bilson."
+          },
+          {
+            "index": 7,
+            "start": 21.956,
+            "end": 24.857,
+            "text": "Wood? Natural light?"
+          },
+          {
+            "index": 8,
+            "start": 24.859,
+            "end": 25.724,
+            "text": "Uh, no!"
+          },
+          {
+            "index": 9,
+            "start": 25.726,
+            "end": 29.261,
+            "text": "Natural light\nreminds the workers that\nthere is an outside world"
+          },
+          {
+            "index": 10,
+            "start": 29.263,
+            "end": 33.799,
+            "text": "where they have\nfamily and friends.\nWe want to crush that!"
+          },
+          {
+            "index": 11,
+            "start": 33.801,
+            "end": 36.769,
+            "text": "You show up in the dark,\nyou go home in the dark."
+          },
+          {
+            "index": 12,
+            "start": 36.771,
+            "end": 40.806,
+            "text": "You spend your whole\ndamn day in the dark!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 7.070443,
+        "topCueIndex": 3,
+        "bottomCueIndex": 2
+      }
     }
   ]
 }
