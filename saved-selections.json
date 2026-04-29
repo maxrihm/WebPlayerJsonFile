@@ -18107,6 +18107,285 @@
         "topCueIndex": 138,
         "bottomCueIndex": 129
       }
+    },
+    {
+      "id": "9feef215-b2b5-44fc-8537-545ec749e280",
+      "createdAt": "2026-04-29T22:28:15.149Z",
+      "videoName": "S4E18 - Old King Clancy.mkv",
+      "audioTrackName": "S4E18 - Old King Clancy.eng.m4a",
+      "selectedText": "settled.",
+      "selection": {
+        "rawText": "settled.",
+        "startOffset": 10,
+        "endOffset": 18,
+        "cueIndex": 130,
+        "cueStart": 330.331,
+        "cueEnd": 331.897,
+        "cueText": "Then it's settled.\nTo Ted Mosby's\nnew chapter."
+      },
+      "context": {
+        "top": [
+          {
+            "index": 129,
+            "start": 311.05,
+            "end": 313.09,
+            "text": "Белый чувак или тот азиатский товарищ?"
+          },
+          {
+            "index": 130,
+            "start": 313.09,
+            "end": 314.53,
+            "text": "Смотри я даже не знаю этого парня."
+          },
+          {
+            "index": 131,
+            "start": 315.37,
+            "end": 317.5,
+            "text": "-Эй, Тед, как настроение?\n-Эй, как дела?"
+          },
+          {
+            "index": 132,
+            "start": 317.88,
+            "end": 319.03,
+            "text": "Я расстроен."
+          },
+          {
+            "index": 133,
+            "start": 319.03,
+            "end": 321.19,
+            "text": "Я должен внедрить что-то прогрессивное в свои проект"
+          },
+          {
+            "index": 134,
+            "start": 321.19,
+            "end": 323.49,
+            "text": "иначе Билсон просто порубит меня на куски"
+          },
+          {
+            "index": 135,
+            "start": 323.49,
+            "end": 325.6,
+            "text": "Я ненавижу то, что должен отчитываться перед этим парнем."
+          },
+          {
+            "index": 136,
+            "start": 325.66,
+            "end": 327.06,
+            "text": "Ты должен бросить проект."
+          },
+          {
+            "index": 137,
+            "start": 327.06,
+            "end": 328.67,
+            "text": "Ты должен окончательно бросить проект."
+          },
+          {
+            "index": 138,
+            "start": 328.67,
+            "end": 329.56,
+            "text": "Он не для тебя."
+          },
+          {
+            "index": 139,
+            "start": 329.56,
+            "end": 332.66,
+            "text": "Все будет улажено. Тед Мосби начнет новую главу..."
+          },
+          {
+            "index": 140,
+            "start": 332.66,
+            "end": 336.2,
+            "text": "Вы шутите, они просто увольняют другого архитектора из моей фирмы."
+          },
+          {
+            "index": 141,
+            "start": 336.2,
+            "end": 338.54,
+            "text": "Я знаю, что Билсон большая заноза."
+          },
+          {
+            "index": 142,
+            "start": 338.54,
+            "end": 340.92,
+            "text": "Но без этого проекта, я останусь без работы."
+          },
+          {
+            "index": 143,
+            "start": 341.82,
+            "end": 344.47,
+            "text": "Правда, это забавно, что ты упомянул проект."
+          },
+          {
+            "index": 144,
+            "start": 344.47,
+            "end": 345.95,
+            "text": "-Так как...\n-Ты закрываешь его?"
+          },
+          {
+            "index": 145,
+            "start": 345.95,
+            "end": 347.32,
+            "text": "Придерживайся высокой планки, приятель."
+          },
+          {
+            "index": 146,
+            "start": 347.53,
+            "end": 349.66,
+            "text": "Сегодня твои волосы и зубы выглядят фантастическими."
+          },
+          {
+            "index": 147,
+            "start": 349.7,
+            "end": 351.96,
+            "text": "Ты блестишь как алмаз!!"
+          },
+          {
+            "index": 148,
+            "start": 353.4,
+            "end": 354.73,
+            "text": "Спасибо."
+          },
+          {
+            "index": 149,
+            "start": 354.76,
+            "end": 356.53,
+            "text": "Мне нужно это."
+          }
+        ],
+        "bottom": [
+          {
+            "index": 120,
+            "start": 309.843,
+            "end": 311.877,
+            "text": "Am...\n(SHUSHING)\nQuiet, here he comes."
+          },
+          {
+            "index": 121,
+            "start": 311.879,
+            "end": 313.779,
+            "text": "What, the white dude\nor the Asian fellow?"
+          },
+          {
+            "index": 122,
+            "start": 313.781,
+            "end": 315.881,
+            "text": "See? I barely know the guy."
+          },
+          {
+            "index": 123,
+            "start": 315.883,
+            "end": 318.283,
+            "text": "Hey, Ted, what's up?\nHey, how're you doing?"
+          },
+          {
+            "index": 124,
+            "start": 318.285,
+            "end": 321.92,
+            "text": "I'm frustrated.\nAnything innovative\nI put in my designs,"
+          },
+          {
+            "index": 125,
+            "start": 321.922,
+            "end": 324.222,
+            "text": "Bilson just hacks\nout with a machete."
+          },
+          {
+            "index": 126,
+            "start": 324.224,
+            "end": 326.658,
+            "text": "I hate\nhaving to answer\nto a guy like that."
+          },
+          {
+            "index": 127,
+            "start": 326.66,
+            "end": 327.726,
+            "text": "You should\ndrop the project."
+          },
+          {
+            "index": 128,
+            "start": 327.728,
+            "end": 329.261,
+            "text": "You should totally\ndrop the project."
+          },
+          {
+            "index": 129,
+            "start": 329.263,
+            "end": 330.329,
+            "text": "It's beneath you."
+          },
+          {
+            "index": 130,
+            "start": 330.331,
+            "end": 331.897,
+            "text": "Then it's settled.\nTo Ted Mosby's\nnew chapter."
+          },
+          {
+            "index": 131,
+            "start": 331.899,
+            "end": 333.231,
+            "text": "May the wind\nbe at your back,\nand may the road..."
+          },
+          {
+            "index": 132,
+            "start": 333.233,
+            "end": 337.102,
+            "text": "Are you kidding?\nThey just laid off\nanother architect at my firm."
+          },
+          {
+            "index": 133,
+            "start": 337.104,
+            "end": 339.037,
+            "text": "I mean,\nBilson's\na pain, sure,"
+          },
+          {
+            "index": 134,
+            "start": 339.039,
+            "end": 342.274,
+            "text": "but without this project,\nI'm probably out of a job."
+          },
+          {
+            "index": 135,
+            "start": 342.276,
+            "end": 345.21,
+            "text": "Right. Um, it's funny\nthat you mention the\nproject,"
+          },
+          {
+            "index": 136,
+            "start": 345.212,
+            "end": 346.945,
+            "text": "because...\nYou're nailing it."
+          },
+          {
+            "index": 137,
+            "start": 346.947,
+            "end": 348.013,
+            "text": "Keep up the good work, buddy."
+          },
+          {
+            "index": 138,
+            "start": 348.015,
+            "end": 350.649,
+            "text": "Your hair and teeth\nlook fantastic today."
+          },
+          {
+            "index": 139,
+            "start": 350.651,
+            "end": 353.552,
+            "text": "You're shining\nlike a diamond!"
+          },
+          {
+            "index": 140,
+            "start": 354.42,
+            "end": 356.922,
+            "text": "Thank you. I needed that."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 331.301307,
+        "topCueIndex": 139,
+        "bottomCueIndex": 130
+      }
     }
   ]
 }
