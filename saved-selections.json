@@ -15038,6 +15038,285 @@
         "topCueIndex": 42,
         "bottomCueIndex": 39
       }
+    },
+    {
+      "id": "676b2141-f772-40db-8f87-f6b9f0a3185e",
+      "createdAt": "2026-04-29T22:17:44.952Z",
+      "videoName": "S4E18 - Old King Clancy.mkv",
+      "audioTrackName": "S4E18 - Old King Clancy.eng.m4a",
+      "selectedText": "settle down.",
+      "selection": {
+        "rawText": "settle down.",
+        "startOffset": 13,
+        "endOffset": 25,
+        "cueIndex": 61,
+        "cueStart": 183.05,
+        "cueEnd": 184.55,
+        "cueText": "Lily,\nplease settle down."
+      },
+      "context": {
+        "top": [
+          {
+            "index": 59,
+            "start": 157.4,
+            "end": 160.78,
+            "text": "они в некотором роде фантастический сексуальный материал.\nПоверьте мне."
+          },
+          {
+            "index": 60,
+            "start": 160.78,
+            "end": 162.08,
+            "text": "Ты будто бы знаешь что-то..."
+          },
+          {
+            "index": 61,
+            "start": 163.76,
+            "end": 166.02,
+            "text": "Я смущаюсь, но..."
+          },
+          {
+            "index": 62,
+            "start": 166.02,
+            "end": 168.32,
+            "text": "Однажды ночью, я была дома у знаменитости."
+          },
+          {
+            "index": 63,
+            "start": 168.64,
+            "end": 170.94,
+            "text": "Боже мой! Серьезно?"
+          },
+          {
+            "index": 64,
+            "start": 170.94,
+            "end": 174.02,
+            "text": "Да, он хотел сделать эти действительно причудливые вещи со мной,"
+          },
+          {
+            "index": 65,
+            "start": 174.02,
+            "end": 175.61,
+            "text": "Поэтому я уехала. Так все и было."
+          },
+          {
+            "index": 66,
+            "start": 175.61,
+            "end": 176.67,
+            "text": "Конец истории."
+          },
+          {
+            "index": 67,
+            "start": 176.67,
+            "end": 178.81,
+            "text": "Нет, нет, нет, это не конец истории."
+          },
+          {
+            "index": 68,
+            "start": 178.81,
+            "end": 182.8,
+            "text": "Я должна знать с кем, когда и где. Раскажи все!"
+          },
+          {
+            "index": 69,
+            "start": 182.8,
+            "end": 183.78,
+            "text": "Лили, сядь, успокойся,"
+          },
+          {
+            "index": 70,
+            "start": 183.78,
+            "end": 185.18,
+            "text": "дыши глубже."
+          },
+          {
+            "index": 71,
+            "start": 185.44,
+            "end": 187.1,
+            "text": "Но прежде, чем мы продолжим,"
+          },
+          {
+            "index": 72,
+            "start": 187.1,
+            "end": 190.26,
+            "text": "ты мне льстишь, но технически, я не знаменитость."
+          },
+          {
+            "index": 73,
+            "start": 190.95,
+            "end": 194.6,
+            "text": "Тем более, в последний раз, я надевал маску в шутку."
+          },
+          {
+            "index": 74,
+            "start": 194.6,
+            "end": 196.11,
+            "text": "Ладно, но это не ты Барни."
+          },
+          {
+            "index": 75,
+            "start": 196.11,
+            "end": 197.67,
+            "text": "Хорошо, кто же тогда?"
+          },
+          {
+            "index": 76,
+            "start": 198.45,
+            "end": 201.45,
+            "text": "Ну вот, теперь Лили икает."
+          },
+          {
+            "index": 77,
+            "start": 201.45,
+            "end": 203.67,
+            "text": "Ладно, я не буду говорить вам ничего определенного."
+          },
+          {
+            "index": 78,
+            "start": 203.67,
+            "end": 205.58,
+            "text": "Все что я скажу это то,"
+          },
+          {
+            "index": 79,
+            "start": 205.58,
+            "end": 207.04,
+            "text": "что он родился в Канаде,"
+          }
+        ],
+        "bottom": [
+          {
+            "index": 51,
+            "start": 157.658,
+            "end": 160.592,
+            "text": "they're into some\nreally weird sex\nstuff."
+          },
+          {
+            "index": 52,
+            "start": 160.594,
+            "end": 161.527,
+            "text": "Trust me."
+          },
+          {
+            "index": 53,
+            "start": 161.529,
+            "end": 163.862,
+            "text": "How would you know that?"
+          },
+          {
+            "index": 54,
+            "start": 164.564,
+            "end": 166.598,
+            "text": "This is embarrassing,\nbut I..."
+          },
+          {
+            "index": 55,
+            "start": 166.6,
+            "end": 168.5,
+            "text": "I went home with\na celebrity one night."
+          },
+          {
+            "index": 56,
+            "start": 168.502,
+            "end": 171.136,
+            "text": "(GASPS) Oh, my God!\nSeriously?"
+          },
+          {
+            "index": 57,
+            "start": 171.138,
+            "end": 174.606,
+            "text": "Yeah. He wanted\nto do this really\nfreaky thing with me,"
+          },
+          {
+            "index": 58,
+            "start": 174.608,
+            "end": 177.276,
+            "text": "so I left. That's it.\nEnd of story."
+          },
+          {
+            "index": 59,
+            "start": 177.278,
+            "end": 179.111,
+            "text": "No, no,\nnot end of story."
+          },
+          {
+            "index": 60,
+            "start": 179.113,
+            "end": 183.048,
+            "text": "I need to know\nwho, what, when and\nin where. Spill it!"
+          },
+          {
+            "index": 61,
+            "start": 183.05,
+            "end": 184.55,
+            "text": "Lily,\nplease settle down."
+          },
+          {
+            "index": 62,
+            "start": 184.552,
+            "end": 186.451,
+            "text": "You're\nswallowing\ntoo much air."
+          },
+          {
+            "index": 63,
+            "start": 186.453,
+            "end": 187.886,
+            "text": "But before you\ngo any further,"
+          },
+          {
+            "index": 64,
+            "start": 187.888,
+            "end": 190.589,
+            "text": "I'm flattered,\nbut technically,\nI'm not a celebrity."
+          },
+          {
+            "index": 65,
+            "start": 190.591,
+            "end": 194.86,
+            "text": "And plus, for the last time,\nI put the mask on as a joke."
+          },
+          {
+            "index": 66,
+            "start": 194.862,
+            "end": 197.129,
+            "text": "Okay, not you, Barney."
+          },
+          {
+            "index": 67,
+            "start": 197.131,
+            "end": 198.23,
+            "text": "Okay, who is it?"
+          },
+          {
+            "index": 68,
+            "start": 198.232,
+            "end": 199.064,
+            "text": "(HICCUPS)"
+          },
+          {
+            "index": 69,
+            "start": 199.066,
+            "end": 202.1,
+            "text": "Okay,\nnow you gave\nLily the hiccups."
+          },
+          {
+            "index": 70,
+            "start": 202.102,
+            "end": 204.57,
+            "text": "Okay, I won't tell\nyou anything specific,"
+          },
+          {
+            "index": 71,
+            "start": 204.572,
+            "end": 207.706,
+            "text": "but all I'll say is\nhe is Canadian-born,"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 183.325194,
+        "topCueIndex": 69,
+        "bottomCueIndex": 61
+      }
     }
   ]
 }
