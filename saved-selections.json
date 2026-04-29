@@ -14480,6 +14480,285 @@
         "topCueIndex": 23,
         "bottomCueIndex": 19
       }
+    },
+    {
+      "id": "820a5751-edbe-4a13-a3cc-6df59e674244",
+      "createdAt": "2026-04-29T22:15:06.791Z",
+      "videoName": "S4E18 - Old King Clancy.mkv",
+      "audioTrackName": "S4E18 - Old King Clancy.eng.m4a",
+      "selectedText": "have to do with",
+      "selection": {
+        "rawText": "have\nto do with",
+        "startOffset": 15,
+        "endOffset": 30,
+        "cueIndex": 36,
+        "cueStart": 105.873,
+        "cueEnd": 107.973,
+        "cueText": "What does that have\nto do with anything?"
+      },
+      "context": {
+        "top": [
+          {
+            "index": 30,
+            "start": 70.39,
+            "end": 75.22,
+            "text": "Спасибо за внимание, и добро пожаловать домой."
+          },
+          {
+            "index": 31,
+            "start": 80.83,
+            "end": 82.24,
+            "text": "Все шло великолепно,"
+          },
+          {
+            "index": 32,
+            "start": 82.52,
+            "end": 84.48,
+            "text": "Пока однажды, в лифте..."
+          },
+          {
+            "index": 33,
+            "start": 91.19,
+            "end": 92.48,
+            "text": "Да, это Тед"
+          },
+          {
+            "index": 34,
+            "start": 93.18,
+            "end": 94.15,
+            "text": "нет, нет, нет, нет, нет, нет"
+          },
+          {
+            "index": 35,
+            "start": 94.15,
+            "end": 95.41,
+            "text": "Я не могу одобрить такие изменения"
+          },
+          {
+            "index": 36,
+            "start": 95.41,
+            "end": 98.19,
+            "text": "для проекта новой штаб-квартиры GNB"
+          },
+          {
+            "index": 37,
+            "start": 98.19,
+            "end": 99.51,
+            "text": "Я главный архитектор,"
+          },
+          {
+            "index": 38,
+            "start": 99.79,
+            "end": 101.31,
+            "text": "мне 30 лет,"
+          },
+          {
+            "index": 39,
+            "start": 102.12,
+            "end": 105.1,
+            "text": "да, я свободен, и не одобряю благотворительность."
+          },
+          {
+            "index": 40,
+            "start": 105.1,
+            "end": 106.71,
+            "text": "?? N?N‚?? ???????±N‰?µ ?????µ?µN‚ ?·???°N‡?µ?????µ?"
+          },
+          {
+            "index": 41,
+            "start": 107.33,
+            "end": 109.88,
+            "text": "????N€??N???, ???? N????????°????N?, ????N?N‚?µN€ ???µ????N€."
+          },
+          {
+            "index": 42,
+            "start": 111.49,
+            "end": 113.51,
+            "text": "Вы знаете, поддельный телефонный звонок не красит меня?"
+          },
+          {
+            "index": 43,
+            "start": 113.51,
+            "end": 115.7,
+            "text": "Да, конечно я знаю."
+          },
+          {
+            "index": 44,
+            "start": 115.7,
+            "end": 119.1,
+            "text": "Новый проект здания GNB был пересмотрен еще в прошлом месяце."
+          },
+          {
+            "index": 45,
+            "start": 119.47,
+            "end": 121,
+            "text": "Хорошая попытка."
+          },
+          {
+            "index": 46,
+            "start": 122.79,
+            "end": 125.67,
+            "text": "Как я встретил вашу маму."
+          },
+          {
+            "index": 47,
+            "start": 127.68,
+            "end": 130.67,
+            "text": "Сезон 4. Серия 17.\nСтарый Король Кленси."
+          },
+          {
+            "index": 48,
+            "start": 132.68,
+            "end": 134.59,
+            "text": "Перевод: Chikus\nРедакция: JSit"
+          },
+          {
+            "index": 49,
+            "start": 135.85,
+            "end": 138.62,
+            "text": "Вы видели Скарлетт Йоханссон на Оскаре."
+          },
+          {
+            "index": 50,
+            "start": 138.62,
+            "end": 140.27,
+            "text": "Если я мог бы пригласить какую-нибудь знаменитость"
+          }
+        ],
+        "bottom": [
+          {
+            "index": 26,
+            "start": 77.944,
+            "end": 79.745,
+            "text": "(ALL EXCLAIMING)"
+          },
+          {
+            "index": 27,
+            "start": 81.147,
+            "end": 83.215,
+            "text": "OLDER TED:\nEverything\nwas going great,"
+          },
+          {
+            "index": 28,
+            "start": 83.217,
+            "end": 85.984,
+            "text": "until one day,\nin the elevator..."
+          },
+          {
+            "index": 29,
+            "start": 86.619,
+            "end": 88.053,
+            "text": "(CLEARS THROAT)"
+          },
+          {
+            "index": 30,
+            "start": 89.155,
+            "end": 90.589,
+            "text": "Whoa!"
+          },
+          {
+            "index": 31,
+            "start": 92.325,
+            "end": 93.759,
+            "text": "Yeah, it's Ted."
+          },
+          {
+            "index": 32,
+            "start": 93.761,
+            "end": 96.095,
+            "text": "No, no, no, no. I did\nnot approve that change"
+          },
+          {
+            "index": 33,
+            "start": 96.097,
+            "end": 98.764,
+            "text": "for the blueprints\nfor the new GNB\nheadquarters"
+          },
+          {
+            "index": 34,
+            "start": 98.766,
+            "end": 102.668,
+            "text": "for which I'm\nthe head architect\nat only 30 years old."
+          },
+          {
+            "index": 35,
+            "start": 102.67,
+            "end": 105.871,
+            "text": "(CHUCKLING)\nYes, I'm single\nand I give to charity."
+          },
+          {
+            "index": 36,
+            "start": 105.873,
+            "end": 107.973,
+            "text": "What does that have\nto do with anything?"
+          },
+          {
+            "index": 37,
+            "start": 107.975,
+            "end": 111.009,
+            "text": "All right,\ngoodbye, Mr. Mayor."
+          },
+          {
+            "index": 38,
+            "start": 112.045,
+            "end": 113.412,
+            "text": "You know that was\na fake phone call,\ndon't you?"
+          },
+          {
+            "index": 39,
+            "start": 113.414,
+            "end": 121.019,
+            "text": "Yes, and I also know that the\nnew GNB headquarters project\nwas scrapped last month."
+          },
+          {
+            "index": 40,
+            "start": 121.021,
+            "end": 122.621,
+            "text": "Nice try."
+          },
+          {
+            "index": 41,
+            "start": 136.603,
+            "end": 139.471,
+            "text": "Check out Scarlett Johansson\nat the Oscars."
+          },
+          {
+            "index": 42,
+            "start": 139.473,
+            "end": 140.672,
+            "text": "If I could\nnail any celebrity,"
+          },
+          {
+            "index": 43,
+            "start": 140.674,
+            "end": 141.974,
+            "text": "it would definitely\nbe Scarlett Johansson."
+          },
+          {
+            "index": 44,
+            "start": 141.976,
+            "end": 146.178,
+            "text": "Hot,\ntalented, and nobody does\nthat many Woody Allen movies"
+          },
+          {
+            "index": 45,
+            "start": 146.18,
+            "end": 148.147,
+            "text": "without serious daddy issues."
+          },
+          {
+            "index": 46,
+            "start": 148.149,
+            "end": 150.215,
+            "text": "If I could nail any\ncelebrity, it would\nbe Lily."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 106.273484,
+        "topCueIndex": 40,
+        "bottomCueIndex": 36
+      }
     }
   ]
 }
