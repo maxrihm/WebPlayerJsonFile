@@ -18665,6 +18665,285 @@
         "topCueIndex": 150,
         "bottomCueIndex": 141
       }
+    },
+    {
+      "id": "5184cb8e-186c-447a-80d9-27cc5440f9ce",
+      "createdAt": "2026-04-29T22:31:53.614Z",
+      "videoName": "S4E18 - Old King Clancy.mkv",
+      "audioTrackName": "S4E18 - Old King Clancy.eng.m4a",
+      "selectedText": "elaborate,",
+      "selection": {
+        "rawText": "elaborate,",
+        "startOffset": 6,
+        "endOffset": 16,
+        "cueIndex": 152,
+        "cueStart": 384.218,
+        "cueEnd": 388.754,
+        "cueText": "is an elaborate, long-term lie\nthat requires tremendous\ncommitment."
+      },
+      "context": {
+        "top": [
+          {
+            "index": 153,
+            "start": 362.86,
+            "end": 364.9,
+            "text": "Я думаю, вы знаете, что я подразумевал."
+          },
+          {
+            "index": 154,
+            "start": 367,
+            "end": 369.16,
+            "text": "-Что это?\n-Что?"
+          },
+          {
+            "index": 155,
+            "start": 369.2,
+            "end": 370.56,
+            "text": "У меня есть мысль.."
+          },
+          {
+            "index": 156,
+            "start": 370.6,
+            "end": 372.4,
+            "text": "Хорошо, мы будем платить фирме Теда"
+          },
+          {
+            "index": 157,
+            "start": 372.43,
+            "end": 374.2,
+            "text": "еще два месяца, несмотря на то что,"
+          },
+          {
+            "index": 158,
+            "start": 374.23,
+            "end": 375.5,
+            "text": "мы просто не можем позволять ему"
+          },
+          {
+            "index": 159,
+            "start": 375.53,
+            "end": 377.66,
+            "text": "продолжить работу и не сказать ему"
+          },
+          {
+            "index": 160,
+            "start": 377.7,
+            "end": 379.2,
+            "text": "У него был сложный год."
+          },
+          {
+            "index": 161,
+            "start": 379.23,
+            "end": 381.03,
+            "text": "Давайте позволим ему побыть счастливым подольше."
+          },
+          {
+            "index": 162,
+            "start": 381.06,
+            "end": 383.73,
+            "text": "Маршалл, то что ты предлагаешь"
+          },
+          {
+            "index": 163,
+            "start": 383.76,
+            "end": 386.13,
+            "text": "является сложной, долгосрочной ложью,"
+          },
+          {
+            "index": 164,
+            "start": 386.16,
+            "end": 387.83,
+            "text": "которая требует огромных обязательств."
+          },
+          {
+            "index": 165,
+            "start": 387.86,
+            "end": 390.03,
+            "text": "Такой хороший парень как ты не мог такого предложить."
+          },
+          {
+            "index": 166,
+            "start": 390.06,
+            "end": 392.03,
+            "text": "Конечно я мог."
+          },
+          {
+            "index": 167,
+            "start": 392.06,
+            "end": 393.36,
+            "text": "Соври мне прямо сейчас."
+          },
+          {
+            "index": 168,
+            "start": 393.4,
+            "end": 395,
+            "text": "Хорошо."
+          },
+          {
+            "index": 169,
+            "start": 395.03,
+            "end": 396.2,
+            "text": "У меня есть космический корабль."
+          },
+          {
+            "index": 170,
+            "start": 396.23,
+            "end": 397.63,
+            "text": "Какое топливо использует твой космический корабль?"
+          },
+          {
+            "index": 171,
+            "start": 397.66,
+            "end": 398.73,
+            "text": "Ладно, у меня нет космического корабля."
+          },
+          {
+            "index": 172,
+            "start": 398.76,
+            "end": 400.36,
+            "text": "Нет!"
+          },
+          {
+            "index": 173,
+            "start": 400.4,
+            "end": 401.7,
+            "text": "Ты должен стоять на своем!"
+          }
+        ],
+        "bottom": [
+          {
+            "index": 142,
+            "start": 358.692,
+            "end": 364.096,
+            "text": "I've got to find a way to\nintroduce some wood into\nBilson's dark atrium."
+          },
+          {
+            "index": 143,
+            "start": 364.098,
+            "end": 367.132,
+            "text": "I think\nyou know what I meant."
+          },
+          {
+            "index": 144,
+            "start": 367.134,
+            "end": 368.633,
+            "text": "(EXHALES)"
+          },
+          {
+            "index": 145,
+            "start": 368.868,
+            "end": 370.268,
+            "text": "What was that?"
+          },
+          {
+            "index": 146,
+            "start": 370.27,
+            "end": 371.103,
+            "text": "I... I have a thought, okay?"
+          },
+          {
+            "index": 147,
+            "start": 371.105,
+            "end": 374.506,
+            "text": "We're paying Ted's firm for\ntwo more months of design\nwork, no matter what,"
+          },
+          {
+            "index": 148,
+            "start": 374.508,
+            "end": 379.077,
+            "text": "so couldn't\nwe just let him keep\nworking and not tell him?"
+          },
+          {
+            "index": 149,
+            "start": 379.079,
+            "end": 379.878,
+            "text": "He's had a rough year."
+          },
+          {
+            "index": 150,
+            "start": 379.88,
+            "end": 382.447,
+            "text": "Let's\nlet the guy be happy\na little while longer."
+          },
+          {
+            "index": 151,
+            "start": 382.449,
+            "end": 384.216,
+            "text": "Marshall, what\nyou're suggesting"
+          },
+          {
+            "index": 152,
+            "start": 384.218,
+            "end": 388.754,
+            "text": "is an elaborate, long-term lie\nthat requires tremendous\ncommitment."
+          },
+          {
+            "index": 153,
+            "start": 388.756,
+            "end": 391.356,
+            "text": "A nice guy like you\ncan't pull that off."
+          },
+          {
+            "index": 154,
+            "start": 391.358,
+            "end": 394.493,
+            "text": "Sure I can.\nLie to me right now."
+          },
+          {
+            "index": 155,
+            "start": 394.495,
+            "end": 396.795,
+            "text": "Okay. I have a spaceship."
+          },
+          {
+            "index": 156,
+            "start": 396.797,
+            "end": 398.296,
+            "text": "What kind of fuel\npowers your spaceship?"
+          },
+          {
+            "index": 157,
+            "start": 398.298,
+            "end": 399.898,
+            "text": "Okay,\nI don't have a spaceship."
+          },
+          {
+            "index": 158,
+            "start": 399.9,
+            "end": 403.468,
+            "text": "No! Stand your ground.\nIf someone questions you,"
+          },
+          {
+            "index": 159,
+            "start": 403.47,
+            "end": 406.204,
+            "text": "distract them from the\noriginal lie with more lies."
+          },
+          {
+            "index": 160,
+            "start": 406.206,
+            "end": 409.174,
+            "text": "Here, let me demonstrate.\nI own a pony."
+          },
+          {
+            "index": 161,
+            "start": 409.176,
+            "end": 410.475,
+            "text": "Ask me a question."
+          },
+          {
+            "index": 162,
+            "start": 410.477,
+            "end": 413.345,
+            "text": "(SCOFFS) Okay. Um..."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 384.218,
+        "topCueIndex": 163,
+        "bottomCueIndex": 152
+      }
     }
   ]
 }
