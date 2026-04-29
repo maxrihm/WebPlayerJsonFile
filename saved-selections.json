@@ -18386,6 +18386,285 @@
         "topCueIndex": 139,
         "bottomCueIndex": 130
       }
+    },
+    {
+      "id": "2bef62af-c787-4279-abf4-872655d4a878",
+      "createdAt": "2026-04-29T22:30:35.744Z",
+      "videoName": "S4E18 - Old King Clancy.mkv",
+      "audioTrackName": "S4E18 - Old King Clancy.eng.m4a",
+      "selectedText": "head",
+      "selection": {
+        "rawText": "head",
+        "startOffset": 24,
+        "endOffset": 28,
+        "cueIndex": 141,
+        "cueStart": 356.924,
+        "cueEnd": 358.69,
+        "cueText": "All right,\nI'm going to head\nupstairs and keep working."
+      },
+      "context": {
+        "top": [
+          {
+            "index": 140,
+            "start": 332.66,
+            "end": 336.2,
+            "text": "Вы шутите, они просто увольняют другого архитектора из моей фирмы."
+          },
+          {
+            "index": 141,
+            "start": 336.2,
+            "end": 338.54,
+            "text": "Я знаю, что Билсон большая заноза."
+          },
+          {
+            "index": 142,
+            "start": 338.54,
+            "end": 340.92,
+            "text": "Но без этого проекта, я останусь без работы."
+          },
+          {
+            "index": 143,
+            "start": 341.82,
+            "end": 344.47,
+            "text": "Правда, это забавно, что ты упомянул проект."
+          },
+          {
+            "index": 144,
+            "start": 344.47,
+            "end": 345.95,
+            "text": "-Так как...\n-Ты закрываешь его?"
+          },
+          {
+            "index": 145,
+            "start": 345.95,
+            "end": 347.32,
+            "text": "Придерживайся высокой планки, приятель."
+          },
+          {
+            "index": 146,
+            "start": 347.53,
+            "end": 349.66,
+            "text": "Сегодня твои волосы и зубы выглядят фантастическими."
+          },
+          {
+            "index": 147,
+            "start": 349.7,
+            "end": 351.96,
+            "text": "Ты блестишь как алмаз!!"
+          },
+          {
+            "index": 148,
+            "start": 353.4,
+            "end": 354.73,
+            "text": "Спасибо."
+          },
+          {
+            "index": 149,
+            "start": 354.76,
+            "end": 356.53,
+            "text": "Мне нужно это."
+          },
+          {
+            "index": 150,
+            "start": 356.56,
+            "end": 358.6,
+            "text": "Хорошо, я собираюсь пойти наверх и продолжить работу."
+          },
+          {
+            "index": 151,
+            "start": 358.63,
+            "end": 360.4,
+            "text": "Мне нужно найти способ внести свет"
+          },
+          {
+            "index": 152,
+            "start": 360.43,
+            "end": 361.7,
+            "text": "в темный атриум Билсона."
+          },
+          {
+            "index": 153,
+            "start": 362.86,
+            "end": 364.9,
+            "text": "Я думаю, вы знаете, что я подразумевал."
+          },
+          {
+            "index": 154,
+            "start": 367,
+            "end": 369.16,
+            "text": "-Что это?\n-Что?"
+          },
+          {
+            "index": 155,
+            "start": 369.2,
+            "end": 370.56,
+            "text": "У меня есть мысль.."
+          },
+          {
+            "index": 156,
+            "start": 370.6,
+            "end": 372.4,
+            "text": "Хорошо, мы будем платить фирме Теда"
+          },
+          {
+            "index": 157,
+            "start": 372.43,
+            "end": 374.2,
+            "text": "еще два месяца, несмотря на то что,"
+          },
+          {
+            "index": 158,
+            "start": 374.23,
+            "end": 375.5,
+            "text": "мы просто не можем позволять ему"
+          },
+          {
+            "index": 159,
+            "start": 375.53,
+            "end": 377.66,
+            "text": "продолжить работу и не сказать ему"
+          },
+          {
+            "index": 160,
+            "start": 377.7,
+            "end": 379.2,
+            "text": "У него был сложный год."
+          }
+        ],
+        "bottom": [
+          {
+            "index": 131,
+            "start": 331.899,
+            "end": 333.231,
+            "text": "May the wind\nbe at your back,\nand may the road..."
+          },
+          {
+            "index": 132,
+            "start": 333.233,
+            "end": 337.102,
+            "text": "Are you kidding?\nThey just laid off\nanother architect at my firm."
+          },
+          {
+            "index": 133,
+            "start": 337.104,
+            "end": 339.037,
+            "text": "I mean,\nBilson's\na pain, sure,"
+          },
+          {
+            "index": 134,
+            "start": 339.039,
+            "end": 342.274,
+            "text": "but without this project,\nI'm probably out of a job."
+          },
+          {
+            "index": 135,
+            "start": 342.276,
+            "end": 345.21,
+            "text": "Right. Um, it's funny\nthat you mention the\nproject,"
+          },
+          {
+            "index": 136,
+            "start": 345.212,
+            "end": 346.945,
+            "text": "because...\nYou're nailing it."
+          },
+          {
+            "index": 137,
+            "start": 346.947,
+            "end": 348.013,
+            "text": "Keep up the good work, buddy."
+          },
+          {
+            "index": 138,
+            "start": 348.015,
+            "end": 350.649,
+            "text": "Your hair and teeth\nlook fantastic today."
+          },
+          {
+            "index": 139,
+            "start": 350.651,
+            "end": 353.552,
+            "text": "You're shining\nlike a diamond!"
+          },
+          {
+            "index": 140,
+            "start": 354.42,
+            "end": 356.922,
+            "text": "Thank you. I needed that."
+          },
+          {
+            "index": 141,
+            "start": 356.924,
+            "end": 358.69,
+            "text": "All right,\nI'm going to head\nupstairs and keep working."
+          },
+          {
+            "index": 142,
+            "start": 358.692,
+            "end": 364.096,
+            "text": "I've got to find a way to\nintroduce some wood into\nBilson's dark atrium."
+          },
+          {
+            "index": 143,
+            "start": 364.098,
+            "end": 367.132,
+            "text": "I think\nyou know what I meant."
+          },
+          {
+            "index": 144,
+            "start": 367.134,
+            "end": 368.633,
+            "text": "(EXHALES)"
+          },
+          {
+            "index": 145,
+            "start": 368.868,
+            "end": 370.268,
+            "text": "What was that?"
+          },
+          {
+            "index": 146,
+            "start": 370.27,
+            "end": 371.103,
+            "text": "I... I have a thought, okay?"
+          },
+          {
+            "index": 147,
+            "start": 371.105,
+            "end": 374.506,
+            "text": "We're paying Ted's firm for\ntwo more months of design\nwork, no matter what,"
+          },
+          {
+            "index": 148,
+            "start": 374.508,
+            "end": 379.077,
+            "text": "so couldn't\nwe just let him keep\nworking and not tell him?"
+          },
+          {
+            "index": 149,
+            "start": 379.079,
+            "end": 379.878,
+            "text": "He's had a rough year."
+          },
+          {
+            "index": 150,
+            "start": 379.88,
+            "end": 382.447,
+            "text": "Let's\nlet the guy be happy\na little while longer."
+          },
+          {
+            "index": 151,
+            "start": 382.449,
+            "end": 384.216,
+            "text": "Marshall, what\nyou're suggesting"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 356.924,
+        "topCueIndex": 150,
+        "bottomCueIndex": 141
+      }
     }
   ]
 }
