@@ -14201,6 +14201,285 @@
         "topCueIndex": 21,
         "bottomCueIndex": 17
       }
+    },
+    {
+      "id": "15672f66-e39b-45bf-b3df-191238e89377",
+      "createdAt": "2026-04-29T22:12:24.793Z",
+      "videoName": "S4E18 - Old King Clancy.mkv",
+      "audioTrackName": "S4E18 - Old King Clancy.eng.m4a",
+      "selectedText": "contemplation.",
+      "selection": {
+        "rawText": "contemplation.",
+        "startOffset": 42,
+        "endOffset": 56,
+        "cueIndex": 19,
+        "cueStart": 56.023,
+        "cueEnd": 59.091,
+        "cueText": "We'll have\na rooftop Zen garden\nfor quiet contemplation."
+      },
+      "context": {
+        "top": [
+          {
+            "index": 13,
+            "start": 30.99,
+            "end": 32.8,
+            "text": "Мы никогда не одобрим это!"
+          },
+          {
+            "index": 14,
+            "start": 32.8,
+            "end": 35.9,
+            "text": "Вы работаете в темноте, вы идете домой в темноте"
+          },
+          {
+            "index": 15,
+            "start": 36.07,
+            "end": 39.87,
+            "text": "Вы проводите весь свой проклятый день в темноте!"
+          },
+          {
+            "index": 16,
+            "start": 39.93,
+            "end": 42.58,
+            "text": "Мне надо услышать голос Лили"
+          },
+          {
+            "index": 17,
+            "start": 42.58,
+            "end": 43.9,
+            "text": "Быстро сел на место."
+          },
+          {
+            "index": 18,
+            "start": 45.34,
+            "end": 48.18,
+            "text": "Билсон убивает каждую оригинальную идею, которая у меня появляется"
+          },
+          {
+            "index": 19,
+            "start": 48.18,
+            "end": 48.96,
+            "text": "Но, однажды"
+          },
+          {
+            "index": 20,
+            "start": 48.96,
+            "end": 50.77,
+            "text": "GNB начал проект"
+          },
+          {
+            "index": 21,
+            "start": 50.77,
+            "end": 53.92,
+            "text": "по созданию новой оперативной группы, для наблюдения за моими проектами"
+          },
+          {
+            "index": 22,
+            "start": 53.92,
+            "end": 55.66,
+            "text": "И все изменилось..."
+          },
+          {
+            "index": 23,
+            "start": 55.81,
+            "end": 56.86,
+            "text": "У нас будет сад на крыше"
+          },
+          {
+            "index": 24,
+            "start": 56.86,
+            "end": 58.76,
+            "text": "для спокойного отдыха"
+          },
+          {
+            "index": 25,
+            "start": 58.76,
+            "end": 60.27,
+            "text": "У нас будет место,"
+          },
+          {
+            "index": 26,
+            "start": 60.27,
+            "end": 63.89,
+            "text": "где дети служаших смогут делать все что захочется."
+          },
+          {
+            "index": 27,
+            "start": 63.89,
+            "end": 65.07,
+            "text": "Новый GNB,"
+          },
+          {
+            "index": 28,
+            "start": 65.07,
+            "end": 67.5,
+            "text": "это то место,"
+          },
+          {
+            "index": 29,
+            "start": 67.5,
+            "end": 70.39,
+            "text": "которое вы можете назвать своим домом."
+          },
+          {
+            "index": 30,
+            "start": 70.39,
+            "end": 75.22,
+            "text": "Спасибо за внимание, и добро пожаловать домой."
+          },
+          {
+            "index": 31,
+            "start": 80.83,
+            "end": 82.24,
+            "text": "Все шло великолепно,"
+          },
+          {
+            "index": 32,
+            "start": 82.52,
+            "end": 84.48,
+            "text": "Пока однажды, в лифте..."
+          },
+          {
+            "index": 33,
+            "start": 91.19,
+            "end": 92.48,
+            "text": "Да, это Тед"
+          }
+        ],
+        "bottom": [
+          {
+            "index": 9,
+            "start": 25.726,
+            "end": 29.261,
+            "text": "Natural light\nreminds the workers that\nthere is an outside world"
+          },
+          {
+            "index": 10,
+            "start": 29.263,
+            "end": 33.799,
+            "text": "where they have\nfamily and friends.\nWe want to crush that!"
+          },
+          {
+            "index": 11,
+            "start": 33.801,
+            "end": 36.769,
+            "text": "You show up in the dark,\nyou go home in the dark."
+          },
+          {
+            "index": 12,
+            "start": 36.771,
+            "end": 40.806,
+            "text": "You spend your whole\ndamn day in the dark!"
+          },
+          {
+            "index": 13,
+            "start": 40.808,
+            "end": 43.275,
+            "text": "(WHISPERING) I need\nto hear Lily's voice."
+          },
+          {
+            "index": 14,
+            "start": 43.277,
+            "end": 45.377,
+            "text": "Who said you could leave?"
+          },
+          {
+            "index": 15,
+            "start": 45.379,
+            "end": 49.014,
+            "text": "OLDER TED:\nBilson was killing\nevery original idea I had."
+          },
+          {
+            "index": 16,
+            "start": 49.016,
+            "end": 51.083,
+            "text": "Then, one day, GNB\ntook him off the\nproject"
+          },
+          {
+            "index": 17,
+            "start": 51.085,
+            "end": 54.453,
+            "text": "and created\na new task force\nto oversee my designs."
+          },
+          {
+            "index": 18,
+            "start": 54.455,
+            "end": 56.021,
+            "text": "Suddenly,\neverything changed."
+          },
+          {
+            "index": 19,
+            "start": 56.023,
+            "end": 59.091,
+            "text": "We'll have\na rooftop Zen garden\nfor quiet contemplation."
+          },
+          {
+            "index": 20,
+            "start": 59.093,
+            "end": 61.36,
+            "text": "We'll have\na reflecting pool\nin the lobby where"
+          },
+          {
+            "index": 21,
+            "start": 61.362,
+            "end": 64.663,
+            "text": "local children can\ncome to make wishes."
+          },
+          {
+            "index": 22,
+            "start": 64.665,
+            "end": 67.699,
+            "text": "The new GNB,\na place of work"
+          },
+          {
+            "index": 23,
+            "start": 68.234,
+            "end": 70.569,
+            "text": "that you can call home."
+          },
+          {
+            "index": 24,
+            "start": 71.237,
+            "end": 73.705,
+            "text": "Thank you, and, um,"
+          },
+          {
+            "index": 25,
+            "start": 74.207,
+            "end": 75.841,
+            "text": "welcome home."
+          },
+          {
+            "index": 26,
+            "start": 77.944,
+            "end": 79.745,
+            "text": "(ALL EXCLAIMING)"
+          },
+          {
+            "index": 27,
+            "start": 81.147,
+            "end": 83.215,
+            "text": "OLDER TED:\nEverything\nwas going great,"
+          },
+          {
+            "index": 28,
+            "start": 83.217,
+            "end": 85.984,
+            "text": "until one day,\nin the elevator..."
+          },
+          {
+            "index": 29,
+            "start": 86.619,
+            "end": 88.053,
+            "text": "(CLEARS THROAT)"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 57.766849,
+        "topCueIndex": 23,
+        "bottomCueIndex": 19
+      }
     }
   ]
 }
