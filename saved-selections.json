@@ -19781,6 +19781,285 @@
         "topCueIndex": 184,
         "bottomCueIndex": 167
       }
+    },
+    {
+      "id": "eacc2670-9161-4e68-a4e4-3494f24cbb20",
+      "createdAt": "2026-04-29T22:34:54.338Z",
+      "videoName": "S4E18 - Old King Clancy.mkv",
+      "audioTrackName": "S4E18 - Old King Clancy.eng.m4a",
+      "selectedText": "got screwed",
+      "selection": {
+        "rawText": "got screwed",
+        "startOffset": 29,
+        "endOffset": 40,
+        "cueIndex": 179,
+        "cueStart": 449.383,
+        "cueEnd": 453.118,
+        "cueText": "I can't believe this.\nI just got screwed by\nmy two best friends,"
+      },
+      "context": {
+        "top": [
+          {
+            "index": 186,
+            "start": 426.13,
+            "end": 429.23,
+            "text": "и нет ничего, чем ветеринар мог бы помочь ей."
+          },
+          {
+            "index": 187,
+            "start": 429.26,
+            "end": 430.73,
+            "text": "О Боже мой!"
+          },
+          {
+            "index": 188,
+            "start": 430.76,
+            "end": 432.5,
+            "text": "Это ужасно."
+          },
+          {
+            "index": 189,
+            "start": 432.53,
+            "end": 433.73,
+            "text": "С Одуванчиком все будет хорошо."
+          },
+          {
+            "index": 190,
+            "start": 434.76,
+            "end": 436.1,
+            "text": "Хорошо."
+          },
+          {
+            "index": 191,
+            "start": 436.13,
+            "end": 437.1,
+            "text": "Все хорошо. Ха!"
+          },
+          {
+            "index": 192,
+            "start": 437.13,
+            "end": 438.43,
+            "text": "Ты великолепен!"
+          },
+          {
+            "index": 193,
+            "start": 438.46,
+            "end": 441.06,
+            "text": "Одуванчик даже не болен, не так ли?"
+          },
+          {
+            "index": 194,
+            "start": 442.43,
+            "end": 444.83,
+            "text": "Так проект действительно пересмотрели"
+          },
+          {
+            "index": 195,
+            "start": 444.86,
+            "end": 446.4,
+            "text": "и вы парни солгали мне."
+          },
+          {
+            "index": 196,
+            "start": 446.43,
+            "end": 449.46,
+            "text": "Мы сделали это, чтобы защитить тебя, Тед."
+          },
+          {
+            "index": 197,
+            "start": 449.5,
+            "end": 452.3,
+            "text": "Я не могу поверить в это. Я только что был обманут двумя моими лучшими друзьями"
+          },
+          {
+            "index": 198,
+            "start": 452.33,
+            "end": 453.7,
+            "text": "и я даже не знал этого."
+          },
+          {
+            "index": 199,
+            "start": 455.86,
+            "end": 458.76,
+            "text": "В Канаде это называется \"Трусливый Снегоочиститель.\""
+          },
+          {
+            "index": 200,
+            "start": 460.76,
+            "end": 464.9,
+            "text": "Это здание было работой моей мечты, и теперь, это всего лишь воспоминание."
+          },
+          {
+            "index": 201,
+            "start": 468.93,
+            "end": 470.16,
+            "text": "Нам так жаль, Тед."
+          },
+          {
+            "index": 202,
+            "start": 470.2,
+            "end": 471.9,
+            "text": "Да, мне нужно выпить."
+          },
+          {
+            "index": 203,
+            "start": 472.63,
+            "end": 473.66,
+            "text": "Бедный Тед."
+          },
+          {
+            "index": 204,
+            "start": 473.7,
+            "end": 475.9,
+            "text": "Возможно я покажусь бессердечным,"
+          },
+          {
+            "index": 205,
+            "start": 475.9,
+            "end": 478.2,
+            "text": "но я переключусь обратно на канадские половые акты"
+          },
+          {
+            "index": 206,
+            "start": 478.23,
+            "end": 479.16,
+            "text": "-Все нормально.\n-Я удивлен, что вы так долго ждали."
+          }
+        ],
+        "bottom": [
+          {
+            "index": 169,
+            "start": 424.792,
+            "end": 427.125,
+            "text": "a sickly,\ngrayish-white color,"
+          },
+          {
+            "index": 170,
+            "start": 427.127,
+            "end": 428.326,
+            "text": "(VOICE TREMBLING)\nand there's nothing"
+          },
+          {
+            "index": 171,
+            "start": 428.328,
+            "end": 430.362,
+            "text": "that the vet\ncan do to fix her."
+          },
+          {
+            "index": 172,
+            "start": 430.364,
+            "end": 433.165,
+            "text": "My God! I'm...\nThat's horrible."
+          },
+          {
+            "index": 173,
+            "start": 433.167,
+            "end": 435.934,
+            "text": "Is Dandelion\ngoing to be okay?"
+          },
+          {
+            "index": 174,
+            "start": 435.936,
+            "end": 438.203,
+            "text": "Okay.\nAll right.\nYou are good!"
+          },
+          {
+            "index": 175,
+            "start": 438.205,
+            "end": 438.804,
+            "text": "Huh?"
+          },
+          {
+            "index": 176,
+            "start": 438.806,
+            "end": 442.974,
+            "text": "Dandelion's not\neven sick, is she?"
+          },
+          {
+            "index": 177,
+            "start": 442.976,
+            "end": 447.345,
+            "text": "So the\nbuilding's really dead\nand you guys lied to me?"
+          },
+          {
+            "index": 178,
+            "start": 447.347,
+            "end": 449.381,
+            "text": "We just did it to\nprotect you, Ted."
+          },
+          {
+            "index": 179,
+            "start": 449.383,
+            "end": 453.118,
+            "text": "I can't believe this.\nI just got screwed by\nmy two best friends,"
+          },
+          {
+            "index": 180,
+            "start": 453.12,
+            "end": 455.654,
+            "text": "and I didn't even know it."
+          },
+          {
+            "index": 181,
+            "start": 456.122,
+            "end": 459.791,
+            "text": "In Canada,\nthat's called a\n\"Sneaky Snowplow.\""
+          },
+          {
+            "index": 182,
+            "start": 464.397,
+            "end": 469.067,
+            "text": "That building\nwas my dream job,\nand now, it's just gone."
+          },
+          {
+            "index": 183,
+            "start": 469.069,
+            "end": 470.168,
+            "text": "We're so sorry, Ted."
+          },
+          {
+            "index": 184,
+            "start": 470.17,
+            "end": 472.471,
+            "text": "(SIGHS) I need a drink."
+          },
+          {
+            "index": 185,
+            "start": 472.905,
+            "end": 473.839,
+            "text": "Poor Ted."
+          },
+          {
+            "index": 186,
+            "start": 473.841,
+            "end": 477.142,
+            "text": "Would I seem\nheartless if I switched us\nback to Canadian Sex Acts?"
+          },
+          {
+            "index": 187,
+            "start": 477.144,
+            "end": 479.377,
+            "text": "Not at all.\nI'm surprised\nyou waited this long."
+          },
+          {
+            "index": 188,
+            "start": 479.379,
+            "end": 481.112,
+            "text": "What the hell is\na Two-Hand Zamboni?"
+          },
+          {
+            "index": 189,
+            "start": 481.114,
+            "end": 487.285,
+            "text": "Let's just say the only thing\nthe woman is wearing is\nskates on her hands."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 450.465077,
+        "topCueIndex": 196,
+        "bottomCueIndex": 179
+      }
     }
   ]
 }
