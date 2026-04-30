@@ -25082,6 +25082,285 @@
         "topCueIndex": 379,
         "bottomCueIndex": 336
       }
+    },
+    {
+      "id": "f0478ed7-55dc-4831-b42c-1afca5fe2d4d",
+      "createdAt": "2026-04-30T20:23:31.252Z",
+      "videoName": "S4E18 - Old King Clancy.mkv",
+      "audioTrackName": "S4E18 - Old King Clancy.eng.m4a",
+      "selectedText": "touches",
+      "selection": {
+        "rawText": "touches",
+        "startOffset": 26,
+        "endOffset": 33,
+        "cueIndex": 340,
+        "cueStart": 960.593,
+        "cueEnd": 961.659,
+        "cueText": "Can you add some\nof these touches"
+      },
+      "context": {
+        "top": [
+          {
+            "index": 375,
+            "start": 940.83,
+            "end": 942.86,
+            "text": "Здесь будет, фонтан Новых Начинаний."
+          },
+          {
+            "index": 376,
+            "start": 942.9,
+            "end": 944.53,
+            "text": "Е мое."
+          },
+          {
+            "index": 377,
+            "start": 944.56,
+            "end": 945.73,
+            "text": "И теперь у вас есть все это."
+          },
+          {
+            "index": 378,
+            "start": 945.76,
+            "end": 948.56,
+            "text": "Вместо бесцветной, темной тюремной камеры,"
+          },
+          {
+            "index": 379,
+            "start": 948.6,
+            "end": 950.7,
+            "text": "Фонтан..."
+          },
+          {
+            "index": 380,
+            "start": 951.93,
+            "end": 955.26,
+            "text": "Рождение новой жизни."
+          },
+          {
+            "index": 381,
+            "start": 955.3,
+            "end": 956.4,
+            "text": "Мне нравится это."
+          },
+          {
+            "index": 382,
+            "start": 956.43,
+            "end": 958.1,
+            "text": "-Действительно?\n-Да."
+          },
+          {
+            "index": 383,
+            "start": 958.13,
+            "end": 959.26,
+            "text": "Хорошая работа, Тед."
+          },
+          {
+            "index": 384,
+            "start": 959.3,
+            "end": 960.3,
+            "text": "Спасибо."
+          },
+          {
+            "index": 385,
+            "start": 960.33,
+            "end": 961.6,
+            "text": "18ETR\nТы можешь добавить еще что-нибудь,"
+          },
+          {
+            "index": 386,
+            "start": 961.63,
+            "end": 963.76,
+            "text": "к уже существующему 18 этажу E.T.R.?"
+          },
+          {
+            "index": 387,
+            "start": 963.8,
+            "end": 965.8,
+            "text": "-Безусловно.\n-Великолепно."
+          },
+          {
+            "index": 388,
+            "start": 965.83,
+            "end": 968.16,
+            "text": "Давайте взглянем на это."
+          },
+          {
+            "index": 389,
+            "start": 971.8,
+            "end": 973.56,
+            "text": "Окей, я думаю что эта стена..."
+          },
+          {
+            "index": 390,
+            "start": 973.6,
+            "end": 974.56,
+            "text": "Ты уволен!"
+          },
+          {
+            "index": 391,
+            "start": 974.6,
+            "end": 975.6,
+            "text": "Что?"
+          },
+          {
+            "index": 392,
+            "start": 975.63,
+            "end": 976.73,
+            "text": "Я хочу эту комнату!"
+          },
+          {
+            "index": 393,
+            "start": 976.76,
+            "end": 979.76,
+            "text": "Эту же самую комнату двумя этажами выше!"
+          },
+          {
+            "index": 394,
+            "start": 979.8,
+            "end": 980.53,
+            "text": "Но..."
+          },
+          {
+            "index": 395,
+            "start": 980.56,
+            "end": 982.13,
+            "text": "Ты уволен!"
+          }
+        ],
+        "bottom": [
+          {
+            "index": 330,
+            "start": 934.734,
+            "end": 935.8,
+            "text": "Uh-oh."
+          },
+          {
+            "index": 331,
+            "start": 935.802,
+            "end": 938.603,
+            "text": "Here, you'll find\na soothing oval\nchamber"
+          },
+          {
+            "index": 332,
+            "start": 938.605,
+            "end": 940.505,
+            "text": "with a trained\ngrief counselor."
+          },
+          {
+            "index": 333,
+            "start": 940.507,
+            "end": 943.641,
+            "text": "It's right here, past\nthe New Beginnings\nFountain."
+          },
+          {
+            "index": 334,
+            "start": 943.643,
+            "end": 944.342,
+            "text": "Uh-oh."
+          },
+          {
+            "index": 335,
+            "start": 944.344,
+            "end": 948.78,
+            "text": "And there you have it.\nInstead of a drab,\ndark prison cell,"
+          },
+          {
+            "index": 336,
+            "start": 948.782,
+            "end": 955.954,
+            "text": "a nurturing\nwomb birthing\nyou into a new life."
+          },
+          {
+            "index": 337,
+            "start": 955.956,
+            "end": 956.955,
+            "text": "I love it."
+          },
+          {
+            "index": 338,
+            "start": 956.957,
+            "end": 958.589,
+            "text": "Really?\nYeah."
+          },
+          {
+            "index": 339,
+            "start": 958.591,
+            "end": 960.591,
+            "text": "Nice work, Ted.\nThank you."
+          },
+          {
+            "index": 340,
+            "start": 960.593,
+            "end": 961.659,
+            "text": "Can you add some\nof these touches"
+          },
+          {
+            "index": 341,
+            "start": 961.661,
+            "end": 964.329,
+            "text": "to the existing\n18th Floor ETR\nas well?"
+          },
+          {
+            "index": 342,
+            "start": 964.331,
+            "end": 966.331,
+            "text": "Absolutely.\nGreat."
+          },
+          {
+            "index": 343,
+            "start": 966.333,
+            "end": 968.533,
+            "text": "Let's take a look."
+          },
+          {
+            "index": 344,
+            "start": 971.737,
+            "end": 974.238,
+            "text": "Okay, so I'm\nthinking this wall..."
+          },
+          {
+            "index": 345,
+            "start": 974.24,
+            "end": 975.006,
+            "text": "You're fired!"
+          },
+          {
+            "index": 346,
+            "start": 975.008,
+            "end": 977.442,
+            "text": "What?\nI wanted this room!"
+          },
+          {
+            "index": 347,
+            "start": 977.444,
+            "end": 980.244,
+            "text": "This exact room,\ntwo floors up!"
+          },
+          {
+            "index": 348,
+            "start": 980.246,
+            "end": 982.413,
+            "text": "But...\nYou're fired!"
+          },
+          {
+            "index": 349,
+            "start": 982.415,
+            "end": 984.749,
+            "text": "Now, get the hell\nout of here."
+          },
+          {
+            "index": 350,
+            "start": 984.751,
+            "end": 986.718,
+            "text": "(CELL PHONE RINGING)"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 961.105113,
+        "topCueIndex": 385,
+        "bottomCueIndex": 340
+      }
     }
   ]
 }
