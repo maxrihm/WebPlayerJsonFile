@@ -20339,6 +20339,285 @@
         "topCueIndex": 233,
         "bottomCueIndex": 208
       }
+    },
+    {
+      "id": "0ad264d5-0d90-4da1-b031-a8d49bdc0c88",
+      "createdAt": "2026-04-30T19:30:34.903Z",
+      "videoName": "S4E18 - Old King Clancy.mkv",
+      "audioTrackName": "S4E18 - Old King Clancy.eng.m4a",
+      "selectedText": "own",
+      "selection": {
+        "rawText": "own",
+        "startOffset": 40,
+        "endOffset": 43,
+        "cueIndex": 232,
+        "cueStart": 602.469,
+        "cueEnd": 608.139,
+        "cueText": "He's actually Crazy Arty,\n15th Street's own one-man\nband."
+      },
+      "context": {
+        "top": [
+          {
+            "index": 250,
+            "start": 576.9,
+            "end": 578.8,
+            "text": "Ты можешь сказать что-нибудь?"
+          },
+          {
+            "index": 251,
+            "start": 578.83,
+            "end": 581,
+            "text": "No hablo Ingles. (Я не говорю по английски)"
+          },
+          {
+            "index": 252,
+            "start": 581.03,
+            "end": 582.36,
+            "text": "Точно."
+          },
+          {
+            "index": 253,
+            "start": 582.4,
+            "end": 584.46,
+            "text": "Это большой секрет."
+          },
+          {
+            "index": 254,
+            "start": 584.5,
+            "end": 586.06,
+            "text": "Как сказать тайна по испански?"
+          },
+          {
+            "index": 255,
+            "start": 586.1,
+            "end": 588.06,
+            "text": "Albondigas"
+          },
+          {
+            "index": 256,
+            "start": 588.1,
+            "end": 591,
+            "text": "А, конечно. Albondigas."
+          },
+          {
+            "index": 257,
+            "start": 591.03,
+            "end": 595.13,
+            "text": "Это будет нашей маленькой albondigas."
+          },
+          {
+            "index": 258,
+            "start": 596.03,
+            "end": 598.3,
+            "text": "Могу я взять пару тефтелей, пожалуйста?"
+          },
+          {
+            "index": 259,
+            "start": 599.86,
+            "end": 602.13,
+            "text": "И Артур Найсмит, эксцентричный гений, гуру"
+          },
+          {
+            "index": 260,
+            "start": 602.16,
+            "end": 604,
+            "text": "корпоративных инвестиций."
+          },
+          {
+            "index": 261,
+            "start": 604.03,
+            "end": 605.46,
+            "text": "В реальности он..."
+          },
+          {
+            "index": 262,
+            "start": 605.5,
+            "end": 609.1,
+            "text": "Сумасшедший Арти, человек-оркестр на 15 улице ."
+          },
+          {
+            "index": 263,
+            "start": 609.13,
+            "end": 610.06,
+            "text": "Извини меня."
+          },
+          {
+            "index": 264,
+            "start": 610.1,
+            "end": 611.13,
+            "text": "Ты не мог бы уделить мне одну минутку"
+          },
+          {
+            "index": 265,
+            "start": 611.16,
+            "end": 612.9,
+            "text": "Конечно, мой ассистент, Реджинальд,"
+          },
+          {
+            "index": 266,
+            "start": 612.93,
+            "end": 613.96,
+            "text": "управляет всеми моими делами."
+          },
+          {
+            "index": 267,
+            "start": 619.26,
+            "end": 621.73,
+            "text": "Мы дополнили группу несколькими стажерами и заплатили каждому 50 баксов"
+          },
+          {
+            "index": 268,
+            "start": 624.13,
+            "end": 625.93,
+            "text": "Они очень заинтересовались тем, что ты рассказал."
+          },
+          {
+            "index": 269,
+            "start": 632.7,
+            "end": 635.7,
+            "text": "Реджинальд, запиши меня снова на следующей неделе."
+          },
+          {
+            "index": 270,
+            "start": 635.73,
+            "end": 638.36,
+            "text": "Это была самая вдохновенная архитекторская работа,"
+          }
+        ],
+        "bottom": [
+          {
+            "index": 222,
+            "start": 570.47,
+            "end": 573.505,
+            "text": "She's actually\nLouisa the lunch lady."
+          },
+          {
+            "index": 223,
+            "start": 573.507,
+            "end": 578.577,
+            "text": "Louisa, I need\nyour help with something,\nbut you can't tell anybody."
+          },
+          {
+            "index": 224,
+            "start": 578.579,
+            "end": 580.512,
+            "text": "(SPEAKING SPANISH)"
+          },
+          {
+            "index": 225,
+            "start": 580.514,
+            "end": 583.248,
+            "text": "Exactly.\nThis is a big secret."
+          },
+          {
+            "index": 226,
+            "start": 583.25,
+            "end": 586.117,
+            "text": "How do you say\n\"secret\" in Spanish?"
+          },
+          {
+            "index": 227,
+            "start": 586.119,
+            "end": 587.552,
+            "text": "(SPEAKING SPANISH)"
+          },
+          {
+            "index": 228,
+            "start": 587.554,
+            "end": 590.455,
+            "text": "Ah. Yes, albóndigas."
+          },
+          {
+            "index": 229,
+            "start": 590.457,
+            "end": 595.026,
+            "text": "This will be our\nlittle albondigas."
+          },
+          {
+            "index": 230,
+            "start": 595.227,
+            "end": 597.629,
+            "text": "Hey,\ncan I have a couple\nof meatballs, please?"
+          },
+          {
+            "index": 231,
+            "start": 597.631,
+            "end": 602.467,
+            "text": "And Arthur Naismith,\nthe eccentric genius guru\nof corporate investments?"
+          },
+          {
+            "index": 232,
+            "start": 602.469,
+            "end": 608.139,
+            "text": "He's actually Crazy Arty,\n15th Street's own one-man\nband."
+          },
+          {
+            "index": 233,
+            "start": 608.141,
+            "end": 609.574,
+            "text": "Excuse me.\n(SHRIEKS) Ah!"
+          },
+          {
+            "index": 234,
+            "start": 609.576,
+            "end": 610.575,
+            "text": "Do you have\na minute to talk?"
+          },
+          {
+            "index": 235,
+            "start": 610.577,
+            "end": 615.18,
+            "text": "Actually,\nmy assistant, Reginald,\nmakes all my appointments."
+          },
+          {
+            "index": 236,
+            "start": 618.818,
+            "end": 620.418,
+            "text": "We rounded out the\ngroup with a few\ninterns"
+          },
+          {
+            "index": 237,
+            "start": 620.42,
+            "end": 625.457,
+            "text": "and paid everyone 50 bucks to\nact super-interested in what\nyou were saying."
+          },
+          {
+            "index": 238,
+            "start": 631.631,
+            "end": 635.567,
+            "text": "Reginald, get me out\nof this for next week."
+          },
+          {
+            "index": 239,
+            "start": 635.569,
+            "end": 636.568,
+            "text": "That was some of\nthe most inspired"
+          },
+          {
+            "index": 240,
+            "start": 636.57,
+            "end": 641.94,
+            "text": "design work I've done\nin my entire career.\nI was so excited."
+          },
+          {
+            "index": 241,
+            "start": 643.743,
+            "end": 647.512,
+            "text": "Alex Trebek, a Musty\nGoaltender, Beanie\nBabies!"
+          },
+          {
+            "index": 242,
+            "start": 647.514,
+            "end": 648.48,
+            "text": "Nope.\nDamn it!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 607.433697,
+        "topCueIndex": 260,
+        "bottomCueIndex": 232
+      }
     }
   ]
 }
