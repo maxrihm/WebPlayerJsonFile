@@ -21734,6 +21734,285 @@
         "topCueIndex": 335,
         "bottomCueIndex": 299
       }
+    },
+    {
+      "id": "643df0e5-8f36-4d3c-af34-8f79adfb46d8",
+      "createdAt": "2026-04-30T19:42:14.137Z",
+      "videoName": "S4E18 - Old King Clancy.mkv",
+      "audioTrackName": "S4E18 - Old King Clancy.eng.m4a",
+      "selectedText": "head off",
+      "selection": {
+        "rawText": "head off",
+        "startOffset": 40,
+        "endOffset": 48,
+        "cueIndex": 303,
+        "cueStart": 821.655,
+        "cueEnd": 826.191,
+        "cueText": "Anything you want to lie\nabout before I head off\nto work to get fired?"
+      },
+      "context": {
+        "top": [
+          {
+            "index": 331,
+            "start": 793.36,
+            "end": 797.13,
+            "text": "Я только что потерял целый месяц своей жизни,\nна работу над никому не нужным проектом."
+          },
+          {
+            "index": 332,
+            "start": 797.16,
+            "end": 798.23,
+            "text": "Это время я мог бы потратить"
+          },
+          {
+            "index": 333,
+            "start": 798.26,
+            "end": 799.73,
+            "text": "на то чтобы привнести в фирму новые веяния."
+          },
+          {
+            "index": 334,
+            "start": 799.76,
+            "end": 802.66,
+            "text": "Теперь, я пойду туда завтра утром."
+          },
+          {
+            "index": 335,
+            "start": 802.7,
+            "end": 804.03,
+            "text": "Возможно меня собираются уволить."
+          },
+          {
+            "index": 336,
+            "start": 804.06,
+            "end": 805.63,
+            "text": "И в лучшем случае,"
+          },
+          {
+            "index": 337,
+            "start": 805.66,
+            "end": 808.46,
+            "text": "мой босс опозорит меня перед всеми."
+          },
+          {
+            "index": 338,
+            "start": 810.33,
+            "end": 811.56,
+            "text": "Возвращайся домой, мы вызовем тебя, друг..."
+          },
+          {
+            "index": 339,
+            "start": 811.6,
+            "end": 812.6,
+            "text": "\"Саскатунский тотемный столб.\""
+          },
+          {
+            "index": 340,
+            "start": 812.63,
+            "end": 813.63,
+            "text": "-Да.\n-Он здесь."
+          },
+          {
+            "index": 341,
+            "start": 819.76,
+            "end": 821.76,
+            "text": "Доброе утро, лживые ублюдки."
+          },
+          {
+            "index": 342,
+            "start": 821.8,
+            "end": 823.7,
+            "text": "Еще хотите что-нибудь соврать?"
+          },
+          {
+            "index": 343,
+            "start": 823.73,
+            "end": 825.73,
+            "text": "до того как я помешаю своему увольнению?"
+          },
+          {
+            "index": 344,
+            "start": 825.76,
+            "end": 827.5,
+            "text": "- Это отличная рубашка.\n- Ты дьявольски хорош."
+          },
+          {
+            "index": 345,
+            "start": 827.53,
+            "end": 829.6,
+            "text": "Тед, что если мы сообщим, что нашли тебе"
+          },
+          {
+            "index": 346,
+            "start": 829.63,
+            "end": 831.86,
+            "text": "новый проект в GNB где ты можешь"
+          },
+          {
+            "index": 347,
+            "start": 831.9,
+            "end": 833.6,
+            "text": "переделать часть 20-го этажа"
+          },
+          {
+            "index": 348,
+            "start": 833.63,
+            "end": 836.16,
+            "text": "Ладно, если это ложь, тогда это невероятно глупо."
+          },
+          {
+            "index": 349,
+            "start": 837.2,
+            "end": 838.56,
+            "text": "Что я должен сделать?"
+          },
+          {
+            "index": 350,
+            "start": 838.6,
+            "end": 841.56,
+            "text": "Это 18 этаж E.T.R."
+          },
+          {
+            "index": 351,
+            "start": 841.6,
+            "end": 844.13,
+            "text": "Билсону просто нужна такая же комната,"
+          }
+        ],
+        "bottom": [
+          {
+            "index": 293,
+            "start": 789.322,
+            "end": 791.723,
+            "text": "You lied to me to\nprotect my feelings."
+          },
+          {
+            "index": 294,
+            "start": 791.725,
+            "end": 792.657,
+            "text": "This is completely different!"
+          },
+          {
+            "index": 295,
+            "start": 792.659,
+            "end": 795.794,
+            "text": "I just wasted\na month of my life\nworking on a dead project."
+          },
+          {
+            "index": 296,
+            "start": 795.796,
+            "end": 799.33,
+            "text": "That's time I could've spent\ntrying to bring my firm new\nbusiness."
+          },
+          {
+            "index": 297,
+            "start": 799.332,
+            "end": 802.167,
+            "text": "Instead,\nI'm going to go in\nthere tomorrow morning,"
+          },
+          {
+            "index": 298,
+            "start": 802.169,
+            "end": 803.234,
+            "text": "I'm probably\ngoing to get fired."
+          },
+          {
+            "index": 299,
+            "start": 803.236,
+            "end": 808.74,
+            "text": "Best-case scenario, my boss is\ngoing to ream me out in front\nof everybody."
+          },
+          {
+            "index": 300,
+            "start": 809.408,
+            "end": 812.343,
+            "text": "Back home,\nwe call that a...\n\"Saskatoon Totem Pole.\""
+          },
+          {
+            "index": 301,
+            "start": 812.345,
+            "end": 814.179,
+            "text": "ROBIN: Yes.\nIt's on here."
+          },
+          {
+            "index": 302,
+            "start": 819.718,
+            "end": 821.653,
+            "text": "Good morning,\nlying bastards."
+          },
+          {
+            "index": 303,
+            "start": 821.655,
+            "end": 826.191,
+            "text": "Anything you want to lie\nabout before I head off\nto work to get fired?"
+          },
+          {
+            "index": 304,
+            "start": 826.193,
+            "end": 827.225,
+            "text": "That's a nice shirt.\nYou're the devil."
+          },
+          {
+            "index": 305,
+            "start": 827.227,
+            "end": 830.495,
+            "text": "Ted, what if we told you\nthat we found you a new\nproject at GNB"
+          },
+          {
+            "index": 306,
+            "start": 830.497,
+            "end": 833.765,
+            "text": "where you\nwould be redesigning\npart of the 20th floor?"
+          },
+          {
+            "index": 307,
+            "start": 833.767,
+            "end": 837.335,
+            "text": "Well, if that's a lie,\nit's an incredibly\ndull one."
+          },
+          {
+            "index": 308,
+            "start": 837.337,
+            "end": 838.77,
+            "text": "What exactly\nwould I be doing?"
+          },
+          {
+            "index": 309,
+            "start": 838.772,
+            "end": 841.739,
+            "text": "This is the 18th floor\nETR."
+          },
+          {
+            "index": 310,
+            "start": 841.741,
+            "end": 844.175,
+            "text": "Basically,\nBilson wants a\nroom just like this,"
+          },
+          {
+            "index": 311,
+            "start": 844.177,
+            "end": 846.311,
+            "text": "only two stories up,\non our floor."
+          },
+          {
+            "index": 312,
+            "start": 846.313,
+            "end": 847.345,
+            "text": "Wait, what's an ETR?"
+          },
+          {
+            "index": 313,
+            "start": 847.347,
+            "end": 849.48,
+            "text": "It's\nthe Employee\nTransition Room."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 824.406895,
+        "topCueIndex": 341,
+        "bottomCueIndex": 303
+      }
     }
   ]
 }
