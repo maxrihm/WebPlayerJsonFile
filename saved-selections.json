@@ -21176,6 +21176,285 @@
         "topCueIndex": 292,
         "bottomCueIndex": 261
       }
+    },
+    {
+      "id": "5321d178-f8e7-4ee9-898c-2315050eafda",
+      "createdAt": "2026-04-30T19:38:55.693Z",
+      "videoName": "S4E18 - Old King Clancy.mkv",
+      "audioTrackName": "S4E18 - Old King Clancy.eng.m4a",
+      "selectedText": "proved my point,",
+      "selection": {
+        "rawText": "proved my point,",
+        "startOffset": 22,
+        "endOffset": 38,
+        "cueIndex": 292,
+        "cueStart": 785.951,
+        "cueEnd": 789.32,
+        "cueText": "Anyway,\nyou guys just\nproved my point, okay?"
+      },
+      "context": {
+        "top": [
+          {
+            "index": 317,
+            "start": 756.83,
+            "end": 760.06,
+            "text": "Окунь. Этот парень знает о чем я говорю."
+          },
+          {
+            "index": 318,
+            "start": 761.16,
+            "end": 763,
+            "text": "Палтус"
+          },
+          {
+            "index": 319,
+            "start": 763.03,
+            "end": 764.7,
+            "text": "Спасибо, Доброй ночи."
+          },
+          {
+            "index": 320,
+            "start": 767.66,
+            "end": 768.7,
+            "text": "Ну и как я?"
+          },
+          {
+            "index": 321,
+            "start": 768.73,
+            "end": 770.76,
+            "text": "Ооо, ты был великолепен. Было реально смешно."
+          },
+          {
+            "index": 322,
+            "start": 770.8,
+            "end": 773.1,
+            "text": "Ты убил..."
+          },
+          {
+            "index": 323,
+            "start": 773.13,
+            "end": 776.26,
+            "text": "всех в четверг ночью."
+          },
+          {
+            "index": 324,
+            "start": 776.3,
+            "end": 777.6,
+            "text": "Время вышло."
+          },
+          {
+            "index": 325,
+            "start": 777.63,
+            "end": 779.43,
+            "text": "Вам не нравится рыбный список?"
+          },
+          {
+            "index": 326,
+            "start": 779.46,
+            "end": 782.5,
+            "text": "Это было ужасно!\nТы только что прочитал список рыб!"
+          },
+          {
+            "index": 327,
+            "start": 786.16,
+            "end": 788.23,
+            "text": "Во всяком случае..."
+          },
+          {
+            "index": 328,
+            "start": 788.26,
+            "end": 790.13,
+            "text": "Вы парни только что доказали мою точку зрения, окей."
+          },
+          {
+            "index": 329,
+            "start": 790.16,
+            "end": 791.96,
+            "text": "Вы врали мне, чтобы защитить мой чувства"
+          },
+          {
+            "index": 330,
+            "start": 792,
+            "end": 793.33,
+            "text": "Это совсем другое"
+          },
+          {
+            "index": 331,
+            "start": 793.36,
+            "end": 797.13,
+            "text": "Я только что потерял целый месяц своей жизни,\nна работу над никому не нужным проектом."
+          },
+          {
+            "index": 332,
+            "start": 797.16,
+            "end": 798.23,
+            "text": "Это время я мог бы потратить"
+          },
+          {
+            "index": 333,
+            "start": 798.26,
+            "end": 799.73,
+            "text": "на то чтобы привнести в фирму новые веяния."
+          },
+          {
+            "index": 334,
+            "start": 799.76,
+            "end": 802.66,
+            "text": "Теперь, я пойду туда завтра утром."
+          },
+          {
+            "index": 335,
+            "start": 802.7,
+            "end": 804.03,
+            "text": "Возможно меня собираются уволить."
+          },
+          {
+            "index": 336,
+            "start": 804.06,
+            "end": 805.63,
+            "text": "И в лучшем случае,"
+          },
+          {
+            "index": 337,
+            "start": 805.66,
+            "end": 808.46,
+            "text": "мой босс опозорит меня перед всеми."
+          }
+        ],
+        "bottom": [
+          {
+            "index": 282,
+            "start": 754.254,
+            "end": 755.92,
+            "text": "Who thought that was\na good idea, right?"
+          },
+          {
+            "index": 283,
+            "start": 755.922,
+            "end": 761.025,
+            "text": "\"Bass.\" This guy over here\nknows what I'm talking about."
+          },
+          {
+            "index": 284,
+            "start": 761.027,
+            "end": 764.729,
+            "text": "\"Halibut.\"\nThank you,\ngood night."
+          },
+          {
+            "index": 285,
+            "start": 768.234,
+            "end": 768.9,
+            "text": "How was I?"
+          },
+          {
+            "index": 286,
+            "start": 768.902,
+            "end": 770.969,
+            "text": "Oh! You were great.\nReally funny."
+          },
+          {
+            "index": 287,
+            "start": 770.971,
+            "end": 772.504,
+            "text": "You killed"
+          },
+          {
+            "index": 288,
+            "start": 772.506,
+            "end": 774.939,
+            "text": "everyone's\nThursday night."
+          },
+          {
+            "index": 289,
+            "start": 775.808,
+            "end": 778.676,
+            "text": "Time out.\nYou didn't like the fish list?"
+          },
+          {
+            "index": 290,
+            "start": 778.678,
+            "end": 783.615,
+            "text": "It was horrible! You\njust read a list of\nfish."
+          },
+          {
+            "index": 291,
+            "start": 783.617,
+            "end": 785.183,
+            "text": "(WHOOSHING)"
+          },
+          {
+            "index": 292,
+            "start": 785.951,
+            "end": 789.32,
+            "text": "Anyway,\nyou guys just\nproved my point, okay?"
+          },
+          {
+            "index": 293,
+            "start": 789.322,
+            "end": 791.723,
+            "text": "You lied to me to\nprotect my feelings."
+          },
+          {
+            "index": 294,
+            "start": 791.725,
+            "end": 792.657,
+            "text": "This is completely different!"
+          },
+          {
+            "index": 295,
+            "start": 792.659,
+            "end": 795.794,
+            "text": "I just wasted\na month of my life\nworking on a dead project."
+          },
+          {
+            "index": 296,
+            "start": 795.796,
+            "end": 799.33,
+            "text": "That's time I could've spent\ntrying to bring my firm new\nbusiness."
+          },
+          {
+            "index": 297,
+            "start": 799.332,
+            "end": 802.167,
+            "text": "Instead,\nI'm going to go in\nthere tomorrow morning,"
+          },
+          {
+            "index": 298,
+            "start": 802.169,
+            "end": 803.234,
+            "text": "I'm probably\ngoing to get fired."
+          },
+          {
+            "index": 299,
+            "start": 803.236,
+            "end": 808.74,
+            "text": "Best-case scenario, my boss is\ngoing to ream me out in front\nof everybody."
+          },
+          {
+            "index": 300,
+            "start": 809.408,
+            "end": 812.343,
+            "text": "Back home,\nwe call that a...\n\"Saskatoon Totem Pole.\""
+          },
+          {
+            "index": 301,
+            "start": 812.345,
+            "end": 814.179,
+            "text": "ROBIN: Yes.\nIt's on here."
+          },
+          {
+            "index": 302,
+            "start": 819.718,
+            "end": 821.653,
+            "text": "Good morning,\nlying bastards."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 785.951,
+        "topCueIndex": 327,
+        "bottomCueIndex": 292
+      }
     }
   ]
 }
