@@ -20060,6 +20060,285 @@
         "topCueIndex": 196,
         "bottomCueIndex": 179
       }
+    },
+    {
+      "id": "5c2ee559-51d4-4e40-b24b-5073572f74a2",
+      "createdAt": "2026-04-30T19:25:37.142Z",
+      "videoName": "S4E18 - Old King Clancy.mkv",
+      "audioTrackName": "S4E18 - Old King Clancy.eng.m4a",
+      "selectedText": "pulled the plug on",
+      "selection": {
+        "rawText": "pulled the plug\non",
+        "startOffset": 14,
+        "endOffset": 32,
+        "cueIndex": 208,
+        "cueStart": 536.069,
+        "cueEnd": 538.169,
+        "cueText": "Wait,\nif they pulled the plug\non the project a month ago,"
+      },
+      "context": {
+        "top": [
+          {
+            "index": 223,
+            "start": 513.33,
+            "end": 517.96,
+            "text": "и он хотел сделать \"Сальная Лодка.\""
+          },
+          {
+            "index": 224,
+            "start": 518,
+            "end": 519.4,
+            "text": "Нет."
+          },
+          {
+            "index": 225,
+            "start": 519.43,
+            "end": 522.46,
+            "text": "Уэйн Грецки, старинные монеты,"
+          },
+          {
+            "index": 226,
+            "start": 522.5,
+            "end": 524.3,
+            "text": "\"Эскимос на корточках.\""
+          },
+          {
+            "index": 227,
+            "start": 524.33,
+            "end": 525.4,
+            "text": "Не-а."
+          },
+          {
+            "index": 228,
+            "start": 525.43,
+            "end": 528.73,
+            "text": "Кифер Сазерленд, подарочные кружки,"
+          },
+          {
+            "index": 229,
+            "start": 528.76,
+            "end": 531.3,
+            "text": "и \"Липкая Лепешка.\""
+          },
+          {
+            "index": 230,
+            "start": 531.33,
+            "end": 532.66,
+            "text": "Нет."
+          },
+          {
+            "index": 231,
+            "start": 532.7,
+            "end": 534.56,
+            "text": "Но, я бы сделала это."
+          },
+          {
+            "index": 232,
+            "start": 534.6,
+            "end": 535.63,
+            "text": "Подождите."
+          },
+          {
+            "index": 233,
+            "start": 535.66,
+            "end": 538.33,
+            "text": "Если они махнули рукой на проект месяц назад,"
+          },
+          {
+            "index": 234,
+            "start": 538.36,
+            "end": 540.2,
+            "text": "зачем я ходил туда на прошлой неделе?"
+          },
+          {
+            "index": 235,
+            "start": 540.23,
+            "end": 542.8,
+            "text": "Встретится с новой оперативной группой?"
+          },
+          {
+            "index": 236,
+            "start": 542.83,
+            "end": 544.76,
+            "text": "Хорошо, очевидно ты не мог придти"
+          },
+          {
+            "index": 237,
+            "start": 544.8,
+            "end": 545.93,
+            "text": "и броситься на Билсона."
+          },
+          {
+            "index": 238,
+            "start": 545.96,
+            "end": 549.03,
+            "text": "Поэтому, мы... изобрели оперативную группу."
+          },
+          {
+            "index": 239,
+            "start": 549.5,
+            "end": 552.33,
+            "text": "Затем была небольшая проблема как создать эту группу..."
+          },
+          {
+            "index": 240,
+            "start": 552.86,
+            "end": 556.43,
+            "text": "Ты знаешь Роя Вотермана, вице президента Капитала и Риска"
+          },
+          {
+            "index": 241,
+            "start": 556.46,
+            "end": 558.6,
+            "text": "В действительности он..."
+          },
+          {
+            "index": 242,
+            "start": 558.63,
+            "end": 559.8,
+            "text": "Уборщик Рой."
+          },
+          {
+            "index": 243,
+            "start": 559.83,
+            "end": 561.43,
+            "text": "Эй. Извини, Roy."
+          }
+        ],
+        "bottom": [
+          {
+            "index": 198,
+            "start": 503.47,
+            "end": 508.173,
+            "text": "if you\ncorrectly guess the person,\nthe act and the collection."
+          },
+          {
+            "index": 199,
+            "start": 508.175,
+            "end": 510.308,
+            "text": "Okay,\nI'm going to\ngo. Bryan Adams."
+          },
+          {
+            "index": 200,
+            "start": 510.31,
+            "end": 518.116,
+            "text": "He collects baseball cards,\nand he wanted to do\na Greasy Kayak."
+          },
+          {
+            "index": 201,
+            "start": 518.118,
+            "end": 518.75,
+            "text": "No."
+          },
+          {
+            "index": 202,
+            "start": 518.752,
+            "end": 524.523,
+            "text": "Wayne Gretzky,\nvintage Hot Wheels,\na Squatting Eskimo."
+          },
+          {
+            "index": 203,
+            "start": 524.525,
+            "end": 525.357,
+            "text": "No."
+          },
+          {
+            "index": 204,
+            "start": 525.359,
+            "end": 526.291,
+            "text": "Mmm! Kiefer Sutherland,"
+          },
+          {
+            "index": 205,
+            "start": 526.293,
+            "end": 531.263,
+            "text": "souvenir shot glasses,\nand a Sticky Flapjack."
+          },
+          {
+            "index": 206,
+            "start": 531.265,
+            "end": 534.199,
+            "text": "No.\nThat I would have done."
+          },
+          {
+            "index": 207,
+            "start": 535.101,
+            "end": 536.067,
+            "text": "Wait."
+          },
+          {
+            "index": 208,
+            "start": 536.069,
+            "end": 538.169,
+            "text": "Wait,\nif they pulled the plug\non the project a month ago,"
+          },
+          {
+            "index": 209,
+            "start": 538.171,
+            "end": 539.571,
+            "text": "why have I been\ngoing in once a week"
+          },
+          {
+            "index": 210,
+            "start": 539.573,
+            "end": 542.007,
+            "text": "to meet with the New\nHeadquarters Task Force?"
+          },
+          {
+            "index": 211,
+            "start": 542.009,
+            "end": 545.143,
+            "text": "Well, obviously\nyou couldn't come\nin and pitch to Bilson."
+          },
+          {
+            "index": 212,
+            "start": 545.145,
+            "end": 548.313,
+            "text": "So,\nwe invented\nthe task force."
+          },
+          {
+            "index": 213,
+            "start": 548.315,
+            "end": 552.384,
+            "text": "Then it was just a question\nof putting together the team."
+          },
+          {
+            "index": 214,
+            "start": 552.386,
+            "end": 553.718,
+            "text": "MARSHALL:\nYou know Roy Waterman,"
+          },
+          {
+            "index": 215,
+            "start": 553.72,
+            "end": 556.254,
+            "text": "Vice-President of\nCapital and Risk?"
+          },
+          {
+            "index": 216,
+            "start": 556.256,
+            "end": 559.257,
+            "text": "He's actually\nRoy the janitor."
+          },
+          {
+            "index": 217,
+            "start": 559.259,
+            "end": 560.392,
+            "text": "Hey. Excuse me, Roy."
+          },
+          {
+            "index": 218,
+            "start": 560.394,
+            "end": 563.194,
+            "text": "How'd you like to\nmake a few extra bucks?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 537.505484,
+        "topCueIndex": 233,
+        "bottomCueIndex": 208
+      }
     }
   ]
 }
