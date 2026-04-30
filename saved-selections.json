@@ -22571,6 +22571,285 @@
         "topCueIndex": 356,
         "bottomCueIndex": 316
       }
+    },
+    {
+      "id": "fbf4bef2-cdf3-449a-abe2-526a60e89564",
+      "createdAt": "2026-04-30T19:44:29.271Z",
+      "videoName": "S4E18 - Old King Clancy.mkv",
+      "audioTrackName": "S4E18 - Old King Clancy.eng.m4a",
+      "selectedText": "knowledge transfer",
+      "selection": {
+        "rawText": "knowledge transfer",
+        "startOffset": 12,
+        "endOffset": 30,
+        "cueIndex": 316,
+        "cueStart": 853.286,
+        "cueEnd": 859.858,
+        "cueText": "engage in a knowledge transfer\nabout an impending vocational\nparadigm shift."
+      },
+      "context": {
+        "top": [
+          {
+            "index": 346,
+            "start": 829.63,
+            "end": 831.86,
+            "text": "новый проект в GNB где ты можешь"
+          },
+          {
+            "index": 347,
+            "start": 831.9,
+            "end": 833.6,
+            "text": "переделать часть 20-го этажа"
+          },
+          {
+            "index": 348,
+            "start": 833.63,
+            "end": 836.16,
+            "text": "Ладно, если это ложь, тогда это невероятно глупо."
+          },
+          {
+            "index": 349,
+            "start": 837.2,
+            "end": 838.56,
+            "text": "Что я должен сделать?"
+          },
+          {
+            "index": 350,
+            "start": 838.6,
+            "end": 841.56,
+            "text": "Это 18 этаж E.T.R."
+          },
+          {
+            "index": 351,
+            "start": 841.6,
+            "end": 844.13,
+            "text": "Билсону просто нужна такая же комната,"
+          },
+          {
+            "index": 352,
+            "start": 844.16,
+            "end": 845.83,
+            "text": "только двумя этажами выше, на нашем этаже."
+          },
+          {
+            "index": 353,
+            "start": 845.86,
+            "end": 847.03,
+            "text": "Подожди, что такое E.T.R.?"
+          },
+          {
+            "index": 354,
+            "start": 847.06,
+            "end": 849.3,
+            "text": "Это Employee Transition Room (Комната увольнения служающих)"
+          },
+          {
+            "index": 355,
+            "start": 849.33,
+            "end": 851.8,
+            "text": "-Что это значит?\n-Хорошо, это место"
+          },
+          {
+            "index": 356,
+            "start": 851.83,
+            "end": 853.96,
+            "text": "где администратор и служащий"
+          },
+          {
+            "index": 357,
+            "start": 854,
+            "end": 855.8,
+            "text": "занимаются передачей знаний"
+          },
+          {
+            "index": 358,
+            "start": 855.83,
+            "end": 858.5,
+            "text": "о предстоящем профессиональном перемещении."
+          },
+          {
+            "index": 359,
+            "start": 859.63,
+            "end": 860.83,
+            "text": "Проще говоря, здесь увольняют людей."
+          },
+          {
+            "index": 360,
+            "start": 860.86,
+            "end": 863.1,
+            "text": "Это ужасно."
+          },
+          {
+            "index": 361,
+            "start": 863.13,
+            "end": 865.3,
+            "text": "Зачем вам нужна специальная комната для увольнения людей?"
+          },
+          {
+            "index": 362,
+            "start": 865.33,
+            "end": 868.63,
+            "text": "Хорошо, эм, GNB чувствует что людям нужно безопасное место,"
+          },
+          {
+            "index": 363,
+            "start": 868.66,
+            "end": 871.06,
+            "text": "для получения плохих новостей."
+          },
+          {
+            "index": 364,
+            "start": 871.1,
+            "end": 872.46,
+            "text": "Да."
+          },
+          {
+            "index": 365,
+            "start": 872.5,
+            "end": 874.53,
+            "text": "Здесь реально красиво."
+          },
+          {
+            "index": 366,
+            "start": 920.23,
+            "end": 923.13,
+            "text": "Итак, я с неохотой согласился проетировать комнату"
+          }
+        ],
+        "bottom": [
+          {
+            "index": 306,
+            "start": 830.497,
+            "end": 833.765,
+            "text": "where you\nwould be redesigning\npart of the 20th floor?"
+          },
+          {
+            "index": 307,
+            "start": 833.767,
+            "end": 837.335,
+            "text": "Well, if that's a lie,\nit's an incredibly\ndull one."
+          },
+          {
+            "index": 308,
+            "start": 837.337,
+            "end": 838.77,
+            "text": "What exactly\nwould I be doing?"
+          },
+          {
+            "index": 309,
+            "start": 838.772,
+            "end": 841.739,
+            "text": "This is the 18th floor\nETR."
+          },
+          {
+            "index": 310,
+            "start": 841.741,
+            "end": 844.175,
+            "text": "Basically,\nBilson wants a\nroom just like this,"
+          },
+          {
+            "index": 311,
+            "start": 844.177,
+            "end": 846.311,
+            "text": "only two stories up,\non our floor."
+          },
+          {
+            "index": 312,
+            "start": 846.313,
+            "end": 847.345,
+            "text": "Wait, what's an ETR?"
+          },
+          {
+            "index": 313,
+            "start": 847.347,
+            "end": 849.48,
+            "text": "It's\nthe Employee\nTransition Room."
+          },
+          {
+            "index": 314,
+            "start": 849.482,
+            "end": 850.281,
+            "text": "What does that mean?"
+          },
+          {
+            "index": 315,
+            "start": 850.283,
+            "end": 853.284,
+            "text": "Well, it's a space where\na supervisor and an employee"
+          },
+          {
+            "index": 316,
+            "start": 853.286,
+            "end": 859.858,
+            "text": "engage in a knowledge transfer\nabout an impending vocational\nparadigm shift."
+          },
+          {
+            "index": 317,
+            "start": 859.86,
+            "end": 861.659,
+            "text": "People get\nfired in here."
+          },
+          {
+            "index": 318,
+            "start": 861.661,
+            "end": 862.293,
+            "text": "That's horrible."
+          },
+          {
+            "index": 319,
+            "start": 862.295,
+            "end": 865.463,
+            "text": "Why do you need a room\nspecifically for firing\npeople?"
+          },
+          {
+            "index": 320,
+            "start": 865.465,
+            "end": 868.566,
+            "text": "Well,\nGNB feels that\npeople need a safe,"
+          },
+          {
+            "index": 321,
+            "start": 868.568,
+            "end": 871.369,
+            "text": "secure space to\ndeal with the news."
+          },
+          {
+            "index": 322,
+            "start": 871.371,
+            "end": 874.739,
+            "text": "Yeah. It gets\npretty real in here."
+          },
+          {
+            "index": 323,
+            "start": 874.741,
+            "end": 877.242,
+            "text": "(UPBEAT SPANISH MUSIC PLAYING)"
+          },
+          {
+            "index": 324,
+            "start": 920.219,
+            "end": 922.086,
+            "text": "OLDER TED: So,\nI reluctantly\nagreed to"
+          },
+          {
+            "index": 325,
+            "start": 922.088,
+            "end": 924.122,
+            "text": "design a room where\npeople would be fired."
+          },
+          {
+            "index": 326,
+            "start": 924.124,
+            "end": 926.357,
+            "text": "But I was\ndetermined to\nmake it my own."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 856.51626,
+        "topCueIndex": 356,
+        "bottomCueIndex": 316
+      }
     }
   ]
 }
