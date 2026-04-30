@@ -27314,6 +27314,285 @@
         "topCueIndex": 488,
         "bottomCueIndex": 427
       }
+    },
+    {
+      "id": "538b421a-fde2-4a43-90df-121754c82df8",
+      "createdAt": "2026-04-30T20:37:44.288Z",
+      "videoName": "S4E18 - Old King Clancy.mkv",
+      "audioTrackName": "S4E18 - Old King Clancy.eng.m4a",
+      "selectedText": "impromptu",
+      "selection": {
+        "rawText": "impromptu",
+        "startOffset": 10,
+        "endOffset": 19,
+        "cueIndex": 430,
+        "cueStart": 1200.266,
+        "cueEnd": 1203.834,
+        "cueText": "I made\nan impromptu presentation\nusing a four-pronged approach"
+      },
+      "context": {
+        "top": [
+          {
+            "index": 480,
+            "start": 1175.96,
+            "end": 1176.93,
+            "text": "Они уволили тебя, не так ли?"
+          },
+          {
+            "index": 481,
+            "start": 1176.96,
+            "end": 1178.83,
+            "text": "Да, сэр."
+          },
+          {
+            "index": 482,
+            "start": 1178.86,
+            "end": 1180.43,
+            "text": "Но у меня было приятное расставание"
+          },
+          {
+            "index": 483,
+            "start": 1180.46,
+            "end": 1181.96,
+            "text": "и я принял важное решение:"
+          },
+          {
+            "index": 484,
+            "start": 1182,
+            "end": 1184.13,
+            "text": "Я открою свою собственную фирму."
+          },
+          {
+            "index": 485,
+            "start": 1184.16,
+            "end": 1185.03,
+            "text": "Классно приятель. Это интригующе."
+          },
+          {
+            "index": 486,
+            "start": 1185.06,
+            "end": 1186.3,
+            "text": "Это способ пробиться в этой экономике."
+          },
+          {
+            "index": 487,
+            "start": 1187.56,
+            "end": 1189.56,
+            "text": "Ты в своем уме?"
+          },
+          {
+            "index": 488,
+            "start": 1189.6,
+            "end": 1192.86,
+            "text": "Как оказывается, я благодарен."
+          },
+          {
+            "index": 489,
+            "start": 1195.23,
+            "end": 1197.06,
+            "text": "Так, как все прошло между тобой и Билсоном?"
+          },
+          {
+            "index": 490,
+            "start": 1197.1,
+            "end": 1200.86,
+            "text": "Хорошо, после того, как он предложил профессионально-техническое изменение парадигмы"
+          },
+          {
+            "index": 491,
+            "start": 1200.9,
+            "end": 1203.9,
+            "text": "я сделал импровизированное представление, используя четырехаспектный подход,"
+          },
+          {
+            "index": 492,
+            "start": 1203.93,
+            "end": 1205.36,
+            "text": "который действительно опустил его на колени."
+          },
+          {
+            "index": 493,
+            "start": 1205.4,
+            "end": 1206.36,
+            "text": "Ты ударил его стулом?"
+          },
+          {
+            "index": 494,
+            "start": 1206.4,
+            "end": 1207.9,
+            "text": "-Да.\n-Вот он мой мальчик."
+          },
+          {
+            "index": 495,
+            "start": 1214.3,
+            "end": 1215.93,
+            "text": "И вот однажды, я ехала"
+          },
+          {
+            "index": 496,
+            "start": 1215.96,
+            "end": 1217.13,
+            "text": "из Милвертона в Ваву."
+          },
+          {
+            "index": 497,
+            "start": 1218.7,
+            "end": 1221.9,
+            "text": "Это очень интересно, Замороженный Cнегоступ."
+          },
+          {
+            "index": 498,
+            "start": 1221.93,
+            "end": 1223.93,
+            "text": "Пожалуй, мы друзья. Называй меня просто \"Cнегоступ\""
+          },
+          {
+            "index": 499,
+            "start": 1224.96,
+            "end": 1226.3,
+            "text": "Не хочешь ли присесть."
+          },
+          {
+            "index": 500,
+            "start": 1231.43,
+            "end": 1233.56,
+            "text": "Итак, Cнегоступ..."
+          }
+        ],
+        "bottom": [
+          {
+            "index": 420,
+            "start": 1176.009,
+            "end": 1177.575,
+            "text": "They fired you,\ndidn't they?"
+          },
+          {
+            "index": 421,
+            "start": 1177.577,
+            "end": 1178.342,
+            "text": "Yes, sir."
+          },
+          {
+            "index": 422,
+            "start": 1178.344,
+            "end": 1182.413,
+            "text": "But I got\na sweet severance package\nand I've made a big decision."
+          },
+          {
+            "index": 423,
+            "start": 1182.415,
+            "end": 1184.115,
+            "text": "I'm going to\nstart my own firm."
+          },
+          {
+            "index": 424,
+            "start": 1184.117,
+            "end": 1185.683,
+            "text": "Whoa, buddy!\nThat's exciting."
+          },
+          {
+            "index": 425,
+            "start": 1185.685,
+            "end": 1187.785,
+            "text": "In this economy?"
+          },
+          {
+            "index": 426,
+            "start": 1187.787,
+            "end": 1190.021,
+            "text": "So you're not mad?"
+          },
+          {
+            "index": 427,
+            "start": 1190.023,
+            "end": 1193.491,
+            "text": "As it turns out,\nI'm grateful."
+          },
+          {
+            "index": 428,
+            "start": 1195.027,
+            "end": 1197.261,
+            "text": "So how'd it all go down\nbetween you and Bilson?"
+          },
+          {
+            "index": 429,
+            "start": 1197.263,
+            "end": 1200.264,
+            "text": "Well, after he proposed\na vocational paradigm shift,"
+          },
+          {
+            "index": 430,
+            "start": 1200.266,
+            "end": 1203.834,
+            "text": "I made\nan impromptu presentation\nusing a four-pronged approach"
+          },
+          {
+            "index": 431,
+            "start": 1203.836,
+            "end": 1205.77,
+            "text": "that really\nbrought him\nto his knees."
+          },
+          {
+            "index": 432,
+            "start": 1205.772,
+            "end": 1207.071,
+            "text": "Hit him with a chair?\nYep."
+          },
+          {
+            "index": 433,
+            "start": 1207.073,
+            "end": 1209.14,
+            "text": "That's my boy."
+          },
+          {
+            "index": 434,
+            "start": 1213.745,
+            "end": 1216.714,
+            "text": "And this one,\nI got on the drive\nfrom Milverton to Wawa."
+          },
+          {
+            "index": 435,
+            "start": 1216.716,
+            "end": 1221.852,
+            "text": "Wow. That's\npretty impressive,\nThe Frozen Snowshoe."
+          },
+          {
+            "index": 436,
+            "start": 1221.854,
+            "end": 1225.256,
+            "text": "Please,\nwe're friends.\nJust call me \"Shoe.\""
+          },
+          {
+            "index": 437,
+            "start": 1225.258,
+            "end": 1226.724,
+            "text": "Have a seat."
+          },
+          {
+            "index": 438,
+            "start": 1231.83,
+            "end": 1233.998,
+            "text": "So, Shoe,"
+          },
+          {
+            "index": 439,
+            "start": 1234,
+            "end": 1236.667,
+            "text": "how would you\nlike to give me"
+          },
+          {
+            "index": 440,
+            "start": 1238.537,
+            "end": 1240.771,
+            "text": "an Old King Clancy?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1201.728492,
+        "topCueIndex": 490,
+        "bottomCueIndex": 430
+      }
     }
   ]
 }
