@@ -20897,6 +20897,285 @@
         "topCueIndex": 267,
         "bottomCueIndex": 236
       }
+    },
+    {
+      "id": "75abf4ef-ad83-4c37-93b9-c8cb22923943",
+      "createdAt": "2026-04-30T19:35:44.858Z",
+      "videoName": "S4E18 - Old King Clancy.mkv",
+      "audioTrackName": "S4E18 - Old King Clancy.eng.m4a",
+      "selectedText": "rounded up",
+      "selection": {
+        "rawText": "rounded up",
+        "startOffset": 28,
+        "endOffset": 38,
+        "cueIndex": 261,
+        "cueStart": 702.536,
+        "cueEnd": 705.737,
+        "cueText": "We just rented out a field,\nrounded up a bunch of guys"
+      },
+      "context": {
+        "top": [
+          {
+            "index": 282,
+            "start": 668.06,
+            "end": 669.53,
+            "text": "Я знаю, что ты тоже чувствуешь это."
+          },
+          {
+            "index": 283,
+            "start": 670.83,
+            "end": 672.53,
+            "text": "Что, черт возьми..."
+          },
+          {
+            "index": 284,
+            "start": 674.46,
+            "end": 676.03,
+            "text": "Нет, нет я не могу."
+          },
+          {
+            "index": 285,
+            "start": 676.06,
+            "end": 678.6,
+            "text": "Я должна жениться на сеньоре Барни."
+          },
+          {
+            "index": 286,
+            "start": 683.86,
+            "end": 685.13,
+            "text": "Нет! Нет!"
+          },
+          {
+            "index": 287,
+            "start": 685.16,
+            "end": 686.93,
+            "text": "Нет, это неправильно!"
+          },
+          {
+            "index": 288,
+            "start": 686.96,
+            "end": 690.16,
+            "text": "Ради бога, ты же состоишь в оперативной группой!"
+          },
+          {
+            "index": 289,
+            "start": 692.6,
+            "end": 694.23,
+            "text": "Есть что-нибудь еще, что вы хотите сообщить мне?"
+          },
+          {
+            "index": 290,
+            "start": 695.36,
+            "end": 698.06,
+            "text": "Хорошо, ты помнишь как играл"
+          },
+          {
+            "index": 291,
+            "start": 698.1,
+            "end": 699.96,
+            "text": "на третьей базе в софтбольной команде GNB"
+          },
+          {
+            "index": 292,
+            "start": 701,
+            "end": 703.13,
+            "text": "Это была не софтбольная команда GNB."
+          },
+          {
+            "index": 293,
+            "start": 703.16,
+            "end": 705.43,
+            "text": "Мы просто арендовали площадь,"
+          },
+          {
+            "index": 294,
+            "start": 705.46,
+            "end": 706.96,
+            "text": "наняли людей и сказали им"
+          },
+          {
+            "index": 295,
+            "start": 707,
+            "end": 708.36,
+            "text": "сделать тебя героем."
+          },
+          {
+            "index": 296,
+            "start": 708.4,
+            "end": 710.7,
+            "text": "Итак, моя победная игра была обманом."
+          },
+          {
+            "index": 297,
+            "start": 711.8,
+            "end": 713.2,
+            "text": "Нам жаль, Тед, но мы знали что"
+          },
+          {
+            "index": 298,
+            "start": 713.23,
+            "end": 714.56,
+            "text": "тебя скоро уволят, и мы просто"
+          },
+          {
+            "index": 299,
+            "start": 714.6,
+            "end": 715.96,
+            "text": "хотим чтобы ты чувствовал себя хорошо."
+          },
+          {
+            "index": 300,
+            "start": 716,
+            "end": 716.96,
+            "text": "Это то что делают друзья."
+          },
+          {
+            "index": 301,
+            "start": 717,
+            "end": 718.23,
+            "text": "Лгут друг другу?"
+          },
+          {
+            "index": 302,
+            "start": 718.26,
+            "end": 720.73,
+            "text": "Иногда, да, чтобы защитить чувства другого."
+          }
+        ],
+        "bottom": [
+          {
+            "index": 251,
+            "start": 675.275,
+            "end": 678.61,
+            "text": "I'm already engaged\nto Mr. Barney."
+          },
+          {
+            "index": 252,
+            "start": 678.612,
+            "end": 679.844,
+            "text": "Ah, who cares..."
+          },
+          {
+            "index": 253,
+            "start": 679.846,
+            "end": 681.079,
+            "text": "we live but once!"
+          },
+          {
+            "index": 254,
+            "start": 681.081,
+            "end": 683.114,
+            "text": "(BOTH MOANING)"
+          },
+          {
+            "index": 255,
+            "start": 683.516,
+            "end": 686.718,
+            "text": "No! No!\nNo, this is wrong!"
+          },
+          {
+            "index": 256,
+            "start": 686.72,
+            "end": 690.388,
+            "text": "For God's sake,\nyou're on the task force!"
+          },
+          {
+            "index": 257,
+            "start": 692.124,
+            "end": 694.392,
+            "text": "Is there anything\nelse you want to\ntell me?"
+          },
+          {
+            "index": 258,
+            "start": 694.394,
+            "end": 700.265,
+            "text": "Well, you know\nhow you played third base\nfor the GNB softball team?"
+          },
+          {
+            "index": 259,
+            "start": 700.267,
+            "end": 700.732,
+            "text": "Yeah."
+          },
+          {
+            "index": 260,
+            "start": 700.734,
+            "end": 702.534,
+            "text": "There is no\nGNB softball team."
+          },
+          {
+            "index": 261,
+            "start": 702.536,
+            "end": 705.737,
+            "text": "We just rented out a field,\nrounded up a bunch of guys"
+          },
+          {
+            "index": 262,
+            "start": 705.739,
+            "end": 708.44,
+            "text": "and told them to\nmake you the hero."
+          },
+          {
+            "index": 263,
+            "start": 708.442,
+            "end": 710.709,
+            "text": "So my\ngame-winning\nwalk was a lie?"
+          },
+          {
+            "index": 264,
+            "start": 710.711,
+            "end": 713.344,
+            "text": "We're sorry,\nTed, but we knew that\nyou'd be out of work soon,"
+          },
+          {
+            "index": 265,
+            "start": 713.346,
+            "end": 715.313,
+            "text": "and we just...\nWe just wanted to\nmake you feel good."
+          },
+          {
+            "index": 266,
+            "start": 715.315,
+            "end": 717.015,
+            "text": "You know,\nthat's what friends do."
+          },
+          {
+            "index": 267,
+            "start": 717.017,
+            "end": 717.682,
+            "text": "Lie to each other?"
+          },
+          {
+            "index": 268,
+            "start": 717.684,
+            "end": 720.351,
+            "text": "Sometimes,\nyeah, to protect\neach other's feelings."
+          },
+          {
+            "index": 269,
+            "start": 720.353,
+            "end": 722.587,
+            "text": "No way! You never\nlie to your friends."
+          },
+          {
+            "index": 270,
+            "start": 722.589,
+            "end": 723.688,
+            "text": "I would never not\nbe honest with you."
+          },
+          {
+            "index": 271,
+            "start": 723.69,
+            "end": 728.326,
+            "text": "Really? What about\nthat open mic night\nat the comedy club?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 705.667605,
+        "topCueIndex": 292,
+        "bottomCueIndex": 261
+      }
     }
   ]
 }
