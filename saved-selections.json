@@ -25919,6 +25919,285 @@
         "topCueIndex": 436,
         "bottomCueIndex": 384
       }
+    },
+    {
+      "id": "57201f96-a776-4918-9311-f58699b27d77",
+      "createdAt": "2026-04-30T20:29:58.651Z",
+      "videoName": "S4E18 - Old King Clancy.mkv",
+      "audioTrackName": "S4E18 - Old King Clancy.eng.m4a",
+      "selectedText": "strap on",
+      "selection": {
+        "rawText": "strap on",
+        "startOffset": 20,
+        "endOffset": 28,
+        "cueIndex": 386,
+        "cueStart": 1083.65,
+        "cueEnd": 1087.351,
+        "cueText": "where are you gonna\nstrap on a feed bag,\nhuh? Harvey's."
+      },
+      "context": {
+        "top": [
+          {
+            "index": 428,
+            "start": 1061.36,
+            "end": 1063.5,
+            "text": "Он похож на Водолазку Сакраменто,"
+          },
+          {
+            "index": 429,
+            "start": 1063.53,
+            "end": 1065,
+            "text": "только без кленового сиропа."
+          },
+          {
+            "index": 430,
+            "start": 1065.03,
+            "end": 1068.66,
+            "text": "Итак, знаменитостью был Харви Стрейз."
+          },
+          {
+            "index": 431,
+            "start": 1068.7,
+            "end": 1070.53,
+            "text": "Ну и что же он коллекционировал?"
+          },
+          {
+            "index": 432,
+            "start": 1070.56,
+            "end": 1071.76,
+            "text": "Подносы Харви."
+          },
+          {
+            "index": 433,
+            "start": 1072.26,
+            "end": 1074,
+            "text": "Те классические оранжевые подносы, которые вы получаете,"
+          },
+          {
+            "index": 434,
+            "start": 1074.03,
+            "end": 1075.23,
+            "text": "когда приезжаете в"
+          },
+          {
+            "index": 435,
+            "start": 1076.03,
+            "end": 1077.93,
+            "text": "ресторан Харви!"
+          },
+          {
+            "index": 436,
+            "start": 1077.96,
+            "end": 1079.46,
+            "text": "Ох, если вы едете по дороге"
+          },
+          {
+            "index": 437,
+            "start": 1079.5,
+            "end": 1081.13,
+            "text": "вниз по транс-канадскому шоссе,"
+          },
+          {
+            "index": 438,
+            "start": 1081.16,
+            "end": 1083.66,
+            "text": "и вы проголодались между городами Милвертон и Вава,"
+          },
+          {
+            "index": 439,
+            "start": 1083.7,
+            "end": 1085.83,
+            "text": "То где вы собираетесь подкрепиться, а?"
+          },
+          {
+            "index": 440,
+            "start": 1085.86,
+            "end": 1088.56,
+            "text": "Конечно же ресторан Харви. Свыше 12000 обслуженных клиентов!"
+          },
+          {
+            "index": 441,
+            "start": 1088.6,
+            "end": 1091.13,
+            "text": "Таким образом он был знаменитостью..."
+          },
+          {
+            "index": 442,
+            "start": 1091.16,
+            "end": 1093.36,
+            "text": "\"Замороженный Cнегоступ\"."
+          },
+          {
+            "index": 443,
+            "start": 1094.3,
+            "end": 1095.33,
+            "text": "О, мой Бог! Народ"
+          },
+          {
+            "index": 444,
+            "start": 1095.36,
+            "end": 1098.03,
+            "text": "Вы никогда не слышали о \"Замороженный Cнегоступ\"?"
+          },
+          {
+            "index": 445,
+            "start": 1098.06,
+            "end": 1099.2,
+            "text": "В Канаде он больше всего известен как"
+          },
+          {
+            "index": 446,
+            "start": 1099.23,
+            "end": 1101.6,
+            "text": "профессиональный борец."
+          },
+          {
+            "index": 447,
+            "start": 1101.63,
+            "end": 1105.2,
+            "text": "Я встретила его после того как он победил отчаянного Рика Роджерса"
+          },
+          {
+            "index": 448,
+            "start": 1105.23,
+            "end": 1107.76,
+            "text": "на памятной арене Камплус в 2002."
+          }
+        ],
+        "bottom": [
+          {
+            "index": 376,
+            "start": 1053.853,
+            "end": 1058.089,
+            "text": "Yeah, who the hell\nis Old King Clancy?"
+          },
+          {
+            "index": 377,
+            "start": 1058.091,
+            "end": 1060.925,
+            "text": "No, that's\nnot the person,\nthat's the sex act."
+          },
+          {
+            "index": 378,
+            "start": 1060.927,
+            "end": 1065.73,
+            "text": "It's the same as\na Sacramento Turtleneck,\nexcept with maple syrup."
+          },
+          {
+            "index": 379,
+            "start": 1065.732,
+            "end": 1068.966,
+            "text": "So the celebrity\nwas Harvey Strays?"
+          },
+          {
+            "index": 380,
+            "start": 1068.968,
+            "end": 1071.402,
+            "text": "No,\nthat's what\nhe collected."
+          },
+          {
+            "index": 381,
+            "start": 1071.404,
+            "end": 1072.17,
+            "text": "Harvey's trays."
+          },
+          {
+            "index": 382,
+            "start": 1072.172,
+            "end": 1076.874,
+            "text": "You know, those classic orange\ntrays you get whenever you\neat at Harvey's?"
+          },
+          {
+            "index": 383,
+            "start": 1076.876,
+            "end": 1078.242,
+            "text": "The restaurant?"
+          },
+          {
+            "index": 384,
+            "start": 1078.244,
+            "end": 1081.079,
+            "text": "Oh, come on,\nyou're road-tripping down\nthe Trans-Canada Highway,"
+          },
+          {
+            "index": 385,
+            "start": 1081.081,
+            "end": 1083.648,
+            "text": "you get a hunger on\nbetween Milverton\nand Wawa,"
+          },
+          {
+            "index": 386,
+            "start": 1083.65,
+            "end": 1087.351,
+            "text": "where are you gonna\nstrap on a feed bag,\nhuh? Harvey's."
+          },
+          {
+            "index": 387,
+            "start": 1087.353,
+            "end": 1089.353,
+            "text": "\"Over 12,000 Served!\""
+          },
+          {
+            "index": 388,
+            "start": 1089.855,
+            "end": 1091.823,
+            "text": "So the celebrity was..."
+          },
+          {
+            "index": 389,
+            "start": 1091.825,
+            "end": 1094.158,
+            "text": "The Frozen Snowshoe."
+          },
+          {
+            "index": 390,
+            "start": 1094.16,
+            "end": 1097.662,
+            "text": "Oh, my God!\nYou guys have never\nheard of The Frozen Snowshoe?"
+          },
+          {
+            "index": 391,
+            "start": 1097.664,
+            "end": 1101.532,
+            "text": "He's only the most\nfamous professional\nwrestler in Canada."
+          },
+          {
+            "index": 392,
+            "start": 1101.534,
+            "end": 1104.836,
+            "text": "I met him\nafter he defeated\nReckless Rick Rogers"
+          },
+          {
+            "index": 393,
+            "start": 1104.838,
+            "end": 1109.841,
+            "text": "in the\nKamloops Memorial Arena\nback in '02. Classic match."
+          },
+          {
+            "index": 394,
+            "start": 1109.843,
+            "end": 1113.144,
+            "text": "So you're saying\nThe Frozen Snowshoe"
+          },
+          {
+            "index": 395,
+            "start": 1113.146,
+            "end": 1117.748,
+            "text": "invited you\nback to his place to\nlook at Harvey's trays,"
+          },
+          {
+            "index": 396,
+            "start": 1117.75,
+            "end": 1120.485,
+            "text": "and asked you to do\nan Old King Clancy?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1084.61139,
+        "topCueIndex": 438,
+        "bottomCueIndex": 386
+      }
     }
   ]
 }
