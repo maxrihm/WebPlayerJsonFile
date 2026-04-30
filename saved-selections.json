@@ -23408,6 +23408,285 @@
         "topCueIndex": 356,
         "bottomCueIndex": 316
       }
+    },
+    {
+      "id": "91ca1e07-844c-41ab-8474-b2e4c907af54",
+      "createdAt": "2026-04-30T19:46:14.359Z",
+      "videoName": "S4E18 - Old King Clancy.mkv",
+      "audioTrackName": "S4E18 - Old King Clancy.eng.m4a",
+      "selectedText": "real",
+      "selection": {
+        "rawText": "real",
+        "startOffset": 21,
+        "endOffset": 25,
+        "cueIndex": 322,
+        "cueStart": 871.371,
+        "cueEnd": 874.739,
+        "cueText": "Yeah. It gets\npretty real in here."
+      },
+      "context": {
+        "top": [
+          {
+            "index": 354,
+            "start": 847.06,
+            "end": 849.3,
+            "text": "Это Employee Transition Room (Комната увольнения служающих)"
+          },
+          {
+            "index": 355,
+            "start": 849.33,
+            "end": 851.8,
+            "text": "-Что это значит?\n-Хорошо, это место"
+          },
+          {
+            "index": 356,
+            "start": 851.83,
+            "end": 853.96,
+            "text": "где администратор и служащий"
+          },
+          {
+            "index": 357,
+            "start": 854,
+            "end": 855.8,
+            "text": "занимаются передачей знаний"
+          },
+          {
+            "index": 358,
+            "start": 855.83,
+            "end": 858.5,
+            "text": "о предстоящем профессиональном перемещении."
+          },
+          {
+            "index": 359,
+            "start": 859.63,
+            "end": 860.83,
+            "text": "Проще говоря, здесь увольняют людей."
+          },
+          {
+            "index": 360,
+            "start": 860.86,
+            "end": 863.1,
+            "text": "Это ужасно."
+          },
+          {
+            "index": 361,
+            "start": 863.13,
+            "end": 865.3,
+            "text": "Зачем вам нужна специальная комната для увольнения людей?"
+          },
+          {
+            "index": 362,
+            "start": 865.33,
+            "end": 868.63,
+            "text": "Хорошо, эм, GNB чувствует что людям нужно безопасное место,"
+          },
+          {
+            "index": 363,
+            "start": 868.66,
+            "end": 871.06,
+            "text": "для получения плохих новостей."
+          },
+          {
+            "index": 364,
+            "start": 871.1,
+            "end": 872.46,
+            "text": "Да."
+          },
+          {
+            "index": 365,
+            "start": 872.5,
+            "end": 874.53,
+            "text": "Здесь реально красиво."
+          },
+          {
+            "index": 366,
+            "start": 920.23,
+            "end": 923.13,
+            "text": "Итак, я с неохотой согласился проетировать комнату"
+          },
+          {
+            "index": 367,
+            "start": 923.16,
+            "end": 924.8,
+            "text": "где должны были увольнять людей."
+          },
+          {
+            "index": 368,
+            "start": 924.83,
+            "end": 926.43,
+            "text": "Но я хотел сделать ее по своему."
+          },
+          {
+            "index": 369,
+            "start": 926.46,
+            "end": 928.4,
+            "text": "Теперь, когда вы уволены,"
+          },
+          {
+            "index": 370,
+            "start": 928.43,
+            "end": 930.03,
+            "text": "вы можете выйти в..."
+          },
+          {
+            "index": 371,
+            "start": 930.06,
+            "end": 933.8,
+            "text": "Я бы назвал это Прихожей Спокойного Возрождения."
+          },
+          {
+            "index": 372,
+            "start": 933.83,
+            "end": 935.93,
+            "text": "Е мое."
+          },
+          {
+            "index": 373,
+            "start": 935.96,
+            "end": 938.8,
+            "text": "Здесь, вы видите успокаивающую овальную комнату"
+          },
+          {
+            "index": 374,
+            "start": 938.83,
+            "end": 940.8,
+            "text": "с профессиональным психологом."
+          }
+        ],
+        "bottom": [
+          {
+            "index": 312,
+            "start": 846.313,
+            "end": 847.345,
+            "text": "Wait, what's an ETR?"
+          },
+          {
+            "index": 313,
+            "start": 847.347,
+            "end": 849.48,
+            "text": "It's\nthe Employee\nTransition Room."
+          },
+          {
+            "index": 314,
+            "start": 849.482,
+            "end": 850.281,
+            "text": "What does that mean?"
+          },
+          {
+            "index": 315,
+            "start": 850.283,
+            "end": 853.284,
+            "text": "Well, it's a space where\na supervisor and an employee"
+          },
+          {
+            "index": 316,
+            "start": 853.286,
+            "end": 859.858,
+            "text": "engage in a knowledge transfer\nabout an impending vocational\nparadigm shift."
+          },
+          {
+            "index": 317,
+            "start": 859.86,
+            "end": 861.659,
+            "text": "People get\nfired in here."
+          },
+          {
+            "index": 318,
+            "start": 861.661,
+            "end": 862.293,
+            "text": "That's horrible."
+          },
+          {
+            "index": 319,
+            "start": 862.295,
+            "end": 865.463,
+            "text": "Why do you need a room\nspecifically for firing\npeople?"
+          },
+          {
+            "index": 320,
+            "start": 865.465,
+            "end": 868.566,
+            "text": "Well,\nGNB feels that\npeople need a safe,"
+          },
+          {
+            "index": 321,
+            "start": 868.568,
+            "end": 871.369,
+            "text": "secure space to\ndeal with the news."
+          },
+          {
+            "index": 322,
+            "start": 871.371,
+            "end": 874.739,
+            "text": "Yeah. It gets\npretty real in here."
+          },
+          {
+            "index": 323,
+            "start": 874.741,
+            "end": 877.242,
+            "text": "(UPBEAT SPANISH MUSIC PLAYING)"
+          },
+          {
+            "index": 324,
+            "start": 920.219,
+            "end": 922.086,
+            "text": "OLDER TED: So,\nI reluctantly\nagreed to"
+          },
+          {
+            "index": 325,
+            "start": 922.088,
+            "end": 924.122,
+            "text": "design a room where\npeople would be fired."
+          },
+          {
+            "index": 326,
+            "start": 924.124,
+            "end": 926.357,
+            "text": "But I was\ndetermined to\nmake it my own."
+          },
+          {
+            "index": 327,
+            "start": 926.359,
+            "end": 928.826,
+            "text": "Now, when you leave\nthe dismissal space,"
+          },
+          {
+            "index": 328,
+            "start": 928.828,
+            "end": 930.828,
+            "text": "you'll exit into\nwhat I'm calling"
+          },
+          {
+            "index": 329,
+            "start": 930.83,
+            "end": 934.732,
+            "text": "the Rebirth\nTranquility\nHallway."
+          },
+          {
+            "index": 330,
+            "start": 934.734,
+            "end": 935.8,
+            "text": "Uh-oh."
+          },
+          {
+            "index": 331,
+            "start": 935.802,
+            "end": 938.603,
+            "text": "Here, you'll find\na soothing oval\nchamber"
+          },
+          {
+            "index": 332,
+            "start": 938.605,
+            "end": 940.505,
+            "text": "with a trained\ngrief counselor."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 871.775726,
+        "topCueIndex": 364,
+        "bottomCueIndex": 322
+      }
     }
   ]
 }
