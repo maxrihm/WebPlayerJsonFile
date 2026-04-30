@@ -23966,6 +23966,285 @@
         "topCueIndex": 366,
         "bottomCueIndex": 324
       }
+    },
+    {
+      "id": "e83ec02f-cf04-4609-870f-d50f8f039f53",
+      "createdAt": "2026-04-30T20:19:52.105Z",
+      "videoName": "S4E18 - Old King Clancy.mkv",
+      "audioTrackName": "S4E18 - Old King Clancy.eng.m4a",
+      "selectedText": "soothing",
+      "selection": {
+        "rawText": "soothing",
+        "startOffset": 20,
+        "endOffset": 28,
+        "cueIndex": 331,
+        "cueStart": 935.802,
+        "cueEnd": 938.603,
+        "cueText": "Here, you'll find\na soothing oval\nchamber"
+      },
+      "context": {
+        "top": [
+          {
+            "index": 362,
+            "start": 865.33,
+            "end": 868.63,
+            "text": "Хорошо, эм, GNB чувствует что людям нужно безопасное место,"
+          },
+          {
+            "index": 363,
+            "start": 868.66,
+            "end": 871.06,
+            "text": "для получения плохих новостей."
+          },
+          {
+            "index": 364,
+            "start": 871.1,
+            "end": 872.46,
+            "text": "Да."
+          },
+          {
+            "index": 365,
+            "start": 872.5,
+            "end": 874.53,
+            "text": "Здесь реально красиво."
+          },
+          {
+            "index": 366,
+            "start": 920.23,
+            "end": 923.13,
+            "text": "Итак, я с неохотой согласился проетировать комнату"
+          },
+          {
+            "index": 367,
+            "start": 923.16,
+            "end": 924.8,
+            "text": "где должны были увольнять людей."
+          },
+          {
+            "index": 368,
+            "start": 924.83,
+            "end": 926.43,
+            "text": "Но я хотел сделать ее по своему."
+          },
+          {
+            "index": 369,
+            "start": 926.46,
+            "end": 928.4,
+            "text": "Теперь, когда вы уволены,"
+          },
+          {
+            "index": 370,
+            "start": 928.43,
+            "end": 930.03,
+            "text": "вы можете выйти в..."
+          },
+          {
+            "index": 371,
+            "start": 930.06,
+            "end": 933.8,
+            "text": "Я бы назвал это Прихожей Спокойного Возрождения."
+          },
+          {
+            "index": 372,
+            "start": 933.83,
+            "end": 935.93,
+            "text": "Е мое."
+          },
+          {
+            "index": 373,
+            "start": 935.96,
+            "end": 938.8,
+            "text": "Здесь, вы видите успокаивающую овальную комнату"
+          },
+          {
+            "index": 374,
+            "start": 938.83,
+            "end": 940.8,
+            "text": "с профессиональным психологом."
+          },
+          {
+            "index": 375,
+            "start": 940.83,
+            "end": 942.86,
+            "text": "Здесь будет, фонтан Новых Начинаний."
+          },
+          {
+            "index": 376,
+            "start": 942.9,
+            "end": 944.53,
+            "text": "Е мое."
+          },
+          {
+            "index": 377,
+            "start": 944.56,
+            "end": 945.73,
+            "text": "И теперь у вас есть все это."
+          },
+          {
+            "index": 378,
+            "start": 945.76,
+            "end": 948.56,
+            "text": "Вместо бесцветной, темной тюремной камеры,"
+          },
+          {
+            "index": 379,
+            "start": 948.6,
+            "end": 950.7,
+            "text": "Фонтан..."
+          },
+          {
+            "index": 380,
+            "start": 951.93,
+            "end": 955.26,
+            "text": "Рождение новой жизни."
+          },
+          {
+            "index": 381,
+            "start": 955.3,
+            "end": 956.4,
+            "text": "Мне нравится это."
+          },
+          {
+            "index": 382,
+            "start": 956.43,
+            "end": 958.1,
+            "text": "-Действительно?\n-Да."
+          }
+        ],
+        "bottom": [
+          {
+            "index": 321,
+            "start": 868.568,
+            "end": 871.369,
+            "text": "secure space to\ndeal with the news."
+          },
+          {
+            "index": 322,
+            "start": 871.371,
+            "end": 874.739,
+            "text": "Yeah. It gets\npretty real in here."
+          },
+          {
+            "index": 323,
+            "start": 874.741,
+            "end": 877.242,
+            "text": "(UPBEAT SPANISH MUSIC PLAYING)"
+          },
+          {
+            "index": 324,
+            "start": 920.219,
+            "end": 922.086,
+            "text": "OLDER TED: So,\nI reluctantly\nagreed to"
+          },
+          {
+            "index": 325,
+            "start": 922.088,
+            "end": 924.122,
+            "text": "design a room where\npeople would be fired."
+          },
+          {
+            "index": 326,
+            "start": 924.124,
+            "end": 926.357,
+            "text": "But I was\ndetermined to\nmake it my own."
+          },
+          {
+            "index": 327,
+            "start": 926.359,
+            "end": 928.826,
+            "text": "Now, when you leave\nthe dismissal space,"
+          },
+          {
+            "index": 328,
+            "start": 928.828,
+            "end": 930.828,
+            "text": "you'll exit into\nwhat I'm calling"
+          },
+          {
+            "index": 329,
+            "start": 930.83,
+            "end": 934.732,
+            "text": "the Rebirth\nTranquility\nHallway."
+          },
+          {
+            "index": 330,
+            "start": 934.734,
+            "end": 935.8,
+            "text": "Uh-oh."
+          },
+          {
+            "index": 331,
+            "start": 935.802,
+            "end": 938.603,
+            "text": "Here, you'll find\na soothing oval\nchamber"
+          },
+          {
+            "index": 332,
+            "start": 938.605,
+            "end": 940.505,
+            "text": "with a trained\ngrief counselor."
+          },
+          {
+            "index": 333,
+            "start": 940.507,
+            "end": 943.641,
+            "text": "It's right here, past\nthe New Beginnings\nFountain."
+          },
+          {
+            "index": 334,
+            "start": 943.643,
+            "end": 944.342,
+            "text": "Uh-oh."
+          },
+          {
+            "index": 335,
+            "start": 944.344,
+            "end": 948.78,
+            "text": "And there you have it.\nInstead of a drab,\ndark prison cell,"
+          },
+          {
+            "index": 336,
+            "start": 948.782,
+            "end": 955.954,
+            "text": "a nurturing\nwomb birthing\nyou into a new life."
+          },
+          {
+            "index": 337,
+            "start": 955.956,
+            "end": 956.955,
+            "text": "I love it."
+          },
+          {
+            "index": 338,
+            "start": 956.957,
+            "end": 958.589,
+            "text": "Really?\nYeah."
+          },
+          {
+            "index": 339,
+            "start": 958.591,
+            "end": 960.591,
+            "text": "Nice work, Ted.\nThank you."
+          },
+          {
+            "index": 340,
+            "start": 960.593,
+            "end": 961.659,
+            "text": "Can you add some\nof these touches"
+          },
+          {
+            "index": 341,
+            "start": 961.661,
+            "end": 964.329,
+            "text": "to the existing\n18th Floor ETR\nas well?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 938.600318,
+        "topCueIndex": 372,
+        "bottomCueIndex": 331
+      }
     }
   ]
 }
