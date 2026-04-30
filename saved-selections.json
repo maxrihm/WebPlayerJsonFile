@@ -25361,6 +25361,285 @@
         "topCueIndex": 385,
         "bottomCueIndex": 340
       }
+    },
+    {
+      "id": "96e34f18-2747-4cf8-afbd-8be6672116aa",
+      "createdAt": "2026-04-30T20:25:23.057Z",
+      "videoName": "S4E18 - Old King Clancy.mkv",
+      "audioTrackName": "S4E18 - Old King Clancy.eng.m4a",
+      "selectedText": "so be it.",
+      "selection": {
+        "rawText": "so be it.",
+        "startOffset": 35,
+        "endOffset": 44,
+        "cueIndex": 360,
+        "cueStart": 1012.946,
+        "cueEnd": 1016.414,
+        "cueText": "If that means I never\nget to know, so be it."
+      },
+      "context": {
+        "top": [
+          {
+            "index": 397,
+            "start": 986.66,
+            "end": 988.5,
+            "text": "Эй, дорогая"
+          },
+          {
+            "index": 398,
+            "start": 994.13,
+            "end": 996.06,
+            "text": "Кто-нибудь их банды Rush,"
+          },
+          {
+            "index": 399,
+            "start": 996.1,
+            "end": 999.5,
+            "text": "\"Монреальский мясной пирог\", и супер герой на коробке для завтрака?"
+          },
+          {
+            "index": 400,
+            "start": 999.53,
+            "end": 1000.96,
+            "text": "Нет."
+          },
+          {
+            "index": 401,
+            "start": 1001,
+            "end": 1003.8,
+            "text": "Ладно. Рик Моранис,"
+          },
+          {
+            "index": 402,
+            "start": 1003.83,
+            "end": 1005.8,
+            "text": "\"Возвращение Рики Мораниса,\""
+          },
+          {
+            "index": 403,
+            "start": 1005.83,
+            "end": 1007.36,
+            "text": "еврейские старинные вещи?"
+          },
+          {
+            "index": 404,
+            "start": 1007.4,
+            "end": 1009.33,
+            "text": "-Не-а.\n-Я сдаюсь."
+          },
+          {
+            "index": 405,
+            "start": 1009.36,
+            "end": 1011.66,
+            "text": "Я гадаю уже 3 дня!"
+          },
+          {
+            "index": 406,
+            "start": 1011.7,
+            "end": 1012.8,
+            "text": "Я, я, я, сделала все"
+          },
+          {
+            "index": 407,
+            "start": 1012.83,
+            "end": 1014.46,
+            "text": "Если это означает, что я никогда не узнаю этого,"
+          },
+          {
+            "index": 408,
+            "start": 1014.5,
+            "end": 1016.3,
+            "text": "-то так тому и быть!\n-Прекрасно."
+          },
+          {
+            "index": 409,
+            "start": 1016.33,
+            "end": 1017.8,
+            "text": "Скажи нам! Скажи нам!"
+          },
+          {
+            "index": 410,
+            "start": 1017.83,
+            "end": 1019.16,
+            "text": "Ну скажи!"
+          },
+          {
+            "index": 411,
+            "start": 1019.2,
+            "end": 1020.73,
+            "text": "Окей, Ты действительно хочешь знать?"
+          },
+          {
+            "index": 412,
+            "start": 1020.76,
+            "end": 1022.1,
+            "text": "Да! Да! Да!"
+          },
+          {
+            "index": 413,
+            "start": 1023.33,
+            "end": 1024.96,
+            "text": "Но эта информация"
+          },
+          {
+            "index": 414,
+            "start": 1025,
+            "end": 1026.66,
+            "text": "не выйдет из-за этого стола."
+          },
+          {
+            "index": 415,
+            "start": 1028.2,
+            "end": 1029.6,
+            "text": "О, мой Бог."
+          },
+          {
+            "index": 416,
+            "start": 1029.63,
+            "end": 1031.13,
+            "text": "Я так заинтригована."
+          },
+          {
+            "index": 417,
+            "start": 1032.66,
+            "end": 1034.2,
+            "text": "-Ох, я собираюсь сказать это.\n-Скажи."
+          }
+        ],
+        "bottom": [
+          {
+            "index": 350,
+            "start": 984.751,
+            "end": 986.718,
+            "text": "(CELL PHONE RINGING)"
+          },
+          {
+            "index": 351,
+            "start": 988.287,
+            "end": 989.354,
+            "text": "Hey, honey."
+          },
+          {
+            "index": 352,
+            "start": 991.59,
+            "end": 993.424,
+            "text": "(CRASHING)"
+          },
+          {
+            "index": 353,
+            "start": 994.66,
+            "end": 996.394,
+            "text": "Anyone from the band Rush,"
+          },
+          {
+            "index": 354,
+            "start": 996.396,
+            "end": 1000.932,
+            "text": "a Montreal Meatpie,\nand superhero lunch boxes."
+          },
+          {
+            "index": 355,
+            "start": 1000.934,
+            "end": 1001.699,
+            "text": "No."
+          },
+          {
+            "index": 356,
+            "start": 1001.701,
+            "end": 1006.537,
+            "text": "Okay. Rick Moranis,\nthe Reverse Rick Moranis,"
+          },
+          {
+            "index": 357,
+            "start": 1006.539,
+            "end": 1008.039,
+            "text": "antique Judaica."
+          },
+          {
+            "index": 358,
+            "start": 1008.041,
+            "end": 1009.607,
+            "text": "No.\nI give up."
+          },
+          {
+            "index": 359,
+            "start": 1009.609,
+            "end": 1012.944,
+            "text": "I've been guessing for\nthree days. I'm done."
+          },
+          {
+            "index": 360,
+            "start": 1012.946,
+            "end": 1016.414,
+            "text": "If that means I never\nget to know, so be it."
+          },
+          {
+            "index": 361,
+            "start": 1016.416,
+            "end": 1016.981,
+            "text": "Fine."
+          },
+          {
+            "index": 362,
+            "start": 1016.983,
+            "end": 1019.884,
+            "text": "(HICCUPPING)\nTell us! Tell us! Tell us!"
+          },
+          {
+            "index": 363,
+            "start": 1019.886,
+            "end": 1021.552,
+            "text": "Okay,\nyou really\nwant to know?"
+          },
+          {
+            "index": 364,
+            "start": 1021.554,
+            "end": 1022.887,
+            "text": "ALL: Yes!"
+          },
+          {
+            "index": 365,
+            "start": 1022.889,
+            "end": 1023.921,
+            "text": "Okay."
+          },
+          {
+            "index": 366,
+            "start": 1023.923,
+            "end": 1027.492,
+            "text": "But this information\ndoes not leave this\ntable."
+          },
+          {
+            "index": 367,
+            "start": 1027.494,
+            "end": 1028.86,
+            "text": "(HICCUPS)"
+          },
+          {
+            "index": 368,
+            "start": 1028.862,
+            "end": 1031.863,
+            "text": "Oh, my God.\nI am so excited."
+          },
+          {
+            "index": 369,
+            "start": 1033.465,
+            "end": 1034.399,
+            "text": "I'm going to read it.\nRead it."
+          },
+          {
+            "index": 370,
+            "start": 1034.401,
+            "end": 1035.333,
+            "text": "I'm going to read it.\nRead it."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1015.329027,
+        "topCueIndex": 407,
+        "bottomCueIndex": 360
+      }
     }
   ]
 }
