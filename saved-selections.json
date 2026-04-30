@@ -26198,6 +26198,285 @@
         "topCueIndex": 438,
         "bottomCueIndex": 386
       }
+    },
+    {
+      "id": "26f76a9e-aab9-4247-b129-527dae768df9",
+      "createdAt": "2026-04-30T20:34:04.985Z",
+      "videoName": "S4E18 - Old King Clancy.mkv",
+      "audioTrackName": "S4E18 - Old King Clancy.eng.m4a",
+      "selectedText": "pitching",
+      "selection": {
+        "rawText": "pitching",
+        "startOffset": 11,
+        "endOffset": 19,
+        "cueIndex": 414,
+        "cueStart": 1160.927,
+        "cueEnd": 1162.426,
+        "cueText": "When I was pitching\nto your \"task force,\""
+      },
+      "context": {
+        "top": [
+          {
+            "index": 464,
+            "start": 1142.46,
+            "end": 1144.23,
+            "text": "Проектировать большую, причудливую E.T.R.?"
+          },
+          {
+            "index": 465,
+            "start": 1144.26,
+            "end": 1146.7,
+            "text": "-Я вне проекта.\n-Что?"
+          },
+          {
+            "index": 466,
+            "start": 1146.73,
+            "end": 1148.2,
+            "text": "Билсон уволил меня."
+          },
+          {
+            "index": 467,
+            "start": 1148.23,
+            "end": 1149.33,
+            "text": "Ты шутишь?"
+          },
+          {
+            "index": 468,
+            "start": 1149.36,
+            "end": 1151.8,
+            "text": "Так, что это означает для тебя в твоей фирме?"
+          },
+          {
+            "index": 469,
+            "start": 1151.83,
+            "end": 1153.13,
+            "text": "Ты собираешься уволльнятся?"
+          },
+          {
+            "index": 470,
+            "start": 1153.16,
+            "end": 1156.1,
+            "text": "Да. Я просто уйду."
+          },
+          {
+            "index": 471,
+            "start": 1156.13,
+            "end": 1157.1,
+            "text": "Почему?"
+          },
+          {
+            "index": 472,
+            "start": 1157.13,
+            "end": 1158.66,
+            "text": "Поскольку я не могу работать на больших"
+          },
+          {
+            "index": 473,
+            "start": 1158.7,
+            "end": 1160.53,
+            "text": "бессердечных корпоративных клиентов."
+          },
+          {
+            "index": 474,
+            "start": 1160.56,
+            "end": 1162.8,
+            "text": "Когда я узнал про \"оперативную группу\","
+          },
+          {
+            "index": 475,
+            "start": 1162.83,
+            "end": 1164.9,
+            "text": "Я делал самую вдохновенную работу в своей карьеры."
+          },
+          {
+            "index": 476,
+            "start": 1164.93,
+            "end": 1168.26,
+            "text": "В некотором смысле, вы идиоты напомнили мне сколько удовольствия"
+          },
+          {
+            "index": 477,
+            "start": 1168.3,
+            "end": 1170.13,
+            "text": "может приносить моя работа, когда я не отвечаю"
+          },
+          {
+            "index": 478,
+            "start": 1170.16,
+            "end": 1171.76,
+            "text": "перед миром Билсона, поэтому..."
+          },
+          {
+            "index": 479,
+            "start": 1171.8,
+            "end": 1172.96,
+            "text": "Я ухожу."
+          },
+          {
+            "index": 480,
+            "start": 1175.96,
+            "end": 1176.93,
+            "text": "Они уволили тебя, не так ли?"
+          },
+          {
+            "index": 481,
+            "start": 1176.96,
+            "end": 1178.83,
+            "text": "Да, сэр."
+          },
+          {
+            "index": 482,
+            "start": 1178.86,
+            "end": 1180.43,
+            "text": "Но у меня было приятное расставание"
+          },
+          {
+            "index": 483,
+            "start": 1180.46,
+            "end": 1181.96,
+            "text": "и я принял важное решение:"
+          },
+          {
+            "index": 484,
+            "start": 1182,
+            "end": 1184.13,
+            "text": "Я открою свою собственную фирму."
+          }
+        ],
+        "bottom": [
+          {
+            "index": 404,
+            "start": 1141.641,
+            "end": 1142.84,
+            "text": "Shouldn't you be upstairs,"
+          },
+          {
+            "index": 405,
+            "start": 1142.842,
+            "end": 1145.076,
+            "text": "designing your\nbig, fancy ETR?"
+          },
+          {
+            "index": 406,
+            "start": 1145.078,
+            "end": 1146.544,
+            "text": "I'm off the project."
+          },
+          {
+            "index": 407,
+            "start": 1146.546,
+            "end": 1147.512,
+            "text": "What?"
+          },
+          {
+            "index": 408,
+            "start": 1147.514,
+            "end": 1148.679,
+            "text": "Bilson fired me."
+          },
+          {
+            "index": 409,
+            "start": 1148.681,
+            "end": 1149.514,
+            "text": "You're kidding me."
+          },
+          {
+            "index": 410,
+            "start": 1149.516,
+            "end": 1153.751,
+            "text": "So what does this mean for\nyou at your firm? Are you\ngoing to get laid off?"
+          },
+          {
+            "index": 411,
+            "start": 1153.753,
+            "end": 1156.521,
+            "text": "Actually, I just quit."
+          },
+          {
+            "index": 412,
+            "start": 1156.523,
+            "end": 1156.854,
+            "text": "Why?"
+          },
+          {
+            "index": 413,
+            "start": 1156.856,
+            "end": 1160.925,
+            "text": "Because I can't\nwork for big, heartless\ncorporate clients anymore."
+          },
+          {
+            "index": 414,
+            "start": 1160.927,
+            "end": 1162.426,
+            "text": "When I was pitching\nto your \"task force,\""
+          },
+          {
+            "index": 415,
+            "start": 1162.428,
+            "end": 1165.163,
+            "text": "I was doing\nthe most inspired\nwork of my career."
+          },
+          {
+            "index": 416,
+            "start": 1165.165,
+            "end": 1169.167,
+            "text": "In a way,\nyou idiots reminded me\nhow much fun my job can be"
+          },
+          {
+            "index": 417,
+            "start": 1169.169,
+            "end": 1173.137,
+            "text": "when I'm not answering\nto the Bilsons of the\nworld, so"
+          },
+          {
+            "index": 418,
+            "start": 1173.139,
+            "end": 1174.572,
+            "text": "I quit."
+          },
+          {
+            "index": 419,
+            "start": 1174.574,
+            "end": 1176.007,
+            "text": "Wow."
+          },
+          {
+            "index": 420,
+            "start": 1176.009,
+            "end": 1177.575,
+            "text": "They fired you,\ndidn't they?"
+          },
+          {
+            "index": 421,
+            "start": 1177.577,
+            "end": 1178.342,
+            "text": "Yes, sir."
+          },
+          {
+            "index": 422,
+            "start": 1178.344,
+            "end": 1182.413,
+            "text": "But I got\na sweet severance package\nand I've made a big decision."
+          },
+          {
+            "index": 423,
+            "start": 1182.415,
+            "end": 1184.115,
+            "text": "I'm going to\nstart my own firm."
+          },
+          {
+            "index": 424,
+            "start": 1184.117,
+            "end": 1185.683,
+            "text": "Whoa, buddy!\nThat's exciting."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1162.337813,
+        "topCueIndex": 474,
+        "bottomCueIndex": 414
+      }
     }
   ]
 }
