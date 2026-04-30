@@ -20618,6 +20618,285 @@
         "topCueIndex": 260,
         "bottomCueIndex": 232
       }
+    },
+    {
+      "id": "505e4f32-8d40-423e-82bc-3b2ddc333d46",
+      "createdAt": "2026-04-30T19:31:51.499Z",
+      "videoName": "S4E18 - Old King Clancy.mkv",
+      "audioTrackName": "S4E18 - Old King Clancy.eng.m4a",
+      "selectedText": "rounded out",
+      "selection": {
+        "rawText": "rounded out",
+        "startOffset": 3,
+        "endOffset": 14,
+        "cueIndex": 236,
+        "cueStart": 618.818,
+        "cueEnd": 620.418,
+        "cueText": "We rounded out the\ngroup with a few\ninterns"
+      },
+      "context": {
+        "top": [
+          {
+            "index": 257,
+            "start": 591.03,
+            "end": 595.13,
+            "text": "Это будет нашей маленькой albondigas."
+          },
+          {
+            "index": 258,
+            "start": 596.03,
+            "end": 598.3,
+            "text": "Могу я взять пару тефтелей, пожалуйста?"
+          },
+          {
+            "index": 259,
+            "start": 599.86,
+            "end": 602.13,
+            "text": "И Артур Найсмит, эксцентричный гений, гуру"
+          },
+          {
+            "index": 260,
+            "start": 602.16,
+            "end": 604,
+            "text": "корпоративных инвестиций."
+          },
+          {
+            "index": 261,
+            "start": 604.03,
+            "end": 605.46,
+            "text": "В реальности он..."
+          },
+          {
+            "index": 262,
+            "start": 605.5,
+            "end": 609.1,
+            "text": "Сумасшедший Арти, человек-оркестр на 15 улице ."
+          },
+          {
+            "index": 263,
+            "start": 609.13,
+            "end": 610.06,
+            "text": "Извини меня."
+          },
+          {
+            "index": 264,
+            "start": 610.1,
+            "end": 611.13,
+            "text": "Ты не мог бы уделить мне одну минутку"
+          },
+          {
+            "index": 265,
+            "start": 611.16,
+            "end": 612.9,
+            "text": "Конечно, мой ассистент, Реджинальд,"
+          },
+          {
+            "index": 266,
+            "start": 612.93,
+            "end": 613.96,
+            "text": "управляет всеми моими делами."
+          },
+          {
+            "index": 267,
+            "start": 619.26,
+            "end": 621.73,
+            "text": "Мы дополнили группу несколькими стажерами и заплатили каждому 50 баксов"
+          },
+          {
+            "index": 268,
+            "start": 624.13,
+            "end": 625.93,
+            "text": "Они очень заинтересовались тем, что ты рассказал."
+          },
+          {
+            "index": 269,
+            "start": 632.7,
+            "end": 635.7,
+            "text": "Реджинальд, запиши меня снова на следующей неделе."
+          },
+          {
+            "index": 270,
+            "start": 635.73,
+            "end": 638.36,
+            "text": "Это была самая вдохновенная архитекторская работа,"
+          },
+          {
+            "index": 271,
+            "start": 638.4,
+            "end": 640.23,
+            "text": "которуя я делал в своей карьере."
+          },
+          {
+            "index": 272,
+            "start": 640.26,
+            "end": 641.4,
+            "text": "Я был так воодушевлен."
+          },
+          {
+            "index": 273,
+            "start": 644.26,
+            "end": 646.7,
+            "text": "Алекс Требек, \"Заплесневелый Вратарь\","
+          },
+          {
+            "index": 274,
+            "start": 646.73,
+            "end": 648.23,
+            "text": "-игрушки Beanie Babies!\n-Нет."
+          },
+          {
+            "index": 275,
+            "start": 648.26,
+            "end": 649.26,
+            "text": "Черт возьми!"
+          },
+          {
+            "index": 276,
+            "start": 649.3,
+            "end": 650.6,
+            "text": "Стойте."
+          },
+          {
+            "index": 277,
+            "start": 650.63,
+            "end": 653.53,
+            "text": "Это объясняет то, что случилось с Луизой."
+          }
+        ],
+        "bottom": [
+          {
+            "index": 226,
+            "start": 583.25,
+            "end": 586.117,
+            "text": "How do you say\n\"secret\" in Spanish?"
+          },
+          {
+            "index": 227,
+            "start": 586.119,
+            "end": 587.552,
+            "text": "(SPEAKING SPANISH)"
+          },
+          {
+            "index": 228,
+            "start": 587.554,
+            "end": 590.455,
+            "text": "Ah. Yes, albóndigas."
+          },
+          {
+            "index": 229,
+            "start": 590.457,
+            "end": 595.026,
+            "text": "This will be our\nlittle albondigas."
+          },
+          {
+            "index": 230,
+            "start": 595.227,
+            "end": 597.629,
+            "text": "Hey,\ncan I have a couple\nof meatballs, please?"
+          },
+          {
+            "index": 231,
+            "start": 597.631,
+            "end": 602.467,
+            "text": "And Arthur Naismith,\nthe eccentric genius guru\nof corporate investments?"
+          },
+          {
+            "index": 232,
+            "start": 602.469,
+            "end": 608.139,
+            "text": "He's actually Crazy Arty,\n15th Street's own one-man\nband."
+          },
+          {
+            "index": 233,
+            "start": 608.141,
+            "end": 609.574,
+            "text": "Excuse me.\n(SHRIEKS) Ah!"
+          },
+          {
+            "index": 234,
+            "start": 609.576,
+            "end": 610.575,
+            "text": "Do you have\na minute to talk?"
+          },
+          {
+            "index": 235,
+            "start": 610.577,
+            "end": 615.18,
+            "text": "Actually,\nmy assistant, Reginald,\nmakes all my appointments."
+          },
+          {
+            "index": 236,
+            "start": 618.818,
+            "end": 620.418,
+            "text": "We rounded out the\ngroup with a few\ninterns"
+          },
+          {
+            "index": 237,
+            "start": 620.42,
+            "end": 625.457,
+            "text": "and paid everyone 50 bucks to\nact super-interested in what\nyou were saying."
+          },
+          {
+            "index": 238,
+            "start": 631.631,
+            "end": 635.567,
+            "text": "Reginald, get me out\nof this for next week."
+          },
+          {
+            "index": 239,
+            "start": 635.569,
+            "end": 636.568,
+            "text": "That was some of\nthe most inspired"
+          },
+          {
+            "index": 240,
+            "start": 636.57,
+            "end": 641.94,
+            "text": "design work I've done\nin my entire career.\nI was so excited."
+          },
+          {
+            "index": 241,
+            "start": 643.743,
+            "end": 647.512,
+            "text": "Alex Trebek, a Musty\nGoaltender, Beanie\nBabies!"
+          },
+          {
+            "index": 242,
+            "start": 647.514,
+            "end": 648.48,
+            "text": "Nope.\nDamn it!"
+          },
+          {
+            "index": 243,
+            "start": 648.482,
+            "end": 653.385,
+            "text": "Wait. So\nthat explains the thing\nthat happened with Louisa."
+          },
+          {
+            "index": 244,
+            "start": 653.387,
+            "end": 656.121,
+            "text": "Good job, buddy.\nNice, nice!"
+          },
+          {
+            "index": 245,
+            "start": 658.357,
+            "end": 663.995,
+            "text": "Listen, Louisa.\nWhat are we going\nto do about this?"
+          },
+          {
+            "index": 246,
+            "start": 665.364,
+            "end": 667.732,
+            "text": "Don't act\nlike you don't know\nwhat I'm talking about."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 620.271282,
+        "topCueIndex": 267,
+        "bottomCueIndex": 236
+      }
     }
   ]
 }
