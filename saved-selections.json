@@ -26756,6 +26756,285 @@
         "topCueIndex": 476,
         "bottomCueIndex": 416
       }
+    },
+    {
+      "id": "fdb7aba4-9474-44c1-9ead-a015f5cd0851",
+      "createdAt": "2026-04-30T20:35:35.605Z",
+      "videoName": "S4E18 - Old King Clancy.mkv",
+      "audioTrackName": "S4E18 - Old King Clancy.eng.m4a",
+      "selectedText": "severance package",
+      "selection": {
+        "rawText": "severance package",
+        "startOffset": 18,
+        "endOffset": 35,
+        "cueIndex": 422,
+        "cueStart": 1178.344,
+        "cueEnd": 1182.413,
+        "cueText": "But I got\na sweet severance package\nand I've made a big decision."
+      },
+      "context": {
+        "top": [
+          {
+            "index": 471,
+            "start": 1156.13,
+            "end": 1157.1,
+            "text": "Почему?"
+          },
+          {
+            "index": 472,
+            "start": 1157.13,
+            "end": 1158.66,
+            "text": "Поскольку я не могу работать на больших"
+          },
+          {
+            "index": 473,
+            "start": 1158.7,
+            "end": 1160.53,
+            "text": "бессердечных корпоративных клиентов."
+          },
+          {
+            "index": 474,
+            "start": 1160.56,
+            "end": 1162.8,
+            "text": "Когда я узнал про \"оперативную группу\","
+          },
+          {
+            "index": 475,
+            "start": 1162.83,
+            "end": 1164.9,
+            "text": "Я делал самую вдохновенную работу в своей карьеры."
+          },
+          {
+            "index": 476,
+            "start": 1164.93,
+            "end": 1168.26,
+            "text": "В некотором смысле, вы идиоты напомнили мне сколько удовольствия"
+          },
+          {
+            "index": 477,
+            "start": 1168.3,
+            "end": 1170.13,
+            "text": "может приносить моя работа, когда я не отвечаю"
+          },
+          {
+            "index": 478,
+            "start": 1170.16,
+            "end": 1171.76,
+            "text": "перед миром Билсона, поэтому..."
+          },
+          {
+            "index": 479,
+            "start": 1171.8,
+            "end": 1172.96,
+            "text": "Я ухожу."
+          },
+          {
+            "index": 480,
+            "start": 1175.96,
+            "end": 1176.93,
+            "text": "Они уволили тебя, не так ли?"
+          },
+          {
+            "index": 481,
+            "start": 1176.96,
+            "end": 1178.83,
+            "text": "Да, сэр."
+          },
+          {
+            "index": 482,
+            "start": 1178.86,
+            "end": 1180.43,
+            "text": "Но у меня было приятное расставание"
+          },
+          {
+            "index": 483,
+            "start": 1180.46,
+            "end": 1181.96,
+            "text": "и я принял важное решение:"
+          },
+          {
+            "index": 484,
+            "start": 1182,
+            "end": 1184.13,
+            "text": "Я открою свою собственную фирму."
+          },
+          {
+            "index": 485,
+            "start": 1184.16,
+            "end": 1185.03,
+            "text": "Классно приятель. Это интригующе."
+          },
+          {
+            "index": 486,
+            "start": 1185.06,
+            "end": 1186.3,
+            "text": "Это способ пробиться в этой экономике."
+          },
+          {
+            "index": 487,
+            "start": 1187.56,
+            "end": 1189.56,
+            "text": "Ты в своем уме?"
+          },
+          {
+            "index": 488,
+            "start": 1189.6,
+            "end": 1192.86,
+            "text": "Как оказывается, я благодарен."
+          },
+          {
+            "index": 489,
+            "start": 1195.23,
+            "end": 1197.06,
+            "text": "Так, как все прошло между тобой и Билсоном?"
+          },
+          {
+            "index": 490,
+            "start": 1197.1,
+            "end": 1200.86,
+            "text": "Хорошо, после того, как он предложил профессионально-техническое изменение парадигмы"
+          },
+          {
+            "index": 491,
+            "start": 1200.9,
+            "end": 1203.9,
+            "text": "я сделал импровизированное представление, используя четырехаспектный подход,"
+          }
+        ],
+        "bottom": [
+          {
+            "index": 412,
+            "start": 1156.523,
+            "end": 1156.854,
+            "text": "Why?"
+          },
+          {
+            "index": 413,
+            "start": 1156.856,
+            "end": 1160.925,
+            "text": "Because I can't\nwork for big, heartless\ncorporate clients anymore."
+          },
+          {
+            "index": 414,
+            "start": 1160.927,
+            "end": 1162.426,
+            "text": "When I was pitching\nto your \"task force,\""
+          },
+          {
+            "index": 415,
+            "start": 1162.428,
+            "end": 1165.163,
+            "text": "I was doing\nthe most inspired\nwork of my career."
+          },
+          {
+            "index": 416,
+            "start": 1165.165,
+            "end": 1169.167,
+            "text": "In a way,\nyou idiots reminded me\nhow much fun my job can be"
+          },
+          {
+            "index": 417,
+            "start": 1169.169,
+            "end": 1173.137,
+            "text": "when I'm not answering\nto the Bilsons of the\nworld, so"
+          },
+          {
+            "index": 418,
+            "start": 1173.139,
+            "end": 1174.572,
+            "text": "I quit."
+          },
+          {
+            "index": 419,
+            "start": 1174.574,
+            "end": 1176.007,
+            "text": "Wow."
+          },
+          {
+            "index": 420,
+            "start": 1176.009,
+            "end": 1177.575,
+            "text": "They fired you,\ndidn't they?"
+          },
+          {
+            "index": 421,
+            "start": 1177.577,
+            "end": 1178.342,
+            "text": "Yes, sir."
+          },
+          {
+            "index": 422,
+            "start": 1178.344,
+            "end": 1182.413,
+            "text": "But I got\na sweet severance package\nand I've made a big decision."
+          },
+          {
+            "index": 423,
+            "start": 1182.415,
+            "end": 1184.115,
+            "text": "I'm going to\nstart my own firm."
+          },
+          {
+            "index": 424,
+            "start": 1184.117,
+            "end": 1185.683,
+            "text": "Whoa, buddy!\nThat's exciting."
+          },
+          {
+            "index": 425,
+            "start": 1185.685,
+            "end": 1187.785,
+            "text": "In this economy?"
+          },
+          {
+            "index": 426,
+            "start": 1187.787,
+            "end": 1190.021,
+            "text": "So you're not mad?"
+          },
+          {
+            "index": 427,
+            "start": 1190.023,
+            "end": 1193.491,
+            "text": "As it turns out,\nI'm grateful."
+          },
+          {
+            "index": 428,
+            "start": 1195.027,
+            "end": 1197.261,
+            "text": "So how'd it all go down\nbetween you and Bilson?"
+          },
+          {
+            "index": 429,
+            "start": 1197.263,
+            "end": 1200.264,
+            "text": "Well, after he proposed\na vocational paradigm shift,"
+          },
+          {
+            "index": 430,
+            "start": 1200.266,
+            "end": 1203.834,
+            "text": "I made\nan impromptu presentation\nusing a four-pronged approach"
+          },
+          {
+            "index": 431,
+            "start": 1203.836,
+            "end": 1205.77,
+            "text": "that really\nbrought him\nto his knees."
+          },
+          {
+            "index": 432,
+            "start": 1205.772,
+            "end": 1207.071,
+            "text": "Hit him with a chair?\nYep."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1180.529551,
+        "topCueIndex": 481,
+        "bottomCueIndex": 422
+      }
     }
   ]
 }
