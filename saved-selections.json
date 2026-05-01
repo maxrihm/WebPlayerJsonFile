@@ -28067,6 +28067,285 @@
         "topCueIndex": 308,
         "bottomCueIndex": 305
       }
+    },
+    {
+      "id": "f6d2985e-e02d-4b8f-b977-ab10cfa2fbf6",
+      "createdAt": "2026-05-01T21:26:53.185Z",
+      "videoName": "The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO.mkv",
+      "audioTrackName": "The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO.audio.eng.m4a",
+      "selectedText": "ruling?",
+      "selection": {
+        "rawText": "ruling?",
+        "startOffset": 10,
+        "endOffset": 17,
+        "cueIndex": 320,
+        "cueStart": 1303.469,
+        "cueEnd": 1304.637,
+        "cueText": "You got a ruling?"
+      },
+      "context": {
+        "top": [
+          {
+            "index": 314,
+            "start": 1275.509,
+            "end": 1277.428,
+            "text": "- Послушай, я понятия не имел."
+          },
+          {
+            "index": 315,
+            "start": 1278.116,
+            "end": 1281.588,
+            "text": "- Уже много лет Камли\nприносит мне стабильный доход."
+          },
+          {
+            "index": 316,
+            "start": 1283.236,
+            "end": 1285.603,
+            "text": "- Но Крис этого не знал.\n- Бред!"
+          },
+          {
+            "index": 317,
+            "start": 1286.207,
+            "end": 1288.71,
+            "text": "- Хочешь, плеер отдам?\nПосмотришь \"Старых ворчунов\"."
+          },
+          {
+            "index": 318,
+            "start": 1288.991,
+            "end": 1291.181,
+            "text": "- Шутить вздумал, да?\n- Эй!"
+          },
+          {
+            "index": 319,
+            "start": 1292.14,
+            "end": 1293.892,
+            "text": "Вы же Сопрано!"
+          },
+          {
+            "index": 320,
+            "start": 1294.58,
+            "end": 1296.727,
+            "text": "- Джеки, вы с дядей можете сами\nобо всем договориться,"
+          },
+          {
+            "index": 321,
+            "start": 1296.728,
+            "end": 1298.814,
+            "text": "не знаю, зачем я вам понадобился."
+          },
+          {
+            "index": 322,
+            "start": 1299.106,
+            "end": 1301.421,
+            "text": "- Ты не можешь контролировать\nсвоих обезьян!"
+          },
+          {
+            "index": 323,
+            "start": 1301.473,
+            "end": 1303.11,
+            "text": "- Началось... началось..."
+          },
+          {
+            "index": 324,
+            "start": 1303.454,
+            "end": 1305.279,
+            "text": "- Джеки, ничего не скажешь?"
+          },
+          {
+            "index": 325,
+            "start": 1309.908,
+            "end": 1312.411,
+            "text": "- Пацаны облажались\nи должны возместить ущерб Джуну."
+          },
+          {
+            "index": 326,
+            "start": 1312.619,
+            "end": 1314.413,
+            "text": "- Согласен. Согласен."
+          },
+          {
+            "index": 327,
+            "start": 1319.074,
+            "end": 1321.211,
+            "text": "- Кристофер - тупой молокосос,\nа его приятель..."
+          },
+          {
+            "index": 328,
+            "start": 1321.326,
+            "end": 1323.109,
+            "text": "- И ради этого мы тут собрались?"
+          },
+          {
+            "index": 329,
+            "start": 1323.39,
+            "end": 1325.007,
+            "text": "- Хватит."
+          },
+          {
+            "index": 330,
+            "start": 1328.75,
+            "end": 1331.002,
+            "text": "- Джеки, прости. Ты как?"
+          },
+          {
+            "index": 331,
+            "start": 1332.139,
+            "end": 1334.098,
+            "text": "- Может, я и веду себя как босс,"
+          },
+          {
+            "index": 332,
+            "start": 1334.099,
+            "end": 1336.185,
+            "text": "а твой дядя -\nкак член правительства,"
+          },
+          {
+            "index": 333,
+            "start": 1336.403,
+            "end": 1338.604,
+            "text": "но если бы мне сказали,\nчто мои люди меня не слушают..."
+          },
+          {
+            "index": 334,
+            "start": 1341.429,
+            "end": 1343.077,
+            "text": "К черту это."
+          }
+        ],
+        "bottom": [
+          {
+            "index": 310,
+            "start": 1271.854,
+            "end": 1274.941,
+            "text": "Jackie, tell them to leave\nComley trucking alone."
+          },
+          {
+            "index": 311,
+            "start": 1275.608,
+            "end": 1277.902,
+            "text": "Didn't know it was a Comley truck."
+          },
+          {
+            "index": 312,
+            "start": 1278.111,
+            "end": 1282.699,
+            "text": "For 21 fucking years, Comley's put\nfood on my table, protection money."
+          },
+          {
+            "index": 313,
+            "start": 1283.283,
+            "end": 1285.868,
+            "text": "- Chris didn't know going in.\n- Bullshit."
+          },
+          {
+            "index": 314,
+            "start": 1286.286,
+            "end": 1288.913,
+            "text": "Want my DVD?\nYou can watch Grumpy Old Men."
+          },
+          {
+            "index": 315,
+            "start": 1289.163,
+            "end": 1291.499,
+            "text": "- You gonna be a fucking funny boy now?\n- Hey!"
+          },
+          {
+            "index": 316,
+            "start": 1292.25,
+            "end": 1293.751,
+            "text": "You Sopranos."
+          },
+          {
+            "index": 317,
+            "start": 1293.96,
+            "end": 1298.84,
+            "text": "You hope you and your uncle can settle,\nnot be invited to a fucking sit-down."
+          },
+          {
+            "index": 318,
+            "start": 1299.09,
+            "end": 1301.467,
+            "text": "You got a crew of cowards\nyou don't control."
+          },
+          {
+            "index": 319,
+            "start": 1301.676,
+            "end": 1303.177,
+            "text": "Here we go.\nHere we go."
+          },
+          {
+            "index": 320,
+            "start": 1303.469,
+            "end": 1304.637,
+            "text": "You got a ruling?"
+          },
+          {
+            "index": 321,
+            "start": 1309.809,
+            "end": 1312.437,
+            "text": "The kids make restitution to Junior."
+          },
+          {
+            "index": 322,
+            "start": 1312.687,
+            "end": 1314.022,
+            "text": "Done. It's done."
+          },
+          {
+            "index": 323,
+            "start": 1319.068,
+            "end": 1321.321,
+            "text": "Christopher Moltisanti's\na fucking loose..."
+          },
+          {
+            "index": 324,
+            "start": 1321.571,
+            "end": 1323.197,
+            "text": "You get him out of a sick bed?"
+          },
+          {
+            "index": 325,
+            "start": 1323.448,
+            "end": 1324.699,
+            "text": "Hey, fuck that shit."
+          },
+          {
+            "index": 326,
+            "start": 1328.953,
+            "end": 1331.914,
+            "text": "Giacomino, how you feeling?"
+          },
+          {
+            "index": 327,
+            "start": 1332.29,
+            "end": 1336.336,
+            "text": "I may be acting boss while your old\nman's a guest of the government..."
+          },
+          {
+            "index": 328,
+            "start": 1336.586,
+            "end": 1339.839,
+            "text": "...but I wish somebody'd tell\nmy bowels. They don't obey."
+          },
+          {
+            "index": 329,
+            "start": 1341.466,
+            "end": 1343.384,
+            "text": "Ah, the fucking chemo."
+          },
+          {
+            "index": 330,
+            "start": 1345.762,
+            "end": 1348.181,
+            "text": "Maybe I should name a successor."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1303.955968,
+        "topCueIndex": 324,
+        "bottomCueIndex": 320
+      }
     }
   ]
 }
