@@ -28346,6 +28346,285 @@
         "topCueIndex": 324,
         "bottomCueIndex": 320
       }
+    },
+    {
+      "id": "a32f1749-8850-45de-88ff-8afb810ae852",
+      "createdAt": "2026-05-01T21:31:56.127Z",
+      "videoName": "The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO.mkv",
+      "audioTrackName": "The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO.audio.eng.m4a",
+      "selectedText": "put a crimp",
+      "selection": {
+        "rawText": "put a crimp",
+        "startOffset": 9,
+        "endOffset": 20,
+        "cueIndex": 426,
+        "cueStart": 1717.55,
+        "cueEnd": 1719.635,
+        "cueText": "You boys put a crimp in my week."
+      },
+      "context": {
+        "top": [
+          {
+            "index": 419,
+            "start": 1679.684,
+            "end": 1681.269,
+            "text": "Иди сюда!"
+          },
+          {
+            "index": 420,
+            "start": 1683.052,
+            "end": 1684.835,
+            "text": "Тут есть еще кто, Ромео?"
+          },
+          {
+            "index": 421,
+            "start": 1685.002,
+            "end": 1686.67,
+            "text": "- Эдди, я готов!"
+          },
+          {
+            "index": 422,
+            "start": 1687.828,
+            "end": 1689.641,
+            "text": "- А вот и Джульетта!"
+          },
+          {
+            "index": 423,
+            "start": 1689.642,
+            "end": 1691.728,
+            "text": "- Слушай, этот аэроэкспресс\nне совсем..."
+          },
+          {
+            "index": 424,
+            "start": 1693.677,
+            "end": 1696.085,
+            "text": "Эдди!\n- Девчата, вы не ту машину угнали"
+          },
+          {
+            "index": 425,
+            "start": 1696.086,
+            "end": 1697.879,
+            "text": "пару дней назад.\n- Господи боже!"
+          },
+          {
+            "index": 426,
+            "start": 1697.88,
+            "end": 1700.183,
+            "text": "- Мы ничего не скажем без адвоката!"
+          },
+          {
+            "index": 427,
+            "start": 1700.184,
+            "end": 1702.268,
+            "text": "- Валяй, делай заявление."
+          },
+          {
+            "index": 428,
+            "start": 1702.269,
+            "end": 1704.355,
+            "text": "Вот у меня для тебя адвокат припасен!"
+          },
+          {
+            "index": 429,
+            "start": 1717.389,
+            "end": 1719.286,
+            "text": "- Вы меня уже достали."
+          },
+          {
+            "index": 430,
+            "start": 1720.194,
+            "end": 1722.123,
+            "text": "- Какой ужас.\n- Шевелитесь."
+          },
+          {
+            "index": 431,
+            "start": 1723.989,
+            "end": 1726.074,
+            "text": "- Ты только взгляни\nна эту развалюху."
+          },
+          {
+            "index": 432,
+            "start": 1728.233,
+            "end": 1729.901,
+            "text": "Гляди!"
+          },
+          {
+            "index": 433,
+            "start": 1730.318,
+            "end": 1733.3,
+            "text": "- Хлам, теперь от него никакого толку.\n- Но это не она."
+          },
+          {
+            "index": 434,
+            "start": 1733.717,
+            "end": 1736.303,
+            "text": "- Тогда почему эта машина стоит здесь?\nВидишь?"
+          },
+          {
+            "index": 435,
+            "start": 1737.461,
+            "end": 1739.806,
+            "text": "И какого хрена на ней висит номер,\nкоторый преследует меня"
+          },
+          {
+            "index": 436,
+            "start": 1739.807,
+            "end": 1741.611,
+            "text": "уже целую неделю?"
+          },
+          {
+            "index": 437,
+            "start": 1742.059,
+            "end": 1744.447,
+            "text": "- Не знаю.\n- Давай я объясню, что будет дальше."
+          },
+          {
+            "index": 438,
+            "start": 1745.229,
+            "end": 1748.138,
+            "text": "Один из вас перелезает через забор\nи снимает номера."
+          },
+          {
+            "index": 439,
+            "start": 1748.597,
+            "end": 1750.432,
+            "text": "- Но колючая проволока...\n- Затем..."
+          }
+        ],
+        "bottom": [
+          {
+            "index": 416,
+            "start": 1680.471,
+            "end": 1681.639,
+            "text": "Come here!"
+          },
+          {
+            "index": 417,
+            "start": 1683.14,
+            "end": 1685.101,
+            "text": "Anybody else here, Desi?"
+          },
+          {
+            "index": 418,
+            "start": 1685.351,
+            "end": 1687.895,
+            "text": "- Eddie, I'm ready.\n- Yep."
+          },
+          {
+            "index": 419,
+            "start": 1688.229,
+            "end": 1689.23,
+            "text": "Here comes Lucy."
+          },
+          {
+            "index": 420,
+            "start": 1689.48,
+            "end": 1692.233,
+            "text": "Those people at the airport\nshuttle are always late."
+          },
+          {
+            "index": 421,
+            "start": 1693.109,
+            "end": 1694.193,
+            "text": "- Uh!\n- Eddie!"
+          },
+          {
+            "index": 422,
+            "start": 1694.443,
+            "end": 1696.821,
+            "text": "You boys drove off in the wrong car."
+          },
+          {
+            "index": 423,
+            "start": 1697.071,
+            "end": 1699.99,
+            "text": "We ain't saying shit\nuntil there's an attorney."
+          },
+          {
+            "index": 424,
+            "start": 1700.241,
+            "end": 1702.743,
+            "text": "Well, go ahead. Make a statement."
+          },
+          {
+            "index": 425,
+            "start": 1702.993,
+            "end": 1705.037,
+            "text": "I got fucking Johnny Cochran here!"
+          },
+          {
+            "index": 426,
+            "start": 1717.55,
+            "end": 1719.635,
+            "text": "You boys put a crimp in my week."
+          },
+          {
+            "index": 427,
+            "start": 1720.177,
+            "end": 1722.722,
+            "text": "- Ah, mannaggia!\n- Get over there."
+          },
+          {
+            "index": 428,
+            "start": 1724.056,
+            "end": 1726.892,
+            "text": "Hey, Puss, here's the fucking set."
+          },
+          {
+            "index": 429,
+            "start": 1728.352,
+            "end": 1729.353,
+            "text": "Look."
+          },
+          {
+            "index": 430,
+            "start": 1730.312,
+            "end": 1732.44,
+            "text": "Fucking car's been chopped. Useless."
+          },
+          {
+            "index": 431,
+            "start": 1732.69,
+            "end": 1733.733,
+            "text": "That's not it."
+          },
+          {
+            "index": 432,
+            "start": 1733.983,
+            "end": 1737.236,
+            "text": "Then why is that car inside there?\nThat Dodge?"
+          },
+          {
+            "index": 433,
+            "start": 1737.486,
+            "end": 1741.782,
+            "text": "Why is that motherfucker wearing the\nfucking plate number I had all week?"
+          },
+          {
+            "index": 434,
+            "start": 1742.032,
+            "end": 1744.577,
+            "text": "- I don't know.\n- Here's what's gonna happen."
+          },
+          {
+            "index": 435,
+            "start": 1745.119,
+            "end": 1748.706,
+            "text": "The two of youse are climbing over that\nfence and shagging those plates."
+          },
+          {
+            "index": 436,
+            "start": 1748.956,
+            "end": 1750.499,
+            "text": "But the razor wire."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1718.405944,
+        "topCueIndex": 429,
+        "bottomCueIndex": 426
+      }
     }
   ]
 }
