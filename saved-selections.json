@@ -29741,6 +29741,285 @@
         "topCueIndex": 479,
         "bottomCueIndex": 472
       }
+    },
+    {
+      "id": "4957c2d3-aa3e-4d21-aed9-b00cb5f3d76d",
+      "createdAt": "2026-05-01T21:43:19.099Z",
+      "videoName": "The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO.mkv",
+      "audioTrackName": "The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO.audio.eng.m4a",
+      "selectedText": "she's embarking",
+      "selection": {
+        "rawText": "she's embarking",
+        "startOffset": 15,
+        "endOffset": 30,
+        "cueIndex": 479,
+        "cueStart": 1941.398,
+        "cueEnd": 1945.486,
+        "cueText": "That, in fact, she's embarking\non a rewarding chapter."
+      },
+      "context": {
+        "top": [
+          {
+            "index": 474,
+            "start": 1898.768,
+            "end": 1900.603,
+            "text": "но вы сами знаете по опыту,"
+          },
+          {
+            "index": 475,
+            "start": 1901.573,
+            "end": 1903.658,
+            "text": "что депрессия приводит\nне только к саморазрушению,"
+          },
+          {
+            "index": 476,
+            "start": 1903.669,
+            "end": 1905.837,
+            "text": "но и к несчастным случаям."
+          },
+          {
+            "index": 477,
+            "start": 1906.38,
+            "end": 1910.634,
+            "text": "- Думаете, она на подсознательном\nуровне решила угробить лучшую подругу?"
+          },
+          {
+            "index": 478,
+            "start": 1910.968,
+            "end": 1914.179,
+            "text": "- Интересно, как вы интерпретировали\nмои слова."
+          },
+          {
+            "index": 479,
+            "start": 1917.088,
+            "end": 1922.646,
+            "text": "Так или иначе, ей надо сменить\nобстановку и окружить себя людьми."
+          },
+          {
+            "index": 480,
+            "start": 1923.261,
+            "end": 1926.848,
+            "text": "- Мы остановили выбор на \"Грин Гров\".\n- Чудесное заведение."
+          },
+          {
+            "index": 481,
+            "start": 1927.349,
+            "end": 1931.582,
+            "text": "Больше похоже...\nна отель \"Капитан Тибс\"."
+          },
+          {
+            "index": 482,
+            "start": 1933.918,
+            "end": 1937.838,
+            "text": "- Да. Но она считает это\nдомом престарелых."
+          },
+          {
+            "index": 483,
+            "start": 1938.026,
+            "end": 1940.622,
+            "text": "- Ее надо заставить увидеть разницу."
+          },
+          {
+            "index": 484,
+            "start": 1941.373,
+            "end": 1944.428,
+            "text": "Что на самом деле\nот нее вовсе не хотят избавиться."
+          },
+          {
+            "index": 485,
+            "start": 1946.003,
+            "end": 1948.38,
+            "text": "Я знаю многих пенсионеров,\nкоторые счастливы сами"
+          },
+          {
+            "index": 486,
+            "start": 1948.933,
+            "end": 1950.518,
+            "text": "и вдохновляют остальных."
+          },
+          {
+            "index": 487,
+            "start": 1956.159,
+            "end": 1958.14,
+            "text": "- Я надеюсь, про нас не забыли?"
+          },
+          {
+            "index": 488,
+            "start": 1960.663,
+            "end": 1962.363,
+            "text": "- Девушки..."
+          },
+          {
+            "index": 489,
+            "start": 1968.025,
+            "end": 1970.485,
+            "text": "- Кенни Порчугал\nвелел передать тебе привет."
+          },
+          {
+            "index": 490,
+            "start": 1970.871,
+            "end": 1972.571,
+            "text": "- Да, точно, Кенни."
+          },
+          {
+            "index": 491,
+            "start": 1976.648,
+            "end": 1978.66,
+            "text": "- Да что с этим придурком?"
+          },
+          {
+            "index": 492,
+            "start": 1978.963,
+            "end": 1980.714,
+            "text": "- Отойдите, отойдите!"
+          },
+          {
+            "index": 493,
+            "start": 1980.746,
+            "end": 1982.623,
+            "text": "Мистер Скорсезе, добрый вечер."
+          },
+          {
+            "index": 494,
+            "start": 1985.751,
+            "end": 1987.388,
+            "text": "- Марти!"
+          }
+        ],
+        "bottom": [
+          {
+            "index": 469,
+            "start": 1906.363,
+            "end": 1908.157,
+            "text": "So, what are you saying?"
+          },
+          {
+            "index": 470,
+            "start": 1908.365,
+            "end": 1910.659,
+            "text": "Unconsciously she tried\nto whack her friend?"
+          },
+          {
+            "index": 471,
+            "start": 1911.118,
+            "end": 1915.247,
+            "text": "It's interesting that you would even\ntake that from what I said."
+          },
+          {
+            "index": 472,
+            "start": 1917.124,
+            "end": 1921.17,
+            "text": "Either way, she could need a change\nin her living situation..."
+          },
+          {
+            "index": 473,
+            "start": 1921.378,
+            "end": 1922.713,
+            "text": "...be around more people."
+          },
+          {
+            "index": 474,
+            "start": 1923.422,
+            "end": 1925.299,
+            "text": "We were looking at Green Grove."
+          },
+          {
+            "index": 475,
+            "start": 1925.549,
+            "end": 1926.967,
+            "text": "It's a beautiful facility."
+          },
+          {
+            "index": 476,
+            "start": 1927.509,
+            "end": 1932.056,
+            "text": "It's more like a hotel\nat Cap d'Antibes."
+          },
+          {
+            "index": 477,
+            "start": 1933.891,
+            "end": 1935.267,
+            "text": "Yeah."
+          },
+          {
+            "index": 478,
+            "start": 1936.936,
+            "end": 1941.148,
+            "text": "- But to her it's a nursing home.\n- She needs to see the distinction."
+          },
+          {
+            "index": 479,
+            "start": 1941.398,
+            "end": 1945.486,
+            "text": "That, in fact, she's embarking\non a rewarding chapter."
+          },
+          {
+            "index": 480,
+            "start": 1946.153,
+            "end": 1950.574,
+            "text": "I know seniors who are inspired\nand inspiring."
+          },
+          {
+            "index": 481,
+            "start": 1956.288,
+            "end": 1958.415,
+            "text": "You're not forgetting us, buddy?"
+          },
+          {
+            "index": 482,
+            "start": 1960.793,
+            "end": 1962.169,
+            "text": "Ladies."
+          },
+          {
+            "index": 483,
+            "start": 1968.175,
+            "end": 1970.761,
+            "text": "Hey, Kenny Portugal said\nto say hello."
+          },
+          {
+            "index": 484,
+            "start": 1971.011,
+            "end": 1972.596,
+            "text": "Oh, yeah. Kenny."
+          },
+          {
+            "index": 485,
+            "start": 1977.351,
+            "end": 1979.269,
+            "text": "The fuck is with this cocksucker?"
+          },
+          {
+            "index": 486,
+            "start": 1979.812,
+            "end": 1982.606,
+            "text": "Back up! Mr. Scorsese, good evening."
+          },
+          {
+            "index": 487,
+            "start": 1982.856,
+            "end": 1985.484,
+            "text": "Whoa! Wow!"
+          },
+          {
+            "index": 488,
+            "start": 1985.985,
+            "end": 1987.403,
+            "text": "Marty!"
+          },
+          {
+            "index": 489,
+            "start": 1987.778,
+            "end": 1989.53,
+            "text": "Kundun! I liked it."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1941.986362,
+        "topCueIndex": 484,
+        "bottomCueIndex": 479
+      }
     }
   ]
 }
