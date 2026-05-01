@@ -27593,6 +27593,201 @@
         "topCueIndex": 490,
         "bottomCueIndex": 430
       }
+    },
+    {
+      "id": "66dbd25c-dfc7-4ed8-820f-e84bba1265e5",
+      "createdAt": "2026-05-01T21:18:40.392Z",
+      "videoName": "The.Sopranos.S01E01.576p.BluRay.Goblin.Eng.HBO.mkv",
+      "audioTrackName": "The.Sopranos.S01E01.576p.BluRay.Goblin.Eng.HBO.audio.eng.m4a",
+      "selectedText": "My understanding",
+      "selection": {
+        "rawText": "My understanding",
+        "startOffset": 0,
+        "endOffset": 16,
+        "cueIndex": 3,
+        "cueStart": 165.708,
+        "cueEnd": 169.211,
+        "cueText": "My understanding from Dr. Cusamano,\nyour physician..."
+      },
+      "context": {
+        "top": [
+          {
+            "index": 0,
+            "start": 119.376,
+            "end": 121.024,
+            "text": "- Мистер Сопрано?"
+          },
+          {
+            "index": 1,
+            "start": 121.66,
+            "end": 123.265,
+            "text": "- Иду."
+          },
+          {
+            "index": 2,
+            "start": 134.172,
+            "end": 135.778,
+            "text": "- Присаживайтесь."
+          },
+          {
+            "index": 3,
+            "start": 165.641,
+            "end": 169.541,
+            "text": "- Ваш семейный врач, доктор Кусамано,"
+          },
+          {
+            "index": 4,
+            "start": 170.406,
+            "end": 172.647,
+            "text": "сообщил, что вы потеряли сознание.\nВозможно, это был приступ паники."
+          },
+          {
+            "index": 5,
+            "start": 172.648,
+            "end": 174.556,
+            "text": "Вам не хватало воздуха?"
+          },
+          {
+            "index": 6,
+            "start": 175.328,
+            "end": 177.768,
+            "text": "- Про приступ они сказали. Конечно же,"
+          },
+          {
+            "index": 7,
+            "start": 178.727,
+            "end": 181.178,
+            "text": "анализ крови и нервной системы\nничего не показал."
+          },
+          {
+            "index": 8,
+            "start": 183.555,
+            "end": 185.15,
+            "text": "И они меня направили сюда."
+          },
+          {
+            "index": 9,
+            "start": 185.38,
+            "end": 187.236,
+            "text": "- Значит, вы не согласны с диагнозом?"
+          },
+          {
+            "index": 10,
+            "start": 191.062,
+            "end": 192.772,
+            "text": "А сейчас как вы себя чувствуете?"
+          },
+          {
+            "index": 11,
+            "start": 193.064,
+            "end": 194.722,
+            "text": "- Хорошо."
+          },
+          {
+            "index": 12,
+            "start": 194.868,
+            "end": 196.808,
+            "text": "Все нормально. Вернулся на работу."
+          },
+          {
+            "index": 13,
+            "start": 198.57,
+            "end": 200.259,
+            "text": "- Чем вы занимаетесь?"
+          }
+        ],
+        "bottom": [
+          {
+            "index": 0,
+            "start": 120.037,
+            "end": 121.08,
+            "text": "Mr. Soprano?"
+          },
+          {
+            "index": 1,
+            "start": 122.54,
+            "end": 123.707,
+            "text": "Yeah."
+          },
+          {
+            "index": 2,
+            "start": 134.51,
+            "end": 135.886,
+            "text": "Have a seat."
+          },
+          {
+            "index": 3,
+            "start": 165.708,
+            "end": 169.211,
+            "text": "My understanding from Dr. Cusamano,\nyour physician..."
+          },
+          {
+            "index": 4,
+            "start": 169.42,
+            "end": 171.088,
+            "text": "...is that you collapsed."
+          },
+          {
+            "index": 5,
+            "start": 171.463,
+            "end": 175.092,
+            "text": "Possibly a panic attack?\nYou were unable to breathe?"
+          },
+          {
+            "index": 6,
+            "start": 175.259,
+            "end": 178.22,
+            "text": "They said it was a panic attack."
+          },
+          {
+            "index": 7,
+            "start": 178.846,
+            "end": 181.849,
+            "text": "The blood and neurological\nwork came back negative."
+          },
+          {
+            "index": 8,
+            "start": 183.726,
+            "end": 185.436,
+            "text": "And they sent me here."
+          },
+          {
+            "index": 9,
+            "start": 185.603,
+            "end": 187.73,
+            "text": "You don't agree that\nyou had a panic attack?"
+          },
+          {
+            "index": 10,
+            "start": 191.233,
+            "end": 193.11,
+            "text": "How are you feeling now?"
+          },
+          {
+            "index": 11,
+            "start": 193.277,
+            "end": 194.361,
+            "text": "Good."
+          },
+          {
+            "index": 12,
+            "start": 194.778,
+            "end": 197.239,
+            "text": "Fine. Back at work."
+          },
+          {
+            "index": 13,
+            "start": 199.074,
+            "end": 200.784,
+            "text": "What line of work are you in?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 167.735065,
+        "topCueIndex": 3,
+        "bottomCueIndex": 3
+      }
     }
   ]
 }
