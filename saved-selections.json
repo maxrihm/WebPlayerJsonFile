@@ -30578,6 +30578,285 @@
         "topCueIndex": 503,
         "bottomCueIndex": 496
       }
+    },
+    {
+      "id": "4f9d3ea1-a3c8-48a0-acc3-c73b829a4459",
+      "createdAt": "2026-05-01T21:50:58.586Z",
+      "videoName": "The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO.mkv",
+      "audioTrackName": "The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO.audio.eng.m4a",
+      "selectedText": "fixed",
+      "selection": {
+        "rawText": "fixed",
+        "startOffset": 6,
+        "endOffset": 11,
+        "cueIndex": 515,
+        "cueStart": 2092.341,
+        "cueEnd": 2094.593,
+        "cueText": "We're fixed good lamp-wise, thank you."
+      },
+      "context": {
+        "top": [
+          {
+            "index": 513,
+            "start": 2054.486,
+            "end": 2056.238,
+            "text": "А куда мы катимся?"
+          },
+          {
+            "index": 514,
+            "start": 2067.572,
+            "end": 2069.751,
+            "text": "- Мам... это так вкусно!"
+          },
+          {
+            "index": 515,
+            "start": 2070.335,
+            "end": 2072.525,
+            "text": "- Давай, давай, возьми еще кусочек."
+          },
+          {
+            "index": 516,
+            "start": 2072.671,
+            "end": 2074.444,
+            "text": "- Не могу больше."
+          },
+          {
+            "index": 517,
+            "start": 2074.673,
+            "end": 2076.393,
+            "text": "Это превосходно."
+          },
+          {
+            "index": 518,
+            "start": 2076.811,
+            "end": 2078.927,
+            "text": "- Ты никогда не позволяешь мне\nнакормить тебя как следует."
+          },
+          {
+            "index": 519,
+            "start": 2081.763,
+            "end": 2083.338,
+            "text": "- Итак,"
+          },
+          {
+            "index": 520,
+            "start": 2083.588,
+            "end": 2085.955,
+            "text": "возвращаясь к нашему разговору...\n- Ты лампу хочешь?"
+          },
+          {
+            "index": 521,
+            "start": 2086.091,
+            "end": 2090.147,
+            "text": "- Мама, не начинай.\n- Эта настоящее сусальное золото -"
+          },
+          {
+            "index": 522,
+            "start": 2090.261,
+            "end": 2092.325,
+            "text": "да ты знаешь, сколько она стоила,\nкогда была новой?"
+          },
+          {
+            "index": 523,
+            "start": 2092.326,
+            "end": 2094.693,
+            "text": "- Мам, у нас этих ламп полный дом.\nСпасибо."
+          },
+          {
+            "index": 524,
+            "start": 2094.829,
+            "end": 2097.237,
+            "text": "- Отлично, забирай ее и кресло."
+          },
+          {
+            "index": 525,
+            "start": 2098.113,
+            "end": 2101.69,
+            "text": "Кто-то должен забрать все это,\nпрежде чем я умру."
+          },
+          {
+            "index": 526,
+            "start": 2102.534,
+            "end": 2104.922,
+            "text": "Иначе здесь будет\nслишком много вещей,"
+          },
+          {
+            "index": 527,
+            "start": 2105.339,
+            "end": 2108.165,
+            "text": "и мусорщики просто выкинут их\nна свалку."
+          },
+          {
+            "index": 528,
+            "start": 2109.03,
+            "end": 2111.178,
+            "text": "- Мама, ты не умрешь."
+          },
+          {
+            "index": 529,
+            "start": 2111.71,
+            "end": 2113.879,
+            "text": "И никто не вывезет твои вещи\nна свалку."
+          },
+          {
+            "index": 530,
+            "start": 2114.265,
+            "end": 2116.287,
+            "text": "Но ты должна подумать\nо своем будущем."
+          },
+          {
+            "index": 531,
+            "start": 2116.288,
+            "end": 2118.634,
+            "text": "Приближается самое замечательное время\nв твоей жизни."
+          },
+          {
+            "index": 532,
+            "start": 2119.572,
+            "end": 2122.262,
+            "text": "- Помнишь мои украшения?\n- Что подарил тебе отец?"
+          },
+          {
+            "index": 533,
+            "start": 2123.545,
+            "end": 2125.641,
+            "text": "Половина прямо с витрины\nКартье потырена."
+          }
+        ],
+        "bottom": [
+          {
+            "index": 505,
+            "start": 2054.762,
+            "end": 2056.638,
+            "text": "Where do we go from here?"
+          },
+          {
+            "index": 506,
+            "start": 2065.939,
+            "end": 2066.94,
+            "text": "Oh."
+          },
+          {
+            "index": 507,
+            "start": 2067.649,
+            "end": 2069.902,
+            "text": "Ma, this Virginia ham..."
+          },
+          {
+            "index": 508,
+            "start": 2070.486,
+            "end": 2072.488,
+            "text": "Go on, get yourself some more."
+          },
+          {
+            "index": 509,
+            "start": 2072.696,
+            "end": 2074.49,
+            "text": "No, I'm full."
+          },
+          {
+            "index": 510,
+            "start": 2074.74,
+            "end": 2076.241,
+            "text": "It's good, though."
+          },
+          {
+            "index": 511,
+            "start": 2077.034,
+            "end": 2079.078,
+            "text": "You never let me feed you."
+          },
+          {
+            "index": 512,
+            "start": 2081.955,
+            "end": 2085.042,
+            "text": "So getting back\nto what we were talking about."
+          },
+          {
+            "index": 513,
+            "start": 2085.292,
+            "end": 2087.086,
+            "text": "- You want that lamp?\n- Lie down."
+          },
+          {
+            "index": 514,
+            "start": 2087.294,
+            "end": 2092.091,
+            "text": "That lamp, that's real ormolu. You\nknow what that's worth when it's new?"
+          },
+          {
+            "index": 515,
+            "start": 2092.341,
+            "end": 2094.593,
+            "text": "We're fixed good lamp-wise, thank you."
+          },
+          {
+            "index": 516,
+            "start": 2094.802,
+            "end": 2096.97,
+            "text": "Take it and take the Barcalounger."
+          },
+          {
+            "index": 517,
+            "start": 2098.18,
+            "end": 2101.892,
+            "text": "Somebody's gotta take\nthis stuff before I die."
+          },
+          {
+            "index": 518,
+            "start": 2102.684,
+            "end": 2105.604,
+            "text": "Otherwise there's gonna be\na lot of stuff here..."
+          },
+          {
+            "index": 519,
+            "start": 2105.813,
+            "end": 2108.899,
+            "text": "...that the junkman's gonna\nhave to cart off to the dump."
+          },
+          {
+            "index": 520,
+            "start": 2109.149,
+            "end": 2114.154,
+            "text": "Mom, you're not gonna die. Your\nstuff won't be hauled off to the dump."
+          },
+          {
+            "index": 521,
+            "start": 2114.446,
+            "end": 2118.784,
+            "text": "Plan for the future. The most rewarding\nchapter of your life's coming up."
+          },
+          {
+            "index": 522,
+            "start": 2119.701,
+            "end": 2123.163,
+            "text": "- You know my good jewelry?\n- The stuff Dad gave you."
+          },
+          {
+            "index": 523,
+            "start": 2123.664,
+            "end": 2126.917,
+            "text": "Some of those pieces came right\nout of Cartier's window."
+          },
+          {
+            "index": 524,
+            "start": 2127.835,
+            "end": 2129.837,
+            "text": "Listen, Carm doesn't want it."
+          },
+          {
+            "index": 525,
+            "start": 2130.129,
+            "end": 2131.63,
+            "text": "Not now."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 2093.296989,
+        "topCueIndex": 523,
+        "bottomCueIndex": 515
+      }
     }
   ]
 }
