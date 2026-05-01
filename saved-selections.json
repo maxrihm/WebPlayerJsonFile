@@ -28625,6 +28625,285 @@
         "topCueIndex": 429,
         "bottomCueIndex": 426
       }
+    },
+    {
+      "id": "328800fb-6777-496d-8bc1-86d0fe492270",
+      "createdAt": "2026-05-01T21:34:37.214Z",
+      "videoName": "The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO.mkv",
+      "audioTrackName": "The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO.audio.eng.m4a",
+      "selectedText": "On the lookout for",
+      "selection": {
+        "rawText": "On the lookout for",
+        "startOffset": 2,
+        "endOffset": 20,
+        "cueIndex": 438,
+        "cueStart": 1764.472,
+        "cueEnd": 1767.808,
+        "cueText": "- On the lookout for ducks?\n- Know the old man pretty good."
+      },
+      "context": {
+        "top": [
+          {
+            "index": 432,
+            "start": 1728.233,
+            "end": 1729.901,
+            "text": "Гляди!"
+          },
+          {
+            "index": 433,
+            "start": 1730.318,
+            "end": 1733.3,
+            "text": "- Хлам, теперь от него никакого толку.\n- Но это не она."
+          },
+          {
+            "index": 434,
+            "start": 1733.717,
+            "end": 1736.303,
+            "text": "- Тогда почему эта машина стоит здесь?\nВидишь?"
+          },
+          {
+            "index": 435,
+            "start": 1737.461,
+            "end": 1739.806,
+            "text": "И какого хрена на ней висит номер,\nкоторый преследует меня"
+          },
+          {
+            "index": 436,
+            "start": 1739.807,
+            "end": 1741.611,
+            "text": "уже целую неделю?"
+          },
+          {
+            "index": 437,
+            "start": 1742.059,
+            "end": 1744.447,
+            "text": "- Не знаю.\n- Давай я объясню, что будет дальше."
+          },
+          {
+            "index": 438,
+            "start": 1745.229,
+            "end": 1748.138,
+            "text": "Один из вас перелезает через забор\nи снимает номера."
+          },
+          {
+            "index": 439,
+            "start": 1748.597,
+            "end": 1750.432,
+            "text": "- Но колючая проволока...\n- Затем..."
+          },
+          {
+            "index": 440,
+            "start": 1750.682,
+            "end": 1753.122,
+            "text": "...один из вас остается с нами,\nпока его вторая половинка"
+          },
+          {
+            "index": 441,
+            "start": 1753.237,
+            "end": 1755.208,
+            "text": "угоняет новую машину."
+          },
+          {
+            "index": 442,
+            "start": 1764.384,
+            "end": 1766.24,
+            "text": "- Высматриваешь уток, пап?"
+          },
+          {
+            "index": 443,
+            "start": 1766.406,
+            "end": 1769.67,
+            "text": "- Я настолько предсказуем?\n- Не переживай. Они, конечно, милые,"
+          },
+          {
+            "index": 444,
+            "start": 1769.858,
+            "end": 1771.787,
+            "text": "но вспомни, как засорился фильтр\nв бассейне."
+          },
+          {
+            "index": 445,
+            "start": 1773.726,
+            "end": 1775.707,
+            "text": "- Но не зря же они у нас поселились,"
+          },
+          {
+            "index": 446,
+            "start": 1775.926,
+            "end": 1778.418,
+            "text": "понимаешь?\n- Если честно, то не совсем."
+          },
+          {
+            "index": 447,
+            "start": 1782.881,
+            "end": 1784.841,
+            "text": "- Когда приезжает твоя бабушка?"
+          },
+          {
+            "index": 448,
+            "start": 1785.092,
+            "end": 1787.386,
+            "text": "- Сначала она отвезет Фэнни к доктору,"
+          },
+          {
+            "index": 449,
+            "start": 1787.792,
+            "end": 1791.025,
+            "text": "потом она заедет за моими родителями,\nи они все вместе приедут к нам."
+          },
+          {
+            "index": 450,
+            "start": 1791.88,
+            "end": 1793.684,
+            "text": "И привезут закуски."
+          },
+          {
+            "index": 451,
+            "start": 1795.634,
+            "end": 1798.553,
+            "text": "- Знаю, я жалуюсь на мать, на то,\nчто она просто сидит дома"
+          },
+          {
+            "index": 452,
+            "start": 1799.387,
+            "end": 1801.19,
+            "text": "и жалеет себя."
+          }
+        ],
+        "bottom": [
+          {
+            "index": 428,
+            "start": 1724.056,
+            "end": 1726.892,
+            "text": "Hey, Puss, here's the fucking set."
+          },
+          {
+            "index": 429,
+            "start": 1728.352,
+            "end": 1729.353,
+            "text": "Look."
+          },
+          {
+            "index": 430,
+            "start": 1730.312,
+            "end": 1732.44,
+            "text": "Fucking car's been chopped. Useless."
+          },
+          {
+            "index": 431,
+            "start": 1732.69,
+            "end": 1733.733,
+            "text": "That's not it."
+          },
+          {
+            "index": 432,
+            "start": 1733.983,
+            "end": 1737.236,
+            "text": "Then why is that car inside there?\nThat Dodge?"
+          },
+          {
+            "index": 433,
+            "start": 1737.486,
+            "end": 1741.782,
+            "text": "Why is that motherfucker wearing the\nfucking plate number I had all week?"
+          },
+          {
+            "index": 434,
+            "start": 1742.032,
+            "end": 1744.577,
+            "text": "- I don't know.\n- Here's what's gonna happen."
+          },
+          {
+            "index": 435,
+            "start": 1745.119,
+            "end": 1748.706,
+            "text": "The two of youse are climbing over that\nfence and shagging those plates."
+          },
+          {
+            "index": 436,
+            "start": 1748.956,
+            "end": 1750.499,
+            "text": "But the razor wire."
+          },
+          {
+            "index": 437,
+            "start": 1750.75,
+            "end": 1755.88,
+            "text": "Then one of you stays with us while\nthe other goes and gets another Saturn."
+          },
+          {
+            "index": 438,
+            "start": 1764.472,
+            "end": 1767.808,
+            "text": "- On the lookout for ducks?\n- Know the old man pretty good."
+          },
+          {
+            "index": 439,
+            "start": 1768.058,
+            "end": 1771.937,
+            "text": "Don't look so sad. Remember how\npissed you were about the pool filter?"
+          },
+          {
+            "index": 440,
+            "start": 1773.689,
+            "end": 1777.151,
+            "text": "They were special, them coming here,\nhuh? Don't you think?"
+          },
+          {
+            "index": 441,
+            "start": 1777.401,
+            "end": 1778.652,
+            "text": "I wasn't into it."
+          },
+          {
+            "index": 442,
+            "start": 1782.865,
+            "end": 1784.909,
+            "text": "What time's Grandma getting here?"
+          },
+          {
+            "index": 443,
+            "start": 1785.159,
+            "end": 1787.411,
+            "text": "She had to drive\nFanny to the doctor's."
+          },
+          {
+            "index": 444,
+            "start": 1787.661,
+            "end": 1790.998,
+            "text": "Then she is picking up my parents\nand they're coming here."
+          },
+          {
+            "index": 445,
+            "start": 1791.916,
+            "end": 1794.251,
+            "text": "They're each bringing\nsome antipasto."
+          },
+          {
+            "index": 446,
+            "start": 1795.586,
+            "end": 1799.298,
+            "text": "I complain about my mother,\nabout how she just sits at home..."
+          },
+          {
+            "index": 447,
+            "start": 1799.548,
+            "end": 1800.966,
+            "text": "...and feels sorry for herself."
+          },
+          {
+            "index": 448,
+            "start": 1801.217,
+            "end": 1806.013,
+            "text": "But she's always ready to drive those\nfriends of hers that can't drive."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1765.178307,
+        "topCueIndex": 442,
+        "bottomCueIndex": 438
+      }
     }
   ]
 }
