@@ -29462,6 +29462,285 @@
         "topCueIndex": 478,
         "bottomCueIndex": 471
       }
+    },
+    {
+      "id": "05df4fd4-cd70-4ee9-8bcc-078756283d87",
+      "createdAt": "2026-05-01T21:41:39.457Z",
+      "videoName": "The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO.mkv",
+      "audioTrackName": "The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO.audio.eng.m4a",
+      "selectedText": "Either way,",
+      "selection": {
+        "rawText": "Either way,",
+        "startOffset": 0,
+        "endOffset": 11,
+        "cueIndex": 472,
+        "cueStart": 1917.124,
+        "cueEnd": 1921.17,
+        "cueText": "Either way, she could need a change\nin her living situation..."
+      },
+      "context": {
+        "top": [
+          {
+            "index": 469,
+            "start": 1881.72,
+            "end": 1883.888,
+            "text": "Она не умеет обращаться с телефоном."
+          },
+          {
+            "index": 470,
+            "start": 1886.391,
+            "end": 1888.643,
+            "text": "- Но вы считаете,\nчто она здорова и в своем уме."
+          },
+          {
+            "index": 471,
+            "start": 1889.477,
+            "end": 1891.041,
+            "text": "- Здорова как бык."
+          },
+          {
+            "index": 472,
+            "start": 1892.147,
+            "end": 1893.742,
+            "text": "А что?"
+          },
+          {
+            "index": 473,
+            "start": 1894.18,
+            "end": 1898.664,
+            "text": "- Я думаю, у каждого врача\nсвое мнение,"
+          },
+          {
+            "index": 474,
+            "start": 1898.768,
+            "end": 1900.603,
+            "text": "но вы сами знаете по опыту,"
+          },
+          {
+            "index": 475,
+            "start": 1901.573,
+            "end": 1903.658,
+            "text": "что депрессия приводит\nне только к саморазрушению,"
+          },
+          {
+            "index": 476,
+            "start": 1903.669,
+            "end": 1905.837,
+            "text": "но и к несчастным случаям."
+          },
+          {
+            "index": 477,
+            "start": 1906.38,
+            "end": 1910.634,
+            "text": "- Думаете, она на подсознательном\nуровне решила угробить лучшую подругу?"
+          },
+          {
+            "index": 478,
+            "start": 1910.968,
+            "end": 1914.179,
+            "text": "- Интересно, как вы интерпретировали\nмои слова."
+          },
+          {
+            "index": 479,
+            "start": 1917.088,
+            "end": 1922.646,
+            "text": "Так или иначе, ей надо сменить\nобстановку и окружить себя людьми."
+          },
+          {
+            "index": 480,
+            "start": 1923.261,
+            "end": 1926.848,
+            "text": "- Мы остановили выбор на \"Грин Гров\".\n- Чудесное заведение."
+          },
+          {
+            "index": 481,
+            "start": 1927.349,
+            "end": 1931.582,
+            "text": "Больше похоже...\nна отель \"Капитан Тибс\"."
+          },
+          {
+            "index": 482,
+            "start": 1933.918,
+            "end": 1937.838,
+            "text": "- Да. Но она считает это\nдомом престарелых."
+          },
+          {
+            "index": 483,
+            "start": 1938.026,
+            "end": 1940.622,
+            "text": "- Ее надо заставить увидеть разницу."
+          },
+          {
+            "index": 484,
+            "start": 1941.373,
+            "end": 1944.428,
+            "text": "Что на самом деле\nот нее вовсе не хотят избавиться."
+          },
+          {
+            "index": 485,
+            "start": 1946.003,
+            "end": 1948.38,
+            "text": "Я знаю многих пенсионеров,\nкоторые счастливы сами"
+          },
+          {
+            "index": 486,
+            "start": 1948.933,
+            "end": 1950.518,
+            "text": "и вдохновляют остальных."
+          },
+          {
+            "index": 487,
+            "start": 1956.159,
+            "end": 1958.14,
+            "text": "- Я надеюсь, про нас не забыли?"
+          },
+          {
+            "index": 488,
+            "start": 1960.663,
+            "end": 1962.363,
+            "text": "- Девушки..."
+          },
+          {
+            "index": 489,
+            "start": 1968.025,
+            "end": 1970.485,
+            "text": "- Кенни Порчугал\nвелел передать тебе привет."
+          }
+        ],
+        "bottom": [
+          {
+            "index": 462,
+            "start": 1881.755,
+            "end": 1884.174,
+            "text": "She can't manage the telephone."
+          },
+          {
+            "index": 463,
+            "start": 1886.635,
+            "end": 1888.846,
+            "text": "Yet you say she's healthy and alert."
+          },
+          {
+            "index": 464,
+            "start": 1889.555,
+            "end": 1891.265,
+            "text": "Like a bull."
+          },
+          {
+            "index": 465,
+            "start": 1892.474,
+            "end": 1893.767,
+            "text": "Why?"
+          },
+          {
+            "index": 466,
+            "start": 1894.268,
+            "end": 1896.27,
+            "text": "I'm just thinking."
+          },
+          {
+            "index": 467,
+            "start": 1896.478,
+            "end": 1901.4,
+            "text": "I know there are other doctors there,\nbut you know from your own life..."
+          },
+          {
+            "index": 468,
+            "start": 1901.65,
+            "end": 1906.113,
+            "text": "...that depression can cause\naccidents, poor performance or worse."
+          },
+          {
+            "index": 469,
+            "start": 1906.363,
+            "end": 1908.157,
+            "text": "So, what are you saying?"
+          },
+          {
+            "index": 470,
+            "start": 1908.365,
+            "end": 1910.659,
+            "text": "Unconsciously she tried\nto whack her friend?"
+          },
+          {
+            "index": 471,
+            "start": 1911.118,
+            "end": 1915.247,
+            "text": "It's interesting that you would even\ntake that from what I said."
+          },
+          {
+            "index": 472,
+            "start": 1917.124,
+            "end": 1921.17,
+            "text": "Either way, she could need a change\nin her living situation..."
+          },
+          {
+            "index": 473,
+            "start": 1921.378,
+            "end": 1922.713,
+            "text": "...be around more people."
+          },
+          {
+            "index": 474,
+            "start": 1923.422,
+            "end": 1925.299,
+            "text": "We were looking at Green Grove."
+          },
+          {
+            "index": 475,
+            "start": 1925.549,
+            "end": 1926.967,
+            "text": "It's a beautiful facility."
+          },
+          {
+            "index": 476,
+            "start": 1927.509,
+            "end": 1932.056,
+            "text": "It's more like a hotel\nat Cap d'Antibes."
+          },
+          {
+            "index": 477,
+            "start": 1933.891,
+            "end": 1935.267,
+            "text": "Yeah."
+          },
+          {
+            "index": 478,
+            "start": 1936.936,
+            "end": 1941.148,
+            "text": "- But to her it's a nursing home.\n- She needs to see the distinction."
+          },
+          {
+            "index": 479,
+            "start": 1941.398,
+            "end": 1945.486,
+            "text": "That, in fact, she's embarking\non a rewarding chapter."
+          },
+          {
+            "index": 480,
+            "start": 1946.153,
+            "end": 1950.574,
+            "text": "I know seniors who are inspired\nand inspiring."
+          },
+          {
+            "index": 481,
+            "start": 1956.288,
+            "end": 1958.415,
+            "text": "You're not forgetting us, buddy?"
+          },
+          {
+            "index": 482,
+            "start": 1960.793,
+            "end": 1962.169,
+            "text": "Ladies."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1918.071362,
+        "topCueIndex": 479,
+        "bottomCueIndex": 472
+      }
     }
   ]
 }
