@@ -30299,6 +30299,285 @@
         "topCueIndex": 503,
         "bottomCueIndex": 496
       }
+    },
+    {
+      "id": "aa9ed1e8-c75b-4a04-8ff6-42a0537d188a",
+      "createdAt": "2026-05-01T21:48:17.385Z",
+      "videoName": "The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO.mkv",
+      "audioTrackName": "The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO.audio.eng.m4a",
+      "selectedText": "outrageous",
+      "selection": {
+        "rawText": "outrageous",
+        "startOffset": 12,
+        "endOffset": 22,
+        "cueIndex": 496,
+        "cueStart": 2023.897,
+        "cueEnd": 2025.691,
+        "cueText": "Taking that outrageous tribute."
+      },
+      "context": {
+        "top": [
+          {
+            "index": 493,
+            "start": 1980.746,
+            "end": 1982.623,
+            "text": "Мистер Скорсезе, добрый вечер."
+          },
+          {
+            "index": 494,
+            "start": 1985.751,
+            "end": 1987.388,
+            "text": "- Марти!"
+          },
+          {
+            "index": 495,
+            "start": 1987.502,
+            "end": 1989.473,
+            "text": "\"Кундун\"! Классный фильм!"
+          },
+          {
+            "index": 496,
+            "start": 1999.473,
+            "end": 2001.371,
+            "text": "- Мой приятель из \"Камли\""
+          },
+          {
+            "index": 497,
+            "start": 2002.372,
+            "end": 2004.758,
+            "text": "сказал, они ждут огромную партию\nитальянских костюмов."
+          },
+          {
+            "index": 498,
+            "start": 2004.759,
+            "end": 2008.096,
+            "text": "- Их быстро погрузят.\nИ нам ничего не достанется."
+          },
+          {
+            "index": 499,
+            "start": 2009.149,
+            "end": 2011.36,
+            "text": "- Груз отправляется в четверг,\nв шесть утра."
+          },
+          {
+            "index": 500,
+            "start": 2015.28,
+            "end": 2017.366,
+            "text": "- Вот скажи, почему я не должен\nграбить этот грузовик."
+          },
+          {
+            "index": 501,
+            "start": 2018.586,
+            "end": 2021.609,
+            "text": "- Не заводись. Джуниор сам виноват."
+          },
+          {
+            "index": 502,
+            "start": 2021.61,
+            "end": 2023.673,
+            "text": "Он не оставил нам выбора,\nкроме как повторить."
+          },
+          {
+            "index": 503,
+            "start": 2023.674,
+            "end": 2025.614,
+            "text": "- Выплачивая эту чертову дань."
+          },
+          {
+            "index": 504,
+            "start": 2026.031,
+            "end": 2030.087,
+            "text": "- Он срет нам на макушки, а нам что,\n\"спасибо за шапочку\" говорить?"
+          },
+          {
+            "index": 505,
+            "start": 2030.785,
+            "end": 2033.09,
+            "text": "- Как будто по правилам\nможно хоть чего-то добиться."
+          },
+          {
+            "index": 506,
+            "start": 2033.601,
+            "end": 2035.968,
+            "text": "Да в жопу Тони!\n- \"Тема закрыта\"..."
+          },
+          {
+            "index": 507,
+            "start": 2036.406,
+            "end": 2038.438,
+            "text": "Чтоб меня!\n- Но он прав!"
+          },
+          {
+            "index": 508,
+            "start": 2038.439,
+            "end": 2041.525,
+            "text": "- Да ладно, с чего они новых шестерок\nне берут? Какого хрена?"
+          },
+          {
+            "index": 509,
+            "start": 2041.557,
+            "end": 2043.308,
+            "text": "- Везде бардак!"
+          },
+          {
+            "index": 510,
+            "start": 2043.433,
+            "end": 2045.633,
+            "text": "Больше никто не знает,\nкто за что отвечает."
+          },
+          {
+            "index": 511,
+            "start": 2045.634,
+            "end": 2049.2,
+            "text": "Да они даже не знают,\nкому надо платить в первую очередь."
+          },
+          {
+            "index": 512,
+            "start": 2050.722,
+            "end": 2053.694,
+            "text": "Скоро наступает миллениум.\nНовое тысячелетие."
+          },
+          {
+            "index": 513,
+            "start": 2054.486,
+            "end": 2056.238,
+            "text": "А куда мы катимся?"
+          }
+        ],
+        "bottom": [
+          {
+            "index": 486,
+            "start": 1979.812,
+            "end": 1982.606,
+            "text": "Back up! Mr. Scorsese, good evening."
+          },
+          {
+            "index": 487,
+            "start": 1982.856,
+            "end": 1985.484,
+            "text": "Whoa! Wow!"
+          },
+          {
+            "index": 488,
+            "start": 1985.985,
+            "end": 1987.403,
+            "text": "Marty!"
+          },
+          {
+            "index": 489,
+            "start": 1987.778,
+            "end": 1989.53,
+            "text": "Kundun! I liked it."
+          },
+          {
+            "index": 490,
+            "start": 1999.456,
+            "end": 2001.792,
+            "text": "So my boy at Comley..."
+          },
+          {
+            "index": 491,
+            "start": 2002.334,
+            "end": 2004.712,
+            "text": "...said there's a load\nof Italian suits."
+          },
+          {
+            "index": 492,
+            "start": 2004.92,
+            "end": 2008.674,
+            "text": "Those unload fast.\nMario'll take the whole load."
+          },
+          {
+            "index": 493,
+            "start": 2009.299,
+            "end": 2012.219,
+            "text": "He says shipment moves\nThursday at 6 a.m."
+          },
+          {
+            "index": 494,
+            "start": 2015.305,
+            "end": 2018.684,
+            "text": "Give me one good reason\nI should not jack this truck."
+          },
+          {
+            "index": 495,
+            "start": 2019.101,
+            "end": 2023.647,
+            "text": "It's Junior's own fault. He gives us\nno choice except to do it again."
+          },
+          {
+            "index": 496,
+            "start": 2023.897,
+            "end": 2025.691,
+            "text": "Taking that outrageous tribute."
+          },
+          {
+            "index": 497,
+            "start": 2025.941,
+            "end": 2030.195,
+            "text": "He shits on our heads, we're\nsupposed to say thanks for the hat."
+          },
+          {
+            "index": 498,
+            "start": 2030.863,
+            "end": 2034.491,
+            "text": "I'm getting nowhere playing\nby the rules. Fuck Tony."
+          },
+          {
+            "index": 499,
+            "start": 2034.742,
+            "end": 2036.869,
+            "text": "\"The books are closed.\" Blow me."
+          },
+          {
+            "index": 500,
+            "start": 2037.077,
+            "end": 2038.328,
+            "text": "That's some true shit."
+          },
+          {
+            "index": 501,
+            "start": 2038.579,
+            "end": 2041.623,
+            "text": "They're not confirming any\nnew made guys. How come?"
+          },
+          {
+            "index": 502,
+            "start": 2041.832,
+            "end": 2045.544,
+            "text": "Fucking chaos. Nobody knows\nwho's running things anymore."
+          },
+          {
+            "index": 503,
+            "start": 2045.794,
+            "end": 2050.382,
+            "text": "Guys don't know who to make payments\nup the ladder to in some cases."
+          },
+          {
+            "index": 504,
+            "start": 2050.966,
+            "end": 2054.011,
+            "text": "I'm talking about the year 2000.\nThe millennium."
+          },
+          {
+            "index": 505,
+            "start": 2054.762,
+            "end": 2056.638,
+            "text": "Where do we go from here?"
+          },
+          {
+            "index": 506,
+            "start": 2065.939,
+            "end": 2066.94,
+            "text": "Oh."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 2024.473593,
+        "topCueIndex": 503,
+        "bottomCueIndex": 496
+      }
     }
   ]
 }
