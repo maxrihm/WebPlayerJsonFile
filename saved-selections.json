@@ -17141,6 +17141,158 @@
         "topCueIndex": 527,
         "bottomCueIndex": 519
       }
+    },
+    {
+      "id": "e678fb62-f854-4d54-9fb6-711b09490ed6",
+      "createdAt": "2026-05-03T20:17:55.573Z",
+      "videoName": "The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO.mkv",
+      "audioTrackName": "The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO.audio.eng.m4a",
+      "selectedText": "cart off",
+      "selection": {
+        "rawText": "cart off",
+        "startOffset": 36,
+        "endOffset": 44,
+        "cueIndex": 519,
+        "cueStart": 2105.813,
+        "cueEnd": 2108.899,
+        "cueText": "...that the junkman's gonna\nhave to cart off to the dump."
+      },
+      "bottomSubPath": "D:\\The.Sopranos.S01.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO.sub02.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 509,
+            "start": 2072.696,
+            "end": 2074.49,
+            "text": "No, I'm full."
+          },
+          {
+            "index": 510,
+            "start": 2074.74,
+            "end": 2076.241,
+            "text": "It's good, though."
+          },
+          {
+            "index": 511,
+            "start": 2077.034,
+            "end": 2079.078,
+            "text": "You never let me feed you."
+          },
+          {
+            "index": 512,
+            "start": 2081.955,
+            "end": 2085.042,
+            "text": "So getting back\nto what we were talking about."
+          },
+          {
+            "index": 513,
+            "start": 2085.292,
+            "end": 2087.086,
+            "text": "- You want that lamp?\n- Lie down."
+          },
+          {
+            "index": 514,
+            "start": 2087.294,
+            "end": 2092.091,
+            "text": "That lamp, that's real ormolu. You\nknow what that's worth when it's new?"
+          },
+          {
+            "index": 515,
+            "start": 2092.341,
+            "end": 2094.593,
+            "text": "We're fixed good lamp-wise, thank you."
+          },
+          {
+            "index": 516,
+            "start": 2094.802,
+            "end": 2096.97,
+            "text": "Take it and take the Barcalounger."
+          },
+          {
+            "index": 517,
+            "start": 2098.18,
+            "end": 2101.892,
+            "text": "Somebody's gotta take\nthis stuff before I die."
+          },
+          {
+            "index": 518,
+            "start": 2102.684,
+            "end": 2105.604,
+            "text": "Otherwise there's gonna be\na lot of stuff here..."
+          },
+          {
+            "index": 519,
+            "start": 2105.813,
+            "end": 2108.899,
+            "text": "...that the junkman's gonna\nhave to cart off to the dump."
+          },
+          {
+            "index": 520,
+            "start": 2109.149,
+            "end": 2114.154,
+            "text": "Mom, you're not gonna die. Your\nstuff won't be hauled off to the dump."
+          },
+          {
+            "index": 521,
+            "start": 2114.446,
+            "end": 2118.784,
+            "text": "Plan for the future. The most rewarding\nchapter of your life's coming up."
+          },
+          {
+            "index": 522,
+            "start": 2119.701,
+            "end": 2123.163,
+            "text": "- You know my good jewelry?\n- The stuff Dad gave you."
+          },
+          {
+            "index": 523,
+            "start": 2123.664,
+            "end": 2126.917,
+            "text": "Some of those pieces came right\nout of Cartier's window."
+          },
+          {
+            "index": 524,
+            "start": 2127.835,
+            "end": 2129.837,
+            "text": "Listen, Carm doesn't want it."
+          },
+          {
+            "index": 525,
+            "start": 2130.129,
+            "end": 2131.63,
+            "text": "Not now."
+          },
+          {
+            "index": 526,
+            "start": 2131.88,
+            "end": 2136.969,
+            "text": "We want you to live long and wear your\nsparklers to grandkids' graduations."
+          },
+          {
+            "index": 527,
+            "start": 2137.219,
+            "end": 2139.93,
+            "text": "I gave it all\nto your cousin Josephine."
+          },
+          {
+            "index": 528,
+            "start": 2141.181,
+            "end": 2142.85,
+            "text": "The fuck?\nThe good jewelry?"
+          },
+          {
+            "index": 529,
+            "start": 2143.1,
+            "end": 2145.06,
+            "text": "She always admired it."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 2107.202219,
+        "topCueIndex": 527,
+        "bottomCueIndex": 519
+      }
     }
   ]
 }
