@@ -18965,6 +18965,158 @@
         "topCueIndex": 629,
         "bottomCueIndex": 622
       }
+    },
+    {
+      "id": "e036e510-4fb7-43f4-8311-463f38f94276",
+      "createdAt": "2026-05-03T20:46:42.349Z",
+      "videoName": "The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO.mkv",
+      "audioTrackName": "The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO.audio.eng.m4a",
+      "selectedText": "wreck",
+      "selection": {
+        "rawText": "wreck",
+        "startOffset": 18,
+        "endOffset": 23,
+        "cueIndex": 625,
+        "cueStart": 2562.686,
+        "cueEnd": 2565.605,
+        "cueText": "Sorry you have to wreck\nyour Saturday like this."
+      },
+      "bottomSubPath": "D:\\The.Sopranos.S01.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO.sub02.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 615,
+            "start": 2515.305,
+            "end": 2517.516,
+            "text": "- I had nothing to do with it...\n- Spit it out!"
+          },
+          {
+            "index": 616,
+            "start": 2518.558,
+            "end": 2520.101,
+            "text": "Brendan hit Comley again."
+          },
+          {
+            "index": 617,
+            "start": 2520.644,
+            "end": 2522.062,
+            "text": "He what?"
+          },
+          {
+            "index": 618,
+            "start": 2524.147,
+            "end": 2527.817,
+            "text": "- And the driver, you know...\n- No, I don't know."
+          },
+          {
+            "index": 619,
+            "start": 2528.527,
+            "end": 2532.405,
+            "text": "He caught some friendly fire\nor something and he's gone."
+          },
+          {
+            "index": 620,
+            "start": 2533.782,
+            "end": 2535.033,
+            "text": "Oh, fuck!"
+          },
+          {
+            "index": 621,
+            "start": 2535.242,
+            "end": 2537.452,
+            "text": "What do we do, T?\nBrendan didn't fence the load."
+          },
+          {
+            "index": 622,
+            "start": 2537.661,
+            "end": 2541.039,
+            "text": "He's thinking it was Mario\nwho dimed us to Junior last time."
+          },
+          {
+            "index": 623,
+            "start": 2541.289,
+            "end": 2542.624,
+            "text": "Fuck!"
+          },
+          {
+            "index": 624,
+            "start": 2561.017,
+            "end": 2562.477,
+            "text": "Hey, Ton."
+          },
+          {
+            "index": 625,
+            "start": 2562.686,
+            "end": 2565.605,
+            "text": "Sorry you have to wreck\nyour Saturday like this."
+          },
+          {
+            "index": 626,
+            "start": 2567.941,
+            "end": 2571.444,
+            "text": "You boys. You boys, I'll tell you."
+          },
+          {
+            "index": 627,
+            "start": 2574.864,
+            "end": 2576.783,
+            "text": "It's beautiful stuff, though."
+          },
+          {
+            "index": 628,
+            "start": 2577.033,
+            "end": 2578.868,
+            "text": "- Ton, I'm so sorry.\n- Shut up."
+          },
+          {
+            "index": 629,
+            "start": 2579.119,
+            "end": 2581.871,
+            "text": "Just so you realize I had\nnothing to do with this."
+          },
+          {
+            "index": 630,
+            "start": 2582.08,
+            "end": 2584.624,
+            "text": "- Ton, that's true. He stood home.\n- Shut up."
+          },
+          {
+            "index": 631,
+            "start": 2585.5,
+            "end": 2586.876,
+            "text": "Stood home?"
+          },
+          {
+            "index": 632,
+            "start": 2588.67,
+            "end": 2592.924,
+            "text": "Did you do anything to stop it?\nDid you offer any guidance?"
+          },
+          {
+            "index": 633,
+            "start": 2593.758,
+            "end": 2596.595,
+            "text": "What do we mean when we say\nleadership, hm?"
+          },
+          {
+            "index": 634,
+            "start": 2597.053,
+            "end": 2600.89,
+            "text": "Part of it's the crank. But I'm\ngoing into detox, swear on my mother."
+          },
+          {
+            "index": 635,
+            "start": 2601.141,
+            "end": 2604.811,
+            "text": "Brendan, shut the fuck up.\nYou want to get me clipped?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 2564.162263,
+        "topCueIndex": 631,
+        "bottomCueIndex": 625
+      }
     }
   ]
 }
