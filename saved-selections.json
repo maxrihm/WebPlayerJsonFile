@@ -18509,6 +18509,158 @@
         "topCueIndex": 588,
         "bottomCueIndex": 579
       }
+    },
+    {
+      "id": "a5cd42ca-4e84-41cf-94e5-f457dfcd973d",
+      "createdAt": "2026-05-03T20:38:59.083Z",
+      "videoName": "The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO.mkv",
+      "audioTrackName": "The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO.audio.eng.m4a",
+      "selectedText": "pointed",
+      "selection": {
+        "rawText": "pointed",
+        "startOffset": 20,
+        "endOffset": 27,
+        "cueIndex": 579,
+        "cueStart": 2334.499,
+        "cueEnd": 2336.918,
+        "cueText": "What's with the gun pointed sideways?"
+      },
+      "bottomSubPath": "D:\\The.Sopranos.S01.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO.sub02.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 569,
+            "start": 2279.111,
+            "end": 2280.404,
+            "text": "Hey, coach?"
+          },
+          {
+            "index": 570,
+            "start": 2280.612,
+            "end": 2281.78,
+            "text": "Suck my dick."
+          },
+          {
+            "index": 571,
+            "start": 2281.947,
+            "end": 2282.948,
+            "text": "Yeah."
+          },
+          {
+            "index": 572,
+            "start": 2298.13,
+            "end": 2301.925,
+            "text": "Yo! Hey! Yo!\nWe need some help over here!"
+          },
+          {
+            "index": 573,
+            "start": 2305.679,
+            "end": 2309.391,
+            "text": "Okay, let's be very cool, yo!\nGet down out of the cab!"
+          },
+          {
+            "index": 574,
+            "start": 2309.599,
+            "end": 2311.268,
+            "text": "You heard the motherfucker."
+          },
+          {
+            "index": 575,
+            "start": 2311.476,
+            "end": 2314.646,
+            "text": "I'm a friend of Billy's.\nYour friend on the inside."
+          },
+          {
+            "index": 576,
+            "start": 2314.896,
+            "end": 2317.858,
+            "text": "Yeah, cool. \"Increase the peace,\"\nthat's our motto."
+          },
+          {
+            "index": 577,
+            "start": 2318.442,
+            "end": 2322.112,
+            "text": "- I'm gonna take my lunch, okay?\n- Yeah, whatever. Come on."
+          },
+          {
+            "index": 578,
+            "start": 2326.45,
+            "end": 2329.453,
+            "text": "Hold up, man.\nYou can't drive a Fisher Price."
+          },
+          {
+            "index": 579,
+            "start": 2334.499,
+            "end": 2336.918,
+            "text": "What's with the gun pointed sideways?"
+          },
+          {
+            "index": 580,
+            "start": 2343.05,
+            "end": 2346.845,
+            "text": "Get out! Come on, get down!\nYou drive, I'll direct you."
+          },
+          {
+            "index": 581,
+            "start": 2351.892,
+            "end": 2353.143,
+            "text": "Jesus!"
+          },
+          {
+            "index": 582,
+            "start": 2353.477,
+            "end": 2355.687,
+            "text": "Control your shit, fool!"
+          },
+          {
+            "index": 583,
+            "start": 2358.982,
+            "end": 2361.943,
+            "text": "Fuck, I'm fucked! Fuck!"
+          },
+          {
+            "index": 584,
+            "start": 2363.653,
+            "end": 2364.905,
+            "text": "Fuck!"
+          },
+          {
+            "index": 585,
+            "start": 2366.698,
+            "end": 2370.369,
+            "text": "Fuck! Junior-fucking-Soprano's\ngonna go ape-shit. Fuck!"
+          },
+          {
+            "index": 586,
+            "start": 2372.537,
+            "end": 2375.791,
+            "text": "You excited about coming\nto live with us, hon?"
+          },
+          {
+            "index": 587,
+            "start": 2377.626,
+            "end": 2379.211,
+            "text": "You will be. Trust me."
+          },
+          {
+            "index": 588,
+            "start": 2380.587,
+            "end": 2382.589,
+            "text": "Look, Ma, here's your stuff."
+          },
+          {
+            "index": 589,
+            "start": 2383.632,
+            "end": 2385.717,
+            "text": "- Wow, they made good time.\n- Yeah."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 2335.117141,
+        "topCueIndex": 588,
+        "bottomCueIndex": 579
+      }
     }
   ]
 }
