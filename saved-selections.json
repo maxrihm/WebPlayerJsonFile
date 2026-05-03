@@ -17445,6 +17445,158 @@
         "topCueIndex": 530,
         "bottomCueIndex": 521
       }
+    },
+    {
+      "id": "82490686-66ce-48d8-a7ee-ac0610077a78",
+      "createdAt": "2026-05-03T20:29:37.135Z",
+      "videoName": "The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO.mkv",
+      "audioTrackName": "The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO.audio.eng.m4a",
+      "selectedText": "admired",
+      "selection": {
+        "rawText": "admired",
+        "startOffset": 11,
+        "endOffset": 18,
+        "cueIndex": 529,
+        "cueStart": 2143.1,
+        "cueEnd": 2145.06,
+        "cueText": "She always admired it."
+      },
+      "bottomSubPath": "D:\\The.Sopranos.S01.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO.sub02.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 519,
+            "start": 2105.813,
+            "end": 2108.899,
+            "text": "...that the junkman's gonna\nhave to cart off to the dump."
+          },
+          {
+            "index": 520,
+            "start": 2109.149,
+            "end": 2114.154,
+            "text": "Mom, you're not gonna die. Your\nstuff won't be hauled off to the dump."
+          },
+          {
+            "index": 521,
+            "start": 2114.446,
+            "end": 2118.784,
+            "text": "Plan for the future. The most rewarding\nchapter of your life's coming up."
+          },
+          {
+            "index": 522,
+            "start": 2119.701,
+            "end": 2123.163,
+            "text": "- You know my good jewelry?\n- The stuff Dad gave you."
+          },
+          {
+            "index": 523,
+            "start": 2123.664,
+            "end": 2126.917,
+            "text": "Some of those pieces came right\nout of Cartier's window."
+          },
+          {
+            "index": 524,
+            "start": 2127.835,
+            "end": 2129.837,
+            "text": "Listen, Carm doesn't want it."
+          },
+          {
+            "index": 525,
+            "start": 2130.129,
+            "end": 2131.63,
+            "text": "Not now."
+          },
+          {
+            "index": 526,
+            "start": 2131.88,
+            "end": 2136.969,
+            "text": "We want you to live long and wear your\nsparklers to grandkids' graduations."
+          },
+          {
+            "index": 527,
+            "start": 2137.219,
+            "end": 2139.93,
+            "text": "I gave it all\nto your cousin Josephine."
+          },
+          {
+            "index": 528,
+            "start": 2141.181,
+            "end": 2142.85,
+            "text": "The fuck?\nThe good jewelry?"
+          },
+          {
+            "index": 529,
+            "start": 2143.1,
+            "end": 2145.06,
+            "text": "She always admired it."
+          },
+          {
+            "index": 530,
+            "start": 2145.644,
+            "end": 2146.979,
+            "text": "They don't have much."
+          },
+          {
+            "index": 531,
+            "start": 2147.229,
+            "end": 2151.15,
+            "text": "You gave her Cartier rings,\nand you give me a vibrating chair?"
+          },
+          {
+            "index": 532,
+            "start": 2151.4,
+            "end": 2155.112,
+            "text": "Your wife never showed\nany interest in my jewels."
+          },
+          {
+            "index": 533,
+            "start": 2155.362,
+            "end": 2158.866,
+            "text": "She never complimented me\non any of it, as I remember."
+          },
+          {
+            "index": 534,
+            "start": 2159.116,
+            "end": 2164.246,
+            "text": "Before you do more damage to yourself\nor your grandchildrens' inheritance..."
+          },
+          {
+            "index": 535,
+            "start": 2164.454,
+            "end": 2166.206,
+            "text": "...you'll stop living alone."
+          },
+          {
+            "index": 536,
+            "start": 2166.456,
+            "end": 2168.709,
+            "text": "I'm not going to that nursing home."
+          },
+          {
+            "index": 537,
+            "start": 2168.959,
+            "end": 2172.921,
+            "text": "Green Grove is a retirement community!\nIt's like a hotel at Captain Teeb's!"
+          },
+          {
+            "index": 538,
+            "start": 2173.297,
+            "end": 2174.339,
+            "text": "Who's he?"
+          },
+          {
+            "index": 539,
+            "start": 2174.84,
+            "end": 2178.01,
+            "text": "A captain who owns luxury hotels\nor something."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 2144.267938,
+        "topCueIndex": 539,
+        "bottomCueIndex": 529
+      }
     }
   ]
 }
