@@ -17597,6 +17597,158 @@
         "topCueIndex": 539,
         "bottomCueIndex": 529
       }
+    },
+    {
+      "id": "1a1608ba-e044-42d9-b100-d47a2f256a8c",
+      "createdAt": "2026-05-03T20:32:22.353Z",
+      "videoName": "The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO.mkv",
+      "audioTrackName": "The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO.audio.eng.m4a",
+      "selectedText": "place",
+      "selection": {
+        "rawText": "place",
+        "startOffset": 49,
+        "endOffset": 54,
+        "cueIndex": 549,
+        "cueStart": 2208.081,
+        "cueEnd": 2211.877,
+        "cueText": "I will go to court and get power\nof attorney and place you there."
+      },
+      "bottomSubPath": "D:\\The.Sopranos.S01.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO.sub02.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 539,
+            "start": 2174.84,
+            "end": 2178.01,
+            "text": "A captain who owns luxury hotels\nor something."
+          },
+          {
+            "index": 540,
+            "start": 2178.218,
+            "end": 2182.89,
+            "text": "I talked to Mrs. DiCaprio, and she's\ngot a corner suite available."
+          },
+          {
+            "index": 541,
+            "start": 2183.14,
+            "end": 2185.058,
+            "text": "It's available. It'll go fast."
+          },
+          {
+            "index": 542,
+            "start": 2185.309,
+            "end": 2187.644,
+            "text": "Of course it's available.\nSomebody died!"
+          },
+          {
+            "index": 543,
+            "start": 2188.103,
+            "end": 2193.233,
+            "text": "You gotta stop with this black poison\ncloud all the time. I can't take it!"
+          },
+          {
+            "index": 544,
+            "start": 2193.859,
+            "end": 2195.652,
+            "text": "Oh, poor you!"
+          },
+          {
+            "index": 545,
+            "start": 2196.653,
+            "end": 2199.114,
+            "text": "I got problems at work,\nproblems at home."
+          },
+          {
+            "index": 546,
+            "start": 2199.364,
+            "end": 2201.825,
+            "text": "I got a friend diagnosed with cancer."
+          },
+          {
+            "index": 547,
+            "start": 2202.075,
+            "end": 2205.704,
+            "text": "Most parents would be grateful\nif their children did this!"
+          },
+          {
+            "index": 548,
+            "start": 2205.954,
+            "end": 2207.748,
+            "text": "I'm not going to that place."
+          },
+          {
+            "index": 549,
+            "start": 2208.081,
+            "end": 2211.877,
+            "text": "I will go to court and get power\nof attorney and place you there."
+          },
+          {
+            "index": 550,
+            "start": 2212.127,
+            "end": 2213.295,
+            "text": "Then kill me now."
+          },
+          {
+            "index": 551,
+            "start": 2214.004,
+            "end": 2215.923,
+            "text": "Go on, go into the ham..."
+          },
+          {
+            "index": 552,
+            "start": 2216.34,
+            "end": 2219.551,
+            "text": "...and take the carving knife\nand stab me here."
+          },
+          {
+            "index": 553,
+            "start": 2219.801,
+            "end": 2224.932,
+            "text": "Here! Now please, it would hurt me\nless than what you just said."
+          },
+          {
+            "index": 554,
+            "start": 2225.349,
+            "end": 2227.392,
+            "text": "I know seniors that are inspired!"
+          },
+          {
+            "index": 555,
+            "start": 2237.319,
+            "end": 2240.989,
+            "text": "Yo, money, we said we'd meet out\nfront, and you're not even dressed!"
+          },
+          {
+            "index": 556,
+            "start": 2241.782,
+            "end": 2242.95,
+            "text": "I'm taking a pass."
+          },
+          {
+            "index": 557,
+            "start": 2243.742,
+            "end": 2247.454,
+            "text": "What? It's Italian suits, Christopher."
+          },
+          {
+            "index": 558,
+            "start": 2247.663,
+            "end": 2251.959,
+            "text": "There was a time when being with\nTony's crew was all I ever dreamed of."
+          },
+          {
+            "index": 559,
+            "start": 2253.168,
+            "end": 2254.253,
+            "text": "So what am I doing?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 2210.545439,
+        "topCueIndex": 561,
+        "bottomCueIndex": 549
+      }
     }
   ]
 }
