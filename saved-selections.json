@@ -19117,6 +19117,158 @@
         "topCueIndex": 631,
         "bottomCueIndex": 625
       }
+    },
+    {
+      "id": "eafde70e-40f3-4fa4-bf71-dbb917bb7eef",
+      "createdAt": "2026-05-03T20:48:58.641Z",
+      "videoName": "The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO.mkv",
+      "audioTrackName": "The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO.audio.eng.m4a",
+      "selectedText": "any guidance?",
+      "selection": {
+        "rawText": "any guidance?",
+        "startOffset": 46,
+        "endOffset": 59,
+        "cueIndex": 632,
+        "cueStart": 2588.67,
+        "cueEnd": 2592.924,
+        "cueText": "Did you do anything to stop it?\nDid you offer any guidance?"
+      },
+      "bottomSubPath": "D:\\The.Sopranos.S01.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO.sub02.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 622,
+            "start": 2537.661,
+            "end": 2541.039,
+            "text": "He's thinking it was Mario\nwho dimed us to Junior last time."
+          },
+          {
+            "index": 623,
+            "start": 2541.289,
+            "end": 2542.624,
+            "text": "Fuck!"
+          },
+          {
+            "index": 624,
+            "start": 2561.017,
+            "end": 2562.477,
+            "text": "Hey, Ton."
+          },
+          {
+            "index": 625,
+            "start": 2562.686,
+            "end": 2565.605,
+            "text": "Sorry you have to wreck\nyour Saturday like this."
+          },
+          {
+            "index": 626,
+            "start": 2567.941,
+            "end": 2571.444,
+            "text": "You boys. You boys, I'll tell you."
+          },
+          {
+            "index": 627,
+            "start": 2574.864,
+            "end": 2576.783,
+            "text": "It's beautiful stuff, though."
+          },
+          {
+            "index": 628,
+            "start": 2577.033,
+            "end": 2578.868,
+            "text": "- Ton, I'm so sorry.\n- Shut up."
+          },
+          {
+            "index": 629,
+            "start": 2579.119,
+            "end": 2581.871,
+            "text": "Just so you realize I had\nnothing to do with this."
+          },
+          {
+            "index": 630,
+            "start": 2582.08,
+            "end": 2584.624,
+            "text": "- Ton, that's true. He stood home.\n- Shut up."
+          },
+          {
+            "index": 631,
+            "start": 2585.5,
+            "end": 2586.876,
+            "text": "Stood home?"
+          },
+          {
+            "index": 632,
+            "start": 2588.67,
+            "end": 2592.924,
+            "text": "Did you do anything to stop it?\nDid you offer any guidance?"
+          },
+          {
+            "index": 633,
+            "start": 2593.758,
+            "end": 2596.595,
+            "text": "What do we mean when we say\nleadership, hm?"
+          },
+          {
+            "index": 634,
+            "start": 2597.053,
+            "end": 2600.89,
+            "text": "Part of it's the crank. But I'm\ngoing into detox, swear on my mother."
+          },
+          {
+            "index": 635,
+            "start": 2601.141,
+            "end": 2604.811,
+            "text": "Brendan, shut the fuck up.\nYou want to get me clipped?"
+          },
+          {
+            "index": 636,
+            "start": 2607.856,
+            "end": 2609.107,
+            "text": "What are we gonna do?"
+          },
+          {
+            "index": 637,
+            "start": 2609.441,
+            "end": 2614.446,
+            "text": "You're gonna put these suits back\nin the truck and give them back."
+          },
+          {
+            "index": 638,
+            "start": 2614.654,
+            "end": 2615.905,
+            "text": "Fuck!"
+          },
+          {
+            "index": 639,
+            "start": 2616.114,
+            "end": 2618.408,
+            "text": "Then call my uncle\nand tell him it's done."
+          },
+          {
+            "index": 640,
+            "start": 2620.16,
+            "end": 2621.494,
+            "text": "What about the dead guy?"
+          },
+          {
+            "index": 641,
+            "start": 2621.745,
+            "end": 2625.081,
+            "text": "Prod him with a stick.\nLight a candle to St. Anthony."
+          },
+          {
+            "index": 642,
+            "start": 2625.332,
+            "end": 2626.958,
+            "text": "But I think you're fucked."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 2591.370718,
+        "topCueIndex": 639,
+        "bottomCueIndex": 632
+      }
     }
   ]
 }
