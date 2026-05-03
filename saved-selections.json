@@ -19421,6 +19421,158 @@
         "topCueIndex": 675,
         "bottomCueIndex": 670
       }
+    },
+    {
+      "id": "f2daee19-0d5f-4d52-bebf-637a2b8c9c98",
+      "createdAt": "2026-05-03T20:56:47.744Z",
+      "videoName": "The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO.mkv",
+      "audioTrackName": "The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO.audio.eng.m4a",
+      "selectedText": "hatred",
+      "selection": {
+        "rawText": "hatred",
+        "startOffset": 28,
+        "endOffset": 34,
+        "cueIndex": 675,
+        "cueStart": 2804.886,
+        "cueEnd": 2808.348,
+        "cueText": "...you may have feelings of hatred\ntowards your mother, isn't it?"
+      },
+      "bottomSubPath": "D:\\The.Sopranos.S01.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO.sub02.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 665,
+            "start": 2770.769,
+            "end": 2772.687,
+            "text": "Because I'm sad to put my mother away?"
+          },
+          {
+            "index": 666,
+            "start": 2773.188,
+            "end": 2775.94,
+            "text": "Sad is good. Unconscious isn't."
+          },
+          {
+            "index": 667,
+            "start": 2777.692,
+            "end": 2781.446,
+            "text": "She'll be in very good hands.\nYou've done the best for her."
+          },
+          {
+            "index": 668,
+            "start": 2783.406,
+            "end": 2785.283,
+            "text": "She won't speak to me."
+          },
+          {
+            "index": 669,
+            "start": 2786.659,
+            "end": 2790.079,
+            "text": "That is sad.\nBut whose choice is that?"
+          },
+          {
+            "index": 670,
+            "start": 2790.33,
+            "end": 2792.54,
+            "text": "Somehow that doesn't make it\nany better."
+          },
+          {
+            "index": 671,
+            "start": 2793.75,
+            "end": 2797.295,
+            "text": "Can you admit to yourself that yes,\nyou're sad..."
+          },
+          {
+            "index": 672,
+            "start": 2798.213,
+            "end": 2800.423,
+            "text": "...but you're angry and full of rage?"
+          },
+          {
+            "index": 673,
+            "start": 2800.673,
+            "end": 2801.925,
+            "text": "I'm sad."
+          },
+          {
+            "index": 674,
+            "start": 2802.133,
+            "end": 2804.385,
+            "text": "It's hard to admit that..."
+          },
+          {
+            "index": 675,
+            "start": 2804.886,
+            "end": 2808.348,
+            "text": "...you may have feelings of hatred\ntowards your mother, isn't it?"
+          },
+          {
+            "index": 676,
+            "start": 2808.598,
+            "end": 2810.433,
+            "text": "You're out of your tree."
+          },
+          {
+            "index": 677,
+            "start": 2812.268,
+            "end": 2814.687,
+            "text": "Listen carefully.\nOf course you love her."
+          },
+          {
+            "index": 678,
+            "start": 2815.73,
+            "end": 2820.443,
+            "text": "What I'm trying to say is, own\nthe anger instead of displacing it."
+          },
+          {
+            "index": 679,
+            "start": 2820.693,
+            "end": 2824.864,
+            "text": "Otherwise it defines your life.\nIt needs to be acknowledged."
+          },
+          {
+            "index": 680,
+            "start": 2825.114,
+            "end": 2828.66,
+            "text": "It's a good thing time is up.\nI don't want to talk to you anymore."
+          },
+          {
+            "index": 681,
+            "start": 2828.91,
+            "end": 2830.161,
+            "text": "\"Hate your mother.\""
+          },
+          {
+            "index": 682,
+            "start": 2860.275,
+            "end": 2861.734,
+            "text": "Shit."
+          },
+          {
+            "index": 683,
+            "start": 2863.236,
+            "end": 2865.28,
+            "text": "A what do you call it? A menu."
+          },
+          {
+            "index": 684,
+            "start": 2866.614,
+            "end": 2869.868,
+            "text": "Press two if you know\nyour party's extension."
+          },
+          {
+            "index": 685,
+            "start": 2870.076,
+            "end": 2872.996,
+            "text": "Is that an operator\nor an answering machine?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 2805.519562,
+        "topCueIndex": 679,
+        "bottomCueIndex": 675
+      }
     }
   ]
 }
