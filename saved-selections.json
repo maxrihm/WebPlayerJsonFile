@@ -18053,6 +18053,158 @@
         "topCueIndex": 564,
         "bottomCueIndex": 552
       }
+    },
+    {
+      "id": "dc561aec-2018-485c-9cd6-6efdafc12299",
+      "createdAt": "2026-05-03T20:34:04.658Z",
+      "videoName": "The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO.mkv",
+      "audioTrackName": "The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO.audio.eng.m4a",
+      "selectedText": "taking a pass.",
+      "selection": {
+        "rawText": "taking a pass.",
+        "startOffset": 4,
+        "endOffset": 18,
+        "cueIndex": 556,
+        "cueStart": 2241.782,
+        "cueEnd": 2242.95,
+        "cueText": "I'm taking a pass."
+      },
+      "bottomSubPath": "D:\\The.Sopranos.S01.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E02.576p.BluRay.Goblin.Eng.HBO.sub02.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 546,
+            "start": 2199.364,
+            "end": 2201.825,
+            "text": "I got a friend diagnosed with cancer."
+          },
+          {
+            "index": 547,
+            "start": 2202.075,
+            "end": 2205.704,
+            "text": "Most parents would be grateful\nif their children did this!"
+          },
+          {
+            "index": 548,
+            "start": 2205.954,
+            "end": 2207.748,
+            "text": "I'm not going to that place."
+          },
+          {
+            "index": 549,
+            "start": 2208.081,
+            "end": 2211.877,
+            "text": "I will go to court and get power\nof attorney and place you there."
+          },
+          {
+            "index": 550,
+            "start": 2212.127,
+            "end": 2213.295,
+            "text": "Then kill me now."
+          },
+          {
+            "index": 551,
+            "start": 2214.004,
+            "end": 2215.923,
+            "text": "Go on, go into the ham..."
+          },
+          {
+            "index": 552,
+            "start": 2216.34,
+            "end": 2219.551,
+            "text": "...and take the carving knife\nand stab me here."
+          },
+          {
+            "index": 553,
+            "start": 2219.801,
+            "end": 2224.932,
+            "text": "Here! Now please, it would hurt me\nless than what you just said."
+          },
+          {
+            "index": 554,
+            "start": 2225.349,
+            "end": 2227.392,
+            "text": "I know seniors that are inspired!"
+          },
+          {
+            "index": 555,
+            "start": 2237.319,
+            "end": 2240.989,
+            "text": "Yo, money, we said we'd meet out\nfront, and you're not even dressed!"
+          },
+          {
+            "index": 556,
+            "start": 2241.782,
+            "end": 2242.95,
+            "text": "I'm taking a pass."
+          },
+          {
+            "index": 557,
+            "start": 2243.742,
+            "end": 2247.454,
+            "text": "What? It's Italian suits, Christopher."
+          },
+          {
+            "index": 558,
+            "start": 2247.663,
+            "end": 2251.959,
+            "text": "There was a time when being with\nTony's crew was all I ever dreamed of."
+          },
+          {
+            "index": 559,
+            "start": 2253.168,
+            "end": 2254.253,
+            "text": "So what am I doing?"
+          },
+          {
+            "index": 560,
+            "start": 2254.503,
+            "end": 2256.63,
+            "text": "This is some fucking note here."
+          },
+          {
+            "index": 561,
+            "start": 2256.838,
+            "end": 2257.923,
+            "text": "Don't wake her up."
+          },
+          {
+            "index": 562,
+            "start": 2258.173,
+            "end": 2260.3,
+            "text": "Come on, it's 5:15."
+          },
+          {
+            "index": 563,
+            "start": 2261.218,
+            "end": 2265.18,
+            "text": "Maybe one reason things are so fucked\nin the organization these days..."
+          },
+          {
+            "index": 564,
+            "start": 2265.43,
+            "end": 2269.184,
+            "text": "...is guys running off not listening\nto middle management."
+          },
+          {
+            "index": 565,
+            "start": 2269.977,
+            "end": 2272.271,
+            "text": "\"Fuck Tony.\" That's a quote."
+          },
+          {
+            "index": 566,
+            "start": 2272.521,
+            "end": 2274.773,
+            "text": "We have to stick together."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 2242.37221,
+        "topCueIndex": 570,
+        "bottomCueIndex": 556
+      }
     }
   ]
 }
