@@ -21057,6 +21057,158 @@
         "topCueIndex": 19,
         "bottomCueIndex": 22
       }
+    },
+    {
+      "id": "9a28110a-4207-4c2a-b331-4ac9f82223ef",
+      "createdAt": "2026-05-09T21:46:10.382Z",
+      "videoName": "S4E19 - Murtaugh.mkv",
+      "audioTrackName": "S4E19 - Murtaugh.eng.m4a",
+      "selectedText": "give you one last shot.",
+      "selection": {
+        "rawText": "give\nyou one last shot.",
+        "startOffset": 14,
+        "endOffset": 37,
+        "cueIndex": 33,
+        "cueStart": 80.915,
+        "cueEnd": 82.915,
+        "cueText": "But\nI'm gonna give\nyou one last shot."
+      },
+      "bottomSubPath": "D:\\Как я встретил вашу маму\\S04\\S4E19 - Murtaugh\\S4E19 - Murtaugh.sub04.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 23,
+            "start": 50.651,
+            "end": 52.418,
+            "text": "Maybe even yourself."
+          },
+          {
+            "index": 24,
+            "start": 52.42,
+            "end": 54.286,
+            "text": "You just forget what\nit's like out there."
+          },
+          {
+            "index": 25,
+            "start": 54.288,
+            "end": 57.322,
+            "text": "You've had your\nfat ass stuck behind\nthat desk for too long."
+          },
+          {
+            "index": 26,
+            "start": 57.324,
+            "end": 59.425,
+            "text": "That's it!\nYou're out of\nhere, Stinson!"
+          },
+          {
+            "index": 27,
+            "start": 59.427,
+            "end": 61.393,
+            "text": "Hand in your gun\nand your ID badge!"
+          },
+          {
+            "index": 28,
+            "start": 61.395,
+            "end": 63.662,
+            "text": "With pleasure."
+          },
+          {
+            "index": 29,
+            "start": 66.433,
+            "end": 69.802,
+            "text": "Please don't do this.\nThis game is all I got."
+          },
+          {
+            "index": 30,
+            "start": 69.804,
+            "end": 75.107,
+            "text": "And I've\nalmost got enough tickets for\nthe remote-control helicopter."
+          },
+          {
+            "index": 31,
+            "start": 75.109,
+            "end": 76.542,
+            "text": "Please."
+          },
+          {
+            "index": 32,
+            "start": 78.178,
+            "end": 80.913,
+            "text": "I can't believe\nI'm doing this."
+          },
+          {
+            "index": 33,
+            "start": 80.915,
+            "end": 82.915,
+            "text": "But\nI'm gonna give\nyou one last shot."
+          },
+          {
+            "index": 34,
+            "start": 82.917,
+            "end": 84.016,
+            "text": "(SIGHING)"
+          },
+          {
+            "index": 35,
+            "start": 84.018,
+            "end": 87.886,
+            "text": "But so help me,\nif you so much as\nstep one toe out of line,"
+          },
+          {
+            "index": 36,
+            "start": 87.888,
+            "end": 90.189,
+            "text": "you're gonna\nbe playing Duck Hunt\nin your mama's basement"
+          },
+          {
+            "index": 37,
+            "start": 90.191,
+            "end": 92.357,
+            "text": "so fast it's gonna\nmake your head spin."
+          },
+          {
+            "index": 38,
+            "start": 92.359,
+            "end": 94.693,
+            "text": "Now, get out of here!"
+          },
+          {
+            "index": 39,
+            "start": 97.864,
+            "end": 100.432,
+            "text": "You won't regret this."
+          },
+          {
+            "index": 40,
+            "start": 101.134,
+            "end": 102.668,
+            "text": "(LAUGHS EVILLY)"
+          },
+          {
+            "index": 41,
+            "start": 102.67,
+            "end": 104.303,
+            "text": "(LASER GUN FIRING)"
+          },
+          {
+            "index": 42,
+            "start": 104.871,
+            "end": 106.338,
+            "text": "Whoa."
+          },
+          {
+            "index": 43,
+            "start": 106.34,
+            "end": 111.21,
+            "text": "That's it, Stinson.\nYou're banned for life!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 81.332996,
+        "topCueIndex": 32,
+        "bottomCueIndex": 33
+      }
     }
   ]
 }
