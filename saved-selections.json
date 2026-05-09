@@ -22425,6 +22425,158 @@
         "topCueIndex": 95,
         "bottomCueIndex": 98
       }
+    },
+    {
+      "id": "1c136339-2a27-4369-bd0e-2e406ce9ccf2",
+      "createdAt": "2026-05-09T21:58:28.953Z",
+      "videoName": "S4E19 - Murtaugh.mkv",
+      "audioTrackName": "S4E19 - Murtaugh.eng.m4a",
+      "selectedText": "taken over as",
+      "selection": {
+        "rawText": "taken over as",
+        "startOffset": 39,
+        "endOffset": 52,
+        "cueIndex": 107,
+        "cueStart": 280.381,
+        "cueEnd": 283.482,
+        "cueText": "OLDER TED:\nActually, Marshall had\njust taken over as coach"
+      },
+      "bottomSubPath": "D:\\Как я встретил вашу маму\\S04\\S4E19 - Murtaugh\\S4E19 - Murtaugh.sub04.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 97,
+            "start": 261.729,
+            "end": 262.794,
+            "text": "by evil Americans...\nWait."
+          },
+          {
+            "index": 98,
+            "start": 262.796,
+            "end": 265.831,
+            "text": "...while LeFleur, his grouchy,\nold, African-Canadian partner,"
+          },
+          {
+            "index": 99,
+            "start": 265.833,
+            "end": 267.065,
+            "text": "just bought a cozy\nice-fishing shack..."
+          },
+          {
+            "index": 100,
+            "start": 267.067,
+            "end": 269.368,
+            "text": "Wait.\n...in northern Alberta."
+          },
+          {
+            "index": 101,
+            "start": 269.37,
+            "end": 271.236,
+            "text": "Now...\nStop it!"
+          },
+          {
+            "index": 102,
+            "start": 271.238,
+            "end": 272.738,
+            "text": "(ALL EXCLAIMING)"
+          },
+          {
+            "index": 103,
+            "start": 272.74,
+            "end": 273.505,
+            "text": "I got to go."
+          },
+          {
+            "index": 104,
+            "start": 273.507,
+            "end": 275.374,
+            "text": "Bye, baby.\nHave fun at practice."
+          },
+          {
+            "index": 105,
+            "start": 275.376,
+            "end": 278.477,
+            "text": "Practice?\nIs he doing that\none-man band thing again?"
+          },
+          {
+            "index": 106,
+            "start": 278.479,
+            "end": 280.379,
+            "text": "'Cause that was a bummer."
+          },
+          {
+            "index": 107,
+            "start": 280.381,
+            "end": 283.482,
+            "text": "OLDER TED:\nActually, Marshall had\njust taken over as coach"
+          },
+          {
+            "index": 108,
+            "start": 283.484,
+            "end": 285.35,
+            "text": "for Lily's\nkindergarten\nbasketball team."
+          },
+          {
+            "index": 109,
+            "start": 285.352,
+            "end": 289.187,
+            "text": "He thought it'd be fun,\nbut Lily saw it as\nsomething more."
+          },
+          {
+            "index": 110,
+            "start": 289.189,
+            "end": 290.355,
+            "text": "Dad practice."
+          },
+          {
+            "index": 111,
+            "start": 290.357,
+            "end": 291.456,
+            "text": "Hi."
+          },
+          {
+            "index": 112,
+            "start": 291.458,
+            "end": 293.091,
+            "text": "Hey! Oh, my gosh!"
+          },
+          {
+            "index": 113,
+            "start": 293.093,
+            "end": 295.294,
+            "text": "Orange slices.\nThat is so sweet."
+          },
+          {
+            "index": 114,
+            "start": 295.296,
+            "end": 296.295,
+            "text": "What are you doing here?"
+          },
+          {
+            "index": 115,
+            "start": 296.297,
+            "end": 300.565,
+            "text": "I couldn't resist. I wanted to\nsee Coach Marshmallow do his\nthing."
+          },
+          {
+            "index": 116,
+            "start": 300.567,
+            "end": 302.167,
+            "text": "(LAUGHING) Oh! Okay."
+          },
+          {
+            "index": 117,
+            "start": 302.169,
+            "end": 304.936,
+            "text": "Hey, kids,\nwho wants to\nknock off early"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 282.284767,
+        "topCueIndex": 103,
+        "bottomCueIndex": 107
+      }
     }
   ]
 }
