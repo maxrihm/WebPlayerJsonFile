@@ -21969,6 +21969,158 @@
         "topCueIndex": 64,
         "bottomCueIndex": 71
       }
+    },
+    {
+      "id": "2741b550-7b9e-4141-bc45-7b9aaabb337a",
+      "createdAt": "2026-05-09T21:56:07.044Z",
+      "videoName": "S4E19 - Murtaugh.mkv",
+      "audioTrackName": "S4E19 - Murtaugh.eng.m4a",
+      "selectedText": "rip-off.",
+      "selection": {
+        "rawText": "rip-off.",
+        "startOffset": 29,
+        "endOffset": 37,
+        "cueIndex": 90,
+        "cueStart": 241.075,
+        "cueEnd": 242.841,
+        "cueText": "I don't know.\nIt's kind of\na rip-off."
+      },
+      "bottomSubPath": "D:\\Как я встретил вашу маму\\S04\\S4E19 - Murtaugh\\S4E19 - Murtaugh.sub04.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 80,
+            "start": 213.747,
+            "end": 215.847,
+            "text": "there's\njust certain things\nyou can't do anymore."
+          },
+          {
+            "index": 81,
+            "start": 215.849,
+            "end": 218.884,
+            "text": "That's why I have this list,\nso I never\nmake the mistake of thinking"
+          },
+          {
+            "index": 82,
+            "start": 218.886,
+            "end": 220.953,
+            "text": "that I can still\npull an all-nighter."
+          },
+          {
+            "index": 83,
+            "start": 220.955,
+            "end": 224.69,
+            "text": "Oh.\nI'm too old\nfor that stuff."
+          },
+          {
+            "index": 84,
+            "start": 224.692,
+            "end": 227.259,
+            "text": "Or eat an entire\npizza in one sitting."
+          },
+          {
+            "index": 85,
+            "start": 227.261,
+            "end": 229.995,
+            "text": "I'm too old\nfor that stuff."
+          },
+          {
+            "index": 86,
+            "start": 229.997,
+            "end": 233.298,
+            "text": "Or hang posters on\nyour wall without\nframes."
+          },
+          {
+            "index": 87,
+            "start": 233.3,
+            "end": 236.301,
+            "text": "Riggs. Riggs!"
+          },
+          {
+            "index": 88,
+            "start": 236.303,
+            "end": 238.403,
+            "text": "I'm too old\nfor that stuff."
+          },
+          {
+            "index": 89,
+            "start": 238.405,
+            "end": 241.073,
+            "text": "By the way,\nhow good is\nLethal Weapon?"
+          },
+          {
+            "index": 90,
+            "start": 241.075,
+            "end": 242.841,
+            "text": "I don't know.\nIt's kind of\na rip-off."
+          },
+          {
+            "index": 91,
+            "start": 242.843,
+            "end": 245.844,
+            "text": "Old guy paired up with\na young, renegade cop."
+          },
+          {
+            "index": 92,
+            "start": 245.846,
+            "end": 247.813,
+            "text": "Sound familiar?"
+          },
+          {
+            "index": 93,
+            "start": 248.014,
+            "end": 250.415,
+            "text": "Mackleroy and LeFleur."
+          },
+          {
+            "index": 94,
+            "start": 250.417,
+            "end": 253.952,
+            "text": "Don't tell me you\nguys have never seen\nMackleroy and LeFleur."
+          },
+          {
+            "index": 95,
+            "start": 253.954,
+            "end": 257.389,
+            "text": "It's the\ngreatest Canadian\naction movie of all time."
+          },
+          {
+            "index": 96,
+            "start": 257.391,
+            "end": 261.727,
+            "text": "Mackleroy is\na young, renegade Mountie\nwhose horse was just killed"
+          },
+          {
+            "index": 97,
+            "start": 261.729,
+            "end": 262.794,
+            "text": "by evil Americans...\nWait."
+          },
+          {
+            "index": 98,
+            "start": 262.796,
+            "end": 265.831,
+            "text": "...while LeFleur, his grouchy,\nold, African-Canadian partner,"
+          },
+          {
+            "index": 99,
+            "start": 265.833,
+            "end": 267.065,
+            "text": "just bought a cozy\nice-fishing shack..."
+          },
+          {
+            "index": 100,
+            "start": 267.067,
+            "end": 269.368,
+            "text": "Wait.\n...in northern Alberta."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 241.874407,
+        "topCueIndex": 86,
+        "bottomCueIndex": 90
+      }
     }
   ]
 }
