@@ -23033,6 +23033,158 @@
         "topCueIndex": 156,
         "bottomCueIndex": 149
       }
+    },
+    {
+      "id": "be02d8aa-0488-47c0-b2cb-603ddae04c80",
+      "createdAt": "2026-05-09T22:05:24.185Z",
+      "videoName": "S4E19 - Murtaugh.mkv",
+      "audioTrackName": "S4E19 - Murtaugh.eng.m4a",
+      "selectedText": "shake off.",
+      "selection": {
+        "rawText": "shake\noff.",
+        "startOffset": 34,
+        "endOffset": 44,
+        "cueIndex": 158,
+        "cueStart": 419.286,
+        "cueEnd": 421.653,
+        "cueText": "Nothing a young guy\nlike me can't shake\noff."
+      },
+      "bottomSubPath": "D:\\Как я встретил вашу маму\\S04\\S4E19 - Murtaugh\\S4E19 - Murtaugh.sub04.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 148,
+            "start": 388.522,
+            "end": 392.457,
+            "text": "All right, I'm off to go\ndo laundry at Mom's house."
+          },
+          {
+            "index": 149,
+            "start": 397.296,
+            "end": 400.332,
+            "text": "Hey, you guys mind if\nI crash on your futon\ntonight?"
+          },
+          {
+            "index": 150,
+            "start": 400.334,
+            "end": 401.633,
+            "text": "We don't have a futon."
+          },
+          {
+            "index": 151,
+            "start": 401.635,
+            "end": 403.402,
+            "text": "Put it over there, boys."
+          },
+          {
+            "index": 152,
+            "start": 403.404,
+            "end": 404.703,
+            "text": "What's going on?\nIt's on the Murtaugh list."
+          },
+          {
+            "index": 153,
+            "start": 404.705,
+            "end": 408.974,
+            "text": "\"Crash on a friend's futon\ninstead of getting a hotel\nroom.\""
+          },
+          {
+            "index": 154,
+            "start": 408.976,
+            "end": 411.576,
+            "text": "I am too old\nfor that stuff."
+          },
+          {
+            "index": 155,
+            "start": 411.578,
+            "end": 413.044,
+            "text": "Dude,\nwhat's going\non with your ear?"
+          },
+          {
+            "index": 156,
+            "start": 413.046,
+            "end": 416.848,
+            "text": "It looks like the inside of\na jack-o'-lantern on\nNovember 3rd."
+          },
+          {
+            "index": 157,
+            "start": 416.85,
+            "end": 419.284,
+            "text": "What, this?\nJust a little infectsh."
+          },
+          {
+            "index": 158,
+            "start": 419.286,
+            "end": 421.653,
+            "text": "Nothing a young guy\nlike me can't shake\noff."
+          },
+          {
+            "index": 159,
+            "start": 421.655,
+            "end": 424.289,
+            "text": "Plus, \"Put off going to\nthe doctor,\" on the list."
+          },
+          {
+            "index": 160,
+            "start": 424.291,
+            "end": 425.457,
+            "text": "(CELL PHONE RINGING)"
+          },
+          {
+            "index": 161,
+            "start": 425.459,
+            "end": 427.359,
+            "text": "Oh. Hold on."
+          },
+          {
+            "index": 162,
+            "start": 428.594,
+            "end": 429.594,
+            "text": "Go for..."
+          },
+          {
+            "index": 163,
+            "start": 429.596,
+            "end": 431.029,
+            "text": "(YELLS IN PAIN)"
+          },
+          {
+            "index": 164,
+            "start": 431.031,
+            "end": 433.131,
+            "text": "(CACKLING)"
+          },
+          {
+            "index": 165,
+            "start": 433.232,
+            "end": 433.932,
+            "text": "Keep running!"
+          },
+          {
+            "index": 166,
+            "start": 433.934,
+            "end": 438.27,
+            "text": "You know what's funny is\nI was supposed to come\nhere to teach them..."
+          },
+          {
+            "index": 167,
+            "start": 438.272,
+            "end": 440.505,
+            "text": "Do not stop running!"
+          },
+          {
+            "index": 168,
+            "start": 440.507,
+            "end": 446.611,
+            "text": "This whole time,\nthey've been the ones\nwho are teaching me. Hey!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 420.839997,
+        "topCueIndex": 167,
+        "bottomCueIndex": 158
+      }
     }
   ]
 }
