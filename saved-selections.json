@@ -22273,6 +22273,158 @@
         "topCueIndex": 87,
         "bottomCueIndex": 91
       }
+    },
+    {
+      "id": "dc7b934b-f1e9-48de-9256-71f3b511686f",
+      "createdAt": "2026-05-09T21:57:23.888Z",
+      "videoName": "S4E19 - Murtaugh.mkv",
+      "audioTrackName": "S4E19 - Murtaugh.eng.m4a",
+      "selectedText": "grouchy,",
+      "selection": {
+        "rawText": "grouchy,",
+        "startOffset": 22,
+        "endOffset": 30,
+        "cueIndex": 98,
+        "cueStart": 262.796,
+        "cueEnd": 265.831,
+        "cueText": "...while LeFleur, his grouchy,\nold, African-Canadian partner,"
+      },
+      "bottomSubPath": "D:\\Как я встретил вашу маму\\S04\\S4E19 - Murtaugh\\S4E19 - Murtaugh.sub04.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 88,
+            "start": 236.303,
+            "end": 238.403,
+            "text": "I'm too old\nfor that stuff."
+          },
+          {
+            "index": 89,
+            "start": 238.405,
+            "end": 241.073,
+            "text": "By the way,\nhow good is\nLethal Weapon?"
+          },
+          {
+            "index": 90,
+            "start": 241.075,
+            "end": 242.841,
+            "text": "I don't know.\nIt's kind of\na rip-off."
+          },
+          {
+            "index": 91,
+            "start": 242.843,
+            "end": 245.844,
+            "text": "Old guy paired up with\na young, renegade cop."
+          },
+          {
+            "index": 92,
+            "start": 245.846,
+            "end": 247.813,
+            "text": "Sound familiar?"
+          },
+          {
+            "index": 93,
+            "start": 248.014,
+            "end": 250.415,
+            "text": "Mackleroy and LeFleur."
+          },
+          {
+            "index": 94,
+            "start": 250.417,
+            "end": 253.952,
+            "text": "Don't tell me you\nguys have never seen\nMackleroy and LeFleur."
+          },
+          {
+            "index": 95,
+            "start": 253.954,
+            "end": 257.389,
+            "text": "It's the\ngreatest Canadian\naction movie of all time."
+          },
+          {
+            "index": 96,
+            "start": 257.391,
+            "end": 261.727,
+            "text": "Mackleroy is\na young, renegade Mountie\nwhose horse was just killed"
+          },
+          {
+            "index": 97,
+            "start": 261.729,
+            "end": 262.794,
+            "text": "by evil Americans...\nWait."
+          },
+          {
+            "index": 98,
+            "start": 262.796,
+            "end": 265.831,
+            "text": "...while LeFleur, his grouchy,\nold, African-Canadian partner,"
+          },
+          {
+            "index": 99,
+            "start": 265.833,
+            "end": 267.065,
+            "text": "just bought a cozy\nice-fishing shack..."
+          },
+          {
+            "index": 100,
+            "start": 267.067,
+            "end": 269.368,
+            "text": "Wait.\n...in northern Alberta."
+          },
+          {
+            "index": 101,
+            "start": 269.37,
+            "end": 271.236,
+            "text": "Now...\nStop it!"
+          },
+          {
+            "index": 102,
+            "start": 271.238,
+            "end": 272.738,
+            "text": "(ALL EXCLAIMING)"
+          },
+          {
+            "index": 103,
+            "start": 272.74,
+            "end": 273.505,
+            "text": "I got to go."
+          },
+          {
+            "index": 104,
+            "start": 273.507,
+            "end": 275.374,
+            "text": "Bye, baby.\nHave fun at practice."
+          },
+          {
+            "index": 105,
+            "start": 275.376,
+            "end": 278.477,
+            "text": "Practice?\nIs he doing that\none-man band thing again?"
+          },
+          {
+            "index": 106,
+            "start": 278.479,
+            "end": 280.379,
+            "text": "'Cause that was a bummer."
+          },
+          {
+            "index": 107,
+            "start": 280.381,
+            "end": 283.482,
+            "text": "OLDER TED:\nActually, Marshall had\njust taken over as coach"
+          },
+          {
+            "index": 108,
+            "start": 283.484,
+            "end": 285.35,
+            "text": "for Lily's\nkindergarten\nbasketball team."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 264.985912,
+        "topCueIndex": 95,
+        "bottomCueIndex": 98
+      }
     }
   ]
 }
