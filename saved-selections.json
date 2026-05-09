@@ -20333,6 +20333,122 @@
         "topCueIndex": 685,
         "bottomCueIndex": 680
       }
+    },
+    {
+      "id": "a05735d6-1885-435f-9262-a9450fe61de0",
+      "createdAt": "2026-05-09T21:42:41.690Z",
+      "videoName": "S4E19 - Murtaugh.mkv",
+      "audioTrackName": "S4E19 - Murtaugh.eng.m4a",
+      "selectedText": "pretty much.",
+      "selection": {
+        "rawText": "pretty much.",
+        "startOffset": 12,
+        "endOffset": 24,
+        "cueIndex": 4,
+        "cueStart": 10.444,
+        "cueEnd": 12.344,
+        "cueText": "Well, yeah,\npretty much."
+      },
+      "bottomSubPath": "D:\\Как я встретил вашу маму\\S04\\S4E19 - Murtaugh\\S4E19 - Murtaugh.sub04.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 0,
+            "start": 0.467,
+            "end": 4.57,
+            "text": "You will not\nbelieve what happened\nat laser tag last night."
+          },
+          {
+            "index": 1,
+            "start": 4.572,
+            "end": 7.306,
+            "text": "People\nfreaked out because\na creepy man in a suit"
+          },
+          {
+            "index": 2,
+            "start": 7.308,
+            "end": 9.141,
+            "text": "wouldn't leave\ntheir kids alone?"
+          },
+          {
+            "index": 3,
+            "start": 9.143,
+            "end": 10.442,
+            "text": "No."
+          },
+          {
+            "index": 4,
+            "start": 10.444,
+            "end": 12.344,
+            "text": "Well, yeah,\npretty much."
+          },
+          {
+            "index": 5,
+            "start": 12.346,
+            "end": 14.346,
+            "text": "(LASER GUNS FIRING)"
+          },
+          {
+            "index": 6,
+            "start": 15.582,
+            "end": 17.282,
+            "text": "(BARNEY LAUGHS TRIUMPHANTLY)"
+          },
+          {
+            "index": 7,
+            "start": 17.284,
+            "end": 18.45,
+            "text": "Come on!"
+          },
+          {
+            "index": 8,
+            "start": 18.452,
+            "end": 20.386,
+            "text": "(EXCLAIMING)"
+          },
+          {
+            "index": 9,
+            "start": 20.388,
+            "end": 22.721,
+            "text": "BOY: Ow! My shoulder!"
+          },
+          {
+            "index": 10,
+            "start": 22.723,
+            "end": 24.123,
+            "text": "Come on."
+          },
+          {
+            "index": 11,
+            "start": 24.125,
+            "end": 24.823,
+            "text": "(EXCLAIMS IN FRUSTRATION)"
+          },
+          {
+            "index": 12,
+            "start": 24.825,
+            "end": 28.16,
+            "text": "Stinson, my office!\nNow!"
+          },
+          {
+            "index": 13,
+            "start": 28.162,
+            "end": 29.661,
+            "text": "Crap."
+          },
+          {
+            "index": 14,
+            "start": 30.196,
+            "end": 31.563,
+            "text": "Disorderly game play,"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 12.15076,
+        "topCueIndex": 4,
+        "bottomCueIndex": 4
+      }
     }
   ]
 }
