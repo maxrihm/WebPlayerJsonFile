@@ -20753,6 +20753,158 @@
         "topCueIndex": 12,
         "bottomCueIndex": 15
       }
+    },
+    {
+      "id": "13dea365-7235-4dea-90f7-0fa76ca7df7d",
+      "createdAt": "2026-05-09T21:43:49.841Z",
+      "videoName": "S4E19 - Murtaugh.mkv",
+      "audioTrackName": "S4E19 - Murtaugh.eng.m4a",
+      "selectedText": "liability!",
+      "selection": {
+        "rawText": "liability!",
+        "startOffset": 18,
+        "endOffset": 28,
+        "cueIndex": 16,
+        "cueStart": 34.468,
+        "cueEnd": 36.335,
+        "cueText": "Stinson, you're a liability!"
+      },
+      "bottomSubPath": "D:\\Как я встретил вашу маму\\S04\\S4E19 - Murtaugh\\S4E19 - Murtaugh.sub04.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 6,
+            "start": 15.582,
+            "end": 17.282,
+            "text": "(BARNEY LAUGHS TRIUMPHANTLY)"
+          },
+          {
+            "index": 7,
+            "start": 17.284,
+            "end": 18.45,
+            "text": "Come on!"
+          },
+          {
+            "index": 8,
+            "start": 18.452,
+            "end": 20.386,
+            "text": "(EXCLAIMING)"
+          },
+          {
+            "index": 9,
+            "start": 20.388,
+            "end": 22.721,
+            "text": "BOY: Ow! My shoulder!"
+          },
+          {
+            "index": 10,
+            "start": 22.723,
+            "end": 24.123,
+            "text": "Come on."
+          },
+          {
+            "index": 11,
+            "start": 24.125,
+            "end": 24.823,
+            "text": "(EXCLAIMS IN FRUSTRATION)"
+          },
+          {
+            "index": 12,
+            "start": 24.825,
+            "end": 28.16,
+            "text": "Stinson, my office!\nNow!"
+          },
+          {
+            "index": 13,
+            "start": 28.162,
+            "end": 29.661,
+            "text": "Crap."
+          },
+          {
+            "index": 14,
+            "start": 30.196,
+            "end": 31.563,
+            "text": "Disorderly game play,"
+          },
+          {
+            "index": 15,
+            "start": 31.565,
+            "end": 34.466,
+            "text": "three counts of shoving,\nand now this!"
+          },
+          {
+            "index": 16,
+            "start": 34.468,
+            "end": 36.335,
+            "text": "Stinson, you're a liability!"
+          },
+          {
+            "index": 17,
+            "start": 36.337,
+            "end": 39.905,
+            "text": "I know I don't play by\nyour \"precious rules,\"\nMcCracken,"
+          },
+          {
+            "index": 18,
+            "start": 39.907,
+            "end": 42.274,
+            "text": "but damn it,\nI get results!"
+          },
+          {
+            "index": 19,
+            "start": 42.276,
+            "end": 42.875,
+            "text": "(BANGS TABLE)"
+          },
+          {
+            "index": 20,
+            "start": 42.877,
+            "end": 45.577,
+            "text": "Look,\nyou're a good\nlaser tag player,"
+          },
+          {
+            "index": 21,
+            "start": 45.579,
+            "end": 47.413,
+            "text": "maybe the best\nI've ever seen."
+          },
+          {
+            "index": 22,
+            "start": 47.415,
+            "end": 50.649,
+            "text": "But one of these days,\nyou're gonna get someone hurt."
+          },
+          {
+            "index": 23,
+            "start": 50.651,
+            "end": 52.418,
+            "text": "Maybe even yourself."
+          },
+          {
+            "index": 24,
+            "start": 52.42,
+            "end": 54.286,
+            "text": "You just forget what\nit's like out there."
+          },
+          {
+            "index": 25,
+            "start": 54.288,
+            "end": 57.322,
+            "text": "You've had your\nfat ass stuck behind\nthat desk for too long."
+          },
+          {
+            "index": 26,
+            "start": 57.324,
+            "end": 59.425,
+            "text": "That's it!\nYou're out of\nhere, Stinson!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 35.844962,
+        "topCueIndex": 14,
+        "bottomCueIndex": 16
+      }
     }
   ]
 }
