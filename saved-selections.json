@@ -21665,6 +21665,158 @@
         "topCueIndex": 52,
         "bottomCueIndex": 54
       }
+    },
+    {
+      "id": "1be0a4b1-17d8-4bde-9384-9992e21bf4d7",
+      "createdAt": "2026-05-09T21:50:44.632Z",
+      "videoName": "S4E19 - Murtaugh.mkv",
+      "audioTrackName": "S4E19 - Murtaugh.eng.m4a",
+      "selectedText": "came into being",
+      "selection": {
+        "rawText": "came into\nbeing",
+        "startOffset": 47,
+        "endOffset": 62,
+        "cueIndex": 60,
+        "cueStart": 165.366,
+        "cueEnd": 167.466,
+        "cueText": "OLDER TED: The Murtaugh list\nis something that came into\nbeing"
+      },
+      "bottomSubPath": "D:\\Как я встретил вашу маму\\S04\\S4E19 - Murtaugh\\S4E19 - Murtaugh.sub04.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 50,
+            "start": 139.94,
+            "end": 144.71,
+            "text": "We're gonna break in\nafter hours and TP\nthe place."
+          },
+          {
+            "index": 51,
+            "start": 144.712,
+            "end": 148.58,
+            "text": "Barney,\nwe are too old to cover\na place in toilet paper"
+          },
+          {
+            "index": 52,
+            "start": 148.582,
+            "end": 150.582,
+            "text": "just because they won't\nlet you play laser tag."
+          },
+          {
+            "index": 53,
+            "start": 150.584,
+            "end": 153.318,
+            "text": "And for that matter,\nwe're too old for\nlaser tag."
+          },
+          {
+            "index": 54,
+            "start": 153.32,
+            "end": 156.421,
+            "text": "Ted, laser tag knows\nno age restrictions."
+          },
+          {
+            "index": 55,
+            "start": 156.423,
+            "end": 158.39,
+            "text": "Kind of like\nstripping in\nthe Midwest."
+          },
+          {
+            "index": 56,
+            "start": 158.392,
+            "end": 159.958,
+            "text": "Yeah, whatever."
+          },
+          {
+            "index": 57,
+            "start": 159.96,
+            "end": 162.427,
+            "text": "I'm adding laser tag\nto the Murtaugh list."
+          },
+          {
+            "index": 58,
+            "start": 162.429,
+            "end": 164.53,
+            "text": "Oh, jeez, not\nthe Murtaugh list."
+          },
+          {
+            "index": 59,
+            "start": 164.532,
+            "end": 165.364,
+            "text": "Yeah.\nWhat's the Murtaugh list?"
+          },
+          {
+            "index": 60,
+            "start": 165.366,
+            "end": 167.466,
+            "text": "OLDER TED: The Murtaugh list\nis something that came into\nbeing"
+          },
+          {
+            "index": 61,
+            "start": 167.468,
+            "end": 168.967,
+            "text": "around the time I turned 30."
+          },
+          {
+            "index": 62,
+            "start": 168.969,
+            "end": 172.304,
+            "text": "It all started with your\nuncle Marshall's beer bong."
+          },
+          {
+            "index": 63,
+            "start": 172.306,
+            "end": 173.572,
+            "text": "(CHEERING)"
+          },
+          {
+            "index": 64,
+            "start": 173.574,
+            "end": 177.342,
+            "text": "When\nwe were in our early 20s,\nevery time we had a party,"
+          },
+          {
+            "index": 65,
+            "start": 177.344,
+            "end": 178.01,
+            "text": "that beer bong came out."
+          },
+          {
+            "index": 66,
+            "start": 178.012,
+            "end": 180.846,
+            "text": "And around the time we\nturned 30, same thing."
+          },
+          {
+            "index": 67,
+            "start": 180.848,
+            "end": 184.516,
+            "text": "Of course, in our early 20s,\nthe next day would go like\nthis."
+          },
+          {
+            "index": 68,
+            "start": 184.518,
+            "end": 185.584,
+            "text": "(EXCLAIMING EXCITEDLY)"
+          },
+          {
+            "index": 69,
+            "start": 185.586,
+            "end": 190.389,
+            "text": "But by the time we were 30,\nthe next day would go like\nthis."
+          },
+          {
+            "index": 70,
+            "start": 190.391,
+            "end": 191.089,
+            "text": "(MOANING)"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 165.661209,
+        "topCueIndex": 58,
+        "bottomCueIndex": 60
+      }
     }
   ]
 }
