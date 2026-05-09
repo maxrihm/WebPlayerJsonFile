@@ -22577,6 +22577,158 @@
         "topCueIndex": 103,
         "bottomCueIndex": 107
       }
+    },
+    {
+      "id": "c53536d6-630b-4708-aa7e-6e4491ab154b",
+      "createdAt": "2026-05-09T22:02:26.174Z",
+      "videoName": "S4E19 - Murtaugh.mkv",
+      "audioTrackName": "S4E19 - Murtaugh.eng.m4a",
+      "selectedText": "how he is.",
+      "selection": {
+        "rawText": "how\nhe is.",
+        "startOffset": 52,
+        "endOffset": 62,
+        "cueIndex": 144,
+        "cueStart": 376.643,
+        "cueEnd": 379.411,
+        "cueText": "You really want to make this\nbet with him? You know how\nhe is."
+      },
+      "bottomSubPath": "D:\\Как я встретил вашу маму\\S04\\S4E19 - Murtaugh\\S4E19 - Murtaugh.sub04.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 134,
+            "start": 348.115,
+            "end": 353.051,
+            "text": "In the next 24 hours,\nI'm going to do every\nsingle thing on this list."
+          },
+          {
+            "index": 135,
+            "start": 353.053,
+            "end": 358.323,
+            "text": "And after I do, you will TP\nthe laser tag place with me."
+          },
+          {
+            "index": 136,
+            "start": 358.325,
+            "end": 359.458,
+            "text": "And if you can't do it?"
+          },
+          {
+            "index": 137,
+            "start": 359.46,
+            "end": 363.829,
+            "text": "I will spend three hours\nlistening to you\ntalk about architecture."
+          },
+          {
+            "index": 138,
+            "start": 363.831,
+            "end": 365.764,
+            "text": "You have got\nyourself a deal."
+          },
+          {
+            "index": 139,
+            "start": 365.766,
+            "end": 367.966,
+            "text": "Robin,\nwill you do the honors?"
+          },
+          {
+            "index": 140,
+            "start": 368.434,
+            "end": 369.835,
+            "text": "A gentlemen's agreement!"
+          },
+          {
+            "index": 141,
+            "start": 369.837,
+            "end": 371.002,
+            "text": "Huzzah!\nHuzzah!"
+          },
+          {
+            "index": 142,
+            "start": 371.004,
+            "end": 372.938,
+            "text": "All right, chumps,\nlet's do this."
+          },
+          {
+            "index": 143,
+            "start": 372.94,
+            "end": 376.641,
+            "text": "Barney Stinson!"
+          },
+          {
+            "index": 144,
+            "start": 376.643,
+            "end": 379.411,
+            "text": "You really want to make this\nbet with him? You know how\nhe is."
+          },
+          {
+            "index": 145,
+            "start": 379.413,
+            "end": 382.114,
+            "text": "Robin, there is\nsome pretty tough\nstuff on that list."
+          },
+          {
+            "index": 146,
+            "start": 382.116,
+            "end": 386.451,
+            "text": "(LAUGHING) Do\nyou really think Barney's\ngonna get his ear pierced?"
+          },
+          {
+            "index": 147,
+            "start": 386.453,
+            "end": 388.52,
+            "text": "\"Get ear pierced.\" Check."
+          },
+          {
+            "index": 148,
+            "start": 388.522,
+            "end": 392.457,
+            "text": "All right, I'm off to go\ndo laundry at Mom's house."
+          },
+          {
+            "index": 149,
+            "start": 397.296,
+            "end": 400.332,
+            "text": "Hey, you guys mind if\nI crash on your futon\ntonight?"
+          },
+          {
+            "index": 150,
+            "start": 400.334,
+            "end": 401.633,
+            "text": "We don't have a futon."
+          },
+          {
+            "index": 151,
+            "start": 401.635,
+            "end": 403.402,
+            "text": "Put it over there, boys."
+          },
+          {
+            "index": 152,
+            "start": 403.404,
+            "end": 404.703,
+            "text": "What's going on?\nIt's on the Murtaugh list."
+          },
+          {
+            "index": 153,
+            "start": 404.705,
+            "end": 408.974,
+            "text": "\"Crash on a friend's futon\ninstead of getting a hotel\nroom.\""
+          },
+          {
+            "index": 154,
+            "start": 408.976,
+            "end": 411.576,
+            "text": "I am too old\nfor that stuff."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 378.087142,
+        "topCueIndex": 147,
+        "bottomCueIndex": 144
+      }
     }
   ]
 }
