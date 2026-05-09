@@ -21513,6 +21513,158 @@
         "topCueIndex": 50,
         "bottomCueIndex": 53
       }
+    },
+    {
+      "id": "099f81a8-7153-4374-8746-6399da2546cf",
+      "createdAt": "2026-05-09T21:50:01.056Z",
+      "videoName": "S4E19 - Murtaugh.mkv",
+      "audioTrackName": "S4E19 - Murtaugh.eng.m4a",
+      "selectedText": "knows no age restrictions.",
+      "selection": {
+        "rawText": "knows\nno age restrictions.",
+        "startOffset": 15,
+        "endOffset": 41,
+        "cueIndex": 54,
+        "cueStart": 153.32,
+        "cueEnd": 156.421,
+        "cueText": "Ted, laser tag knows\nno age restrictions."
+      },
+      "bottomSubPath": "D:\\Как я встретил вашу маму\\S04\\S4E19 - Murtaugh\\S4E19 - Murtaugh.sub04.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 44,
+            "start": 111.212,
+            "end": 113.679,
+            "text": "(POIGNANT MUSIC PLAYING)"
+          },
+          {
+            "index": 45,
+            "start": 113.681,
+            "end": 117.516,
+            "text": "No!"
+          },
+          {
+            "index": 46,
+            "start": 117.518,
+            "end": 118.851,
+            "text": "(SOBBING)"
+          },
+          {
+            "index": 47,
+            "start": 130.797,
+            "end": 134.433,
+            "text": "I can't believe you got\nkicked out of laser tag.\nWhat are you gonna do?"
+          },
+          {
+            "index": 48,
+            "start": 134.435,
+            "end": 137.369,
+            "text": "What am I gonna do?\nWhat am I gonna do?"
+          },
+          {
+            "index": 49,
+            "start": 137.371,
+            "end": 139.938,
+            "text": "I'll tell you what\nTed and I are gonna do."
+          },
+          {
+            "index": 50,
+            "start": 139.94,
+            "end": 144.71,
+            "text": "We're gonna break in\nafter hours and TP\nthe place."
+          },
+          {
+            "index": 51,
+            "start": 144.712,
+            "end": 148.58,
+            "text": "Barney,\nwe are too old to cover\na place in toilet paper"
+          },
+          {
+            "index": 52,
+            "start": 148.582,
+            "end": 150.582,
+            "text": "just because they won't\nlet you play laser tag."
+          },
+          {
+            "index": 53,
+            "start": 150.584,
+            "end": 153.318,
+            "text": "And for that matter,\nwe're too old for\nlaser tag."
+          },
+          {
+            "index": 54,
+            "start": 153.32,
+            "end": 156.421,
+            "text": "Ted, laser tag knows\nno age restrictions."
+          },
+          {
+            "index": 55,
+            "start": 156.423,
+            "end": 158.39,
+            "text": "Kind of like\nstripping in\nthe Midwest."
+          },
+          {
+            "index": 56,
+            "start": 158.392,
+            "end": 159.958,
+            "text": "Yeah, whatever."
+          },
+          {
+            "index": 57,
+            "start": 159.96,
+            "end": 162.427,
+            "text": "I'm adding laser tag\nto the Murtaugh list."
+          },
+          {
+            "index": 58,
+            "start": 162.429,
+            "end": 164.53,
+            "text": "Oh, jeez, not\nthe Murtaugh list."
+          },
+          {
+            "index": 59,
+            "start": 164.532,
+            "end": 165.364,
+            "text": "Yeah.\nWhat's the Murtaugh list?"
+          },
+          {
+            "index": 60,
+            "start": 165.366,
+            "end": 167.466,
+            "text": "OLDER TED: The Murtaugh list\nis something that came into\nbeing"
+          },
+          {
+            "index": 61,
+            "start": 167.468,
+            "end": 168.967,
+            "text": "around the time I turned 30."
+          },
+          {
+            "index": 62,
+            "start": 168.969,
+            "end": 172.304,
+            "text": "It all started with your\nuncle Marshall's beer bong."
+          },
+          {
+            "index": 63,
+            "start": 172.306,
+            "end": 173.572,
+            "text": "(CHEERING)"
+          },
+          {
+            "index": 64,
+            "start": 173.574,
+            "end": 177.342,
+            "text": "When\nwe were in our early 20s,\nevery time we had a party,"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 156.415888,
+        "topCueIndex": 52,
+        "bottomCueIndex": 54
+      }
     }
   ]
 }
