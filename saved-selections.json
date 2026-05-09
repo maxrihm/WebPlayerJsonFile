@@ -21817,6 +21817,158 @@
         "topCueIndex": 58,
         "bottomCueIndex": 60
       }
+    },
+    {
+      "id": "f2e6929d-d7d9-424b-8941-74b126601ec4",
+      "createdAt": "2026-05-09T21:51:58.794Z",
+      "videoName": "S4E19 - Murtaugh.mkv",
+      "audioTrackName": "S4E19 - Murtaugh.eng.m4a",
+      "selectedText": "throes",
+      "selection": {
+        "rawText": "throes",
+        "startOffset": 21,
+        "endOffset": 27,
+        "cueIndex": 71,
+        "cueStart": 191.091,
+        "cueEnd": 195.16,
+        "cueText": "Then one day,\nin the throes of the\nworst hangover of my life,"
+      },
+      "bottomSubPath": "D:\\Как я встретил вашу маму\\S04\\S4E19 - Murtaugh\\S4E19 - Murtaugh.sub04.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 61,
+            "start": 167.468,
+            "end": 168.967,
+            "text": "around the time I turned 30."
+          },
+          {
+            "index": 62,
+            "start": 168.969,
+            "end": 172.304,
+            "text": "It all started with your\nuncle Marshall's beer bong."
+          },
+          {
+            "index": 63,
+            "start": 172.306,
+            "end": 173.572,
+            "text": "(CHEERING)"
+          },
+          {
+            "index": 64,
+            "start": 173.574,
+            "end": 177.342,
+            "text": "When\nwe were in our early 20s,\nevery time we had a party,"
+          },
+          {
+            "index": 65,
+            "start": 177.344,
+            "end": 178.01,
+            "text": "that beer bong came out."
+          },
+          {
+            "index": 66,
+            "start": 178.012,
+            "end": 180.846,
+            "text": "And around the time we\nturned 30, same thing."
+          },
+          {
+            "index": 67,
+            "start": 180.848,
+            "end": 184.516,
+            "text": "Of course, in our early 20s,\nthe next day would go like\nthis."
+          },
+          {
+            "index": 68,
+            "start": 184.518,
+            "end": 185.584,
+            "text": "(EXCLAIMING EXCITEDLY)"
+          },
+          {
+            "index": 69,
+            "start": 185.586,
+            "end": 190.389,
+            "text": "But by the time we were 30,\nthe next day would go like\nthis."
+          },
+          {
+            "index": 70,
+            "start": 190.391,
+            "end": 191.089,
+            "text": "(MOANING)"
+          },
+          {
+            "index": 71,
+            "start": 191.091,
+            "end": 195.16,
+            "text": "Then one day,\nin the throes of the\nworst hangover of my life,"
+          },
+          {
+            "index": 72,
+            "start": 195.162,
+            "end": 196.962,
+            "text": "I realized there\nwas only one person"
+          },
+          {
+            "index": 73,
+            "start": 196.964,
+            "end": 199.097,
+            "text": "in the world that\nI could relate to."
+          },
+          {
+            "index": 74,
+            "start": 199.099,
+            "end": 200.265,
+            "text": "Detective\nRoger Murtaugh,"
+          },
+          {
+            "index": 75,
+            "start": 200.267,
+            "end": 204.536,
+            "text": "played by Danny Glover in\nthe '80s noir masterpiece\nLethal Weapon,"
+          },
+          {
+            "index": 76,
+            "start": 204.538,
+            "end": 207.039,
+            "text": "known for his\noft-quoted catchphrase..."
+          },
+          {
+            "index": 77,
+            "start": 207.041,
+            "end": 208.307,
+            "text": "I'm too old for this..."
+          },
+          {
+            "index": 78,
+            "start": 208.309,
+            "end": 212.11,
+            "text": "OLDER TED: Stuff. He said,\n\"I'm too old for this stuff.\""
+          },
+          {
+            "index": 79,
+            "start": 212.112,
+            "end": 213.745,
+            "text": "It's sad to admit,\nbut as you get older,"
+          },
+          {
+            "index": 80,
+            "start": 213.747,
+            "end": 215.847,
+            "text": "there's\njust certain things\nyou can't do anymore."
+          },
+          {
+            "index": 81,
+            "start": 215.849,
+            "end": 218.884,
+            "text": "That's why I have this list,\nso I never\nmake the mistake of thinking"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 193.398357,
+        "topCueIndex": 64,
+        "bottomCueIndex": 71
+      }
     }
   ]
 }
