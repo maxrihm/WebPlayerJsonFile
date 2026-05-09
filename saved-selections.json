@@ -23185,6 +23185,158 @@
         "topCueIndex": 167,
         "bottomCueIndex": 158
       }
+    },
+    {
+      "id": "0a729590-2e6a-4ced-ac28-4c0813c265b1",
+      "createdAt": "2026-05-09T22:07:51.407Z",
+      "videoName": "S4E19 - Murtaugh.mkv",
+      "audioTrackName": "S4E19 - Murtaugh.eng.m4a",
+      "selectedText": "hunch.",
+      "selection": {
+        "rawText": "hunch.",
+        "startOffset": 21,
+        "endOffset": 27,
+        "cueIndex": 177,
+        "cueStart": 470.737,
+        "cueEnd": 478.844,
+        "cueText": "Just rocking\na party hunch. I like it.\nCloser to my booze. To youth."
+      },
+      "bottomSubPath": "D:\\Как я встретил вашу маму\\S04\\S4E19 - Murtaugh\\S4E19 - Murtaugh.sub04.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 167,
+            "start": 438.272,
+            "end": 440.505,
+            "text": "Do not stop running!"
+          },
+          {
+            "index": 168,
+            "start": 440.507,
+            "end": 446.611,
+            "text": "This whole time,\nthey've been the ones\nwho are teaching me. Hey!"
+          },
+          {
+            "index": 169,
+            "start": 446.613,
+            "end": 447.412,
+            "text": "(KID SCREAMING)"
+          },
+          {
+            "index": 170,
+            "start": 447.414,
+            "end": 451.383,
+            "text": "That's\nnot running!\nThat's falling!"
+          },
+          {
+            "index": 171,
+            "start": 451.385,
+            "end": 457.389,
+            "text": "OLDER TED: The next morning,\nBarney woke up on the futon\nin our living room."
+          },
+          {
+            "index": 172,
+            "start": 457.391,
+            "end": 459.124,
+            "text": "(SCREAMING IN PAIN)"
+          },
+          {
+            "index": 173,
+            "start": 461.494,
+            "end": 463.562,
+            "text": "Check."
+          },
+          {
+            "index": 174,
+            "start": 463.564,
+            "end": 467.666,
+            "text": "\"Drinking shots\nwith strangers.\"\nCheck."
+          },
+          {
+            "index": 175,
+            "start": 467.668,
+            "end": 470.368,
+            "text": "You okay, Barney?\nIt looks like you\nhurt your back."
+          },
+          {
+            "index": 176,
+            "start": 470.37,
+            "end": 470.735,
+            "text": "Oh, no."
+          },
+          {
+            "index": 177,
+            "start": 470.737,
+            "end": 478.844,
+            "text": "Just rocking\na party hunch. I like it.\nCloser to my booze. To youth."
+          },
+          {
+            "index": 178,
+            "start": 487.453,
+            "end": 489.287,
+            "text": "Can I get a straw?"
+          },
+          {
+            "index": 179,
+            "start": 489.289,
+            "end": 491.223,
+            "text": "I must say, there is\nsomething admirable"
+          },
+          {
+            "index": 180,
+            "start": 491.225,
+            "end": 493.258,
+            "text": "about the way\nBarney wants to\nstay young at heart."
+          },
+          {
+            "index": 181,
+            "start": 493.26,
+            "end": 495.327,
+            "text": "I mean,\nwho wants\nto get old?"
+          },
+          {
+            "index": 182,
+            "start": 495.329,
+            "end": 497.028,
+            "text": "This guy."
+          },
+          {
+            "index": 183,
+            "start": 497.03,
+            "end": 501.967,
+            "text": "Robin, life is a meal\nand old age is the dessert."
+          },
+          {
+            "index": 184,
+            "start": 501.969,
+            "end": 503.535,
+            "text": "I spend so much of my time\nworrying about the future."
+          },
+          {
+            "index": 185,
+            "start": 503.537,
+            "end": 506.271,
+            "text": "You know, \"Where's my career\ngoing? Who am I gonna marry?\""
+          },
+          {
+            "index": 186,
+            "start": 506.273,
+            "end": 508.406,
+            "text": "But\nwhen you're old,\nyou don't worry,"
+          },
+          {
+            "index": 187,
+            "start": 508.408,
+            "end": 511.042,
+            "text": "'cause all that\nstuff's already\nhappened."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 471.806831,
+        "topCueIndex": 184,
+        "bottomCueIndex": 177
+      }
     }
   ]
 }
