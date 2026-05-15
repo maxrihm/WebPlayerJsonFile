@@ -25009,6 +25009,158 @@
         "topCueIndex": 296,
         "bottomCueIndex": 273
       }
+    },
+    {
+      "id": "8f6e52ef-6196-4874-bb11-9c1c9a25d159",
+      "createdAt": "2026-05-15T23:37:20.728Z",
+      "videoName": "S4E19 - Murtaugh.mkv",
+      "audioTrackName": "S4E19 - Murtaugh.eng.m4a",
+      "selectedText": "I am off to",
+      "selection": {
+        "rawText": "I am off to",
+        "startOffset": 4,
+        "endOffset": 15,
+        "cueIndex": 278,
+        "cueStart": 742.042,
+        "cueEnd": 745.81,
+        "cueText": "Now I am off to\n\"Dye my hair a funny color,\""
+      },
+      "bottomSubPath": "D:\\Как я встретил вашу маму\\S04\\S4E19 - Murtaugh\\S4E19 - Murtaugh.sub04.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 268,
+            "start": 714.247,
+            "end": 719.284,
+            "text": "\"Yell at neighborhood kids.\"\nMy pleasure."
+          },
+          {
+            "index": 269,
+            "start": 720.352,
+            "end": 722.153,
+            "text": "Hey.\nHey."
+          },
+          {
+            "index": 270,
+            "start": 722.155,
+            "end": 723.521,
+            "text": "What the hell\nhappened to you?"
+          },
+          {
+            "index": 271,
+            "start": 723.523,
+            "end": 728.193,
+            "text": "Oh, I just had a very\nminor blew-out-my-knee-and-\nit-hurts-like-hell incident."
+          },
+          {
+            "index": 272,
+            "start": 728.195,
+            "end": 728.893,
+            "text": "How'd you blow\nout your knee?"
+          },
+          {
+            "index": 273,
+            "start": 728.895,
+            "end": 731.963,
+            "text": "We \"Helped\nsomeone move out of\na sixth-floor walk-up"
+          },
+          {
+            "index": 274,
+            "start": 731.965,
+            "end": 733.598,
+            "text": "\"in exchange for pizza\nand beer.\""
+          },
+          {
+            "index": 275,
+            "start": 733.6,
+            "end": 736.101,
+            "text": "Or we helped someone\nrob a sixth-floor\nwalk-up."
+          },
+          {
+            "index": 276,
+            "start": 736.103,
+            "end": 740.138,
+            "text": "They were in\na big hurry and left\nall the pictures behind."
+          },
+          {
+            "index": 277,
+            "start": 740.14,
+            "end": 742.04,
+            "text": "Whatevs. It counts."
+          },
+          {
+            "index": 278,
+            "start": 742.042,
+            "end": 745.81,
+            "text": "Now I am off to\n\"Dye my hair a funny color,\""
+          },
+          {
+            "index": 279,
+            "start": 745.812,
+            "end": 748.713,
+            "text": "and then we are\ngoing to \"Go to\na rave.\""
+          },
+          {
+            "index": 280,
+            "start": 748.715,
+            "end": 750.448,
+            "text": "(IMITATING TECHNO MUSIC)\nMmm-hmm."
+          },
+          {
+            "index": 281,
+            "start": 750.45,
+            "end": 752.45,
+            "text": "Ooh! 4:00!\nSupper time."
+          },
+          {
+            "index": 282,
+            "start": 752.452,
+            "end": 754.986,
+            "text": "Okay. So,\nyour dad was\ntough on you."
+          },
+          {
+            "index": 283,
+            "start": 754.988,
+            "end": 758.289,
+            "text": "That stinks,\nbut you don't\nhave to be like him."
+          },
+          {
+            "index": 284,
+            "start": 758.291,
+            "end": 759.991,
+            "text": "You can learn\nfrom his mistakes."
+          },
+          {
+            "index": 285,
+            "start": 759.993,
+            "end": 764.295,
+            "text": "Mistakes?\nLily, scoreboard.\nThe guy nailed it, okay?"
+          },
+          {
+            "index": 286,
+            "start": 764.297,
+            "end": 765.13,
+            "text": "He taught me\nhow to be a winner."
+          },
+          {
+            "index": 287,
+            "start": 765.132,
+            "end": 768.099,
+            "text": "That's what I'm\nteaching these kids.\nAnd, for that matter,"
+          },
+          {
+            "index": 288,
+            "start": 768.101,
+            "end": 770.101,
+            "text": "that's what\nI'm gonna teach\nour kids someday."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 745.011536,
+        "topCueIndex": 302,
+        "bottomCueIndex": 278
+      }
     }
   ]
 }
