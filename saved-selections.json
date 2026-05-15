@@ -24705,6 +24705,158 @@
         "topCueIndex": 266,
         "bottomCueIndex": 247
       }
+    },
+    {
+      "id": "2ed4b896-6fb9-4f99-9da5-e28554b3f16b",
+      "createdAt": "2026-05-15T23:34:21.822Z",
+      "videoName": "S4E19 - Murtaugh.mkv",
+      "audioTrackName": "S4E19 - Murtaugh.eng.m4a",
+      "selectedText": "gave me no quarter,",
+      "selection": {
+        "rawText": "gave me no quarter,",
+        "startOffset": 10,
+        "endOffset": 29,
+        "cueIndex": 264,
+        "cueStart": 695.328,
+        "cueEnd": 701.9,
+        "cueText": "My father\ngave me no quarter,\nand I asked for no quarter."
+      },
+      "bottomSubPath": "D:\\Как я встретил вашу маму\\S04\\S4E19 - Murtaugh\\S4E19 - Murtaugh.sub04.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 254,
+            "start": 668.934,
+            "end": 670.368,
+            "text": "Marshall,\nthey're in\nkindergarten."
+          },
+          {
+            "index": 255,
+            "start": 670.37,
+            "end": 672.771,
+            "text": "This isn't how\nyou teach basketball."
+          },
+          {
+            "index": 256,
+            "start": 672.773,
+            "end": 674.239,
+            "text": "Sure it is.\nIt's the way I learned."
+          },
+          {
+            "index": 257,
+            "start": 674.241,
+            "end": 680.145,
+            "text": "Are you kidding me? What kind\nof sociopath taught you this\nway?"
+          },
+          {
+            "index": 258,
+            "start": 682.481,
+            "end": 684.382,
+            "text": "Come on, Dad. I'm tired."
+          },
+          {
+            "index": 259,
+            "start": 684.384,
+            "end": 685.583,
+            "text": "Sleep is for winners."
+          },
+          {
+            "index": 260,
+            "start": 685.585,
+            "end": 688.053,
+            "text": "You can go to bed\nwhen you score\na basket."
+          },
+          {
+            "index": 261,
+            "start": 688.055,
+            "end": 689.087,
+            "text": "I'm trying."
+          },
+          {
+            "index": 262,
+            "start": 689.089,
+            "end": 690.755,
+            "text": "Let's give you two\npoints for trying."
+          },
+          {
+            "index": 263,
+            "start": 690.757,
+            "end": 695.326,
+            "text": "But negative two points\nfor having a great big\nhead."
+          },
+          {
+            "index": 264,
+            "start": 695.328,
+            "end": 701.9,
+            "text": "My father\ngave me no quarter,\nand I asked for no quarter."
+          },
+          {
+            "index": 265,
+            "start": 702.902,
+            "end": 705.837,
+            "text": "I totally gotta call that guy."
+          },
+          {
+            "index": 266,
+            "start": 705.839,
+            "end": 708.273,
+            "text": "Keep stretching!"
+          },
+          {
+            "index": 267,
+            "start": 711.544,
+            "end": 714.245,
+            "text": "\"Put on reading glasses.\"\nCheck."
+          },
+          {
+            "index": 268,
+            "start": 714.247,
+            "end": 719.284,
+            "text": "\"Yell at neighborhood kids.\"\nMy pleasure."
+          },
+          {
+            "index": 269,
+            "start": 720.352,
+            "end": 722.153,
+            "text": "Hey.\nHey."
+          },
+          {
+            "index": 270,
+            "start": 722.155,
+            "end": 723.521,
+            "text": "What the hell\nhappened to you?"
+          },
+          {
+            "index": 271,
+            "start": 723.523,
+            "end": 728.193,
+            "text": "Oh, I just had a very\nminor blew-out-my-knee-and-\nit-hurts-like-hell incident."
+          },
+          {
+            "index": 272,
+            "start": 728.195,
+            "end": 728.893,
+            "text": "How'd you blow\nout your knee?"
+          },
+          {
+            "index": 273,
+            "start": 728.895,
+            "end": 731.963,
+            "text": "We \"Helped\nsomeone move out of\na sixth-floor walk-up"
+          },
+          {
+            "index": 274,
+            "start": 731.965,
+            "end": 733.598,
+            "text": "\"in exchange for pizza\nand beer.\""
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 697.674499,
+        "topCueIndex": 286,
+        "bottomCueIndex": 264
+      }
     }
   ]
 }
