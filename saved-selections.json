@@ -23641,6 +23641,158 @@
         "topCueIndex": 215,
         "bottomCueIndex": 198
       }
+    },
+    {
+      "id": "ac573938-596a-4f3e-b35c-1f15d4f70bb7",
+      "createdAt": "2026-05-15T23:25:17.303Z",
+      "videoName": "S4E19 - Murtaugh.mkv",
+      "audioTrackName": "S4E19 - Murtaugh.eng.m4a",
+      "selectedText": "keep score.",
+      "selection": {
+        "rawText": "keep score.",
+        "startOffset": 15,
+        "endOffset": 26,
+        "cueIndex": 199,
+        "cueStart": 543.042,
+        "cueEnd": 545.944,
+        "cueText": "What?\nWe don't keep score."
+      },
+      "bottomSubPath": "D:\\Как я встретил вашу маму\\S04\\S4E19 - Murtaugh\\S4E19 - Murtaugh.sub04.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 189,
+            "start": 512.045,
+            "end": 514.379,
+            "text": "and a chair takes you up and\ndown the stairs. It's perfect."
+          },
+          {
+            "index": 190,
+            "start": 514.381,
+            "end": 516.681,
+            "text": "That's\nnot perfect.\nThat's pathetic."
+          },
+          {
+            "index": 191,
+            "start": 516.683,
+            "end": 520.752,
+            "text": "You can't\njust jump to the end.\nThe journey is the best part."
+          },
+          {
+            "index": 192,
+            "start": 520.754,
+            "end": 523.054,
+            "text": "Oh, Robin,\nI used to feel\nthat way, too,"
+          },
+          {
+            "index": 193,
+            "start": 523.056,
+            "end": 527.359,
+            "text": "but you'll understand when\nyou're a little bit older."
+          },
+          {
+            "index": 194,
+            "start": 527.361,
+            "end": 530.629,
+            "text": "Marshall, can you try\nnot to pick on the\nkids today?"
+          },
+          {
+            "index": 195,
+            "start": 530.631,
+            "end": 532.13,
+            "text": "I'm not picking\non the kids, Lily."
+          },
+          {
+            "index": 196,
+            "start": 532.132,
+            "end": 534.833,
+            "text": "I'm picking\non the culture of\nlosing around here."
+          },
+          {
+            "index": 197,
+            "start": 534.835,
+            "end": 538.103,
+            "text": "I got to get them in shape\nif they're gonna win that\ngame tomorrow."
+          },
+          {
+            "index": 198,
+            "start": 538.105,
+            "end": 542.607,
+            "text": "(SCOFFING) Win?\nWe don't keep score."
+          },
+          {
+            "index": 199,
+            "start": 543.042,
+            "end": 545.944,
+            "text": "What?\nWe don't keep score."
+          },
+          {
+            "index": 200,
+            "start": 545.946,
+            "end": 548.146,
+            "text": "You don't keep..."
+          },
+          {
+            "index": 201,
+            "start": 548.148,
+            "end": 550.081,
+            "text": "What's the point of\nplaying if you don't"
+          },
+          {
+            "index": 202,
+            "start": 550.083,
+            "end": 551.816,
+            "text": "keep score?\nHow do you know..."
+          },
+          {
+            "index": 203,
+            "start": 551.818,
+            "end": 555.32,
+            "text": "Lily,\nwhat were you doing with\nthis team before I got here?"
+          },
+          {
+            "index": 204,
+            "start": 555.322,
+            "end": 556.788,
+            "text": "I was coaching them."
+          },
+          {
+            "index": 205,
+            "start": 556.79,
+            "end": 557.923,
+            "text": "BOY: Whee!"
+          },
+          {
+            "index": 206,
+            "start": 557.925,
+            "end": 559.824,
+            "text": "That's it,\nmy little angels."
+          },
+          {
+            "index": 207,
+            "start": 559.826,
+            "end": 563.094,
+            "text": "You're all luminous,\nwonderful beings\nof light."
+          },
+          {
+            "index": 208,
+            "start": 563.096,
+            "end": 564.362,
+            "text": "What's the score?"
+          },
+          {
+            "index": 209,
+            "start": 564.364,
+            "end": 567.032,
+            "text": "It's all tied\nup at fun to fun!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 544.060618,
+        "topCueIndex": 217,
+        "bottomCueIndex": 199
+      }
     }
   ]
 }
