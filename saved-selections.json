@@ -24553,6 +24553,158 @@
         "topCueIndex": 263,
         "bottomCueIndex": 245
       }
+    },
+    {
+      "id": "4d663381-af9d-4273-a4ec-de05ff8d5118",
+      "createdAt": "2026-05-15T23:32:08.668Z",
+      "videoName": "S4E19 - Murtaugh.mkv",
+      "audioTrackName": "S4E19 - Murtaugh.eng.m4a",
+      "selectedText": "survey",
+      "selection": {
+        "rawText": "survey",
+        "startOffset": 16,
+        "endOffset": 22,
+        "cueIndex": 247,
+        "cueStart": 652.319,
+        "cueEnd": 656.187,
+        "cueText": "it's a six-hour survey\nof early 20th-century\nAmerican architecture,"
+      },
+      "bottomSubPath": "D:\\Как я встретил вашу маму\\S04\\S4E19 - Murtaugh\\S4E19 - Murtaugh.sub04.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 237,
+            "start": 627.794,
+            "end": 629.094,
+            "text": "Go out and do each\none of these things"
+          },
+          {
+            "index": 238,
+            "start": 629.096,
+            "end": 632.397,
+            "text": "and then\ntell me you still\nwant to be an old man."
+          },
+          {
+            "index": 239,
+            "start": 632.399,
+            "end": 633.031,
+            "text": "Hmm."
+          },
+          {
+            "index": 240,
+            "start": 633.033,
+            "end": 635.4,
+            "text": "Remove \"Colonoscopy\"\nand \"Have sex with\nan old lady,\""
+          },
+          {
+            "index": 241,
+            "start": 635.402,
+            "end": 637.969,
+            "text": "and this is a cakewalk."
+          },
+          {
+            "index": 242,
+            "start": 638.337,
+            "end": 642.807,
+            "text": "New stakes, then.\nIf I can finish your\nlist before you finish mine,"
+          },
+          {
+            "index": 243,
+            "start": 642.809,
+            "end": 644.709,
+            "text": "you have to come\nwith me to TP\nlaser tag,"
+          },
+          {
+            "index": 244,
+            "start": 644.711,
+            "end": 646.811,
+            "text": "and you have to\nbuy the toilet paper."
+          },
+          {
+            "index": 245,
+            "start": 646.813,
+            "end": 650.348,
+            "text": "And none of\nthat biodegradable crap.\nI want it up there forever."
+          },
+          {
+            "index": 246,
+            "start": 650.35,
+            "end": 652.317,
+            "text": "Fine, but if I\nfinish your list first,"
+          },
+          {
+            "index": 247,
+            "start": 652.319,
+            "end": 656.187,
+            "text": "it's a six-hour survey\nof early 20th-century\nAmerican architecture,"
+          },
+          {
+            "index": 248,
+            "start": 656.189,
+            "end": 659.324,
+            "text": "and you can never do anything\non the Murtaugh list ever\nagain."
+          },
+          {
+            "index": 249,
+            "start": 659.326,
+            "end": 660.759,
+            "text": "It's for your own good."
+          },
+          {
+            "index": 250,
+            "start": 660.761,
+            "end": 663.161,
+            "text": "You, sir,\nhave got yourself a deal."
+          },
+          {
+            "index": 251,
+            "start": 663.163,
+            "end": 664.863,
+            "text": "A gentlemen's agreement!"
+          },
+          {
+            "index": 252,
+            "start": 664.865,
+            "end": 665.73,
+            "text": "Huzzah!\nHuzzah!"
+          },
+          {
+            "index": 253,
+            "start": 665.732,
+            "end": 667.899,
+            "text": "(EXCLAIMING IN PAIN)"
+          },
+          {
+            "index": 254,
+            "start": 668.934,
+            "end": 670.368,
+            "text": "Marshall,\nthey're in\nkindergarten."
+          },
+          {
+            "index": 255,
+            "start": 670.37,
+            "end": 672.771,
+            "text": "This isn't how\nyou teach basketball."
+          },
+          {
+            "index": 256,
+            "start": 672.773,
+            "end": 674.239,
+            "text": "Sure it is.\nIt's the way I learned."
+          },
+          {
+            "index": 257,
+            "start": 674.241,
+            "end": 680.145,
+            "text": "Are you kidding me? What kind\nof sociopath taught you this\nway?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 653.485768,
+        "topCueIndex": 266,
+        "bottomCueIndex": 247
+      }
     }
   ]
 }
