@@ -24097,6 +24097,158 @@
         "topCueIndex": 227,
         "bottomCueIndex": 209
       }
+    },
+    {
+      "id": "310c2ac6-ed48-46ec-a7b7-be34355f28a3",
+      "createdAt": "2026-05-15T23:28:00.897Z",
+      "videoName": "S4E19 - Murtaugh.mkv",
+      "audioTrackName": "S4E19 - Murtaugh.eng.m4a",
+      "selectedText": "trophy?",
+      "selection": {
+        "rawText": "trophy?",
+        "startOffset": 50,
+        "endOffset": 57,
+        "cueIndex": 213,
+        "cueStart": 574.207,
+        "cueEnd": 577.876,
+        "cueText": "And if you don't\nknow who's winning,\nwho gets the trophy?"
+      },
+      "bottomSubPath": "D:\\Как я встретил вашу маму\\S04\\S4E19 - Murtaugh\\S4E19 - Murtaugh.sub04.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 203,
+            "start": 551.818,
+            "end": 555.32,
+            "text": "Lily,\nwhat were you doing with\nthis team before I got here?"
+          },
+          {
+            "index": 204,
+            "start": 555.322,
+            "end": 556.788,
+            "text": "I was coaching them."
+          },
+          {
+            "index": 205,
+            "start": 556.79,
+            "end": 557.923,
+            "text": "BOY: Whee!"
+          },
+          {
+            "index": 206,
+            "start": 557.925,
+            "end": 559.824,
+            "text": "That's it,\nmy little angels."
+          },
+          {
+            "index": 207,
+            "start": 559.826,
+            "end": 563.094,
+            "text": "You're all luminous,\nwonderful beings\nof light."
+          },
+          {
+            "index": 208,
+            "start": 563.096,
+            "end": 564.362,
+            "text": "What's the score?"
+          },
+          {
+            "index": 209,
+            "start": 564.364,
+            "end": 567.032,
+            "text": "It's all tied\nup at fun to fun!"
+          },
+          {
+            "index": 210,
+            "start": 567.034,
+            "end": 569,
+            "text": "(CHEERING)"
+          },
+          {
+            "index": 211,
+            "start": 569.002,
+            "end": 571.102,
+            "text": "Because\nthat's the point of\nplaying, to have fun."
+          },
+          {
+            "index": 212,
+            "start": 571.104,
+            "end": 574.205,
+            "text": "No.\nThe point of playing\nis to win the trophy."
+          },
+          {
+            "index": 213,
+            "start": 574.207,
+            "end": 577.876,
+            "text": "And if you don't\nknow who's winning,\nwho gets the trophy?"
+          },
+          {
+            "index": 214,
+            "start": 577.878,
+            "end": 581.346,
+            "text": "Everyone.\nIt's a participation trophy."
+          },
+          {
+            "index": 215,
+            "start": 581.348,
+            "end": 583.281,
+            "text": "Everyone gets one."
+          },
+          {
+            "index": 216,
+            "start": 583.283,
+            "end": 587.752,
+            "text": "It's like you're\nspeaking Chinese\nto me right now."
+          },
+          {
+            "index": 217,
+            "start": 587.754,
+            "end": 588.286,
+            "text": "(BEEPS)"
+          },
+          {
+            "index": 218,
+            "start": 588.288,
+            "end": 589.854,
+            "text": "Hi, this is Barney.\nAnd Robin."
+          },
+          {
+            "index": 219,
+            "start": 589.856,
+            "end": 591.323,
+            "text": "We can't answer\nthe phone right\nnow because..."
+          },
+          {
+            "index": 220,
+            "start": 591.325,
+            "end": 592.824,
+            "text": "He's watching\nsports and I'm..."
+          },
+          {
+            "index": 221,
+            "start": 592.826,
+            "end": 593.792,
+            "text": "Probably out shopping."
+          },
+          {
+            "index": 222,
+            "start": 593.794,
+            "end": 594.993,
+            "text": "(BOTH LAUGHING)"
+          },
+          {
+            "index": 223,
+            "start": 594.995,
+            "end": 595.594,
+            "text": "Uh-oh!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 576.640063,
+        "topCueIndex": 230,
+        "bottomCueIndex": 213
+      }
     }
   ]
 }
