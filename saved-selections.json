@@ -25465,6 +25465,158 @@
         "topCueIndex": 362,
         "bottomCueIndex": 327
       }
+    },
+    {
+      "id": "177fbcd4-680c-450d-acd4-51a98cda952b",
+      "createdAt": "2026-05-16T21:24:29.959Z",
+      "videoName": "S4E19 - Murtaugh.mkv",
+      "audioTrackName": "S4E19 - Murtaugh.eng.m4a",
+      "selectedText": "I'm throwing in the towel.",
+      "selection": {
+        "rawText": "I'm throwing in the towel.",
+        "startOffset": 36,
+        "endOffset": 62,
+        "cueIndex": 337,
+        "cueStart": 927.56,
+        "cueEnd": 931.229,
+        "cueText": "All right,\nBarney. As your manager,\nI'm throwing in the towel."
+      },
+      "bottomSubPath": "D:\\Как я встретил вашу маму\\S04\\S4E19 - Murtaugh\\S4E19 - Murtaugh.sub04.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 327,
+            "start": 891.724,
+            "end": 895.159,
+            "text": "Yay!\nWay to let them\nscore that easily."
+          },
+          {
+            "index": 328,
+            "start": 895.161,
+            "end": 898.396,
+            "text": "Now you're sitting down.\nAwesome."
+          },
+          {
+            "index": 329,
+            "start": 902.735,
+            "end": 906.771,
+            "text": "Addison, it's not soccer.\nYou don't kick the ball!"
+          },
+          {
+            "index": 330,
+            "start": 907.506,
+            "end": 909.908,
+            "text": "Unless\nthat's something\nthat you think is fun,"
+          },
+          {
+            "index": 331,
+            "start": 909.91,
+            "end": 913.645,
+            "text": "in which case,\ngreat job having fun."
+          },
+          {
+            "index": 332,
+            "start": 916.649,
+            "end": 918.883,
+            "text": "Whoa,\nthat was a foul,\nwasn't it, ref?"
+          },
+          {
+            "index": 333,
+            "start": 918.885,
+            "end": 920.518,
+            "text": "My name's not Ref. It's Kenny."
+          },
+          {
+            "index": 334,
+            "start": 920.52,
+            "end": 921.853,
+            "text": "And watch your tone."
+          },
+          {
+            "index": 335,
+            "start": 921.855,
+            "end": 924.055,
+            "text": "No tone, Kenny.\nGreat job, Kenny."
+          },
+          {
+            "index": 336,
+            "start": 924.057,
+            "end": 927.558,
+            "text": "Thanks a lot, Kenny.\nSee you later, Kenny."
+          },
+          {
+            "index": 337,
+            "start": 927.56,
+            "end": 931.229,
+            "text": "All right,\nBarney. As your manager,\nI'm throwing in the towel."
+          },
+          {
+            "index": 338,
+            "start": 931.231,
+            "end": 931.996,
+            "text": "This bet is over."
+          },
+          {
+            "index": 339,
+            "start": 931.998,
+            "end": 936.668,
+            "text": "Your ear\nlooks like a free Danish\nat a continental breakfast."
+          },
+          {
+            "index": 340,
+            "start": 936.67,
+            "end": 937.535,
+            "text": "(GROANING)"
+          },
+          {
+            "index": 341,
+            "start": 937.537,
+            "end": 939.771,
+            "text": "No. No.\nOne thing left."
+          },
+          {
+            "index": 342,
+            "start": 939.773,
+            "end": 941.039,
+            "text": "\"Beer bong.\""
+          },
+          {
+            "index": 343,
+            "start": 941.041,
+            "end": 943.908,
+            "text": "Oh! Coming right up."
+          },
+          {
+            "index": 344,
+            "start": 945.144,
+            "end": 949.58,
+            "text": "I found\nthese weird Russian\nbeers in the basement."
+          },
+          {
+            "index": 345,
+            "start": 949.582,
+            "end": 951.683,
+            "text": "Russian beers?\nI'll take a brewski."
+          },
+          {
+            "index": 346,
+            "start": 951.685,
+            "end": 955.586,
+            "text": "(CHUCKLING) Hey.\nBrewski. Get it?"
+          },
+          {
+            "index": 347,
+            "start": 956.121,
+            "end": 958.69,
+            "text": "Yeah, it's a little warm."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 931.199236,
+        "topCueIndex": 374,
+        "bottomCueIndex": 337
+      }
     }
   ]
 }
