@@ -25617,6 +25617,158 @@
         "topCueIndex": 374,
         "bottomCueIndex": 337
       }
+    },
+    {
+      "id": "0f776cdb-3fd2-4b2e-bb1b-88f4a5ccf916",
+      "createdAt": "2026-05-16T21:27:00.805Z",
+      "videoName": "S4E19 - Murtaugh.mkv",
+      "audioTrackName": "S4E19 - Murtaugh.eng.m4a",
+      "selectedText": "throw in",
+      "selection": {
+        "rawText": "throw in",
+        "startOffset": 4,
+        "endOffset": 12,
+        "cueIndex": 362,
+        "cueStart": 993.892,
+        "cueEnd": 995.927,
+        "cueText": "And throw in the shoes."
+      },
+      "bottomSubPath": "D:\\Как я встретил вашу маму\\S04\\S4E19 - Murtaugh\\S4E19 - Murtaugh.sub04.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 352,
+            "start": 967,
+            "end": 969.834,
+            "text": "All right, Ted.\nYou win. I hate this."
+          },
+          {
+            "index": 353,
+            "start": 969.836,
+            "end": 973.338,
+            "text": "I hate all of it.\nMy back is killing me."
+          },
+          {
+            "index": 354,
+            "start": 973.34,
+            "end": 975.94,
+            "text": "Everyone at the rave\nthought I was a narc."
+          },
+          {
+            "index": 355,
+            "start": 975.942,
+            "end": 979.31,
+            "text": "My ear hurts so\nbad I can hear it."
+          },
+          {
+            "index": 356,
+            "start": 979.312,
+            "end": 983.848,
+            "text": "I can\nhear my own ear.\nThink about that."
+          },
+          {
+            "index": 357,
+            "start": 983.85,
+            "end": 984.349,
+            "text": "My clothes..."
+          },
+          {
+            "index": 358,
+            "start": 984.351,
+            "end": 986.117,
+            "text": "What is it...\nWhat is it...\nWhat am I..."
+          },
+          {
+            "index": 359,
+            "start": 986.119,
+            "end": 987.685,
+            "text": "Get this stuff off of me!"
+          },
+          {
+            "index": 360,
+            "start": 987.687,
+            "end": 990.688,
+            "text": "Ted, I'll pay you\ndouble for your\nfinest suit."
+          },
+          {
+            "index": 361,
+            "start": 990.69,
+            "end": 993.558,
+            "text": "Here's 30 bucks."
+          },
+          {
+            "index": 362,
+            "start": 993.892,
+            "end": 995.927,
+            "text": "And throw in the shoes."
+          },
+          {
+            "index": 363,
+            "start": 996.495,
+            "end": 997.161,
+            "text": "You win, Ted."
+          },
+          {
+            "index": 364,
+            "start": 997.163,
+            "end": 1003.001,
+            "text": "I'll never do anything\non the Murtaugh list again.\nI'm too old for this stuff."
+          },
+          {
+            "index": 365,
+            "start": 1003.003,
+            "end": 1006.504,
+            "text": "You know,\nBarney, last night,\nI went to bed at 8:00"
+          },
+          {
+            "index": 366,
+            "start": 1006.506,
+            "end": 1008.039,
+            "text": "because it was on the list,"
+          },
+          {
+            "index": 367,
+            "start": 1008.041,
+            "end": 1011.175,
+            "text": "and I couldn't sleep\nbecause, well, it\nwas 8:00."
+          },
+          {
+            "index": 368,
+            "start": 1011.177,
+            "end": 1014.345,
+            "text": "So I decided to\nwatch Lethal Weapon."
+          },
+          {
+            "index": 369,
+            "start": 1016.015,
+            "end": 1020.785,
+            "text": "And then, when\nI still couldn't sleep,\nI watched ethal Weapon 2."
+          },
+          {
+            "index": 370,
+            "start": 1020.787,
+            "end": 1023.721,
+            "text": "And then I watched ."
+          },
+          {
+            "index": 371,
+            "start": 1023.723,
+            "end": 1026.224,
+            "text": "And then,\nhalfway through\nLethal Weapon 4"
+          },
+          {
+            "index": 372,
+            "start": 1026.226,
+            "end": 1027.792,
+            "text": "is when it occurred to me."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 995.15922,
+        "topCueIndex": 405,
+        "bottomCueIndex": 362
+      }
     }
   ]
 }
