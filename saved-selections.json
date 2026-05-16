@@ -26529,6 +26529,158 @@
         "topCueIndex": 459,
         "bottomCueIndex": 407
       }
+    },
+    {
+      "id": "53394fb0-8125-4bb0-806d-f44b0c8f6f68",
+      "createdAt": "2026-05-16T21:34:40.290Z",
+      "videoName": "S4E19 - Murtaugh.mkv",
+      "audioTrackName": "S4E19 - Murtaugh.eng.m4a",
+      "selectedText": "feels included.",
+      "selection": {
+        "rawText": "feels\nincluded.",
+        "startOffset": 24,
+        "endOffset": 39,
+        "cueIndex": 414,
+        "cueStart": 1141.975,
+        "cueEnd": 1145.61,
+        "cueText": "but try to make\nsure he feels\nincluded."
+      },
+      "bottomSubPath": "D:\\Как я встретил вашу маму\\S04\\S4E19 - Murtaugh\\S4E19 - Murtaugh.sub04.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 404,
+            "start": 1114.747,
+            "end": 1117.115,
+            "text": "or some magical\ncombination of\nthe two,"
+          },
+          {
+            "index": 405,
+            "start": 1117.117,
+            "end": 1118.816,
+            "text": "but in the second\nhalf of that game,"
+          },
+          {
+            "index": 406,
+            "start": 1118.818,
+            "end": 1121.752,
+            "text": "that ragtag group of\nlittle firecrackers"
+          },
+          {
+            "index": 407,
+            "start": 1122.688,
+            "end": 1125.823,
+            "text": "got beat down even worse."
+          },
+          {
+            "index": 408,
+            "start": 1127.059,
+            "end": 1129.46,
+            "text": "In fact, according to\nyour uncle Marshall,"
+          },
+          {
+            "index": 409,
+            "start": 1129.462,
+            "end": 1132.163,
+            "text": "in the second half, the\nother team got even taller."
+          },
+          {
+            "index": 410,
+            "start": 1132.165,
+            "end": 1134.866,
+            "text": "And one of them\nturned into a Teen Wolf."
+          },
+          {
+            "index": 411,
+            "start": 1134.868,
+            "end": 1138.002,
+            "text": "Kenny!\nThere is a Teen\nWolf on the court!"
+          },
+          {
+            "index": 412,
+            "start": 1138.004,
+            "end": 1139.837,
+            "text": "That can't be legal."
+          },
+          {
+            "index": 413,
+            "start": 1139.839,
+            "end": 1141.973,
+            "text": "I know the Teen Wolf\nlooks different, kids,"
+          },
+          {
+            "index": 414,
+            "start": 1141.975,
+            "end": 1145.61,
+            "text": "but try to make\nsure he feels\nincluded."
+          },
+          {
+            "index": 415,
+            "start": 1148.68,
+            "end": 1150.615,
+            "text": "(HOWLING)"
+          },
+          {
+            "index": 416,
+            "start": 1153.819,
+            "end": 1155.653,
+            "text": "Oh, yeah!"
+          },
+          {
+            "index": 417,
+            "start": 1160.325,
+            "end": 1162.326,
+            "text": "(HOWLING)"
+          },
+          {
+            "index": 418,
+            "start": 1165.03,
+            "end": 1166.864,
+            "text": "How is that not\ntraveling, Kenny?"
+          },
+          {
+            "index": 419,
+            "start": 1166.866,
+            "end": 1169.7,
+            "text": "You're killing me!\nYou are absolutely\nkilling me!"
+          },
+          {
+            "index": 420,
+            "start": 1169.702,
+            "end": 1172.069,
+            "text": "Hey, watch it, Coach,\nor you'll get a technical."
+          },
+          {
+            "index": 421,
+            "start": 1172.071,
+            "end": 1176.741,
+            "text": "Oh, Kenny,\nI'm begging you to\ngive me a technical."
+          },
+          {
+            "index": 422,
+            "start": 1176.743,
+            "end": 1177.875,
+            "text": "(BUZZER SOUNDS)"
+          },
+          {
+            "index": 423,
+            "start": 1177.877,
+            "end": 1179.243,
+            "text": "OLDER TED:\nWhen the final\nhorn mercifully blew,"
+          },
+          {
+            "index": 424,
+            "start": 1179.245,
+            "end": 1183.614,
+            "text": "the score\nwas, by Marshall's\nestimate, 118 to nothing."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1144.454945,
+        "topCueIndex": 465,
+        "bottomCueIndex": 414
+      }
     }
   ]
 }
