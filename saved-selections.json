@@ -29205,6 +29205,158 @@
         "topCueIndex": 142,
         "bottomCueIndex": 170
       }
+    },
+    {
+      "id": "6adbb44a-ca8b-4160-9e54-f2af1d557e88",
+      "createdAt": "2026-05-16T22:07:38.954Z",
+      "videoName": "S2.E1 ∙ Bart Gets an F.mkv",
+      "audioTrackName": "S2.E1 ∙ Bart Gets an F.audio.eng.m4a",
+      "selectedText": "on the mend.",
+      "selection": {
+        "rawText": "on the mend.",
+        "startOffset": 19,
+        "endOffset": 31,
+        "cueIndex": 190,
+        "cueStart": 494.494,
+        "cueEnd": 495.87,
+        "cueText": "I think you may be\non the mend."
+      },
+      "bottomSubPath": "D:\\s02\\S2.E1 ∙ Bart Gets an F\\S2.E1 ∙ Bart Gets an F.subtitle.02.eng.English__SDH.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 180,
+            "start": 469.01,
+            "end": 472.221,
+            "text": "Sharp, stabbing pains\nin my stomach."
+          },
+          {
+            "index": 181,
+            "start": 472.305,
+            "end": 474.682,
+            "text": "Oh, dear.\nI've heard of this."
+          },
+          {
+            "index": 182,
+            "start": 474.765,
+            "end": 476.684,
+            "text": "Do you feel a shooting pain\nin your arm?"
+          },
+          {
+            "index": 183,
+            "start": 476.767,
+            "end": 478.394,
+            "text": "-Both arms, ma'am.\n-Mm-hmm."
+          },
+          {
+            "index": 184,
+            "start": 478.478,
+            "end": 479.937,
+            "text": "Temporary loss of vision?"
+          },
+          {
+            "index": 185,
+            "start": 480.021,
+            "end": 483.357,
+            "text": "Who said that?\nCome closer."
+          },
+          {
+            "index": 186,
+            "start": 485.61,
+            "end": 487.069,
+            "text": "-(bell ringing)\n-Yes, dear?"
+          },
+          {
+            "index": 187,
+            "start": 487.153,
+            "end": 490.615,
+            "text": "Ahh. Maybe, um,\none more dish."
+          },
+          {
+            "index": 188,
+            "start": 490.698,
+            "end": 492.408,
+            "text": "Make it double cappuccino\nchocolate fudge."
+          },
+          {
+            "index": 189,
+            "start": 492.492,
+            "end": 494.41,
+            "text": "Ooh, your third bowl."
+          },
+          {
+            "index": 190,
+            "start": 494.494,
+            "end": 495.87,
+            "text": "I think you may be\non the mend."
+          },
+          {
+            "index": 191,
+            "start": 495.953,
+            "end": 497.497,
+            "text": "Is there anything else\nI can get you?"
+          },
+          {
+            "index": 192,
+            "start": 497.58,
+            "end": 498.623,
+            "text": "Hmm..."
+          },
+          {
+            "index": 193,
+            "start": 498.706,
+            "end": 500.541,
+            "text": "Perhaps the TV?"
+          },
+          {
+            "index": 194,
+            "start": 500.625,
+            "end": 502.335,
+            "text": "Of course. Homer!"
+          },
+          {
+            "index": 195,
+            "start": 502.418,
+            "end": 504.795,
+            "text": "-What?\n-Bring the television up."
+          },
+          {
+            "index": 196,
+            "start": 504.879,
+            "end": 507.548,
+            "text": "-Bart's got his vision back.\n-D'oh!"
+          },
+          {
+            "index": 197,
+            "start": 507.632,
+            "end": 511.427,
+            "text": "(straining) I wish I had\namoria phlebitis."
+          },
+          {
+            "index": 198,
+            "start": 511.511,
+            "end": 513.304,
+            "text": "Everyone knows\nyou're faking it, Bart."
+          },
+          {
+            "index": 199,
+            "start": 513.387,
+            "end": 515.681,
+            "text": "Well, everyone better\nkeep their mouth shut."
+          },
+          {
+            "index": 200,
+            "start": 515.765,
+            "end": 517.85,
+            "text": "You're gonna have to fail that\nhistory test sooner or later."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 495.481465,
+        "topCueIndex": 157,
+        "bottomCueIndex": 190
+      }
     }
   ]
 }
