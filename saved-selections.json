@@ -27837,6 +27837,158 @@
         "topCueIndex": 117,
         "bottomCueIndex": 140
       }
+    },
+    {
+      "id": "f8e9918b-d823-4640-8855-5f158fdf3a24",
+      "createdAt": "2026-05-16T22:02:19.957Z",
+      "videoName": "S2.E1 ∙ Bart Gets an F.mkv",
+      "audioTrackName": "S2.E1 ∙ Bart Gets an F.audio.eng.m4a",
+      "selectedText": "on easy street.",
+      "selection": {
+        "rawText": "on easy street.",
+        "startOffset": 19,
+        "endOffset": 34,
+        "cueIndex": 144,
+        "cueStart": 384.384,
+        "cueEnd": 386.177,
+        "cueText": "and boom! I'm back\non easy street."
+      },
+      "bottomSubPath": "D:\\s02\\S2.E1 ∙ Bart Gets an F\\S2.E1 ∙ Bart Gets an F.subtitle.02.eng.English__SDH.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 134,
+            "start": 363.071,
+            "end": 364.822,
+            "text": "MARGE: Bart, honey"
+          },
+          {
+            "index": 135,
+            "start": 364.906,
+            "end": 366.366,
+            "text": "you're going\nto miss your bus."
+          },
+          {
+            "index": 136,
+            "start": 366.449,
+            "end": 367.909,
+            "text": "Uh-oh."
+          },
+          {
+            "index": 137,
+            "start": 367.992,
+            "end": 370.87,
+            "text": "Hey, Bart dude!\nOoh, you look freaked."
+          },
+          {
+            "index": 138,
+            "start": 370.953,
+            "end": 373.039,
+            "text": "Hey, Otto man, I've got a big test\nthat I am not ready for."
+          },
+          {
+            "index": 139,
+            "start": 373.122,
+            "end": 374.582,
+            "text": "Could you please\ncrash the bus or something?"
+          },
+          {
+            "index": 140,
+            "start": 374.665,
+            "end": 377.919,
+            "text": "Oh, sorry, little buddy.\nCan't do it on purpose."
+          },
+          {
+            "index": 141,
+            "start": 378.002,
+            "end": 379.712,
+            "text": "But hey, maybe\nyou'll get lucky."
+          },
+          {
+            "index": 142,
+            "start": 379.796,
+            "end": 381.297,
+            "text": "Okay, no reason to panic."
+          },
+          {
+            "index": 143,
+            "start": 381.381,
+            "end": 384.3,
+            "text": "Find an egghead,\npump him for some answers,"
+          },
+          {
+            "index": 144,
+            "start": 384.384,
+            "end": 386.177,
+            "text": "and boom! I'm back\non easy street."
+          },
+          {
+            "index": 145,
+            "start": 387.97,
+            "end": 389.389,
+            "text": "Oh-ho."
+          },
+          {
+            "index": 146,
+            "start": 389.472,
+            "end": 391.808,
+            "text": "Look at him.\nI bet he didn't study again."
+          },
+          {
+            "index": 147,
+            "start": 391.891,
+            "end": 394.811,
+            "text": "And now he's gonna try to\nkiss up and get answers from us."
+          },
+          {
+            "index": 148,
+            "start": 394.894,
+            "end": 396.813,
+            "text": "He's pathetic."
+          },
+          {
+            "index": 149,
+            "start": 396.896,
+            "end": 398.272,
+            "text": "Good morning, girls."
+          },
+          {
+            "index": 150,
+            "start": 398.356,
+            "end": 399.649,
+            "text": "BOTH: Good morning, Bart."
+          },
+          {
+            "index": 151,
+            "start": 399.732,
+            "end": 402.985,
+            "text": "Say, who's up\nfor a little cram session?"
+          },
+          {
+            "index": 152,
+            "start": 403.069,
+            "end": 406.364,
+            "text": "I'll go first. What was the name\nof the pilgrims' boat?"
+          },
+          {
+            "index": 153,
+            "start": 406.447,
+            "end": 408.408,
+            "text": "The Spirit\nof St. Louis."
+          },
+          {
+            "index": 154,
+            "start": 408.491,
+            "end": 411.327,
+            "text": "-And where'd they land?\n-Sunny Acapulco."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 385.158577,
+        "topCueIndex": 122,
+        "bottomCueIndex": 144
+      }
     }
   ]
 }
