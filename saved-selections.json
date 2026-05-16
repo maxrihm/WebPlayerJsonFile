@@ -28293,6 +28293,158 @@
         "topCueIndex": 128,
         "bottomCueIndex": 151
       }
+    },
+    {
+      "id": "3905397e-2735-492c-a01d-da62b0983aa5",
+      "createdAt": "2026-05-16T22:04:39.105Z",
+      "videoName": "S2.E1 ∙ Bart Gets an F.mkv",
+      "audioTrackName": "S2.E1 ∙ Bart Gets an F.audio.eng.m4a",
+      "selectedText": "pertaining",
+      "selection": {
+        "rawText": "pertaining",
+        "startOffset": 20,
+        "endOffset": 30,
+        "cueIndex": 161,
+        "cueStart": 423.756,
+        "cueEnd": 425.466,
+        "cueText": "but the information\npertaining to"
+      },
+      "bottomSubPath": "D:\\s02\\S2.E1 ∙ Bart Gets an F\\S2.E1 ∙ Bart Gets an F.subtitle.02.eng.English__SDH.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 151,
+            "start": 399.732,
+            "end": 402.985,
+            "text": "Say, who's up\nfor a little cram session?"
+          },
+          {
+            "index": 152,
+            "start": 403.069,
+            "end": 406.364,
+            "text": "I'll go first. What was the name\nof the pilgrims' boat?"
+          },
+          {
+            "index": 153,
+            "start": 406.447,
+            "end": 408.408,
+            "text": "The Spirit\nof St. Louis."
+          },
+          {
+            "index": 154,
+            "start": 408.491,
+            "end": 411.327,
+            "text": "-And where'd they land?\n-Sunny Acapulco."
+          },
+          {
+            "index": 155,
+            "start": 411.411,
+            "end": 412.328,
+            "text": "And why'd they\nleave England?"
+          },
+          {
+            "index": 156,
+            "start": 412.412,
+            "end": 414.497,
+            "text": "Giant rats."
+          },
+          {
+            "index": 157,
+            "start": 414.58,
+            "end": 416.374,
+            "text": "Cool! History's\ncoming alive."
+          },
+          {
+            "index": 158,
+            "start": 416.457,
+            "end": 417.959,
+            "text": "(girls giggling)"
+          },
+          {
+            "index": 159,
+            "start": 420.586,
+            "end": 422.046,
+            "text": "As a natural enemy,"
+          },
+          {
+            "index": 160,
+            "start": 422.13,
+            "end": 423.673,
+            "text": "I don't know\nwhy I should care,"
+          },
+          {
+            "index": 161,
+            "start": 423.756,
+            "end": 425.466,
+            "text": "but the information\npertaining to"
+          },
+          {
+            "index": 162,
+            "start": 425.55,
+            "end": 427.885,
+            "text": "America's colonial period\nthat you've just received"
+          },
+          {
+            "index": 163,
+            "start": 427.969,
+            "end": 429.679,
+            "text": "-is erroneous.\n-So you're saying..."
+          },
+          {
+            "index": 164,
+            "start": 429.762,
+            "end": 432.014,
+            "text": "A blindfolded chimp with\na pencil in his teeth"
+          },
+          {
+            "index": 165,
+            "start": 432.098,
+            "end": 434.35,
+            "text": "has a better chance\nof passing this test"
+          },
+          {
+            "index": 166,
+            "start": 434.434,
+            "end": 435.935,
+            "text": "-than you do.\n-(Bart groans)"
+          },
+          {
+            "index": 167,
+            "start": 436.018,
+            "end": 437.395,
+            "text": "-(school bell rings)\n-Thanks for the pep talk."
+          },
+          {
+            "index": 168,
+            "start": 439.355,
+            "end": 442.066,
+            "text": "All right students, take one\nand pass the rest back."
+          },
+          {
+            "index": 169,
+            "start": 442.15,
+            "end": 444.318,
+            "text": "(thinking)\nThink, Simpson, think."
+          },
+          {
+            "index": 170,
+            "start": 444.402,
+            "end": 446.487,
+            "text": "Crisis brings out\nthe best in you."
+          },
+          {
+            "index": 171,
+            "start": 446.571,
+            "end": 448.322,
+            "text": "(groaning)"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 424.611345,
+        "topCueIndex": 135,
+        "bottomCueIndex": 161
+      }
     }
   ]
 }
