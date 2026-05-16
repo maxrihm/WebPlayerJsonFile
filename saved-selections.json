@@ -26377,6 +26377,158 @@
         "topCueIndex": 458,
         "bottomCueIndex": 406
       }
+    },
+    {
+      "id": "9574600e-c5ca-450b-b9fd-fd13b53c5150",
+      "createdAt": "2026-05-16T21:33:16.476Z",
+      "videoName": "S4E19 - Murtaugh.mkv",
+      "audioTrackName": "S4E19 - Murtaugh.eng.m4a",
+      "selectedText": "beat down",
+      "selection": {
+        "rawText": "beat down",
+        "startOffset": 4,
+        "endOffset": 13,
+        "cueIndex": 407,
+        "cueStart": 1122.688,
+        "cueEnd": 1125.823,
+        "cueText": "got beat down even worse."
+      },
+      "bottomSubPath": "D:\\Как я встретил вашу маму\\S04\\S4E19 - Murtaugh\\S4E19 - Murtaugh.sub04.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 397,
+            "start": 1095.929,
+            "end": 1097.762,
+            "text": "Your way of\ncoaching is crazy!"
+          },
+          {
+            "index": 398,
+            "start": 1097.764,
+            "end": 1099.864,
+            "text": "LILY: Stop yelling at me!"
+          },
+          {
+            "index": 399,
+            "start": 1099.866,
+            "end": 1101.132,
+            "text": "MARSHALL: Sorry."
+          },
+          {
+            "index": 400,
+            "start": 1101.134,
+            "end": 1103.768,
+            "text": "But can I please do it\nmy way?"
+          },
+          {
+            "index": 401,
+            "start": 1103.77,
+            "end": 1110.108,
+            "text": "LILY: Fine, but I'm going\nto do it my way, too. I'm\ngetting my guitar."
+          },
+          {
+            "index": 402,
+            "start": 1110.909,
+            "end": 1113.678,
+            "text": "OLDER TED:\nI don't know if it was\nMarshall's tough attitude,"
+          },
+          {
+            "index": 403,
+            "start": 1113.68,
+            "end": 1114.745,
+            "text": "Lily's gentle encouragement"
+          },
+          {
+            "index": 404,
+            "start": 1114.747,
+            "end": 1117.115,
+            "text": "or some magical\ncombination of\nthe two,"
+          },
+          {
+            "index": 405,
+            "start": 1117.117,
+            "end": 1118.816,
+            "text": "but in the second\nhalf of that game,"
+          },
+          {
+            "index": 406,
+            "start": 1118.818,
+            "end": 1121.752,
+            "text": "that ragtag group of\nlittle firecrackers"
+          },
+          {
+            "index": 407,
+            "start": 1122.688,
+            "end": 1125.823,
+            "text": "got beat down even worse."
+          },
+          {
+            "index": 408,
+            "start": 1127.059,
+            "end": 1129.46,
+            "text": "In fact, according to\nyour uncle Marshall,"
+          },
+          {
+            "index": 409,
+            "start": 1129.462,
+            "end": 1132.163,
+            "text": "in the second half, the\nother team got even taller."
+          },
+          {
+            "index": 410,
+            "start": 1132.165,
+            "end": 1134.866,
+            "text": "And one of them\nturned into a Teen Wolf."
+          },
+          {
+            "index": 411,
+            "start": 1134.868,
+            "end": 1138.002,
+            "text": "Kenny!\nThere is a Teen\nWolf on the court!"
+          },
+          {
+            "index": 412,
+            "start": 1138.004,
+            "end": 1139.837,
+            "text": "That can't be legal."
+          },
+          {
+            "index": 413,
+            "start": 1139.839,
+            "end": 1141.973,
+            "text": "I know the Teen Wolf\nlooks different, kids,"
+          },
+          {
+            "index": 414,
+            "start": 1141.975,
+            "end": 1145.61,
+            "text": "but try to make\nsure he feels\nincluded."
+          },
+          {
+            "index": 415,
+            "start": 1148.68,
+            "end": 1150.615,
+            "text": "(HOWLING)"
+          },
+          {
+            "index": 416,
+            "start": 1153.819,
+            "end": 1155.653,
+            "text": "Oh, yeah!"
+          },
+          {
+            "index": 417,
+            "start": 1160.325,
+            "end": 1162.326,
+            "text": "(HOWLING)"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1123.651856,
+        "topCueIndex": 459,
+        "bottomCueIndex": 407
+      }
     }
   ]
 }
