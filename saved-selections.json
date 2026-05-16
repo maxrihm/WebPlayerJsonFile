@@ -27381,6 +27381,158 @@
         "topCueIndex": 8,
         "bottomCueIndex": 16
       }
+    },
+    {
+      "id": "00fb4fdc-0945-4141-888d-5501b3b7abce",
+      "createdAt": "2026-05-16T21:50:19.591Z",
+      "videoName": "S2.E1 ∙ Bart Gets an F.mkv",
+      "audioTrackName": "S2.E1 ∙ Bart Gets an F.audio.eng.m4a",
+      "selectedText": "dazzled.",
+      "selection": {
+        "rawText": "dazzled.",
+        "startOffset": 31,
+        "endOffset": 39,
+        "cueIndex": 34,
+        "cueStart": 128.503,
+        "cueEnd": 131.047,
+        "cueText": "Fellow students,\nprepare to be dazzled."
+      },
+      "bottomSubPath": "D:\\s02\\S2.E1 ∙ Bart Gets an F\\S2.E1 ∙ Bart Gets an F.subtitle.02.eng.English__SDH.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 24,
+            "start": 106.773,
+            "end": 109.359,
+            "text": "Oh, absolutely brilliant!"
+          },
+          {
+            "index": 25,
+            "start": 109.442,
+            "end": 111.861,
+            "text": "There were moments\nI truly believed"
+          },
+          {
+            "index": 26,
+            "start": 111.945,
+            "end": 113.988,
+            "text": "you were Hemingway.\nBravo, Martin."
+          },
+          {
+            "index": 27,
+            "start": 114.072,
+            "end": 115.865,
+            "text": "Oh, please,\ncall me Papa."
+          },
+          {
+            "index": 28,
+            "start": 115.949,
+            "end": 117.909,
+            "text": "A little ketchup\nfor your buns, Papa?"
+          },
+          {
+            "index": 29,
+            "start": 117.992,
+            "end": 119.202,
+            "text": "-Ooh!\n-All right, class, all right."
+          },
+          {
+            "index": 30,
+            "start": 119.285,
+            "end": 121.079,
+            "text": "I think we have time\nfor one more report."
+          },
+          {
+            "index": 31,
+            "start": 121.162,
+            "end": 122.622,
+            "text": "-Bart Simpson?\n-Oh!"
+          },
+          {
+            "index": 32,
+            "start": 122.705,
+            "end": 125.333,
+            "text": "Is your book report on\n\"Treasure Island\" ready?"
+          },
+          {
+            "index": 33,
+            "start": 125.416,
+            "end": 128.419,
+            "text": "Is it ready?\nHa! What a question."
+          },
+          {
+            "index": 34,
+            "start": 128.503,
+            "end": 131.047,
+            "text": "Fellow students,\nprepare to be dazzled."
+          },
+          {
+            "index": 35,
+            "start": 131.131,
+            "end": 133.883,
+            "text": "Well, as Mrs. Krabappel\nalready mentioned"
+          },
+          {
+            "index": 36,
+            "start": 133.967,
+            "end": 137.011,
+            "text": "the name of the book that\nI read was \"Treasure Island.\""
+          },
+          {
+            "index": 37,
+            "start": 137.095,
+            "end": 139.389,
+            "text": "It's about these... pirates."
+          },
+          {
+            "index": 38,
+            "start": 139.472,
+            "end": 142.809,
+            "text": "Pirates with patches\nover their eyes..."
+          },
+          {
+            "index": 39,
+            "start": 142.892,
+            "end": 144.435,
+            "text": "and shiny gold teeth..."
+          },
+          {
+            "index": 40,
+            "start": 144.519,
+            "end": 147.397,
+            "text": "and green birds\non their shoulders."
+          },
+          {
+            "index": 41,
+            "start": 148.898,
+            "end": 150.567,
+            "text": "Did I mention this book"
+          },
+          {
+            "index": 42,
+            "start": 150.65,
+            "end": 153.57,
+            "text": "was written by a guy named\nRobert Louis Stevenson?"
+          },
+          {
+            "index": 43,
+            "start": 153.653,
+            "end": 156.322,
+            "text": "And published by the good\npeople at McGraw-Hill."
+          },
+          {
+            "index": 44,
+            "start": 156.406,
+            "end": 158.074,
+            "text": "So, in conclusion"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 129.430539,
+        "topCueIndex": 26,
+        "bottomCueIndex": 34
+      }
     }
   ]
 }
