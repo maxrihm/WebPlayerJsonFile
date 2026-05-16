@@ -27229,6 +27229,158 @@
         "topCueIndex": 8,
         "bottomCueIndex": 16
       }
+    },
+    {
+      "id": "5beb0143-052e-4177-9356-715a931f6629",
+      "createdAt": "2026-05-16T21:49:15.177Z",
+      "videoName": "S2.E1 ∙ Bart Gets an F.mkv",
+      "audioTrackName": "S2.E1 ∙ Bart Gets an F.audio.eng.m4a",
+      "selectedText": "greater",
+      "selection": {
+        "rawText": "greater",
+        "startOffset": 3,
+        "endOffset": 10,
+        "cueIndex": 16,
+        "cueStart": 89.38,
+        "cueEnd": 92.133,
+        "cueText": "\"a greater or more noble\nthing than you, brother."
+      },
+      "bottomSubPath": "D:\\s02\\S2.E1 ∙ Bart Gets an F\\S2.E1 ∙ Bart Gets an F.subtitle.02.eng.English__SDH.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 6,
+            "start": 53.553,
+            "end": 55.096,
+            "text": "(tires screeching)"
+          },
+          {
+            "index": 7,
+            "start": 58.516,
+            "end": 59.809,
+            "text": "(horn honks)"
+          },
+          {
+            "index": 8,
+            "start": 61.186,
+            "end": 62.187,
+            "text": "(tires screech)"
+          },
+          {
+            "index": 9,
+            "start": 65.44,
+            "end": 67.65,
+            "text": "-Aah!\n-(tires screech)"
+          },
+          {
+            "index": 10,
+            "start": 70.445,
+            "end": 71.905,
+            "text": "HOMER: D'oh!"
+          },
+          {
+            "index": 11,
+            "start": 81.873,
+            "end": 83.291,
+            "text": "-MRS. KRABAPPEL: Bart.\n-BART: Huh?"
+          },
+          {
+            "index": 12,
+            "start": 83.374,
+            "end": 84.334,
+            "text": "MRS. KRABAPPEL: There will be\nno further interruptions"
+          },
+          {
+            "index": 13,
+            "start": 84.417,
+            "end": 85.627,
+            "text": "during Martin's book report."
+          },
+          {
+            "index": 14,
+            "start": 85.71,
+            "end": 87.754,
+            "text": "MARTIN:\n\"You're killing me, fish."
+          },
+          {
+            "index": 15,
+            "start": 87.837,
+            "end": 89.297,
+            "text": "\"Never have I seen"
+          },
+          {
+            "index": 16,
+            "start": 89.38,
+            "end": 92.133,
+            "text": "\"a greater or more noble\nthing than you, brother."
+          },
+          {
+            "index": 17,
+            "start": 92.217,
+            "end": 93.76,
+            "text": "\"Come on and kill me."
+          },
+          {
+            "index": 18,
+            "start": 93.843,
+            "end": 96.846,
+            "text": "\"I do not care\nwho kills who."
+          },
+          {
+            "index": 19,
+            "start": 96.93,
+            "end": 98.306,
+            "text": "\"To catch a fish."
+          },
+          {
+            "index": 20,
+            "start": 98.389,
+            "end": 100.058,
+            "text": "\"To kill a bull."
+          },
+          {
+            "index": 21,
+            "start": 100.141,
+            "end": 102.06,
+            "text": "\"To make love to a woman."
+          },
+          {
+            "index": 22,
+            "start": 102.936,
+            "end": 105.23,
+            "text": "To live.\""
+          },
+          {
+            "index": 23,
+            "start": 105.313,
+            "end": 106.689,
+            "text": "I thank you."
+          },
+          {
+            "index": 24,
+            "start": 106.773,
+            "end": 109.359,
+            "text": "Oh, absolutely brilliant!"
+          },
+          {
+            "index": 25,
+            "start": 109.442,
+            "end": 111.861,
+            "text": "There were moments\nI truly believed"
+          },
+          {
+            "index": 26,
+            "start": 111.945,
+            "end": 113.988,
+            "text": "you were Hemingway.\nBravo, Martin."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 89.746017,
+        "topCueIndex": 8,
+        "bottomCueIndex": 16
+      }
     }
   ]
 }
