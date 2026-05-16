@@ -25313,6 +25313,158 @@
         "topCueIndex": 354,
         "bottomCueIndex": 322
       }
+    },
+    {
+      "id": "af6c0f12-ad02-465f-9588-143c52deb409",
+      "createdAt": "2026-05-16T21:21:49.699Z",
+      "videoName": "S4E19 - Murtaugh.mkv",
+      "audioTrackName": "S4E19 - Murtaugh.eng.m4a",
+      "selectedText": "Way to",
+      "selection": {
+        "rawText": "Way to",
+        "startOffset": 5,
+        "endOffset": 11,
+        "cueIndex": 327,
+        "cueStart": 891.724,
+        "cueEnd": 895.159,
+        "cueText": "Yay!\nWay to let them\nscore that easily."
+      },
+      "bottomSubPath": "D:\\Как я встретил вашу маму\\S04\\S4E19 - Murtaugh\\S4E19 - Murtaugh.sub04.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 317,
+            "start": 855.789,
+            "end": 859.591,
+            "text": "And I apologize for that."
+          },
+          {
+            "index": 318,
+            "start": 859.593,
+            "end": 863.061,
+            "text": "So today,\nwe're not gonna\nworry about winning."
+          },
+          {
+            "index": 319,
+            "start": 863.063,
+            "end": 866.931,
+            "text": "We're gonna go out\nthere and have fun."
+          },
+          {
+            "index": 320,
+            "start": 866.933,
+            "end": 868.032,
+            "text": "(WHISTLE BLOWS)"
+          },
+          {
+            "index": 321,
+            "start": 868.034,
+            "end": 869.167,
+            "text": "OLDER TED:\nKids, over the years,"
+          },
+          {
+            "index": 322,
+            "start": 869.169,
+            "end": 870.735,
+            "text": "your uncle Marshall\nhas told and retold"
+          },
+          {
+            "index": 323,
+            "start": 870.737,
+            "end": 872.337,
+            "text": "the story of this\ngame hundreds of\ntimes."
+          },
+          {
+            "index": 324,
+            "start": 872.339,
+            "end": 876.207,
+            "text": "And in reality, the\nkids on that other team were\nprobably only a grade older."
+          },
+          {
+            "index": 325,
+            "start": 876.209,
+            "end": 881.579,
+            "text": "But in telling\nand retelling the story,\nthey came to look like this."
+          },
+          {
+            "index": 326,
+            "start": 887.486,
+            "end": 889.32,
+            "text": "(WHISTLE BLOWS)"
+          },
+          {
+            "index": 327,
+            "start": 891.724,
+            "end": 895.159,
+            "text": "Yay!\nWay to let them\nscore that easily."
+          },
+          {
+            "index": 328,
+            "start": 895.161,
+            "end": 898.396,
+            "text": "Now you're sitting down.\nAwesome."
+          },
+          {
+            "index": 329,
+            "start": 902.735,
+            "end": 906.771,
+            "text": "Addison, it's not soccer.\nYou don't kick the ball!"
+          },
+          {
+            "index": 330,
+            "start": 907.506,
+            "end": 909.908,
+            "text": "Unless\nthat's something\nthat you think is fun,"
+          },
+          {
+            "index": 331,
+            "start": 909.91,
+            "end": 913.645,
+            "text": "in which case,\ngreat job having fun."
+          },
+          {
+            "index": 332,
+            "start": 916.649,
+            "end": 918.883,
+            "text": "Whoa,\nthat was a foul,\nwasn't it, ref?"
+          },
+          {
+            "index": 333,
+            "start": 918.885,
+            "end": 920.518,
+            "text": "My name's not Ref. It's Kenny."
+          },
+          {
+            "index": 334,
+            "start": 920.52,
+            "end": 921.853,
+            "text": "And watch your tone."
+          },
+          {
+            "index": 335,
+            "start": 921.855,
+            "end": 924.055,
+            "text": "No tone, Kenny.\nGreat job, Kenny."
+          },
+          {
+            "index": 336,
+            "start": 924.057,
+            "end": 927.558,
+            "text": "Thanks a lot, Kenny.\nSee you later, Kenny."
+          },
+          {
+            "index": 337,
+            "start": 927.56,
+            "end": 931.229,
+            "text": "All right,\nBarney. As your manager,\nI'm throwing in the towel."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 892.679834,
+        "topCueIndex": 362,
+        "bottomCueIndex": 327
+      }
     }
   ]
 }
