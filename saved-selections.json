@@ -27533,6 +27533,158 @@
         "topCueIndex": 26,
         "bottomCueIndex": 34
       }
+    },
+    {
+      "id": "0e4d2e0d-9b61-47c3-a267-3765c3571593",
+      "createdAt": "2026-05-16T21:55:53.827Z",
+      "videoName": "S2.E1 ∙ Bart Gets an F.mkv",
+      "audioTrackName": "S2.E1 ∙ Bart Gets an F.audio.eng.m4a",
+      "selectedText": "down to business.",
+      "selection": {
+        "rawText": "down to business.",
+        "startOffset": 31,
+        "endOffset": 48,
+        "cueIndex": 88,
+        "cueStart": 257.423,
+        "cueEnd": 260.635,
+        "cueText": "Okay, right after dinner,\nit's down to business."
+      },
+      "bottomSubPath": "D:\\s02\\S2.E1 ∙ Bart Gets an F\\S2.E1 ∙ Bart Gets an F.subtitle.02.eng.English__SDH.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 78,
+            "start": 226.893,
+            "end": 228.394,
+            "text": "Try again, if you dare."
+          },
+          {
+            "index": 79,
+            "start": 228.478,
+            "end": 229.979,
+            "text": "(granny giggling)"
+          },
+          {
+            "index": 80,
+            "start": 230.063,
+            "end": 232.065,
+            "text": "(evil laugh)"
+          },
+          {
+            "index": 81,
+            "start": 232.148,
+            "end": 234.651,
+            "text": "Just a couple more games\nand I'll hit the books."
+          },
+          {
+            "index": 82,
+            "start": 236.694,
+            "end": 239.03,
+            "text": "♪♪"
+          },
+          {
+            "index": 83,
+            "start": 244.41,
+            "end": 245.495,
+            "text": "(laughing)"
+          },
+          {
+            "index": 84,
+            "start": 250.208,
+            "end": 251.751,
+            "text": "(laughing)"
+          },
+          {
+            "index": 85,
+            "start": 251.834,
+            "end": 253.544,
+            "text": "Soup's on!\nHurry up,"
+          },
+          {
+            "index": 86,
+            "start": 253.628,
+            "end": 255.38,
+            "text": "or it will get that\nicky skin on the top."
+          },
+          {
+            "index": 87,
+            "start": 255.463,
+            "end": 257.34,
+            "text": "Ew, I hate that\nicky soup skin."
+          },
+          {
+            "index": 88,
+            "start": 257.423,
+            "end": 260.635,
+            "text": "Okay, right after dinner,\nit's down to business."
+          },
+          {
+            "index": 89,
+            "start": 260.718,
+            "end": 263.012,
+            "text": "Hmm. Marge, could you get me\nanother beer, please?"
+          },
+          {
+            "index": 90,
+            "start": 263.096,
+            "end": 265.473,
+            "text": "In a second, Homer.\nLisa has some good news."
+          },
+          {
+            "index": 91,
+            "start": 265.556,
+            "end": 266.766,
+            "text": "He doesn't care, Mom."
+          },
+          {
+            "index": 92,
+            "start": 266.849,
+            "end": 268.101,
+            "text": "Sure I do."
+          },
+          {
+            "index": 93,
+            "start": 268.184,
+            "end": 269.727,
+            "text": "I just want to have a beer\nwhile I'm caring."
+          },
+          {
+            "index": 94,
+            "start": 269.811,
+            "end": 271.437,
+            "text": "-Marge?\n-Homer!"
+          },
+          {
+            "index": 95,
+            "start": 271.521,
+            "end": 273.356,
+            "text": "-(gasps)\n-Go ahead, Lisa."
+          },
+          {
+            "index": 96,
+            "start": 273.439,
+            "end": 274.732,
+            "text": "Well, okay."
+          },
+          {
+            "index": 97,
+            "start": 274.816,
+            "end": 276.693,
+            "text": "I got an \"A\"\non my vocabulary test."
+          },
+          {
+            "index": 98,
+            "start": 276.776,
+            "end": 279.112,
+            "text": "(gasps) What?\nYou did?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 259.265806,
+        "topCueIndex": 72,
+        "bottomCueIndex": 88
+      }
     }
   ]
 }
