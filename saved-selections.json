@@ -27685,6 +27685,158 @@
         "topCueIndex": 72,
         "bottomCueIndex": 88
       }
+    },
+    {
+      "id": "50398d51-1f3f-40b4-9470-d5a4cb388073",
+      "createdAt": "2026-05-16T22:01:39.392Z",
+      "videoName": "S2.E1 ∙ Bart Gets an F.mkv",
+      "audioTrackName": "S2.E1 ∙ Bart Gets an F.audio.eng.m4a",
+      "selectedText": "on purpose.",
+      "selection": {
+        "rawText": "on purpose.",
+        "startOffset": 37,
+        "endOffset": 48,
+        "cueIndex": 140,
+        "cueStart": 374.665,
+        "cueEnd": 377.919,
+        "cueText": "Oh, sorry, little buddy.\nCan't do it on purpose."
+      },
+      "bottomSubPath": "D:\\s02\\S2.E1 ∙ Bart Gets an F\\S2.E1 ∙ Bart Gets an F.subtitle.02.eng.English__SDH.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 130,
+            "start": 351.559,
+            "end": 353.561,
+            "text": "Come take a look at this."
+          },
+          {
+            "index": 131,
+            "start": 353.644,
+            "end": 357.398,
+            "text": "Oh, the little tiger\ntries so hard."
+          },
+          {
+            "index": 132,
+            "start": 357.482,
+            "end": 359.317,
+            "text": "Why does he\nkeep failing?"
+          },
+          {
+            "index": 133,
+            "start": 359.4,
+            "end": 361.694,
+            "text": "Just a little dim,\nI guess."
+          },
+          {
+            "index": 134,
+            "start": 363.071,
+            "end": 364.822,
+            "text": "MARGE: Bart, honey"
+          },
+          {
+            "index": 135,
+            "start": 364.906,
+            "end": 366.366,
+            "text": "you're going\nto miss your bus."
+          },
+          {
+            "index": 136,
+            "start": 366.449,
+            "end": 367.909,
+            "text": "Uh-oh."
+          },
+          {
+            "index": 137,
+            "start": 367.992,
+            "end": 370.87,
+            "text": "Hey, Bart dude!\nOoh, you look freaked."
+          },
+          {
+            "index": 138,
+            "start": 370.953,
+            "end": 373.039,
+            "text": "Hey, Otto man, I've got a big test\nthat I am not ready for."
+          },
+          {
+            "index": 139,
+            "start": 373.122,
+            "end": 374.582,
+            "text": "Could you please\ncrash the bus or something?"
+          },
+          {
+            "index": 140,
+            "start": 374.665,
+            "end": 377.919,
+            "text": "Oh, sorry, little buddy.\nCan't do it on purpose."
+          },
+          {
+            "index": 141,
+            "start": 378.002,
+            "end": 379.712,
+            "text": "But hey, maybe\nyou'll get lucky."
+          },
+          {
+            "index": 142,
+            "start": 379.796,
+            "end": 381.297,
+            "text": "Okay, no reason to panic."
+          },
+          {
+            "index": 143,
+            "start": 381.381,
+            "end": 384.3,
+            "text": "Find an egghead,\npump him for some answers,"
+          },
+          {
+            "index": 144,
+            "start": 384.384,
+            "end": 386.177,
+            "text": "and boom! I'm back\non easy street."
+          },
+          {
+            "index": 145,
+            "start": 387.97,
+            "end": 389.389,
+            "text": "Oh-ho."
+          },
+          {
+            "index": 146,
+            "start": 389.472,
+            "end": 391.808,
+            "text": "Look at him.\nI bet he didn't study again."
+          },
+          {
+            "index": 147,
+            "start": 391.891,
+            "end": 394.811,
+            "text": "And now he's gonna try to\nkiss up and get answers from us."
+          },
+          {
+            "index": 148,
+            "start": 394.894,
+            "end": 396.813,
+            "text": "He's pathetic."
+          },
+          {
+            "index": 149,
+            "start": 396.896,
+            "end": 398.272,
+            "text": "Good morning, girls."
+          },
+          {
+            "index": 150,
+            "start": 398.356,
+            "end": 399.649,
+            "text": "BOTH: Good morning, Bart."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 374.665,
+        "topCueIndex": 117,
+        "bottomCueIndex": 140
+      }
     }
   ]
 }
