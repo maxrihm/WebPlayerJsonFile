@@ -26833,6 +26833,128 @@
         "topCueIndex": 481,
         "bottomCueIndex": 430
       }
+    },
+    {
+      "id": "2b3b9c44-e17c-4ec9-b610-327e3219e18e",
+      "createdAt": "2026-05-16T21:38:18.785Z",
+      "videoName": "S4E19 - Murtaugh.mkv",
+      "audioTrackName": "S4E19 - Murtaugh.eng.m4a",
+      "selectedText": "reinstated,",
+      "selection": {
+        "rawText": "reinstated,",
+        "startOffset": 7,
+        "endOffset": 18,
+        "cueIndex": 440,
+        "cueStart": 1238.538,
+        "cueEnd": 1242.773,
+        "cueText": "You're reinstated,\neffective immediately."
+      },
+      "bottomSubPath": "D:\\Как я встретил вашу маму\\S04\\S4E19 - Murtaugh\\S4E19 - Murtaugh.sub04.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 430,
+            "start": 1198.464,
+            "end": 1200.498,
+            "text": "to be\nappreciated\nfor my effort."
+          },
+          {
+            "index": 431,
+            "start": 1200.5,
+            "end": 1202.633,
+            "text": "I know, baby."
+          },
+          {
+            "index": 432,
+            "start": 1205.604,
+            "end": 1209.507,
+            "text": "Maybe your way is\nnot totally stupid."
+          },
+          {
+            "index": 433,
+            "start": 1209.509,
+            "end": 1210.708,
+            "text": "Thanks."
+          },
+          {
+            "index": 434,
+            "start": 1210.71,
+            "end": 1213.644,
+            "text": "Your way is\ntotally stupid."
+          },
+          {
+            "index": 435,
+            "start": 1219.651,
+            "end": 1220.818,
+            "text": "Ow!"
+          },
+          {
+            "index": 436,
+            "start": 1220.82,
+            "end": 1222.753,
+            "text": "McCRACKEN: Stinson!"
+          },
+          {
+            "index": 437,
+            "start": 1225.524,
+            "end": 1226.49,
+            "text": "Son,"
+          },
+          {
+            "index": 438,
+            "start": 1226.492,
+            "end": 1231.662,
+            "text": "you have been a pain in\nmy ass ever since you\njoined this club."
+          },
+          {
+            "index": 439,
+            "start": 1231.664,
+            "end": 1238.536,
+            "text": "But damn it, if this ain't\nsome of the finest TP\nwork I've ever seen."
+          },
+          {
+            "index": 440,
+            "start": 1238.538,
+            "end": 1242.773,
+            "text": "You're reinstated,\neffective immediately."
+          },
+          {
+            "index": 441,
+            "start": 1242.775,
+            "end": 1244.041,
+            "text": "Really?"
+          },
+          {
+            "index": 442,
+            "start": 1246.411,
+            "end": 1250.114,
+            "text": "Hell, no!\nI'm calling the police!"
+          },
+          {
+            "index": 443,
+            "start": 1250.116,
+            "end": 1252.95,
+            "text": "Grown-ass\nman with pink hair\nthrowing toilet paper."
+          },
+          {
+            "index": 444,
+            "start": 1252.952,
+            "end": 1255.052,
+            "text": "You've got\nto be kidding me,\nI'm too old for this..."
+          },
+          {
+            "index": 445,
+            "start": 1255.054,
+            "end": 1259.09,
+            "text": "OLDER TED: Stuff,\nhe said, \"Stuff.\""
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1240.980144,
+        "topCueIndex": 490,
+        "bottomCueIndex": 440
+      }
     }
   ]
 }
