@@ -29965,6 +29965,158 @@
         "topCueIndex": 35,
         "bottomCueIndex": 31
       }
+    },
+    {
+      "id": "ea5c93dd-460a-4d97-919d-afd3a1f6cb87",
+      "createdAt": "2026-06-01T23:13:28.859Z",
+      "videoName": "The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.mkv",
+      "audioTrackName": "The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.audio.eng.m4a",
+      "selectedText": "built right into it.",
+      "selection": {
+        "rawText": "built right into it.",
+        "startOffset": 18,
+        "endOffset": 38,
+        "cueIndex": 44,
+        "cueStart": 275.401,
+        "cueEnd": 278.112,
+        "cueText": "But it's got that built right into it."
+      },
+      "bottomSubPath": "F:\\The.Sopranos.S01.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.sub02.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 34,
+            "start": 246.956,
+            "end": 250,
+            "text": "I remember, in a little gallery\nin Provincetown."
+          },
+          {
+            "index": 35,
+            "start": 250.209,
+            "end": 253.42,
+            "text": "That is a special-made\npsychological picture."
+          },
+          {
+            "index": 36,
+            "start": 253.629,
+            "end": 256.382,
+            "text": "Like that what-do-you-call-it test."
+          },
+          {
+            "index": 37,
+            "start": 258.467,
+            "end": 260.094,
+            "text": "The Korschach."
+          },
+          {
+            "index": 38,
+            "start": 260.886,
+            "end": 262.346,
+            "text": "You think I want to trick you?"
+          },
+          {
+            "index": 39,
+            "start": 262.554,
+            "end": 264.848,
+            "text": "- Oh, no.\n- What does that picture say?"
+          },
+          {
+            "index": 40,
+            "start": 265.057,
+            "end": 267.601,
+            "text": "\"We're from Harvard,\nand what do you think of..."
+          },
+          {
+            "index": 41,
+            "start": 267.81,
+            "end": 271.021,
+            "text": "...this depressing barn\nand this rotted-out tree here?\""
+          },
+          {
+            "index": 42,
+            "start": 271.522,
+            "end": 273.399,
+            "text": "It's depressing and scary to you?"
+          },
+          {
+            "index": 43,
+            "start": 273.607,
+            "end": 275.109,
+            "text": "Not to me."
+          },
+          {
+            "index": 44,
+            "start": 275.401,
+            "end": 278.112,
+            "text": "But it's got that built right into it."
+          },
+          {
+            "index": 45,
+            "start": 279.697,
+            "end": 280.823,
+            "text": "How are things?"
+          },
+          {
+            "index": 46,
+            "start": 281.031,
+            "end": 282.408,
+            "text": "Good."
+          },
+          {
+            "index": 47,
+            "start": 283.325,
+            "end": 285.119,
+            "text": "I had a real good week."
+          },
+          {
+            "index": 48,
+            "start": 286.62,
+            "end": 288.497,
+            "text": "A friend's in the hospital."
+          },
+          {
+            "index": 49,
+            "start": 288.747,
+            "end": 290.749,
+            "text": "That's never pleasant, but..."
+          },
+          {
+            "index": 50,
+            "start": 291.375,
+            "end": 293.544,
+            "text": "Otherwise, I'm having a good week."
+          },
+          {
+            "index": 51,
+            "start": 293.752,
+            "end": 296.213,
+            "text": "- What's he in for?\n- They thought it was an ulcer."
+          },
+          {
+            "index": 52,
+            "start": 296.422,
+            "end": 298.299,
+            "text": "You know, then this, then that."
+          },
+          {
+            "index": 53,
+            "start": 298.507,
+            "end": 300.509,
+            "text": "- You're worried about him?\n- Jackie?"
+          },
+          {
+            "index": 54,
+            "start": 300.718,
+            "end": 304.054,
+            "text": "Jackie's so fucking mean,\nhe'll scare that cancer away."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 275.401,
+        "topCueIndex": 48,
+        "bottomCueIndex": 44
+      }
     }
   ]
 }
