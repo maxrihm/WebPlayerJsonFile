@@ -31637,6 +31637,158 @@
         "topCueIndex": 125,
         "bottomCueIndex": 114
       }
+    },
+    {
+      "id": "df5723b8-a1d0-41e5-889b-09057e651254",
+      "createdAt": "2026-06-01T23:33:39.963Z",
+      "videoName": "The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.mkv",
+      "audioTrackName": "The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.audio.eng.m4a",
+      "selectedText": "till after",
+      "selection": {
+        "rawText": "till after",
+        "startOffset": 18,
+        "endOffset": 28,
+        "cueIndex": 124,
+        "cueStart": 535.744,
+        "cueEnd": 538.08,
+        "cueText": "So we don't sleep till after the SATs."
+      },
+      "bottomSubPath": "F:\\The.Sopranos.S01.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.sub02.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 114,
+            "start": 503.086,
+            "end": 507.674,
+            "text": "Miss Marris, we're exhausted from\nstudying for SATs. We were up past 2."
+          },
+          {
+            "index": 115,
+            "start": 507.883,
+            "end": 509.927,
+            "text": "- Are you her lawyer?\n- No."
+          },
+          {
+            "index": 116,
+            "start": 510.177,
+            "end": 512.554,
+            "text": "Why they'd schedule SATs\nthe same week..."
+          },
+          {
+            "index": 117,
+            "start": 512.763,
+            "end": 514.723,
+            "text": "- Same day.\n- What?"
+          },
+          {
+            "index": 118,
+            "start": 517.518,
+            "end": 521.313,
+            "text": "If we're kicked out of Concert Singers,\nwe lose our best extracurricular."
+          },
+          {
+            "index": 119,
+            "start": 521.563,
+            "end": 524.107,
+            "text": "Goodbye, Berkeley.\nHello, Glassboro State."
+          },
+          {
+            "index": 120,
+            "start": 524.316,
+            "end": 529.321,
+            "text": "I cannot wait until all of North America\nis between me and Tony and Carmela."
+          },
+          {
+            "index": 121,
+            "start": 529.53,
+            "end": 530.822,
+            "text": "New Jersey blows."
+          },
+          {
+            "index": 122,
+            "start": 531.073,
+            "end": 533.116,
+            "text": "I want to go to Berkeley so bad."
+          },
+          {
+            "index": 123,
+            "start": 533.367,
+            "end": 535.494,
+            "text": "The whole East, I can't deal anymore."
+          },
+          {
+            "index": 124,
+            "start": 535.744,
+            "end": 538.08,
+            "text": "So we don't sleep till after the SATs."
+          },
+          {
+            "index": 125,
+            "start": 538.33,
+            "end": 540.999,
+            "text": "Don't mind the mess.\nI wasn't expecting company."
+          },
+          {
+            "index": 126,
+            "start": 541.25,
+            "end": 543.293,
+            "text": "I couldn't wait.\nI had to see the new house."
+          },
+          {
+            "index": 127,
+            "start": 543.502,
+            "end": 546.421,
+            "text": "- Where's King Arthur?\n- Downstairs. This plumbing!"
+          },
+          {
+            "index": 128,
+            "start": 546.63,
+            "end": 548.09,
+            "text": "- Here?\n- Yeah."
+          },
+          {
+            "index": 129,
+            "start": 550.05,
+            "end": 553.095,
+            "text": "Oh, I love the coziness."
+          },
+          {
+            "index": 130,
+            "start": 554.012,
+            "end": 556.014,
+            "text": "Welcome to the neighborhood."
+          },
+          {
+            "index": 131,
+            "start": 556.223,
+            "end": 558.976,
+            "text": "Well, the school district, anyway."
+          },
+          {
+            "index": 132,
+            "start": 559.226,
+            "end": 561.853,
+            "text": "Carm, you did not have to do this."
+          },
+          {
+            "index": 133,
+            "start": 562.604,
+            "end": 565.774,
+            "text": "I mean, we don't see each other\nlike we used to..."
+          },
+          {
+            "index": 134,
+            "start": 565.983,
+            "end": 568.11,
+            "text": "I want that to change."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 536.903436,
+        "topCueIndex": 137,
+        "bottomCueIndex": 124
+      }
     }
   ]
 }
