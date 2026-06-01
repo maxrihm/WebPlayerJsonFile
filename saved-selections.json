@@ -30117,6 +30117,158 @@
         "topCueIndex": 48,
         "bottomCueIndex": 44
       }
+    },
+    {
+      "id": "99b4f31a-68e8-4e14-9981-4a66dda3de9a",
+      "createdAt": "2026-06-01T23:14:50.478Z",
+      "videoName": "The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.mkv",
+      "audioTrackName": "The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.audio.eng.m4a",
+      "selectedText": "pleasant,",
+      "selection": {
+        "rawText": "pleasant,",
+        "startOffset": 13,
+        "endOffset": 22,
+        "cueIndex": 49,
+        "cueStart": 288.747,
+        "cueEnd": 290.749,
+        "cueText": "That's never pleasant, but..."
+      },
+      "bottomSubPath": "F:\\The.Sopranos.S01.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.sub02.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 39,
+            "start": 262.554,
+            "end": 264.848,
+            "text": "- Oh, no.\n- What does that picture say?"
+          },
+          {
+            "index": 40,
+            "start": 265.057,
+            "end": 267.601,
+            "text": "\"We're from Harvard,\nand what do you think of..."
+          },
+          {
+            "index": 41,
+            "start": 267.81,
+            "end": 271.021,
+            "text": "...this depressing barn\nand this rotted-out tree here?\""
+          },
+          {
+            "index": 42,
+            "start": 271.522,
+            "end": 273.399,
+            "text": "It's depressing and scary to you?"
+          },
+          {
+            "index": 43,
+            "start": 273.607,
+            "end": 275.109,
+            "text": "Not to me."
+          },
+          {
+            "index": 44,
+            "start": 275.401,
+            "end": 278.112,
+            "text": "But it's got that built right into it."
+          },
+          {
+            "index": 45,
+            "start": 279.697,
+            "end": 280.823,
+            "text": "How are things?"
+          },
+          {
+            "index": 46,
+            "start": 281.031,
+            "end": 282.408,
+            "text": "Good."
+          },
+          {
+            "index": 47,
+            "start": 283.325,
+            "end": 285.119,
+            "text": "I had a real good week."
+          },
+          {
+            "index": 48,
+            "start": 286.62,
+            "end": 288.497,
+            "text": "A friend's in the hospital."
+          },
+          {
+            "index": 49,
+            "start": 288.747,
+            "end": 290.749,
+            "text": "That's never pleasant, but..."
+          },
+          {
+            "index": 50,
+            "start": 291.375,
+            "end": 293.544,
+            "text": "Otherwise, I'm having a good week."
+          },
+          {
+            "index": 51,
+            "start": 293.752,
+            "end": 296.213,
+            "text": "- What's he in for?\n- They thought it was an ulcer."
+          },
+          {
+            "index": 52,
+            "start": 296.422,
+            "end": 298.299,
+            "text": "You know, then this, then that."
+          },
+          {
+            "index": 53,
+            "start": 298.507,
+            "end": 300.509,
+            "text": "- You're worried about him?\n- Jackie?"
+          },
+          {
+            "index": 54,
+            "start": 300.718,
+            "end": 304.054,
+            "text": "Jackie's so fucking mean,\nhe'll scare that cancer away."
+          },
+          {
+            "index": 55,
+            "start": 304.471,
+            "end": 306.098,
+            "text": "Your friend has cancer?"
+          },
+          {
+            "index": 56,
+            "start": 309.81,
+            "end": 313.314,
+            "text": "Jackie, when they hook you up,\ndo you make sure they don't have..."
+          },
+          {
+            "index": 57,
+            "start": 313.564,
+            "end": 315.899,
+            "text": "...air in your veins,\nor is that just bullshit?"
+          },
+          {
+            "index": 58,
+            "start": 316.108,
+            "end": 317.234,
+            "text": "What do you mean?"
+          },
+          {
+            "index": 59,
+            "start": 317.484,
+            "end": 321.864,
+            "text": "This is a good hospital, sweetheart.\nNothing like that's gonna happen here."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 289.254346,
+        "topCueIndex": 52,
+        "bottomCueIndex": 49
+      }
     }
   ]
 }
