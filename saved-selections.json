@@ -31181,6 +31181,158 @@
         "topCueIndex": 97,
         "bottomCueIndex": 90
       }
+    },
+    {
+      "id": "fa9f54c2-9f00-422d-b69b-3856d239d291",
+      "createdAt": "2026-06-01T23:30:47.572Z",
+      "videoName": "The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.mkv",
+      "audioTrackName": "The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.audio.eng.m4a",
+      "selectedText": "cue.",
+      "selection": {
+        "rawText": "cue.",
+        "startOffset": 42,
+        "endOffset": 46,
+        "cueIndex": 113,
+        "cueStart": 500.083,
+        "cueEnd": 502.878,
+        "cueText": "That crash was Meadow Soprano\njumping her cue."
+      },
+      "bottomSubPath": "F:\\The.Sopranos.S01.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.sub02.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 103,
+            "start": 445.654,
+            "end": 448.49,
+            "text": "It's taboo for their religion."
+          },
+          {
+            "index": 104,
+            "start": 448.699,
+            "end": 450.075,
+            "text": "You know about this shit?"
+          },
+          {
+            "index": 105,
+            "start": 450.325,
+            "end": 454.413,
+            "text": "Run. Trust me. You don't want\nto do business with these people."
+          },
+          {
+            "index": 106,
+            "start": 454.621,
+            "end": 457.958,
+            "text": "He said there's 25 large in it\nif we can get him this get."
+          },
+          {
+            "index": 107,
+            "start": 458.167,
+            "end": 459.501,
+            "text": "There's a saying amongst Jews:"
+          },
+          {
+            "index": 108,
+            "start": 459.751,
+            "end": 462.796,
+            "text": "\"When a Jew gets a divorce,\neven the altar sheds tears.\""
+          },
+          {
+            "index": 109,
+            "start": 463.046,
+            "end": 464.84,
+            "text": "All right, I heard enough."
+          },
+          {
+            "index": 110,
+            "start": 465.799,
+            "end": 467.759,
+            "text": "Look, I'm getting kind of tired."
+          },
+          {
+            "index": 111,
+            "start": 469.011,
+            "end": 470.804,
+            "text": "Let's go get a cup of coffee."
+          },
+          {
+            "index": 112,
+            "start": 471.346,
+            "end": 473.515,
+            "text": "See you later, Jackie.\nTake care."
+          },
+          {
+            "index": 113,
+            "start": 500.083,
+            "end": 502.878,
+            "text": "That crash was Meadow Soprano\njumping her cue."
+          },
+          {
+            "index": 114,
+            "start": 503.086,
+            "end": 507.674,
+            "text": "Miss Marris, we're exhausted from\nstudying for SATs. We were up past 2."
+          },
+          {
+            "index": 115,
+            "start": 507.883,
+            "end": 509.927,
+            "text": "- Are you her lawyer?\n- No."
+          },
+          {
+            "index": 116,
+            "start": 510.177,
+            "end": 512.554,
+            "text": "Why they'd schedule SATs\nthe same week..."
+          },
+          {
+            "index": 117,
+            "start": 512.763,
+            "end": 514.723,
+            "text": "- Same day.\n- What?"
+          },
+          {
+            "index": 118,
+            "start": 517.518,
+            "end": 521.313,
+            "text": "If we're kicked out of Concert Singers,\nwe lose our best extracurricular."
+          },
+          {
+            "index": 119,
+            "start": 521.563,
+            "end": 524.107,
+            "text": "Goodbye, Berkeley.\nHello, Glassboro State."
+          },
+          {
+            "index": 120,
+            "start": 524.316,
+            "end": 529.321,
+            "text": "I cannot wait until all of North America\nis between me and Tony and Carmela."
+          },
+          {
+            "index": 121,
+            "start": 529.53,
+            "end": 530.822,
+            "text": "New Jersey blows."
+          },
+          {
+            "index": 122,
+            "start": 531.073,
+            "end": 533.116,
+            "text": "I want to go to Berkeley so bad."
+          },
+          {
+            "index": 123,
+            "start": 533.367,
+            "end": 535.494,
+            "text": "The whole East, I can't deal anymore."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 502.348686,
+        "topCueIndex": 124,
+        "bottomCueIndex": 113
+      }
     }
   ]
 }
