@@ -30421,6 +30421,158 @@
         "topCueIndex": 57,
         "bottomCueIndex": 54
       }
+    },
+    {
+      "id": "5912018b-b07e-42b5-bbfd-92c11789b72f",
+      "createdAt": "2026-06-01T23:16:24.667Z",
+      "videoName": "The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.mkv",
+      "audioTrackName": "The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.audio.eng.m4a",
+      "selectedText": "make sure",
+      "selection": {
+        "rawText": "make sure",
+        "startOffset": 38,
+        "endOffset": 47,
+        "cueIndex": 56,
+        "cueStart": 309.81,
+        "cueEnd": 313.314,
+        "cueText": "Jackie, when they hook you up,\ndo you make sure they don't have..."
+      },
+      "bottomSubPath": "F:\\The.Sopranos.S01.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.sub02.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 46,
+            "start": 281.031,
+            "end": 282.408,
+            "text": "Good."
+          },
+          {
+            "index": 47,
+            "start": 283.325,
+            "end": 285.119,
+            "text": "I had a real good week."
+          },
+          {
+            "index": 48,
+            "start": 286.62,
+            "end": 288.497,
+            "text": "A friend's in the hospital."
+          },
+          {
+            "index": 49,
+            "start": 288.747,
+            "end": 290.749,
+            "text": "That's never pleasant, but..."
+          },
+          {
+            "index": 50,
+            "start": 291.375,
+            "end": 293.544,
+            "text": "Otherwise, I'm having a good week."
+          },
+          {
+            "index": 51,
+            "start": 293.752,
+            "end": 296.213,
+            "text": "- What's he in for?\n- They thought it was an ulcer."
+          },
+          {
+            "index": 52,
+            "start": 296.422,
+            "end": 298.299,
+            "text": "You know, then this, then that."
+          },
+          {
+            "index": 53,
+            "start": 298.507,
+            "end": 300.509,
+            "text": "- You're worried about him?\n- Jackie?"
+          },
+          {
+            "index": 54,
+            "start": 300.718,
+            "end": 304.054,
+            "text": "Jackie's so fucking mean,\nhe'll scare that cancer away."
+          },
+          {
+            "index": 55,
+            "start": 304.471,
+            "end": 306.098,
+            "text": "Your friend has cancer?"
+          },
+          {
+            "index": 56,
+            "start": 309.81,
+            "end": 313.314,
+            "text": "Jackie, when they hook you up,\ndo you make sure they don't have..."
+          },
+          {
+            "index": 57,
+            "start": 313.564,
+            "end": 315.899,
+            "text": "...air in your veins,\nor is that just bullshit?"
+          },
+          {
+            "index": 58,
+            "start": 316.108,
+            "end": 317.234,
+            "text": "What do you mean?"
+          },
+          {
+            "index": 59,
+            "start": 317.484,
+            "end": 321.864,
+            "text": "This is a good hospital, sweetheart.\nNothing like that's gonna happen here."
+          },
+          {
+            "index": 60,
+            "start": 322.114,
+            "end": 325.367,
+            "text": "Air in the line'll kill you.\nYou know who else...?"
+          },
+          {
+            "index": 61,
+            "start": 325.576,
+            "end": 326.618,
+            "text": "Hey!"
+          },
+          {
+            "index": 62,
+            "start": 327.828,
+            "end": 329.747,
+            "text": "You know who else has cancer?"
+          },
+          {
+            "index": 63,
+            "start": 330.164,
+            "end": 332.041,
+            "text": "Tommy DiPalma."
+          },
+          {
+            "index": 64,
+            "start": 332.666,
+            "end": 335.419,
+            "text": "He's got it much worse.\nIt's eating his brain away."
+          },
+          {
+            "index": 65,
+            "start": 335.669,
+            "end": 338.005,
+            "text": "Hey, somebody having a baby or what?"
+          },
+          {
+            "index": 66,
+            "start": 338.881,
+            "end": 340.632,
+            "text": "- How you doing?\n- All right."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 312.719666,
+        "topCueIndex": 59,
+        "bottomCueIndex": 56
+      }
     }
   ]
 }
