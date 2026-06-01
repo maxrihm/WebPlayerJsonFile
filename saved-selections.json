@@ -32093,6 +32093,158 @@
         "topCueIndex": 153,
         "bottomCueIndex": 140
       }
+    },
+    {
+      "id": "b7a5cd55-6fcc-45a4-bdd5-4c8346597805",
+      "createdAt": "2026-06-01T23:36:43.748Z",
+      "videoName": "The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.mkv",
+      "audioTrackName": "The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.audio.eng.m4a",
+      "selectedText": "Join the club.",
+      "selection": {
+        "rawText": "Join the club.",
+        "startOffset": 0,
+        "endOffset": 14,
+        "cueIndex": 141,
+        "cueStart": 589.464,
+        "cueEnd": 592.759,
+        "cueText": "Join the club. They're doing\na second arson investigation."
+      },
+      "bottomSubPath": "F:\\The.Sopranos.S01.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.sub02.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 131,
+            "start": 556.223,
+            "end": 558.976,
+            "text": "Well, the school district, anyway."
+          },
+          {
+            "index": 132,
+            "start": 559.226,
+            "end": 561.853,
+            "text": "Carm, you did not have to do this."
+          },
+          {
+            "index": 133,
+            "start": 562.604,
+            "end": 565.774,
+            "text": "I mean, we don't see each other\nlike we used to..."
+          },
+          {
+            "index": 134,
+            "start": 565.983,
+            "end": 568.11,
+            "text": "I want that to change."
+          },
+          {
+            "index": 135,
+            "start": 571.905,
+            "end": 574.283,
+            "text": "- Could this be Artie Bucco?\n- Hey, capitano!"
+          },
+          {
+            "index": 136,
+            "start": 574.491,
+            "end": 575.826,
+            "text": "The place looks good."
+          },
+          {
+            "index": 137,
+            "start": 576.034,
+            "end": 578.579,
+            "text": "It needs a little work,\nbut we'll get there."
+          },
+          {
+            "index": 138,
+            "start": 578.787,
+            "end": 582.583,
+            "text": "You need some cash until the\ninsurance on the restaurant comes..."
+          },
+          {
+            "index": 139,
+            "start": 582.791,
+            "end": 587.337,
+            "text": "There'll be an Italian president\nbefore I see any insurance money."
+          },
+          {
+            "index": 140,
+            "start": 587.588,
+            "end": 589.214,
+            "text": "I thought that was settled."
+          },
+          {
+            "index": 141,
+            "start": 589.464,
+            "end": 592.759,
+            "text": "Join the club. They're doing\na second arson investigation."
+          },
+          {
+            "index": 142,
+            "start": 592.968,
+            "end": 595.47,
+            "text": "They think you're Mobbed up?\nYou're a working stiff."
+          },
+          {
+            "index": 143,
+            "start": 595.721,
+            "end": 600.642,
+            "text": "It doesn't make any sense. Who would\nburn down a perfectly good restaurant?"
+          },
+          {
+            "index": 144,
+            "start": 601.518,
+            "end": 602.936,
+            "text": "It's stupid."
+          },
+          {
+            "index": 145,
+            "start": 603.937,
+            "end": 605.23,
+            "text": "Insane."
+          },
+          {
+            "index": 146,
+            "start": 608.609,
+            "end": 611.194,
+            "text": "- Sorry, Artie.\n- Life goes on, no?"
+          },
+          {
+            "index": 147,
+            "start": 611.528,
+            "end": 613.363,
+            "text": "I could always be a plumber, no?"
+          },
+          {
+            "index": 148,
+            "start": 613.572,
+            "end": 615.907,
+            "text": "Only one concept to master:\nShit runs downhill."
+          },
+          {
+            "index": 149,
+            "start": 616.158,
+            "end": 620.12,
+            "text": "Yes, it does. Come in the kitchen.\nI'll buy you a beer."
+          },
+          {
+            "index": 150,
+            "start": 633.258,
+            "end": 634.426,
+            "text": "- Mr. Soprano.\n- Mr. Teittleman."
+          },
+          {
+            "index": 151,
+            "start": 634.635,
+            "end": 636.345,
+            "text": "- My pleasure.\n- Have a seat."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 591.150765,
+        "topCueIndex": 154,
+        "bottomCueIndex": 141
+      }
     }
   ]
 }
