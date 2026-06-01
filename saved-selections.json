@@ -29661,6 +29661,158 @@
         "topCueIndex": 24,
         "bottomCueIndex": 21
       }
+    },
+    {
+      "id": "3398f8ef-2dd7-4428-bae0-c168c0acd3be",
+      "createdAt": "2026-06-01T23:11:34.666Z",
+      "videoName": "The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.mkv",
+      "audioTrackName": "The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.audio.eng.m4a",
+      "selectedText": "trick",
+      "selection": {
+        "rawText": "trick",
+        "startOffset": 10,
+        "endOffset": 15,
+        "cueIndex": 29,
+        "cueStart": 233.859,
+        "cueEnd": 235.527,
+        "cueText": "Is that a trick picture out there?"
+      },
+      "bottomSubPath": "F:\\The.Sopranos.S01.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.sub02.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 19,
+            "start": 167.251,
+            "end": 169.17,
+            "text": "Those junkie fucks work for Tony."
+          },
+          {
+            "index": 20,
+            "start": 169.378,
+            "end": 172.59,
+            "text": "They hijack Comley's truck,\nI get it, and he thanks Tony?"
+          },
+          {
+            "index": 21,
+            "start": 173.174,
+            "end": 178.137,
+            "text": "Well, I think you should've taken care\nof this Christopher Moltisanti thing..."
+          },
+          {
+            "index": 22,
+            "start": 178.387,
+            "end": 180.639,
+            "text": "...the minute it first happened."
+          },
+          {
+            "index": 23,
+            "start": 180.89,
+            "end": 184.393,
+            "text": "You should've sent a clear signal:\n\"You fuck with Junior Soprano...\""
+          },
+          {
+            "index": 24,
+            "start": 184.643,
+            "end": 187.98,
+            "text": "Take it easy.\nWe're not making a Western here."
+          },
+          {
+            "index": 25,
+            "start": 192.651,
+            "end": 194.403,
+            "text": "Fucking family."
+          },
+          {
+            "index": 26,
+            "start": 194.695,
+            "end": 197.99,
+            "text": "I bought his kid\na $400 surfboard for his birthday."
+          },
+          {
+            "index": 27,
+            "start": 223.682,
+            "end": 225.476,
+            "text": "Mr. Soprano?"
+          },
+          {
+            "index": 28,
+            "start": 225.893,
+            "end": 227.353,
+            "text": "How you doing?"
+          },
+          {
+            "index": 29,
+            "start": 233.859,
+            "end": 235.527,
+            "text": "Is that a trick picture out there?"
+          },
+          {
+            "index": 30,
+            "start": 237.196,
+            "end": 238.239,
+            "text": "Which?"
+          },
+          {
+            "index": 31,
+            "start": 238.447,
+            "end": 239.657,
+            "text": "The barn."
+          },
+          {
+            "index": 32,
+            "start": 240.532,
+            "end": 243.41,
+            "text": "And the old tree\nall rotted out inside."
+          },
+          {
+            "index": 33,
+            "start": 244.078,
+            "end": 246.747,
+            "text": "It's just a picture I bought."
+          },
+          {
+            "index": 34,
+            "start": 246.956,
+            "end": 250,
+            "text": "I remember, in a little gallery\nin Provincetown."
+          },
+          {
+            "index": 35,
+            "start": 250.209,
+            "end": 253.42,
+            "text": "That is a special-made\npsychological picture."
+          },
+          {
+            "index": 36,
+            "start": 253.629,
+            "end": 256.382,
+            "text": "Like that what-do-you-call-it test."
+          },
+          {
+            "index": 37,
+            "start": 258.467,
+            "end": 260.094,
+            "text": "The Korschach."
+          },
+          {
+            "index": 38,
+            "start": 260.886,
+            "end": 262.346,
+            "text": "You think I want to trick you?"
+          },
+          {
+            "index": 39,
+            "start": 262.554,
+            "end": 264.848,
+            "text": "- Oh, no.\n- What does that picture say?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 234.648288,
+        "topCueIndex": 34,
+        "bottomCueIndex": 29
+      }
     }
   ]
 }
