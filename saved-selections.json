@@ -29509,6 +29509,158 @@
         "topCueIndex": 14,
         "bottomCueIndex": 12
       }
+    },
+    {
+      "id": "702f86fa-bcf9-41f0-8ac0-6e003d2cc094",
+      "createdAt": "2026-06-01T23:09:18.240Z",
+      "videoName": "The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.mkv",
+      "audioTrackName": "The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.audio.eng.m4a",
+      "selectedText": "taken care",
+      "selection": {
+        "rawText": "taken care",
+        "startOffset": 28,
+        "endOffset": 38,
+        "cueIndex": 21,
+        "cueStart": 173.174,
+        "cueEnd": 178.137,
+        "cueText": "Well, I think you should've taken care\nof this Christopher Moltisanti thing..."
+      },
+      "bottomSubPath": "F:\\The.Sopranos.S01.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.sub02.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 11,
+            "start": 140.891,
+            "end": 144.186,
+            "text": "Uncle Junior's breaking Tony's\nballs since you hijacked that truck."
+          },
+          {
+            "index": 12,
+            "start": 144.436,
+            "end": 147.231,
+            "text": "You're lucky Tony doesn't shove\nthe cab up your ass."
+          },
+          {
+            "index": 13,
+            "start": 149.65,
+            "end": 151.652,
+            "text": "What else did Comley say?"
+          },
+          {
+            "index": 14,
+            "start": 152.778,
+            "end": 154.155,
+            "text": "Nothing much."
+          },
+          {
+            "index": 15,
+            "start": 154.738,
+            "end": 156.866,
+            "text": "There was stuff missing\nfrom the truck..."
+          },
+          {
+            "index": 16,
+            "start": 157.116,
+            "end": 160.202,
+            "text": "...but he didn't give a fuck\nas long as the thing's back."
+          },
+          {
+            "index": 17,
+            "start": 160.703,
+            "end": 164.498,
+            "text": "Then he said to tell Tony thanks,\nand if Tony needs anything, to call."
+          },
+          {
+            "index": 18,
+            "start": 164.748,
+            "end": 166.167,
+            "text": "Tony?"
+          },
+          {
+            "index": 19,
+            "start": 167.251,
+            "end": 169.17,
+            "text": "Those junkie fucks work for Tony."
+          },
+          {
+            "index": 20,
+            "start": 169.378,
+            "end": 172.59,
+            "text": "They hijack Comley's truck,\nI get it, and he thanks Tony?"
+          },
+          {
+            "index": 21,
+            "start": 173.174,
+            "end": 178.137,
+            "text": "Well, I think you should've taken care\nof this Christopher Moltisanti thing..."
+          },
+          {
+            "index": 22,
+            "start": 178.387,
+            "end": 180.639,
+            "text": "...the minute it first happened."
+          },
+          {
+            "index": 23,
+            "start": 180.89,
+            "end": 184.393,
+            "text": "You should've sent a clear signal:\n\"You fuck with Junior Soprano...\""
+          },
+          {
+            "index": 24,
+            "start": 184.643,
+            "end": 187.98,
+            "text": "Take it easy.\nWe're not making a Western here."
+          },
+          {
+            "index": 25,
+            "start": 192.651,
+            "end": 194.403,
+            "text": "Fucking family."
+          },
+          {
+            "index": 26,
+            "start": 194.695,
+            "end": 197.99,
+            "text": "I bought his kid\na $400 surfboard for his birthday."
+          },
+          {
+            "index": 27,
+            "start": 223.682,
+            "end": 225.476,
+            "text": "Mr. Soprano?"
+          },
+          {
+            "index": 28,
+            "start": 225.893,
+            "end": 227.353,
+            "text": "How you doing?"
+          },
+          {
+            "index": 29,
+            "start": 233.859,
+            "end": 235.527,
+            "text": "Is that a trick picture out there?"
+          },
+          {
+            "index": 30,
+            "start": 237.196,
+            "end": 238.239,
+            "text": "Which?"
+          },
+          {
+            "index": 31,
+            "start": 238.447,
+            "end": 239.657,
+            "text": "The barn."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 176.129341,
+        "topCueIndex": 24,
+        "bottomCueIndex": 21
+      }
     }
   ]
 }
