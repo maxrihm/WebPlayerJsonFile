@@ -30877,6 +30877,158 @@
         "topCueIndex": 83,
         "bottomCueIndex": 78
       }
+    },
+    {
+      "id": "e0dd458e-a298-42f9-9b8e-1f32d3baa712",
+      "createdAt": "2026-06-01T23:26:16.269Z",
+      "videoName": "The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.mkv",
+      "audioTrackName": "The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.audio.eng.m4a",
+      "selectedText": "trials.",
+      "selection": {
+        "rawText": "trials.",
+        "startOffset": 46,
+        "endOffset": 53,
+        "cueIndex": 86,
+        "cueStart": 396.772,
+        "cueEnd": 400.15,
+        "cueText": "Jackie, you might be a candidate\nfor clinical trials."
+      },
+      "bottomSubPath": "F:\\The.Sopranos.S01.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.sub02.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 76,
+            "start": 363.572,
+            "end": 366.033,
+            "text": "I'm going to the cafeteria.\nWant anything?"
+          },
+          {
+            "index": 77,
+            "start": 366.283,
+            "end": 367.576,
+            "text": "A plate of braciole."
+          },
+          {
+            "index": 78,
+            "start": 369.328,
+            "end": 372.206,
+            "text": "- They got grappa in this thing?\n- Oh, I wish."
+          },
+          {
+            "index": 79,
+            "start": 372.456,
+            "end": 374.875,
+            "text": "See you later. I got some errands."
+          },
+          {
+            "index": 80,
+            "start": 375.292,
+            "end": 377.711,
+            "text": "- Give Junior my love.\n- I will."
+          },
+          {
+            "index": 81,
+            "start": 378.587,
+            "end": 379.588,
+            "text": "Hey."
+          },
+          {
+            "index": 82,
+            "start": 379.755,
+            "end": 383.801,
+            "text": "Tell my uncle I sent back the truck.\nGive me the vinegar peppers he owes me."
+          },
+          {
+            "index": 83,
+            "start": 388.18,
+            "end": 389.723,
+            "text": "Thank God he left."
+          },
+          {
+            "index": 84,
+            "start": 389.973,
+            "end": 392.643,
+            "text": "He's a nice guy,\nbut he's like the Grim Reaper."
+          },
+          {
+            "index": 85,
+            "start": 392.893,
+            "end": 396.522,
+            "text": "He knows every guy with cancer,\nand he can't wait to tell you."
+          },
+          {
+            "index": 86,
+            "start": 396.772,
+            "end": 400.15,
+            "text": "Jackie, you might be a candidate\nfor clinical trials."
+          },
+          {
+            "index": 87,
+            "start": 400.401,
+            "end": 402.528,
+            "text": "These stem cell therapies..."
+          },
+          {
+            "index": 88,
+            "start": 402.778,
+            "end": 406.156,
+            "text": "Paulie, he don't want to hear\nno more cancer talk."
+          },
+          {
+            "index": 89,
+            "start": 406.365,
+            "end": 408.075,
+            "text": "Get the fuck out of here!"
+          },
+          {
+            "index": 90,
+            "start": 408.283,
+            "end": 413.122,
+            "text": "Trust me, you caught a break being\nJewish. See what I gotta deal with?"
+          },
+          {
+            "index": 91,
+            "start": 413.58,
+            "end": 416.125,
+            "text": "Jews, that's right.\nI knew there was something."
+          },
+          {
+            "index": 92,
+            "start": 416.375,
+            "end": 418.085,
+            "text": "Tony, you know Teittleman?"
+          },
+          {
+            "index": 93,
+            "start": 418.293,
+            "end": 421.713,
+            "text": "Owns property. Owns the motel\ndown the street from the club."
+          },
+          {
+            "index": 94,
+            "start": 422.506,
+            "end": 425.175,
+            "text": "The Jew with the black clothes\nand the curls."
+          },
+          {
+            "index": 95,
+            "start": 425.384,
+            "end": 426.927,
+            "text": "They're called Hasidim."
+          },
+          {
+            "index": 96,
+            "start": 427.177,
+            "end": 428.804,
+            "text": "\"Hasidim\" but I don't believe them."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 399.498157,
+        "topCueIndex": 93,
+        "bottomCueIndex": 86
+      }
     }
   ]
 }
