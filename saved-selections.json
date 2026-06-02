@@ -34221,6 +34221,158 @@
         "topCueIndex": 280,
         "bottomCueIndex": 253
       }
+    },
+    {
+      "id": "fe50bb43-6c16-4d61-a02a-3194ed90edbc",
+      "createdAt": "2026-06-02T19:35:03.901Z",
+      "videoName": "The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.mkv",
+      "audioTrackName": "The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.audio.eng.m4a",
+      "selectedText": "hostess.",
+      "selection": {
+        "rawText": "hostess.",
+        "startOffset": 17,
+        "endOffset": 25,
+        "cueIndex": 262,
+        "cueStart": 1010.51,
+        "cueEnd": 1013.054,
+        "cueText": "Yeah, restaurant hostess.\nReal tough work."
+      },
+      "bottomSubPath": "F:\\The.Sopranos.S01.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.sub02.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 252,
+            "start": 976.101,
+            "end": 977.102,
+            "text": "Oona!"
+          },
+          {
+            "index": 253,
+            "start": 979.521,
+            "end": 984.025,
+            "text": "There's fingerprints on the breakfront.\nI want this place to sparkle."
+          },
+          {
+            "index": 254,
+            "start": 986.82,
+            "end": 989.489,
+            "text": "She's usually very good. From Poland."
+          },
+          {
+            "index": 255,
+            "start": 991.074,
+            "end": 993.451,
+            "text": "Please get in the car, sir."
+          },
+          {
+            "index": 256,
+            "start": 993.785,
+            "end": 998.54,
+            "text": "Like the cop would be calling him\n\"sir\" if the cameras weren't around."
+          },
+          {
+            "index": 257,
+            "start": 999.457,
+            "end": 1000.5,
+            "text": "I saw this one."
+          },
+          {
+            "index": 258,
+            "start": 1000.709,
+            "end": 1003.253,
+            "text": "Then call Tony\nso he can call Junior..."
+          },
+          {
+            "index": 259,
+            "start": 1003.503,
+            "end": 1005.672,
+            "text": "...and see if we can\nchange the channel."
+          },
+          {
+            "index": 260,
+            "start": 1005.88,
+            "end": 1007.59,
+            "text": "Get that, will you, babe?"
+          },
+          {
+            "index": 261,
+            "start": 1007.799,
+            "end": 1010.26,
+            "text": "Sure. I'm the only one\nwho has to go to work."
+          },
+          {
+            "index": 262,
+            "start": 1010.51,
+            "end": 1013.054,
+            "text": "Yeah, restaurant hostess.\nReal tough work."
+          },
+          {
+            "index": 263,
+            "start": 1013.304,
+            "end": 1015.015,
+            "text": "It's your little cousin."
+          },
+          {
+            "index": 264,
+            "start": 1016.516,
+            "end": 1017.892,
+            "text": "- What's up?\n- How are you?"
+          },
+          {
+            "index": 265,
+            "start": 1018.101,
+            "end": 1020.228,
+            "text": "- What are you doing here?\n- Hello to you too."
+          },
+          {
+            "index": 266,
+            "start": 1020.437,
+            "end": 1022.022,
+            "text": "Hunter, what are you doing?"
+          },
+          {
+            "index": 267,
+            "start": 1022.272,
+            "end": 1024.733,
+            "text": "Don't mind him. His brain is fried."
+          },
+          {
+            "index": 268,
+            "start": 1024.983,
+            "end": 1026.526,
+            "text": "You want a soda or something?"
+          },
+          {
+            "index": 269,
+            "start": 1026.776,
+            "end": 1028.862,
+            "text": "- How about a beer?\n- Yeah, right."
+          },
+          {
+            "index": 270,
+            "start": 1029.112,
+            "end": 1032.198,
+            "text": "Just kidding. I'll have a Coke\nif you have one."
+          },
+          {
+            "index": 271,
+            "start": 1032.407,
+            "end": 1033.783,
+            "text": "What do you want, Meadow?"
+          },
+          {
+            "index": 272,
+            "start": 1034.034,
+            "end": 1035.827,
+            "text": "She wants something from me."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1013.054,
+        "topCueIndex": 290,
+        "bottomCueIndex": 262
+      }
     }
   ]
 }
