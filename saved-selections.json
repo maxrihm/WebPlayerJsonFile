@@ -33765,6 +33765,158 @@
         "topCueIndex": 275,
         "bottomCueIndex": 250
       }
+    },
+    {
+      "id": "274cc5ea-35a7-4d54-a6d9-624db6848649",
+      "createdAt": "2026-06-02T19:32:41.414Z",
+      "videoName": "The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.mkv",
+      "audioTrackName": "The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.audio.eng.m4a",
+      "selectedText": "worthy cause.",
+      "selection": {
+        "rawText": "worthy cause.",
+        "startOffset": 28,
+        "endOffset": 41,
+        "cueIndex": 251,
+        "cueStart": 972.764,
+        "cueEnd": 975.809,
+        "cueText": "Pediatric Hospital's\nsuch a worthy cause."
+      },
+      "bottomSubPath": "F:\\The.Sopranos.S01.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.sub02.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 241,
+            "start": 935.602,
+            "end": 937.729,
+            "text": "- They don't care.\n- She's sleeping over."
+          },
+          {
+            "index": 242,
+            "start": 940.857,
+            "end": 943.109,
+            "text": "Can Hunter please sleep over?"
+          },
+          {
+            "index": 243,
+            "start": 943.318,
+            "end": 945.946,
+            "text": "Start sleeping, then.\nStudy time's over."
+          },
+          {
+            "index": 244,
+            "start": 946.154,
+            "end": 948.239,
+            "text": "We still have six more chapters left."
+          },
+          {
+            "index": 245,
+            "start": 949.699,
+            "end": 954.12,
+            "text": "Then can you keep the decibel level\ndown, please? For my husband."
+          },
+          {
+            "index": 246,
+            "start": 957.54,
+            "end": 960.001,
+            "text": "Matt, I'm serious, you guys."
+          },
+          {
+            "index": 247,
+            "start": 960.251,
+            "end": 962.712,
+            "text": "If we can't score some crystal,\nwe're dead."
+          },
+          {
+            "index": 248,
+            "start": 962.921,
+            "end": 966.633,
+            "text": "With this budget, we can do\nthree waiters for the hors d'oeuvres..."
+          },
+          {
+            "index": 249,
+            "start": 966.883,
+            "end": 968.343,
+            "text": "...two for the champagne."
+          },
+          {
+            "index": 250,
+            "start": 968.593,
+            "end": 972.514,
+            "text": "It's such a load off.\nThis party has me at sixes and sevens."
+          },
+          {
+            "index": 251,
+            "start": 972.764,
+            "end": 975.809,
+            "text": "Pediatric Hospital's\nsuch a worthy cause."
+          },
+          {
+            "index": 252,
+            "start": 976.101,
+            "end": 977.102,
+            "text": "Oona!"
+          },
+          {
+            "index": 253,
+            "start": 979.521,
+            "end": 984.025,
+            "text": "There's fingerprints on the breakfront.\nI want this place to sparkle."
+          },
+          {
+            "index": 254,
+            "start": 986.82,
+            "end": 989.489,
+            "text": "She's usually very good. From Poland."
+          },
+          {
+            "index": 255,
+            "start": 991.074,
+            "end": 993.451,
+            "text": "Please get in the car, sir."
+          },
+          {
+            "index": 256,
+            "start": 993.785,
+            "end": 998.54,
+            "text": "Like the cop would be calling him\n\"sir\" if the cameras weren't around."
+          },
+          {
+            "index": 257,
+            "start": 999.457,
+            "end": 1000.5,
+            "text": "I saw this one."
+          },
+          {
+            "index": 258,
+            "start": 1000.709,
+            "end": 1003.253,
+            "text": "Then call Tony\nso he can call Junior..."
+          },
+          {
+            "index": 259,
+            "start": 1003.503,
+            "end": 1005.672,
+            "text": "...and see if we can\nchange the channel."
+          },
+          {
+            "index": 260,
+            "start": 1005.88,
+            "end": 1007.59,
+            "text": "Get that, will you, babe?"
+          },
+          {
+            "index": 261,
+            "start": 1007.799,
+            "end": 1010.26,
+            "text": "Sure. I'm the only one\nwho has to go to work."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 974.413854,
+        "topCueIndex": 277,
+        "bottomCueIndex": 251
+      }
     }
   ]
 }
