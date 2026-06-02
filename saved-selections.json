@@ -32853,6 +32853,158 @@
         "topCueIndex": 179,
         "bottomCueIndex": 164
       }
+    },
+    {
+      "id": "e039c8e8-b4d2-4d6d-8c7d-b900c429df0b",
+      "createdAt": "2026-06-02T19:13:54.894Z",
+      "videoName": "The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.mkv",
+      "audioTrackName": "The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.audio.eng.m4a",
+      "selectedText": "mocking",
+      "selection": {
+        "rawText": "mocking",
+        "startOffset": 35,
+        "endOffset": 42,
+        "cueIndex": 166,
+        "cueStart": 670.671,
+        "cueEnd": 674.508,
+        "cueText": "He's harming my daughter,\nand he's mocking our laws of marriage."
+      },
+      "bottomSubPath": "F:\\The.Sopranos.S01.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.sub02.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 156,
+            "start": 645.562,
+            "end": 647.481,
+            "text": "Does he have a name?"
+          },
+          {
+            "index": 157,
+            "start": 647.689,
+            "end": 649.733,
+            "text": "Oh, I'm sorry. It's Hillel."
+          },
+          {
+            "index": 158,
+            "start": 652.361,
+            "end": 654.988,
+            "text": "You know about\nmy daughter and her husband?"
+          },
+          {
+            "index": 159,
+            "start": 655.238,
+            "end": 656.49,
+            "text": "Yeah, he knows."
+          },
+          {
+            "index": 160,
+            "start": 656.698,
+            "end": 658.408,
+            "text": "Do you have a daughter, Mr. Soprano?"
+          },
+          {
+            "index": 161,
+            "start": 658.659,
+            "end": 661.495,
+            "text": "Yes. Call me Tony."
+          },
+          {
+            "index": 162,
+            "start": 661.703,
+            "end": 664.873,
+            "text": "What would you do if she was\nabused by her husband?"
+          },
+          {
+            "index": 163,
+            "start": 665.123,
+            "end": 666.166,
+            "text": "Talk to him."
+          },
+          {
+            "index": 164,
+            "start": 666.375,
+            "end": 668.293,
+            "text": "Yeah, in ball-peen hammer."
+          },
+          {
+            "index": 165,
+            "start": 668.502,
+            "end": 670.17,
+            "text": "I think you understand my anger."
+          },
+          {
+            "index": 166,
+            "start": 670.671,
+            "end": 674.508,
+            "text": "He's harming my daughter,\nand he's mocking our laws of marriage."
+          },
+          {
+            "index": 167,
+            "start": 674.716,
+            "end": 678.261,
+            "text": "Look, let's understand each other\nfrom the get-go here, okay?"
+          },
+          {
+            "index": 168,
+            "start": 678.512,
+            "end": 680.138,
+            "text": "I'm in waste management."
+          },
+          {
+            "index": 169,
+            "start": 680.389,
+            "end": 684.309,
+            "text": "I'm only here because I'm Silvio's\nfriend, you're Silvio's friend."
+          },
+          {
+            "index": 170,
+            "start": 684.518,
+            "end": 687.27,
+            "text": "You may be having a problem\nI can help you with."
+          },
+          {
+            "index": 171,
+            "start": 687.521,
+            "end": 689.815,
+            "text": "If I can do it,\nthat will make me happy."
+          },
+          {
+            "index": 172,
+            "start": 690.023,
+            "end": 691.024,
+            "text": "Ha!"
+          },
+          {
+            "index": 173,
+            "start": 691.191,
+            "end": 692.818,
+            "text": "What's your problem, Hil?"
+          },
+          {
+            "index": 174,
+            "start": 703.495,
+            "end": 704.746,
+            "text": "Please finish."
+          },
+          {
+            "index": 175,
+            "start": 704.955,
+            "end": 707.541,
+            "text": "You're being shaken down\nfor 50% of your motels."
+          },
+          {
+            "index": 176,
+            "start": 707.749,
+            "end": 708.75,
+            "text": "Correct."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 674.508,
+        "topCueIndex": 181,
+        "bottomCueIndex": 166
+      }
     }
   ]
 }
