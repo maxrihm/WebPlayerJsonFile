@@ -34373,6 +34373,158 @@
         "topCueIndex": 290,
         "bottomCueIndex": 262
       }
+    },
+    {
+      "id": "c3bd2505-b4b0-4122-b25b-d11a8da5fe79",
+      "createdAt": "2026-06-02T19:36:59.276Z",
+      "videoName": "The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.mkv",
+      "audioTrackName": "The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.audio.eng.m4a",
+      "selectedText": "to score",
+      "selection": {
+        "rawText": "to score",
+        "startOffset": 15,
+        "endOffset": 23,
+        "cueIndex": 278,
+        "cueStart": 1050.967,
+        "cueEnd": 1053.261,
+        "cueText": "Score. We want to score some crystal."
+      },
+      "bottomSubPath": "F:\\The.Sopranos.S01.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.sub02.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 268,
+            "start": 1024.983,
+            "end": 1026.526,
+            "text": "You want a soda or something?"
+          },
+          {
+            "index": 269,
+            "start": 1026.776,
+            "end": 1028.862,
+            "text": "- How about a beer?\n- Yeah, right."
+          },
+          {
+            "index": 270,
+            "start": 1029.112,
+            "end": 1032.198,
+            "text": "Just kidding. I'll have a Coke\nif you have one."
+          },
+          {
+            "index": 271,
+            "start": 1032.407,
+            "end": 1033.783,
+            "text": "What do you want, Meadow?"
+          },
+          {
+            "index": 272,
+            "start": 1034.034,
+            "end": 1035.827,
+            "text": "She wants something from me."
+          },
+          {
+            "index": 273,
+            "start": 1036.036,
+            "end": 1037.579,
+            "text": "In your dreams, Brendan."
+          },
+          {
+            "index": 274,
+            "start": 1038.455,
+            "end": 1040.206,
+            "text": "So, what do you want?"
+          },
+          {
+            "index": 275,
+            "start": 1042.959,
+            "end": 1044.419,
+            "text": "I wanna cop."
+          },
+          {
+            "index": 276,
+            "start": 1046.963,
+            "end": 1048.173,
+            "text": "Here you go."
+          },
+          {
+            "index": 277,
+            "start": 1049.382,
+            "end": 1050.717,
+            "text": "What do you mean, \"cop\"?"
+          },
+          {
+            "index": 278,
+            "start": 1050.967,
+            "end": 1053.261,
+            "text": "Score. We want to score some crystal."
+          },
+          {
+            "index": 279,
+            "start": 1053.47,
+            "end": 1054.554,
+            "text": "You got money?"
+          },
+          {
+            "index": 280,
+            "start": 1054.763,
+            "end": 1057.015,
+            "text": "- You ain't giving them shit.\n- Why not?"
+          },
+          {
+            "index": 281,
+            "start": 1057.223,
+            "end": 1059.934,
+            "text": "Your father'll put a bullet\nin my head."
+          },
+          {
+            "index": 282,
+            "start": 1060.852,
+            "end": 1062.896,
+            "text": "Since when do you take speed, anyway?"
+          },
+          {
+            "index": 283,
+            "start": 1063.104,
+            "end": 1065.106,
+            "text": "She doesn't. I need it to study."
+          },
+          {
+            "index": 284,
+            "start": 1065.356,
+            "end": 1068.401,
+            "text": "Yeah, right. Hunter needs it."
+          },
+          {
+            "index": 285,
+            "start": 1068.651,
+            "end": 1071.071,
+            "text": "Forget about it. No fucking way."
+          },
+          {
+            "index": 286,
+            "start": 1073.865,
+            "end": 1074.991,
+            "text": "What?"
+          },
+          {
+            "index": 287,
+            "start": 1075.2,
+            "end": 1076.91,
+            "text": "He just craves attention."
+          },
+          {
+            "index": 288,
+            "start": 1079.12,
+            "end": 1082.624,
+            "text": "Just thought I'd ask you\nbefore we went to Jefferson Avenue."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1050.967,
+        "topCueIndex": 306,
+        "bottomCueIndex": 278
+      }
     }
   ]
 }
