@@ -33309,6 +33309,158 @@
         "topCueIndex": 202,
         "bottomCueIndex": 186
       }
+    },
+    {
+      "id": "48c9b65e-a387-4b3d-9f8d-a32dc5b560ab",
+      "createdAt": "2026-06-02T19:25:03.903Z",
+      "videoName": "The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.mkv",
+      "audioTrackName": "The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.audio.eng.m4a",
+      "selectedText": "cater",
+      "selection": {
+        "rawText": "cater",
+        "startOffset": 38,
+        "endOffset": 43,
+        "cueIndex": 222,
+        "cueStart": 867.617,
+        "cueEnd": 870.912,
+        "cueText": "I'm gonna hire Artie and Charmaine\nto cater it."
+      },
+      "bottomSubPath": "F:\\The.Sopranos.S01.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.sub02.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 212,
+            "start": 837.42,
+            "end": 839.047,
+            "text": "Listen to me, you weirdo fuck."
+          },
+          {
+            "index": 213,
+            "start": 839.297,
+            "end": 843.218,
+            "text": "You give Shlomo whatever he wants\nand you forget this 50% shit."
+          },
+          {
+            "index": 214,
+            "start": 843.468,
+            "end": 846.555,
+            "text": "You got nothing coming to you.\nUnderstand me? Nothing!"
+          },
+          {
+            "index": 215,
+            "start": 846.805,
+            "end": 848.014,
+            "text": "Fuck you!"
+          },
+          {
+            "index": 216,
+            "start": 848.265,
+            "end": 850.809,
+            "text": "Bupkes. Say bupkes, Paulie."
+          },
+          {
+            "index": 217,
+            "start": 851.059,
+            "end": 852.769,
+            "text": "That's how they say \"nothing.\""
+          },
+          {
+            "index": 218,
+            "start": 854.187,
+            "end": 856.356,
+            "text": "Fuck that.\nThis is how I say \"nothing.\""
+          },
+          {
+            "index": 219,
+            "start": 857.983,
+            "end": 859.442,
+            "text": "How's that for nothing?"
+          },
+          {
+            "index": 220,
+            "start": 862.821,
+            "end": 865.282,
+            "text": "- You know what?\n- Probably not."
+          },
+          {
+            "index": 221,
+            "start": 865.49,
+            "end": 867.367,
+            "text": "The fundraiser for Pediatric Hospital?"
+          },
+          {
+            "index": 222,
+            "start": 867.617,
+            "end": 870.912,
+            "text": "I'm gonna hire Artie and Charmaine\nto cater it."
+          },
+          {
+            "index": 223,
+            "start": 872.831,
+            "end": 876.084,
+            "text": "Since when do we\nopen our house to strangers?"
+          },
+          {
+            "index": 224,
+            "start": 876.293,
+            "end": 879.254,
+            "text": "Oh, you're right.\nLet's just move back to Italy."
+          },
+          {
+            "index": 225,
+            "start": 879.462,
+            "end": 883.55,
+            "text": "We'll live in a hill town like\nour ancestors, put a wall around it..."
+          },
+          {
+            "index": 226,
+            "start": 883.758,
+            "end": 886.761,
+            "text": "...and throw burning oil on all\ntravelers that knock at the gate."
+          },
+          {
+            "index": 227,
+            "start": 888.305,
+            "end": 890.098,
+            "text": "Come on!"
+          },
+          {
+            "index": 228,
+            "start": 892.475,
+            "end": 897.23,
+            "text": "Poor Charmaine. I tried to find\nnice things to say about that house."
+          },
+          {
+            "index": 229,
+            "start": 897.48,
+            "end": 900.817,
+            "text": "Ain't that bad. Just needs\na little work, that's all."
+          },
+          {
+            "index": 230,
+            "start": 901.026,
+            "end": 904.362,
+            "text": "Those two are so broke.\nAnd that fire."
+          },
+          {
+            "index": 231,
+            "start": 905.405,
+            "end": 907.49,
+            "text": "If that insurance would\nget off its ass."
+          },
+          {
+            "index": 232,
+            "start": 907.699,
+            "end": 910.243,
+            "text": "- Could it have been arson?\n- What's the matter with you?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 870.912,
+        "topCueIndex": 241,
+        "bottomCueIndex": 222
+      }
     }
   ]
 }
