@@ -33157,6 +33157,158 @@
         "topCueIndex": 183,
         "bottomCueIndex": 167
       }
+    },
+    {
+      "id": "cce43fd7-57d7-4e10-9a1c-65fe79c64c8b",
+      "createdAt": "2026-06-02T19:18:48.652Z",
+      "videoName": "The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.mkv",
+      "audioTrackName": "The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.audio.eng.m4a",
+      "selectedText": "to do bedding inventory.",
+      "selection": {
+        "rawText": "to do bedding inventory.",
+        "startOffset": 31,
+        "endOffset": 55,
+        "cueIndex": 186,
+        "cueStart": 754.796,
+        "cueEnd": 758.3,
+        "cueText": "Julio, before lunch\nI want you to do bedding inventory."
+      },
+      "bottomSubPath": "F:\\The.Sopranos.S01.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.sub02.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 176,
+            "start": 707.749,
+            "end": 708.75,
+            "text": "Correct."
+          },
+          {
+            "index": 177,
+            "start": 708.917,
+            "end": 713.046,
+            "text": "The goon squads who smacked these\nhusbands around to get the divorce..."
+          },
+          {
+            "index": 178,
+            "start": 713.255,
+            "end": 715.09,
+            "text": "...were put out of business\nby the D.A."
+          },
+          {
+            "index": 179,
+            "start": 716.925,
+            "end": 720.345,
+            "text": "All right, 25%.\nHe wants 50, we get 25."
+          },
+          {
+            "index": 180,
+            "start": 720.595,
+            "end": 722.055,
+            "text": "I don't understand."
+          },
+          {
+            "index": 181,
+            "start": 722.264,
+            "end": 723.682,
+            "text": "I'm not talking to you."
+          },
+          {
+            "index": 182,
+            "start": 734.151,
+            "end": 738.113,
+            "text": "You get me what I want, Mr. Soprano,\nand you have a deal."
+          },
+          {
+            "index": 183,
+            "start": 738.321,
+            "end": 739.531,
+            "text": "It's done."
+          },
+          {
+            "index": 184,
+            "start": 741.616,
+            "end": 744.119,
+            "text": "You let them in our motel,\nyou'll never get them out."
+          },
+          {
+            "index": 185,
+            "start": 745.12,
+            "end": 747.414,
+            "text": "That's a commercial, isn't it?"
+          },
+          {
+            "index": 186,
+            "start": 754.796,
+            "end": 758.3,
+            "text": "Julio, before lunch\nI want you to do bedding inventory."
+          },
+          {
+            "index": 187,
+            "start": 758.55,
+            "end": 761.428,
+            "text": "Half-hour, and no cervezas, please."
+          },
+          {
+            "index": 188,
+            "start": 765.974,
+            "end": 767.517,
+            "text": "Yes, may I help you?"
+          },
+          {
+            "index": 189,
+            "start": 767.768,
+            "end": 769.978,
+            "text": "That depends. Are you Ariel?"
+          },
+          {
+            "index": 190,
+            "start": 770.228,
+            "end": 772.981,
+            "text": "That also depends.\nAre you a bill collector?"
+          },
+          {
+            "index": 191,
+            "start": 773.19,
+            "end": 776.151,
+            "text": "What is this, the Catskills?\nShecky Greene we got here."
+          },
+          {
+            "index": 192,
+            "start": 776.401,
+            "end": 778.153,
+            "text": "Let's talk about your father-in-law."
+          },
+          {
+            "index": 193,
+            "start": 778.361,
+            "end": 779.988,
+            "text": "I'm sorry. He's not here."
+          },
+          {
+            "index": 194,
+            "start": 780.238,
+            "end": 782.199,
+            "text": "We know he's not here."
+          },
+          {
+            "index": 195,
+            "start": 782.449,
+            "end": 786.703,
+            "text": "But we want to talk to you\nabout him and you. And him."
+          },
+          {
+            "index": 196,
+            "start": 786.953,
+            "end": 788.955,
+            "text": "This problem that you're having."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 758.3,
+        "topCueIndex": 202,
+        "bottomCueIndex": 186
+      }
     }
   ]
 }
