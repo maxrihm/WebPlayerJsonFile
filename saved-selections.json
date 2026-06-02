@@ -32549,6 +32549,158 @@
         "topCueIndex": 156,
         "bottomCueIndex": 142
       }
+    },
+    {
+      "id": "ee530cb5-5929-4f5a-849d-e9fdc3440023",
+      "createdAt": "2026-06-02T19:10:57.822Z",
+      "videoName": "The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.mkv",
+      "audioTrackName": "The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.audio.eng.m4a",
+      "selectedText": "Only one concept to master:",
+      "selection": {
+        "rawText": "Only one concept to master:",
+        "startOffset": 0,
+        "endOffset": 27,
+        "cueIndex": 148,
+        "cueStart": 613.572,
+        "cueEnd": 615.907,
+        "cueText": "Only one concept to master:\nShit runs downhill."
+      },
+      "bottomSubPath": "F:\\The.Sopranos.S01.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO\\The.Sopranos.S01E03.576p.BluRay.Goblin.Eng.HBO.sub02.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 138,
+            "start": 578.787,
+            "end": 582.583,
+            "text": "You need some cash until the\ninsurance on the restaurant comes..."
+          },
+          {
+            "index": 139,
+            "start": 582.791,
+            "end": 587.337,
+            "text": "There'll be an Italian president\nbefore I see any insurance money."
+          },
+          {
+            "index": 140,
+            "start": 587.588,
+            "end": 589.214,
+            "text": "I thought that was settled."
+          },
+          {
+            "index": 141,
+            "start": 589.464,
+            "end": 592.759,
+            "text": "Join the club. They're doing\na second arson investigation."
+          },
+          {
+            "index": 142,
+            "start": 592.968,
+            "end": 595.47,
+            "text": "They think you're Mobbed up?\nYou're a working stiff."
+          },
+          {
+            "index": 143,
+            "start": 595.721,
+            "end": 600.642,
+            "text": "It doesn't make any sense. Who would\nburn down a perfectly good restaurant?"
+          },
+          {
+            "index": 144,
+            "start": 601.518,
+            "end": 602.936,
+            "text": "It's stupid."
+          },
+          {
+            "index": 145,
+            "start": 603.937,
+            "end": 605.23,
+            "text": "Insane."
+          },
+          {
+            "index": 146,
+            "start": 608.609,
+            "end": 611.194,
+            "text": "- Sorry, Artie.\n- Life goes on, no?"
+          },
+          {
+            "index": 147,
+            "start": 611.528,
+            "end": 613.363,
+            "text": "I could always be a plumber, no?"
+          },
+          {
+            "index": 148,
+            "start": 613.572,
+            "end": 615.907,
+            "text": "Only one concept to master:\nShit runs downhill."
+          },
+          {
+            "index": 149,
+            "start": 616.158,
+            "end": 620.12,
+            "text": "Yes, it does. Come in the kitchen.\nI'll buy you a beer."
+          },
+          {
+            "index": 150,
+            "start": 633.258,
+            "end": 634.426,
+            "text": "- Mr. Soprano.\n- Mr. Teittleman."
+          },
+          {
+            "index": 151,
+            "start": 634.635,
+            "end": 636.345,
+            "text": "- My pleasure.\n- Have a seat."
+          },
+          {
+            "index": 152,
+            "start": 636.595,
+            "end": 638.805,
+            "text": "- Thank you.\n- Silvio you know."
+          },
+          {
+            "index": 153,
+            "start": 639.056,
+            "end": 640.515,
+            "text": "Paulie."
+          },
+          {
+            "index": 154,
+            "start": 640.766,
+            "end": 642.017,
+            "text": "How are you?"
+          },
+          {
+            "index": 155,
+            "start": 642.309,
+            "end": 644.019,
+            "text": "This is my son."
+          },
+          {
+            "index": 156,
+            "start": 645.562,
+            "end": 647.481,
+            "text": "Does he have a name?"
+          },
+          {
+            "index": 157,
+            "start": 647.689,
+            "end": 649.733,
+            "text": "Oh, I'm sorry. It's Hillel."
+          },
+          {
+            "index": 158,
+            "start": 652.361,
+            "end": 654.988,
+            "text": "You know about\nmy daughter and her husband?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 615.907,
+        "topCueIndex": 163,
+        "bottomCueIndex": 148
+      }
     }
   ]
 }
