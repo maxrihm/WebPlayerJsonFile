@@ -36653,6 +36653,158 @@
         "topCueIndex": 123,
         "bottomCueIndex": 145
       }
+    },
+    {
+      "id": "b257fe98-1ab1-4749-b3e2-22db673d622b",
+      "createdAt": "2026-06-03T22:51:32.951Z",
+      "videoName": "S4E20 - Mosbius Designs.mkv",
+      "audioTrackName": "S4E20 - Mosbius Designs.eng.m4a",
+      "selectedText": "card",
+      "selection": {
+        "rawText": "card",
+        "startOffset": 39,
+        "endOffset": 43,
+        "cueIndex": 145,
+        "cueStart": 383.883,
+        "cueEnd": 387.886,
+        "cueText": "PJ's gonna be getting\na very confusing card\nin the mail"
+      },
+      "bottomSubPath": "D:\\Как я встретил вашу маму\\S04\\S4E20 - Mosbius Designs\\S4E20 - Mosbius Designs.sub04.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 135,
+            "start": 355.222,
+            "end": 359.458,
+            "text": "I mentored\na young fellow once.\nEven made him my wingman."
+          },
+          {
+            "index": 136,
+            "start": 359.46,
+            "end": 362.027,
+            "text": "Then, one day,\nhe hired an assistant"
+          },
+          {
+            "index": 137,
+            "start": 362.029,
+            "end": 364.83,
+            "text": "to work 10 feet\nfrom his bedroom"
+          },
+          {
+            "index": 138,
+            "start": 364.832,
+            "end": 368.166,
+            "text": "who, get this,\nisn't a hot chick,"
+          },
+          {
+            "index": 139,
+            "start": 368.168,
+            "end": 370.435,
+            "text": "proving he\nnever listened\nto a word I said."
+          },
+          {
+            "index": 140,
+            "start": 370.437,
+            "end": 373.572,
+            "text": "And do you know\nthat young man's name?"
+          },
+          {
+            "index": 141,
+            "start": 373.574,
+            "end": 374.906,
+            "text": "Ted Mosby?"
+          },
+          {
+            "index": 142,
+            "start": 374.908,
+            "end": 376.074,
+            "text": "Maybe."
+          },
+          {
+            "index": 143,
+            "start": 376.076,
+            "end": 377.743,
+            "text": "I don't remember."
+          },
+          {
+            "index": 144,
+            "start": 377.745,
+            "end": 380.445,
+            "text": "Because he is dead to me!"
+          },
+          {
+            "index": 145,
+            "start": 383.883,
+            "end": 387.886,
+            "text": "PJ's gonna be getting\na very confusing card\nin the mail"
+          },
+          {
+            "index": 146,
+            "start": 387.888,
+            "end": 391.089,
+            "text": "along with a garment\nthat he should by\nno means"
+          },
+          {
+            "index": 147,
+            "start": 391.091,
+            "end": 394.726,
+            "text": "wear for three days\nand then mail back\nto me."
+          },
+          {
+            "index": 148,
+            "start": 397.83,
+            "end": 398.73,
+            "text": "Hey, Barney."
+          },
+          {
+            "index": 149,
+            "start": 398.732,
+            "end": 401.633,
+            "text": "I thought\nof a thing to make\nme more essential here."
+          },
+          {
+            "index": 150,
+            "start": 401.635,
+            "end": 405.837,
+            "text": "I'm Eco Guy, 'cause everybody\nloves a guy who recycles,\nright?"
+          },
+          {
+            "index": 151,
+            "start": 405.839,
+            "end": 407.706,
+            "text": "Fired. What else you got?"
+          },
+          {
+            "index": 152,
+            "start": 407.708,
+            "end": 410.542,
+            "text": "I thought of a few\nothers. Wacky Tie Guy."
+          },
+          {
+            "index": 153,
+            "start": 410.544,
+            "end": 411.243,
+            "text": "Fired."
+          },
+          {
+            "index": 154,
+            "start": 411.245,
+            "end": 412.844,
+            "text": "Daily Fun Fact Guy?"
+          },
+          {
+            "index": 155,
+            "start": 412.846,
+            "end": 414.713,
+            "text": "Did you know\nthat you're fired?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 385.530494,
+        "topCueIndex": 123,
+        "bottomCueIndex": 145
+      }
     }
   ]
 }
