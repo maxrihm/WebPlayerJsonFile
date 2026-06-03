@@ -35285,6 +35285,158 @@
         "topCueIndex": 39,
         "bottomCueIndex": 42
       }
+    },
+    {
+      "id": "2cdf6e30-d917-4766-88a5-5e78336d4779",
+      "createdAt": "2026-06-03T22:37:46.928Z",
+      "videoName": "S4E20 - Mosbius Designs.mkv",
+      "audioTrackName": "S4E20 - Mosbius Designs.eng.m4a",
+      "selectedText": "wash up",
+      "selection": {
+        "rawText": "wash up",
+        "startOffset": 50,
+        "endOffset": 57,
+        "cueIndex": 47,
+        "cueStart": 129.83,
+        "cueEnd": 132.331,
+        "cueText": "I mean,\nthere's a pretty good chance\none day I'll wash up on shore"
+      },
+      "bottomSubPath": "D:\\Как я встретил вашу маму\\S04\\S4E20 - Mosbius Designs\\S4E20 - Mosbius Designs.sub04.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 37,
+            "start": 97.898,
+            "end": 98.964,
+            "text": "(WHEEL DINGS)"
+          },
+          {
+            "index": 38,
+            "start": 98.966,
+            "end": 101.3,
+            "text": "A penny saved is\na Penny Marshall!\nYes!"
+          },
+          {
+            "index": 39,
+            "start": 101.302,
+            "end": 104.47,
+            "text": "Ted, I know you're nervous,\nbut you've got to stop\nprocrastinating."
+          },
+          {
+            "index": 40,
+            "start": 104.472,
+            "end": 109.608,
+            "text": "You've spent the last two days\nchoosing the official pen of\nMosbius Designs."
+          },
+          {
+            "index": 41,
+            "start": 109.61,
+            "end": 115.314,
+            "text": "Hey, I've made\nsome progress, huh?\nI've eliminated felt-tip."
+          },
+          {
+            "index": 42,
+            "start": 115.316,
+            "end": 118.851,
+            "text": "Who am I kidding?\nFelt's back in\nthe ball game."
+          },
+          {
+            "index": 43,
+            "start": 119.519,
+            "end": 122.421,
+            "text": "Hey. You hear there's\ngonna be more layoffs?"
+          },
+          {
+            "index": 44,
+            "start": 122.423,
+            "end": 124.623,
+            "text": "I know.\nI'm freaking out."
+          },
+          {
+            "index": 45,
+            "start": 124.625,
+            "end": 126.525,
+            "text": "Are you worried?\nAre you kidding?"
+          },
+          {
+            "index": 46,
+            "start": 126.527,
+            "end": 129.828,
+            "text": "The things I know\nabout this company,\nI won't ever be fired."
+          },
+          {
+            "index": 47,
+            "start": 129.83,
+            "end": 132.331,
+            "text": "I mean,\nthere's a pretty good chance\none day I'll wash up on shore"
+          },
+          {
+            "index": 48,
+            "start": 132.333,
+            "end": 135.734,
+            "text": "with no fingerprints or\nteeth, but I won't be\nfired."
+          },
+          {
+            "index": 49,
+            "start": 135.736,
+            "end": 137.87,
+            "text": "Well,\nI wish I had\nyour confidence."
+          },
+          {
+            "index": 50,
+            "start": 137.872,
+            "end": 141.507,
+            "text": "Look,\nyou just need a way to make\nyourself absolutely essential."
+          },
+          {
+            "index": 51,
+            "start": 141.509,
+            "end": 143.675,
+            "text": "Well, I work harder\nthan anyone in my\ndivision."
+          },
+          {
+            "index": 52,
+            "start": 143.677,
+            "end": 147.412,
+            "text": "Yeah. Keeping your job has\nnothing to do with hard work."
+          },
+          {
+            "index": 53,
+            "start": 147.414,
+            "end": 148.881,
+            "text": "You need a thing.\nWhat do you mean, a thing?"
+          },
+          {
+            "index": 54,
+            "start": 148.883,
+            "end": 152.351,
+            "text": "You know, something\nthat makes you fun\nand well-liked,"
+          },
+          {
+            "index": 55,
+            "start": 152.353,
+            "end": 153.619,
+            "text": "like Marcus Denisco."
+          },
+          {
+            "index": 56,
+            "start": 153.621,
+            "end": 155.954,
+            "text": "OLDER TED: Marcus Denisco\nworked in Account Services"
+          },
+          {
+            "index": 57,
+            "start": 155.956,
+            "end": 158.957,
+            "text": "and was perhaps\nthe most expendable\nemployee at the company."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 129.83,
+        "topCueIndex": 44,
+        "bottomCueIndex": 47
+      }
     }
   ]
 }
