@@ -34525,6 +34525,158 @@
         "topCueIndex": 306,
         "bottomCueIndex": 278
       }
+    },
+    {
+      "id": "7f689fb5-b549-4a43-a1f8-8143830af914",
+      "createdAt": "2026-06-03T22:30:56.701Z",
+      "videoName": "S4E20 - Mosbius Designs.mkv",
+      "audioTrackName": "S4E20 - Mosbius Designs.eng.m4a",
+      "selectedText": "striking out on your own,",
+      "selection": {
+        "rawText": "striking out on\nyour own,",
+        "startOffset": 34,
+        "endOffset": 59,
+        "cueIndex": 29,
+        "cueStart": 79.947,
+        "cueEnd": 83.382,
+        "cueText": "I think it's so great that\nyou're striking out on\nyour own, Ted."
+      },
+      "bottomSubPath": "D:\\Как я встретил вашу маму\\S04\\S4E20 - Mosbius Designs\\S4E20 - Mosbius Designs.sub04.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 19,
+            "start": 43.576,
+            "end": 46.812,
+            "text": "Yeah, I can't hang\nout with you anymore."
+          },
+          {
+            "index": 20,
+            "start": 46.814,
+            "end": 49.281,
+            "text": "(LAUGHING) Oh, come on."
+          },
+          {
+            "index": 21,
+            "start": 49.283,
+            "end": 51.65,
+            "text": "That's a funny joke."
+          },
+          {
+            "index": 22,
+            "start": 52.519,
+            "end": 53.786,
+            "text": "Told you."
+          },
+          {
+            "index": 23,
+            "start": 53.788,
+            "end": 55.087,
+            "text": "She'll be back."
+          },
+          {
+            "index": 24,
+            "start": 55.089,
+            "end": 59.425,
+            "text": "OLDER TED: And we didn't\nsee Lily for four weeks."
+          },
+          {
+            "index": 25,
+            "start": 72.539,
+            "end": 74.073,
+            "text": "OLDER TED: Kids,\nafter getting laid off,"
+          },
+          {
+            "index": 26,
+            "start": 74.075,
+            "end": 76.475,
+            "text": "I was\nfinally pursuing\nmy lifelong dream,"
+          },
+          {
+            "index": 27,
+            "start": 76.477,
+            "end": 78.377,
+            "text": "starting my own\narchitecture firm."
+          },
+          {
+            "index": 28,
+            "start": 78.379,
+            "end": 79.945,
+            "text": "All I needed\nwas some clients."
+          },
+          {
+            "index": 29,
+            "start": 79.947,
+            "end": 83.382,
+            "text": "I think it's so great that\nyou're striking out on\nyour own, Ted."
+          },
+          {
+            "index": 30,
+            "start": 83.384,
+            "end": 84.95,
+            "text": "I admire that.\nThanks."
+          },
+          {
+            "index": 31,
+            "start": 84.952,
+            "end": 87.386,
+            "text": "And thanks for being so cool\nwith me using the apartment."
+          },
+          {
+            "index": 32,
+            "start": 87.388,
+            "end": 89.788,
+            "text": "Oh,\nyeah, of course.\nAnything you need."
+          },
+          {
+            "index": 33,
+            "start": 89.79,
+            "end": 90.756,
+            "text": "(CHEERING ON TV)"
+          },
+          {
+            "index": 34,
+            "start": 90.758,
+            "end": 94.393,
+            "text": "Hey, small thing, do you mind\nnot watching television\nduring business hours?"
+          },
+          {
+            "index": 35,
+            "start": 94.395,
+            "end": 95.527,
+            "text": "This isn't working!"
+          },
+          {
+            "index": 36,
+            "start": 95.529,
+            "end": 97.896,
+            "text": "I'm sorry. It's just,\nI can't concentrate\nwhile Wheel of Fortune  is..."
+          },
+          {
+            "index": 37,
+            "start": 97.898,
+            "end": 98.964,
+            "text": "(WHEEL DINGS)"
+          },
+          {
+            "index": 38,
+            "start": 98.966,
+            "end": 101.3,
+            "text": "A penny saved is\na Penny Marshall!\nYes!"
+          },
+          {
+            "index": 39,
+            "start": 101.302,
+            "end": 104.47,
+            "text": "Ted, I know you're nervous,\nbut you've got to stop\nprocrastinating."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 80.376482,
+        "topCueIndex": 26,
+        "bottomCueIndex": 29
+      }
     }
   ]
 }
