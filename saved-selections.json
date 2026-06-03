@@ -34829,6 +34829,158 @@
         "topCueIndex": 34,
         "bottomCueIndex": 38
       }
+    },
+    {
+      "id": "581a83e2-19d1-4e77-9707-32aac17bd048",
+      "createdAt": "2026-06-03T22:33:52.089Z",
+      "videoName": "S4E20 - Mosbius Designs.mkv",
+      "audioTrackName": "S4E20 - Mosbius Designs.eng.m4a",
+      "selectedText": "(WHEEL",
+      "selection": {
+        "rawText": "(WHEEL",
+        "startOffset": 0,
+        "endOffset": 6,
+        "cueIndex": 37,
+        "cueStart": 97.898,
+        "cueEnd": 98.964,
+        "cueText": "(WHEEL DINGS)"
+      },
+      "bottomSubPath": "D:\\Как я встретил вашу маму\\S04\\S4E20 - Mosbius Designs\\S4E20 - Mosbius Designs.sub04.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 27,
+            "start": 76.477,
+            "end": 78.377,
+            "text": "starting my own\narchitecture firm."
+          },
+          {
+            "index": 28,
+            "start": 78.379,
+            "end": 79.945,
+            "text": "All I needed\nwas some clients."
+          },
+          {
+            "index": 29,
+            "start": 79.947,
+            "end": 83.382,
+            "text": "I think it's so great that\nyou're striking out on\nyour own, Ted."
+          },
+          {
+            "index": 30,
+            "start": 83.384,
+            "end": 84.95,
+            "text": "I admire that.\nThanks."
+          },
+          {
+            "index": 31,
+            "start": 84.952,
+            "end": 87.386,
+            "text": "And thanks for being so cool\nwith me using the apartment."
+          },
+          {
+            "index": 32,
+            "start": 87.388,
+            "end": 89.788,
+            "text": "Oh,\nyeah, of course.\nAnything you need."
+          },
+          {
+            "index": 33,
+            "start": 89.79,
+            "end": 90.756,
+            "text": "(CHEERING ON TV)"
+          },
+          {
+            "index": 34,
+            "start": 90.758,
+            "end": 94.393,
+            "text": "Hey, small thing, do you mind\nnot watching television\nduring business hours?"
+          },
+          {
+            "index": 35,
+            "start": 94.395,
+            "end": 95.527,
+            "text": "This isn't working!"
+          },
+          {
+            "index": 36,
+            "start": 95.529,
+            "end": 97.896,
+            "text": "I'm sorry. It's just,\nI can't concentrate\nwhile Wheel of Fortune  is..."
+          },
+          {
+            "index": 37,
+            "start": 97.898,
+            "end": 98.964,
+            "text": "(WHEEL DINGS)"
+          },
+          {
+            "index": 38,
+            "start": 98.966,
+            "end": 101.3,
+            "text": "A penny saved is\na Penny Marshall!\nYes!"
+          },
+          {
+            "index": 39,
+            "start": 101.302,
+            "end": 104.47,
+            "text": "Ted, I know you're nervous,\nbut you've got to stop\nprocrastinating."
+          },
+          {
+            "index": 40,
+            "start": 104.472,
+            "end": 109.608,
+            "text": "You've spent the last two days\nchoosing the official pen of\nMosbius Designs."
+          },
+          {
+            "index": 41,
+            "start": 109.61,
+            "end": 115.314,
+            "text": "Hey, I've made\nsome progress, huh?\nI've eliminated felt-tip."
+          },
+          {
+            "index": 42,
+            "start": 115.316,
+            "end": 118.851,
+            "text": "Who am I kidding?\nFelt's back in\nthe ball game."
+          },
+          {
+            "index": 43,
+            "start": 119.519,
+            "end": 122.421,
+            "text": "Hey. You hear there's\ngonna be more layoffs?"
+          },
+          {
+            "index": 44,
+            "start": 122.423,
+            "end": 124.623,
+            "text": "I know.\nI'm freaking out."
+          },
+          {
+            "index": 45,
+            "start": 124.625,
+            "end": 126.525,
+            "text": "Are you worried?\nAre you kidding?"
+          },
+          {
+            "index": 46,
+            "start": 126.527,
+            "end": 129.828,
+            "text": "The things I know\nabout this company,\nI won't ever be fired."
+          },
+          {
+            "index": 47,
+            "start": 129.83,
+            "end": 132.331,
+            "text": "I mean,\nthere's a pretty good chance\none day I'll wash up on shore"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 101.3,
+        "topCueIndex": 33,
+        "bottomCueIndex": 37
+      }
     }
   ]
 }
