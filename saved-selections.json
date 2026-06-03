@@ -36197,6 +36197,158 @@
         "topCueIndex": 91,
         "bottomCueIndex": 102
       }
+    },
+    {
+      "id": "8b0dea66-7ac0-47c4-8b39-384ab5edbf5b",
+      "createdAt": "2026-06-03T22:47:32.587Z",
+      "videoName": "S4E20 - Mosbius Designs.mkv",
+      "audioTrackName": "S4E20 - Mosbius Designs.eng.m4a",
+      "selectedText": "dry cleaning.",
+      "selection": {
+        "rawText": "dry cleaning.",
+        "startOffset": 15,
+        "endOffset": 28,
+        "cueIndex": 113,
+        "cueStart": 309.776,
+        "cueEnd": 311.743,
+        "cueText": "And pick up\nmy dry cleaning."
+      },
+      "bottomSubPath": "D:\\Как я встретил вашу маму\\S04\\S4E20 - Mosbius Designs\\S4E20 - Mosbius Designs.sub04.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 103,
+            "start": 278.479,
+            "end": 280.512,
+            "text": "You're right there!"
+          },
+          {
+            "index": 104,
+            "start": 280.514,
+            "end": 284.449,
+            "text": "So now Ted has an assistant\nto help him not do anything."
+          },
+          {
+            "index": 105,
+            "start": 284.451,
+            "end": 286.518,
+            "text": "Hey, PJ's been\na huge help to\nme,"
+          },
+          {
+            "index": 106,
+            "start": 286.52,
+            "end": 288.954,
+            "text": "setting up the office,\ndesigning the web site."
+          },
+          {
+            "index": 107,
+            "start": 288.956,
+            "end": 291.823,
+            "text": "And in return,\nI'm mentoring a\nbright, young mind."
+          },
+          {
+            "index": 108,
+            "start": 291.825,
+            "end": 294.259,
+            "text": "Ah, yes, the mentoring."
+          },
+          {
+            "index": 109,
+            "start": 294.261,
+            "end": 297.029,
+            "text": "I want you to go\noutside today\nand simply"
+          },
+          {
+            "index": 110,
+            "start": 297.031,
+            "end": 300.499,
+            "text": "put your hands on\nbuildings. All right?"
+          },
+          {
+            "index": 111,
+            "start": 300.501,
+            "end": 304.603,
+            "text": "Feel the concrete pulse.\nListen."
+          },
+          {
+            "index": 112,
+            "start": 304.605,
+            "end": 309.007,
+            "text": "Listen to the stories\nthe stones are telling you."
+          },
+          {
+            "index": 113,
+            "start": 309.776,
+            "end": 311.743,
+            "text": "And pick up\nmy dry cleaning."
+          },
+          {
+            "index": 114,
+            "start": 311.745,
+            "end": 313.011,
+            "text": "I will."
+          },
+          {
+            "index": 115,
+            "start": 313.013,
+            "end": 316.648,
+            "text": "Thank you so much, Mr. Mosby.\nAll right."
+          },
+          {
+            "index": 116,
+            "start": 317.717,
+            "end": 318.75,
+            "text": "Hey, Ted?"
+          },
+          {
+            "index": 117,
+            "start": 318.752,
+            "end": 320.018,
+            "text": "(DOOR CLOSES)"
+          },
+          {
+            "index": 118,
+            "start": 320.02,
+            "end": 322.921,
+            "text": "This table\njust told me\nyou're a douche."
+          },
+          {
+            "index": 119,
+            "start": 323.99,
+            "end": 325.857,
+            "text": "This whole mentoring\nthing is just another way"
+          },
+          {
+            "index": 120,
+            "start": 325.859,
+            "end": 328.16,
+            "text": "to procrastinate from\nactually calling clients."
+          },
+          {
+            "index": 121,
+            "start": 328.162,
+            "end": 331.096,
+            "text": "I'm not procrastinating.\nI just..."
+          },
+          {
+            "index": 122,
+            "start": 331.098,
+            "end": 332.831,
+            "text": "I want everything\nto be perfect, okay?"
+          },
+          {
+            "index": 123,
+            "start": 332.833,
+            "end": 334.199,
+            "text": "I only get\none shot at this."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 309.776,
+        "topCueIndex": 101,
+        "bottomCueIndex": 113
+      }
     }
   ]
 }
