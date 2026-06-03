@@ -36045,6 +36045,158 @@
         "topCueIndex": 78,
         "bottomCueIndex": 86
       }
+    },
+    {
+      "id": "7c837cea-698f-46c3-bdaf-4e1c64565655",
+      "createdAt": "2026-06-03T22:45:50.638Z",
+      "videoName": "S4E20 - Mosbius Designs.mkv",
+      "audioTrackName": "S4E20 - Mosbius Designs.eng.m4a",
+      "selectedText": "I wouldn't say no to",
+      "selection": {
+        "rawText": "I wouldn't\nsay no to",
+        "startOffset": 6,
+        "endOffset": 26,
+        "cueIndex": 102,
+        "cueStart": 276.61,
+        "cueEnd": 278.477,
+        "cueText": "Well, I wouldn't\nsay no to a cup of..."
+      },
+      "bottomSubPath": "D:\\Как я встретил вашу маму\\S04\\S4E20 - Mosbius Designs\\S4E20 - Mosbius Designs.sub04.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 92,
+            "start": 247.181,
+            "end": 250.716,
+            "text": "I was\nrelaxed about\ntwo seconds ago."
+          },
+          {
+            "index": 93,
+            "start": 252.485,
+            "end": 254.419,
+            "text": "You're next."
+          },
+          {
+            "index": 94,
+            "start": 255.955,
+            "end": 258.423,
+            "text": "Hi.\nWelcome to\nMosbius Designs."
+          },
+          {
+            "index": 95,
+            "start": 258.425,
+            "end": 260.559,
+            "text": "(SIGHS)\nWho the hell are you?"
+          },
+          {
+            "index": 96,
+            "start": 260.561,
+            "end": 263.528,
+            "text": "I'm PJ,\nMr. Mosby's assistant."
+          },
+          {
+            "index": 97,
+            "start": 263.53,
+            "end": 264.83,
+            "text": "Ted,\nwhat the hell is going...\nI'm sorry,"
+          },
+          {
+            "index": 98,
+            "start": 264.832,
+            "end": 267.966,
+            "text": "we do not interrupt Mr. Mosby\nduring his brainstorming hour."
+          },
+          {
+            "index": 99,
+            "start": 267.968,
+            "end": 269.134,
+            "text": "(INTERCOM BEEPING)"
+          },
+          {
+            "index": 100,
+            "start": 269.136,
+            "end": 271.77,
+            "text": "It's okay, PJ.\nThat's Robin.\nShe lives here."
+          },
+          {
+            "index": 101,
+            "start": 271.772,
+            "end": 276.608,
+            "text": "Oh, I'm sorry\nfor the disturbance, sir.\nDo you need anything else?"
+          },
+          {
+            "index": 102,
+            "start": 276.61,
+            "end": 278.477,
+            "text": "Well, I wouldn't\nsay no to a cup of..."
+          },
+          {
+            "index": 103,
+            "start": 278.479,
+            "end": 280.512,
+            "text": "You're right there!"
+          },
+          {
+            "index": 104,
+            "start": 280.514,
+            "end": 284.449,
+            "text": "So now Ted has an assistant\nto help him not do anything."
+          },
+          {
+            "index": 105,
+            "start": 284.451,
+            "end": 286.518,
+            "text": "Hey, PJ's been\na huge help to\nme,"
+          },
+          {
+            "index": 106,
+            "start": 286.52,
+            "end": 288.954,
+            "text": "setting up the office,\ndesigning the web site."
+          },
+          {
+            "index": 107,
+            "start": 288.956,
+            "end": 291.823,
+            "text": "And in return,\nI'm mentoring a\nbright, young mind."
+          },
+          {
+            "index": 108,
+            "start": 291.825,
+            "end": 294.259,
+            "text": "Ah, yes, the mentoring."
+          },
+          {
+            "index": 109,
+            "start": 294.261,
+            "end": 297.029,
+            "text": "I want you to go\noutside today\nand simply"
+          },
+          {
+            "index": 110,
+            "start": 297.031,
+            "end": 300.499,
+            "text": "put your hands on\nbuildings. All right?"
+          },
+          {
+            "index": 111,
+            "start": 300.501,
+            "end": 304.603,
+            "text": "Feel the concrete pulse.\nListen."
+          },
+          {
+            "index": 112,
+            "start": 304.605,
+            "end": 309.007,
+            "text": "Listen to the stories\nthe stones are telling you."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 278.477,
+        "topCueIndex": 91,
+        "bottomCueIndex": 102
+      }
     }
   ]
 }
