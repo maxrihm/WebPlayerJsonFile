@@ -36349,6 +36349,158 @@
         "topCueIndex": 101,
         "bottomCueIndex": 113
       }
+    },
+    {
+      "id": "4e3a6d98-b7d3-4caa-8439-c8d479a75ce4",
+      "createdAt": "2026-06-03T22:50:05.863Z",
+      "videoName": "S4E20 - Mosbius Designs.mkv",
+      "audioTrackName": "S4E20 - Mosbius Designs.eng.m4a",
+      "selectedText": "get this,",
+      "selection": {
+        "rawText": "get this,",
+        "startOffset": 5,
+        "endOffset": 14,
+        "cueIndex": 138,
+        "cueStart": 364.832,
+        "cueEnd": 368.166,
+        "cueText": "who, get this,\nisn't a hot chick,"
+      },
+      "bottomSubPath": "D:\\Как я встретил вашу маму\\S04\\S4E20 - Mosbius Designs\\S4E20 - Mosbius Designs.sub04.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 128,
+            "start": 342.743,
+            "end": 344.743,
+            "text": "See? He's very valuable."
+          },
+          {
+            "index": 129,
+            "start": 344.745,
+            "end": 346.678,
+            "text": "Whoa, whoa."
+          },
+          {
+            "index": 130,
+            "start": 346.68,
+            "end": 347.946,
+            "text": "PJ's a guy?"
+          },
+          {
+            "index": 131,
+            "start": 347.948,
+            "end": 350.015,
+            "text": "PJ's not some hot\nchick you're banging?"
+          },
+          {
+            "index": 132,
+            "start": 350.017,
+            "end": 352.417,
+            "text": "No, I'm mentoring him."
+          },
+          {
+            "index": 133,
+            "start": 352.419,
+            "end": 353.852,
+            "text": "(GROANING IN DISGUST)"
+          },
+          {
+            "index": 134,
+            "start": 353.854,
+            "end": 355.22,
+            "text": "Mentoring."
+          },
+          {
+            "index": 135,
+            "start": 355.222,
+            "end": 359.458,
+            "text": "I mentored\na young fellow once.\nEven made him my wingman."
+          },
+          {
+            "index": 136,
+            "start": 359.46,
+            "end": 362.027,
+            "text": "Then, one day,\nhe hired an assistant"
+          },
+          {
+            "index": 137,
+            "start": 362.029,
+            "end": 364.83,
+            "text": "to work 10 feet\nfrom his bedroom"
+          },
+          {
+            "index": 138,
+            "start": 364.832,
+            "end": 368.166,
+            "text": "who, get this,\nisn't a hot chick,"
+          },
+          {
+            "index": 139,
+            "start": 368.168,
+            "end": 370.435,
+            "text": "proving he\nnever listened\nto a word I said."
+          },
+          {
+            "index": 140,
+            "start": 370.437,
+            "end": 373.572,
+            "text": "And do you know\nthat young man's name?"
+          },
+          {
+            "index": 141,
+            "start": 373.574,
+            "end": 374.906,
+            "text": "Ted Mosby?"
+          },
+          {
+            "index": 142,
+            "start": 374.908,
+            "end": 376.074,
+            "text": "Maybe."
+          },
+          {
+            "index": 143,
+            "start": 376.076,
+            "end": 377.743,
+            "text": "I don't remember."
+          },
+          {
+            "index": 144,
+            "start": 377.745,
+            "end": 380.445,
+            "text": "Because he is dead to me!"
+          },
+          {
+            "index": 145,
+            "start": 383.883,
+            "end": 387.886,
+            "text": "PJ's gonna be getting\na very confusing card\nin the mail"
+          },
+          {
+            "index": 146,
+            "start": 387.888,
+            "end": 391.089,
+            "text": "along with a garment\nthat he should by\nno means"
+          },
+          {
+            "index": 147,
+            "start": 391.091,
+            "end": 394.726,
+            "text": "wear for three days\nand then mail back\nto me."
+          },
+          {
+            "index": 148,
+            "start": 397.83,
+            "end": 398.73,
+            "text": "Hey, Barney."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 368.166,
+        "topCueIndex": 118,
+        "bottomCueIndex": 138
+      }
     }
   ]
 }
