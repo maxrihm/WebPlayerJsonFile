@@ -35589,6 +35589,158 @@
         "topCueIndex": 53,
         "bottomCueIndex": 57
       }
+    },
+    {
+      "id": "64665057-2dd0-412d-b535-fa51adaee419",
+      "createdAt": "2026-06-03T22:42:41.268Z",
+      "videoName": "S4E20 - Mosbius Designs.mkv",
+      "audioTrackName": "S4E20 - Mosbius Designs.eng.m4a",
+      "selectedText": "(WHOOPING)",
+      "selection": {
+        "rawText": "(WHOOPING)",
+        "startOffset": 0,
+        "endOffset": 10,
+        "cueIndex": 77,
+        "cueStart": 210.878,
+        "cueEnd": 212.544,
+        "cueText": "(WHOOPING)"
+      },
+      "bottomSubPath": "D:\\Как я встретил вашу маму\\S04\\S4E20 - Mosbius Designs\\S4E20 - Mosbius Designs.sub04.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 67,
+            "start": 178.746,
+            "end": 181.38,
+            "text": "You need that thing\nthat makes you a guy."
+          },
+          {
+            "index": 68,
+            "start": 181.382,
+            "end": 187.286,
+            "text": "Oh, I have that\nthing that makes me a guy.\nMaybe even a guy and a half."
+          },
+          {
+            "index": 69,
+            "start": 187.288,
+            "end": 188.353,
+            "text": "Not that thing."
+          },
+          {
+            "index": 70,
+            "start": 188.355,
+            "end": 191.323,
+            "text": "You know, a thing.\nLike Toy Guy."
+          },
+          {
+            "index": 71,
+            "start": 191.325,
+            "end": 192.357,
+            "text": "Guys, bad news."
+          },
+          {
+            "index": 72,
+            "start": 192.359,
+            "end": 197.696,
+            "text": "As your HR rep, I gotta review\nthe new overtime scheduling\npolicy with you."
+          },
+          {
+            "index": 73,
+            "start": 197.698,
+            "end": 202.868,
+            "text": "The good news is\nwe're gonna do it while\nwearing Wolverine claws!"
+          },
+          {
+            "index": 74,
+            "start": 202.87,
+            "end": 204.403,
+            "text": "(CHEERING)"
+          },
+          {
+            "index": 75,
+            "start": 204.405,
+            "end": 208.907,
+            "text": "Section 5A,\novertime will no longer\nbe paid at time and a half."
+          },
+          {
+            "index": 76,
+            "start": 208.909,
+            "end": 210.876,
+            "text": "This is awesome!\nClaw five!"
+          },
+          {
+            "index": 77,
+            "start": 210.878,
+            "end": 212.544,
+            "text": "(WHOOPING)"
+          },
+          {
+            "index": 78,
+            "start": 212.845,
+            "end": 214.546,
+            "text": "I love Toy Guy."
+          },
+          {
+            "index": 79,
+            "start": 214.548,
+            "end": 215.847,
+            "text": "See? You need a thing."
+          },
+          {
+            "index": 80,
+            "start": 215.849,
+            "end": 217.849,
+            "text": "Like YouTube Clip Guy."
+          },
+          {
+            "index": 81,
+            "start": 217.851,
+            "end": 219.051,
+            "text": "(BABY CRYING)"
+          },
+          {
+            "index": 82,
+            "start": 219.053,
+            "end": 220.919,
+            "text": "(ALL EXCLAIMING)"
+          },
+          {
+            "index": 83,
+            "start": 225.024,
+            "end": 228.76,
+            "text": "You're right.\nI do need a thing."
+          },
+          {
+            "index": 84,
+            "start": 228.762,
+            "end": 230.095,
+            "text": "But choose wisely."
+          },
+          {
+            "index": 85,
+            "start": 230.097,
+            "end": 232.698,
+            "text": "You\ndon't want to be\nCreepy Back Rub Guy."
+          },
+          {
+            "index": 86,
+            "start": 232.7,
+            "end": 234.032,
+            "text": "Hey, don't fill up."
+          },
+          {
+            "index": 87,
+            "start": 234.034,
+            "end": 235.701,
+            "text": "Food Guy's got\nPanna Cotta in\nhis office."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 210.878,
+        "topCueIndex": 71,
+        "bottomCueIndex": 77
+      }
     }
   ]
 }
