@@ -35893,6 +35893,158 @@
         "topCueIndex": 76,
         "bottomCueIndex": 84
       }
+    },
+    {
+      "id": "4a724140-27d0-485c-9477-d8fc83429450",
+      "createdAt": "2026-06-03T22:44:11.934Z",
+      "videoName": "S4E20 - Mosbius Designs.mkv",
+      "audioTrackName": "S4E20 - Mosbius Designs.eng.m4a",
+      "selectedText": "fill up.",
+      "selection": {
+        "rawText": "fill up.",
+        "startOffset": 11,
+        "endOffset": 19,
+        "cueIndex": 86,
+        "cueStart": 232.7,
+        "cueEnd": 234.032,
+        "cueText": "Hey, don't fill up."
+      },
+      "bottomSubPath": "D:\\Как я встретил вашу маму\\S04\\S4E20 - Mosbius Designs\\S4E20 - Mosbius Designs.sub04.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 76,
+            "start": 208.909,
+            "end": 210.876,
+            "text": "This is awesome!\nClaw five!"
+          },
+          {
+            "index": 77,
+            "start": 210.878,
+            "end": 212.544,
+            "text": "(WHOOPING)"
+          },
+          {
+            "index": 78,
+            "start": 212.845,
+            "end": 214.546,
+            "text": "I love Toy Guy."
+          },
+          {
+            "index": 79,
+            "start": 214.548,
+            "end": 215.847,
+            "text": "See? You need a thing."
+          },
+          {
+            "index": 80,
+            "start": 215.849,
+            "end": 217.849,
+            "text": "Like YouTube Clip Guy."
+          },
+          {
+            "index": 81,
+            "start": 217.851,
+            "end": 219.051,
+            "text": "(BABY CRYING)"
+          },
+          {
+            "index": 82,
+            "start": 219.053,
+            "end": 220.919,
+            "text": "(ALL EXCLAIMING)"
+          },
+          {
+            "index": 83,
+            "start": 225.024,
+            "end": 228.76,
+            "text": "You're right.\nI do need a thing."
+          },
+          {
+            "index": 84,
+            "start": 228.762,
+            "end": 230.095,
+            "text": "But choose wisely."
+          },
+          {
+            "index": 85,
+            "start": 230.097,
+            "end": 232.698,
+            "text": "You\ndon't want to be\nCreepy Back Rub Guy."
+          },
+          {
+            "index": 86,
+            "start": 232.7,
+            "end": 234.032,
+            "text": "Hey, don't fill up."
+          },
+          {
+            "index": 87,
+            "start": 234.034,
+            "end": 235.701,
+            "text": "Food Guy's got\nPanna Cotta in\nhis office."
+          },
+          {
+            "index": 88,
+            "start": 235.703,
+            "end": 236.735,
+            "text": "Ooh!"
+          },
+          {
+            "index": 89,
+            "start": 238.071,
+            "end": 239.972,
+            "text": "DOUGLAS: Hey, buddy."
+          },
+          {
+            "index": 90,
+            "start": 240.54,
+            "end": 242.874,
+            "text": "Hey, Douglas."
+          },
+          {
+            "index": 91,
+            "start": 242.876,
+            "end": 247.179,
+            "text": "Wow. You're so tight."
+          },
+          {
+            "index": 92,
+            "start": 247.181,
+            "end": 250.716,
+            "text": "I was\nrelaxed about\ntwo seconds ago."
+          },
+          {
+            "index": 93,
+            "start": 252.485,
+            "end": 254.419,
+            "text": "You're next."
+          },
+          {
+            "index": 94,
+            "start": 255.955,
+            "end": 258.423,
+            "text": "Hi.\nWelcome to\nMosbius Designs."
+          },
+          {
+            "index": 95,
+            "start": 258.425,
+            "end": 260.559,
+            "text": "(SIGHS)\nWho the hell are you?"
+          },
+          {
+            "index": 96,
+            "start": 260.561,
+            "end": 263.528,
+            "text": "I'm PJ,\nMr. Mosby's assistant."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 234.032,
+        "topCueIndex": 78,
+        "bottomCueIndex": 86
+      }
     }
   ]
 }
