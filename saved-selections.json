@@ -35437,6 +35437,158 @@
         "topCueIndex": 44,
         "bottomCueIndex": 47
       }
+    },
+    {
+      "id": "18cfbfbf-f5d3-4fec-b92d-18fe3e664f19",
+      "createdAt": "2026-06-03T22:39:12.137Z",
+      "videoName": "S4E20 - Mosbius Designs.mkv",
+      "audioTrackName": "S4E20 - Mosbius Designs.eng.m4a",
+      "selectedText": "expendable",
+      "selection": {
+        "rawText": "expendable",
+        "startOffset": 25,
+        "endOffset": 35,
+        "cueIndex": 57,
+        "cueStart": 155.956,
+        "cueEnd": 158.957,
+        "cueText": "and was perhaps\nthe most expendable\nemployee at the company."
+      },
+      "bottomSubPath": "D:\\Как я встретил вашу маму\\S04\\S4E20 - Mosbius Designs\\S4E20 - Mosbius Designs.sub04.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 47,
+            "start": 129.83,
+            "end": 132.331,
+            "text": "I mean,\nthere's a pretty good chance\none day I'll wash up on shore"
+          },
+          {
+            "index": 48,
+            "start": 132.333,
+            "end": 135.734,
+            "text": "with no fingerprints or\nteeth, but I won't be\nfired."
+          },
+          {
+            "index": 49,
+            "start": 135.736,
+            "end": 137.87,
+            "text": "Well,\nI wish I had\nyour confidence."
+          },
+          {
+            "index": 50,
+            "start": 137.872,
+            "end": 141.507,
+            "text": "Look,\nyou just need a way to make\nyourself absolutely essential."
+          },
+          {
+            "index": 51,
+            "start": 141.509,
+            "end": 143.675,
+            "text": "Well, I work harder\nthan anyone in my\ndivision."
+          },
+          {
+            "index": 52,
+            "start": 143.677,
+            "end": 147.412,
+            "text": "Yeah. Keeping your job has\nnothing to do with hard work."
+          },
+          {
+            "index": 53,
+            "start": 147.414,
+            "end": 148.881,
+            "text": "You need a thing.\nWhat do you mean, a thing?"
+          },
+          {
+            "index": 54,
+            "start": 148.883,
+            "end": 152.351,
+            "text": "You know, something\nthat makes you fun\nand well-liked,"
+          },
+          {
+            "index": 55,
+            "start": 152.353,
+            "end": 153.619,
+            "text": "like Marcus Denisco."
+          },
+          {
+            "index": 56,
+            "start": 153.621,
+            "end": 155.954,
+            "text": "OLDER TED: Marcus Denisco\nworked in Account Services"
+          },
+          {
+            "index": 57,
+            "start": 155.956,
+            "end": 158.957,
+            "text": "and was perhaps\nthe most expendable\nemployee at the company."
+          },
+          {
+            "index": 58,
+            "start": 158.959,
+            "end": 161.727,
+            "text": "I brought some donuts.\nThey're probably stupid."
+          },
+          {
+            "index": 59,
+            "start": 161.729,
+            "end": 164.53,
+            "text": "OLDER TED: But eventually,\nhe came to be known as..."
+          },
+          {
+            "index": 60,
+            "start": 164.532,
+            "end": 165.697,
+            "text": "Food Guy!\nFood Guy!"
+          },
+          {
+            "index": 61,
+            "start": 165.699,
+            "end": 168.367,
+            "text": "Who wants some pulled pork?\nOf course you do! Come on!"
+          },
+          {
+            "index": 62,
+            "start": 168.369,
+            "end": 169.735,
+            "text": "(ALL CHEERING)"
+          },
+          {
+            "index": 63,
+            "start": 169.737,
+            "end": 172.571,
+            "text": "I love Food Guy.\nThey could never lay him off."
+          },
+          {
+            "index": 64,
+            "start": 172.573,
+            "end": 174.84,
+            "text": "Mmm-hmm.\nYou know what I\nlove about Food Guy?"
+          },
+          {
+            "index": 65,
+            "start": 174.842,
+            "end": 177.442,
+            "text": "He always has food.\nHe always has food."
+          },
+          {
+            "index": 66,
+            "start": 177.444,
+            "end": 178.744,
+            "text": "See? That's what you need."
+          },
+          {
+            "index": 67,
+            "start": 178.746,
+            "end": 181.38,
+            "text": "You need that thing\nthat makes you a guy."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 155.956,
+        "topCueIndex": 53,
+        "bottomCueIndex": 57
+      }
     }
   ]
 }
