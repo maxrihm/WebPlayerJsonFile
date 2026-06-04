@@ -36957,6 +36957,158 @@
         "topCueIndex": 123,
         "bottomCueIndex": 146
       }
+    },
+    {
+      "id": "822b726e-c74c-4247-8d7d-b9b4bfb5f51b",
+      "createdAt": "2026-06-04T07:34:35.055Z",
+      "videoName": "S4E20 - Mosbius Designs.mkv",
+      "audioTrackName": "S4E20 - Mosbius Designs.eng.m4a",
+      "selectedText": "admire",
+      "selection": {
+        "rawText": "admire",
+        "startOffset": 2,
+        "endOffset": 8,
+        "cueIndex": 30,
+        "cueStart": 84.01,
+        "cueEnd": 84.96,
+        "cueText": "I admire that."
+      },
+      "bottomSubPath": "F:\\Как я встретил вашу маму\\S04\\S4E20 - Mosbius Designs\\S4E20 - Mosbius Designs.openai.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 20,
+            "start": 44.326,
+            "end": 46.426,
+            "text": "Yeah, I can't hang out with you anymore."
+          },
+          {
+            "index": 21,
+            "start": 50.612,
+            "end": 51.712,
+            "text": "Funny joke."
+          },
+          {
+            "index": 22,
+            "start": 52.812,
+            "end": 53.412,
+            "text": "Told you."
+          },
+          {
+            "index": 23,
+            "start": 54.512,
+            "end": 55.662,
+            "text": "She'll be back."
+          },
+          {
+            "index": 24,
+            "start": 56.162,
+            "end": 58.762,
+            "text": "And we didn't see Lily for four weeks."
+          },
+          {
+            "index": 25,
+            "start": 73.212,
+            "end": 75.062,
+            "text": "Kids, after getting laid off,"
+          },
+          {
+            "index": 26,
+            "start": 75.112,
+            "end": 77.062,
+            "text": "I was finally pursuing my lifelong dream."
+          },
+          {
+            "index": 27,
+            "start": 77.46,
+            "end": 79.06,
+            "text": "Starting my own architecture firm."
+          },
+          {
+            "index": 28,
+            "start": 79.51,
+            "end": 81.01,
+            "text": "All I needed was some clients."
+          },
+          {
+            "index": 29,
+            "start": 81.46,
+            "end": 83.86,
+            "text": "I think it's so great that you're striking\nout on your own, Ted."
+          },
+          {
+            "index": 30,
+            "start": 84.01,
+            "end": 84.96,
+            "text": "I admire that."
+          },
+          {
+            "index": 31,
+            "start": 85.36,
+            "end": 85.71,
+            "text": "Thanks."
+          },
+          {
+            "index": 32,
+            "start": 86.21,
+            "end": 88.41,
+            "text": "And thanks for being so cool with me using\nthe apartment."
+          },
+          {
+            "index": 33,
+            "start": 88.41,
+            "end": 89.96,
+            "text": "Oh yeah, of course, anything you need."
+          },
+          {
+            "index": 34,
+            "start": 91.76,
+            "end": 92.71,
+            "text": "Hey, small thing,"
+          },
+          {
+            "index": 35,
+            "start": 92.81,
+            "end": 94.76,
+            "text": "do you mind not watching television during\nbusiness hours?"
+          },
+          {
+            "index": 36,
+            "start": 94.76,
+            "end": 95.76,
+            "text": "This isn't working."
+          },
+          {
+            "index": 37,
+            "start": 95.91,
+            "end": 96.46,
+            "text": "I'm sorry,"
+          },
+          {
+            "index": 38,
+            "start": 96.51,
+            "end": 101.66,
+            "text": "it's just I can't concentrate while Wheel\nof Fortune is a penny saved is a penny\nMarshall. Yes!"
+          },
+          {
+            "index": 39,
+            "start": 103.22,
+            "end": 110.42,
+            "text": "I know you're nervous, but you've got to\nstop procrastinating. You've spent the\nlast two days choosing the official pen of\nMosbius Designs."
+          },
+          {
+            "index": 40,
+            "start": 110.57,
+            "end": 110.97,
+            "text": "Hey,"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 84.01,
+        "topCueIndex": 28,
+        "bottomCueIndex": 30
+      }
     }
   ]
 }
