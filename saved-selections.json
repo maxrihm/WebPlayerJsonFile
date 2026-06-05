@@ -39389,6 +39389,158 @@
         "topCueIndex": 194,
         "bottomCueIndex": 224
       }
+    },
+    {
+      "id": "2574f495-7f60-4509-858c-43557df70004",
+      "createdAt": "2026-06-05T21:31:29.635Z",
+      "videoName": "S4E20 - Mosbius Designs.mkv",
+      "audioTrackName": "S4E20 - Mosbius Designs.eng.m4a",
+      "selectedText": "onto me.",
+      "selection": {
+        "rawText": "onto me.",
+        "startOffset": 19,
+        "endOffset": 27,
+        "cueIndex": 233,
+        "cueStart": 655.008,
+        "cueEnd": 657.658,
+        "cueText": "Oh, no.\nThe baby's onto me."
+      },
+      "bottomSubPath": "F:\\Как я встретил вашу маму\\S04\\S4E20 - Mosbius Designs\\S4E20 - Mosbius Designs.hybrid-openai-timing.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 223,
+            "start": 622.539,
+            "end": 624.332,
+            "text": "and penalty fees,\nI'm actually..."
+          },
+          {
+            "index": 224,
+            "start": 624.333,
+            "end": 626.222,
+            "text": "I'm holding on\nto a lot of money."
+          },
+          {
+            "index": 225,
+            "start": 627.172,
+            "end": 629.222,
+            "text": "Great work, Sports Guy.\nThat's for last week."
+          },
+          {
+            "index": 226,
+            "start": 634.151,
+            "end": 637.77,
+            "text": "MARSHALL: ...60, 80, 100."
+          },
+          {
+            "index": 227,
+            "start": 637.772,
+            "end": 640.772,
+            "text": "Okay. This is $18,000 cash."
+          },
+          {
+            "index": 228,
+            "start": 641.908,
+            "end": 642.808,
+            "text": "It's not a big deal."
+          },
+          {
+            "index": 229,
+            "start": 643.408,
+            "end": 645.808,
+            "text": "I'll just take it home\nand put it somewhere safe."
+          },
+          {
+            "index": 230,
+            "start": 646.858,
+            "end": 650.058,
+            "text": "Okay,\njust walking down the street\nwith some money in my pocket."
+          },
+          {
+            "index": 231,
+            "start": 650.808,
+            "end": 652.013,
+            "text": "Don't touch the money."
+          },
+          {
+            "index": 232,
+            "start": 652.253,
+            "end": 653.458,
+            "text": "That's\nso obvious.\nJust be cool."
+          },
+          {
+            "index": 233,
+            "start": 655.008,
+            "end": 657.658,
+            "text": "Oh, no.\nThe baby's onto me."
+          },
+          {
+            "index": 234,
+            "start": 657.958,
+            "end": 660.108,
+            "text": "Babies\ncan smell money.\nEveryone knows that!"
+          },
+          {
+            "index": 235,
+            "start": 660.508,
+            "end": 661.808,
+            "text": "I'm carrying\na lot of money!"
+          },
+          {
+            "index": 236,
+            "start": 664.404,
+            "end": 667.604,
+            "text": "Seriously, dude, I'm not sure\nhow much longer I can keep\ndoing this."
+          },
+          {
+            "index": 237,
+            "start": 668.154,
+            "end": 671.804,
+            "text": "Marshall, last week you\nwere trash that no one\nwanted to look at."
+          },
+          {
+            "index": 238,
+            "start": 672.054,
+            "end": 673.004,
+            "text": "Now, you're Sports Guy."
+          },
+          {
+            "index": 239,
+            "start": 673.354,
+            "end": 675.004,
+            "text": "I was trash?\nLast week!"
+          },
+          {
+            "index": 240,
+            "start": 676.454,
+            "end": 678.958,
+            "text": "Hey,\nthere's Ted Mosby\nof Mosbius Designs."
+          },
+          {
+            "index": 241,
+            "start": 678.959,
+            "end": 681.104,
+            "text": "How's the home\noffice coming,\nbuddy?"
+          },
+          {
+            "index": 242,
+            "start": 682.054,
+            "end": 685.099,
+            "text": "Well, it was going great till\nRobin started banging my\nassistant."
+          },
+          {
+            "index": 243,
+            "start": 686.449,
+            "end": 688.002,
+            "text": "(EXCLAIMING)"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 655.008,
+        "topCueIndex": 202,
+        "bottomCueIndex": 233
+      }
     }
   ]
 }
