@@ -37869,6 +37869,158 @@
         "topCueIndex": 138,
         "bottomCueIndex": 162
       }
+    },
+    {
+      "id": "170183cc-addd-49b9-bb03-afb36f97734b",
+      "createdAt": "2026-06-05T21:18:00.765Z",
+      "videoName": "S4E20 - Mosbius Designs.mkv",
+      "audioTrackName": "S4E20 - Mosbius Designs.eng.m4a",
+      "selectedText": "gal.",
+      "selection": {
+        "rawText": "gal.",
+        "startOffset": 18,
+        "endOffset": 22,
+        "cueIndex": 172,
+        "cueStart": 454.714,
+        "cueEnd": 457.414,
+        "cueText": "Listen to the old gal.\nShe's got some stories\nto tell."
+      },
+      "bottomSubPath": "F:\\Как я встретил вашу маму\\S04\\S4E20 - Mosbius Designs\\S4E20 - Mosbius Designs.hybrid-openai-timing.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 162,
+            "start": 429.506,
+            "end": 431.656,
+            "text": "That's not bad.\nYou might be onto something."
+          },
+          {
+            "index": 163,
+            "start": 432.206,
+            "end": 434.706,
+            "text": "Awesome. Awesome!\nI'll be Fantasy Guy!"
+          },
+          {
+            "index": 164,
+            "start": 435.018,
+            "end": 437.656,
+            "text": "We'll have\nto make you Sports Guy.\nWe already have a Fantasy Guy."
+          },
+          {
+            "index": 165,
+            "start": 437.956,
+            "end": 439.131,
+            "text": "What's up, bros?\nHey, Frank."
+          },
+          {
+            "index": 166,
+            "start": 441.296,
+            "end": 442.192,
+            "text": "(WHIRRING)"
+          },
+          {
+            "index": 167,
+            "start": 442.194,
+            "end": 443.615,
+            "text": "(CELL PHONE RINGING)"
+          },
+          {
+            "index": 168,
+            "start": 444.914,
+            "end": 445.664,
+            "text": "Hello?"
+          },
+          {
+            "index": 169,
+            "start": 446.264,
+            "end": 448.564,
+            "text": "Hey, PJ.\nWhere are you?\nYou're never late."
+          },
+          {
+            "index": 170,
+            "start": 450.614,
+            "end": 453.614,
+            "text": "You're on top of\nthe Empire State\nBuilding?"
+          },
+          {
+            "index": 171,
+            "start": 453.615,
+            "end": 454.712,
+            "text": "(LAUGHS)"
+          },
+          {
+            "index": 172,
+            "start": 454.714,
+            "end": 457.414,
+            "text": "Listen to the old gal.\nShe's got some stories\nto tell."
+          },
+          {
+            "index": 173,
+            "start": 458.164,
+            "end": 460.614,
+            "text": "Take\nall the time\nyou need. Okay."
+          },
+          {
+            "index": 174,
+            "start": 464.064,
+            "end": 465.414,
+            "text": "Wait a second.\n\"Ted Mosby Home.\""
+          },
+          {
+            "index": 175,
+            "start": 469.885,
+            "end": 471.685,
+            "text": "Oh, my God,\nthe call's coming\nfrom inside the house."
+          },
+          {
+            "index": 176,
+            "start": 480.906,
+            "end": 483.356,
+            "text": "That's not the\nEmpire State Building."
+          },
+          {
+            "index": 177,
+            "start": 489.706,
+            "end": 492.806,
+            "text": "Robin,\nyou cannot sleep\nwith my assistant."
+          },
+          {
+            "index": 178,
+            "start": 492.956,
+            "end": 496.316,
+            "text": "I'm trying to\nrun a business here.\nHow did this even happen?"
+          },
+          {
+            "index": 179,
+            "start": 496.516,
+            "end": 500.016,
+            "text": "Well,\nat lunch, when you\ngo on your wisdom walks,"
+          },
+          {
+            "index": 180,
+            "start": 500.316,
+            "end": 502.316,
+            "text": "it gives me and PJ\nsome time alone together."
+          },
+          {
+            "index": 181,
+            "start": 504.566,
+            "end": 505.716,
+            "text": "Inspiration,\ndo your thing."
+          },
+          {
+            "index": 182,
+            "start": 506.166,
+            "end": 508.766,
+            "text": "It always does, sir.\nIt always does."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 455.087238,
+        "topCueIndex": 146,
+        "bottomCueIndex": 172
+      }
     }
   ]
 }
