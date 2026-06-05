@@ -38021,6 +38021,158 @@
         "topCueIndex": 146,
         "bottomCueIndex": 172
       }
+    },
+    {
+      "id": "8867759e-7018-479f-b10d-61ed2c931bdc",
+      "createdAt": "2026-06-05T21:20:07.557Z",
+      "videoName": "S4E20 - Mosbius Designs.mkv",
+      "audioTrackName": "S4E20 - Mosbius Designs.eng.m4a",
+      "selectedText": "even",
+      "selection": {
+        "rawText": "even",
+        "startOffset": 48,
+        "endOffset": 52,
+        "cueIndex": 178,
+        "cueStart": 492.956,
+        "cueEnd": 496.316,
+        "cueText": "I'm trying to\nrun a business here.\nHow did this even happen?"
+      },
+      "bottomSubPath": "F:\\Как я встретил вашу маму\\S04\\S4E20 - Mosbius Designs\\S4E20 - Mosbius Designs.hybrid-openai-timing.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 168,
+            "start": 444.914,
+            "end": 445.664,
+            "text": "Hello?"
+          },
+          {
+            "index": 169,
+            "start": 446.264,
+            "end": 448.564,
+            "text": "Hey, PJ.\nWhere are you?\nYou're never late."
+          },
+          {
+            "index": 170,
+            "start": 450.614,
+            "end": 453.614,
+            "text": "You're on top of\nthe Empire State\nBuilding?"
+          },
+          {
+            "index": 171,
+            "start": 453.615,
+            "end": 454.712,
+            "text": "(LAUGHS)"
+          },
+          {
+            "index": 172,
+            "start": 454.714,
+            "end": 457.414,
+            "text": "Listen to the old gal.\nShe's got some stories\nto tell."
+          },
+          {
+            "index": 173,
+            "start": 458.164,
+            "end": 460.614,
+            "text": "Take\nall the time\nyou need. Okay."
+          },
+          {
+            "index": 174,
+            "start": 464.064,
+            "end": 465.414,
+            "text": "Wait a second.\n\"Ted Mosby Home.\""
+          },
+          {
+            "index": 175,
+            "start": 469.885,
+            "end": 471.685,
+            "text": "Oh, my God,\nthe call's coming\nfrom inside the house."
+          },
+          {
+            "index": 176,
+            "start": 480.906,
+            "end": 483.356,
+            "text": "That's not the\nEmpire State Building."
+          },
+          {
+            "index": 177,
+            "start": 489.706,
+            "end": 492.806,
+            "text": "Robin,\nyou cannot sleep\nwith my assistant."
+          },
+          {
+            "index": 178,
+            "start": 492.956,
+            "end": 496.316,
+            "text": "I'm trying to\nrun a business here.\nHow did this even happen?"
+          },
+          {
+            "index": 179,
+            "start": 496.516,
+            "end": 500.016,
+            "text": "Well,\nat lunch, when you\ngo on your wisdom walks,"
+          },
+          {
+            "index": 180,
+            "start": 500.316,
+            "end": 502.316,
+            "text": "it gives me and PJ\nsome time alone together."
+          },
+          {
+            "index": 181,
+            "start": 504.566,
+            "end": 505.716,
+            "text": "Inspiration,\ndo your thing."
+          },
+          {
+            "index": 182,
+            "start": 506.166,
+            "end": 508.766,
+            "text": "It always does, sir.\nIt always does."
+          },
+          {
+            "index": 183,
+            "start": 511.716,
+            "end": 515.066,
+            "text": "Hey, PJ, I actually have an\narchitectural question for\nyou."
+          },
+          {
+            "index": 184,
+            "start": 515.566,
+            "end": 516.866,
+            "text": "How does Ted's ass taste?"
+          },
+          {
+            "index": 185,
+            "start": 517.516,
+            "end": 520.666,
+            "text": "I wouldn't know, but I\nassume it tastes like\ngenius."
+          },
+          {
+            "index": 186,
+            "start": 525.127,
+            "end": 526.384,
+            "text": "(SIGHING)"
+          },
+          {
+            "index": 187,
+            "start": 526.386,
+            "end": 527.31,
+            "text": "(RATTLING)"
+          },
+          {
+            "index": 188,
+            "start": 527.312,
+            "end": 528.402,
+            "text": "Why is the bathroom locked?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 493.352223,
+        "topCueIndex": 152,
+        "bottomCueIndex": 178
+      }
     }
   ]
 }
