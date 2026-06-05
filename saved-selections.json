@@ -39541,6 +39541,158 @@
         "topCueIndex": 202,
         "bottomCueIndex": 233
       }
+    },
+    {
+      "id": "0af86a46-3800-457f-87b3-409fe00b79d7",
+      "createdAt": "2026-06-05T21:33:16.460Z",
+      "videoName": "S4E20 - Mosbius Designs.mkv",
+      "audioTrackName": "S4E20 - Mosbius Designs.eng.m4a",
+      "selectedText": "How's the home office coming,",
+      "selection": {
+        "rawText": "How's the home\noffice coming,",
+        "startOffset": 0,
+        "endOffset": 29,
+        "cueIndex": 241,
+        "cueStart": 678.959,
+        "cueEnd": 681.104,
+        "cueText": "How's the home\noffice coming,\nbuddy?"
+      },
+      "bottomSubPath": "F:\\Как я встретил вашу маму\\S04\\S4E20 - Mosbius Designs\\S4E20 - Mosbius Designs.hybrid-openai-timing.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 231,
+            "start": 650.808,
+            "end": 652.013,
+            "text": "Don't touch the money."
+          },
+          {
+            "index": 232,
+            "start": 652.253,
+            "end": 653.458,
+            "text": "That's\nso obvious.\nJust be cool."
+          },
+          {
+            "index": 233,
+            "start": 655.008,
+            "end": 657.658,
+            "text": "Oh, no.\nThe baby's onto me."
+          },
+          {
+            "index": 234,
+            "start": 657.958,
+            "end": 660.108,
+            "text": "Babies\ncan smell money.\nEveryone knows that!"
+          },
+          {
+            "index": 235,
+            "start": 660.508,
+            "end": 661.808,
+            "text": "I'm carrying\na lot of money!"
+          },
+          {
+            "index": 236,
+            "start": 664.404,
+            "end": 667.604,
+            "text": "Seriously, dude, I'm not sure\nhow much longer I can keep\ndoing this."
+          },
+          {
+            "index": 237,
+            "start": 668.154,
+            "end": 671.804,
+            "text": "Marshall, last week you\nwere trash that no one\nwanted to look at."
+          },
+          {
+            "index": 238,
+            "start": 672.054,
+            "end": 673.004,
+            "text": "Now, you're Sports Guy."
+          },
+          {
+            "index": 239,
+            "start": 673.354,
+            "end": 675.004,
+            "text": "I was trash?\nLast week!"
+          },
+          {
+            "index": 240,
+            "start": 676.454,
+            "end": 678.958,
+            "text": "Hey,\nthere's Ted Mosby\nof Mosbius Designs."
+          },
+          {
+            "index": 241,
+            "start": 678.959,
+            "end": 681.104,
+            "text": "How's the home\noffice coming,\nbuddy?"
+          },
+          {
+            "index": 242,
+            "start": 682.054,
+            "end": 685.099,
+            "text": "Well, it was going great till\nRobin started banging my\nassistant."
+          },
+          {
+            "index": 243,
+            "start": 686.449,
+            "end": 688.002,
+            "text": "(EXCLAIMING)"
+          },
+          {
+            "index": 244,
+            "start": 688.004,
+            "end": 689.854,
+            "text": "Ted, it's our apartment,\nokay?"
+          },
+          {
+            "index": 245,
+            "start": 689.904,
+            "end": 691.704,
+            "text": "You leave\na big chocolate\ncake on the counter,"
+          },
+          {
+            "index": 246,
+            "start": 691.804,
+            "end": 693.244,
+            "text": "Mama's gonna cut her off\na slice."
+          },
+          {
+            "index": 247,
+            "start": 694.484,
+            "end": 695.234,
+            "text": "I told you."
+          },
+          {
+            "index": 248,
+            "start": 695.235,
+            "end": 697.099,
+            "text": "Hire a cute assistant\nthat you can sleep with,"
+          },
+          {
+            "index": 249,
+            "start": 697.1,
+            "end": 699.714,
+            "text": "but instead you\nhire a cute assistant\nthat Robin can sleep with."
+          },
+          {
+            "index": 250,
+            "start": 699.715,
+            "end": 702.547,
+            "text": "And of course\nhe's gonna sleep with\nher, Ted. Look at her!"
+          },
+          {
+            "index": 251,
+            "start": 702.548,
+            "end": 704.073,
+            "text": "She's the greatest\nwoman on the planet!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 679.578813,
+        "topCueIndex": 210,
+        "bottomCueIndex": 241
+      }
     }
   ]
 }
