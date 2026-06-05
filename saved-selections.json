@@ -39237,6 +39237,158 @@
         "topCueIndex": 191,
         "bottomCueIndex": 220
       }
+    },
+    {
+      "id": "052be09c-50f5-405e-b14b-3ddbc0c14bfa",
+      "createdAt": "2026-06-05T21:30:15.710Z",
+      "videoName": "S4E20 - Mosbius Designs.mkv",
+      "audioTrackName": "S4E20 - Mosbius Designs.eng.m4a",
+      "selectedText": "holding on to",
+      "selection": {
+        "rawText": "holding on\nto",
+        "startOffset": 4,
+        "endOffset": 17,
+        "cueIndex": 224,
+        "cueStart": 624.333,
+        "cueEnd": 626.222,
+        "cueText": "I'm holding on\nto a lot of money."
+      },
+      "bottomSubPath": "F:\\Как я встретил вашу маму\\S04\\S4E20 - Mosbius Designs\\S4E20 - Mosbius Designs.hybrid-openai-timing.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 214,
+            "start": 600.242,
+            "end": 603.242,
+            "text": "Hey, once\nI get the website up,\nthe brochures printed,"
+          },
+          {
+            "index": 215,
+            "start": 603.692,
+            "end": 605.672,
+            "text": "and figure out\nwhat trust games\nwe're going to play"
+          },
+          {
+            "index": 216,
+            "start": 605.673,
+            "end": 607.293,
+            "text": "at the\ncorporate retreat,\nI am making those calls."
+          },
+          {
+            "index": 217,
+            "start": 608.792,
+            "end": 609.692,
+            "text": "Corporate retreat?"
+          },
+          {
+            "index": 218,
+            "start": 610.242,
+            "end": 612.542,
+            "text": "Mr. Mosby and I are\ngoing camping on\nthe roof."
+          },
+          {
+            "index": 219,
+            "start": 615.572,
+            "end": 616.322,
+            "text": "Hey, Sports Guy."
+          },
+          {
+            "index": 220,
+            "start": 616.472,
+            "end": 617.912,
+            "text": "I hear\npeople are raving\nabout your league."
+          },
+          {
+            "index": 221,
+            "start": 617.913,
+            "end": 620.769,
+            "text": "It's a lot harder than\nI thought it would be."
+          },
+          {
+            "index": 222,
+            "start": 620.77,
+            "end": 622.538,
+            "text": "Between entry fees\nand transaction fees"
+          },
+          {
+            "index": 223,
+            "start": 622.539,
+            "end": 624.332,
+            "text": "and penalty fees,\nI'm actually..."
+          },
+          {
+            "index": 224,
+            "start": 624.333,
+            "end": 626.222,
+            "text": "I'm holding on\nto a lot of money."
+          },
+          {
+            "index": 225,
+            "start": 627.172,
+            "end": 629.222,
+            "text": "Great work, Sports Guy.\nThat's for last week."
+          },
+          {
+            "index": 226,
+            "start": 634.151,
+            "end": 637.77,
+            "text": "MARSHALL: ...60, 80, 100."
+          },
+          {
+            "index": 227,
+            "start": 637.772,
+            "end": 640.772,
+            "text": "Okay. This is $18,000 cash."
+          },
+          {
+            "index": 228,
+            "start": 641.908,
+            "end": 642.808,
+            "text": "It's not a big deal."
+          },
+          {
+            "index": 229,
+            "start": 643.408,
+            "end": 645.808,
+            "text": "I'll just take it home\nand put it somewhere safe."
+          },
+          {
+            "index": 230,
+            "start": 646.858,
+            "end": 650.058,
+            "text": "Okay,\njust walking down the street\nwith some money in my pocket."
+          },
+          {
+            "index": 231,
+            "start": 650.808,
+            "end": 652.013,
+            "text": "Don't touch the money."
+          },
+          {
+            "index": 232,
+            "start": 652.253,
+            "end": 653.458,
+            "text": "That's\nso obvious.\nJust be cool."
+          },
+          {
+            "index": 233,
+            "start": 655.008,
+            "end": 657.658,
+            "text": "Oh, no.\nThe baby's onto me."
+          },
+          {
+            "index": 234,
+            "start": 657.958,
+            "end": 660.108,
+            "text": "Babies\ncan smell money.\nEveryone knows that!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 625.000411,
+        "topCueIndex": 194,
+        "bottomCueIndex": 224
+      }
     }
   ]
 }
