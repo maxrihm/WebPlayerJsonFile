@@ -38933,6 +38933,158 @@
         "topCueIndex": 186,
         "bottomCueIndex": 215
       }
+    },
+    {
+      "id": "9342ad22-45be-49b4-b83c-5a720b646abf",
+      "createdAt": "2026-06-05T21:28:32.609Z",
+      "videoName": "S4E20 - Mosbius Designs.mkv",
+      "audioTrackName": "S4E20 - Mosbius Designs.eng.m4a",
+      "selectedText": "corporate retreat,",
+      "selection": {
+        "rawText": "corporate retreat,",
+        "startOffset": 7,
+        "endOffset": 25,
+        "cueIndex": 216,
+        "cueStart": 605.673,
+        "cueEnd": 607.293,
+        "cueText": "at the\ncorporate retreat,\nI am making those calls."
+      },
+      "bottomSubPath": "F:\\Как я встретил вашу маму\\S04\\S4E20 - Mosbius Designs\\S4E20 - Mosbius Designs.hybrid-openai-timing.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 206,
+            "start": 578.626,
+            "end": 582.826,
+            "text": "So, you get up\nreally early to trade on\nthe European stock exchanges."
+          },
+          {
+            "index": 207,
+            "start": 583.076,
+            "end": 583.876,
+            "text": "What's that like?"
+          },
+          {
+            "index": 208,
+            "start": 584.076,
+            "end": 585.526,
+            "text": "Look,\nis this gonna\nhappen or not?"
+          },
+          {
+            "index": 209,
+            "start": 587.892,
+            "end": 589.892,
+            "text": "Okay, first of all,\nI've hung out with\nFantasy Guy."
+          },
+          {
+            "index": 210,
+            "start": 590.442,
+            "end": 593.892,
+            "text": "You could do a lot worse.\nSecondly, this has to stop."
+          },
+          {
+            "index": 211,
+            "start": 594.242,
+            "end": 596.242,
+            "text": "Distracting PJ is going\nto kill our productivity."
+          },
+          {
+            "index": 212,
+            "start": 596.392,
+            "end": 597.142,
+            "text": "(SCOFFS) What productivity?"
+          },
+          {
+            "index": 213,
+            "start": 597.143,
+            "end": 599.642,
+            "text": "You haven't even\ncalled a single\nclient."
+          },
+          {
+            "index": 214,
+            "start": 600.242,
+            "end": 603.242,
+            "text": "Hey, once\nI get the website up,\nthe brochures printed,"
+          },
+          {
+            "index": 215,
+            "start": 603.692,
+            "end": 605.672,
+            "text": "and figure out\nwhat trust games\nwe're going to play"
+          },
+          {
+            "index": 216,
+            "start": 605.673,
+            "end": 607.293,
+            "text": "at the\ncorporate retreat,\nI am making those calls."
+          },
+          {
+            "index": 217,
+            "start": 608.792,
+            "end": 609.692,
+            "text": "Corporate retreat?"
+          },
+          {
+            "index": 218,
+            "start": 610.242,
+            "end": 612.542,
+            "text": "Mr. Mosby and I are\ngoing camping on\nthe roof."
+          },
+          {
+            "index": 219,
+            "start": 615.572,
+            "end": 616.322,
+            "text": "Hey, Sports Guy."
+          },
+          {
+            "index": 220,
+            "start": 616.472,
+            "end": 617.912,
+            "text": "I hear\npeople are raving\nabout your league."
+          },
+          {
+            "index": 221,
+            "start": 617.913,
+            "end": 620.769,
+            "text": "It's a lot harder than\nI thought it would be."
+          },
+          {
+            "index": 222,
+            "start": 620.77,
+            "end": 622.538,
+            "text": "Between entry fees\nand transaction fees"
+          },
+          {
+            "index": 223,
+            "start": 622.539,
+            "end": 624.332,
+            "text": "and penalty fees,\nI'm actually..."
+          },
+          {
+            "index": 224,
+            "start": 624.333,
+            "end": 626.222,
+            "text": "I'm holding on\nto a lot of money."
+          },
+          {
+            "index": 225,
+            "start": 627.172,
+            "end": 629.222,
+            "text": "Great work, Sports Guy.\nThat's for last week."
+          },
+          {
+            "index": 226,
+            "start": 634.151,
+            "end": 637.77,
+            "text": "MARSHALL: ...60, 80, 100."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 605.673,
+        "topCueIndex": 187,
+        "bottomCueIndex": 216
+      }
     }
   ]
 }
