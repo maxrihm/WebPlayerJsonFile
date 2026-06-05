@@ -37109,6 +37109,158 @@
         "topCueIndex": 28,
         "bottomCueIndex": 30
       }
+    },
+    {
+      "id": "62dcd2ef-9322-46f7-8495-0cfdd63231ad",
+      "createdAt": "2026-06-05T21:11:43.688Z",
+      "videoName": "S4E20 - Mosbius Designs.mkv",
+      "audioTrackName": "S4E20 - Mosbius Designs.eng.m4a",
+      "selectedText": "proving",
+      "selection": {
+        "rawText": "proving",
+        "startOffset": 0,
+        "endOffset": 7,
+        "cueIndex": 139,
+        "cueStart": 369.266,
+        "cueEnd": 371.166,
+        "cueText": "proving he\nnever listened\nto a word I said."
+      },
+      "bottomSubPath": "F:\\Как я встретил вашу маму\\S04\\S4E20 - Mosbius Designs\\S4E20 - Mosbius Designs.hybrid-openai-timing.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 129,
+            "start": 345.464,
+            "end": 346.214,
+            "text": "Whoa, whoa."
+          },
+          {
+            "index": 130,
+            "start": 347.314,
+            "end": 348.114,
+            "text": "PJ's a guy?"
+          },
+          {
+            "index": 131,
+            "start": 348.714,
+            "end": 350.664,
+            "text": "PJ's not some hot\nchick you're banging?"
+          },
+          {
+            "index": 132,
+            "start": 351.064,
+            "end": 352.614,
+            "text": "No, I'm mentoring him."
+          },
+          {
+            "index": 133,
+            "start": 353.995,
+            "end": 355.744,
+            "text": "(GROANING IN DISGUST)"
+          },
+          {
+            "index": 134,
+            "start": 355.747,
+            "end": 357.414,
+            "text": "Mentoring."
+          },
+          {
+            "index": 135,
+            "start": 357.416,
+            "end": 360.491,
+            "text": "I mentored\na young fellow once.\nEven made him my wingman."
+          },
+          {
+            "index": 136,
+            "start": 360.492,
+            "end": 363.216,
+            "text": "Then, one day,\nhe hired an assistant"
+          },
+          {
+            "index": 137,
+            "start": 363.217,
+            "end": 365.841,
+            "text": "to work 10 feet\nfrom his bedroom"
+          },
+          {
+            "index": 138,
+            "start": 365.842,
+            "end": 368.916,
+            "text": "who, get this,\nisn't a hot chick,"
+          },
+          {
+            "index": 139,
+            "start": 369.266,
+            "end": 371.166,
+            "text": "proving he\nnever listened\nto a word I said."
+          },
+          {
+            "index": 140,
+            "start": 371.466,
+            "end": 373.316,
+            "text": "And do you know\nthat young man's name?"
+          },
+          {
+            "index": 141,
+            "start": 374.316,
+            "end": 375.066,
+            "text": "Ted Mosby?"
+          },
+          {
+            "index": 142,
+            "start": 375.516,
+            "end": 376.266,
+            "text": "Maybe."
+          },
+          {
+            "index": 143,
+            "start": 376.616,
+            "end": 377.616,
+            "text": "I don't remember."
+          },
+          {
+            "index": 144,
+            "start": 378.266,
+            "end": 380.216,
+            "text": "Because he is dead to me!"
+          },
+          {
+            "index": 145,
+            "start": 385.46,
+            "end": 388.76,
+            "text": "PJ's gonna be getting\na very confusing card\nin the mail"
+          },
+          {
+            "index": 146,
+            "start": 388.761,
+            "end": 391.51,
+            "text": "along with a garment\nthat he should by\nno means"
+          },
+          {
+            "index": 147,
+            "start": 391.511,
+            "end": 394.26,
+            "text": "wear for three days\nand then mail back\nto me."
+          },
+          {
+            "index": 148,
+            "start": 398.21,
+            "end": 398.96,
+            "text": "Hey, Barney."
+          },
+          {
+            "index": 149,
+            "start": 398.961,
+            "end": 402.06,
+            "text": "I thought\nof a thing to make\nme more essential here."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 369.372027,
+        "topCueIndex": 119,
+        "bottomCueIndex": 139
+      }
     }
   ]
 }
