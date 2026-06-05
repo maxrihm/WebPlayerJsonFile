@@ -37261,6 +37261,158 @@
         "topCueIndex": 119,
         "bottomCueIndex": 139
       }
+    },
+    {
+      "id": "09e9f2ed-5686-456c-b3b3-991d75843af9",
+      "createdAt": "2026-06-05T21:13:09.098Z",
+      "videoName": "S4E20 - Mosbius Designs.mkv",
+      "audioTrackName": "S4E20 - Mosbius Designs.eng.m4a",
+      "selectedText": "essential",
+      "selection": {
+        "rawText": "essential",
+        "startOffset": 37,
+        "endOffset": 46,
+        "cueIndex": 149,
+        "cueStart": 398.961,
+        "cueEnd": 402.06,
+        "cueText": "I thought\nof a thing to make\nme more essential here."
+      },
+      "bottomSubPath": "F:\\Как я встретил вашу маму\\S04\\S4E20 - Mosbius Designs\\S4E20 - Mosbius Designs.hybrid-openai-timing.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 139,
+            "start": 369.266,
+            "end": 371.166,
+            "text": "proving he\nnever listened\nto a word I said."
+          },
+          {
+            "index": 140,
+            "start": 371.466,
+            "end": 373.316,
+            "text": "And do you know\nthat young man's name?"
+          },
+          {
+            "index": 141,
+            "start": 374.316,
+            "end": 375.066,
+            "text": "Ted Mosby?"
+          },
+          {
+            "index": 142,
+            "start": 375.516,
+            "end": 376.266,
+            "text": "Maybe."
+          },
+          {
+            "index": 143,
+            "start": 376.616,
+            "end": 377.616,
+            "text": "I don't remember."
+          },
+          {
+            "index": 144,
+            "start": 378.266,
+            "end": 380.216,
+            "text": "Because he is dead to me!"
+          },
+          {
+            "index": 145,
+            "start": 385.46,
+            "end": 388.76,
+            "text": "PJ's gonna be getting\na very confusing card\nin the mail"
+          },
+          {
+            "index": 146,
+            "start": 388.761,
+            "end": 391.51,
+            "text": "along with a garment\nthat he should by\nno means"
+          },
+          {
+            "index": 147,
+            "start": 391.511,
+            "end": 394.26,
+            "text": "wear for three days\nand then mail back\nto me."
+          },
+          {
+            "index": 148,
+            "start": 398.21,
+            "end": 398.96,
+            "text": "Hey, Barney."
+          },
+          {
+            "index": 149,
+            "start": 398.961,
+            "end": 402.06,
+            "text": "I thought\nof a thing to make\nme more essential here."
+          },
+          {
+            "index": 150,
+            "start": 403.31,
+            "end": 406.01,
+            "text": "I'm Eco Guy, 'cause everybody\nloves a guy who recycles,\nright?"
+          },
+          {
+            "index": 151,
+            "start": 406.76,
+            "end": 407.91,
+            "text": "Fired. What else you got?"
+          },
+          {
+            "index": 152,
+            "start": 408.51,
+            "end": 410.81,
+            "text": "I thought of a few\nothers. Wacky Tie Guy."
+          },
+          {
+            "index": 153,
+            "start": 411.16,
+            "end": 411.91,
+            "text": "Fired."
+          },
+          {
+            "index": 154,
+            "start": 411.956,
+            "end": 413.256,
+            "text": "Daily Fun Fact Guy?"
+          },
+          {
+            "index": 155,
+            "start": 413.806,
+            "end": 415.256,
+            "text": "Did you know\nthat you're fired?"
+          },
+          {
+            "index": 156,
+            "start": 415.756,
+            "end": 417.606,
+            "text": "I Know a Good\nStretch for That Guy?"
+          },
+          {
+            "index": 157,
+            "start": 418.056,
+            "end": 419.106,
+            "text": "Downward-facing fired."
+          },
+          {
+            "index": 158,
+            "start": 420.056,
+            "end": 420.906,
+            "text": "Monty Python Guy?"
+          },
+          {
+            "index": 159,
+            "start": 422.489,
+            "end": 424.469,
+            "text": "(IMITATING KNIGHTS) We are\nthe knights who say,\n\"You're fired.\""
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 398.961,
+        "topCueIndex": 125,
+        "bottomCueIndex": 149
+      }
     }
   ]
 }
