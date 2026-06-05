@@ -38325,6 +38325,158 @@
         "topCueIndex": 162,
         "bottomCueIndex": 189
       }
+    },
+    {
+      "id": "4579b61d-5be2-44c4-bf7b-6d4e5128fe0f",
+      "createdAt": "2026-06-05T21:22:17.059Z",
+      "videoName": "S4E20 - Mosbius Designs.mkv",
+      "audioTrackName": "S4E20 - Mosbius Designs.eng.m4a",
+      "selectedText": "think this over",
+      "selection": {
+        "rawText": "think this over",
+        "startOffset": 32,
+        "endOffset": 47,
+        "cueIndex": 190,
+        "cueStart": 531.754,
+        "cueEnd": 536.059,
+        "cueText": "Listen, Peej, and I want you\nto think this over real good\nbefore you answer."
+      },
+      "bottomSubPath": "F:\\Как я встретил вашу маму\\S04\\S4E20 - Mosbius Designs\\S4E20 - Mosbius Designs.hybrid-openai-timing.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 180,
+            "start": 500.316,
+            "end": 502.316,
+            "text": "it gives me and PJ\nsome time alone together."
+          },
+          {
+            "index": 181,
+            "start": 504.566,
+            "end": 505.716,
+            "text": "Inspiration,\ndo your thing."
+          },
+          {
+            "index": 182,
+            "start": 506.166,
+            "end": 508.766,
+            "text": "It always does, sir.\nIt always does."
+          },
+          {
+            "index": 183,
+            "start": 511.716,
+            "end": 515.066,
+            "text": "Hey, PJ, I actually have an\narchitectural question for\nyou."
+          },
+          {
+            "index": 184,
+            "start": 515.566,
+            "end": 516.866,
+            "text": "How does Ted's ass taste?"
+          },
+          {
+            "index": 185,
+            "start": 517.516,
+            "end": 520.666,
+            "text": "I wouldn't know, but I\nassume it tastes like\ngenius."
+          },
+          {
+            "index": 186,
+            "start": 525.127,
+            "end": 526.384,
+            "text": "(SIGHING)"
+          },
+          {
+            "index": 187,
+            "start": 526.386,
+            "end": 527.31,
+            "text": "(RATTLING)"
+          },
+          {
+            "index": 188,
+            "start": 527.312,
+            "end": 528.402,
+            "text": "Why is the bathroom locked?"
+          },
+          {
+            "index": 189,
+            "start": 528.404,
+            "end": 530.854,
+            "text": "Visitors\nneed to sign in\nfor the bathroom key."
+          },
+          {
+            "index": 190,
+            "start": 531.754,
+            "end": 536.059,
+            "text": "Listen, Peej, and I want you\nto think this over real good\nbefore you answer."
+          },
+          {
+            "index": 191,
+            "start": 536.06,
+            "end": 540.104,
+            "text": "Are you\ntelling me that I can't go to\nthe bathroom in my apartment?"
+          },
+          {
+            "index": 192,
+            "start": 540.704,
+            "end": 542.482,
+            "text": "No. I am telling you"
+          },
+          {
+            "index": 193,
+            "start": 542.483,
+            "end": 544.615,
+            "text": "that you need\nto ask permission"
+          },
+          {
+            "index": 194,
+            "start": 544.616,
+            "end": 547.104,
+            "text": "to use\nthe bathroom\nin my office."
+          },
+          {
+            "index": 195,
+            "start": 548.304,
+            "end": 549.454,
+            "text": "Why is that so hot?"
+          },
+          {
+            "index": 196,
+            "start": 552.254,
+            "end": 553.948,
+            "text": "Robin,\nthere are billions\nof guys in the world."
+          },
+          {
+            "index": 197,
+            "start": 553.949,
+            "end": 555.854,
+            "text": "Why do you have to\nsleep with my assistant?"
+          },
+          {
+            "index": 198,
+            "start": 556.104,
+            "end": 558.564,
+            "text": "Ted, when I get off work,\nit's 5:30 in the morning."
+          },
+          {
+            "index": 199,
+            "start": 558.564,
+            "end": 560.626,
+            "text": "Do you have any idea\nwhat kind of guys\nI'm meeting?"
+          },
+          {
+            "index": 200,
+            "start": 562.319,
+            "end": 563.069,
+            "text": "I deliver newspapers."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 531.754,
+        "topCueIndex": 163,
+        "bottomCueIndex": 190
+      }
     }
   ]
 }
