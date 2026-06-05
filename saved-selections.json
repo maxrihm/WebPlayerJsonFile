@@ -37413,6 +37413,158 @@
         "topCueIndex": 125,
         "bottomCueIndex": 149
       }
+    },
+    {
+      "id": "fd1f454f-3ac4-40a5-ba95-7bf2c1f5eb3f",
+      "createdAt": "2026-06-05T21:15:14.867Z",
+      "videoName": "S4E20 - Mosbius Designs.mkv",
+      "audioTrackName": "S4E20 - Mosbius Designs.eng.m4a",
+      "selectedText": "Downward-facing",
+      "selection": {
+        "rawText": "Downward-facing",
+        "startOffset": 0,
+        "endOffset": 15,
+        "cueIndex": 157,
+        "cueStart": 418.056,
+        "cueEnd": 419.106,
+        "cueText": "Downward-facing fired."
+      },
+      "bottomSubPath": "F:\\Как я встретил вашу маму\\S04\\S4E20 - Mosbius Designs\\S4E20 - Mosbius Designs.hybrid-openai-timing.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 147,
+            "start": 391.511,
+            "end": 394.26,
+            "text": "wear for three days\nand then mail back\nto me."
+          },
+          {
+            "index": 148,
+            "start": 398.21,
+            "end": 398.96,
+            "text": "Hey, Barney."
+          },
+          {
+            "index": 149,
+            "start": 398.961,
+            "end": 402.06,
+            "text": "I thought\nof a thing to make\nme more essential here."
+          },
+          {
+            "index": 150,
+            "start": 403.31,
+            "end": 406.01,
+            "text": "I'm Eco Guy, 'cause everybody\nloves a guy who recycles,\nright?"
+          },
+          {
+            "index": 151,
+            "start": 406.76,
+            "end": 407.91,
+            "text": "Fired. What else you got?"
+          },
+          {
+            "index": 152,
+            "start": 408.51,
+            "end": 410.81,
+            "text": "I thought of a few\nothers. Wacky Tie Guy."
+          },
+          {
+            "index": 153,
+            "start": 411.16,
+            "end": 411.91,
+            "text": "Fired."
+          },
+          {
+            "index": 154,
+            "start": 411.956,
+            "end": 413.256,
+            "text": "Daily Fun Fact Guy?"
+          },
+          {
+            "index": 155,
+            "start": 413.806,
+            "end": 415.256,
+            "text": "Did you know\nthat you're fired?"
+          },
+          {
+            "index": 156,
+            "start": 415.756,
+            "end": 417.606,
+            "text": "I Know a Good\nStretch for That Guy?"
+          },
+          {
+            "index": 157,
+            "start": 418.056,
+            "end": 419.106,
+            "text": "Downward-facing fired."
+          },
+          {
+            "index": 158,
+            "start": 420.056,
+            "end": 420.906,
+            "text": "Monty Python Guy?"
+          },
+          {
+            "index": 159,
+            "start": 422.489,
+            "end": 424.469,
+            "text": "(IMITATING KNIGHTS) We are\nthe knights who say,\n\"You're fired.\""
+          },
+          {
+            "index": 160,
+            "start": 424.806,
+            "end": 427.471,
+            "text": "Wait! Wait! I did\nuse to run a fantasy"
+          },
+          {
+            "index": 161,
+            "start": 427.472,
+            "end": 428.856,
+            "text": "baseball league\nback in law school."
+          },
+          {
+            "index": 162,
+            "start": 429.506,
+            "end": 431.656,
+            "text": "That's not bad.\nYou might be onto something."
+          },
+          {
+            "index": 163,
+            "start": 432.206,
+            "end": 434.706,
+            "text": "Awesome. Awesome!\nI'll be Fantasy Guy!"
+          },
+          {
+            "index": 164,
+            "start": 435.018,
+            "end": 437.656,
+            "text": "We'll have\nto make you Sports Guy.\nWe already have a Fantasy Guy."
+          },
+          {
+            "index": 165,
+            "start": 437.956,
+            "end": 439.131,
+            "text": "What's up, bros?\nHey, Frank."
+          },
+          {
+            "index": 166,
+            "start": 441.296,
+            "end": 442.192,
+            "text": "(WHIRRING)"
+          },
+          {
+            "index": 167,
+            "start": 442.194,
+            "end": 443.615,
+            "text": "(CELL PHONE RINGING)"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 418.981558,
+        "topCueIndex": 134,
+        "bottomCueIndex": 157
+      }
     }
   ]
 }
