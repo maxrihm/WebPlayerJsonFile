@@ -37565,6 +37565,158 @@
         "topCueIndex": 134,
         "bottomCueIndex": 157
       }
+    },
+    {
+      "id": "5ada6119-4818-4b96-b01a-5d43c4858e27",
+      "createdAt": "2026-06-05T21:16:16.846Z",
+      "videoName": "S4E20 - Mosbius Designs.mkv",
+      "audioTrackName": "S4E20 - Mosbius Designs.eng.m4a",
+      "selectedText": "fantasy",
+      "selection": {
+        "rawText": "fantasy",
+        "startOffset": 31,
+        "endOffset": 38,
+        "cueIndex": 160,
+        "cueStart": 424.806,
+        "cueEnd": 427.471,
+        "cueText": "Wait! Wait! I did\nuse to run a fantasy"
+      },
+      "bottomSubPath": "F:\\Как я встретил вашу маму\\S04\\S4E20 - Mosbius Designs\\S4E20 - Mosbius Designs.hybrid-openai-timing.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 150,
+            "start": 403.31,
+            "end": 406.01,
+            "text": "I'm Eco Guy, 'cause everybody\nloves a guy who recycles,\nright?"
+          },
+          {
+            "index": 151,
+            "start": 406.76,
+            "end": 407.91,
+            "text": "Fired. What else you got?"
+          },
+          {
+            "index": 152,
+            "start": 408.51,
+            "end": 410.81,
+            "text": "I thought of a few\nothers. Wacky Tie Guy."
+          },
+          {
+            "index": 153,
+            "start": 411.16,
+            "end": 411.91,
+            "text": "Fired."
+          },
+          {
+            "index": 154,
+            "start": 411.956,
+            "end": 413.256,
+            "text": "Daily Fun Fact Guy?"
+          },
+          {
+            "index": 155,
+            "start": 413.806,
+            "end": 415.256,
+            "text": "Did you know\nthat you're fired?"
+          },
+          {
+            "index": 156,
+            "start": 415.756,
+            "end": 417.606,
+            "text": "I Know a Good\nStretch for That Guy?"
+          },
+          {
+            "index": 157,
+            "start": 418.056,
+            "end": 419.106,
+            "text": "Downward-facing fired."
+          },
+          {
+            "index": 158,
+            "start": 420.056,
+            "end": 420.906,
+            "text": "Monty Python Guy?"
+          },
+          {
+            "index": 159,
+            "start": 422.489,
+            "end": 424.469,
+            "text": "(IMITATING KNIGHTS) We are\nthe knights who say,\n\"You're fired.\""
+          },
+          {
+            "index": 160,
+            "start": 424.806,
+            "end": 427.471,
+            "text": "Wait! Wait! I did\nuse to run a fantasy"
+          },
+          {
+            "index": 161,
+            "start": 427.472,
+            "end": 428.856,
+            "text": "baseball league\nback in law school."
+          },
+          {
+            "index": 162,
+            "start": 429.506,
+            "end": 431.656,
+            "text": "That's not bad.\nYou might be onto something."
+          },
+          {
+            "index": 163,
+            "start": 432.206,
+            "end": 434.706,
+            "text": "Awesome. Awesome!\nI'll be Fantasy Guy!"
+          },
+          {
+            "index": 164,
+            "start": 435.018,
+            "end": 437.656,
+            "text": "We'll have\nto make you Sports Guy.\nWe already have a Fantasy Guy."
+          },
+          {
+            "index": 165,
+            "start": 437.956,
+            "end": 439.131,
+            "text": "What's up, bros?\nHey, Frank."
+          },
+          {
+            "index": 166,
+            "start": 441.296,
+            "end": 442.192,
+            "text": "(WHIRRING)"
+          },
+          {
+            "index": 167,
+            "start": 442.194,
+            "end": 443.615,
+            "text": "(CELL PHONE RINGING)"
+          },
+          {
+            "index": 168,
+            "start": 444.914,
+            "end": 445.664,
+            "text": "Hello?"
+          },
+          {
+            "index": 169,
+            "start": 446.264,
+            "end": 448.564,
+            "text": "Hey, PJ.\nWhere are you?\nYou're never late."
+          },
+          {
+            "index": 170,
+            "start": 450.614,
+            "end": 453.614,
+            "text": "You're on top of\nthe Empire State\nBuilding?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 427.473232,
+        "topCueIndex": 137,
+        "bottomCueIndex": 160
+      }
     }
   ]
 }
