@@ -38629,6 +38629,158 @@
         "topCueIndex": 170,
         "bottomCueIndex": 198
       }
+    },
+    {
+      "id": "a748281d-9bdc-4b2b-8ab1-8147bf91d44f",
+      "createdAt": "2026-06-05T21:24:41.741Z",
+      "videoName": "S4E20 - Mosbius Designs.mkv",
+      "audioTrackName": "S4E20 - Mosbius Designs.eng.m4a",
+      "selectedText": "handle your business.",
+      "selection": {
+        "rawText": "handle your business.",
+        "startOffset": 37,
+        "endOffset": 58,
+        "cueIndex": 203,
+        "cueStart": 567.326,
+        "cueEnd": 569.876,
+        "cueText": "Don't worry. I'll wash them\nbefore I handle your business."
+      },
+      "bottomSubPath": "F:\\Как я встретил вашу маму\\S04\\S4E20 - Mosbius Designs\\S4E20 - Mosbius Designs.hybrid-openai-timing.eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 193,
+            "start": 542.483,
+            "end": 544.615,
+            "text": "that you need\nto ask permission"
+          },
+          {
+            "index": 194,
+            "start": 544.616,
+            "end": 547.104,
+            "text": "to use\nthe bathroom\nin my office."
+          },
+          {
+            "index": 195,
+            "start": 548.304,
+            "end": 549.454,
+            "text": "Why is that so hot?"
+          },
+          {
+            "index": 196,
+            "start": 552.254,
+            "end": 553.948,
+            "text": "Robin,\nthere are billions\nof guys in the world."
+          },
+          {
+            "index": 197,
+            "start": 553.949,
+            "end": 555.854,
+            "text": "Why do you have to\nsleep with my assistant?"
+          },
+          {
+            "index": 198,
+            "start": 556.104,
+            "end": 558.564,
+            "text": "Ted, when I get off work,\nit's 5:30 in the morning."
+          },
+          {
+            "index": 199,
+            "start": 558.564,
+            "end": 560.626,
+            "text": "Do you have any idea\nwhat kind of guys\nI'm meeting?"
+          },
+          {
+            "index": 200,
+            "start": 562.319,
+            "end": 563.069,
+            "text": "I deliver newspapers."
+          },
+          {
+            "index": 201,
+            "start": 563.07,
+            "end": 565.776,
+            "text": "It's a dirty job,\nbut somebody's\ngot to do it."
+          },
+          {
+            "index": 202,
+            "start": 566.371,
+            "end": 567.324,
+            "text": "(LAUGHING)"
+          },
+          {
+            "index": 203,
+            "start": 567.326,
+            "end": 569.876,
+            "text": "Don't worry. I'll wash them\nbefore I handle your business."
+          },
+          {
+            "index": 204,
+            "start": 571.876,
+            "end": 573.184,
+            "text": "I live with my mom."
+          },
+          {
+            "index": 205,
+            "start": 573.185,
+            "end": 576.776,
+            "text": "At night,\nwe watch TV in her bed.\nWe call it Cuddle Club."
+          },
+          {
+            "index": 206,
+            "start": 578.626,
+            "end": 582.826,
+            "text": "So, you get up\nreally early to trade on\nthe European stock exchanges."
+          },
+          {
+            "index": 207,
+            "start": 583.076,
+            "end": 583.876,
+            "text": "What's that like?"
+          },
+          {
+            "index": 208,
+            "start": 584.076,
+            "end": 585.526,
+            "text": "Look,\nis this gonna\nhappen or not?"
+          },
+          {
+            "index": 209,
+            "start": 587.892,
+            "end": 589.892,
+            "text": "Okay, first of all,\nI've hung out with\nFantasy Guy."
+          },
+          {
+            "index": 210,
+            "start": 590.442,
+            "end": 593.892,
+            "text": "You could do a lot worse.\nSecondly, this has to stop."
+          },
+          {
+            "index": 211,
+            "start": 594.242,
+            "end": 596.242,
+            "text": "Distracting PJ is going\nto kill our productivity."
+          },
+          {
+            "index": 212,
+            "start": 596.392,
+            "end": 597.142,
+            "text": "(SCOFFS) What productivity?"
+          },
+          {
+            "index": 213,
+            "start": 597.143,
+            "end": 599.642,
+            "text": "You haven't even\ncalled a single\nclient."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 569.737434,
+        "topCueIndex": 174,
+        "bottomCueIndex": 203
+      }
     }
   ]
 }
