@@ -41061,6 +41061,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 402
       }
+    },
+    {
+      "id": "b779ce8a-445a-4d12-bd71-bf74dd94b324",
+      "createdAt": "2026-06-12T19:40:12.491Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "storming off",
+      "selection": {
+        "rawText": "storming off",
+        "startOffset": 11,
+        "endOffset": 23,
+        "cueIndex": 256,
+        "cueStart": 713.079,
+        "cueEnd": 716.883,
+        "cueText": "One person\nstorming off isn't enough!\nMarshall, storm off with me!"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 246,
+            "start": 691.725,
+            "end": 693.059,
+            "text": "Mama's gonna cut her off\na slice."
+          },
+          {
+            "index": 247,
+            "start": 694.06,
+            "end": 695.662,
+            "text": "I told you."
+          },
+          {
+            "index": 248,
+            "start": 695.696,
+            "end": 698.498,
+            "text": "Hire a cute assistant\nthat you can sleep with,"
+          },
+          {
+            "index": 249,
+            "start": 698.532,
+            "end": 700.867,
+            "text": "but instead you\nhire a cute assistant\nthat Robin can sleep with."
+          },
+          {
+            "index": 250,
+            "start": 700.901,
+            "end": 702.736,
+            "text": "And of course\nhe's gonna sleep with\nher, Ted. Look at her!"
+          },
+          {
+            "index": 251,
+            "start": 702.769,
+            "end": 703.77,
+            "text": "She's the greatest\nwoman on the planet!"
+          },
+          {
+            "index": 252,
+            "start": 703.804,
+            "end": 705.405,
+            "text": "I'm getting off topic!"
+          },
+          {
+            "index": 253,
+            "start": 705.438,
+            "end": 707.107,
+            "text": "You're an idiot!"
+          },
+          {
+            "index": 254,
+            "start": 707.14,
+            "end": 708.408,
+            "text": "That's\nmy message!\nYou're an idiot!"
+          },
+          {
+            "index": 255,
+            "start": 711.211,
+            "end": 713.046,
+            "text": "No."
+          },
+          {
+            "index": 256,
+            "start": 713.079,
+            "end": 716.883,
+            "text": "One person\nstorming off isn't enough!\nMarshall, storm off with me!"
+          },
+          {
+            "index": 257,
+            "start": 721.755,
+            "end": 724.691,
+            "text": "Barney.\nDude, why are\nyou this upset"
+          },
+          {
+            "index": 258,
+            "start": 724.725,
+            "end": 726.693,
+            "text": "about Ted not having sex\nwith the people he hires?"
+          },
+          {
+            "index": 259,
+            "start": 726.727,
+            "end": 728.862,
+            "text": "Because it hurts!"
+          },
+          {
+            "index": 260,
+            "start": 728.895,
+            "end": 730.463,
+            "text": "It hurts you how?"
+          },
+          {
+            "index": 261,
+            "start": 730.496,
+            "end": 733.567,
+            "text": "It hurts because I love"
+          },
+          {
+            "index": 262,
+            "start": 733.6,
+            "end": 734.635,
+            "text": "Ted"
+          },
+          {
+            "index": 263,
+            "start": 735.636,
+            "end": 737.704,
+            "text": "having sex with women."
+          },
+          {
+            "index": 264,
+            "start": 737.738,
+            "end": 739.973,
+            "text": "I'm a very dedicated wingman!"
+          },
+          {
+            "index": 265,
+            "start": 740.006,
+            "end": 741.775,
+            "text": "Look, Lily's the only person\nthat I can talk to about\nthis stuff."
+          },
+          {
+            "index": 266,
+            "start": 741.808,
+            "end": 743.476,
+            "text": "Just get her to talk to me."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 716.943404296875,
+        "topCueIndex": -1,
+        "bottomCueIndex": 256
+      }
     }
   ]
 }
