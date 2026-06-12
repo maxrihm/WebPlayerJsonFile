@@ -40757,6 +40757,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 397
       }
+    },
+    {
+      "id": "df9281c2-dc14-4cb7-ba57-2d40f6560944",
+      "createdAt": "2026-06-12T14:57:57.563Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "closure.",
+      "selection": {
+        "rawText": "closure.",
+        "startOffset": 38,
+        "endOffset": 46,
+        "cueIndex": 399,
+        "cueStart": 1087.788,
+        "cueEnd": 1089.923,
+        "cueText": "Robin,\nI hope this letter\noffers some closure."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 389,
+            "start": 1059.993,
+            "end": 1063.73,
+            "text": "You got a good one there.\nHang on to her."
+          },
+          {
+            "index": 390,
+            "start": 1063.764,
+            "end": 1067.433,
+            "text": "OLDER TED: Meanwhile,\nmy bizarre tug of war\nwith Robin over PJ continued."
+          },
+          {
+            "index": 391,
+            "start": 1067.467,
+            "end": 1071.437,
+            "text": "Hey, PJ.\nI was about to go\non my wisdom walk."
+          },
+          {
+            "index": 392,
+            "start": 1071.471,
+            "end": 1073.574,
+            "text": "Want to join me?"
+          },
+          {
+            "index": 393,
+            "start": 1073.607,
+            "end": 1077.277,
+            "text": "Hey, PJ. I took\nthe bathroom key\nwithout asking."
+          },
+          {
+            "index": 394,
+            "start": 1077.31,
+            "end": 1078.579,
+            "text": "What\nare you going\nto do about it?"
+          },
+          {
+            "index": 395,
+            "start": 1078.612,
+            "end": 1079.813,
+            "text": "(SIGHING)"
+          },
+          {
+            "index": 396,
+            "start": 1079.846,
+            "end": 1082.315,
+            "text": "Look, you guys\nare both great,"
+          },
+          {
+            "index": 397,
+            "start": 1082.348,
+            "end": 1085.586,
+            "text": "but the truth is\nI'm taking another job."
+          },
+          {
+            "index": 398,
+            "start": 1085.619,
+            "end": 1087.754,
+            "text": "These are for you."
+          },
+          {
+            "index": 399,
+            "start": 1087.788,
+            "end": 1089.923,
+            "text": "Robin,\nI hope this letter\noffers some closure."
+          },
+          {
+            "index": 400,
+            "start": 1089.956,
+            "end": 1092.626,
+            "text": "Ted, I'm really\ngoing to miss you."
+          },
+          {
+            "index": 401,
+            "start": 1095.696,
+            "end": 1097.931,
+            "text": "You can't\ntrade Manny Ramirez\nfor two middle relievers!"
+          },
+          {
+            "index": 402,
+            "start": 1097.964,
+            "end": 1099.666,
+            "text": "If you veto that trade,\nI am out of the league!"
+          },
+          {
+            "index": 403,
+            "start": 1099.7,
+            "end": 1102.102,
+            "text": "Okay! Okay!\nI'll figure it out."
+          },
+          {
+            "index": 404,
+            "start": 1105.438,
+            "end": 1108.074,
+            "text": "Hire the kid to be\na paralegal."
+          },
+          {
+            "index": 405,
+            "start": 1108.108,
+            "end": 1111.177,
+            "text": "He gets to do all the work,\nand you still get to be\nSports Guy."
+          },
+          {
+            "index": 406,
+            "start": 1111.211,
+            "end": 1114.347,
+            "text": "Pure evil, Eriksen.\nPure evil."
+          },
+          {
+            "index": 407,
+            "start": 1116.717,
+            "end": 1118.519,
+            "text": "Hey, thanks."
+          },
+          {
+            "index": 408,
+            "start": 1122.856,
+            "end": 1124.891,
+            "text": "Hey. You okay?"
+          },
+          {
+            "index": 409,
+            "start": 1127.994,
+            "end": 1129.63,
+            "text": "What if I don't\nthink of the books?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1089.9929038085938,
+        "topCueIndex": -1,
+        "bottomCueIndex": 399
+      }
     }
   ]
 }
