@@ -41669,6 +41669,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 272
       }
+    },
+    {
+      "id": "3c92a6a5-a39a-45da-9cf0-69e4361f7058",
+      "createdAt": "2026-06-12T19:45:30.018Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "came in.",
+      "selection": {
+        "rawText": "came in.",
+        "startOffset": 32,
+        "endOffset": 40,
+        "cueIndex": 277,
+        "cueStart": 769.102,
+        "cueEnd": 771.104,
+        "cueText": "The brochures you\ndesigned just came in."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 267,
+            "start": 743.51,
+            "end": 745.478,
+            "text": "I'll try, but look,\nthere's no guarantees."
+          },
+          {
+            "index": 268,
+            "start": 745.512,
+            "end": 748.615,
+            "text": "She's still really\noutraged about that joke."
+          },
+          {
+            "index": 269,
+            "start": 749.449,
+            "end": 752.452,
+            "text": "(SIGHING) That joke!"
+          },
+          {
+            "index": 270,
+            "start": 752.485,
+            "end": 756.256,
+            "text": "Tore our little group apart,\npitted people I love against\neach other."
+          },
+          {
+            "index": 271,
+            "start": 756.289,
+            "end": 757.958,
+            "text": "Seriously, I wish..."
+          },
+          {
+            "index": 272,
+            "start": 757.991,
+            "end": 760.861,
+            "text": "I wish that joke had\nnever come into our lives."
+          },
+          {
+            "index": 273,
+            "start": 761.762,
+            "end": 763.664,
+            "text": "(LAUGHING)"
+          },
+          {
+            "index": 274,
+            "start": 763.697,
+            "end": 764.731,
+            "text": "It's kind of\nfunny though,\nright?"
+          },
+          {
+            "index": 275,
+            "start": 764.765,
+            "end": 765.699,
+            "text": "It's so funny, man."
+          },
+          {
+            "index": 276,
+            "start": 767.433,
+            "end": 769.069,
+            "text": "Hey, good news, PJ."
+          },
+          {
+            "index": 277,
+            "start": 769.102,
+            "end": 771.104,
+            "text": "The brochures you\ndesigned just came in."
+          },
+          {
+            "index": 278,
+            "start": 771.137,
+            "end": 772.806,
+            "text": "Really interesting\nchoice for the cover."
+          },
+          {
+            "index": 279,
+            "start": 772.839,
+            "end": 777.11,
+            "text": "I like how instead of one of\nmy designs, you chose this."
+          },
+          {
+            "index": 280,
+            "start": 777.143,
+            "end": 780.514,
+            "text": "You know what? I must've\nsent in the wrong photo."
+          },
+          {
+            "index": 281,
+            "start": 780.547,
+            "end": 782.348,
+            "text": "You think?"
+          },
+          {
+            "index": 282,
+            "start": 782.382,
+            "end": 785.619,
+            "text": "Look, PJ,\nthe website's\nstill not done."
+          },
+          {
+            "index": 283,
+            "start": 785.652,
+            "end": 787.988,
+            "text": "You didn't even show up\nto the corporate retreat."
+          },
+          {
+            "index": 284,
+            "start": 788.021,
+            "end": 790.791,
+            "text": "By the way,\nI saw a shooting star,"
+          },
+          {
+            "index": 285,
+            "start": 790.824,
+            "end": 792.793,
+            "text": "and you're late every day!"
+          },
+          {
+            "index": 286,
+            "start": 792.826,
+            "end": 795.195,
+            "text": "I'm sorry, PJ.\nI gotta get focused."
+          },
+          {
+            "index": 287,
+            "start": 795.228,
+            "end": 796.329,
+            "text": "You're fired."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 773.0185671386719,
+        "topCueIndex": -1,
+        "bottomCueIndex": 277
+      }
     }
   ]
 }
