@@ -41365,6 +41365,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 268
       }
+    },
+    {
+      "id": "64e4f0be-42d1-4b79-9e10-48501f983122",
+      "createdAt": "2026-06-12T19:44:15.768Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "pitted",
+      "selection": {
+        "rawText": "pitted",
+        "startOffset": 29,
+        "endOffset": 35,
+        "cueIndex": 270,
+        "cueStart": 752.485,
+        "cueEnd": 756.256,
+        "cueText": "Tore our little group apart,\npitted people I love against\neach other."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 260,
+            "start": 728.895,
+            "end": 730.463,
+            "text": "It hurts you how?"
+          },
+          {
+            "index": 261,
+            "start": 730.496,
+            "end": 733.567,
+            "text": "It hurts because I love"
+          },
+          {
+            "index": 262,
+            "start": 733.6,
+            "end": 734.635,
+            "text": "Ted"
+          },
+          {
+            "index": 263,
+            "start": 735.636,
+            "end": 737.704,
+            "text": "having sex with women."
+          },
+          {
+            "index": 264,
+            "start": 737.738,
+            "end": 739.973,
+            "text": "I'm a very dedicated wingman!"
+          },
+          {
+            "index": 265,
+            "start": 740.006,
+            "end": 741.775,
+            "text": "Look, Lily's the only person\nthat I can talk to about\nthis stuff."
+          },
+          {
+            "index": 266,
+            "start": 741.808,
+            "end": 743.476,
+            "text": "Just get her to talk to me."
+          },
+          {
+            "index": 267,
+            "start": 743.51,
+            "end": 745.478,
+            "text": "I'll try, but look,\nthere's no guarantees."
+          },
+          {
+            "index": 268,
+            "start": 745.512,
+            "end": 748.615,
+            "text": "She's still really\noutraged about that joke."
+          },
+          {
+            "index": 269,
+            "start": 749.449,
+            "end": 752.452,
+            "text": "(SIGHING) That joke!"
+          },
+          {
+            "index": 270,
+            "start": 752.485,
+            "end": 756.256,
+            "text": "Tore our little group apart,\npitted people I love against\neach other."
+          },
+          {
+            "index": 271,
+            "start": 756.289,
+            "end": 757.958,
+            "text": "Seriously, I wish..."
+          },
+          {
+            "index": 272,
+            "start": 757.991,
+            "end": 760.861,
+            "text": "I wish that joke had\nnever come into our lives."
+          },
+          {
+            "index": 273,
+            "start": 761.762,
+            "end": 763.664,
+            "text": "(LAUGHING)"
+          },
+          {
+            "index": 274,
+            "start": 763.697,
+            "end": 764.731,
+            "text": "It's kind of\nfunny though,\nright?"
+          },
+          {
+            "index": 275,
+            "start": 764.765,
+            "end": 765.699,
+            "text": "It's so funny, man."
+          },
+          {
+            "index": 276,
+            "start": 767.433,
+            "end": 769.069,
+            "text": "Hey, good news, PJ."
+          },
+          {
+            "index": 277,
+            "start": 769.102,
+            "end": 771.104,
+            "text": "The brochures you\ndesigned just came in."
+          },
+          {
+            "index": 278,
+            "start": 771.137,
+            "end": 772.806,
+            "text": "Really interesting\nchoice for the cover."
+          },
+          {
+            "index": 279,
+            "start": 772.839,
+            "end": 777.11,
+            "text": "I like how instead of one of\nmy designs, you chose this."
+          },
+          {
+            "index": 280,
+            "start": 777.143,
+            "end": 780.514,
+            "text": "You know what? I must've\nsent in the wrong photo."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 756.4008002929687,
+        "topCueIndex": -1,
+        "bottomCueIndex": 270
+      }
     }
   ]
 }
