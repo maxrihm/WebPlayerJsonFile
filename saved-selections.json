@@ -42429,6 +42429,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 344
       }
+    },
+    {
+      "id": "7d1e3dc6-5f15-4006-b987-bb7dfc49e3f6",
+      "createdAt": "2026-06-12T20:02:34.471Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "an item",
+      "selection": {
+        "rawText": "an item",
+        "startOffset": 32,
+        "endOffset": 39,
+        "cueIndex": 349,
+        "cueStart": 957.39,
+        "cueEnd": 960.661,
+        "cueText": "So, apparently Robin\nand PJ are an item again."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 339,
+            "start": 928.862,
+            "end": 931.932,
+            "text": "Wow,\nyou really carry it in\nyour shoulders, don't you?"
+          },
+          {
+            "index": 340,
+            "start": 931.965,
+            "end": 934.267,
+            "text": "Seriously, it's over."
+          },
+          {
+            "index": 341,
+            "start": 934.3,
+            "end": 936.002,
+            "text": "Do you want me to stop?"
+          },
+          {
+            "index": 342,
+            "start": 937.303,
+            "end": 939.973,
+            "text": "No."
+          },
+          {
+            "index": 343,
+            "start": 940.006,
+            "end": 941.942,
+            "text": "OLDER TED: With Robin and PJ\nbroken up, I was free to make"
+          },
+          {
+            "index": 344,
+            "start": 941.975,
+            "end": 944.177,
+            "text": "some staffing\nchanges in the office."
+          },
+          {
+            "index": 345,
+            "start": 945.979,
+            "end": 947.447,
+            "text": "Hi,\nwelcome to\nMosbius Designs."
+          },
+          {
+            "index": 346,
+            "start": 947.48,
+            "end": 950.684,
+            "text": "(SIGHS) You got\nto be kidding me."
+          },
+          {
+            "index": 347,
+            "start": 950.717,
+            "end": 952.653,
+            "text": "OLDER TED: And now that\nPJ was back at work..."
+          },
+          {
+            "index": 348,
+            "start": 954.387,
+            "end": 957.357,
+            "text": "You got to be kidding me."
+          },
+          {
+            "index": 349,
+            "start": 957.39,
+            "end": 960.661,
+            "text": "So, apparently Robin\nand PJ are an item again."
+          },
+          {
+            "index": 350,
+            "start": 960.694,
+            "end": 962.696,
+            "text": "You got to be kidding me!"
+          },
+          {
+            "index": 351,
+            "start": 965.065,
+            "end": 966.199,
+            "text": "(COUGHING)"
+          },
+          {
+            "index": 352,
+            "start": 966.232,
+            "end": 967.367,
+            "text": "Are you all right?"
+          },
+          {
+            "index": 353,
+            "start": 967.4,
+            "end": 968.769,
+            "text": "(SIGHING)"
+          },
+          {
+            "index": 354,
+            "start": 968.802,
+            "end": 970.303,
+            "text": "Okay, since Lily's\nnot talking to me,"
+          },
+          {
+            "index": 355,
+            "start": 970.336,
+            "end": 971.972,
+            "text": "there's something\nthat I have to tell you."
+          },
+          {
+            "index": 356,
+            "start": 972.005,
+            "end": 974.24,
+            "text": "And this isn't easy\nto say, all right?"
+          },
+          {
+            "index": 357,
+            "start": 975.408,
+            "end": 978.211,
+            "text": "I'm... Wait for it."
+          },
+          {
+            "index": 358,
+            "start": 978.244,
+            "end": 980.881,
+            "text": "...in... Wait for it."
+          },
+          {
+            "index": 359,
+            "start": 980.914,
+            "end": 983.884,
+            "text": "...love... Wait for it."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 960.7727172851562,
+        "topCueIndex": -1,
+        "bottomCueIndex": 349
+      }
     }
   ]
 }
