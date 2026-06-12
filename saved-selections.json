@@ -40605,6 +40605,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 390
       }
+    },
+    {
+      "id": "4f971f58-f169-432e-b71f-dbdf801db6af",
+      "createdAt": "2026-06-12T14:56:17.087Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "the truth is",
+      "selection": {
+        "rawText": "the truth is",
+        "startOffset": 4,
+        "endOffset": 16,
+        "cueIndex": 397,
+        "cueStart": 1082.348,
+        "cueEnd": 1085.586,
+        "cueText": "but the truth is\nI'm taking another job."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 387,
+            "start": 1051.652,
+            "end": 1055.388,
+            "text": "Lily is a diabolical\npuppet master, subtly\nmanipulating every situation"
+          },
+          {
+            "index": 388,
+            "start": 1055.421,
+            "end": 1059.96,
+            "text": "to get\nexactly what she wants.\nShe's pure evil, Marshall."
+          },
+          {
+            "index": 389,
+            "start": 1059.993,
+            "end": 1063.73,
+            "text": "You got a good one there.\nHang on to her."
+          },
+          {
+            "index": 390,
+            "start": 1063.764,
+            "end": 1067.433,
+            "text": "OLDER TED: Meanwhile,\nmy bizarre tug of war\nwith Robin over PJ continued."
+          },
+          {
+            "index": 391,
+            "start": 1067.467,
+            "end": 1071.437,
+            "text": "Hey, PJ.\nI was about to go\non my wisdom walk."
+          },
+          {
+            "index": 392,
+            "start": 1071.471,
+            "end": 1073.574,
+            "text": "Want to join me?"
+          },
+          {
+            "index": 393,
+            "start": 1073.607,
+            "end": 1077.277,
+            "text": "Hey, PJ. I took\nthe bathroom key\nwithout asking."
+          },
+          {
+            "index": 394,
+            "start": 1077.31,
+            "end": 1078.579,
+            "text": "What\nare you going\nto do about it?"
+          },
+          {
+            "index": 395,
+            "start": 1078.612,
+            "end": 1079.813,
+            "text": "(SIGHING)"
+          },
+          {
+            "index": 396,
+            "start": 1079.846,
+            "end": 1082.315,
+            "text": "Look, you guys\nare both great,"
+          },
+          {
+            "index": 397,
+            "start": 1082.348,
+            "end": 1085.586,
+            "text": "but the truth is\nI'm taking another job."
+          },
+          {
+            "index": 398,
+            "start": 1085.619,
+            "end": 1087.754,
+            "text": "These are for you."
+          },
+          {
+            "index": 399,
+            "start": 1087.788,
+            "end": 1089.923,
+            "text": "Robin,\nI hope this letter\noffers some closure."
+          },
+          {
+            "index": 400,
+            "start": 1089.956,
+            "end": 1092.626,
+            "text": "Ted, I'm really\ngoing to miss you."
+          },
+          {
+            "index": 401,
+            "start": 1095.696,
+            "end": 1097.931,
+            "text": "You can't\ntrade Manny Ramirez\nfor two middle relievers!"
+          },
+          {
+            "index": 402,
+            "start": 1097.964,
+            "end": 1099.666,
+            "text": "If you veto that trade,\nI am out of the league!"
+          },
+          {
+            "index": 403,
+            "start": 1099.7,
+            "end": 1102.102,
+            "text": "Okay! Okay!\nI'll figure it out."
+          },
+          {
+            "index": 404,
+            "start": 1105.438,
+            "end": 1108.074,
+            "text": "Hire the kid to be\na paralegal."
+          },
+          {
+            "index": 405,
+            "start": 1108.108,
+            "end": 1111.177,
+            "text": "He gets to do all the work,\nand you still get to be\nSports Guy."
+          },
+          {
+            "index": 406,
+            "start": 1111.211,
+            "end": 1114.347,
+            "text": "Pure evil, Eriksen.\nPure evil."
+          },
+          {
+            "index": 407,
+            "start": 1116.717,
+            "end": 1118.519,
+            "text": "Hey, thanks."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1085.643171875,
+        "topCueIndex": -1,
+        "bottomCueIndex": 397
+      }
     }
   ]
 }
