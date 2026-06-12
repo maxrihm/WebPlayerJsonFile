@@ -39845,6 +39845,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 319
       }
+    },
+    {
+      "id": "a0b5dd21-5588-4185-a578-f8fd02c56042",
+      "createdAt": "2026-06-12T14:48:51.298Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "Matter of fact,",
+      "selection": {
+        "rawText": "Matter of fact,",
+        "startOffset": 6,
+        "endOffset": 21,
+        "cueIndex": 372,
+        "cueStart": 1014.515,
+        "cueEnd": 1016.517,
+        "cueText": "Yeah. Matter of fact,\nwe even try to sit on\nthe same side of the booth"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 362,
+            "start": 990.857,
+            "end": 993.727,
+            "text": "...a... Wait for it."
+          },
+          {
+            "index": 363,
+            "start": 993.76,
+            "end": 994.861,
+            "text": "...certain...\nWait for it."
+          },
+          {
+            "index": 364,
+            "start": 994.895,
+            "end": 995.996,
+            "text": "I know that you're\nin love with Robin!"
+          },
+          {
+            "index": 365,
+            "start": 996.029,
+            "end": 997.631,
+            "text": "What?"
+          },
+          {
+            "index": 366,
+            "start": 997.664,
+            "end": 1000.066,
+            "text": "Lily told me.\nShe told you?"
+          },
+          {
+            "index": 367,
+            "start": 1000.1,
+            "end": 1001.401,
+            "text": "Great."
+          },
+          {
+            "index": 368,
+            "start": 1001.434,
+            "end": 1003.637,
+            "text": "(SCOFFS)"
+          },
+          {
+            "index": 369,
+            "start": 1003.67,
+            "end": 1007.508,
+            "text": "I bet you guys\nhave been laughing at me\nbehind my back the whole time."
+          },
+          {
+            "index": 370,
+            "start": 1007.541,
+            "end": 1011.678,
+            "text": "Actually, in a weird way,\nwe both think you're kind\nof perfect for each other."
+          },
+          {
+            "index": 371,
+            "start": 1012.278,
+            "end": 1014.48,
+            "text": "You do?"
+          },
+          {
+            "index": 372,
+            "start": 1014.515,
+            "end": 1016.517,
+            "text": "Yeah. Matter of fact,\nwe even try to sit on\nthe same side of the booth"
+          },
+          {
+            "index": 373,
+            "start": 1016.55,
+            "end": 1018.018,
+            "text": "so you two will\nhave to sit together."
+          },
+          {
+            "index": 374,
+            "start": 1018.051,
+            "end": 1020.353,
+            "text": "Really? That's so sweet."
+          },
+          {
+            "index": 375,
+            "start": 1020.386,
+            "end": 1025.759,
+            "text": "But let's be clear.\nI don't love her.\nOkay?"
+          },
+          {
+            "index": 376,
+            "start": 1025.792,
+            "end": 1028.595,
+            "text": "I just miss her\nwhen she's not around."
+          },
+          {
+            "index": 377,
+            "start": 1028.629,
+            "end": 1030.564,
+            "text": "I think\nabout her all the time,\nand I imagine us one day"
+          },
+          {
+            "index": 378,
+            "start": 1030.597,
+            "end": 1032.032,
+            "text": "running towards each\nother in slow motion,"
+          },
+          {
+            "index": 379,
+            "start": 1032.065,
+            "end": 1034.935,
+            "text": "and I'm wearing\na brown suede vest."
+          },
+          {
+            "index": 380,
+            "start": 1034.968,
+            "end": 1036.537,
+            "text": "Are you ever going to\ntell her how you feel?"
+          },
+          {
+            "index": 381,
+            "start": 1036.57,
+            "end": 1039.573,
+            "text": "No. Maybe.\nNever. I don't know. Look..."
+          },
+          {
+            "index": 382,
+            "start": 1039.606,
+            "end": 1041.107,
+            "text": "(EXCLAIMS)"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1015.368130859375,
+        "topCueIndex": -1,
+        "bottomCueIndex": 372
+      }
     }
   ]
 }
