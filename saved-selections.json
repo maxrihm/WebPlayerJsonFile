@@ -42125,6 +42125,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 305
       }
+    },
+    {
+      "id": "8b20b508-c4b6-4410-a4b6-3d07fca11ba4",
+      "createdAt": "2026-06-12T19:59:28.248Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "Gotta have it.",
+      "selection": {
+        "rawText": "Gotta have it.",
+        "startOffset": 0,
+        "endOffset": 14,
+        "cueIndex": 328,
+        "cueStart": 905.639,
+        "cueEnd": 907.207,
+        "cueText": "Gotta have it. Ha!"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 318,
+            "start": 879.746,
+            "end": 882.082,
+            "text": "It's not really..."
+          },
+          {
+            "index": 319,
+            "start": 882.115,
+            "end": 884.35,
+            "text": "Ix‐nay, you know?"
+          },
+          {
+            "index": 320,
+            "start": 884.384,
+            "end": 887.253,
+            "text": "Ix‐nay on what?"
+          },
+          {
+            "index": 321,
+            "start": 887.287,
+            "end": 888.254,
+            "text": "Not feeling it."
+          },
+          {
+            "index": 322,
+            "start": 888.288,
+            "end": 890.056,
+            "text": "Not feeling what?"
+          },
+          {
+            "index": 323,
+            "start": 890.09,
+            "end": 891.858,
+            "text": "But friends and stuff?"
+          },
+          {
+            "index": 324,
+            "start": 891.892,
+            "end": 894.795,
+            "text": "Oh, my God, this is\nthe worst breakup ever."
+          },
+          {
+            "index": 325,
+            "start": 894.828,
+            "end": 896.763,
+            "text": "You're breaking up with me?"
+          },
+          {
+            "index": 326,
+            "start": 896.797,
+            "end": 901.968,
+            "text": "If that's\nwhat you want,\nI totally understand."
+          },
+          {
+            "index": 327,
+            "start": 902.002,
+            "end": 905.606,
+            "text": "Hey, you still haven't\nactivated that shortstop\nthe Mariners just brought up."
+          },
+          {
+            "index": 328,
+            "start": 905.639,
+            "end": 907.207,
+            "text": "Gotta have it. Ha!"
+          },
+          {
+            "index": 329,
+            "start": 907.24,
+            "end": 908.474,
+            "text": "(LAUGHING)"
+          },
+          {
+            "index": 330,
+            "start": 908.509,
+            "end": 910.777,
+            "text": "See, Sports Guy?\nPeople love you."
+          },
+          {
+            "index": 331,
+            "start": 910.811,
+            "end": 912.478,
+            "text": "I can't be Sports\nGuy anymore, okay?"
+          },
+          {
+            "index": 332,
+            "start": 912.513,
+            "end": 913.947,
+            "text": "It's killing me!"
+          },
+          {
+            "index": 333,
+            "start": 913.98,
+            "end": 916.049,
+            "text": "I keep getting\nthese constant\ntexts"
+          },
+          {
+            "index": 334,
+            "start": 916.082,
+            "end": 918.985,
+            "text": "and e‐mails and phone calls\nin the middle of the night."
+          },
+          {
+            "index": 335,
+            "start": 919.019,
+            "end": 922.088,
+            "text": "(SOFTLY)\nSometimes I even think\nthat I'm being followed."
+          },
+          {
+            "index": 336,
+            "start": 923.156,
+            "end": 924.891,
+            "text": "Hey, buddy."
+          },
+          {
+            "index": 337,
+            "start": 924.925,
+            "end": 926.593,
+            "text": "I need you to push\nthat trade through,"
+          },
+          {
+            "index": 338,
+            "start": 926.627,
+            "end": 928.829,
+            "text": "so I can set up my new lineup."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 907.2496040039063,
+        "topCueIndex": -1,
+        "bottomCueIndex": 328
+      }
     }
   ]
 }
