@@ -40149,6 +40149,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 372
       }
+    },
+    {
+      "id": "2e506f6e-3eca-4e4b-87af-d6dbc3a69cd3",
+      "createdAt": "2026-06-12T14:51:01.200Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "suede",
+      "selection": {
+        "rawText": "suede",
+        "startOffset": 24,
+        "endOffset": 29,
+        "cueIndex": 379,
+        "cueStart": 1032.065,
+        "cueEnd": 1034.935,
+        "cueText": "and I'm wearing\na brown suede vest."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 369,
+            "start": 1003.67,
+            "end": 1007.508,
+            "text": "I bet you guys\nhave been laughing at me\nbehind my back the whole time."
+          },
+          {
+            "index": 370,
+            "start": 1007.541,
+            "end": 1011.678,
+            "text": "Actually, in a weird way,\nwe both think you're kind\nof perfect for each other."
+          },
+          {
+            "index": 371,
+            "start": 1012.278,
+            "end": 1014.48,
+            "text": "You do?"
+          },
+          {
+            "index": 372,
+            "start": 1014.515,
+            "end": 1016.517,
+            "text": "Yeah. Matter of fact,\nwe even try to sit on\nthe same side of the booth"
+          },
+          {
+            "index": 373,
+            "start": 1016.55,
+            "end": 1018.018,
+            "text": "so you two will\nhave to sit together."
+          },
+          {
+            "index": 374,
+            "start": 1018.051,
+            "end": 1020.353,
+            "text": "Really? That's so sweet."
+          },
+          {
+            "index": 375,
+            "start": 1020.386,
+            "end": 1025.759,
+            "text": "But let's be clear.\nI don't love her.\nOkay?"
+          },
+          {
+            "index": 376,
+            "start": 1025.792,
+            "end": 1028.595,
+            "text": "I just miss her\nwhen she's not around."
+          },
+          {
+            "index": 377,
+            "start": 1028.629,
+            "end": 1030.564,
+            "text": "I think\nabout her all the time,\nand I imagine us one day"
+          },
+          {
+            "index": 378,
+            "start": 1030.597,
+            "end": 1032.032,
+            "text": "running towards each\nother in slow motion,"
+          },
+          {
+            "index": 379,
+            "start": 1032.065,
+            "end": 1034.935,
+            "text": "and I'm wearing\na brown suede vest."
+          },
+          {
+            "index": 380,
+            "start": 1034.968,
+            "end": 1036.537,
+            "text": "Are you ever going to\ntell her how you feel?"
+          },
+          {
+            "index": 381,
+            "start": 1036.57,
+            "end": 1039.573,
+            "text": "No. Maybe.\nNever. I don't know. Look..."
+          },
+          {
+            "index": 382,
+            "start": 1039.606,
+            "end": 1041.107,
+            "text": "(EXCLAIMS)"
+          },
+          {
+            "index": 383,
+            "start": 1041.141,
+            "end": 1044.511,
+            "text": "I just need to get that\nPJ idiot away from her."
+          },
+          {
+            "index": 384,
+            "start": 1044.545,
+            "end": 1047.881,
+            "text": "If Lily were here, she'd know\nexactly how to get rid of him."
+          },
+          {
+            "index": 385,
+            "start": 1047.914,
+            "end": 1049.049,
+            "text": "Maybe I can help."
+          },
+          {
+            "index": 386,
+            "start": 1049.082,
+            "end": 1051.618,
+            "text": "Marshall, you're no Lily."
+          },
+          {
+            "index": 387,
+            "start": 1051.652,
+            "end": 1055.388,
+            "text": "Lily is a diabolical\npuppet master, subtly\nmanipulating every situation"
+          },
+          {
+            "index": 388,
+            "start": 1055.421,
+            "end": 1059.96,
+            "text": "to get\nexactly what she wants.\nShe's pure evil, Marshall."
+          },
+          {
+            "index": 389,
+            "start": 1059.993,
+            "end": 1063.73,
+            "text": "You got a good one there.\nHang on to her."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1035.1680437011719,
+        "topCueIndex": -1,
+        "bottomCueIndex": 379
+      }
     }
   ]
 }
