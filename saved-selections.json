@@ -41973,6 +41973,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 284
       }
+    },
+    {
+      "id": "d3c3220c-b285-4e00-aeae-3d74b94db19a",
+      "createdAt": "2026-06-12T19:52:22.367Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "driving me crazy.",
+      "selection": {
+        "rawText": "driving me crazy.",
+        "startOffset": 5,
+        "endOffset": 22,
+        "cueIndex": 305,
+        "cueStart": 846.179,
+        "cueEnd": 847.981,
+        "cueText": "He's driving me crazy."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 295,
+            "start": 813.68,
+            "end": 815.381,
+            "text": "Oh! Wheel of Fortune."
+          },
+          {
+            "index": 296,
+            "start": 821.387,
+            "end": 824.658,
+            "text": "I love having all this\nfree time to spend\nwith you."
+          },
+          {
+            "index": 297,
+            "start": 824.691,
+            "end": 827.027,
+            "text": "I'm going to kiss\nyou here and here."
+          },
+          {
+            "index": 298,
+            "start": 827.06,
+            "end": 828.394,
+            "text": "Ooh! Ooh!"
+          },
+          {
+            "index": 299,
+            "start": 828.428,
+            "end": 831.497,
+            "text": "And here and here. And..."
+          },
+          {
+            "index": 300,
+            "start": 831.532,
+            "end": 832.599,
+            "text": "Oh!\nPlease stop."
+          },
+          {
+            "index": 301,
+            "start": 835.001,
+            "end": 836.169,
+            "text": "I'm going to go\nto the bathroom."
+          },
+          {
+            "index": 302,
+            "start": 836.202,
+            "end": 837.971,
+            "text": "I'll miss you."
+          },
+          {
+            "index": 303,
+            "start": 838.004,
+            "end": 839.506,
+            "text": "I'll miss you, too."
+          },
+          {
+            "index": 304,
+            "start": 844.611,
+            "end": 846.146,
+            "text": "You're already sick\nof him, aren't you?"
+          },
+          {
+            "index": 305,
+            "start": 846.179,
+            "end": 847.981,
+            "text": "He's driving me crazy."
+          },
+          {
+            "index": 306,
+            "start": 848.014,
+            "end": 850.483,
+            "text": "When PJ had a job,\nhe was sexy."
+          },
+          {
+            "index": 307,
+            "start": 850.517,
+            "end": 852.719,
+            "text": "He was guardian\nof the bathroom\nkey."
+          },
+          {
+            "index": 308,
+            "start": 852.753,
+            "end": 857.357,
+            "text": "A hot guy\ntelling you when\nyou can and can't pee?"
+          },
+          {
+            "index": 309,
+            "start": 857.39,
+            "end": 859.225,
+            "text": "(SIGHS) That's the dream."
+          },
+          {
+            "index": 310,
+            "start": 859.259,
+            "end": 862.395,
+            "text": "That's the dream? The dream?"
+          },
+          {
+            "index": 311,
+            "start": 862.428,
+            "end": 864.865,
+            "text": "Like what Martin Luther King\nwas talking about?"
+          },
+          {
+            "index": 312,
+            "start": 864.898,
+            "end": 868.401,
+            "text": "I have\nto end it, don't I?\nI'm terrible at breakups."
+          },
+          {
+            "index": 313,
+            "start": 868.434,
+            "end": 870.403,
+            "text": "I still have to\ngo a little bit,"
+          },
+          {
+            "index": 314,
+            "start": 870.436,
+            "end": 871.437,
+            "text": "but I couldn't\nbe away from you\none second longer."
+          },
+          {
+            "index": 315,
+            "start": 871.471,
+            "end": 873.607,
+            "text": "Oh! Listen."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 848.0560141601562,
+        "topCueIndex": -1,
+        "bottomCueIndex": 305
+      }
     }
   ]
 }
