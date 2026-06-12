@@ -39693,6 +39693,158 @@
         "topCueIndex": 210,
         "bottomCueIndex": 241
       }
+    },
+    {
+      "id": "10f05197-581c-4bc8-9e4b-8dcdc2fc7425",
+      "createdAt": "2026-06-12T12:39:09.805Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "Ix‐nay,",
+      "selection": {
+        "rawText": "Ix‐nay,",
+        "startOffset": 0,
+        "endOffset": 7,
+        "cueIndex": 319,
+        "cueStart": 882.115,
+        "cueEnd": 884.35,
+        "cueText": "Ix‐nay, you know?"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 309,
+            "start": 857.39,
+            "end": 859.225,
+            "text": "(SIGHS) That's the dream."
+          },
+          {
+            "index": 310,
+            "start": 859.259,
+            "end": 862.395,
+            "text": "That's the dream? The dream?"
+          },
+          {
+            "index": 311,
+            "start": 862.428,
+            "end": 864.865,
+            "text": "Like what Martin Luther King\nwas talking about?"
+          },
+          {
+            "index": 312,
+            "start": 864.898,
+            "end": 868.401,
+            "text": "I have\nto end it, don't I?\nI'm terrible at breakups."
+          },
+          {
+            "index": 313,
+            "start": 868.434,
+            "end": 870.403,
+            "text": "I still have to\ngo a little bit,"
+          },
+          {
+            "index": 314,
+            "start": 870.436,
+            "end": 871.437,
+            "text": "but I couldn't\nbe away from you\none second longer."
+          },
+          {
+            "index": 315,
+            "start": 871.471,
+            "end": 873.607,
+            "text": "Oh! Listen."
+          },
+          {
+            "index": 316,
+            "start": 875.542,
+            "end": 877.443,
+            "text": "Dude, I don't know.\nWhat?"
+          },
+          {
+            "index": 317,
+            "start": 877.477,
+            "end": 879.713,
+            "text": "Yeah, it's just..."
+          },
+          {
+            "index": 318,
+            "start": 879.746,
+            "end": 882.082,
+            "text": "It's not really..."
+          },
+          {
+            "index": 319,
+            "start": 882.115,
+            "end": 884.35,
+            "text": "Ix‐nay, you know?"
+          },
+          {
+            "index": 320,
+            "start": 884.384,
+            "end": 887.253,
+            "text": "Ix‐nay on what?"
+          },
+          {
+            "index": 321,
+            "start": 887.287,
+            "end": 888.254,
+            "text": "Not feeling it."
+          },
+          {
+            "index": 322,
+            "start": 888.288,
+            "end": 890.056,
+            "text": "Not feeling what?"
+          },
+          {
+            "index": 323,
+            "start": 890.09,
+            "end": 891.858,
+            "text": "But friends and stuff?"
+          },
+          {
+            "index": 324,
+            "start": 891.892,
+            "end": 894.795,
+            "text": "Oh, my God, this is\nthe worst breakup ever."
+          },
+          {
+            "index": 325,
+            "start": 894.828,
+            "end": 896.763,
+            "text": "You're breaking up with me?"
+          },
+          {
+            "index": 326,
+            "start": 896.797,
+            "end": 901.968,
+            "text": "If that's\nwhat you want,\nI totally understand."
+          },
+          {
+            "index": 327,
+            "start": 902.002,
+            "end": 905.606,
+            "text": "Hey, you still haven't\nactivated that shortstop\nthe Mariners just brought up."
+          },
+          {
+            "index": 328,
+            "start": 905.639,
+            "end": 907.207,
+            "text": "Gotta have it. Ha!"
+          },
+          {
+            "index": 329,
+            "start": 907.24,
+            "end": 908.474,
+            "text": "(LAUGHING)"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 884.4145930175781,
+        "topCueIndex": -1,
+        "bottomCueIndex": 319
+      }
     }
   ]
 }
