@@ -41821,6 +41821,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 277
       }
+    },
+    {
+      "id": "577ae9af-3975-43d5-a455-9416ff3a25a6",
+      "createdAt": "2026-06-12T19:47:06.551Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "shooting star,",
+      "selection": {
+        "rawText": "shooting star,",
+        "startOffset": 20,
+        "endOffset": 34,
+        "cueIndex": 284,
+        "cueStart": 788.021,
+        "cueEnd": 790.791,
+        "cueText": "By the way,\nI saw a shooting star,"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 274,
+            "start": 763.697,
+            "end": 764.731,
+            "text": "It's kind of\nfunny though,\nright?"
+          },
+          {
+            "index": 275,
+            "start": 764.765,
+            "end": 765.699,
+            "text": "It's so funny, man."
+          },
+          {
+            "index": 276,
+            "start": 767.433,
+            "end": 769.069,
+            "text": "Hey, good news, PJ."
+          },
+          {
+            "index": 277,
+            "start": 769.102,
+            "end": 771.104,
+            "text": "The brochures you\ndesigned just came in."
+          },
+          {
+            "index": 278,
+            "start": 771.137,
+            "end": 772.806,
+            "text": "Really interesting\nchoice for the cover."
+          },
+          {
+            "index": 279,
+            "start": 772.839,
+            "end": 777.11,
+            "text": "I like how instead of one of\nmy designs, you chose this."
+          },
+          {
+            "index": 280,
+            "start": 777.143,
+            "end": 780.514,
+            "text": "You know what? I must've\nsent in the wrong photo."
+          },
+          {
+            "index": 281,
+            "start": 780.547,
+            "end": 782.348,
+            "text": "You think?"
+          },
+          {
+            "index": 282,
+            "start": 782.382,
+            "end": 785.619,
+            "text": "Look, PJ,\nthe website's\nstill not done."
+          },
+          {
+            "index": 283,
+            "start": 785.652,
+            "end": 787.988,
+            "text": "You didn't even show up\nto the corporate retreat."
+          },
+          {
+            "index": 284,
+            "start": 788.021,
+            "end": 790.791,
+            "text": "By the way,\nI saw a shooting star,"
+          },
+          {
+            "index": 285,
+            "start": 790.824,
+            "end": 792.793,
+            "text": "and you're late every day!"
+          },
+          {
+            "index": 286,
+            "start": 792.826,
+            "end": 795.195,
+            "text": "I'm sorry, PJ.\nI gotta get focused."
+          },
+          {
+            "index": 287,
+            "start": 795.228,
+            "end": 796.329,
+            "text": "You're fired."
+          },
+          {
+            "index": 288,
+            "start": 796.362,
+            "end": 798.131,
+            "text": "You can't fire..."
+          },
+          {
+            "index": 289,
+            "start": 798.164,
+            "end": 799.666,
+            "text": "PJ, you're fired."
+          },
+          {
+            "index": 290,
+            "start": 799.7,
+            "end": 800.801,
+            "text": "Fine!"
+          },
+          {
+            "index": 291,
+            "start": 804.37,
+            "end": 808.875,
+            "text": "Hey, baby.\nI just got fired."
+          },
+          {
+            "index": 292,
+            "start": 808.909,
+            "end": 810.043,
+            "text": "Yeah,\nI'll wait for\nyou at your place."
+          },
+          {
+            "index": 293,
+            "start": 810.076,
+            "end": 811.477,
+            "text": "Okay, bye."
+          },
+          {
+            "index": 294,
+            "start": 812.345,
+            "end": 813.647,
+            "text": "(CHEERING ON TV)"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 790.8687153320312,
+        "topCueIndex": -1,
+        "bottomCueIndex": 284
+      }
     }
   ]
 }
