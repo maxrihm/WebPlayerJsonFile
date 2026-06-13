@@ -43189,6 +43189,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 405
       }
+    },
+    {
+      "id": "0e0a4942-45ca-493b-b37a-8dd495550f39",
+      "createdAt": "2026-06-13T21:26:10.096Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "get to be",
+      "selection": {
+        "rawText": "get to be",
+        "startOffset": 42,
+        "endOffset": 51,
+        "cueIndex": 405,
+        "cueStart": 1108.108,
+        "cueEnd": 1111.177,
+        "cueText": "He gets to do all the work,\nand you still get to be\nSports Guy."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 395,
+            "start": 1078.612,
+            "end": 1079.813,
+            "text": "(SIGHING)"
+          },
+          {
+            "index": 396,
+            "start": 1079.846,
+            "end": 1082.315,
+            "text": "Look, you guys\nare both great,"
+          },
+          {
+            "index": 397,
+            "start": 1082.348,
+            "end": 1085.586,
+            "text": "but the truth is\nI'm taking another job."
+          },
+          {
+            "index": 398,
+            "start": 1085.619,
+            "end": 1087.754,
+            "text": "These are for you."
+          },
+          {
+            "index": 399,
+            "start": 1087.788,
+            "end": 1089.923,
+            "text": "Robin,\nI hope this letter\noffers some closure."
+          },
+          {
+            "index": 400,
+            "start": 1089.956,
+            "end": 1092.626,
+            "text": "Ted, I'm really\ngoing to miss you."
+          },
+          {
+            "index": 401,
+            "start": 1095.696,
+            "end": 1097.931,
+            "text": "You can't\ntrade Manny Ramirez\nfor two middle relievers!"
+          },
+          {
+            "index": 402,
+            "start": 1097.964,
+            "end": 1099.666,
+            "text": "If you veto that trade,\nI am out of the league!"
+          },
+          {
+            "index": 403,
+            "start": 1099.7,
+            "end": 1102.102,
+            "text": "Okay! Okay!\nI'll figure it out."
+          },
+          {
+            "index": 404,
+            "start": 1105.438,
+            "end": 1108.074,
+            "text": "Hire the kid to be\na paralegal."
+          },
+          {
+            "index": 405,
+            "start": 1108.108,
+            "end": 1111.177,
+            "text": "He gets to do all the work,\nand you still get to be\nSports Guy."
+          },
+          {
+            "index": 406,
+            "start": 1111.211,
+            "end": 1114.347,
+            "text": "Pure evil, Eriksen.\nPure evil."
+          },
+          {
+            "index": 407,
+            "start": 1116.717,
+            "end": 1118.519,
+            "text": "Hey, thanks."
+          },
+          {
+            "index": 408,
+            "start": 1122.856,
+            "end": 1124.891,
+            "text": "Hey. You okay?"
+          },
+          {
+            "index": 409,
+            "start": 1127.994,
+            "end": 1129.63,
+            "text": "What if I don't\nthink of the books?"
+          },
+          {
+            "index": 410,
+            "start": 1130.296,
+            "end": 1131.965,
+            "text": "Excuse me?"
+          },
+          {
+            "index": 411,
+            "start": 1131.998,
+            "end": 1133.6,
+            "text": "There's this famous\narchitecture story"
+          },
+          {
+            "index": 412,
+            "start": 1133.634,
+            "end": 1136.503,
+            "text": "about an architect\nwho designed this\nlibrary."
+          },
+          {
+            "index": 413,
+            "start": 1136.537,
+            "end": 1138.438,
+            "text": "It was perfect."
+          },
+          {
+            "index": 414,
+            "start": 1138.471,
+            "end": 1140.674,
+            "text": "But every year,\nthe whole thing would"
+          },
+          {
+            "index": 415,
+            "start": 1140.707,
+            "end": 1144.11,
+            "text": "sink a couple of\ninches into the ground."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1111.0013041992188,
+        "topCueIndex": -1,
+        "bottomCueIndex": 405
+      }
     }
   ]
 }
