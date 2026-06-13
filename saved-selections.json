@@ -43341,6 +43341,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 405
       }
+    },
+    {
+      "id": "1f13d2ee-4f9e-4197-b33f-9bf3fe91d95a",
+      "createdAt": "2026-06-13T21:28:51.112Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "sink",
+      "selection": {
+        "rawText": "sink",
+        "startOffset": 0,
+        "endOffset": 4,
+        "cueIndex": 415,
+        "cueStart": 1140.707,
+        "cueEnd": 1144.11,
+        "cueText": "sink a couple of\ninches into the ground."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 405,
+            "start": 1108.108,
+            "end": 1111.177,
+            "text": "He gets to do all the work,\nand you still get to be\nSports Guy."
+          },
+          {
+            "index": 406,
+            "start": 1111.211,
+            "end": 1114.347,
+            "text": "Pure evil, Eriksen.\nPure evil."
+          },
+          {
+            "index": 407,
+            "start": 1116.717,
+            "end": 1118.519,
+            "text": "Hey, thanks."
+          },
+          {
+            "index": 408,
+            "start": 1122.856,
+            "end": 1124.891,
+            "text": "Hey. You okay?"
+          },
+          {
+            "index": 409,
+            "start": 1127.994,
+            "end": 1129.63,
+            "text": "What if I don't\nthink of the books?"
+          },
+          {
+            "index": 410,
+            "start": 1130.296,
+            "end": 1131.965,
+            "text": "Excuse me?"
+          },
+          {
+            "index": 411,
+            "start": 1131.998,
+            "end": 1133.6,
+            "text": "There's this famous\narchitecture story"
+          },
+          {
+            "index": 412,
+            "start": 1133.634,
+            "end": 1136.503,
+            "text": "about an architect\nwho designed this\nlibrary."
+          },
+          {
+            "index": 413,
+            "start": 1136.537,
+            "end": 1138.438,
+            "text": "It was perfect."
+          },
+          {
+            "index": 414,
+            "start": 1138.471,
+            "end": 1140.674,
+            "text": "But every year,\nthe whole thing would"
+          },
+          {
+            "index": 415,
+            "start": 1140.707,
+            "end": 1144.11,
+            "text": "sink a couple of\ninches into the ground."
+          },
+          {
+            "index": 416,
+            "start": 1144.144,
+            "end": 1147.648,
+            "text": "Eventually,\nthe building\nwas condemned."
+          },
+          {
+            "index": 417,
+            "start": 1147.681,
+            "end": 1151.785,
+            "text": "He forgot to account\nfor the weight of\nthe books."
+          },
+          {
+            "index": 418,
+            "start": 1151.818,
+            "end": 1156.189,
+            "text": "This company,\nit's just me."
+          },
+          {
+            "index": 419,
+            "start": 1156.222,
+            "end": 1158.959,
+            "text": "What if I don't\nthink of the books?"
+          },
+          {
+            "index": 420,
+            "start": 1158.992,
+            "end": 1161.494,
+            "text": "Okay, first of all,\nnobody goes to libraries"
+          },
+          {
+            "index": 421,
+            "start": 1161.528,
+            "end": 1163.864,
+            "text": "anymore,\nso who cares\nabout that guy?"
+          },
+          {
+            "index": 422,
+            "start": 1163.897,
+            "end": 1168.201,
+            "text": "Secondly, you\nneed to get on the phone\nand start calling clients."
+          },
+          {
+            "index": 423,
+            "start": 1168.234,
+            "end": 1170.336,
+            "text": "The longer I put off\nstarting my own firm,"
+          },
+          {
+            "index": 424,
+            "start": 1170.37,
+            "end": 1175.742,
+            "text": "the longer it can\nremain a dream and not\nsomething I screwed up at."
+          },
+          {
+            "index": 425,
+            "start": 1175.776,
+            "end": 1178.512,
+            "text": "I mean,\nit's like I'm giving\nup before I even started."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1143.2799411621095,
+        "topCueIndex": -1,
+        "bottomCueIndex": 415
+      }
     }
   ]
 }
