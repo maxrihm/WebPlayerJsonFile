@@ -44405,6 +44405,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 429
       }
+    },
+    {
+      "id": "88a1f626-8538-49a7-95a7-7f4c44d28ce9",
+      "createdAt": "2026-06-13T21:35:52.445Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "settle for",
+      "selection": {
+        "rawText": "settle for",
+        "startOffset": 28,
+        "endOffset": 38,
+        "cueIndex": 429,
+        "cueStart": 1186.553,
+        "cueEnd": 1191.858,
+        "cueText": "And now, apparently, I will\nsettle for \"in my apartment.\""
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 419,
+            "start": 1156.222,
+            "end": 1158.959,
+            "text": "What if I don't\nthink of the books?"
+          },
+          {
+            "index": 420,
+            "start": 1158.992,
+            "end": 1161.494,
+            "text": "Okay, first of all,\nnobody goes to libraries"
+          },
+          {
+            "index": 421,
+            "start": 1161.528,
+            "end": 1163.864,
+            "text": "anymore,\nso who cares\nabout that guy?"
+          },
+          {
+            "index": 422,
+            "start": 1163.897,
+            "end": 1168.201,
+            "text": "Secondly, you\nneed to get on the phone\nand start calling clients."
+          },
+          {
+            "index": 423,
+            "start": 1168.234,
+            "end": 1170.336,
+            "text": "The longer I put off\nstarting my own firm,"
+          },
+          {
+            "index": 424,
+            "start": 1170.37,
+            "end": 1175.742,
+            "text": "the longer it can\nremain a dream and not\nsomething I screwed up at."
+          },
+          {
+            "index": 425,
+            "start": 1175.776,
+            "end": 1178.512,
+            "text": "I mean,\nit's like I'm giving\nup before I even started."
+          },
+          {
+            "index": 426,
+            "start": 1178.545,
+            "end": 1180.681,
+            "text": "You want to talk\nabout giving up?"
+          },
+          {
+            "index": 427,
+            "start": 1180.714,
+            "end": 1183.249,
+            "text": "I used\nto describe\nmy ideal guy as"
+          },
+          {
+            "index": 428,
+            "start": 1183.283,
+            "end": 1186.52,
+            "text": "funny, smart,\npassionate, challenging."
+          },
+          {
+            "index": 429,
+            "start": 1186.553,
+            "end": 1191.858,
+            "text": "And now, apparently, I will\nsettle for \"in my apartment.\""
+          },
+          {
+            "index": 430,
+            "start": 1191.892,
+            "end": 1194.561,
+            "text": "I mean, didn't you think you'd\nhave it all more figured out\nby now?"
+          },
+          {
+            "index": 431,
+            "start": 1194.595,
+            "end": 1198.031,
+            "text": "Are you kidding?\nBy 30, I was going to\nbe annoyingly successful,"
+          },
+          {
+            "index": 432,
+            "start": 1198.064,
+            "end": 1201.001,
+            "text": "married to\nthe perfect woman,\nmaybe a kid on the way."
+          },
+          {
+            "index": 433,
+            "start": 1201.034,
+            "end": 1204.204,
+            "text": "Instead,\nI'm just some guy\nsitting in his apartment"
+          },
+          {
+            "index": 434,
+            "start": 1204.237,
+            "end": 1206.807,
+            "text": "having a staring\ncontest with his\nphone."
+          },
+          {
+            "index": 435,
+            "start": 1207.608,
+            "end": 1209.109,
+            "text": "And losing."
+          },
+          {
+            "index": 436,
+            "start": 1210.31,
+            "end": 1212.979,
+            "text": "Hey. You can take that thing."
+          },
+          {
+            "index": 437,
+            "start": 1217.05,
+            "end": 1218.218,
+            "text": "(SIGHS)"
+          },
+          {
+            "index": 438,
+            "start": 1230.631,
+            "end": 1233.366,
+            "text": "Hi, this is\nTed Mosby of\nMosbius Designs."
+          },
+          {
+            "index": 439,
+            "start": 1233.399,
+            "end": 1236.603,
+            "text": "I'm calling to inquire about\nany design needs you may have\nnow or in the future."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1190.5154650878906,
+        "topCueIndex": -1,
+        "bottomCueIndex": 429
+      }
     }
   ]
 }
