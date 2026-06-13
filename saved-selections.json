@@ -44101,6 +44101,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 423
       }
+    },
+    {
+      "id": "4f6060c0-f497-4900-8f38-1734a3b38199",
+      "createdAt": "2026-06-13T21:33:14.098Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "remain",
+      "selection": {
+        "rawText": "remain",
+        "startOffset": 18,
+        "endOffset": 24,
+        "cueIndex": 424,
+        "cueStart": 1170.37,
+        "cueEnd": 1175.742,
+        "cueText": "the longer it can\nremain a dream and not\nsomething I screwed up at."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 414,
+            "start": 1138.471,
+            "end": 1140.674,
+            "text": "But every year,\nthe whole thing would"
+          },
+          {
+            "index": 415,
+            "start": 1140.707,
+            "end": 1144.11,
+            "text": "sink a couple of\ninches into the ground."
+          },
+          {
+            "index": 416,
+            "start": 1144.144,
+            "end": 1147.648,
+            "text": "Eventually,\nthe building\nwas condemned."
+          },
+          {
+            "index": 417,
+            "start": 1147.681,
+            "end": 1151.785,
+            "text": "He forgot to account\nfor the weight of\nthe books."
+          },
+          {
+            "index": 418,
+            "start": 1151.818,
+            "end": 1156.189,
+            "text": "This company,\nit's just me."
+          },
+          {
+            "index": 419,
+            "start": 1156.222,
+            "end": 1158.959,
+            "text": "What if I don't\nthink of the books?"
+          },
+          {
+            "index": 420,
+            "start": 1158.992,
+            "end": 1161.494,
+            "text": "Okay, first of all,\nnobody goes to libraries"
+          },
+          {
+            "index": 421,
+            "start": 1161.528,
+            "end": 1163.864,
+            "text": "anymore,\nso who cares\nabout that guy?"
+          },
+          {
+            "index": 422,
+            "start": 1163.897,
+            "end": 1168.201,
+            "text": "Secondly, you\nneed to get on the phone\nand start calling clients."
+          },
+          {
+            "index": 423,
+            "start": 1168.234,
+            "end": 1170.336,
+            "text": "The longer I put off\nstarting my own firm,"
+          },
+          {
+            "index": 424,
+            "start": 1170.37,
+            "end": 1175.742,
+            "text": "the longer it can\nremain a dream and not\nsomething I screwed up at."
+          },
+          {
+            "index": 425,
+            "start": 1175.776,
+            "end": 1178.512,
+            "text": "I mean,\nit's like I'm giving\nup before I even started."
+          },
+          {
+            "index": 426,
+            "start": 1178.545,
+            "end": 1180.681,
+            "text": "You want to talk\nabout giving up?"
+          },
+          {
+            "index": 427,
+            "start": 1180.714,
+            "end": 1183.249,
+            "text": "I used\nto describe\nmy ideal guy as"
+          },
+          {
+            "index": 428,
+            "start": 1183.283,
+            "end": 1186.52,
+            "text": "funny, smart,\npassionate, challenging."
+          },
+          {
+            "index": 429,
+            "start": 1186.553,
+            "end": 1191.858,
+            "text": "And now, apparently, I will\nsettle for \"in my apartment.\""
+          },
+          {
+            "index": 430,
+            "start": 1191.892,
+            "end": 1194.561,
+            "text": "I mean, didn't you think you'd\nhave it all more figured out\nby now?"
+          },
+          {
+            "index": 431,
+            "start": 1194.595,
+            "end": 1198.031,
+            "text": "Are you kidding?\nBy 30, I was going to\nbe annoyingly successful,"
+          },
+          {
+            "index": 432,
+            "start": 1198.064,
+            "end": 1201.001,
+            "text": "married to\nthe perfect woman,\nmaybe a kid on the way."
+          },
+          {
+            "index": 433,
+            "start": 1201.034,
+            "end": 1204.204,
+            "text": "Instead,\nI'm just some guy\nsitting in his apartment"
+          },
+          {
+            "index": 434,
+            "start": 1204.237,
+            "end": 1206.807,
+            "text": "having a staring\ncontest with his\nphone."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1174.655522216797,
+        "topCueIndex": -1,
+        "bottomCueIndex": 424
+      }
     }
   ]
 }
