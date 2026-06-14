@@ -45001,6 +45001,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 63
       }
+    },
+    {
+      "id": "2a8fee17-96e4-4962-9323-bd521ee4db1c",
+      "createdAt": "2026-06-14T08:30:16.901Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "dental floss poisoning your entire family?",
+      "selection": {
+        "rawText": "dental floss\npoisoning your entire family?",
+        "startOffset": 26,
+        "endOffset": 68,
+        "cueIndex": 29,
+        "cueStart": 92.366,
+        "cueEnd": 97.5,
+        "cueText": "Is your favorite\nbrand of dental floss\npoisoning your entire family?"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 19,
+            "start": 62.6,
+            "end": 64.966,
+            "text": "Marshall was still coping\nwith unemployment."
+          },
+          {
+            "index": 20,
+            "start": 65,
+            "end": 66.666,
+            "text": "What are you doing?"
+          },
+          {
+            "index": 21,
+            "start": 68.4,
+            "end": 70.4,
+            "text": "Lily threw herself\ninto her painting."
+          },
+          {
+            "index": 22,
+            "start": 70.433,
+            "end": 73.2,
+            "text": "What are you doing?"
+          },
+          {
+            "index": 23,
+            "start": 73.233,
+            "end": 75.633,
+            "text": "Barney was rehabilitating\nfrom his bus accident."
+          },
+          {
+            "index": 24,
+            "start": 75.666,
+            "end": 78.366,
+            "text": "What are you doing?"
+          },
+          {
+            "index": 25,
+            "start": 78.4,
+            "end": 82.166,
+            "text": "And, well, Marshall just kept\ncoping with unemployment."
+          },
+          {
+            "index": 26,
+            "start": 84.833,
+            "end": 87.4,
+            "text": "What are you doing?"
+          },
+          {
+            "index": 27,
+            "start": 87.433,
+            "end": 89.3,
+            "text": "And Robin continued to uphold"
+          },
+          {
+            "index": 28,
+            "start": 89.333,
+            "end": 92.333,
+            "text": "the high journalistic\nstandards of Metro News 1."
+          },
+          {
+            "index": 29,
+            "start": 92.366,
+            "end": 97.5,
+            "text": "Is your favorite\nbrand of dental floss\npoisoning your entire family?"
+          },
+          {
+            "index": 30,
+            "start": 97.533,
+            "end": 101.166,
+            "text": "Tune in at 11:00 for\nthe shocking tooth."
+          },
+          {
+            "index": 31,
+            "start": 104.4,
+            "end": 106.833,
+            "text": "Okay, I officially\nhate my job."
+          },
+          {
+            "index": 32,
+            "start": 106.866,
+            "end": 108.4,
+            "text": "I'm not a reporter,"
+          },
+          {
+            "index": 33,
+            "start": 108.433,
+            "end": 111,
+            "text": "I'm just someone\nwho shows up at night\nand scares people."
+          },
+          {
+            "index": 34,
+            "start": 111.033,
+            "end": 113.833,
+            "text": "I'm the boogeyman\nwith a teleprompter."
+          },
+          {
+            "index": 35,
+            "start": 113.866,
+            "end": 115.166,
+            "text": "(LAUGHING)"
+          },
+          {
+            "index": 36,
+            "start": 116.366,
+            "end": 118.166,
+            "text": "\"Boogeyman with\na teleprompter.\""
+          },
+          {
+            "index": 37,
+            "start": 118.2,
+            "end": 119.733,
+            "text": "That's hilarious!"
+          },
+          {
+            "index": 38,
+            "start": 119.766,
+            "end": 121.366,
+            "text": "Great joke,\nRobin, great joke."
+          },
+          {
+            "index": 39,
+            "start": 121.4,
+            "end": 124.633,
+            "text": "Barney, no offense to Robin,\nbut that wasn't that funny."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 92.59325610351563,
+        "topCueIndex": -1,
+        "bottomCueIndex": 29
+      }
     }
   ]
 }
