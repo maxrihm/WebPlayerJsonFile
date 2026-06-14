@@ -45001,6 +45001,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 63
       }
+    },
+    {
+      "id": "93d791c1-dff3-444d-935d-c486b7805a18",
+      "createdAt": "2026-06-14T19:49:59.534Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "played out.",
+      "selection": {
+        "rawText": "played out.",
+        "startOffset": 32,
+        "endOffset": 43,
+        "cueIndex": 22,
+        "cueStart": 54.655,
+        "cueEnd": 56.523,
+        "cueText": "Barney, that rule\nis completely played out."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 12,
+            "start": 29.563,
+            "end": 32.733,
+            "text": "whose names\nshould end in \"Y,\"\nbut instead end in \"I.\""
+          },
+          {
+            "index": 13,
+            "start": 32.766,
+            "end": 35.201,
+            "text": "Those girls are like\nroller coasters."
+          },
+          {
+            "index": 14,
+            "start": 35.235,
+            "end": 37.604,
+            "text": "You got to wait\nin a long line,\nbut once you get up there,"
+          },
+          {
+            "index": 15,
+            "start": 37.638,
+            "end": 39.54,
+            "text": "you just hold on\nfor dear life and hope\nyou don't drop your keys."
+          },
+          {
+            "index": 16,
+            "start": 39.573,
+            "end": 41.542,
+            "text": "(ALL LAUGHING)"
+          },
+          {
+            "index": 17,
+            "start": 41.575,
+            "end": 43.944,
+            "text": "Hey, you know what\nI'm gonna do?\nI'm gonna call her right now."
+          },
+          {
+            "index": 18,
+            "start": 43.977,
+            "end": 48.682,
+            "text": "I'm gonna do that whole,\n\"Hey, remember me?\nIt's been so long.\""
+          },
+          {
+            "index": 19,
+            "start": 48.715,
+            "end": 50.45,
+            "text": "See, it's funny,\nbecause I just saw her."
+          },
+          {
+            "index": 20,
+            "start": 50.483,
+            "end": 51.918,
+            "text": "Dude, you can't\ncall her."
+          },
+          {
+            "index": 21,
+            "start": 51.952,
+            "end": 54.621,
+            "text": "You have to wait three days\nto call a woman.\nThat's the rule."
+          },
+          {
+            "index": 22,
+            "start": 54.655,
+            "end": 56.523,
+            "text": "Barney, that rule\nis completely played out."
+          },
+          {
+            "index": 23,
+            "start": 56.557,
+            "end": 57.791,
+            "text": "Girls know exactly\nwhat you're doing."
+          },
+          {
+            "index": 24,
+            "start": 57.824,
+            "end": 60.26,
+            "text": "Hey! I got a new rule."
+          },
+          {
+            "index": 25,
+            "start": 60.293,
+            "end": 64.865,
+            "text": "It's kind of crazy,\nbut I call it,\n\"You like her, you call her.\""
+          },
+          {
+            "index": 26,
+            "start": 64.898,
+            "end": 66.266,
+            "text": "I'm sorry,\ncan you repeat that?"
+          },
+          {
+            "index": 27,
+            "start": 66.299,
+            "end": 67.901,
+            "text": "I don't speak\nI‐never‐get‐laid."
+          },
+          {
+            "index": 28,
+            "start": 67.934,
+            "end": 69.936,
+            "text": "(ROBIN AND MARSHALL LAUGHING)"
+          },
+          {
+            "index": 29,
+            "start": 69.97,
+            "end": 73.674,
+            "text": "Barney, the three‐days rule\nis insane. I mean,\nwho even came up with that?"
+          },
+          {
+            "index": 30,
+            "start": 75.008,
+            "end": 76.242,
+            "text": "Jesus."
+          },
+          {
+            "index": 31,
+            "start": 76.276,
+            "end": 79.58,
+            "text": "Barney, don't do this.\nNot with Jesus."
+          },
+          {
+            "index": 32,
+            "start": 79.613,
+            "end": 83.65,
+            "text": "Seriously.\nJesus started the whole\nwait three days thing."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 57.939660888671874,
+        "topCueIndex": -1,
+        "bottomCueIndex": 22
+      }
     }
   ]
 }
