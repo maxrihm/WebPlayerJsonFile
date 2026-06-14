@@ -45457,6 +45457,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 42
       }
+    },
+    {
+      "id": "9e74ebbe-a1e8-422f-9bf9-4aba0fae68ac",
+      "createdAt": "2026-06-14T19:54:51.287Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "chores.",
+      "selection": {
+        "rawText": "chores.",
+        "startOffset": 23,
+        "endOffset": 30,
+        "cueIndex": 44,
+        "cueStart": 114.28,
+        "cueEnd": 116.583,
+        "cueText": "Everybody's busy\ndoing chores."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 34,
+            "start": 86.853,
+            "end": 88.922,
+            "text": "If he'd have only waited\none day,"
+          },
+          {
+            "index": 35,
+            "start": 88.955,
+            "end": 90.423,
+            "text": "a lot of people\nwouldn't have even heard\nthat he died."
+          },
+          {
+            "index": 36,
+            "start": 90.456,
+            "end": 93.126,
+            "text": "They'd be all,\n\"Hey, Jesus,\nwhat up?\""
+          },
+          {
+            "index": 37,
+            "start": 93.159,
+            "end": 97.33,
+            "text": "And Jesus would\nprobably be like,\n\"What up? I died yesterday.\""
+          },
+          {
+            "index": 38,
+            "start": 97.363,
+            "end": 100.734,
+            "text": "And then they'd be all,\n\"You look pretty alive\nto me, dude.\""
+          },
+          {
+            "index": 39,
+            "start": 100.767,
+            "end": 103.103,
+            "text": "And then Jesus would\nhave to explain\nhow he was resurrected,"
+          },
+          {
+            "index": 40,
+            "start": 103.136,
+            "end": 104.671,
+            "text": "and how it was\na miracle."
+          },
+          {
+            "index": 41,
+            "start": 104.705,
+            "end": 108.975,
+            "text": "And then the dude\nwould be like, \"Okay,\nwhatever you say, bro.\""
+          },
+          {
+            "index": 42,
+            "start": 109.009,
+            "end": 112.145,
+            "text": "Wow, ancient dialogue\nsounds so stilted now."
+          },
+          {
+            "index": 43,
+            "start": 112.178,
+            "end": 114.247,
+            "text": "And he's not gonna\ncome back\non a Saturday."
+          },
+          {
+            "index": 44,
+            "start": 114.28,
+            "end": 116.583,
+            "text": "Everybody's busy\ndoing chores."
+          },
+          {
+            "index": 45,
+            "start": 116.617,
+            "end": 118.619,
+            "text": "Working the loom,\ntrimming their beards."
+          },
+          {
+            "index": 46,
+            "start": 118.652,
+            "end": 122.355,
+            "text": "No. He waits the exact\nright number of days."
+          },
+          {
+            "index": 47,
+            "start": 123.156,
+            "end": 124.925,
+            "text": "Three."
+          },
+          {
+            "index": 48,
+            "start": 124.958,
+            "end": 128.662,
+            "text": "Okay, I promise,\nI'll wait three days.\nJust please stop talking."
+          },
+          {
+            "index": 49,
+            "start": 128.695,
+            "end": 131.665,
+            "text": "Plus, it's Sunday,\nso everyone's\nin church already."
+          },
+          {
+            "index": 50,
+            "start": 131.698,
+            "end": 135.001,
+            "text": "They're all in there,\n\"Oh, no, Jesus is dead.\""
+          },
+          {
+            "index": 51,
+            "start": 135.035,
+            "end": 138.872,
+            "text": "Then, bam! He bursts\nthrough the back door,\nruns up the aisle."
+          },
+          {
+            "index": 52,
+            "start": 138.905,
+            "end": 143.677,
+            "text": "Everyone's totally psyched.\nAnd FYI, that's when\nhe invented the high‐five."
+          },
+          {
+            "index": 53,
+            "start": 143.71,
+            "end": 147.313,
+            "text": "Three days, Ted.\nWe wait three days\nto call a woman,"
+          },
+          {
+            "index": 54,
+            "start": 147.347,
+            "end": 150.183,
+            "text": "because that's how long\nJesus wants us to wait."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 115.97526391601562,
+        "topCueIndex": -1,
+        "bottomCueIndex": 44
+      }
     }
   ]
 }
