@@ -44861,6 +44861,146 @@
         "topCueIndex": -1,
         "bottomCueIndex": 432
       }
+    },
+    {
+      "id": "c8917291-79e9-4be5-bbc5-5690c81da021",
+      "createdAt": "2026-06-14T08:04:23.787Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "actual",
+      "selection": {
+        "rawText": "actual",
+        "startOffset": 12,
+        "endOffset": 18,
+        "cueIndex": 63,
+        "cueStart": 1239.005,
+        "cueEnd": 1240.04,
+        "cueText": "Now call an actual client."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 53,
+            "start": 1198.064,
+            "end": 1201.001,
+            "text": "married to\nthe perfect woman,\nmaybe a kid on the way."
+          },
+          {
+            "index": 54,
+            "start": 1201.034,
+            "end": 1204.204,
+            "text": "Instead,\nI'm just some guy\nsitting in his apartment"
+          },
+          {
+            "index": 55,
+            "start": 1204.237,
+            "end": 1206.807,
+            "text": "having a staring\ncontest with his\nphone."
+          },
+          {
+            "index": 56,
+            "start": 1207.608,
+            "end": 1209.109,
+            "text": "And losing."
+          },
+          {
+            "index": 57,
+            "start": 1210.31,
+            "end": 1212.979,
+            "text": "Hey. You can take that thing."
+          },
+          {
+            "index": 58,
+            "start": 1217.05,
+            "end": 1218.218,
+            "text": "(SIGHS)"
+          },
+          {
+            "index": 59,
+            "start": 1230.631,
+            "end": 1233.366,
+            "text": "Hi, this is\nTed Mosby of\nMosbius Designs."
+          },
+          {
+            "index": 60,
+            "start": 1233.399,
+            "end": 1236.603,
+            "text": "I'm calling to inquire about\nany design needs you may have\nnow or in the future."
+          },
+          {
+            "index": 61,
+            "start": 1236.637,
+            "end": 1237.738,
+            "text": "That sounds great, buddy."
+          },
+          {
+            "index": 62,
+            "start": 1237.771,
+            "end": 1238.972,
+            "text": "Really? I sound confident?\nYup."
+          },
+          {
+            "index": 63,
+            "start": 1239.005,
+            "end": 1240.04,
+            "text": "Now call an actual client."
+          },
+          {
+            "index": 64,
+            "start": 1240.073,
+            "end": 1241.274,
+            "text": "Great."
+          },
+          {
+            "index": 65,
+            "start": 1246.179,
+            "end": 1247.413,
+            "text": "Hey, Food Guy!"
+          },
+          {
+            "index": 66,
+            "start": 1248.949,
+            "end": 1250.684,
+            "text": "Hey, Toy Guy!"
+          },
+          {
+            "index": 67,
+            "start": 1255.956,
+            "end": 1257.157,
+            "text": "Who's that guy?"
+          },
+          {
+            "index": 68,
+            "start": 1258.759,
+            "end": 1260.761,
+            "text": "He doesn't work here."
+          },
+          {
+            "index": 69,
+            "start": 1260.794,
+            "end": 1261.962,
+            "text": "I think we should\nleave the building."
+          },
+          {
+            "index": 70,
+            "start": 1261.995,
+            "end": 1263.229,
+            "text": "Really?"
+          },
+          {
+            "index": 71,
+            "start": 1263.263,
+            "end": 1265.131,
+            "text": "This has happened before."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1241.0934270019532,
+        "topCueIndex": -1,
+        "bottomCueIndex": 63
+      }
     }
   ]
 }
