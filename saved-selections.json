@@ -45761,6 +45761,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 45
       }
+    },
+    {
+      "id": "388c87d7-f472-42d8-859f-cf8bdcf9a543",
+      "createdAt": "2026-06-14T19:57:43.633Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "psyched.",
+      "selection": {
+        "rawText": "psyched.",
+        "startOffset": 19,
+        "endOffset": 27,
+        "cueIndex": 52,
+        "cueStart": 138.905,
+        "cueEnd": 143.677,
+        "cueText": "Everyone's totally psyched.\nAnd FYI, that's when\nhe invented the high‐five."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 42,
+            "start": 109.009,
+            "end": 112.145,
+            "text": "Wow, ancient dialogue\nsounds so stilted now."
+          },
+          {
+            "index": 43,
+            "start": 112.178,
+            "end": 114.247,
+            "text": "And he's not gonna\ncome back\non a Saturday."
+          },
+          {
+            "index": 44,
+            "start": 114.28,
+            "end": 116.583,
+            "text": "Everybody's busy\ndoing chores."
+          },
+          {
+            "index": 45,
+            "start": 116.617,
+            "end": 118.619,
+            "text": "Working the loom,\ntrimming their beards."
+          },
+          {
+            "index": 46,
+            "start": 118.652,
+            "end": 122.355,
+            "text": "No. He waits the exact\nright number of days."
+          },
+          {
+            "index": 47,
+            "start": 123.156,
+            "end": 124.925,
+            "text": "Three."
+          },
+          {
+            "index": 48,
+            "start": 124.958,
+            "end": 128.662,
+            "text": "Okay, I promise,\nI'll wait three days.\nJust please stop talking."
+          },
+          {
+            "index": 49,
+            "start": 128.695,
+            "end": 131.665,
+            "text": "Plus, it's Sunday,\nso everyone's\nin church already."
+          },
+          {
+            "index": 50,
+            "start": 131.698,
+            "end": 135.001,
+            "text": "They're all in there,\n\"Oh, no, Jesus is dead.\""
+          },
+          {
+            "index": 51,
+            "start": 135.035,
+            "end": 138.872,
+            "text": "Then, bam! He bursts\nthrough the back door,\nruns up the aisle."
+          },
+          {
+            "index": 52,
+            "start": 138.905,
+            "end": 143.677,
+            "text": "Everyone's totally psyched.\nAnd FYI, that's when\nhe invented the high‐five."
+          },
+          {
+            "index": 53,
+            "start": 143.71,
+            "end": 147.313,
+            "text": "Three days, Ted.\nWe wait three days\nto call a woman,"
+          },
+          {
+            "index": 54,
+            "start": 147.347,
+            "end": 150.183,
+            "text": "because that's how long\nJesus wants us to wait."
+          },
+          {
+            "index": 55,
+            "start": 152.686,
+            "end": 153.82,
+            "text": "True story."
+          },
+          {
+            "index": 56,
+            "start": 153.854,
+            "end": 154.855,
+            "text": "(LAUGHING)"
+          },
+          {
+            "index": 57,
+            "start": 168.168,
+            "end": 172.706,
+            "text": "Okay, fine. I promise.\nI won't call Holli\nfor three days."
+          },
+          {
+            "index": 58,
+            "start": 172.739,
+            "end": 175.408,
+            "text": "OLDER TED:\nBut I never said anything\nabout texting."
+          },
+          {
+            "index": 59,
+            "start": 175.441,
+            "end": 178.211,
+            "text": "I started things off\nwith something cute\nand charming."
+          },
+          {
+            "index": 60,
+            "start": 178.244,
+            "end": 179.646,
+            "text": "TED: \"I was thinking\nabout you,"
+          },
+          {
+            "index": 61,
+            "start": 179.68,
+            "end": 182.583,
+            "text": "\"so I thought\nI'd send you\na little texty text.\""
+          },
+          {
+            "index": 62,
+            "start": 182.616,
+            "end": 187.32,
+            "text": "OLDER TED: And the moment\nI hit \"Send,\" I realized\nit wasn't cute at all."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 142.60665405273437,
+        "topCueIndex": -1,
+        "bottomCueIndex": 52
+      }
     }
   ]
 }
