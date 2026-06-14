@@ -45153,6 +45153,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 22
       }
+    },
+    {
+      "id": "a42b7e1d-1de4-4fc3-b3a8-3b651200e267",
+      "createdAt": "2026-06-14T19:51:06.252Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "came up with that?",
+      "selection": {
+        "rawText": "came up with that?",
+        "startOffset": 56,
+        "endOffset": 74,
+        "cueIndex": 29,
+        "cueStart": 69.97,
+        "cueEnd": 73.674,
+        "cueText": "Barney, the three‐days rule\nis insane. I mean,\nwho even came up with that?"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 19,
+            "start": 48.715,
+            "end": 50.45,
+            "text": "See, it's funny,\nbecause I just saw her."
+          },
+          {
+            "index": 20,
+            "start": 50.483,
+            "end": 51.918,
+            "text": "Dude, you can't\ncall her."
+          },
+          {
+            "index": 21,
+            "start": 51.952,
+            "end": 54.621,
+            "text": "You have to wait three days\nto call a woman.\nThat's the rule."
+          },
+          {
+            "index": 22,
+            "start": 54.655,
+            "end": 56.523,
+            "text": "Barney, that rule\nis completely played out."
+          },
+          {
+            "index": 23,
+            "start": 56.557,
+            "end": 57.791,
+            "text": "Girls know exactly\nwhat you're doing."
+          },
+          {
+            "index": 24,
+            "start": 57.824,
+            "end": 60.26,
+            "text": "Hey! I got a new rule."
+          },
+          {
+            "index": 25,
+            "start": 60.293,
+            "end": 64.865,
+            "text": "It's kind of crazy,\nbut I call it,\n\"You like her, you call her.\""
+          },
+          {
+            "index": 26,
+            "start": 64.898,
+            "end": 66.266,
+            "text": "I'm sorry,\ncan you repeat that?"
+          },
+          {
+            "index": 27,
+            "start": 66.299,
+            "end": 67.901,
+            "text": "I don't speak\nI‐never‐get‐laid."
+          },
+          {
+            "index": 28,
+            "start": 67.934,
+            "end": 69.936,
+            "text": "(ROBIN AND MARSHALL LAUGHING)"
+          },
+          {
+            "index": 29,
+            "start": 69.97,
+            "end": 73.674,
+            "text": "Barney, the three‐days rule\nis insane. I mean,\nwho even came up with that?"
+          },
+          {
+            "index": 30,
+            "start": 75.008,
+            "end": 76.242,
+            "text": "Jesus."
+          },
+          {
+            "index": 31,
+            "start": 76.276,
+            "end": 79.58,
+            "text": "Barney, don't do this.\nNot with Jesus."
+          },
+          {
+            "index": 32,
+            "start": 79.613,
+            "end": 83.65,
+            "text": "Seriously.\nJesus started the whole\nwait three days thing."
+          },
+          {
+            "index": 33,
+            "start": 83.684,
+            "end": 86.82,
+            "text": "He waited three days\nto come back to life.\nIt was perfect."
+          },
+          {
+            "index": 34,
+            "start": 86.853,
+            "end": 88.922,
+            "text": "If he'd have only waited\none day,"
+          },
+          {
+            "index": 35,
+            "start": 88.955,
+            "end": 90.423,
+            "text": "a lot of people\nwouldn't have even heard\nthat he died."
+          },
+          {
+            "index": 36,
+            "start": 90.456,
+            "end": 93.126,
+            "text": "They'd be all,\n\"Hey, Jesus,\nwhat up?\""
+          },
+          {
+            "index": 37,
+            "start": 93.159,
+            "end": 97.33,
+            "text": "And Jesus would\nprobably be like,\n\"What up? I died yesterday.\""
+          },
+          {
+            "index": 38,
+            "start": 97.363,
+            "end": 100.734,
+            "text": "And then they'd be all,\n\"You look pretty alive\nto me, dude.\""
+          },
+          {
+            "index": 39,
+            "start": 100.767,
+            "end": 103.103,
+            "text": "And then Jesus would\nhave to explain\nhow he was resurrected,"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 77.624916015625,
+        "topCueIndex": -1,
+        "bottomCueIndex": 29
+      }
     }
   ]
 }
