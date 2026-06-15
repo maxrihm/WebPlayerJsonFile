@@ -46217,6 +46217,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 72
       }
+    },
+    {
+      "id": "ca684554-77a1-43ff-bd40-91b8736ace5e",
+      "createdAt": "2026-06-15T19:50:06.780Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "indigenous",
+      "selection": {
+        "rawText": "indigenous",
+        "startOffset": 26,
+        "endOffset": 36,
+        "cueIndex": 87,
+        "cueStart": 249.783,
+        "cueEnd": 252.152,
+        "cueText": "the women of New Guinea's\nindigenous Korowai tribe"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 77,
+            "start": 227.661,
+            "end": 229.863,
+            "text": "Not that. You made\nyour naked lady noise."
+          },
+          {
+            "index": 78,
+            "start": 229.896,
+            "end": 231.031,
+            "text": "What?"
+          },
+          {
+            "index": 79,
+            "start": 231.064,
+            "end": 232.432,
+            "text": "Whenever you see\na naked lady,"
+          },
+          {
+            "index": 80,
+            "start": 232.465,
+            "end": 234.3,
+            "text": "you make the noise..."
+          },
+          {
+            "index": 81,
+            "start": 234.334,
+            "end": 236.537,
+            "text": "(MIMICKING TED SNICKERING)"
+          },
+          {
+            "index": 82,
+            "start": 236.57,
+            "end": 238.171,
+            "text": "I don't do that.\nReally?"
+          },
+          {
+            "index": 83,
+            "start": 240.406,
+            "end": 241.542,
+            "text": "(LILY SHRIEKING)"
+          },
+          {
+            "index": 84,
+            "start": 241.575,
+            "end": 242.976,
+            "text": "Oh God, sorry, Lily."
+          },
+          {
+            "index": 85,
+            "start": 244.745,
+            "end": 246.279,
+            "text": "(SNICKERING)"
+          },
+          {
+            "index": 86,
+            "start": 248.281,
+            "end": 249.75,
+            "text": "MAN ON TV:\nWhile the men\nare out hunting,"
+          },
+          {
+            "index": 87,
+            "start": 249.783,
+            "end": 252.152,
+            "text": "the women of New Guinea's\nindigenous Korowai tribe"
+          },
+          {
+            "index": 88,
+            "start": 252.185,
+            "end": 254.487,
+            "text": "wash their clothes\nin the river."
+          },
+          {
+            "index": 89,
+            "start": 254.521,
+            "end": 255.989,
+            "text": "(SNICKERING)"
+          },
+          {
+            "index": 90,
+            "start": 257.924,
+            "end": 259.626,
+            "text": "(SNICKERING)"
+          },
+          {
+            "index": 91,
+            "start": 261.595,
+            "end": 263.196,
+            "text": "That's totally a boob."
+          },
+          {
+            "index": 92,
+            "start": 264.297,
+            "end": 265.431,
+            "text": "(CELL PHONE BEEPING)"
+          },
+          {
+            "index": 93,
+            "start": 265.465,
+            "end": 267.267,
+            "text": "Is that Holli\nwho keeps texting you?"
+          },
+          {
+            "index": 94,
+            "start": 267.3,
+            "end": 269.235,
+            "text": "Didn't you promise\nto wait three days?"
+          },
+          {
+            "index": 95,
+            "start": 269.269,
+            "end": 271.905,
+            "text": "To call, yes.\nTexting is totally different."
+          },
+          {
+            "index": 96,
+            "start": 271.938,
+            "end": 275.108,
+            "text": "(SIGHING) Okay, well,\njust try to keep the naked\nlady noises to a minimum."
+          },
+          {
+            "index": 97,
+            "start": 275.141,
+            "end": 277.944,
+            "text": "I don't make\na naked lady noise."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 253.70863208007813,
+        "topCueIndex": -1,
+        "bottomCueIndex": 87
+      }
     }
   ]
 }
