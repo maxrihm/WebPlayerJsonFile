@@ -46369,6 +46369,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 87
       }
+    },
+    {
+      "id": "b61d63b7-8375-4b11-a45b-2b6c0f46d820",
+      "createdAt": "2026-06-15T19:52:01.108Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "stayed up",
+      "selection": {
+        "rawText": "stayed up",
+        "startOffset": 23,
+        "endOffset": 32,
+        "cueIndex": 101,
+        "cueStart": 286.987,
+        "cueEnd": 290.991,
+        "cueText": "OLDER TED: Holli and I\nstayed up texting\nuntil 2:00 in the morning."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 91,
+            "start": 261.595,
+            "end": 263.196,
+            "text": "That's totally a boob."
+          },
+          {
+            "index": 92,
+            "start": 264.297,
+            "end": 265.431,
+            "text": "(CELL PHONE BEEPING)"
+          },
+          {
+            "index": 93,
+            "start": 265.465,
+            "end": 267.267,
+            "text": "Is that Holli\nwho keeps texting you?"
+          },
+          {
+            "index": 94,
+            "start": 267.3,
+            "end": 269.235,
+            "text": "Didn't you promise\nto wait three days?"
+          },
+          {
+            "index": 95,
+            "start": 269.269,
+            "end": 271.905,
+            "text": "To call, yes.\nTexting is totally different."
+          },
+          {
+            "index": 96,
+            "start": 271.938,
+            "end": 275.108,
+            "text": "(SIGHING) Okay, well,\njust try to keep the naked\nlady noises to a minimum."
+          },
+          {
+            "index": 97,
+            "start": 275.141,
+            "end": 277.944,
+            "text": "I don't make\na naked lady noise."
+          },
+          {
+            "index": 98,
+            "start": 277.978,
+            "end": 279.012,
+            "text": "(CLEARING THROAT)"
+          },
+          {
+            "index": 99,
+            "start": 279.045,
+            "end": 280.146,
+            "text": "Really?"
+          },
+          {
+            "index": 100,
+            "start": 282.616,
+            "end": 283.817,
+            "text": "(SNICKERING)"
+          },
+          {
+            "index": 101,
+            "start": 286.987,
+            "end": 290.991,
+            "text": "OLDER TED: Holli and I\nstayed up texting\nuntil 2:00 in the morning."
+          },
+          {
+            "index": 102,
+            "start": 291.024,
+            "end": 294.595,
+            "text": "And we spent\nthe whole next day\ntexting each other, too."
+          },
+          {
+            "index": 103,
+            "start": 294.628,
+            "end": 297.664,
+            "text": "She seemed perfect."
+          },
+          {
+            "index": 104,
+            "start": 297.698,
+            "end": 300.534,
+            "text": "Oh wow. Holli just told me\nwhat she's wearing right now."
+          },
+          {
+            "index": 105,
+            "start": 300.567,
+            "end": 302.669,
+            "text": "It is pretty hot."
+          },
+          {
+            "index": 106,
+            "start": 302.703,
+            "end": 305.105,
+            "text": "Yeah, whatever it is,\nI can guarantee you\nshe's not wearing it."
+          },
+          {
+            "index": 107,
+            "start": 305.138,
+            "end": 306.807,
+            "text": "She's lying to you\nto make you like her."
+          },
+          {
+            "index": 108,
+            "start": 306.84,
+            "end": 308.609,
+            "text": "How do you know that?"
+          },
+          {
+            "index": 109,
+            "start": 308.642,
+            "end": 309.943,
+            "text": "Mmm."
+          },
+          {
+            "index": 110,
+            "start": 309.976,
+            "end": 312.312,
+            "text": "Because no woman\nin the history of the world\nis ever"
+          },
+          {
+            "index": 111,
+            "start": 312.345,
+            "end": 314.815,
+            "text": "\"just sitting around\nreading\narchitecture magazines"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 289.4053740234375,
+        "topCueIndex": -1,
+        "bottomCueIndex": 101
+      }
     }
   ]
 }
