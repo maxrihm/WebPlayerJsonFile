@@ -46673,6 +46673,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 141
       }
+    },
+    {
+      "id": "6991c5f1-a6f8-4d92-b172-a3f08ae09716",
+      "createdAt": "2026-06-15T20:03:12.078Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "bust on him",
+      "selection": {
+        "rawText": "bust on him",
+        "startOffset": 19,
+        "endOffset": 30,
+        "cueIndex": 142,
+        "cueStart": 403.904,
+        "cueEnd": 406.873,
+        "cueText": "We were just gonna bust on him\nfor calling her too soon,"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 132,
+            "start": 370.737,
+            "end": 373.907,
+            "text": "Oh. It's some take out\nfrom Generro's.\nI'm bringing it home for Lily."
+          },
+          {
+            "index": 133,
+            "start": 373.94,
+            "end": 377.944,
+            "text": "That's weird. Holli just\ntexted Ted something about\ntake out from Generro's."
+          },
+          {
+            "index": 134,
+            "start": 380.146,
+            "end": 382.248,
+            "text": "Wait a second."
+          },
+          {
+            "index": 135,
+            "start": 382.282,
+            "end": 384.284,
+            "text": "You sons of bitches!"
+          },
+          {
+            "index": 136,
+            "start": 384.317,
+            "end": 385.686,
+            "text": "What?"
+          },
+          {
+            "index": 137,
+            "start": 385.719,
+            "end": 387.087,
+            "text": "You're Holli."
+          },
+          {
+            "index": 138,
+            "start": 392.325,
+            "end": 395.128,
+            "text": "So Ted hasn't been\ntexting Holli at all?"
+          },
+          {
+            "index": 139,
+            "start": 395.161,
+            "end": 396.897,
+            "text": "He's been texting\nyou two?"
+          },
+          {
+            "index": 140,
+            "start": 396.93,
+            "end": 400.366,
+            "text": "Look, we knew\nhe'd try to call her\nbefore the three days,"
+          },
+          {
+            "index": 141,
+            "start": 400.4,
+            "end": 403.87,
+            "text": "so I swiped his phone\nand I changed her number\nto my work cell."
+          },
+          {
+            "index": 142,
+            "start": 403.904,
+            "end": 406.873,
+            "text": "We were just gonna bust on him\nfor calling her too soon,"
+          },
+          {
+            "index": 143,
+            "start": 406.907,
+            "end": 409.209,
+            "text": "but then he\nstarted texting her."
+          },
+          {
+            "index": 144,
+            "start": 409.242,
+            "end": 410.443,
+            "text": "(CELL PHONE BUZZING)"
+          },
+          {
+            "index": 145,
+            "start": 410.476,
+            "end": 412.813,
+            "text": "\"Texty text\"?"
+          },
+          {
+            "index": 146,
+            "start": 412.846,
+            "end": 416.95,
+            "text": "Oh Ted. Oh poor,\nsweet Ted. We should..."
+          },
+          {
+            "index": 147,
+            "start": 416.983,
+            "end": 418.284,
+            "text": "We should tell him it's us."
+          },
+          {
+            "index": 148,
+            "start": 418.318,
+            "end": 419.419,
+            "text": "Yeah."
+          },
+          {
+            "index": 149,
+            "start": 419.452,
+            "end": 421.087,
+            "text": "Or..."
+          },
+          {
+            "index": 150,
+            "start": 421.121,
+            "end": 423.957,
+            "text": "We pretend we're Holli,\nand we're in the bath."
+          },
+          {
+            "index": 151,
+            "start": 425.191,
+            "end": 426.927,
+            "text": "Yeah, that's better."
+          },
+          {
+            "index": 152,
+            "start": 427.694,
+            "end": 429.93,
+            "text": "(SNICKERING)"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 409.27965600585935,
+        "topCueIndex": -1,
+        "bottomCueIndex": 142
+      }
     }
   ]
 }
