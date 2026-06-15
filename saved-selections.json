@@ -46065,6 +46065,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 59
       }
+    },
+    {
+      "id": "3f0b242d-2a74-4fc7-b126-53049da04116",
+      "createdAt": "2026-06-15T19:48:12.444Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "bath?\"",
+      "selection": {
+        "rawText": "bath?\"",
+        "startOffset": 59,
+        "endOffset": 65,
+        "cueIndex": 72,
+        "cueStart": 212.546,
+        "cueEnd": 216.049,
+        "cueText": "\"and how weird\nis it that you texted me\nwhile I was in the bath?\""
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 62,
+            "start": 182.616,
+            "end": 187.32,
+            "text": "OLDER TED: And the moment\nI hit \"Send,\" I realized\nit wasn't cute at all."
+          },
+          {
+            "index": 63,
+            "start": 187.353,
+            "end": 190.691,
+            "text": "It was the lamest thing\nanyone has ever\nsaid to anyone."
+          },
+          {
+            "index": 64,
+            "start": 190.724,
+            "end": 194.027,
+            "text": "And the worst thing\nabout texting\nis that once you send it..."
+          },
+          {
+            "index": 65,
+            "start": 196.196,
+            "end": 196.93,
+            "text": "Oh!"
+          },
+          {
+            "index": 66,
+            "start": 198.231,
+            "end": 200.1,
+            "text": "No!"
+          },
+          {
+            "index": 67,
+            "start": 200.133,
+            "end": 202.102,
+            "text": "OLDER TED:\n...you can never\nget it back."
+          },
+          {
+            "index": 68,
+            "start": 202.135,
+            "end": 205.171,
+            "text": "And then, you wait."
+          },
+          {
+            "index": 69,
+            "start": 205.205,
+            "end": 208.341,
+            "text": "And just when you've decided\nnever to text\nanyone ever again..."
+          },
+          {
+            "index": 70,
+            "start": 208.374,
+            "end": 209.943,
+            "text": "(CELL PHONE BEEPING)"
+          },
+          {
+            "index": 71,
+            "start": 209.976,
+            "end": 212.513,
+            "text": "HOLLI: \"I've been\nthinking about you, too,"
+          },
+          {
+            "index": 72,
+            "start": 212.546,
+            "end": 216.049,
+            "text": "\"and how weird\nis it that you texted me\nwhile I was in the bath?\""
+          },
+          {
+            "index": 73,
+            "start": 219.385,
+            "end": 221.221,
+            "text": "(SNICKERING)"
+          },
+          {
+            "index": 74,
+            "start": 222.823,
+            "end": 224.257,
+            "text": "What was that?\nWhat?"
+          },
+          {
+            "index": 75,
+            "start": 224.29,
+            "end": 225.458,
+            "text": "You made a noise."
+          },
+          {
+            "index": 76,
+            "start": 225.491,
+            "end": 227.628,
+            "text": "That was my phone.\nI got a text."
+          },
+          {
+            "index": 77,
+            "start": 227.661,
+            "end": 229.863,
+            "text": "Not that. You made\nyour naked lady noise."
+          },
+          {
+            "index": 78,
+            "start": 229.896,
+            "end": 231.031,
+            "text": "What?"
+          },
+          {
+            "index": 79,
+            "start": 231.064,
+            "end": 232.432,
+            "text": "Whenever you see\na naked lady,"
+          },
+          {
+            "index": 80,
+            "start": 232.465,
+            "end": 234.3,
+            "text": "you make the noise..."
+          },
+          {
+            "index": 81,
+            "start": 234.334,
+            "end": 236.537,
+            "text": "(MIMICKING TED SNICKERING)"
+          },
+          {
+            "index": 82,
+            "start": 236.57,
+            "end": 238.171,
+            "text": "I don't do that.\nReally?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 219.02694409179688,
+        "topCueIndex": -1,
+        "bottomCueIndex": 72
+      }
     }
   ]
 }
