@@ -45913,6 +45913,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 52
       }
+    },
+    {
+      "id": "615f87e3-0c63-4607-a89f-021791dc4d3b",
+      "createdAt": "2026-06-15T19:44:15.418Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "things",
+      "selection": {
+        "rawText": "things",
+        "startOffset": 10,
+        "endOffset": 16,
+        "cueIndex": 59,
+        "cueStart": 175.441,
+        "cueEnd": 178.211,
+        "cueText": "I started things off\nwith something cute\nand charming."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 49,
+            "start": 128.695,
+            "end": 131.665,
+            "text": "Plus, it's Sunday,\nso everyone's\nin church already."
+          },
+          {
+            "index": 50,
+            "start": 131.698,
+            "end": 135.001,
+            "text": "They're all in there,\n\"Oh, no, Jesus is dead.\""
+          },
+          {
+            "index": 51,
+            "start": 135.035,
+            "end": 138.872,
+            "text": "Then, bam! He bursts\nthrough the back door,\nruns up the aisle."
+          },
+          {
+            "index": 52,
+            "start": 138.905,
+            "end": 143.677,
+            "text": "Everyone's totally psyched.\nAnd FYI, that's when\nhe invented the high‐five."
+          },
+          {
+            "index": 53,
+            "start": 143.71,
+            "end": 147.313,
+            "text": "Three days, Ted.\nWe wait three days\nto call a woman,"
+          },
+          {
+            "index": 54,
+            "start": 147.347,
+            "end": 150.183,
+            "text": "because that's how long\nJesus wants us to wait."
+          },
+          {
+            "index": 55,
+            "start": 152.686,
+            "end": 153.82,
+            "text": "True story."
+          },
+          {
+            "index": 56,
+            "start": 153.854,
+            "end": 154.855,
+            "text": "(LAUGHING)"
+          },
+          {
+            "index": 57,
+            "start": 168.168,
+            "end": 172.706,
+            "text": "Okay, fine. I promise.\nI won't call Holli\nfor three days."
+          },
+          {
+            "index": 58,
+            "start": 172.739,
+            "end": 175.408,
+            "text": "OLDER TED:\nBut I never said anything\nabout texting."
+          },
+          {
+            "index": 59,
+            "start": 175.441,
+            "end": 178.211,
+            "text": "I started things off\nwith something cute\nand charming."
+          },
+          {
+            "index": 60,
+            "start": 178.244,
+            "end": 179.646,
+            "text": "TED: \"I was thinking\nabout you,"
+          },
+          {
+            "index": 61,
+            "start": 179.68,
+            "end": 182.583,
+            "text": "\"so I thought\nI'd send you\na little texty text.\""
+          },
+          {
+            "index": 62,
+            "start": 182.616,
+            "end": 187.32,
+            "text": "OLDER TED: And the moment\nI hit \"Send,\" I realized\nit wasn't cute at all."
+          },
+          {
+            "index": 63,
+            "start": 187.353,
+            "end": 190.691,
+            "text": "It was the lamest thing\nanyone has ever\nsaid to anyone."
+          },
+          {
+            "index": 64,
+            "start": 190.724,
+            "end": 194.027,
+            "text": "And the worst thing\nabout texting\nis that once you send it..."
+          },
+          {
+            "index": 65,
+            "start": 196.196,
+            "end": 196.93,
+            "text": "Oh!"
+          },
+          {
+            "index": 66,
+            "start": 198.231,
+            "end": 200.1,
+            "text": "No!"
+          },
+          {
+            "index": 67,
+            "start": 200.133,
+            "end": 202.102,
+            "text": "OLDER TED:\n...you can never\nget it back."
+          },
+          {
+            "index": 68,
+            "start": 202.135,
+            "end": 205.171,
+            "text": "And then, you wait."
+          },
+          {
+            "index": 69,
+            "start": 205.205,
+            "end": 208.341,
+            "text": "And just when you've decided\nnever to text\nanyone ever again..."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 177.623169921875,
+        "topCueIndex": -1,
+        "bottomCueIndex": 59
+      }
     }
   ]
 }
