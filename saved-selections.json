@@ -47433,6 +47433,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 171
       }
+    },
+    {
+      "id": "ff03c9e6-9f4a-4ea8-a23d-a3fc0448e7e1",
+      "createdAt": "2026-06-16T19:29:27.456Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "It is on!",
+      "selection": {
+        "rawText": "It is on!",
+        "startOffset": 0,
+        "endOffset": 9,
+        "cueIndex": 175,
+        "cueStart": 484.651,
+        "cueEnd": 486.553,
+        "cueText": "It is on!\nIt is so on!"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 165,
+            "start": 456.823,
+            "end": 458.859,
+            "text": "That was awesome!"
+          },
+          {
+            "index": 166,
+            "start": 458.892,
+            "end": 462.095,
+            "text": "But it's time to tell him\nwho he really\nput those boots on for."
+          },
+          {
+            "index": 167,
+            "start": 462.128,
+            "end": 464.497,
+            "text": "Yeah. Or..."
+          },
+          {
+            "index": 168,
+            "start": 464.531,
+            "end": 466.399,
+            "text": "We just took off our shirt."
+          },
+          {
+            "index": 169,
+            "start": 467.467,
+            "end": 470.17,
+            "text": "Yeah, that's better."
+          },
+          {
+            "index": 170,
+            "start": 470.203,
+            "end": 475.509,
+            "text": "You think maybe we're wearing\na black lace bra underneath?"
+          },
+          {
+            "index": 171,
+            "start": 475.542,
+            "end": 477.443,
+            "text": "I don't think\nwe're wearing anything\nunderneath."
+          },
+          {
+            "index": 172,
+            "start": 477.477,
+            "end": 478.912,
+            "text": "God, we're hot."
+          },
+          {
+            "index": 173,
+            "start": 480.08,
+            "end": 481.982,
+            "text": "(CELL PHONE BUZZING)"
+          },
+          {
+            "index": 174,
+            "start": 482.015,
+            "end": 484.618,
+            "text": "Now he's only wearing\nthe cowboy boots!"
+          },
+          {
+            "index": 175,
+            "start": 484.651,
+            "end": 486.553,
+            "text": "It is on!\nIt is so on!"
+          },
+          {
+            "index": 176,
+            "start": 486.587,
+            "end": 490.056,
+            "text": "Okay, tell him that\nwe're slowly\nslipping out of our..."
+          },
+          {
+            "index": 177,
+            "start": 492.425,
+            "end": 494.027,
+            "text": "What are we doing?"
+          },
+          {
+            "index": 178,
+            "start": 496.229,
+            "end": 497.898,
+            "text": "I think that we're"
+          },
+          {
+            "index": 179,
+            "start": 497.931,
+            "end": 499.833,
+            "text": "about to have sex with Ted."
+          },
+          {
+            "index": 180,
+            "start": 503.336,
+            "end": 504.705,
+            "text": "(EXHALING)"
+          },
+          {
+            "index": 181,
+            "start": 504.738,
+            "end": 508.074,
+            "text": "So you did this to him\nall day?\nThat's just mean."
+          },
+          {
+            "index": 182,
+            "start": 508.108,
+            "end": 511.812,
+            "text": "No! No, no,\nit was actually\nfor his own good."
+          },
+          {
+            "index": 183,
+            "start": 511.845,
+            "end": 514.815,
+            "text": "We're protecting him\nfrom himself.\nHe really likes this girl."
+          },
+          {
+            "index": 184,
+            "start": 514.848,
+            "end": 516.517,
+            "text": "He had that look\nin his eye."
+          },
+          {
+            "index": 185,
+            "start": 516.55,
+            "end": 520.887,
+            "text": "Yeah, that crazy \"I'm about\nto move too fast\nand screw this up\" look."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 486.44318505859377,
+        "topCueIndex": -1,
+        "bottomCueIndex": 175
+      }
     }
   ]
 }
