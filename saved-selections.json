@@ -46977,6 +46977,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 162
       }
+    },
+    {
+      "id": "c31a77fc-ad95-442a-a22f-3b0df9bd3706",
+      "createdAt": "2026-06-16T19:27:21.090Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "took off",
+      "selection": {
+        "rawText": "took off",
+        "startOffset": 8,
+        "endOffset": 16,
+        "cueIndex": 168,
+        "cueStart": 464.531,
+        "cueEnd": 466.399,
+        "cueText": "We just took off our shirt."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 158,
+            "start": 438.471,
+            "end": 440.907,
+            "text": "We tell him\nour favorite color is red,"
+          },
+          {
+            "index": 159,
+            "start": 440.941,
+            "end": 444.277,
+            "text": "and we think\nthe \"cowboy\" look\nis very sexy."
+          },
+          {
+            "index": 160,
+            "start": 444.31,
+            "end": 446.913,
+            "text": "Yeah, that's better."
+          },
+          {
+            "index": 161,
+            "start": 446.947,
+            "end": 450.784,
+            "text": "TED: I'm wearing them\nright now,\nand they do look sexy."
+          },
+          {
+            "index": 162,
+            "start": 452.553,
+            "end": 453.987,
+            "text": "He put on the boots!"
+          },
+          {
+            "index": 163,
+            "start": 454.02,
+            "end": 455.656,
+            "text": "He totally\nput on the boots!"
+          },
+          {
+            "index": 164,
+            "start": 455.689,
+            "end": 456.79,
+            "text": "(LAUGHING)"
+          },
+          {
+            "index": 165,
+            "start": 456.823,
+            "end": 458.859,
+            "text": "That was awesome!"
+          },
+          {
+            "index": 166,
+            "start": 458.892,
+            "end": 462.095,
+            "text": "But it's time to tell him\nwho he really\nput those boots on for."
+          },
+          {
+            "index": 167,
+            "start": 462.128,
+            "end": 464.497,
+            "text": "Yeah. Or..."
+          },
+          {
+            "index": 168,
+            "start": 464.531,
+            "end": 466.399,
+            "text": "We just took off our shirt."
+          },
+          {
+            "index": 169,
+            "start": 467.467,
+            "end": 470.17,
+            "text": "Yeah, that's better."
+          },
+          {
+            "index": 170,
+            "start": 470.203,
+            "end": 475.509,
+            "text": "You think maybe we're wearing\na black lace bra underneath?"
+          },
+          {
+            "index": 171,
+            "start": 475.542,
+            "end": 477.443,
+            "text": "I don't think\nwe're wearing anything\nunderneath."
+          },
+          {
+            "index": 172,
+            "start": 477.477,
+            "end": 478.912,
+            "text": "God, we're hot."
+          },
+          {
+            "index": 173,
+            "start": 480.08,
+            "end": 481.982,
+            "text": "(CELL PHONE BUZZING)"
+          },
+          {
+            "index": 174,
+            "start": 482.015,
+            "end": 484.618,
+            "text": "Now he's only wearing\nthe cowboy boots!"
+          },
+          {
+            "index": 175,
+            "start": 484.651,
+            "end": 486.553,
+            "text": "It is on!\nIt is so on!"
+          },
+          {
+            "index": 176,
+            "start": 486.587,
+            "end": 490.056,
+            "text": "Okay, tell him that\nwe're slowly\nslipping out of our..."
+          },
+          {
+            "index": 177,
+            "start": 492.425,
+            "end": 494.027,
+            "text": "What are we doing?"
+          },
+          {
+            "index": 178,
+            "start": 496.229,
+            "end": 497.898,
+            "text": "I think that we're"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 466.45628002929686,
+        "topCueIndex": -1,
+        "bottomCueIndex": 168
+      }
     }
   ]
 }
