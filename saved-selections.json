@@ -47737,6 +47737,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 176
       }
+    },
+    {
+      "id": "5ca2f9a0-4a40-44b4-b409-86d3cc922de2",
+      "createdAt": "2026-06-16T19:31:24.552Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "mean.",
+      "selection": {
+        "rawText": "mean.",
+        "startOffset": 44,
+        "endOffset": 49,
+        "cueIndex": 181,
+        "cueStart": 504.738,
+        "cueEnd": 508.074,
+        "cueText": "So you did this to him\nall day?\nThat's just mean."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 171,
+            "start": 475.542,
+            "end": 477.443,
+            "text": "I don't think\nwe're wearing anything\nunderneath."
+          },
+          {
+            "index": 172,
+            "start": 477.477,
+            "end": 478.912,
+            "text": "God, we're hot."
+          },
+          {
+            "index": 173,
+            "start": 480.08,
+            "end": 481.982,
+            "text": "(CELL PHONE BUZZING)"
+          },
+          {
+            "index": 174,
+            "start": 482.015,
+            "end": 484.618,
+            "text": "Now he's only wearing\nthe cowboy boots!"
+          },
+          {
+            "index": 175,
+            "start": 484.651,
+            "end": 486.553,
+            "text": "It is on!\nIt is so on!"
+          },
+          {
+            "index": 176,
+            "start": 486.587,
+            "end": 490.056,
+            "text": "Okay, tell him that\nwe're slowly\nslipping out of our..."
+          },
+          {
+            "index": 177,
+            "start": 492.425,
+            "end": 494.027,
+            "text": "What are we doing?"
+          },
+          {
+            "index": 178,
+            "start": 496.229,
+            "end": 497.898,
+            "text": "I think that we're"
+          },
+          {
+            "index": 179,
+            "start": 497.931,
+            "end": 499.833,
+            "text": "about to have sex with Ted."
+          },
+          {
+            "index": 180,
+            "start": 503.336,
+            "end": 504.705,
+            "text": "(EXHALING)"
+          },
+          {
+            "index": 181,
+            "start": 504.738,
+            "end": 508.074,
+            "text": "So you did this to him\nall day?\nThat's just mean."
+          },
+          {
+            "index": 182,
+            "start": 508.108,
+            "end": 511.812,
+            "text": "No! No, no,\nit was actually\nfor his own good."
+          },
+          {
+            "index": 183,
+            "start": 511.845,
+            "end": 514.815,
+            "text": "We're protecting him\nfrom himself.\nHe really likes this girl."
+          },
+          {
+            "index": 184,
+            "start": 514.848,
+            "end": 516.517,
+            "text": "He had that look\nin his eye."
+          },
+          {
+            "index": 185,
+            "start": 516.55,
+            "end": 520.887,
+            "text": "Yeah, that crazy \"I'm about\nto move too fast\nand screw this up\" look."
+          },
+          {
+            "index": 186,
+            "start": 520.921,
+            "end": 523.023,
+            "text": "It was actually\nthe same look he had\non his first date with you."
+          },
+          {
+            "index": 187,
+            "start": 523.056,
+            "end": 523.924,
+            "text": "We all remember\nhow that went."
+          },
+          {
+            "index": 188,
+            "start": 523.957,
+            "end": 525.726,
+            "text": "Yeah."
+          },
+          {
+            "index": 189,
+            "start": 525.759,
+            "end": 527.193,
+            "text": "I think\nI'm in love with you."
+          },
+          {
+            "index": 190,
+            "start": 527.227,
+            "end": 529.029,
+            "text": "What?"
+          },
+          {
+            "index": 191,
+            "start": 529.062,
+            "end": 531.732,
+            "text": "Yeah, well, I think\nI was a special case."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 508.37398999023435,
+        "topCueIndex": -1,
+        "bottomCueIndex": 181
+      }
     }
   ]
 }
