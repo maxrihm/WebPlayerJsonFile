@@ -49865,6 +49865,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 215
       }
+    },
+    {
+      "id": "eea62498-71e9-4ccb-925c-9b38d5f4708a",
+      "createdAt": "2026-06-16T19:47:07.899Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "wash away,",
+      "selection": {
+        "rawText": "wash away,",
+        "startOffset": 39,
+        "endOffset": 49,
+        "cueIndex": 225,
+        "cueStart": 622.188,
+        "cueEnd": 625.291,
+        "cueText": "So all your fears,\nall your yesterdays\nwash away,"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 215,
+            "start": 594.294,
+            "end": 596.93,
+            "text": "Ted wasn't saying,\n\"I love you\" as easily\nas we thought he would."
+          },
+          {
+            "index": 216,
+            "start": 596.963,
+            "end": 598.699,
+            "text": "Then we met Stan."
+          },
+          {
+            "index": 217,
+            "start": 599.633,
+            "end": 600.534,
+            "text": "(CELL PHONE BUZZING)"
+          },
+          {
+            "index": 218,
+            "start": 601.802,
+            "end": 603.604,
+            "text": "(BOTH EXCLAIMING)"
+          },
+          {
+            "index": 219,
+            "start": 603.637,
+            "end": 604.605,
+            "text": "(LAUGHING)"
+          },
+          {
+            "index": 220,
+            "start": 606.106,
+            "end": 609.776,
+            "text": "Why are you making\nso much noise, man?"
+          },
+          {
+            "index": 221,
+            "start": 609.81,
+            "end": 613.246,
+            "text": "So we explained\neverything to him,\nand when we were done,"
+          },
+          {
+            "index": 222,
+            "start": 613.279,
+            "end": 615.616,
+            "text": "something amazing happened."
+          },
+          {
+            "index": 223,
+            "start": 615.649,
+            "end": 618.018,
+            "text": "Why don't you tell Ted\nthat just knowing\nhe's out there"
+          },
+          {
+            "index": 224,
+            "start": 618.051,
+            "end": 622.155,
+            "text": "thinking about you,\ncaring about you,\nmakes you feel safe?"
+          },
+          {
+            "index": 225,
+            "start": 622.188,
+            "end": 625.291,
+            "text": "So all your fears,\nall your yesterdays\nwash away,"
+          },
+          {
+            "index": 226,
+            "start": 625.325,
+            "end": 628.461,
+            "text": "and only hope remains\nin the promise\nof his embrace."
+          },
+          {
+            "index": 227,
+            "start": 631.131,
+            "end": 634.334,
+            "text": "Wow. Go, Stan!\nWho is this guy?"
+          },
+          {
+            "index": 228,
+            "start": 634.367,
+            "end": 635.702,
+            "text": "He's a security guard\nwho works nights."
+          },
+          {
+            "index": 229,
+            "start": 635.736,
+            "end": 637.437,
+            "text": "And he eats lunch\nat MacLaren's every day."
+          },
+          {
+            "index": 230,
+            "start": 637.47,
+            "end": 638.505,
+            "text": "And he wasn't done."
+          },
+          {
+            "index": 231,
+            "start": 638.539,
+            "end": 640.641,
+            "text": "Not by a long shot."
+          },
+          {
+            "index": 232,
+            "start": 640.674,
+            "end": 643.309,
+            "text": "You make me thank God\nfor every mistake I ever made"
+          },
+          {
+            "index": 233,
+            "start": 643.343,
+            "end": 647.881,
+            "text": "because each one\nled me down the path\nthat brought me to you."
+          },
+          {
+            "index": 234,
+            "start": 647.914,
+            "end": 650.551,
+            "text": "That's, like,\nreally nice, man."
+          },
+          {
+            "index": 235,
+            "start": 650.584,
+            "end": 653.987,
+            "text": "(VOICE BREAKING)\nWhatever. It's okay."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 626.785669921875,
+        "topCueIndex": -1,
+        "bottomCueIndex": 225
+      }
     }
   ]
 }
