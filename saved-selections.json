@@ -49561,6 +49561,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 201
       }
+    },
+    {
+      "id": "57e545a6-5e97-4777-8258-6c2250daf2f8",
+      "createdAt": "2026-06-16T19:41:06.616Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "way too",
+      "selection": {
+        "rawText": "way too",
+        "startOffset": 18,
+        "endOffset": 25,
+        "cueIndex": 209,
+        "cueStart": 578.679,
+        "cueEnd": 582.482,
+        "cueText": "And three,\nhe got way too personal\nway too soon."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 199,
+            "start": 550.717,
+            "end": 552.553,
+            "text": "before he makes contact\nwith this girl."
+          },
+          {
+            "index": 200,
+            "start": 552.586,
+            "end": 553.887,
+            "text": "And you can tell\nit's on the way."
+          },
+          {
+            "index": 201,
+            "start": 553.92,
+            "end": 555.889,
+            "text": "He's exhibiting\nall the telltale signs."
+          },
+          {
+            "index": 202,
+            "start": 555.922,
+            "end": 558.859,
+            "text": "Yeah. One, he joked\nabout getting married."
+          },
+          {
+            "index": 203,
+            "start": 558.892,
+            "end": 561.728,
+            "text": "\"You like architecture?\nWe should get married."
+          },
+          {
+            "index": 204,
+            "start": 561.762,
+            "end": 566.7,
+            "text": "\"Ha‐ha. LOL.\nJust kidding.\nQuestion mark.\""
+          },
+          {
+            "index": 205,
+            "start": 566.733,
+            "end": 570.403,
+            "text": "Two, he made a crazy\nway‐too‐soon\ntrip suggestion."
+          },
+          {
+            "index": 206,
+            "start": 570.436,
+            "end": 571.938,
+            "text": "\"I like beer, too."
+          },
+          {
+            "index": 207,
+            "start": 571.972,
+            "end": 573.974,
+            "text": "\"We should totally\ngo to Germany together."
+          },
+          {
+            "index": 208,
+            "start": 574.007,
+            "end": 576.677,
+            "text": "\"LOL. JK. LOL.\""
+          },
+          {
+            "index": 209,
+            "start": 578.679,
+            "end": 582.482,
+            "text": "And three,\nhe got way too personal\nway too soon."
+          },
+          {
+            "index": 210,
+            "start": 582.516,
+            "end": 585.318,
+            "text": "\"Yeah, my parents\ngot divorced\na couple years back."
+          },
+          {
+            "index": 211,
+            "start": 585.351,
+            "end": 587.153,
+            "text": "\"It was really tough."
+          },
+          {
+            "index": 212,
+            "start": 587.187,
+            "end": 588.188,
+            "text": "\"LOL.\""
+          },
+          {
+            "index": 213,
+            "start": 589.656,
+            "end": 591.925,
+            "text": "And he clearly\ndoesn't know\nwhat LOL means."
+          },
+          {
+            "index": 214,
+            "start": 591.958,
+            "end": 594.26,
+            "text": "Yeah, but here's\nthe real problem."
+          },
+          {
+            "index": 215,
+            "start": 594.294,
+            "end": 596.93,
+            "text": "Ted wasn't saying,\n\"I love you\" as easily\nas we thought he would."
+          },
+          {
+            "index": 216,
+            "start": 596.963,
+            "end": 598.699,
+            "text": "Then we met Stan."
+          },
+          {
+            "index": 217,
+            "start": 599.633,
+            "end": 600.534,
+            "text": "(CELL PHONE BUZZING)"
+          },
+          {
+            "index": 218,
+            "start": 601.802,
+            "end": 603.604,
+            "text": "(BOTH EXCLAIMING)"
+          },
+          {
+            "index": 219,
+            "start": 603.637,
+            "end": 604.605,
+            "text": "(LAUGHING)"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 582.0675659179688,
+        "topCueIndex": -1,
+        "bottomCueIndex": 209
+      }
     }
   ]
 }
