@@ -48345,6 +48345,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 193
       }
+    },
+    {
+      "id": "77bce6ca-0904-45dc-926b-b5688dc45373",
+      "createdAt": "2026-06-16T19:37:13.261Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "it's been a while",
+      "selection": {
+        "rawText": "it's been a while",
+        "startOffset": 6,
+        "endOffset": 23,
+        "cueIndex": 196,
+        "cueStart": 543.81,
+        "cueEnd": 546.179,
+        "cueText": "Look, it's been a while\nsince Ted\nreally liked someone."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 186,
+            "start": 520.921,
+            "end": 523.023,
+            "text": "It was actually\nthe same look he had\non his first date with you."
+          },
+          {
+            "index": 187,
+            "start": 523.056,
+            "end": 523.924,
+            "text": "We all remember\nhow that went."
+          },
+          {
+            "index": 188,
+            "start": 523.957,
+            "end": 525.726,
+            "text": "Yeah."
+          },
+          {
+            "index": 189,
+            "start": 525.759,
+            "end": 527.193,
+            "text": "I think\nI'm in love with you."
+          },
+          {
+            "index": 190,
+            "start": 527.227,
+            "end": 529.029,
+            "text": "What?"
+          },
+          {
+            "index": 191,
+            "start": 529.062,
+            "end": 531.732,
+            "text": "Yeah, well, I think\nI was a special case."
+          },
+          {
+            "index": 192,
+            "start": 531.765,
+            "end": 535.536,
+            "text": "This Holli\nis no Robin Scherbatsky."
+          },
+          {
+            "index": 193,
+            "start": 535.569,
+            "end": 538.605,
+            "text": "And what is the deal\nwith her hair?\nI mean, newsflash,"
+          },
+          {
+            "index": 194,
+            "start": 538.639,
+            "end": 541.575,
+            "text": "they make conditioners\nthat don't leave a buildup."
+          },
+          {
+            "index": 195,
+            "start": 541.608,
+            "end": 543.777,
+            "text": "I'm so bad."
+          },
+          {
+            "index": 196,
+            "start": 543.81,
+            "end": 546.179,
+            "text": "Look, it's been a while\nsince Ted\nreally liked someone."
+          },
+          {
+            "index": 197,
+            "start": 546.212,
+            "end": 548.849,
+            "text": "He's clearly got a lot\nof crazy stored up.\nWe just..."
+          },
+          {
+            "index": 198,
+            "start": 548.882,
+            "end": 550.684,
+            "text": "We thought\nwe'd get him to say,\n\"I love you\""
+          },
+          {
+            "index": 199,
+            "start": 550.717,
+            "end": 552.553,
+            "text": "before he makes contact\nwith this girl."
+          },
+          {
+            "index": 200,
+            "start": 552.586,
+            "end": 553.887,
+            "text": "And you can tell\nit's on the way."
+          },
+          {
+            "index": 201,
+            "start": 553.92,
+            "end": 555.889,
+            "text": "He's exhibiting\nall the telltale signs."
+          },
+          {
+            "index": 202,
+            "start": 555.922,
+            "end": 558.859,
+            "text": "Yeah. One, he joked\nabout getting married."
+          },
+          {
+            "index": 203,
+            "start": 558.892,
+            "end": 561.728,
+            "text": "\"You like architecture?\nWe should get married."
+          },
+          {
+            "index": 204,
+            "start": 561.762,
+            "end": 566.7,
+            "text": "\"Ha‐ha. LOL.\nJust kidding.\nQuestion mark.\""
+          },
+          {
+            "index": 205,
+            "start": 566.733,
+            "end": 570.403,
+            "text": "Two, he made a crazy\nway‐too‐soon\ntrip suggestion."
+          },
+          {
+            "index": 206,
+            "start": 570.436,
+            "end": 571.938,
+            "text": "\"I like beer, too."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 546.0648879394531,
+        "topCueIndex": -1,
+        "bottomCueIndex": 196
+      }
     }
   ]
 }
