@@ -47281,6 +47281,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 170
       }
+    },
+    {
+      "id": "10dfb19a-7490-4533-b88e-d8311b36fcbc",
+      "createdAt": "2026-06-16T19:28:41.617Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "underneath.",
+      "selection": {
+        "rawText": "underneath.",
+        "startOffset": 37,
+        "endOffset": 48,
+        "cueIndex": 171,
+        "cueStart": 475.542,
+        "cueEnd": 477.443,
+        "cueText": "I don't think\nwe're wearing anything\nunderneath."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 161,
+            "start": 446.947,
+            "end": 450.784,
+            "text": "TED: I'm wearing them\nright now,\nand they do look sexy."
+          },
+          {
+            "index": 162,
+            "start": 452.553,
+            "end": 453.987,
+            "text": "He put on the boots!"
+          },
+          {
+            "index": 163,
+            "start": 454.02,
+            "end": 455.656,
+            "text": "He totally\nput on the boots!"
+          },
+          {
+            "index": 164,
+            "start": 455.689,
+            "end": 456.79,
+            "text": "(LAUGHING)"
+          },
+          {
+            "index": 165,
+            "start": 456.823,
+            "end": 458.859,
+            "text": "That was awesome!"
+          },
+          {
+            "index": 166,
+            "start": 458.892,
+            "end": 462.095,
+            "text": "But it's time to tell him\nwho he really\nput those boots on for."
+          },
+          {
+            "index": 167,
+            "start": 462.128,
+            "end": 464.497,
+            "text": "Yeah. Or..."
+          },
+          {
+            "index": 168,
+            "start": 464.531,
+            "end": 466.399,
+            "text": "We just took off our shirt."
+          },
+          {
+            "index": 169,
+            "start": 467.467,
+            "end": 470.17,
+            "text": "Yeah, that's better."
+          },
+          {
+            "index": 170,
+            "start": 470.203,
+            "end": 475.509,
+            "text": "You think maybe we're wearing\na black lace bra underneath?"
+          },
+          {
+            "index": 171,
+            "start": 475.542,
+            "end": 477.443,
+            "text": "I don't think\nwe're wearing anything\nunderneath."
+          },
+          {
+            "index": 172,
+            "start": 477.477,
+            "end": 478.912,
+            "text": "God, we're hot."
+          },
+          {
+            "index": 173,
+            "start": 480.08,
+            "end": 481.982,
+            "text": "(CELL PHONE BUZZING)"
+          },
+          {
+            "index": 174,
+            "start": 482.015,
+            "end": 484.618,
+            "text": "Now he's only wearing\nthe cowboy boots!"
+          },
+          {
+            "index": 175,
+            "start": 484.651,
+            "end": 486.553,
+            "text": "It is on!\nIt is so on!"
+          },
+          {
+            "index": 176,
+            "start": 486.587,
+            "end": 490.056,
+            "text": "Okay, tell him that\nwe're slowly\nslipping out of our..."
+          },
+          {
+            "index": 177,
+            "start": 492.425,
+            "end": 494.027,
+            "text": "What are we doing?"
+          },
+          {
+            "index": 178,
+            "start": 496.229,
+            "end": 497.898,
+            "text": "I think that we're"
+          },
+          {
+            "index": 179,
+            "start": 497.931,
+            "end": 499.833,
+            "text": "about to have sex with Ted."
+          },
+          {
+            "index": 180,
+            "start": 503.336,
+            "end": 504.705,
+            "text": "(EXHALING)"
+          },
+          {
+            "index": 181,
+            "start": 504.738,
+            "end": 508.074,
+            "text": "So you did this to him\nall day?\nThat's just mean."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 481.16146508789063,
+        "topCueIndex": -1,
+        "bottomCueIndex": 171
+      }
     }
   ]
 }
