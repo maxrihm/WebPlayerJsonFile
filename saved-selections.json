@@ -46825,6 +46825,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 142
       }
+    },
+    {
+      "id": "dcbc6574-e1cc-4501-9420-a23a4d69b642",
+      "createdAt": "2026-06-16T19:27:01.661Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "boots!",
+      "selection": {
+        "rawText": "boots!",
+        "startOffset": 14,
+        "endOffset": 20,
+        "cueIndex": 162,
+        "cueStart": 452.553,
+        "cueEnd": 453.987,
+        "cueText": "He put on the boots!"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 152,
+            "start": 427.694,
+            "end": 429.93,
+            "text": "(SNICKERING)"
+          },
+          {
+            "index": 153,
+            "start": 429.963,
+            "end": 431.464,
+            "text": "(LAUGHING)"
+          },
+          {
+            "index": 154,
+            "start": 432.599,
+            "end": 434.134,
+            "text": "That was fun."
+          },
+          {
+            "index": 155,
+            "start": 434.167,
+            "end": 435.502,
+            "text": "We should tell him\nthat it's us."
+          },
+          {
+            "index": 156,
+            "start": 435.536,
+            "end": 436.837,
+            "text": "Yeah, we should."
+          },
+          {
+            "index": 157,
+            "start": 436.87,
+            "end": 438.438,
+            "text": "Or..."
+          },
+          {
+            "index": 158,
+            "start": 438.471,
+            "end": 440.907,
+            "text": "We tell him\nour favorite color is red,"
+          },
+          {
+            "index": 159,
+            "start": 440.941,
+            "end": 444.277,
+            "text": "and we think\nthe \"cowboy\" look\nis very sexy."
+          },
+          {
+            "index": 160,
+            "start": 444.31,
+            "end": 446.913,
+            "text": "Yeah, that's better."
+          },
+          {
+            "index": 161,
+            "start": 446.947,
+            "end": 450.784,
+            "text": "TED: I'm wearing them\nright now,\nand they do look sexy."
+          },
+          {
+            "index": 162,
+            "start": 452.553,
+            "end": 453.987,
+            "text": "He put on the boots!"
+          },
+          {
+            "index": 163,
+            "start": 454.02,
+            "end": 455.656,
+            "text": "He totally\nput on the boots!"
+          },
+          {
+            "index": 164,
+            "start": 455.689,
+            "end": 456.79,
+            "text": "(LAUGHING)"
+          },
+          {
+            "index": 165,
+            "start": 456.823,
+            "end": 458.859,
+            "text": "That was awesome!"
+          },
+          {
+            "index": 166,
+            "start": 458.892,
+            "end": 462.095,
+            "text": "But it's time to tell him\nwho he really\nput those boots on for."
+          },
+          {
+            "index": 167,
+            "start": 462.128,
+            "end": 464.497,
+            "text": "Yeah. Or..."
+          },
+          {
+            "index": 168,
+            "start": 464.531,
+            "end": 466.399,
+            "text": "We just took off our shirt."
+          },
+          {
+            "index": 169,
+            "start": 467.467,
+            "end": 470.17,
+            "text": "Yeah, that's better."
+          },
+          {
+            "index": 170,
+            "start": 470.203,
+            "end": 475.509,
+            "text": "You think maybe we're wearing\na black lace bra underneath?"
+          },
+          {
+            "index": 171,
+            "start": 475.542,
+            "end": 477.443,
+            "text": "I don't think\nwe're wearing anything\nunderneath."
+          },
+          {
+            "index": 172,
+            "start": 477.477,
+            "end": 478.912,
+            "text": "God, we're hot."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 455.45630810546874,
+        "topCueIndex": -1,
+        "bottomCueIndex": 162
+      }
     }
   ]
 }
