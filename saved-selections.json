@@ -50169,6 +50169,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 226
       }
+    },
+    {
+      "id": "593edfb4-cbbe-478c-a183-ad68a6ae7b3d",
+      "createdAt": "2026-06-16T19:49:38.073Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "Not by a long shot.",
+      "selection": {
+        "rawText": "Not by a long shot.",
+        "startOffset": 0,
+        "endOffset": 19,
+        "cueIndex": 231,
+        "cueStart": 638.539,
+        "cueEnd": 640.641,
+        "cueText": "Not by a long shot."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 221,
+            "start": 609.81,
+            "end": 613.246,
+            "text": "So we explained\neverything to him,\nand when we were done,"
+          },
+          {
+            "index": 222,
+            "start": 613.279,
+            "end": 615.616,
+            "text": "something amazing happened."
+          },
+          {
+            "index": 223,
+            "start": 615.649,
+            "end": 618.018,
+            "text": "Why don't you tell Ted\nthat just knowing\nhe's out there"
+          },
+          {
+            "index": 224,
+            "start": 618.051,
+            "end": 622.155,
+            "text": "thinking about you,\ncaring about you,\nmakes you feel safe?"
+          },
+          {
+            "index": 225,
+            "start": 622.188,
+            "end": 625.291,
+            "text": "So all your fears,\nall your yesterdays\nwash away,"
+          },
+          {
+            "index": 226,
+            "start": 625.325,
+            "end": 628.461,
+            "text": "and only hope remains\nin the promise\nof his embrace."
+          },
+          {
+            "index": 227,
+            "start": 631.131,
+            "end": 634.334,
+            "text": "Wow. Go, Stan!\nWho is this guy?"
+          },
+          {
+            "index": 228,
+            "start": 634.367,
+            "end": 635.702,
+            "text": "He's a security guard\nwho works nights."
+          },
+          {
+            "index": 229,
+            "start": 635.736,
+            "end": 637.437,
+            "text": "And he eats lunch\nat MacLaren's every day."
+          },
+          {
+            "index": 230,
+            "start": 637.47,
+            "end": 638.505,
+            "text": "And he wasn't done."
+          },
+          {
+            "index": 231,
+            "start": 638.539,
+            "end": 640.641,
+            "text": "Not by a long shot."
+          },
+          {
+            "index": 232,
+            "start": 640.674,
+            "end": 643.309,
+            "text": "You make me thank God\nfor every mistake I ever made"
+          },
+          {
+            "index": 233,
+            "start": 643.343,
+            "end": 647.881,
+            "text": "because each one\nled me down the path\nthat brought me to you."
+          },
+          {
+            "index": 234,
+            "start": 647.914,
+            "end": 650.551,
+            "text": "That's, like,\nreally nice, man."
+          },
+          {
+            "index": 235,
+            "start": 650.584,
+            "end": 653.987,
+            "text": "(VOICE BREAKING)\nWhatever. It's okay."
+          },
+          {
+            "index": 236,
+            "start": 654.02,
+            "end": 657.39,
+            "text": "HOLLI: \"And when we finally\ncome together,\nI want you to hold me.\""
+          },
+          {
+            "index": 237,
+            "start": 657.423,
+            "end": 660.861,
+            "text": "Hold me all night.\nStroke my hair."
+          },
+          {
+            "index": 238,
+            "start": 660.894,
+            "end": 663.864,
+            "text": "Tell me I'm a woman\nand show me you're a man."
+          },
+          {
+            "index": 239,
+            "start": 663.897,
+            "end": 665.966,
+            "text": "Until there was only now."
+          },
+          {
+            "index": 240,
+            "start": 665.999,
+            "end": 669.736,
+            "text": "You and I and now."
+          },
+          {
+            "index": 241,
+            "start": 670.37,
+            "end": 673.574,
+            "text": "Yes!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 640.4826889648438,
+        "topCueIndex": -1,
+        "bottomCueIndex": 231
+      }
     }
   ]
 }
