@@ -52905,6 +52905,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 255
       }
+    },
+    {
+      "id": "d1789a0b-986a-4698-af88-71647c211423",
+      "createdAt": "2026-06-17T20:16:42.733Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "tip",
+      "selection": {
+        "rawText": "tip",
+        "startOffset": 11,
+        "endOffset": 14,
+        "cueIndex": 262,
+        "cueStart": 664.58,
+        "cueEnd": 666.582,
+        "cueText": "and try to tip the bus\non sharp turns."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 252,
+            "start": 637.845,
+            "end": 639.555,
+            "text": "No, I mean it.\nYou can't hold me back."
+          },
+          {
+            "index": 253,
+            "start": 639.639,
+            "end": 641.349,
+            "text": "I swear I'm gonna do better."
+          },
+          {
+            "index": 254,
+            "start": 641.432,
+            "end": 643.1,
+            "text": "Look at my eyes.\nSee the sincerity?"
+          },
+          {
+            "index": 255,
+            "start": 643.184,
+            "end": 645.227,
+            "text": "See the conviction?\nSee the fear?"
+          },
+          {
+            "index": 256,
+            "start": 645.311,
+            "end": 649.065,
+            "text": "As God is my witness,\nI can pass the fourth grade!"
+          },
+          {
+            "index": 257,
+            "start": 649.148,
+            "end": 652.401,
+            "text": "And if you don't, at least you'll\nbe bigger than the other kids."
+          },
+          {
+            "index": 258,
+            "start": 652.485,
+            "end": 653.819,
+            "text": "(concerned groan)"
+          },
+          {
+            "index": 259,
+            "start": 656.322,
+            "end": 659.617,
+            "text": "Get off the bus, or forever\nhold your peace, little dudes."
+          },
+          {
+            "index": 260,
+            "start": 660.868,
+            "end": 662.662,
+            "text": "Otto, you know\nI respect you."
+          },
+          {
+            "index": 261,
+            "start": 662.745,
+            "end": 664.497,
+            "text": "I mean, you always\nlet us throw stuff at cars"
+          },
+          {
+            "index": 262,
+            "start": 664.58,
+            "end": 666.582,
+            "text": "and try to tip the bus\non sharp turns."
+          },
+          {
+            "index": 263,
+            "start": 666.666,
+            "end": 669.877,
+            "text": "Damn thing never goes over,\ndoes it?"
+          },
+          {
+            "index": 264,
+            "start": 669.96,
+            "end": 671.253,
+            "text": "So what's in your head,\nlittle man?"
+          },
+          {
+            "index": 265,
+            "start": 671.337,
+            "end": 674.757,
+            "text": "Well, I been failing\na lot of tests recently."
+          },
+          {
+            "index": 266,
+            "start": 674.84,
+            "end": 676.676,
+            "text": "-Yuh-huh?\n-And now they're talking about"
+          },
+          {
+            "index": 267,
+            "start": 676.759,
+            "end": 680.012,
+            "text": "holding me back in the 4th grade\nif I don't shape up."
+          },
+          {
+            "index": 268,
+            "start": 680.096,
+            "end": 682.64,
+            "text": "That's it?\nHey, relax, man."
+          },
+          {
+            "index": 269,
+            "start": 682.723,
+            "end": 685.017,
+            "text": "It could end up being the best thing\nthat ever happened to you."
+          },
+          {
+            "index": 270,
+            "start": 685.101,
+            "end": 687.311,
+            "text": "I got held back in\nthe fourth grade myself."
+          },
+          {
+            "index": 271,
+            "start": 687.395,
+            "end": 689.271,
+            "text": "Twice."
+          },
+          {
+            "index": 272,
+            "start": 689.355,
+            "end": 693.15,
+            "text": "And look at me, man.\nNow I drive the school bus."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 666.6835480957031,
+        "topCueIndex": -1,
+        "bottomCueIndex": 262
+      }
     }
   ]
 }
