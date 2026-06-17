@@ -52601,6 +52601,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 252
       }
+    },
+    {
+      "id": "ad2d65e8-20e3-4ed1-81c3-f8618353c493",
+      "createdAt": "2026-06-17T19:43:34.005Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "sincerity?",
+      "selection": {
+        "rawText": "sincerity?",
+        "startOffset": 25,
+        "endOffset": 35,
+        "cueIndex": 254,
+        "cueStart": 641.432,
+        "cueEnd": 643.1,
+        "cueText": "Look at my eyes.\nSee the sincerity?"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 244,
+            "start": 619.994,
+            "end": 622.455,
+            "text": "As shameful and as emotionally\ncrippling as it may be,"
+          },
+          {
+            "index": 245,
+            "start": 622.538,
+            "end": 625.791,
+            "text": "I'm afraid my recommendation\nis for Bart Simpson to..."
+          },
+          {
+            "index": 246,
+            "start": 625.875,
+            "end": 627.627,
+            "text": "repeat the fourth grade."
+          },
+          {
+            "index": 247,
+            "start": 627.71,
+            "end": 630.713,
+            "text": "What? You can't hold me back.\nI'll do better. I promise."
+          },
+          {
+            "index": 248,
+            "start": 630.796,
+            "end": 632.131,
+            "text": "-Promises, promises.\n-Oh, sure. That'll be the day."
+          },
+          {
+            "index": 249,
+            "start": 632.214,
+            "end": 634.05,
+            "text": "Well, maybe it\nwould help him"
+          },
+          {
+            "index": 250,
+            "start": 634.133,
+            "end": 635.801,
+            "text": "to be left back."
+          },
+          {
+            "index": 251,
+            "start": 635.885,
+            "end": 637.762,
+            "text": "It won't be\nso bad, Bart."
+          },
+          {
+            "index": 252,
+            "start": 637.845,
+            "end": 639.555,
+            "text": "No, I mean it.\nYou can't hold me back."
+          },
+          {
+            "index": 253,
+            "start": 639.639,
+            "end": 641.349,
+            "text": "I swear I'm gonna do better."
+          },
+          {
+            "index": 254,
+            "start": 641.432,
+            "end": 643.1,
+            "text": "Look at my eyes.\nSee the sincerity?"
+          },
+          {
+            "index": 255,
+            "start": 643.184,
+            "end": 645.227,
+            "text": "See the conviction?\nSee the fear?"
+          },
+          {
+            "index": 256,
+            "start": 645.311,
+            "end": 649.065,
+            "text": "As God is my witness,\nI can pass the fourth grade!"
+          },
+          {
+            "index": 257,
+            "start": 649.148,
+            "end": 652.401,
+            "text": "And if you don't, at least you'll\nbe bigger than the other kids."
+          },
+          {
+            "index": 258,
+            "start": 652.485,
+            "end": 653.819,
+            "text": "(concerned groan)"
+          },
+          {
+            "index": 259,
+            "start": 656.322,
+            "end": 659.617,
+            "text": "Get off the bus, or forever\nhold your peace, little dudes."
+          },
+          {
+            "index": 260,
+            "start": 660.868,
+            "end": 662.662,
+            "text": "Otto, you know\nI respect you."
+          },
+          {
+            "index": 261,
+            "start": 662.745,
+            "end": 664.497,
+            "text": "I mean, you always\nlet us throw stuff at cars"
+          },
+          {
+            "index": 262,
+            "start": 664.58,
+            "end": 666.582,
+            "text": "and try to tip the bus\non sharp turns."
+          },
+          {
+            "index": 263,
+            "start": 666.666,
+            "end": 669.877,
+            "text": "Damn thing never goes over,\ndoes it?"
+          },
+          {
+            "index": 264,
+            "start": 669.96,
+            "end": 671.253,
+            "text": "So what's in your head,\nlittle man?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 644.5389631347656,
+        "topCueIndex": -1,
+        "bottomCueIndex": 254
+      }
     }
   ]
 }
