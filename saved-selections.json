@@ -53209,6 +53209,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 267
       }
+    },
+    {
+      "id": "507f6a09-ad80-4ad7-ae93-80963f509da1",
+      "createdAt": "2026-06-17T20:19:55.678Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "ulcer,",
+      "selection": {
+        "rawText": "ulcer,",
+        "startOffset": 27,
+        "endOffset": 33,
+        "cueIndex": 279,
+        "cueStart": 713.713,
+        "cueEnd": 716.048,
+        "cueText": "Look, lady,\nI got a peptic ulcer,"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 269,
+            "start": 682.723,
+            "end": 685.017,
+            "text": "It could end up being the best thing\nthat ever happened to you."
+          },
+          {
+            "index": 270,
+            "start": 685.101,
+            "end": 687.311,
+            "text": "I got held back in\nthe fourth grade myself."
+          },
+          {
+            "index": 271,
+            "start": 687.395,
+            "end": 689.271,
+            "text": "Twice."
+          },
+          {
+            "index": 272,
+            "start": 689.355,
+            "end": 693.15,
+            "text": "And look at me, man.\nNow I drive the school bus."
+          },
+          {
+            "index": 273,
+            "start": 696.153,
+            "end": 697.863,
+            "text": "DR. PRYOR:\nI'm afraid my recommendation"
+          },
+          {
+            "index": 274,
+            "start": 697.947,
+            "end": 700.533,
+            "text": "is for Bart Simpson to\nrepeat the fourth grade..."
+          },
+          {
+            "index": 275,
+            "start": 700.616,
+            "end": 704.078,
+            "text": "(echoing) repeat the fourth grade...\nrepeat the fourth grade..."
+          },
+          {
+            "index": 276,
+            "start": 704.161,
+            "end": 707.707,
+            "text": "All right, class.\nThe topic is world literature."
+          },
+          {
+            "index": 277,
+            "start": 707.79,
+            "end": 711.752,
+            "text": "What was the pirate's name\nin \"Treasure Island\"?"
+          },
+          {
+            "index": 278,
+            "start": 711.836,
+            "end": 713.629,
+            "text": "Bart Simpson?"
+          },
+          {
+            "index": 279,
+            "start": 713.713,
+            "end": 716.048,
+            "text": "Look, lady,\nI got a peptic ulcer,"
+          },
+          {
+            "index": 280,
+            "start": 716.132,
+            "end": 719.677,
+            "text": "a wife hawking me for a new car,\nand I need a root canal."
+          },
+          {
+            "index": 281,
+            "start": 719.76,
+            "end": 722.012,
+            "text": "Will you quit bugging me\nabout this stupid pirate?"
+          },
+          {
+            "index": 282,
+            "start": 722.096,
+            "end": 724.14,
+            "text": "Psst.\nIt's Long John Silver, Dad."
+          },
+          {
+            "index": 283,
+            "start": 724.223,
+            "end": 725.933,
+            "text": "I heard that, Bart, Jr."
+          },
+          {
+            "index": 284,
+            "start": 726.016,
+            "end": 729.019,
+            "text": "I want to see both of you\nafter class today."
+          },
+          {
+            "index": 285,
+            "start": 729.103,
+            "end": 732.69,
+            "text": "D'oh!\nThanks a lot, son."
+          },
+          {
+            "index": 286,
+            "start": 732.773,
+            "end": 734.567,
+            "text": "(infield chatter)"
+          },
+          {
+            "index": 287,
+            "start": 736.36,
+            "end": 737.903,
+            "text": "Yo, little help."
+          },
+          {
+            "index": 288,
+            "start": 737.987,
+            "end": 739.78,
+            "text": "I said, \"little help.\""
+          },
+          {
+            "index": 289,
+            "start": 739.864,
+            "end": 741.782,
+            "text": "Throw me the ball,\nPoindexter!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 720.0327429199219,
+        "topCueIndex": -1,
+        "bottomCueIndex": 279
+      }
     }
   ]
 }
