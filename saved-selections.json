@@ -50777,6 +50777,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 164
       }
+    },
+    {
+      "id": "af9c3b19-e004-457d-89cd-fac99d65c98b",
+      "createdAt": "2026-06-17T19:27:51.752Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "brings out the best in you.",
+      "selection": {
+        "rawText": "brings out\nthe best in you.",
+        "startOffset": 7,
+        "endOffset": 34,
+        "cueIndex": 170,
+        "cueStart": 444.402,
+        "cueEnd": 446.487,
+        "cueText": "Crisis brings out\nthe best in you."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 160,
+            "start": 422.13,
+            "end": 423.673,
+            "text": "I don't know\nwhy I should care,"
+          },
+          {
+            "index": 161,
+            "start": 423.756,
+            "end": 425.466,
+            "text": "but the information\npertaining to"
+          },
+          {
+            "index": 162,
+            "start": 425.55,
+            "end": 427.885,
+            "text": "America's colonial period\nthat you've just received"
+          },
+          {
+            "index": 163,
+            "start": 427.969,
+            "end": 429.679,
+            "text": "-is erroneous.\n-So you're saying..."
+          },
+          {
+            "index": 164,
+            "start": 429.762,
+            "end": 432.014,
+            "text": "A blindfolded chimp with\na pencil in his teeth"
+          },
+          {
+            "index": 165,
+            "start": 432.098,
+            "end": 434.35,
+            "text": "has a better chance\nof passing this test"
+          },
+          {
+            "index": 166,
+            "start": 434.434,
+            "end": 435.935,
+            "text": "-than you do.\n-(Bart groans)"
+          },
+          {
+            "index": 167,
+            "start": 436.018,
+            "end": 437.395,
+            "text": "-(school bell rings)\n-Thanks for the pep talk."
+          },
+          {
+            "index": 168,
+            "start": 439.355,
+            "end": 442.066,
+            "text": "All right students, take one\nand pass the rest back."
+          },
+          {
+            "index": 169,
+            "start": 442.15,
+            "end": 444.318,
+            "text": "(thinking)\nThink, Simpson, think."
+          },
+          {
+            "index": 170,
+            "start": 444.402,
+            "end": 446.487,
+            "text": "Crisis brings out\nthe best in you."
+          },
+          {
+            "index": 171,
+            "start": 446.571,
+            "end": 448.322,
+            "text": "(groaning)"
+          },
+          {
+            "index": 172,
+            "start": 448.406,
+            "end": 450.616,
+            "text": "(scoffs)\nWhat is it, Bart?"
+          },
+          {
+            "index": 173,
+            "start": 450.7,
+            "end": 451.659,
+            "text": "Nothing."
+          },
+          {
+            "index": 174,
+            "start": 451.742,
+            "end": 454.912,
+            "text": "Must... take... test."
+          },
+          {
+            "index": 175,
+            "start": 454.996,
+            "end": 456.372,
+            "text": "Ooh!"
+          },
+          {
+            "index": 176,
+            "start": 456.456,
+            "end": 458.374,
+            "text": "(groaning)"
+          },
+          {
+            "index": 177,
+            "start": 459.292,
+            "end": 461.21,
+            "text": "(whistling)"
+          },
+          {
+            "index": 178,
+            "start": 464.672,
+            "end": 467.008,
+            "text": "(groaning)"
+          },
+          {
+            "index": 179,
+            "start": 467.091,
+            "end": 468.926,
+            "text": "What's the matter, son?"
+          },
+          {
+            "index": 180,
+            "start": 469.01,
+            "end": 472.221,
+            "text": "Sharp, stabbing pains\nin my stomach."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 446.63921923828127,
+        "topCueIndex": -1,
+        "bottomCueIndex": 170
+      }
     }
   ]
 }
