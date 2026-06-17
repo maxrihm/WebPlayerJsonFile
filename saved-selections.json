@@ -50473,6 +50473,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 161
       }
+    },
+    {
+      "id": "017c9132-acd4-47ca-82eb-f587ea3dde65",
+      "createdAt": "2026-06-17T19:25:08.021Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "erroneous.",
+      "selection": {
+        "rawText": "erroneous.",
+        "startOffset": 4,
+        "endOffset": 14,
+        "cueIndex": 163,
+        "cueStart": 427.969,
+        "cueEnd": 429.679,
+        "cueText": "-is erroneous.\n-So you're saying..."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 153,
+            "start": 406.447,
+            "end": 408.408,
+            "text": "The Spirit\nof St. Louis."
+          },
+          {
+            "index": 154,
+            "start": 408.491,
+            "end": 411.327,
+            "text": "-And where'd they land?\n-Sunny Acapulco."
+          },
+          {
+            "index": 155,
+            "start": 411.411,
+            "end": 412.328,
+            "text": "And why'd they\nleave England?"
+          },
+          {
+            "index": 156,
+            "start": 412.412,
+            "end": 414.497,
+            "text": "Giant rats."
+          },
+          {
+            "index": 157,
+            "start": 414.58,
+            "end": 416.374,
+            "text": "Cool! History's\ncoming alive."
+          },
+          {
+            "index": 158,
+            "start": 416.457,
+            "end": 417.959,
+            "text": "(girls giggling)"
+          },
+          {
+            "index": 159,
+            "start": 420.586,
+            "end": 422.046,
+            "text": "As a natural enemy,"
+          },
+          {
+            "index": 160,
+            "start": 422.13,
+            "end": 423.673,
+            "text": "I don't know\nwhy I should care,"
+          },
+          {
+            "index": 161,
+            "start": 423.756,
+            "end": 425.466,
+            "text": "but the information\npertaining to"
+          },
+          {
+            "index": 162,
+            "start": 425.55,
+            "end": 427.885,
+            "text": "America's colonial period\nthat you've just received"
+          },
+          {
+            "index": 163,
+            "start": 427.969,
+            "end": 429.679,
+            "text": "-is erroneous.\n-So you're saying..."
+          },
+          {
+            "index": 164,
+            "start": 429.762,
+            "end": 432.014,
+            "text": "A blindfolded chimp with\na pencil in his teeth"
+          },
+          {
+            "index": 165,
+            "start": 432.098,
+            "end": 434.35,
+            "text": "has a better chance\nof passing this test"
+          },
+          {
+            "index": 166,
+            "start": 434.434,
+            "end": 435.935,
+            "text": "-than you do.\n-(Bart groans)"
+          },
+          {
+            "index": 167,
+            "start": 436.018,
+            "end": 437.395,
+            "text": "-(school bell rings)\n-Thanks for the pep talk."
+          },
+          {
+            "index": 168,
+            "start": 439.355,
+            "end": 442.066,
+            "text": "All right students, take one\nand pass the rest back."
+          },
+          {
+            "index": 169,
+            "start": 442.15,
+            "end": 444.318,
+            "text": "(thinking)\nThink, Simpson, think."
+          },
+          {
+            "index": 170,
+            "start": 444.402,
+            "end": 446.487,
+            "text": "Crisis brings out\nthe best in you."
+          },
+          {
+            "index": 171,
+            "start": 446.571,
+            "end": 448.322,
+            "text": "(groaning)"
+          },
+          {
+            "index": 172,
+            "start": 448.406,
+            "end": 450.616,
+            "text": "(scoffs)\nWhat is it, Bart?"
+          },
+          {
+            "index": 173,
+            "start": 450.7,
+            "end": 451.659,
+            "text": "Nothing."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 429.3191020507812,
+        "topCueIndex": -1,
+        "bottomCueIndex": 163
+      }
     }
   ]
 }
