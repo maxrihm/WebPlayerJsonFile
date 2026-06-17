@@ -53057,6 +53057,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 262
       }
+    },
+    {
+      "id": "c6e9af05-89b2-4c51-8581-c6042714aec9",
+      "createdAt": "2026-06-17T20:17:47.038Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "shape up.",
+      "selection": {
+        "rawText": "shape up.",
+        "startOffset": 44,
+        "endOffset": 53,
+        "cueIndex": 267,
+        "cueStart": 676.759,
+        "cueEnd": 680.012,
+        "cueText": "holding me back in the 4th grade\nif I don't shape up."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 257,
+            "start": 649.148,
+            "end": 652.401,
+            "text": "And if you don't, at least you'll\nbe bigger than the other kids."
+          },
+          {
+            "index": 258,
+            "start": 652.485,
+            "end": 653.819,
+            "text": "(concerned groan)"
+          },
+          {
+            "index": 259,
+            "start": 656.322,
+            "end": 659.617,
+            "text": "Get off the bus, or forever\nhold your peace, little dudes."
+          },
+          {
+            "index": 260,
+            "start": 660.868,
+            "end": 662.662,
+            "text": "Otto, you know\nI respect you."
+          },
+          {
+            "index": 261,
+            "start": 662.745,
+            "end": 664.497,
+            "text": "I mean, you always\nlet us throw stuff at cars"
+          },
+          {
+            "index": 262,
+            "start": 664.58,
+            "end": 666.582,
+            "text": "and try to tip the bus\non sharp turns."
+          },
+          {
+            "index": 263,
+            "start": 666.666,
+            "end": 669.877,
+            "text": "Damn thing never goes over,\ndoes it?"
+          },
+          {
+            "index": 264,
+            "start": 669.96,
+            "end": 671.253,
+            "text": "So what's in your head,\nlittle man?"
+          },
+          {
+            "index": 265,
+            "start": 671.337,
+            "end": 674.757,
+            "text": "Well, I been failing\na lot of tests recently."
+          },
+          {
+            "index": 266,
+            "start": 674.84,
+            "end": 676.676,
+            "text": "-Yuh-huh?\n-And now they're talking about"
+          },
+          {
+            "index": 267,
+            "start": 676.759,
+            "end": 680.012,
+            "text": "holding me back in the 4th grade\nif I don't shape up."
+          },
+          {
+            "index": 268,
+            "start": 680.096,
+            "end": 682.64,
+            "text": "That's it?\nHey, relax, man."
+          },
+          {
+            "index": 269,
+            "start": 682.723,
+            "end": 685.017,
+            "text": "It could end up being the best thing\nthat ever happened to you."
+          },
+          {
+            "index": 270,
+            "start": 685.101,
+            "end": 687.311,
+            "text": "I got held back in\nthe fourth grade myself."
+          },
+          {
+            "index": 271,
+            "start": 687.395,
+            "end": 689.271,
+            "text": "Twice."
+          },
+          {
+            "index": 272,
+            "start": 689.355,
+            "end": 693.15,
+            "text": "And look at me, man.\nNow I drive the school bus."
+          },
+          {
+            "index": 273,
+            "start": 696.153,
+            "end": 697.863,
+            "text": "DR. PRYOR:\nI'm afraid my recommendation"
+          },
+          {
+            "index": 274,
+            "start": 697.947,
+            "end": 700.533,
+            "text": "is for Bart Simpson to\nrepeat the fourth grade..."
+          },
+          {
+            "index": 275,
+            "start": 700.616,
+            "end": 704.078,
+            "text": "(echoing) repeat the fourth grade...\nrepeat the fourth grade..."
+          },
+          {
+            "index": 276,
+            "start": 704.161,
+            "end": 707.707,
+            "text": "All right, class.\nThe topic is world literature."
+          },
+          {
+            "index": 277,
+            "start": 707.79,
+            "end": 711.752,
+            "text": "What was the pirate's name\nin \"Treasure Island\"?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 680.0463601074218,
+        "topCueIndex": -1,
+        "bottomCueIndex": 267
+      }
     }
   ]
 }
