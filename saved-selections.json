@@ -51689,6 +51689,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 212
       }
+    },
+    {
+      "id": "e3232c32-6860-4e3c-8dd5-61139942eb04",
+      "createdAt": "2026-06-17T19:34:47.985Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "final straw.",
+      "selection": {
+        "rawText": "final straw.",
+        "startOffset": 12,
+        "endOffset": 24,
+        "cueIndex": 216,
+        "cueStart": 553.553,
+        "cueEnd": 555.555,
+        "cueText": "This is the final straw."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 206,
+            "start": 530.154,
+            "end": 532.865,
+            "text": "Listen, what did you get\nfor number one?"
+          },
+          {
+            "index": 207,
+            "start": 532.949,
+            "end": 534.742,
+            "text": "Uh-huh.\nNumber two?"
+          },
+          {
+            "index": 208,
+            "start": 534.825,
+            "end": 537.161,
+            "text": "Oh, yeah, that sounds right."
+          },
+          {
+            "index": 209,
+            "start": 537.245,
+            "end": 538.454,
+            "text": "Mm, mm-mm, mm, mm, mmm."
+          },
+          {
+            "index": 210,
+            "start": 538.538,
+            "end": 540.039,
+            "text": "Ahh!"
+          },
+          {
+            "index": 211,
+            "start": 540.122,
+            "end": 541.541,
+            "text": "Here you go,\nMrs. Krabappel."
+          },
+          {
+            "index": 212,
+            "start": 541.624,
+            "end": 544.544,
+            "text": "I think you'll be\npleasantly surprised."
+          },
+          {
+            "index": 213,
+            "start": 544.627,
+            "end": 548.839,
+            "text": "Mm-hmm. Yep. Mm-hmm."
+          },
+          {
+            "index": 214,
+            "start": 548.923,
+            "end": 551.551,
+            "text": "This test is worse\nthan Milhouse's exam."
+          },
+          {
+            "index": 215,
+            "start": 551.634,
+            "end": 553.469,
+            "text": "Bart Simpson, I warned you."
+          },
+          {
+            "index": 216,
+            "start": 553.553,
+            "end": 555.555,
+            "text": "This is the final straw."
+          },
+          {
+            "index": 217,
+            "start": 555.638,
+            "end": 559.141,
+            "text": "Mr. And Mrs. Simpson, I think you know\nour district psychiatrist"
+          },
+          {
+            "index": 218,
+            "start": 559.225,
+            "end": 561.894,
+            "text": "-Dr. J. Loren Pryor.\n-Hey, Doctor J."
+          },
+          {
+            "index": 219,
+            "start": 561.978,
+            "end": 565.064,
+            "text": "Hmph. I think what we have\non our hands here is a classic case"
+          },
+          {
+            "index": 220,
+            "start": 565.147,
+            "end": 568.901,
+            "text": "of what laymen refer to\nas \"fear of failure.\""
+          },
+          {
+            "index": 221,
+            "start": 568.985,
+            "end": 571.487,
+            "text": "As a result,\nBart is an underachiever,"
+          },
+          {
+            "index": 222,
+            "start": 571.571,
+            "end": 575.449,
+            "text": "and yet he seems to be--\nhow should I put this--"
+          },
+          {
+            "index": 223,
+            "start": 575.533,
+            "end": 578.035,
+            "text": "-proud of it.\n-Hmm."
+          },
+          {
+            "index": 224,
+            "start": 578.119,
+            "end": 579.745,
+            "text": "One of his problems may be\nhis short attention span"
+          },
+          {
+            "index": 225,
+            "start": 579.829,
+            "end": 581.414,
+            "text": "which can lead to..."
+          },
+          {
+            "index": 226,
+            "start": 581.497,
+            "end": 583.708,
+            "text": "blah blah blah\nblah blah blah..."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 555.5863940429688,
+        "topCueIndex": -1,
+        "bottomCueIndex": 216
+      }
     }
   ]
 }
