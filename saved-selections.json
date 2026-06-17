@@ -50929,6 +50929,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 170
       }
+    },
+    {
+      "id": "2ce2fae0-5691-43e5-8429-5353d6421bca",
+      "createdAt": "2026-06-17T19:28:41.588Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "What's the matter, son?",
+      "selection": {
+        "rawText": "What's the matter, son?",
+        "startOffset": 0,
+        "endOffset": 23,
+        "cueIndex": 179,
+        "cueStart": 467.091,
+        "cueEnd": 468.926,
+        "cueText": "What's the matter, son?"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 169,
+            "start": 442.15,
+            "end": 444.318,
+            "text": "(thinking)\nThink, Simpson, think."
+          },
+          {
+            "index": 170,
+            "start": 444.402,
+            "end": 446.487,
+            "text": "Crisis brings out\nthe best in you."
+          },
+          {
+            "index": 171,
+            "start": 446.571,
+            "end": 448.322,
+            "text": "(groaning)"
+          },
+          {
+            "index": 172,
+            "start": 448.406,
+            "end": 450.616,
+            "text": "(scoffs)\nWhat is it, Bart?"
+          },
+          {
+            "index": 173,
+            "start": 450.7,
+            "end": 451.659,
+            "text": "Nothing."
+          },
+          {
+            "index": 174,
+            "start": 451.742,
+            "end": 454.912,
+            "text": "Must... take... test."
+          },
+          {
+            "index": 175,
+            "start": 454.996,
+            "end": 456.372,
+            "text": "Ooh!"
+          },
+          {
+            "index": 176,
+            "start": 456.456,
+            "end": 458.374,
+            "text": "(groaning)"
+          },
+          {
+            "index": 177,
+            "start": 459.292,
+            "end": 461.21,
+            "text": "(whistling)"
+          },
+          {
+            "index": 178,
+            "start": 464.672,
+            "end": 467.008,
+            "text": "(groaning)"
+          },
+          {
+            "index": 179,
+            "start": 467.091,
+            "end": 468.926,
+            "text": "What's the matter, son?"
+          },
+          {
+            "index": 180,
+            "start": 469.01,
+            "end": 472.221,
+            "text": "Sharp, stabbing pains\nin my stomach."
+          },
+          {
+            "index": 181,
+            "start": 472.305,
+            "end": 474.682,
+            "text": "Oh, dear.\nI've heard of this."
+          },
+          {
+            "index": 182,
+            "start": 474.765,
+            "end": 476.684,
+            "text": "Do you feel a shooting pain\nin your arm?"
+          },
+          {
+            "index": 183,
+            "start": 476.767,
+            "end": 478.394,
+            "text": "-Both arms, ma'am.\n-Mm-hmm."
+          },
+          {
+            "index": 184,
+            "start": 478.478,
+            "end": 479.937,
+            "text": "Temporary loss of vision?"
+          },
+          {
+            "index": 185,
+            "start": 480.021,
+            "end": 483.357,
+            "text": "Who said that?\nCome closer."
+          },
+          {
+            "index": 186,
+            "start": 485.61,
+            "end": 487.069,
+            "text": "-(bell ringing)\n-Yes, dear?"
+          },
+          {
+            "index": 187,
+            "start": 487.153,
+            "end": 490.615,
+            "text": "Ahh. Maybe, um,\none more dish."
+          },
+          {
+            "index": 188,
+            "start": 490.698,
+            "end": 492.408,
+            "text": "Make it double cappuccino\nchocolate fudge."
+          },
+          {
+            "index": 189,
+            "start": 492.492,
+            "end": 494.41,
+            "text": "Ooh, your third bowl."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 469.1408171386719,
+        "topCueIndex": -1,
+        "bottomCueIndex": 179
+      }
     }
   ]
 }
