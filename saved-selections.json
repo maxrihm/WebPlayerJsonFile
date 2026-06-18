@@ -55337,6 +55337,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 343
       }
+    },
+    {
+      "id": "ebc88c55-c5dd-4fa7-bf38-96741837f0cc",
+      "createdAt": "2026-06-18T20:07:33.549Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "hopeless.",
+      "selection": {
+        "rawText": "hopeless.",
+        "startOffset": 8,
+        "endOffset": 17,
+        "cueIndex": 361,
+        "cueStart": 937.019,
+        "cueEnd": 938.854,
+        "cueText": "This is hopeless."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 351,
+            "start": 911.785,
+            "end": 913.37,
+            "text": "Hey, I thought we had a deal!"
+          },
+          {
+            "index": 352,
+            "start": 913.454,
+            "end": 914.955,
+            "text": "Ha, ha, ha!"
+          },
+          {
+            "index": 353,
+            "start": 915.039,
+            "end": 918.042,
+            "text": "The Martin Prince you made\na deal with no longer exists!"
+          },
+          {
+            "index": 354,
+            "start": 918.125,
+            "end": 920.502,
+            "text": "Come on fellows,\nto the arcade!"
+          },
+          {
+            "index": 355,
+            "start": 920.586,
+            "end": 921.629,
+            "text": "Cool, Martin!"
+          },
+          {
+            "index": 356,
+            "start": 921.712,
+            "end": 923.255,
+            "text": "All right, Martin!"
+          },
+          {
+            "index": 357,
+            "start": 923.339,
+            "end": 925.424,
+            "text": "BOYS (chanting):\nMartin! Martin! Martin!"
+          },
+          {
+            "index": 358,
+            "start": 925.507,
+            "end": 930.804,
+            "text": "♪♪ (humming\n\"Row, row, row your boat\")"
+          },
+          {
+            "index": 359,
+            "start": 930.888,
+            "end": 934.099,
+            "text": "Bart?\nIt's past your bedtime."
+          },
+          {
+            "index": 360,
+            "start": 934.183,
+            "end": 936.936,
+            "text": "Okay."
+          },
+          {
+            "index": 361,
+            "start": 937.019,
+            "end": 938.854,
+            "text": "This is hopeless."
+          },
+          {
+            "index": 362,
+            "start": 938.938,
+            "end": 941.982,
+            "text": "Ohh..."
+          },
+          {
+            "index": 363,
+            "start": 942.066,
+            "end": 944.944,
+            "text": "Well, old-timer, I guess\nthis is the end of the road."
+          },
+          {
+            "index": 364,
+            "start": 945.027,
+            "end": 947.279,
+            "text": "I know I haven't always\nbeen a good kid"
+          },
+          {
+            "index": 365,
+            "start": 947.363,
+            "end": 950.24,
+            "text": "but if I have to go\nto school tomorrow,"
+          },
+          {
+            "index": 366,
+            "start": 950.324,
+            "end": 951.867,
+            "text": "I'll fail the test\nand be held back."
+          },
+          {
+            "index": 367,
+            "start": 951.951,
+            "end": 954.745,
+            "text": "I just need one more day\nto study, Lord."
+          },
+          {
+            "index": 368,
+            "start": 954.828,
+            "end": 956.246,
+            "text": "I need your help."
+          },
+          {
+            "index": 369,
+            "start": 956.33,
+            "end": 958.916,
+            "text": "Prayer, the last refuge\nof a scoundrel."
+          },
+          {
+            "index": 370,
+            "start": 958.999,
+            "end": 962.753,
+            "text": "A teacher's strike,\na power failure, a blizzard."
+          },
+          {
+            "index": 371,
+            "start": 962.836,
+            "end": 964.588,
+            "text": "Anything that will\ncancel school tomorrow."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 941.8265791015625,
+        "topCueIndex": -1,
+        "bottomCueIndex": 361
+      }
     }
   ]
 }
