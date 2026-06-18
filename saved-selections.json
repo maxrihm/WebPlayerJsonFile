@@ -55185,6 +55185,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 330
       }
+    },
+    {
+      "id": "0f98e6f1-3abf-4b56-8e30-f7caf0677d58",
+      "createdAt": "2026-06-18T20:05:51.494Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "lavatory",
+      "selection": {
+        "rawText": "lavatory",
+        "startOffset": 35,
+        "endOffset": 43,
+        "cueIndex": 343,
+        "cueStart": 895.102,
+        "cueEnd": 896.937,
+        "cueText": "that pushing a boy into\nthe girls' lavatory"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 333,
+            "start": 849.89,
+            "end": 851.308,
+            "text": "(tires skidding)"
+          },
+          {
+            "index": 334,
+            "start": 853.394,
+            "end": 854.854,
+            "text": "-(crashing)\n-MARTIN: Ooh!"
+          },
+          {
+            "index": 335,
+            "start": 875.249,
+            "end": 876.208,
+            "text": "Nnymm."
+          },
+          {
+            "index": 336,
+            "start": 877.459,
+            "end": 879.003,
+            "text": "Nyahh!"
+          },
+          {
+            "index": 337,
+            "start": 879.086,
+            "end": 880.004,
+            "text": "Uhhnng!"
+          },
+          {
+            "index": 338,
+            "start": 880.087,
+            "end": 881.046,
+            "text": "-Aaah!\n-Aaah!"
+          },
+          {
+            "index": 339,
+            "start": 885.301,
+            "end": 887.344,
+            "text": "Huh!"
+          },
+          {
+            "index": 340,
+            "start": 887.428,
+            "end": 890.598,
+            "text": "Pretty soon you will be ready\nto try it with a real book."
+          },
+          {
+            "index": 341,
+            "start": 890.681,
+            "end": 893.601,
+            "text": "(laughing)"
+          },
+          {
+            "index": 342,
+            "start": 893.684,
+            "end": 895.019,
+            "text": "Who would have thought"
+          },
+          {
+            "index": 343,
+            "start": 895.102,
+            "end": 896.937,
+            "text": "that pushing a boy into\nthe girls' lavatory"
+          },
+          {
+            "index": 344,
+            "start": 897.021,
+            "end": 898.439,
+            "text": "could be such a thrill?"
+          },
+          {
+            "index": 345,
+            "start": 898.522,
+            "end": 900.816,
+            "text": "The screams,\nthe humiliation,"
+          },
+          {
+            "index": 346,
+            "start": 900.9,
+            "end": 902.86,
+            "text": "the fact that it wasn't me!"
+          },
+          {
+            "index": 347,
+            "start": 902.943,
+            "end": 904.653,
+            "text": "I've never felt so alive."
+          },
+          {
+            "index": 348,
+            "start": 904.737,
+            "end": 907.072,
+            "text": "Great, Martin.\nNow the big test is tomorrow,"
+          },
+          {
+            "index": 349,
+            "start": 907.156,
+            "end": 909.783,
+            "text": "-and I haven't even started--\n-Who cares about some test?"
+          },
+          {
+            "index": 350,
+            "start": 909.867,
+            "end": 911.702,
+            "text": "Life's too short for tests!"
+          },
+          {
+            "index": 351,
+            "start": 911.785,
+            "end": 913.37,
+            "text": "Hey, I thought we had a deal!"
+          },
+          {
+            "index": 352,
+            "start": 913.454,
+            "end": 914.955,
+            "text": "Ha, ha, ha!"
+          },
+          {
+            "index": 353,
+            "start": 915.039,
+            "end": 918.042,
+            "text": "The Martin Prince you made\na deal with no longer exists!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 896.9042670898438,
+        "topCueIndex": -1,
+        "bottomCueIndex": 343
+      }
     }
   ]
 }
