@@ -54881,6 +54881,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 331
       }
+    },
+    {
+      "id": "bf9d61d2-6b39-4e95-ac5d-5a9cd120d13f",
+      "createdAt": "2026-06-18T20:03:44.065Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "inversely",
+      "selection": {
+        "rawText": "inversely",
+        "startOffset": 34,
+        "endOffset": 43,
+        "cueIndex": 330,
+        "cueStart": 841.131,
+        "cueEnd": 843.467,
+        "cueText": "The potential for mischief\nvaries inversely"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 320,
+            "start": 817.566,
+            "end": 819.193,
+            "text": "We're gonna have to\nclean up this room,"
+          },
+          {
+            "index": 321,
+            "start": 819.276,
+            "end": 821.362,
+            "text": "and we'll clearly need\na few ferns in here."
+          },
+          {
+            "index": 322,
+            "start": 821.445,
+            "end": 823.948,
+            "text": "No study area is complete\nwithout adequate plant life."
+          },
+          {
+            "index": 323,
+            "start": 826.075,
+            "end": 827.952,
+            "text": "-No.\n-No?"
+          },
+          {
+            "index": 324,
+            "start": 828.035,
+            "end": 829.578,
+            "text": "Only geeks\nsit in the front seat."
+          },
+          {
+            "index": 325,
+            "start": 829.662,
+            "end": 831.413,
+            "text": "From now on,\nsit in the back row."
+          },
+          {
+            "index": 326,
+            "start": 831.497,
+            "end": 833.457,
+            "text": "And that's not just\non the bus."
+          },
+          {
+            "index": 327,
+            "start": 833.541,
+            "end": 835.793,
+            "text": "-It goes for school and church, too.\n-Why?"
+          },
+          {
+            "index": 328,
+            "start": 835.876,
+            "end": 838.254,
+            "text": "So no one can see\nwhat you're doing."
+          },
+          {
+            "index": 329,
+            "start": 838.337,
+            "end": 841.048,
+            "text": "Oh! I think I understand."
+          },
+          {
+            "index": 330,
+            "start": 841.131,
+            "end": 843.467,
+            "text": "The potential for mischief\nvaries inversely"
+          },
+          {
+            "index": 331,
+            "start": 843.551,
+            "end": 845.803,
+            "text": "with one's proximity\nto the authority figure."
+          },
+          {
+            "index": 332,
+            "start": 845.886,
+            "end": 848.597,
+            "text": "Well, yeah, but don't\nsay it like that."
+          },
+          {
+            "index": 333,
+            "start": 849.89,
+            "end": 851.308,
+            "text": "(tires skidding)"
+          },
+          {
+            "index": 334,
+            "start": 853.394,
+            "end": 854.854,
+            "text": "-(crashing)\n-MARTIN: Ooh!"
+          },
+          {
+            "index": 335,
+            "start": 875.249,
+            "end": 876.208,
+            "text": "Nnymm."
+          },
+          {
+            "index": 336,
+            "start": 877.459,
+            "end": 879.003,
+            "text": "Nyahh!"
+          },
+          {
+            "index": 337,
+            "start": 879.086,
+            "end": 880.004,
+            "text": "Uhhnng!"
+          },
+          {
+            "index": 338,
+            "start": 880.087,
+            "end": 881.046,
+            "text": "-Aaah!\n-Aaah!"
+          },
+          {
+            "index": 339,
+            "start": 885.301,
+            "end": 887.344,
+            "text": "Huh!"
+          },
+          {
+            "index": 340,
+            "start": 887.428,
+            "end": 890.598,
+            "text": "Pretty soon you will be ready\nto try it with a real book."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 846.9527570800781,
+        "topCueIndex": -1,
+        "bottomCueIndex": 330
+      }
     }
   ]
 }
