@@ -53361,6 +53361,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 279
       }
+    },
+    {
+      "id": "503efe46-b874-4ce1-961c-db630cf50b29",
+      "createdAt": "2026-06-18T09:20:48.965Z",
+      "videoName": "⁨The One Where Heckles Dies⁩",
+      "audioTrackName": "",
+      "selectedText": "I just don't buy it.",
+      "selection": {
+        "rawText": "I just don't buy it.",
+        "startOffset": 6,
+        "endOffset": 26,
+        "cueIndex": 109,
+        "cueStart": 342.5295646275246,
+        "cueEnd": 344.1145646275246,
+        "cueText": "Yeah. I just don't buy it."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 99,
+            "start": 311.7905646275246,
+            "end": 314.16856462752463,
+            "text": "What, you don't, uh,\nyou don't believe in Evolution?"
+          },
+          {
+            "index": 100,
+            "start": 314.2515646275246,
+            "end": 315.7535646275246,
+            "text": "Nah. Not really."
+          },
+          {
+            "index": 101,
+            "start": 318.2135646275246,
+            "end": 320.0905646275246,
+            "text": "You don't believe in Evolution?"
+          },
+          {
+            "index": 102,
+            "start": 320.13256462752463,
+            "end": 324.0535646275246,
+            "text": "I don't know, it's just,\nyou know, monkeys, Darwin."
+          },
+          {
+            "index": 103,
+            "start": 324.0945646275246,
+            "end": 325.4295646275246,
+            "text": "You know, i-it's a nice story."
+          },
+          {
+            "index": 104,
+            "start": 325.5125646275246,
+            "end": 327.59856462752464,
+            "text": "I just think\nit's a little too easy."
+          },
+          {
+            "index": 105,
+            "start": 330.9765646275246,
+            "end": 333.77156462752464,
+            "text": "Too easy? Too.."
+          },
+          {
+            "index": 106,
+            "start": 333.81256462752464,
+            "end": 336.6905646275246,
+            "text": "The process of every\nliving thing on this planet"
+          },
+          {
+            "index": 107,
+            "start": 336.7325646275246,
+            "end": 338.6505646275246,
+            "text": "evolving over millions of years"
+          },
+          {
+            "index": 108,
+            "start": 338.7345646275246,
+            "end": 342.4465646275246,
+            "text": "from single-celled organisms\nis-is too easy?"
+          },
+          {
+            "index": 109,
+            "start": 342.5295646275246,
+            "end": 344.1145646275246,
+            "text": "Yeah. I just don't buy it."
+          },
+          {
+            "index": 110,
+            "start": 345.4075646275246,
+            "end": 346.7005646275246,
+            "text": "Uh, excuse me."
+          },
+          {
+            "index": 111,
+            "start": 346.74256462752464,
+            "end": 349.7875646275246,
+            "text": "Evolution is not\nfor you to buy, Phoebe."
+          },
+          {
+            "index": 112,
+            "start": 349.8285646275246,
+            "end": 351.53856462752464,
+            "text": "Evolution is scientific fact"
+          },
+          {
+            "index": 113,
+            "start": 351.5805646275246,
+            "end": 355.7095646275246,
+            "text": "like-like-like the air\nwe breathe, like gravity."
+          },
+          {
+            "index": 114,
+            "start": 355.7515646275246,
+            "end": 358.3375646275246,
+            "text": "Oh. Okay, don't get me\nstarted on gravity."
+          },
+          {
+            "index": 115,
+            "start": 361.9655646275246,
+            "end": 364.8025646275246,
+            "text": "You, uh, you don't\nbelieve in gravity?"
+          },
+          {
+            "index": 116,
+            "start": 366.3875646275246,
+            "end": 368.05556462752463,
+            "text": "Well, it's not\nso much that, you know"
+          },
+          {
+            "index": 117,
+            "start": 368.1385646275246,
+            "end": 369.3065646275246,
+            "text": "like, I don't believe in it."
+          },
+          {
+            "index": 118,
+            "start": 369.3905646275246,
+            "end": 370.6415646275246,
+            "text": "You know, it's just"
+          },
+          {
+            "index": 119,
+            "start": 370.6835646275246,
+            "end": 371.9755646275246,
+            "text": "I don't know, lately\nI get the feeling"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 344.979463,
+        "topCueIndex": -1,
+        "bottomCueIndex": 109
+      }
     }
   ]
 }
