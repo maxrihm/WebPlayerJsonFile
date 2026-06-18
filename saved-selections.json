@@ -53969,6 +53969,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 315
       }
+    },
+    {
+      "id": "027cab8a-0c21-4b1e-8873-885118d8fe83",
+      "createdAt": "2026-06-18T20:00:16.212Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "sanctuary",
+      "selection": {
+        "rawText": "sanctuary",
+        "startOffset": 5,
+        "endOffset": 14,
+        "cueIndex": 317,
+        "cueStart": 808.39,
+        "cueEnd": 811.185,
+        "cueText": "your sanctuary from\nthe hurly-burly of modern life."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 307,
+            "start": 785.826,
+            "end": 788.913,
+            "text": "my years of service\nas a hall monitor,"
+          },
+          {
+            "index": 308,
+            "start": 788.996,
+            "end": 791.707,
+            "text": "my prizewinning\ndioramas--"
+          },
+          {
+            "index": 309,
+            "start": 791.791,
+            "end": 793.834,
+            "text": "these things\nmean nothing to them?"
+          },
+          {
+            "index": 310,
+            "start": 793.918,
+            "end": 795.711,
+            "text": "Perhaps another\ndemonstration. Hnh!"
+          },
+          {
+            "index": 311,
+            "start": 795.795,
+            "end": 797.88,
+            "text": "(kids laughing)"
+          },
+          {
+            "index": 312,
+            "start": 797.963,
+            "end": 800.549,
+            "text": "Very well. You have made\nyour point, Bart."
+          },
+          {
+            "index": 313,
+            "start": 800.633,
+            "end": 801.967,
+            "text": "Then it's a deal?"
+          },
+          {
+            "index": 314,
+            "start": 802.051,
+            "end": 803.552,
+            "text": "Yes."
+          },
+          {
+            "index": 315,
+            "start": 803.636,
+            "end": 806.639,
+            "text": "Alrighty, let's have a look-see\nat your study area."
+          },
+          {
+            "index": 316,
+            "start": 806.722,
+            "end": 808.307,
+            "text": "-Study area?\n-Yes,"
+          },
+          {
+            "index": 317,
+            "start": 808.39,
+            "end": 811.185,
+            "text": "your sanctuary from\nthe hurly-burly of modern life."
+          },
+          {
+            "index": 318,
+            "start": 811.268,
+            "end": 814.313,
+            "text": "Well, there's a desk\nunder that junk over there."
+          },
+          {
+            "index": 319,
+            "start": 814.396,
+            "end": 817.483,
+            "text": "MARTIN: Oh, no, no, no, no.\nThis won't do at all."
+          },
+          {
+            "index": 320,
+            "start": 817.566,
+            "end": 819.193,
+            "text": "We're gonna have to\nclean up this room,"
+          },
+          {
+            "index": 321,
+            "start": 819.276,
+            "end": 821.362,
+            "text": "and we'll clearly need\na few ferns in here."
+          },
+          {
+            "index": 322,
+            "start": 821.445,
+            "end": 823.948,
+            "text": "No study area is complete\nwithout adequate plant life."
+          },
+          {
+            "index": 323,
+            "start": 826.075,
+            "end": 827.952,
+            "text": "-No.\n-No?"
+          },
+          {
+            "index": 324,
+            "start": 828.035,
+            "end": 829.578,
+            "text": "Only geeks\nsit in the front seat."
+          },
+          {
+            "index": 325,
+            "start": 829.662,
+            "end": 831.413,
+            "text": "From now on,\nsit in the back row."
+          },
+          {
+            "index": 326,
+            "start": 831.497,
+            "end": 833.457,
+            "text": "And that's not just\non the bus."
+          },
+          {
+            "index": 327,
+            "start": 833.541,
+            "end": 835.793,
+            "text": "-It goes for school and church, too.\n-Why?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 811.8514020996093,
+        "topCueIndex": -1,
+        "bottomCueIndex": 317
+      }
     }
   ]
 }
