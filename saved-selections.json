@@ -53513,6 +53513,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 109
       }
+    },
+    {
+      "id": "f88bf96f-898b-4c28-9248-7f87c3e6860b",
+      "createdAt": "2026-06-18T19:57:24.519Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "hall monitor,",
+      "selection": {
+        "rawText": "hall monitor,",
+        "startOffset": 25,
+        "endOffset": 38,
+        "cueIndex": 307,
+        "cueStart": 785.826,
+        "cueEnd": 788.913,
+        "cueText": "my years of service\nas a hall monitor,"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 297,
+            "start": 760.426,
+            "end": 762.511,
+            "text": "I need you to help me\nget a passing grade."
+          },
+          {
+            "index": 298,
+            "start": 762.595,
+            "end": 766.307,
+            "text": "Well, you do need someone's\nhelp to get a passing grade,"
+          },
+          {
+            "index": 299,
+            "start": 766.39,
+            "end": 768.726,
+            "text": "but I don't know why\nthat someone should be me."
+          },
+          {
+            "index": 300,
+            "start": 768.809,
+            "end": 769.81,
+            "text": "Because I can make it\nso the other kids"
+          },
+          {
+            "index": 301,
+            "start": 769.894,
+            "end": 771.52,
+            "text": "don't laugh at you so much."
+          },
+          {
+            "index": 302,
+            "start": 771.604,
+            "end": 774.982,
+            "text": "They... laugh at me?"
+          },
+          {
+            "index": 303,
+            "start": 775.065,
+            "end": 778.569,
+            "text": "I'd always considered myself\nrather popular."
+          },
+          {
+            "index": 304,
+            "start": 778.652,
+            "end": 781.155,
+            "text": "You're not.\nWatch. Hnh!"
+          },
+          {
+            "index": 305,
+            "start": 781.238,
+            "end": 783.157,
+            "text": "(laughing)"
+          },
+          {
+            "index": 306,
+            "start": 783.24,
+            "end": 785.743,
+            "text": "But my speed with numbers,"
+          },
+          {
+            "index": 307,
+            "start": 785.826,
+            "end": 788.913,
+            "text": "my years of service\nas a hall monitor,"
+          },
+          {
+            "index": 308,
+            "start": 788.996,
+            "end": 791.707,
+            "text": "my prizewinning\ndioramas--"
+          },
+          {
+            "index": 309,
+            "start": 791.791,
+            "end": 793.834,
+            "text": "these things\nmean nothing to them?"
+          },
+          {
+            "index": 310,
+            "start": 793.918,
+            "end": 795.711,
+            "text": "Perhaps another\ndemonstration. Hnh!"
+          },
+          {
+            "index": 311,
+            "start": 795.795,
+            "end": 797.88,
+            "text": "(kids laughing)"
+          },
+          {
+            "index": 312,
+            "start": 797.963,
+            "end": 800.549,
+            "text": "Very well. You have made\nyour point, Bart."
+          },
+          {
+            "index": 313,
+            "start": 800.633,
+            "end": 801.967,
+            "text": "Then it's a deal?"
+          },
+          {
+            "index": 314,
+            "start": 802.051,
+            "end": 803.552,
+            "text": "Yes."
+          },
+          {
+            "index": 315,
+            "start": 803.636,
+            "end": 806.639,
+            "text": "Alrighty, let's have a look-see\nat your study area."
+          },
+          {
+            "index": 316,
+            "start": 806.722,
+            "end": 808.307,
+            "text": "-Study area?\n-Yes,"
+          },
+          {
+            "index": 317,
+            "start": 808.39,
+            "end": 811.185,
+            "text": "your sanctuary from\nthe hurly-burly of modern life."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 789.4072600097657,
+        "topCueIndex": -1,
+        "bottomCueIndex": 307
+      }
     }
   ]
 }
