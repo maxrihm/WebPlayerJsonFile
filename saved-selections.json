@@ -55489,6 +55489,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 361
       }
+    },
+    {
+      "id": "27a44c60-1f21-4a6d-b259-a10bfd0d6851",
+      "createdAt": "2026-06-18T20:08:48.153Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "Prayer,",
+      "selection": {
+        "rawText": "Prayer,",
+        "startOffset": 0,
+        "endOffset": 7,
+        "cueIndex": 369,
+        "cueStart": 956.33,
+        "cueEnd": 958.916,
+        "cueText": "Prayer, the last refuge\nof a scoundrel."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 359,
+            "start": 930.888,
+            "end": 934.099,
+            "text": "Bart?\nIt's past your bedtime."
+          },
+          {
+            "index": 360,
+            "start": 934.183,
+            "end": 936.936,
+            "text": "Okay."
+          },
+          {
+            "index": 361,
+            "start": 937.019,
+            "end": 938.854,
+            "text": "This is hopeless."
+          },
+          {
+            "index": 362,
+            "start": 938.938,
+            "end": 941.982,
+            "text": "Ohh..."
+          },
+          {
+            "index": 363,
+            "start": 942.066,
+            "end": 944.944,
+            "text": "Well, old-timer, I guess\nthis is the end of the road."
+          },
+          {
+            "index": 364,
+            "start": 945.027,
+            "end": 947.279,
+            "text": "I know I haven't always\nbeen a good kid"
+          },
+          {
+            "index": 365,
+            "start": 947.363,
+            "end": 950.24,
+            "text": "but if I have to go\nto school tomorrow,"
+          },
+          {
+            "index": 366,
+            "start": 950.324,
+            "end": 951.867,
+            "text": "I'll fail the test\nand be held back."
+          },
+          {
+            "index": 367,
+            "start": 951.951,
+            "end": 954.745,
+            "text": "I just need one more day\nto study, Lord."
+          },
+          {
+            "index": 368,
+            "start": 954.828,
+            "end": 956.246,
+            "text": "I need your help."
+          },
+          {
+            "index": 369,
+            "start": 956.33,
+            "end": 958.916,
+            "text": "Prayer, the last refuge\nof a scoundrel."
+          },
+          {
+            "index": 370,
+            "start": 958.999,
+            "end": 962.753,
+            "text": "A teacher's strike,\na power failure, a blizzard."
+          },
+          {
+            "index": 371,
+            "start": 962.836,
+            "end": 964.588,
+            "text": "Anything that will\ncancel school tomorrow."
+          },
+          {
+            "index": 372,
+            "start": 964.672,
+            "end": 966.632,
+            "text": "I know it's asking a lot,"
+          },
+          {
+            "index": 373,
+            "start": 966.715,
+            "end": 969.718,
+            "text": "but if anyone can do it,\nyou can."
+          },
+          {
+            "index": 374,
+            "start": 969.802,
+            "end": 973.472,
+            "text": "Thanking you in advance,\nyour pal, Bart Simpson."
+          },
+          {
+            "index": 375,
+            "start": 979.52,
+            "end": 983.899,
+            "text": "♪♪ (\"The Hallelujah Chorus\")"
+          },
+          {
+            "index": 376,
+            "start": 990.614,
+            "end": 992.95,
+            "text": "(groaning)"
+          },
+          {
+            "index": 377,
+            "start": 993.033,
+            "end": 995.661,
+            "text": "Wake up, Bart.\nRise and shine, little guy."
+          },
+          {
+            "index": 378,
+            "start": 995.744,
+            "end": 997.121,
+            "text": "Time to wake up."
+          },
+          {
+            "index": 379,
+            "start": 997.204,
+            "end": 999.498,
+            "text": "Oh, no, no."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 959.3037521972657,
+        "topCueIndex": -1,
+        "bottomCueIndex": 369
+      }
     }
   ]
 }
