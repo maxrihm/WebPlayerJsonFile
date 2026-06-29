@@ -55793,6 +55793,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 369
       }
+    },
+    {
+      "id": "872da50b-8dd6-486f-b3a9-cd62d8e5ceb7",
+      "createdAt": "2026-06-29T21:07:29.916Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "go numb.",
+      "selection": {
+        "rawText": "go numb.",
+        "startOffset": 38,
+        "endOffset": 46,
+        "cueIndex": 405,
+        "cueStart": 1049.715,
+        "cueEnd": 1052.593,
+        "cueText": "Remember to take a break\nif your arms go numb."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 395,
+            "start": 1028.777,
+            "end": 1030.195,
+            "text": "this is what\nyou've been waiting for."
+          },
+          {
+            "index": 396,
+            "start": 1030.279,
+            "end": 1032.948,
+            "text": "Springfield County\nschools are--"
+          },
+          {
+            "index": 397,
+            "start": 1033.032,
+            "end": 1034.95,
+            "text": "I can't read it.\nI'm too excited."
+          },
+          {
+            "index": 398,
+            "start": 1035.034,
+            "end": 1037.202,
+            "text": "Uh-oh. Springfield County\nschools will be..."
+          },
+          {
+            "index": 399,
+            "start": 1037.286,
+            "end": 1038.454,
+            "text": "-Please, please, please...\n-Closed!"
+          },
+          {
+            "index": 400,
+            "start": 1038.537,
+            "end": 1041.999,
+            "text": "-All right, man!\n-Yeah! Woo-hoo-hoo!"
+          },
+          {
+            "index": 401,
+            "start": 1042.082,
+            "end": 1043.375,
+            "text": "(children cheering)"
+          },
+          {
+            "index": 402,
+            "start": 1043.459,
+            "end": 1044.752,
+            "text": "-Wait, come back--\n-Your hat!"
+          },
+          {
+            "index": 403,
+            "start": 1044.835,
+            "end": 1047.963,
+            "text": "-You're supposed to eat break--\n-Wear your galoshes!"
+          },
+          {
+            "index": 404,
+            "start": 1048.047,
+            "end": 1049.631,
+            "text": "Cowabunga!"
+          },
+          {
+            "index": 405,
+            "start": 1049.715,
+            "end": 1052.593,
+            "text": "Remember to take a break\nif your arms go numb."
+          },
+          {
+            "index": 406,
+            "start": 1052.676,
+            "end": 1054.887,
+            "text": "-Hey.\n-I heard you last night, Bart."
+          },
+          {
+            "index": 407,
+            "start": 1054.97,
+            "end": 1056.597,
+            "text": "You prayed for this."
+          },
+          {
+            "index": 408,
+            "start": 1056.68,
+            "end": 1058.766,
+            "text": "Now your prayers\nhave been answered."
+          },
+          {
+            "index": 409,
+            "start": 1058.849,
+            "end": 1060.059,
+            "text": "I'm no theologian."
+          },
+          {
+            "index": 410,
+            "start": 1060.142,
+            "end": 1062.269,
+            "text": "I don't know who\nor what God is, exactly."
+          },
+          {
+            "index": 411,
+            "start": 1062.352,
+            "end": 1064.521,
+            "text": "All I know is he's\na force more powerful"
+          },
+          {
+            "index": 412,
+            "start": 1064.605,
+            "end": 1065.856,
+            "text": "than Mom and Dad\nput together,"
+          },
+          {
+            "index": 413,
+            "start": 1065.939,
+            "end": 1067.691,
+            "text": "-and you owe him big.\n-(door slams)"
+          },
+          {
+            "index": 414,
+            "start": 1067.775,
+            "end": 1069.651,
+            "text": "You're right."
+          },
+          {
+            "index": 415,
+            "start": 1069.735,
+            "end": 1072.571,
+            "text": "I asked for a miracle\nand I got it."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1052.5046599121094,
+        "topCueIndex": -1,
+        "bottomCueIndex": 405
+      }
     }
   ]
 }
