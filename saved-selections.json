@@ -58377,6 +58377,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 473
       }
+    },
+    {
+      "id": "8d3ff95e-370e-445c-9fe1-1f391d980f2e",
+      "createdAt": "2026-06-29T21:24:47.342Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "obscurity",
+      "selection": {
+        "rawText": "obscurity",
+        "startOffset": 13,
+        "endOffset": 22,
+        "cueIndex": 489,
+        "cueStart": 1291.331,
+        "cueEnd": 1292.958,
+        "cueText": "and relative obscurity\nof the reference,"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 479,
+            "start": 1269.017,
+            "end": 1270.519,
+            "text": "Who am I kidding?"
+          },
+          {
+            "index": 480,
+            "start": 1270.602,
+            "end": 1273.772,
+            "text": "I really am a failure.\n(sobbing)"
+          },
+          {
+            "index": 481,
+            "start": 1273.855,
+            "end": 1276.566,
+            "text": "Oh! Now I know\nhow George Washington felt"
+          },
+          {
+            "index": 482,
+            "start": 1276.65,
+            "end": 1277.943,
+            "text": "when he surrendered\nFort Necessity"
+          },
+          {
+            "index": 483,
+            "start": 1278.026,
+            "end": 1279.82,
+            "text": "to the French in 1754."
+          },
+          {
+            "index": 484,
+            "start": 1279.903,
+            "end": 1282.656,
+            "text": "-What?\n-Oh, you know, 1754,"
+          },
+          {
+            "index": 485,
+            "start": 1282.739,
+            "end": 1284.533,
+            "text": "the famous defeat\nto the French. (sobs)"
+          },
+          {
+            "index": 486,
+            "start": 1284.616,
+            "end": 1287.16,
+            "text": "My God, Bart, you're right."
+          },
+          {
+            "index": 487,
+            "start": 1287.244,
+            "end": 1288.537,
+            "text": "-So?\n-You just demonstrated"
+          },
+          {
+            "index": 488,
+            "start": 1288.62,
+            "end": 1291.248,
+            "text": "applied knowledge,\nand due to the difficulty"
+          },
+          {
+            "index": 489,
+            "start": 1291.331,
+            "end": 1292.958,
+            "text": "and relative obscurity\nof the reference,"
+          },
+          {
+            "index": 490,
+            "start": 1293.041,
+            "end": 1295.21,
+            "text": "you deserve an extra point\non your exam."
+          },
+          {
+            "index": 491,
+            "start": 1295.294,
+            "end": 1296.712,
+            "text": "Hey, it's only fair."
+          },
+          {
+            "index": 492,
+            "start": 1296.795,
+            "end": 1298.755,
+            "text": "You mean, I passed?"
+          },
+          {
+            "index": 493,
+            "start": 1298.839,
+            "end": 1300.007,
+            "text": "Just barely."
+          },
+          {
+            "index": 494,
+            "start": 1300.09,
+            "end": 1301.55,
+            "text": "(gasps)\nI passed."
+          },
+          {
+            "index": 495,
+            "start": 1301.633,
+            "end": 1302.718,
+            "text": "I got a \"D-\"."
+          },
+          {
+            "index": 496,
+            "start": 1302.801,
+            "end": 1304.303,
+            "text": "I passed!"
+          },
+          {
+            "index": 497,
+            "start": 1304.386,
+            "end": 1306.471,
+            "text": "All right! Mwah!"
+          },
+          {
+            "index": 498,
+            "start": 1306.555,
+            "end": 1308.39,
+            "text": "(singsongy) I passed, I passed,\nI passed, I passed!"
+          },
+          {
+            "index": 499,
+            "start": 1308.473,
+            "end": 1311.018,
+            "text": "I got a \"D-\"!\nI passed!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1295.6543171386718,
+        "topCueIndex": -1,
+        "bottomCueIndex": 489
+      }
     }
   ]
 }
