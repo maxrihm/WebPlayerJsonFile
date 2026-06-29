@@ -56553,6 +56553,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 425
       }
+    },
+    {
+      "id": "4bab4e0d-eeb7-40ae-9144-e1b1ff4accc7",
+      "createdAt": "2026-06-29T21:13:02.935Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "hereby",
+      "selection": {
+        "rawText": "hereby",
+        "startOffset": 2,
+        "endOffset": 8,
+        "cueIndex": 429,
+        "cueStart": 1117.366,
+        "cueEnd": 1121.662,
+        "cueText": "I hereby declare this day\nto be \"Snow Day--"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 419,
+            "start": 1084.041,
+            "end": 1085.542,
+            "text": "How good could it be?"
+          },
+          {
+            "index": 420,
+            "start": 1085.626,
+            "end": 1089.171,
+            "text": "(children cheering, laughing)"
+          },
+          {
+            "index": 421,
+            "start": 1098.347,
+            "end": 1100.015,
+            "text": "(laughing)"
+          },
+          {
+            "index": 422,
+            "start": 1100.099,
+            "end": 1101.767,
+            "text": "I haven't had\nthis much fun in years."
+          },
+          {
+            "index": 423,
+            "start": 1101.85,
+            "end": 1104.52,
+            "text": "-Aah!\n-(laughs) Got you, Burnsie."
+          },
+          {
+            "index": 424,
+            "start": 1104.603,
+            "end": 1107.022,
+            "text": "(chuckles)\nWhy, you young ragamuffin."
+          },
+          {
+            "index": 425,
+            "start": 1107.106,
+            "end": 1109.358,
+            "text": "I was never one to back away\nfrom a snowball fight."
+          },
+          {
+            "index": 426,
+            "start": 1109.441,
+            "end": 1111.193,
+            "text": "Smithers,\nyou may fire at will."
+          },
+          {
+            "index": 427,
+            "start": 1111.276,
+            "end": 1112.194,
+            "text": "Certainly, sir."
+          },
+          {
+            "index": 428,
+            "start": 1114.321,
+            "end": 1115.781,
+            "text": "♪♪"
+          },
+          {
+            "index": 429,
+            "start": 1117.366,
+            "end": 1121.662,
+            "text": "I hereby declare this day\nto be \"Snow Day--"
+          },
+          {
+            "index": 430,
+            "start": 1121.745,
+            "end": 1124.123,
+            "text": "The funnest day\nin the history of Springfield.\""
+          },
+          {
+            "index": 431,
+            "start": 1124.206,
+            "end": 1125.874,
+            "text": "(cheering)"
+          },
+          {
+            "index": 432,
+            "start": 1125.958,
+            "end": 1129.878,
+            "text": "♪ Sleigh bells ring,\nare you listening? ♪"
+          },
+          {
+            "index": 433,
+            "start": 1129.962,
+            "end": 1133.465,
+            "text": "♪ In the lane,\nsnow is glistening ♪"
+          },
+          {
+            "index": 434,
+            "start": 1133.549,
+            "end": 1137.052,
+            "text": "♪ A beautiful sight,\nwe're happy tonight ♪"
+          },
+          {
+            "index": 435,
+            "start": 1137.136,
+            "end": 1140.514,
+            "text": "♪ Walking\nin a winter wonderland ♪"
+          },
+          {
+            "index": 436,
+            "start": 1140.597,
+            "end": 1143.767,
+            "text": "♪ Gone away\nis the bluebird ♪"
+          },
+          {
+            "index": 437,
+            "start": 1143.851,
+            "end": 1145.978,
+            "text": "♪ Here to stay... ♪"
+          },
+          {
+            "index": 438,
+            "start": 1148.647,
+            "end": 1150.983,
+            "text": "Got to study, got to study,\ngot to study!"
+          },
+          {
+            "index": 439,
+            "start": 1154.82,
+            "end": 1157.281,
+            "text": "\"Chapter Six--\nFour Days in Philadelphia."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1122.198966064453,
+        "topCueIndex": -1,
+        "bottomCueIndex": 429
+      }
     }
   ]
 }
