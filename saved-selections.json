@@ -57769,6 +57769,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 449
       }
+    },
+    {
+      "id": "60535ed0-8230-4810-b438-3aec71a2f994",
+      "createdAt": "2026-06-29T21:16:44.904Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "inalienable--",
+      "selection": {
+        "rawText": "inalienable--",
+        "startOffset": 33,
+        "endOffset": 46,
+        "cueIndex": 449,
+        "cueStart": 1176.175,
+        "cueEnd": 1178.719,
+        "cueText": "they derive rights,\ninherent and inalienable--"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 439,
+            "start": 1154.82,
+            "end": 1157.281,
+            "text": "\"Chapter Six--\nFour Days in Philadelphia."
+          },
+          {
+            "index": 440,
+            "start": 1157.364,
+            "end": 1158.782,
+            "text": "\"The first\nContinental Congress"
+          },
+          {
+            "index": 441,
+            "start": 1158.866,
+            "end": 1160.284,
+            "text": "\"faced a difficult job."
+          },
+          {
+            "index": 442,
+            "start": 1160.367,
+            "end": 1163.453,
+            "text": "\"Could the delegates agree\non recommendations"
+          },
+          {
+            "index": 443,
+            "start": 1163.537,
+            "end": 1164.913,
+            "text": "that all Americans\ncould support?\""
+          },
+          {
+            "index": 444,
+            "start": 1164.997,
+            "end": 1168.125,
+            "text": "We hold these truths\nto be self-evident..."
+          },
+          {
+            "index": 445,
+            "start": 1168.208,
+            "end": 1171.503,
+            "text": "\"We hold these truths\nto be self-evident.\""
+          },
+          {
+            "index": 446,
+            "start": 1171.587,
+            "end": 1173.297,
+            "text": "...that all men\nare created equal."
+          },
+          {
+            "index": 447,
+            "start": 1173.38,
+            "end": 1174.548,
+            "text": "\"...that all men are\ncreated equal.\""
+          },
+          {
+            "index": 448,
+            "start": 1174.631,
+            "end": 1176.091,
+            "text": "That from that equal creation"
+          },
+          {
+            "index": 449,
+            "start": 1176.175,
+            "end": 1178.719,
+            "text": "they derive rights,\ninherent and inalienable--"
+          },
+          {
+            "index": 450,
+            "start": 1178.802,
+            "end": 1181.43,
+            "text": "Hey, look everybody--\nit's snowing!"
+          },
+          {
+            "index": 451,
+            "start": 1181.513,
+            "end": 1184.141,
+            "text": "-In the middle of July?\n-It's a miracle."
+          },
+          {
+            "index": 452,
+            "start": 1184.224,
+            "end": 1187.686,
+            "text": "Fellows, I've invented\nsomething fun. The sled!"
+          },
+          {
+            "index": 453,
+            "start": 1187.769,
+            "end": 1190.564,
+            "text": "(excited chatter)"
+          },
+          {
+            "index": 454,
+            "start": 1190.647,
+            "end": 1192.691,
+            "text": "MAN:\nHey, look, everybody!"
+          },
+          {
+            "index": 455,
+            "start": 1192.774,
+            "end": 1195.485,
+            "text": "John Hancock's\nwriting his name in the snow!"
+          },
+          {
+            "index": 456,
+            "start": 1200.365,
+            "end": 1201.783,
+            "text": "Do you want to be\nheld back a grade?"
+          },
+          {
+            "index": 457,
+            "start": 1201.867,
+            "end": 1203.202,
+            "text": "Concentrate, man!"
+          },
+          {
+            "index": 458,
+            "start": 1204.62,
+            "end": 1206.413,
+            "text": "(slapping continues)"
+          },
+          {
+            "index": 459,
+            "start": 1212.836,
+            "end": 1214.254,
+            "text": "Later, Mrs. K."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1177.9919650878905,
+        "topCueIndex": -1,
+        "bottomCueIndex": 449
+      }
     }
   ]
 }
