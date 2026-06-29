@@ -58073,6 +58073,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 456
       }
+    },
+    {
+      "id": "d34786e4-9500-4031-96e3-2be3d99611d1",
+      "createdAt": "2026-06-29T21:19:36.738Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "turn in",
+      "selection": {
+        "rawText": "turn in",
+        "startOffset": 7,
+        "endOffset": 14,
+        "cueIndex": 460,
+        "cueStart": 1217.799,
+        "cueEnd": 1219.718,
+        "cueText": "Please turn in\nyour exam, Bart."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 450,
+            "start": 1178.802,
+            "end": 1181.43,
+            "text": "Hey, look everybody--\nit's snowing!"
+          },
+          {
+            "index": 451,
+            "start": 1181.513,
+            "end": 1184.141,
+            "text": "-In the middle of July?\n-It's a miracle."
+          },
+          {
+            "index": 452,
+            "start": 1184.224,
+            "end": 1187.686,
+            "text": "Fellows, I've invented\nsomething fun. The sled!"
+          },
+          {
+            "index": 453,
+            "start": 1187.769,
+            "end": 1190.564,
+            "text": "(excited chatter)"
+          },
+          {
+            "index": 454,
+            "start": 1190.647,
+            "end": 1192.691,
+            "text": "MAN:\nHey, look, everybody!"
+          },
+          {
+            "index": 455,
+            "start": 1192.774,
+            "end": 1195.485,
+            "text": "John Hancock's\nwriting his name in the snow!"
+          },
+          {
+            "index": 456,
+            "start": 1200.365,
+            "end": 1201.783,
+            "text": "Do you want to be\nheld back a grade?"
+          },
+          {
+            "index": 457,
+            "start": 1201.867,
+            "end": 1203.202,
+            "text": "Concentrate, man!"
+          },
+          {
+            "index": 458,
+            "start": 1204.62,
+            "end": 1206.413,
+            "text": "(slapping continues)"
+          },
+          {
+            "index": 459,
+            "start": 1212.836,
+            "end": 1214.254,
+            "text": "Later, Mrs. K."
+          },
+          {
+            "index": 460,
+            "start": 1217.799,
+            "end": 1219.718,
+            "text": "Please turn in\nyour exam, Bart."
+          },
+          {
+            "index": 461,
+            "start": 1219.801,
+            "end": 1222.137,
+            "text": "Class is over."
+          },
+          {
+            "index": 462,
+            "start": 1222.221,
+            "end": 1224.473,
+            "text": "Do you think you could\ngrade it now, please?"
+          },
+          {
+            "index": 463,
+            "start": 1224.556,
+            "end": 1226.391,
+            "text": "Well, all right."
+          },
+          {
+            "index": 464,
+            "start": 1226.475,
+            "end": 1228.477,
+            "text": "Let me get \"old red.\""
+          },
+          {
+            "index": 465,
+            "start": 1229.603,
+            "end": 1231.48,
+            "text": "Mm-hmm.\nYup."
+          },
+          {
+            "index": 466,
+            "start": 1231.563,
+            "end": 1233.565,
+            "text": "Mm-hmm.\nMm-hmm."
+          },
+          {
+            "index": 467,
+            "start": 1233.649,
+            "end": 1237.069,
+            "text": "Well, Bart, it's a 59.\nThat's another \"F.\""
+          },
+          {
+            "index": 468,
+            "start": 1237.152,
+            "end": 1239.821,
+            "text": "Oh, no.\nI can't believe it."
+          },
+          {
+            "index": 469,
+            "start": 1239.905,
+            "end": 1242.324,
+            "text": "I know, I know.\nAnother year together."
+          },
+          {
+            "index": 470,
+            "start": 1242.407,
+            "end": 1245.327,
+            "text": "Oh! It's going\nto be hell."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1220.2520881347657,
+        "topCueIndex": -1,
+        "bottomCueIndex": 460
+      }
     }
   ]
 }
