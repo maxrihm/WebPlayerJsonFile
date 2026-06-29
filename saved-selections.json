@@ -56401,6 +56401,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 418
       }
+    },
+    {
+      "id": "94c35ef0-9d22-460b-841b-9b9005ec7baa",
+      "createdAt": "2026-06-29T21:12:17.573Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "to back away",
+      "selection": {
+        "rawText": "to back away",
+        "startOffset": 16,
+        "endOffset": 28,
+        "cueIndex": 425,
+        "cueStart": 1107.106,
+        "cueEnd": 1109.358,
+        "cueText": "I was never one to back away\nfrom a snowball fight."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 415,
+            "start": 1069.735,
+            "end": 1072.571,
+            "text": "I asked for a miracle\nand I got it."
+          },
+          {
+            "index": 416,
+            "start": 1072.654,
+            "end": 1073.655,
+            "text": "I got to study, man."
+          },
+          {
+            "index": 417,
+            "start": 1078.494,
+            "end": 1081.08,
+            "text": "I'm not missing anything.\nFrozen earlobes."
+          },
+          {
+            "index": 418,
+            "start": 1081.163,
+            "end": 1083.957,
+            "text": "Trudging up that stupid sled\nhill over and over again."
+          },
+          {
+            "index": 419,
+            "start": 1084.041,
+            "end": 1085.542,
+            "text": "How good could it be?"
+          },
+          {
+            "index": 420,
+            "start": 1085.626,
+            "end": 1089.171,
+            "text": "(children cheering, laughing)"
+          },
+          {
+            "index": 421,
+            "start": 1098.347,
+            "end": 1100.015,
+            "text": "(laughing)"
+          },
+          {
+            "index": 422,
+            "start": 1100.099,
+            "end": 1101.767,
+            "text": "I haven't had\nthis much fun in years."
+          },
+          {
+            "index": 423,
+            "start": 1101.85,
+            "end": 1104.52,
+            "text": "-Aah!\n-(laughs) Got you, Burnsie."
+          },
+          {
+            "index": 424,
+            "start": 1104.603,
+            "end": 1107.022,
+            "text": "(chuckles)\nWhy, you young ragamuffin."
+          },
+          {
+            "index": 425,
+            "start": 1107.106,
+            "end": 1109.358,
+            "text": "I was never one to back away\nfrom a snowball fight."
+          },
+          {
+            "index": 426,
+            "start": 1109.441,
+            "end": 1111.193,
+            "text": "Smithers,\nyou may fire at will."
+          },
+          {
+            "index": 427,
+            "start": 1111.276,
+            "end": 1112.194,
+            "text": "Certainly, sir."
+          },
+          {
+            "index": 428,
+            "start": 1114.321,
+            "end": 1115.781,
+            "text": "♪♪"
+          },
+          {
+            "index": 429,
+            "start": 1117.366,
+            "end": 1121.662,
+            "text": "I hereby declare this day\nto be \"Snow Day--"
+          },
+          {
+            "index": 430,
+            "start": 1121.745,
+            "end": 1124.123,
+            "text": "The funnest day\nin the history of Springfield.\""
+          },
+          {
+            "index": 431,
+            "start": 1124.206,
+            "end": 1125.874,
+            "text": "(cheering)"
+          },
+          {
+            "index": 432,
+            "start": 1125.958,
+            "end": 1129.878,
+            "text": "♪ Sleigh bells ring,\nare you listening? ♪"
+          },
+          {
+            "index": 433,
+            "start": 1129.962,
+            "end": 1133.465,
+            "text": "♪ In the lane,\nsnow is glistening ♪"
+          },
+          {
+            "index": 434,
+            "start": 1133.549,
+            "end": 1137.052,
+            "text": "♪ A beautiful sight,\nwe're happy tonight ♪"
+          },
+          {
+            "index": 435,
+            "start": 1137.136,
+            "end": 1140.514,
+            "text": "♪ Walking\nin a winter wonderland ♪"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1109.6797180175781,
+        "topCueIndex": -1,
+        "bottomCueIndex": 425
+      }
     }
   ]
 }
