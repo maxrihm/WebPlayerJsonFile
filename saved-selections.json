@@ -57313,6 +57313,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 435
       }
+    },
+    {
+      "id": "a01fdef4-d23f-4d98-a0e1-e560bb61ab35",
+      "createdAt": "2026-06-29T21:16:02.423Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "truths",
+      "selection": {
+        "rawText": "truths",
+        "startOffset": 14,
+        "endOffset": 20,
+        "cueIndex": 444,
+        "cueStart": 1164.997,
+        "cueEnd": 1168.125,
+        "cueText": "We hold these truths\nto be self-evident..."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 434,
+            "start": 1133.549,
+            "end": 1137.052,
+            "text": "♪ A beautiful sight,\nwe're happy tonight ♪"
+          },
+          {
+            "index": 435,
+            "start": 1137.136,
+            "end": 1140.514,
+            "text": "♪ Walking\nin a winter wonderland ♪"
+          },
+          {
+            "index": 436,
+            "start": 1140.597,
+            "end": 1143.767,
+            "text": "♪ Gone away\nis the bluebird ♪"
+          },
+          {
+            "index": 437,
+            "start": 1143.851,
+            "end": 1145.978,
+            "text": "♪ Here to stay... ♪"
+          },
+          {
+            "index": 438,
+            "start": 1148.647,
+            "end": 1150.983,
+            "text": "Got to study, got to study,\ngot to study!"
+          },
+          {
+            "index": 439,
+            "start": 1154.82,
+            "end": 1157.281,
+            "text": "\"Chapter Six--\nFour Days in Philadelphia."
+          },
+          {
+            "index": 440,
+            "start": 1157.364,
+            "end": 1158.782,
+            "text": "\"The first\nContinental Congress"
+          },
+          {
+            "index": 441,
+            "start": 1158.866,
+            "end": 1160.284,
+            "text": "\"faced a difficult job."
+          },
+          {
+            "index": 442,
+            "start": 1160.367,
+            "end": 1163.453,
+            "text": "\"Could the delegates agree\non recommendations"
+          },
+          {
+            "index": 443,
+            "start": 1163.537,
+            "end": 1164.913,
+            "text": "that all Americans\ncould support?\""
+          },
+          {
+            "index": 444,
+            "start": 1164.997,
+            "end": 1168.125,
+            "text": "We hold these truths\nto be self-evident..."
+          },
+          {
+            "index": 445,
+            "start": 1168.208,
+            "end": 1171.503,
+            "text": "\"We hold these truths\nto be self-evident.\""
+          },
+          {
+            "index": 446,
+            "start": 1171.587,
+            "end": 1173.297,
+            "text": "...that all men\nare created equal."
+          },
+          {
+            "index": 447,
+            "start": 1173.38,
+            "end": 1174.548,
+            "text": "\"...that all men are\ncreated equal.\""
+          },
+          {
+            "index": 448,
+            "start": 1174.631,
+            "end": 1176.091,
+            "text": "That from that equal creation"
+          },
+          {
+            "index": 449,
+            "start": 1176.175,
+            "end": 1178.719,
+            "text": "they derive rights,\ninherent and inalienable--"
+          },
+          {
+            "index": 450,
+            "start": 1178.802,
+            "end": 1181.43,
+            "text": "Hey, look everybody--\nit's snowing!"
+          },
+          {
+            "index": 451,
+            "start": 1181.513,
+            "end": 1184.141,
+            "text": "-In the middle of July?\n-It's a miracle."
+          },
+          {
+            "index": 452,
+            "start": 1184.224,
+            "end": 1187.686,
+            "text": "Fellows, I've invented\nsomething fun. The sled!"
+          },
+          {
+            "index": 453,
+            "start": 1187.769,
+            "end": 1190.564,
+            "text": "(excited chatter)"
+          },
+          {
+            "index": 454,
+            "start": 1190.647,
+            "end": 1192.691,
+            "text": "MAN:\nHey, look, everybody!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1169.6061520996093,
+        "topCueIndex": -1,
+        "bottomCueIndex": 444
+      }
     }
   ]
 }
