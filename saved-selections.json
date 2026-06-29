@@ -57921,6 +57921,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 449
       }
+    },
+    {
+      "id": "ee407573-7c58-4f22-8bda-5f345d431096",
+      "createdAt": "2026-06-29T21:18:56.915Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "held back",
+      "selection": {
+        "rawText": "held back",
+        "startOffset": 18,
+        "endOffset": 27,
+        "cueIndex": 456,
+        "cueStart": 1200.365,
+        "cueEnd": 1201.783,
+        "cueText": "Do you want to be\nheld back a grade?"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 446,
+            "start": 1171.587,
+            "end": 1173.297,
+            "text": "...that all men\nare created equal."
+          },
+          {
+            "index": 447,
+            "start": 1173.38,
+            "end": 1174.548,
+            "text": "\"...that all men are\ncreated equal.\""
+          },
+          {
+            "index": 448,
+            "start": 1174.631,
+            "end": 1176.091,
+            "text": "That from that equal creation"
+          },
+          {
+            "index": 449,
+            "start": 1176.175,
+            "end": 1178.719,
+            "text": "they derive rights,\ninherent and inalienable--"
+          },
+          {
+            "index": 450,
+            "start": 1178.802,
+            "end": 1181.43,
+            "text": "Hey, look everybody--\nit's snowing!"
+          },
+          {
+            "index": 451,
+            "start": 1181.513,
+            "end": 1184.141,
+            "text": "-In the middle of July?\n-It's a miracle."
+          },
+          {
+            "index": 452,
+            "start": 1184.224,
+            "end": 1187.686,
+            "text": "Fellows, I've invented\nsomething fun. The sled!"
+          },
+          {
+            "index": 453,
+            "start": 1187.769,
+            "end": 1190.564,
+            "text": "(excited chatter)"
+          },
+          {
+            "index": 454,
+            "start": 1190.647,
+            "end": 1192.691,
+            "text": "MAN:\nHey, look, everybody!"
+          },
+          {
+            "index": 455,
+            "start": 1192.774,
+            "end": 1195.485,
+            "text": "John Hancock's\nwriting his name in the snow!"
+          },
+          {
+            "index": 456,
+            "start": 1200.365,
+            "end": 1201.783,
+            "text": "Do you want to be\nheld back a grade?"
+          },
+          {
+            "index": 457,
+            "start": 1201.867,
+            "end": 1203.202,
+            "text": "Concentrate, man!"
+          },
+          {
+            "index": 458,
+            "start": 1204.62,
+            "end": 1206.413,
+            "text": "(slapping continues)"
+          },
+          {
+            "index": 459,
+            "start": 1212.836,
+            "end": 1214.254,
+            "text": "Later, Mrs. K."
+          },
+          {
+            "index": 460,
+            "start": 1217.799,
+            "end": 1219.718,
+            "text": "Please turn in\nyour exam, Bart."
+          },
+          {
+            "index": 461,
+            "start": 1219.801,
+            "end": 1222.137,
+            "text": "Class is over."
+          },
+          {
+            "index": 462,
+            "start": 1222.221,
+            "end": 1224.473,
+            "text": "Do you think you could\ngrade it now, please?"
+          },
+          {
+            "index": 463,
+            "start": 1224.556,
+            "end": 1226.391,
+            "text": "Well, all right."
+          },
+          {
+            "index": 464,
+            "start": 1226.475,
+            "end": 1228.477,
+            "text": "Let me get \"old red.\""
+          },
+          {
+            "index": 465,
+            "start": 1229.603,
+            "end": 1231.48,
+            "text": "Mm-hmm.\nYup."
+          },
+          {
+            "index": 466,
+            "start": 1231.563,
+            "end": 1233.565,
+            "text": "Mm-hmm.\nMm-hmm."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1203.4166030273439,
+        "topCueIndex": -1,
+        "bottomCueIndex": 456
+      }
     }
   ]
 }
