@@ -58225,6 +58225,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 460
       }
+    },
+    {
+      "id": "73f38364-d69b-410a-b634-1c69abf8a34e",
+      "createdAt": "2026-06-29T21:21:27.217Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "by now.",
+      "selection": {
+        "rawText": "by now.",
+        "startOffset": 39,
+        "endOffset": 46,
+        "cueIndex": 473,
+        "cueStart": 1251.959,
+        "cueEnd": 1254.753,
+        "cueText": "I would think you'd be\nused to failing by now."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 463,
+            "start": 1224.556,
+            "end": 1226.391,
+            "text": "Well, all right."
+          },
+          {
+            "index": 464,
+            "start": 1226.475,
+            "end": 1228.477,
+            "text": "Let me get \"old red.\""
+          },
+          {
+            "index": 465,
+            "start": 1229.603,
+            "end": 1231.48,
+            "text": "Mm-hmm.\nYup."
+          },
+          {
+            "index": 466,
+            "start": 1231.563,
+            "end": 1233.565,
+            "text": "Mm-hmm.\nMm-hmm."
+          },
+          {
+            "index": 467,
+            "start": 1233.649,
+            "end": 1237.069,
+            "text": "Well, Bart, it's a 59.\nThat's another \"F.\""
+          },
+          {
+            "index": 468,
+            "start": 1237.152,
+            "end": 1239.821,
+            "text": "Oh, no.\nI can't believe it."
+          },
+          {
+            "index": 469,
+            "start": 1239.905,
+            "end": 1242.324,
+            "text": "I know, I know.\nAnother year together."
+          },
+          {
+            "index": 470,
+            "start": 1242.407,
+            "end": 1245.327,
+            "text": "Oh! It's going\nto be hell."
+          },
+          {
+            "index": 471,
+            "start": 1246.536,
+            "end": 1250.374,
+            "text": "(sobbing)"
+          },
+          {
+            "index": 472,
+            "start": 1250.457,
+            "end": 1251.875,
+            "text": "What's the matter?"
+          },
+          {
+            "index": 473,
+            "start": 1251.959,
+            "end": 1254.753,
+            "text": "I would think you'd be\nused to failing by now."
+          },
+          {
+            "index": 474,
+            "start": 1254.836,
+            "end": 1256.755,
+            "text": "No, you don't understand."
+          },
+          {
+            "index": 475,
+            "start": 1256.838,
+            "end": 1259.841,
+            "text": "I really tried this time.\nI mean, I really tried."
+          },
+          {
+            "index": 476,
+            "start": 1259.925,
+            "end": 1261.927,
+            "text": "There, there."
+          },
+          {
+            "index": 477,
+            "start": 1262.01,
+            "end": 1265.764,
+            "text": "This is as good as I can do\nand I still failed."
+          },
+          {
+            "index": 478,
+            "start": 1265.847,
+            "end": 1268.934,
+            "text": "Well, a 59--\nit's a high \"F.\""
+          },
+          {
+            "index": 479,
+            "start": 1269.017,
+            "end": 1270.519,
+            "text": "Who am I kidding?"
+          },
+          {
+            "index": 480,
+            "start": 1270.602,
+            "end": 1273.772,
+            "text": "I really am a failure.\n(sobbing)"
+          },
+          {
+            "index": 481,
+            "start": 1273.855,
+            "end": 1276.566,
+            "text": "Oh! Now I know\nhow George Washington felt"
+          },
+          {
+            "index": 482,
+            "start": 1276.65,
+            "end": 1277.943,
+            "text": "when he surrendered\nFort Necessity"
+          },
+          {
+            "index": 483,
+            "start": 1278.026,
+            "end": 1279.82,
+            "text": "to the French in 1754."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1254.8480219726562,
+        "topCueIndex": -1,
+        "bottomCueIndex": 473
+      }
     }
   ]
 }
