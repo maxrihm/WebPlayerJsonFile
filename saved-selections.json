@@ -59289,6 +59289,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 261
       }
+    },
+    {
+      "id": "3baf1d1a-5996-454d-aa01-5d11c46df239",
+      "createdAt": "2026-06-30T19:43:36.210Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "all over",
+      "selection": {
+        "rawText": "all over",
+        "startOffset": 29,
+        "endOffset": 37,
+        "cueIndex": 264,
+        "cueStart": 735.969,
+        "cueEnd": 738.972,
+        "cueText": "Wow! It sounds like\nyou were\nall over this guy."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 254,
+            "start": 714.147,
+            "end": 715.549,
+            "text": "Maybe he's not\nin love with us."
+          },
+          {
+            "index": 255,
+            "start": 715.582,
+            "end": 716.883,
+            "text": "How can he not be\nin love with us?"
+          },
+          {
+            "index": 256,
+            "start": 716.917,
+            "end": 718.284,
+            "text": "We're everything\nhe's looking for."
+          },
+          {
+            "index": 257,
+            "start": 718.318,
+            "end": 720.353,
+            "text": "I don't get men."
+          },
+          {
+            "index": 258,
+            "start": 720.386,
+            "end": 721.454,
+            "text": "(SIGHING)"
+          },
+          {
+            "index": 259,
+            "start": 721.487,
+            "end": 722.556,
+            "text": "Gotta head to work."
+          },
+          {
+            "index": 260,
+            "start": 722.589,
+            "end": 725.559,
+            "text": "Will you be back?"
+          },
+          {
+            "index": 261,
+            "start": 725.592,
+            "end": 729.596,
+            "text": "I'll be back when the wind\nand fates and chance\nbring me back."
+          },
+          {
+            "index": 262,
+            "start": 729.63,
+            "end": 731.431,
+            "text": "Which will be tomorrow."
+          },
+          {
+            "index": 263,
+            "start": 731.464,
+            "end": 733.099,
+            "text": "It's cheese steak day."
+          },
+          {
+            "index": 264,
+            "start": 735.969,
+            "end": 738.972,
+            "text": "Wow! It sounds like\nyou were\nall over this guy."
+          },
+          {
+            "index": 265,
+            "start": 739.005,
+            "end": 741.241,
+            "text": "Hope his girlfriend\ndidn't get jealous."
+          },
+          {
+            "index": 266,
+            "start": 741.274,
+            "end": 743.61,
+            "text": "Did he mention\na girlfriend, or..."
+          },
+          {
+            "index": 267,
+            "start": 744.511,
+            "end": 746.146,
+            "text": "It was all going great,"
+          },
+          {
+            "index": 268,
+            "start": 746.179,
+            "end": 748.615,
+            "text": "until Marshall sent Ted\na text meant for Lily"
+          },
+          {
+            "index": 269,
+            "start": 748.649,
+            "end": 750.116,
+            "text": "and ruined everything."
+          },
+          {
+            "index": 270,
+            "start": 750.15,
+            "end": 751.818,
+            "text": "Well, it doesn't\nmatter, okay?"
+          },
+          {
+            "index": 271,
+            "start": 751.852,
+            "end": 754.888,
+            "text": "It's over now.\nI gotta get going, but here's\nwhat's gonna happen."
+          },
+          {
+            "index": 272,
+            "start": 754.921,
+            "end": 758.959,
+            "text": "You're going to call him\nright now, tell him\nwhat you did, and apologize."
+          },
+          {
+            "index": 273,
+            "start": 758.992,
+            "end": 760.527,
+            "text": "You got it?\nYes."
+          },
+          {
+            "index": 274,
+            "start": 764.364,
+            "end": 766.6,
+            "text": "Or..."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 739.15112890625,
+        "topCueIndex": -1,
+        "bottomCueIndex": 264
+      }
     }
   ]
 }
