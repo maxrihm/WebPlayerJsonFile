@@ -60657,6 +60657,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 305
       }
+    },
+    {
+      "id": "d90df83d-7f31-4fcb-be0b-03642d2a72b3",
+      "createdAt": "2026-06-30T20:31:00.444Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "creeping up",
+      "selection": {
+        "rawText": "creeping up",
+        "startOffset": 24,
+        "endOffset": 35,
+        "cueIndex": 310,
+        "cueStart": 860.694,
+        "cueEnd": 863.564,
+        "cueText": "\"and those feelings\nare creeping up again\"?"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 300,
+            "start": 836.269,
+            "end": 837.303,
+            "text": "Unbelievable!"
+          },
+          {
+            "index": 301,
+            "start": 837.337,
+            "end": 839.172,
+            "text": "I know."
+          },
+          {
+            "index": 302,
+            "start": 839.205,
+            "end": 840.306,
+            "text": "So you might as well\ntell them you're on to them."
+          },
+          {
+            "index": 303,
+            "start": 840.34,
+            "end": 841.542,
+            "text": "Yeah."
+          },
+          {
+            "index": 304,
+            "start": 842.408,
+            "end": 844.711,
+            "text": "Or..."
+          },
+          {
+            "index": 305,
+            "start": 844.745,
+            "end": 847.914,
+            "text": "I text them something\nthat'll really mess\nwith their heads."
+          },
+          {
+            "index": 306,
+            "start": 847.948,
+            "end": 851.918,
+            "text": "Oh I gotcha.\nOkay. How about,"
+          },
+          {
+            "index": 307,
+            "start": 851.952,
+            "end": 854.22,
+            "text": "\"I haven't told\nany of my friends yet,"
+          },
+          {
+            "index": 308,
+            "start": 854.254,
+            "end": 856.757,
+            "text": "\"but I only have\nthree months to live\"?"
+          },
+          {
+            "index": 309,
+            "start": 856.79,
+            "end": 860.661,
+            "text": "Not bad. How about,\n\"I once killed\na man with a shovel,"
+          },
+          {
+            "index": 310,
+            "start": 860.694,
+            "end": 863.564,
+            "text": "\"and those feelings\nare creeping up again\"?"
+          },
+          {
+            "index": 311,
+            "start": 863.597,
+            "end": 867.934,
+            "text": "Uh‐huh. I liked that thing\nsomeone said before about\nhaving three months to live."
+          },
+          {
+            "index": 312,
+            "start": 867.968,
+            "end": 872.405,
+            "text": "How about, \"I've never\ntold anyone this, but I slept\nwith my best friend's mom\"?"
+          },
+          {
+            "index": 313,
+            "start": 872.438,
+            "end": 875.075,
+            "text": "That is good,\nbut I feel like\nwe keep coming back"
+          },
+          {
+            "index": 314,
+            "start": 875.108,
+            "end": 877.177,
+            "text": "to that three‐months‐\nto‐live thing."
+          },
+          {
+            "index": 315,
+            "start": 877.21,
+            "end": 878.745,
+            "text": "Wait. I think I got it."
+          },
+          {
+            "index": 316,
+            "start": 878.779,
+            "end": 879.913,
+            "text": "Yeah?"
+          },
+          {
+            "index": 317,
+            "start": 881.114,
+            "end": 882.448,
+            "text": "(CELL PHONE BUZZING)"
+          },
+          {
+            "index": 318,
+            "start": 882.482,
+            "end": 884.951,
+            "text": "(EXCLAIMING DELIGHTEDLY)\nHe texted back!"
+          },
+          {
+            "index": 319,
+            "start": 884.985,
+            "end": 887.754,
+            "text": "\"I probably\nshouldn't tell you this."
+          },
+          {
+            "index": 320,
+            "start": 887.788,
+            "end": 889.59,
+            "text": "\"I mean, we barely\nknow each other."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 862.5831909179688,
+        "topCueIndex": -1,
+        "bottomCueIndex": 310
+      }
     }
   ]
 }
