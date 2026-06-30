@@ -58833,6 +58833,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 237
       }
+    },
+    {
+      "id": "579333d1-2981-4c06-8cf1-632edd4798cf",
+      "createdAt": "2026-06-30T19:36:33.596Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "envelops",
+      "selection": {
+        "rawText": "envelops",
+        "startOffset": 22,
+        "endOffset": 30,
+        "cueIndex": 244,
+        "cueStart": 681.414,
+        "cueEnd": 684.685,
+        "cueText": "\"I wait for it\nand it envelops me"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 234,
+            "start": 647.914,
+            "end": 650.551,
+            "text": "That's, like,\nreally nice, man."
+          },
+          {
+            "index": 235,
+            "start": 650.584,
+            "end": 653.987,
+            "text": "(VOICE BREAKING)\nWhatever. It's okay."
+          },
+          {
+            "index": 236,
+            "start": 654.02,
+            "end": 657.39,
+            "text": "HOLLI: \"And when we finally\ncome together,\nI want you to hold me.\""
+          },
+          {
+            "index": 237,
+            "start": 657.423,
+            "end": 660.861,
+            "text": "Hold me all night.\nStroke my hair."
+          },
+          {
+            "index": 238,
+            "start": 660.894,
+            "end": 663.864,
+            "text": "Tell me I'm a woman\nand show me you're a man."
+          },
+          {
+            "index": 239,
+            "start": 663.897,
+            "end": 665.966,
+            "text": "Until there was only now."
+          },
+          {
+            "index": 240,
+            "start": 665.999,
+            "end": 669.736,
+            "text": "You and I and now."
+          },
+          {
+            "index": 241,
+            "start": 670.37,
+            "end": 673.574,
+            "text": "Yes!"
+          },
+          {
+            "index": 242,
+            "start": 673.607,
+            "end": 676.543,
+            "text": "You want me to\ntext that to Ted.\nI know that."
+          },
+          {
+            "index": 243,
+            "start": 679.045,
+            "end": 681.381,
+            "text": "HOLLI: \"I do not ask\nof the night explanations"
+          },
+          {
+            "index": 244,
+            "start": 681.414,
+            "end": 684.685,
+            "text": "\"I wait for it\nand it envelops me"
+          },
+          {
+            "index": 245,
+            "start": 684.718,
+            "end": 689.89,
+            "text": "\"And so you\nand bread and light\nAnd shadow are\""
+          },
+          {
+            "index": 246,
+            "start": 690.791,
+            "end": 693.326,
+            "text": "That's Pablo Neruda."
+          },
+          {
+            "index": 247,
+            "start": 693.359,
+            "end": 696.229,
+            "text": "I don't know\nwhat bread\nwas doing in there,"
+          },
+          {
+            "index": 248,
+            "start": 696.262,
+            "end": 698.231,
+            "text": "but that touched me here"
+          },
+          {
+            "index": 249,
+            "start": 700.066,
+            "end": 701.902,
+            "text": "and here."
+          },
+          {
+            "index": 250,
+            "start": 701.935,
+            "end": 704.07,
+            "text": "Well, if Ted\nwon't say it, I will."
+          },
+          {
+            "index": 251,
+            "start": 705.606,
+            "end": 706.807,
+            "text": "I love you."
+          },
+          {
+            "index": 252,
+            "start": 709.209,
+            "end": 710.476,
+            "text": "That's cool."
+          },
+          {
+            "index": 253,
+            "start": 712.746,
+            "end": 714.114,
+            "text": "Still nothing, huh?"
+          },
+          {
+            "index": 254,
+            "start": 714.147,
+            "end": 715.549,
+            "text": "Maybe he's not\nin love with us."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 684.24608203125,
+        "topCueIndex": -1,
+        "bottomCueIndex": 244
+      }
     }
   ]
 }
