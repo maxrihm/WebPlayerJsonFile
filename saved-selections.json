@@ -62177,6 +62177,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 346
       }
+    },
+    {
+      "id": "aa0dadd3-8434-4678-867a-0269f04ddf24",
+      "createdAt": "2026-06-30T20:46:32.739Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "the other night.",
+      "selection": {
+        "rawText": "the other night.",
+        "startOffset": 27,
+        "endOffset": 43,
+        "cueIndex": 361,
+        "cueStart": 1011.377,
+        "cueEnd": 1014.815,
+        "cueText": "but I had this crazy dream\nthe other night.\nIt's a little embarrassing."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 351,
+            "start": 981.247,
+            "end": 985.185,
+            "text": "Crazy, right?\nTed's having gay dreams\nabout me?"
+          },
+          {
+            "index": 352,
+            "start": 985.218,
+            "end": 989.155,
+            "text": "And by me, he means M‐E,\nMarshall Eriksen,"
+          },
+          {
+            "index": 353,
+            "start": 989.189,
+            "end": 991.992,
+            "text": "star of Ted's gay dreams."
+          },
+          {
+            "index": 354,
+            "start": 992.025,
+            "end": 995.395,
+            "text": "Who cares?\nSo Ted has gay dreams\nabout one of you guys."
+          },
+          {
+            "index": 355,
+            "start": 995.428,
+            "end": 998.732,
+            "text": "It's not like you found out\nhe has three months to live."
+          },
+          {
+            "index": 356,
+            "start": 998.765,
+            "end": 1002.302,
+            "text": "That's, like,\nshocking, right?"
+          },
+          {
+            "index": 357,
+            "start": 1002.335,
+            "end": 1004.37,
+            "text": "Whoa! Take a look\nat this guy."
+          },
+          {
+            "index": 358,
+            "start": 1004.404,
+            "end": 1006.573,
+            "text": "How's it going,\nbest friend of 12 years?"
+          },
+          {
+            "index": 359,
+            "start": 1006.607,
+            "end": 1008.008,
+            "text": "(TED SIGHING)"
+          },
+          {
+            "index": 360,
+            "start": 1008.041,
+            "end": 1011.344,
+            "text": "Well, it's kind of weird,"
+          },
+          {
+            "index": 361,
+            "start": 1011.377,
+            "end": 1014.815,
+            "text": "but I had this crazy dream\nthe other night.\nIt's a little embarrassing."
+          },
+          {
+            "index": 362,
+            "start": 1014.848,
+            "end": 1017.217,
+            "text": "You can tell us, Ted.\nThis is a safe space."
+          },
+          {
+            "index": 363,
+            "start": 1017.25,
+            "end": 1020.353,
+            "text": "Yeah, your feelings\nare perfectly\nnatural, buddy."
+          },
+          {
+            "index": 364,
+            "start": 1020.386,
+            "end": 1022.355,
+            "text": "Okay.\nHere's what happened."
+          },
+          {
+            "index": 365,
+            "start": 1023.69,
+            "end": 1024.891,
+            "text": "So I'm at the..."
+          },
+          {
+            "index": 366,
+            "start": 1024.925,
+            "end": 1026.827,
+            "text": "OLDER TED:\nAnd then I proceeded"
+          },
+          {
+            "index": 367,
+            "start": 1026.86,
+            "end": 1028.161,
+            "text": "to waste a half hour\nof those bastards' lives,"
+          },
+          {
+            "index": 368,
+            "start": 1028.194,
+            "end": 1030.43,
+            "text": "telling them about\nthis dream I had"
+          },
+          {
+            "index": 369,
+            "start": 1030.463,
+            "end": 1033.199,
+            "text": "where I ate dinner with my\ntop five favorite architects\nthroughout history."
+          },
+          {
+            "index": 370,
+            "start": 1033.233,
+            "end": 1035.268,
+            "text": "And then, at the end\nof the meal,"
+          },
+          {
+            "index": 371,
+            "start": 1035.301,
+            "end": 1038.772,
+            "text": "Frank Gehry slides the check\nover to I. M. Pei, and he says,"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1014.6974870605469,
+        "topCueIndex": -1,
+        "bottomCueIndex": 361
+      }
     }
   ]
 }
