@@ -59441,6 +59441,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 264
       }
+    },
+    {
+      "id": "a55fe5b5-fc35-4f9f-9fe9-dd0f611a6bd6",
+      "createdAt": "2026-06-30T19:47:46.258Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "her way out of",
+      "selection": {
+        "rawText": "her way\nout of",
+        "startOffset": 22,
+        "endOffset": 36,
+        "cueIndex": 278,
+        "cueStart": 772.338,
+        "cueEnd": 774.741,
+        "cueText": "How did Holli explain her way\nout of that one?"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 268,
+            "start": 746.179,
+            "end": 748.615,
+            "text": "until Marshall sent Ted\na text meant for Lily"
+          },
+          {
+            "index": 269,
+            "start": 748.649,
+            "end": 750.116,
+            "text": "and ruined everything."
+          },
+          {
+            "index": 270,
+            "start": 750.15,
+            "end": 751.818,
+            "text": "Well, it doesn't\nmatter, okay?"
+          },
+          {
+            "index": 271,
+            "start": 751.852,
+            "end": 754.888,
+            "text": "It's over now.\nI gotta get going, but here's\nwhat's gonna happen."
+          },
+          {
+            "index": 272,
+            "start": 754.921,
+            "end": 758.959,
+            "text": "You're going to call him\nright now, tell him\nwhat you did, and apologize."
+          },
+          {
+            "index": 273,
+            "start": 758.992,
+            "end": 760.527,
+            "text": "You got it?\nYes."
+          },
+          {
+            "index": 274,
+            "start": 764.364,
+            "end": 766.6,
+            "text": "Or..."
+          },
+          {
+            "index": 275,
+            "start": 766.633,
+            "end": 769.469,
+            "text": "Holli explained everything.\nIt was all just\na misunderstanding."
+          },
+          {
+            "index": 276,
+            "start": 769.503,
+            "end": 770.504,
+            "text": "Everything's great now."
+          },
+          {
+            "index": 277,
+            "start": 770.537,
+            "end": 772.305,
+            "text": "Really?"
+          },
+          {
+            "index": 278,
+            "start": 772.338,
+            "end": 774.741,
+            "text": "How did Holli explain her way\nout of that one?"
+          },
+          {
+            "index": 279,
+            "start": 774.775,
+            "end": 778.444,
+            "text": "Well, apparently,\nher dumb friend Marsha\naccidentally used her phone"
+          },
+          {
+            "index": 280,
+            "start": 778.478,
+            "end": 779.746,
+            "text": "to text her husband, Billy."
+          },
+          {
+            "index": 281,
+            "start": 779.78,
+            "end": 781.782,
+            "text": "Marsha and Billy."
+          },
+          {
+            "index": 282,
+            "start": 781.815,
+            "end": 784.751,
+            "text": "No one sprained\nany muscles there."
+          },
+          {
+            "index": 283,
+            "start": 784.785,
+            "end": 787.353,
+            "text": "And now we are\nbetter than ever."
+          },
+          {
+            "index": 284,
+            "start": 787.387,
+            "end": 789.856,
+            "text": "Look, I know\nthis sounds crazy,"
+          },
+          {
+            "index": 285,
+            "start": 789.89,
+            "end": 792.859,
+            "text": "but I think I might actually\nbe falling for this girl."
+          },
+          {
+            "index": 286,
+            "start": 792.893,
+            "end": 794.595,
+            "text": "You're falling\nfor Barney and Marshall."
+          },
+          {
+            "index": 287,
+            "start": 794.628,
+            "end": 796.997,
+            "text": "What?"
+          },
+          {
+            "index": 288,
+            "start": 797.03,
+            "end": 799.032,
+            "text": "They didn't believe\nthat you could\nwait the three days,"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 775.011330078125,
+        "topCueIndex": -1,
+        "bottomCueIndex": 278
+      }
     }
   ]
 }
