@@ -60961,6 +60961,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 332
       }
+    },
+    {
+      "id": "6f04cf3c-144d-4ca9-a9c7-b653579805b7",
+      "createdAt": "2026-06-30T20:35:13.681Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "proven.",
+      "selection": {
+        "rawText": "proven.",
+        "startOffset": 31,
+        "endOffset": 38,
+        "cueIndex": 335,
+        "cueStart": 931.364,
+        "cueEnd": 933.6,
+        "cueText": "Okay. One, that has\nnever been proven."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 325,
+            "start": 896.897,
+            "end": 897.898,
+            "text": "Stan."
+          },
+          {
+            "index": 326,
+            "start": 899.265,
+            "end": 901.034,
+            "text": "(CELL PHONE BUZZING)"
+          },
+          {
+            "index": 327,
+            "start": 901.067,
+            "end": 903.804,
+            "text": "(GASPING) Whoa!\nWhat?"
+          },
+          {
+            "index": 328,
+            "start": 903.837,
+            "end": 907.073,
+            "text": "\"I sometimes have gay dreams\nabout my best friend.\""
+          },
+          {
+            "index": 329,
+            "start": 913.514,
+            "end": 917.951,
+            "text": "\"I sometimes\nhave gay dreams about\nmy best friend.\""
+          },
+          {
+            "index": 330,
+            "start": 917.984,
+            "end": 921.555,
+            "text": "Why in the world\nwould Ted text a girl\nhe barely knows"
+          },
+          {
+            "index": 331,
+            "start": 921.588,
+            "end": 923.256,
+            "text": "that he sometimes\nhas gay dreams about me?"
+          },
+          {
+            "index": 332,
+            "start": 923.289,
+            "end": 925.892,
+            "text": "Whoa, whoa,\nslow your roll."
+          },
+          {
+            "index": 333,
+            "start": 925.926,
+            "end": 928.995,
+            "text": "You? He's clearly\ntalking about me."
+          },
+          {
+            "index": 334,
+            "start": 929.029,
+            "end": 931.331,
+            "text": "Dude, it's me.\nI'm his best friend."
+          },
+          {
+            "index": 335,
+            "start": 931.364,
+            "end": 933.6,
+            "text": "Okay. One, that has\nnever been proven."
+          },
+          {
+            "index": 336,
+            "start": 933.634,
+            "end": 938.071,
+            "text": "Two, if anyone were to have\ngay dreams about one of us,\nit would be me."
+          },
+          {
+            "index": 337,
+            "start": 938.104,
+            "end": 941.107,
+            "text": "I mean, look at me.\nNow look at you."
+          },
+          {
+            "index": 338,
+            "start": 941.141,
+            "end": 945.679,
+            "text": "A still‐in‐the‐closet\n80‐year‐old wouldn't be\ninto that mess."
+          },
+          {
+            "index": 339,
+            "start": 945.712,
+            "end": 949.415,
+            "text": "Here's the thing, Barney.\nI'm snuggly. You're not."
+          },
+          {
+            "index": 340,
+            "start": 949.449,
+            "end": 953.019,
+            "text": "Who wouldn't want to\nsnuggle up next to this\nbusiness on a Sunday morning?"
+          },
+          {
+            "index": 341,
+            "start": 953.053,
+            "end": 955.589,
+            "text": "Wrapped in a comforter,\nand it's raining outside,"
+          },
+          {
+            "index": 342,
+            "start": 955.622,
+            "end": 957.19,
+            "text": "and there's muffins\nwarming in the oven."
+          },
+          {
+            "index": 343,
+            "start": 957.223,
+            "end": 960.026,
+            "text": "I'm cuddly, bitch.\nDeal with it."
+          },
+          {
+            "index": 344,
+            "start": 960.06,
+            "end": 962.428,
+            "text": "I work out every day."
+          },
+          {
+            "index": 345,
+            "start": 962.462,
+            "end": 965.999,
+            "text": "If there is one thing\nwe know about Ted, it's that\nhe likes a nice body."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 933.30708203125,
+        "topCueIndex": -1,
+        "bottomCueIndex": 335
+      }
     }
   ]
 }
