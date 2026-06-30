@@ -60809,6 +60809,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 310
       }
+    },
+    {
+      "id": "1aa13d8b-70a1-4304-94af-ceb0ce6a9ab1",
+      "createdAt": "2026-06-30T20:34:33.977Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "slow your roll.",
+      "selection": {
+        "rawText": "slow your roll.",
+        "startOffset": 12,
+        "endOffset": 27,
+        "cueIndex": 332,
+        "cueStart": 923.289,
+        "cueEnd": 925.892,
+        "cueText": "Whoa, whoa,\nslow your roll."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 322,
+            "start": 890.891,
+            "end": 893.193,
+            "text": "\"But what the hell,\nI'll just say it.\""
+          },
+          {
+            "index": 323,
+            "start": 893.226,
+            "end": 895.596,
+            "text": "This is it, dude.\nHere comes the \"I love you.\""
+          },
+          {
+            "index": 324,
+            "start": 895.629,
+            "end": 896.863,
+            "text": "I wish Stan were here."
+          },
+          {
+            "index": 325,
+            "start": 896.897,
+            "end": 897.898,
+            "text": "Stan."
+          },
+          {
+            "index": 326,
+            "start": 899.265,
+            "end": 901.034,
+            "text": "(CELL PHONE BUZZING)"
+          },
+          {
+            "index": 327,
+            "start": 901.067,
+            "end": 903.804,
+            "text": "(GASPING) Whoa!\nWhat?"
+          },
+          {
+            "index": 328,
+            "start": 903.837,
+            "end": 907.073,
+            "text": "\"I sometimes have gay dreams\nabout my best friend.\""
+          },
+          {
+            "index": 329,
+            "start": 913.514,
+            "end": 917.951,
+            "text": "\"I sometimes\nhave gay dreams about\nmy best friend.\""
+          },
+          {
+            "index": 330,
+            "start": 917.984,
+            "end": 921.555,
+            "text": "Why in the world\nwould Ted text a girl\nhe barely knows"
+          },
+          {
+            "index": 331,
+            "start": 921.588,
+            "end": 923.256,
+            "text": "that he sometimes\nhas gay dreams about me?"
+          },
+          {
+            "index": 332,
+            "start": 923.289,
+            "end": 925.892,
+            "text": "Whoa, whoa,\nslow your roll."
+          },
+          {
+            "index": 333,
+            "start": 925.926,
+            "end": 928.995,
+            "text": "You? He's clearly\ntalking about me."
+          },
+          {
+            "index": 334,
+            "start": 929.029,
+            "end": 931.331,
+            "text": "Dude, it's me.\nI'm his best friend."
+          },
+          {
+            "index": 335,
+            "start": 931.364,
+            "end": 933.6,
+            "text": "Okay. One, that has\nnever been proven."
+          },
+          {
+            "index": 336,
+            "start": 933.634,
+            "end": 938.071,
+            "text": "Two, if anyone were to have\ngay dreams about one of us,\nit would be me."
+          },
+          {
+            "index": 337,
+            "start": 938.104,
+            "end": 941.107,
+            "text": "I mean, look at me.\nNow look at you."
+          },
+          {
+            "index": 338,
+            "start": 941.141,
+            "end": 945.679,
+            "text": "A still‐in‐the‐closet\n80‐year‐old wouldn't be\ninto that mess."
+          },
+          {
+            "index": 339,
+            "start": 945.712,
+            "end": 949.415,
+            "text": "Here's the thing, Barney.\nI'm snuggly. You're not."
+          },
+          {
+            "index": 340,
+            "start": 949.449,
+            "end": 953.019,
+            "text": "Who wouldn't want to\nsnuggle up next to this\nbusiness on a Sunday morning?"
+          },
+          {
+            "index": 341,
+            "start": 953.053,
+            "end": 955.589,
+            "text": "Wrapped in a comforter,\nand it's raining outside,"
+          },
+          {
+            "index": 342,
+            "start": 955.622,
+            "end": 957.19,
+            "text": "and there's muffins\nwarming in the oven."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 925.7892241210938,
+        "topCueIndex": -1,
+        "bottomCueIndex": 332
+      }
     }
   ]
 }
