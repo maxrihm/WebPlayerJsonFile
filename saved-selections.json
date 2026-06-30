@@ -60049,6 +60049,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 294
       }
+    },
+    {
+      "id": "e039f326-e650-4a66-aa6a-346d2f2300ae",
+      "createdAt": "2026-06-30T20:25:23.857Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "lounging",
+      "selection": {
+        "rawText": "lounging",
+        "startOffset": 3,
+        "endOffset": 11,
+        "cueIndex": 295,
+        "cueStart": 820.22,
+        "cueEnd": 824.157,
+        "cueText": "Or lounging in her old\ncheerleader uniform, reading\narchitecture magazines?"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 285,
+            "start": 789.89,
+            "end": 792.859,
+            "text": "but I think I might actually\nbe falling for this girl."
+          },
+          {
+            "index": 286,
+            "start": 792.893,
+            "end": 794.595,
+            "text": "You're falling\nfor Barney and Marshall."
+          },
+          {
+            "index": 287,
+            "start": 794.628,
+            "end": 796.997,
+            "text": "What?"
+          },
+          {
+            "index": 288,
+            "start": 797.03,
+            "end": 799.032,
+            "text": "They didn't believe\nthat you could\nwait the three days,"
+          },
+          {
+            "index": 289,
+            "start": 799.065,
+            "end": 801.968,
+            "text": "so Barney changed her number\nin your phone\nto his work cell."
+          },
+          {
+            "index": 290,
+            "start": 802.002,
+            "end": 804.137,
+            "text": "Holli is Barney\nand Marshall."
+          },
+          {
+            "index": 291,
+            "start": 804.17,
+            "end": 807.473,
+            "text": "Wait, that whole time,\nit was them?"
+          },
+          {
+            "index": 292,
+            "start": 807.508,
+            "end": 809.309,
+            "text": "TED: So Holli\nwasn't in the bath?"
+          },
+          {
+            "index": 293,
+            "start": 809.976,
+            "end": 812.813,
+            "text": "(LAUGHING)"
+          },
+          {
+            "index": 294,
+            "start": 812.846,
+            "end": 816.049,
+            "text": "Or sitting by her window,\nlooking up at the stars,\nthinking about me?"
+          },
+          {
+            "index": 295,
+            "start": 820.22,
+            "end": 824.157,
+            "text": "Or lounging in her old\ncheerleader uniform, reading\narchitecture magazines?"
+          },
+          {
+            "index": 296,
+            "start": 827.928,
+            "end": 830.564,
+            "text": "Yeah. I don't think\nthey actually\ndid those things."
+          },
+          {
+            "index": 297,
+            "start": 830.597,
+            "end": 832.465,
+            "text": "They were just at the bar."
+          },
+          {
+            "index": 298,
+            "start": 832.498,
+            "end": 833.534,
+            "text": "Right."
+          },
+          {
+            "index": 299,
+            "start": 833.567,
+            "end": 834.901,
+            "text": "But, yeah, it was them."
+          },
+          {
+            "index": 300,
+            "start": 836.269,
+            "end": 837.303,
+            "text": "Unbelievable!"
+          },
+          {
+            "index": 301,
+            "start": 837.337,
+            "end": 839.172,
+            "text": "I know."
+          },
+          {
+            "index": 302,
+            "start": 839.205,
+            "end": 840.306,
+            "text": "So you might as well\ntell them you're on to them."
+          },
+          {
+            "index": 303,
+            "start": 840.34,
+            "end": 841.542,
+            "text": "Yeah."
+          },
+          {
+            "index": 304,
+            "start": 842.408,
+            "end": 844.711,
+            "text": "Or..."
+          },
+          {
+            "index": 305,
+            "start": 844.745,
+            "end": 847.914,
+            "text": "I text them something\nthat'll really mess\nwith their heads."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 822.4608530273438,
+        "topCueIndex": -1,
+        "bottomCueIndex": 295
+      }
     }
   ]
 }
