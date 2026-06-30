@@ -62025,6 +62025,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 343
       }
+    },
+    {
+      "id": "6708e499-adeb-444a-9561-c621ad6fcda9",
+      "createdAt": "2026-06-30T20:41:59.145Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "rock his world.",
+      "selection": {
+        "rawText": "rock his world.",
+        "startOffset": 16,
+        "endOffset": 31,
+        "cueIndex": 346,
+        "cueStart": 966.032,
+        "cueEnd": 967.834,
+        "cueText": "This body would\nrock his world."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 336,
+            "start": 933.634,
+            "end": 938.071,
+            "text": "Two, if anyone were to have\ngay dreams about one of us,\nit would be me."
+          },
+          {
+            "index": 337,
+            "start": 938.104,
+            "end": 941.107,
+            "text": "I mean, look at me.\nNow look at you."
+          },
+          {
+            "index": 338,
+            "start": 941.141,
+            "end": 945.679,
+            "text": "A still‐in‐the‐closet\n80‐year‐old wouldn't be\ninto that mess."
+          },
+          {
+            "index": 339,
+            "start": 945.712,
+            "end": 949.415,
+            "text": "Here's the thing, Barney.\nI'm snuggly. You're not."
+          },
+          {
+            "index": 340,
+            "start": 949.449,
+            "end": 953.019,
+            "text": "Who wouldn't want to\nsnuggle up next to this\nbusiness on a Sunday morning?"
+          },
+          {
+            "index": 341,
+            "start": 953.053,
+            "end": 955.589,
+            "text": "Wrapped in a comforter,\nand it's raining outside,"
+          },
+          {
+            "index": 342,
+            "start": 955.622,
+            "end": 957.19,
+            "text": "and there's muffins\nwarming in the oven."
+          },
+          {
+            "index": 343,
+            "start": 957.223,
+            "end": 960.026,
+            "text": "I'm cuddly, bitch.\nDeal with it."
+          },
+          {
+            "index": 344,
+            "start": 960.06,
+            "end": 962.428,
+            "text": "I work out every day."
+          },
+          {
+            "index": 345,
+            "start": 962.462,
+            "end": 965.999,
+            "text": "If there is one thing\nwe know about Ted, it's that\nhe likes a nice body."
+          },
+          {
+            "index": 346,
+            "start": 966.032,
+            "end": 967.834,
+            "text": "This body would\nrock his world."
+          },
+          {
+            "index": 347,
+            "start": 967.868,
+            "end": 970.671,
+            "text": "Ted and I have a history.\nI know what he likes."
+          },
+          {
+            "index": 348,
+            "start": 970.704,
+            "end": 974.24,
+            "text": "There are things\nI could do to him\nthat would blow his mind..."
+          },
+          {
+            "index": 349,
+            "start": 977.21,
+            "end": 978.779,
+            "text": "Why do we keep trying\nto have sex with Ted?"
+          },
+          {
+            "index": 350,
+            "start": 978.812,
+            "end": 981.214,
+            "text": "I don't know.\nIt's weird."
+          },
+          {
+            "index": 351,
+            "start": 981.247,
+            "end": 985.185,
+            "text": "Crazy, right?\nTed's having gay dreams\nabout me?"
+          },
+          {
+            "index": 352,
+            "start": 985.218,
+            "end": 989.155,
+            "text": "And by me, he means M‐E,\nMarshall Eriksen,"
+          },
+          {
+            "index": 353,
+            "start": 989.189,
+            "end": 991.992,
+            "text": "star of Ted's gay dreams."
+          },
+          {
+            "index": 354,
+            "start": 992.025,
+            "end": 995.395,
+            "text": "Who cares?\nSo Ted has gay dreams\nabout one of you guys."
+          },
+          {
+            "index": 355,
+            "start": 995.428,
+            "end": 998.732,
+            "text": "It's not like you found out\nhe has three months to live."
+          },
+          {
+            "index": 356,
+            "start": 998.765,
+            "end": 1002.302,
+            "text": "That's, like,\nshocking, right?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 968.0804008789063,
+        "topCueIndex": -1,
+        "bottomCueIndex": 346
+      }
     }
   ]
 }
