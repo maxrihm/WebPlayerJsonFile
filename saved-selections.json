@@ -58529,6 +58529,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 489
       }
+    },
+    {
+      "id": "ef9eb23f-9a6d-4de1-b499-556cf2379dd3",
+      "createdAt": "2026-06-30T19:35:02.697Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "come together,",
+      "selection": {
+        "rawText": "come together,",
+        "startOffset": 28,
+        "endOffset": 42,
+        "cueIndex": 236,
+        "cueStart": 654.02,
+        "cueEnd": 657.39,
+        "cueText": "HOLLI: \"And when we finally\ncome together,\nI want you to hold me.\""
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 226,
+            "start": 625.325,
+            "end": 628.461,
+            "text": "and only hope remains\nin the promise\nof his embrace."
+          },
+          {
+            "index": 227,
+            "start": 631.131,
+            "end": 634.334,
+            "text": "Wow. Go, Stan!\nWho is this guy?"
+          },
+          {
+            "index": 228,
+            "start": 634.367,
+            "end": 635.702,
+            "text": "He's a security guard\nwho works nights."
+          },
+          {
+            "index": 229,
+            "start": 635.736,
+            "end": 637.437,
+            "text": "And he eats lunch\nat MacLaren's every day."
+          },
+          {
+            "index": 230,
+            "start": 637.47,
+            "end": 638.505,
+            "text": "And he wasn't done."
+          },
+          {
+            "index": 231,
+            "start": 638.539,
+            "end": 640.641,
+            "text": "Not by a long shot."
+          },
+          {
+            "index": 232,
+            "start": 640.674,
+            "end": 643.309,
+            "text": "You make me thank God\nfor every mistake I ever made"
+          },
+          {
+            "index": 233,
+            "start": 643.343,
+            "end": 647.881,
+            "text": "because each one\nled me down the path\nthat brought me to you."
+          },
+          {
+            "index": 234,
+            "start": 647.914,
+            "end": 650.551,
+            "text": "That's, like,\nreally nice, man."
+          },
+          {
+            "index": 235,
+            "start": 650.584,
+            "end": 653.987,
+            "text": "(VOICE BREAKING)\nWhatever. It's okay."
+          },
+          {
+            "index": 236,
+            "start": 654.02,
+            "end": 657.39,
+            "text": "HOLLI: \"And when we finally\ncome together,\nI want you to hold me.\""
+          },
+          {
+            "index": 237,
+            "start": 657.423,
+            "end": 660.861,
+            "text": "Hold me all night.\nStroke my hair."
+          },
+          {
+            "index": 238,
+            "start": 660.894,
+            "end": 663.864,
+            "text": "Tell me I'm a woman\nand show me you're a man."
+          },
+          {
+            "index": 239,
+            "start": 663.897,
+            "end": 665.966,
+            "text": "Until there was only now."
+          },
+          {
+            "index": 240,
+            "start": 665.999,
+            "end": 669.736,
+            "text": "You and I and now."
+          },
+          {
+            "index": 241,
+            "start": 670.37,
+            "end": 673.574,
+            "text": "Yes!"
+          },
+          {
+            "index": 242,
+            "start": 673.607,
+            "end": 676.543,
+            "text": "You want me to\ntext that to Ted.\nI know that."
+          },
+          {
+            "index": 243,
+            "start": 679.045,
+            "end": 681.381,
+            "text": "HOLLI: \"I do not ask\nof the night explanations"
+          },
+          {
+            "index": 244,
+            "start": 681.414,
+            "end": 684.685,
+            "text": "\"I wait for it\nand it envelops me"
+          },
+          {
+            "index": 245,
+            "start": 684.718,
+            "end": 689.89,
+            "text": "\"And so you\nand bread and light\nAnd shadow are\""
+          },
+          {
+            "index": 246,
+            "start": 690.791,
+            "end": 693.326,
+            "text": "That's Pablo Neruda."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 660.4162719726562,
+        "topCueIndex": -1,
+        "bottomCueIndex": 236
+      }
     }
   ]
 }
