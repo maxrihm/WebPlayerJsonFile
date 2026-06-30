@@ -59593,6 +59593,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 278
       }
+    },
+    {
+      "id": "28acb6ed-a7c3-4589-b685-238c8ae7909b",
+      "createdAt": "2026-06-30T19:48:26.279Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "sprained",
+      "selection": {
+        "rawText": "sprained",
+        "startOffset": 7,
+        "endOffset": 15,
+        "cueIndex": 282,
+        "cueStart": 781.815,
+        "cueEnd": 784.751,
+        "cueText": "No one sprained\nany muscles there."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 272,
+            "start": 754.921,
+            "end": 758.959,
+            "text": "You're going to call him\nright now, tell him\nwhat you did, and apologize."
+          },
+          {
+            "index": 273,
+            "start": 758.992,
+            "end": 760.527,
+            "text": "You got it?\nYes."
+          },
+          {
+            "index": 274,
+            "start": 764.364,
+            "end": 766.6,
+            "text": "Or..."
+          },
+          {
+            "index": 275,
+            "start": 766.633,
+            "end": 769.469,
+            "text": "Holli explained everything.\nIt was all just\na misunderstanding."
+          },
+          {
+            "index": 276,
+            "start": 769.503,
+            "end": 770.504,
+            "text": "Everything's great now."
+          },
+          {
+            "index": 277,
+            "start": 770.537,
+            "end": 772.305,
+            "text": "Really?"
+          },
+          {
+            "index": 278,
+            "start": 772.338,
+            "end": 774.741,
+            "text": "How did Holli explain her way\nout of that one?"
+          },
+          {
+            "index": 279,
+            "start": 774.775,
+            "end": 778.444,
+            "text": "Well, apparently,\nher dumb friend Marsha\naccidentally used her phone"
+          },
+          {
+            "index": 280,
+            "start": 778.478,
+            "end": 779.746,
+            "text": "to text her husband, Billy."
+          },
+          {
+            "index": 281,
+            "start": 779.78,
+            "end": 781.782,
+            "text": "Marsha and Billy."
+          },
+          {
+            "index": 282,
+            "start": 781.815,
+            "end": 784.751,
+            "text": "No one sprained\nany muscles there."
+          },
+          {
+            "index": 283,
+            "start": 784.785,
+            "end": 787.353,
+            "text": "And now we are\nbetter than ever."
+          },
+          {
+            "index": 284,
+            "start": 787.387,
+            "end": 789.856,
+            "text": "Look, I know\nthis sounds crazy,"
+          },
+          {
+            "index": 285,
+            "start": 789.89,
+            "end": 792.859,
+            "text": "but I think I might actually\nbe falling for this girl."
+          },
+          {
+            "index": 286,
+            "start": 792.893,
+            "end": 794.595,
+            "text": "You're falling\nfor Barney and Marshall."
+          },
+          {
+            "index": 287,
+            "start": 794.628,
+            "end": 796.997,
+            "text": "What?"
+          },
+          {
+            "index": 288,
+            "start": 797.03,
+            "end": 799.032,
+            "text": "They didn't believe\nthat you could\nwait the three days,"
+          },
+          {
+            "index": 289,
+            "start": 799.065,
+            "end": 801.968,
+            "text": "so Barney changed her number\nin your phone\nto his work cell."
+          },
+          {
+            "index": 290,
+            "start": 802.002,
+            "end": 804.137,
+            "text": "Holli is Barney\nand Marshall."
+          },
+          {
+            "index": 291,
+            "start": 804.17,
+            "end": 807.473,
+            "text": "Wait, that whole time,\nit was them?"
+          },
+          {
+            "index": 292,
+            "start": 807.508,
+            "end": 809.309,
+            "text": "TED: So Holli\nwasn't in the bath?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 783.5135061035156,
+        "topCueIndex": -1,
+        "bottomCueIndex": 282
+      }
     }
   ]
 }
