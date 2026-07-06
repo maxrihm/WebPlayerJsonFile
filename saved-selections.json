@@ -64001,6 +64001,134 @@
         "topCueIndex": -1,
         "bottomCueIndex": 433
       }
+    },
+    {
+      "id": "943e2480-cfb3-4e7f-8c18-b78dad4894de",
+      "createdAt": "2026-07-06T22:21:30.988Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "afternoon",
+      "selection": {
+        "rawText": "afternoon",
+        "startOffset": 33,
+        "endOffset": 42,
+        "cueIndex": 448,
+        "cueStart": 1252.118,
+        "cueEnd": 1254.32,
+        "cueText": "I mean, we shared\na very special\nafternoon together,"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 438,
+            "start": 1230.631,
+            "end": 1232.032,
+            "text": "Took the night off."
+          },
+          {
+            "index": 439,
+            "start": 1232.065,
+            "end": 1232.866,
+            "text": "That's great!\nWe can all hang out!"
+          },
+          {
+            "index": 440,
+            "start": 1232.899,
+            "end": 1233.9,
+            "text": "Yeah!"
+          },
+          {
+            "index": 441,
+            "start": 1233.934,
+            "end": 1235.902,
+            "text": "I can't. Got a date."
+          },
+          {
+            "index": 442,
+            "start": 1235.936,
+            "end": 1237.704,
+            "text": "You ready, baby?\nYep."
+          },
+          {
+            "index": 443,
+            "start": 1237.738,
+            "end": 1239.873,
+            "text": "What the..."
+          },
+          {
+            "index": 444,
+            "start": 1239.906,
+            "end": 1242.709,
+            "text": "Wait, wait. Couldn't\nyou guys just stay here\nand do your date with us?"
+          },
+          {
+            "index": 445,
+            "start": 1242.743,
+            "end": 1244.978,
+            "text": "Yeah, it'll be fun!"
+          },
+          {
+            "index": 446,
+            "start": 1245.011,
+            "end": 1248.615,
+            "text": "Look, I'm laughing!\nIt's fun here!\nYou like magic?"
+          },
+          {
+            "index": 447,
+            "start": 1248.649,
+            "end": 1252.085,
+            "text": "Fellas, it's time\nwe said goodbye."
+          },
+          {
+            "index": 448,
+            "start": 1252.118,
+            "end": 1254.32,
+            "text": "I mean, we shared\na very special\nafternoon together,"
+          },
+          {
+            "index": 449,
+            "start": 1254.354,
+            "end": 1259.459,
+            "text": "and that's something\nI will always cherish.\nI'll never forget you guys."
+          },
+          {
+            "index": 450,
+            "start": 1259.492,
+            "end": 1260.627,
+            "text": "Do you even know\ntheir names?"
+          },
+          {
+            "index": 451,
+            "start": 1260.661,
+            "end": 1262.395,
+            "text": "No idea.\nIs the tall one Ted?"
+          },
+          {
+            "index": 452,
+            "start": 1262.428,
+            "end": 1264.13,
+            "text": "ROBIN: No.\nThat's Marshall.\nHe's married to Lily."
+          },
+          {
+            "index": 453,
+            "start": 1264.164,
+            "end": 1265.231,
+            "text": "STAN:\nYou like chicken wings?"
+          },
+          {
+            "index": 454,
+            "start": 1265.265,
+            "end": 1266.099,
+            "text": "Oh, yeah!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1256.3763569335938,
+        "topCueIndex": -1,
+        "bottomCueIndex": 448
+      }
     }
   ]
 }
