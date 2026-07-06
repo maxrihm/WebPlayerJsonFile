@@ -62937,6 +62937,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 379
       }
+    },
+    {
+      "id": "708c4f13-d3f2-4f57-add1-7f5b634ac960",
+      "createdAt": "2026-07-06T22:05:10.875Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "get with?",
+      "selection": {
+        "rawText": "get with?",
+        "startOffset": 0,
+        "endOffset": 9,
+        "cueIndex": 386,
+        "cueStart": 1081.515,
+        "cueEnd": 1082.849,
+        "cueText": "get with?"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 376,
+            "start": 1051.484,
+            "end": 1053.186,
+            "text": "So, that's it?"
+          },
+          {
+            "index": 377,
+            "start": 1053.219,
+            "end": 1057.991,
+            "text": "No other dreams?\nNothing confusing or erotic?"
+          },
+          {
+            "index": 378,
+            "start": 1058.825,
+            "end": 1061.461,
+            "text": "No."
+          },
+          {
+            "index": 379,
+            "start": 1061.494,
+            "end": 1063.964,
+            "text": "Okay, how about this?\nTed, you know how,\nat some point in the future,"
+          },
+          {
+            "index": 380,
+            "start": 1063.997,
+            "end": 1066.199,
+            "text": "machines will\nrise up against us?\nSure."
+          },
+          {
+            "index": 381,
+            "start": 1066.232,
+            "end": 1069.736,
+            "text": "Okay. So the machines,\nthey've killed everybody,"
+          },
+          {
+            "index": 382,
+            "start": 1069.77,
+            "end": 1071.938,
+            "text": "and all that's left\nis you,"
+          },
+          {
+            "index": 383,
+            "start": 1073.339,
+            "end": 1074.14,
+            "text": "me,"
+          },
+          {
+            "index": 384,
+            "start": 1075.008,
+            "end": 1077.31,
+            "text": "and Barney."
+          },
+          {
+            "index": 385,
+            "start": 1077.343,
+            "end": 1079.279,
+            "text": "Which one of us\nwould you, like,"
+          },
+          {
+            "index": 386,
+            "start": 1081.515,
+            "end": 1082.849,
+            "text": "get with?"
+          },
+          {
+            "index": 387,
+            "start": 1085.085,
+            "end": 1089.222,
+            "text": "(CLEARING THROAT)\nAnd why do I have to\n\"get with\" one of you?"
+          },
+          {
+            "index": 388,
+            "start": 1089.255,
+            "end": 1090.657,
+            "text": "The machines\nare forcing you."
+          },
+          {
+            "index": 389,
+            "start": 1090.691,
+            "end": 1094.46,
+            "text": "They want to watch.\nThat's just\nhow they get down."
+          },
+          {
+            "index": 390,
+            "start": 1094.494,
+            "end": 1098.932,
+            "text": "That's a tough one.\nI guess it would\nhave to be..."
+          },
+          {
+            "index": 391,
+            "start": 1101.935,
+            "end": 1102.936,
+            "text": "Holli."
+          },
+          {
+            "index": 392,
+            "start": 1104.437,
+            "end": 1105.972,
+            "text": "Robin told me\nwhat you guys did."
+          },
+          {
+            "index": 393,
+            "start": 1106.006,
+            "end": 1107.774,
+            "text": "That's why I made up\nthe gay dreams thing."
+          },
+          {
+            "index": 394,
+            "start": 1107.808,
+            "end": 1109.309,
+            "text": "Guys, this is Holli."
+          },
+          {
+            "index": 395,
+            "start": 1109.342,
+            "end": 1110.944,
+            "text": "Hi."
+          },
+          {
+            "index": 396,
+            "start": 1110.977,
+            "end": 1113.246,
+            "text": "And I didn't wait\nyour precious\nthree days to call her."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1083.0240190429688,
+        "topCueIndex": -1,
+        "bottomCueIndex": 386
+      }
     }
   ]
 }
