@@ -63241,6 +63241,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 389
       }
+    },
+    {
+      "id": "d4658e36-c990-4b1e-957f-c26c05dc7f2b",
+      "createdAt": "2026-07-06T22:07:03.590Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "made up",
+      "selection": {
+        "rawText": "made up",
+        "startOffset": 13,
+        "endOffset": 20,
+        "cueIndex": 393,
+        "cueStart": 1106.006,
+        "cueEnd": 1107.774,
+        "cueText": "That's why I made up\nthe gay dreams thing."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 383,
+            "start": 1073.339,
+            "end": 1074.14,
+            "text": "me,"
+          },
+          {
+            "index": 384,
+            "start": 1075.008,
+            "end": 1077.31,
+            "text": "and Barney."
+          },
+          {
+            "index": 385,
+            "start": 1077.343,
+            "end": 1079.279,
+            "text": "Which one of us\nwould you, like,"
+          },
+          {
+            "index": 386,
+            "start": 1081.515,
+            "end": 1082.849,
+            "text": "get with?"
+          },
+          {
+            "index": 387,
+            "start": 1085.085,
+            "end": 1089.222,
+            "text": "(CLEARING THROAT)\nAnd why do I have to\n\"get with\" one of you?"
+          },
+          {
+            "index": 388,
+            "start": 1089.255,
+            "end": 1090.657,
+            "text": "The machines\nare forcing you."
+          },
+          {
+            "index": 389,
+            "start": 1090.691,
+            "end": 1094.46,
+            "text": "They want to watch.\nThat's just\nhow they get down."
+          },
+          {
+            "index": 390,
+            "start": 1094.494,
+            "end": 1098.932,
+            "text": "That's a tough one.\nI guess it would\nhave to be..."
+          },
+          {
+            "index": 391,
+            "start": 1101.935,
+            "end": 1102.936,
+            "text": "Holli."
+          },
+          {
+            "index": 392,
+            "start": 1104.437,
+            "end": 1105.972,
+            "text": "Robin told me\nwhat you guys did."
+          },
+          {
+            "index": 393,
+            "start": 1106.006,
+            "end": 1107.774,
+            "text": "That's why I made up\nthe gay dreams thing."
+          },
+          {
+            "index": 394,
+            "start": 1107.808,
+            "end": 1109.309,
+            "text": "Guys, this is Holli."
+          },
+          {
+            "index": 395,
+            "start": 1109.342,
+            "end": 1110.944,
+            "text": "Hi."
+          },
+          {
+            "index": 396,
+            "start": 1110.977,
+            "end": 1113.246,
+            "text": "And I didn't wait\nyour precious\nthree days to call her."
+          },
+          {
+            "index": 397,
+            "start": 1113.279,
+            "end": 1115.749,
+            "text": "I knew where she worked,\nso I tracked her down."
+          },
+          {
+            "index": 398,
+            "start": 1115.782,
+            "end": 1117.618,
+            "text": "Let me ask you.\nDid I call you too soon?"
+          },
+          {
+            "index": 399,
+            "start": 1117.651,
+            "end": 1119.853,
+            "text": "I love that\nhe called me\nright away."
+          },
+          {
+            "index": 400,
+            "start": 1119.886,
+            "end": 1122.422,
+            "text": "I found it\nvery romantic."
+          },
+          {
+            "index": 401,
+            "start": 1122.455,
+            "end": 1124.124,
+            "text": "And by the way,\nI don't sit around\nmy apartment"
+          },
+          {
+            "index": 402,
+            "start": 1124.157,
+            "end": 1127.861,
+            "text": "reading architecture magazines\nin my old cheerleader uniform."
+          },
+          {
+            "index": 403,
+            "start": 1127.894,
+            "end": 1129.796,
+            "text": "I do that\ncompletely naked."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1106.9777470703125,
+        "topCueIndex": -1,
+        "bottomCueIndex": 393
+      }
     }
   ]
 }
