@@ -63849,6 +63849,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 405
       }
+    },
+    {
+      "id": "5d26b4e0-522b-40ce-8fd7-1a44160dddb8",
+      "createdAt": "2026-07-06T22:17:34.418Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "there are times to",
+      "selection": {
+        "rawText": "there are times\nto",
+        "startOffset": 21,
+        "endOffset": 39,
+        "cueIndex": 433,
+        "cueStart": 1212.946,
+        "cueEnd": 1215.582,
+        "cueText": "Like a lot of rules,\nthere are times\nto follow them"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 423,
+            "start": 1192.192,
+            "end": 1193.326,
+            "text": "Ha, ha."
+          },
+          {
+            "index": 424,
+            "start": 1193.359,
+            "end": 1194.895,
+            "text": "Just kidding."
+          },
+          {
+            "index": 425,
+            "start": 1194.928,
+            "end": 1196.062,
+            "text": "Or am I?"
+          },
+          {
+            "index": 426,
+            "start": 1196.963,
+            "end": 1198.732,
+            "text": "Just kidding again!"
+          },
+          {
+            "index": 427,
+            "start": 1198.765,
+            "end": 1201.234,
+            "text": "That's it.\nWe're totally\ngoing to Brazil together!"
+          },
+          {
+            "index": 428,
+            "start": 1201.267,
+            "end": 1203.604,
+            "text": "And I went to my doctor\nthis morning, and he said\nit is all cleared up,"
+          },
+          {
+            "index": 429,
+            "start": 1203.637,
+            "end": 1205.438,
+            "text": "so I'm good to go."
+          },
+          {
+            "index": 430,
+            "start": 1205.471,
+            "end": 1207.841,
+            "text": "I think I'm in love\nwith you, Ted."
+          },
+          {
+            "index": 431,
+            "start": 1207.874,
+            "end": 1209.876,
+            "text": "OLDER TED: In the end,\nI didn't need\nto wait three days,"
+          },
+          {
+            "index": 432,
+            "start": 1209.91,
+            "end": 1212.913,
+            "text": "but Holli\nreally, really did."
+          },
+          {
+            "index": 433,
+            "start": 1212.946,
+            "end": 1215.582,
+            "text": "Like a lot of rules,\nthere are times\nto follow them"
+          },
+          {
+            "index": 434,
+            "start": 1215.616,
+            "end": 1218.885,
+            "text": "and times to not.\nBut I will tell you this."
+          },
+          {
+            "index": 435,
+            "start": 1218.919,
+            "end": 1222.222,
+            "text": "When I got\nyour mother's number,\nI called her right away."
+          },
+          {
+            "index": 436,
+            "start": 1226.993,
+            "end": 1229.596,
+            "text": "Stan!\nHey, fellas."
+          },
+          {
+            "index": 437,
+            "start": 1229.63,
+            "end": 1230.597,
+            "text": "Stan, aren't you\nworking?"
+          },
+          {
+            "index": 438,
+            "start": 1230.631,
+            "end": 1232.032,
+            "text": "Took the night off."
+          },
+          {
+            "index": 439,
+            "start": 1232.065,
+            "end": 1232.866,
+            "text": "That's great!\nWe can all hang out!"
+          },
+          {
+            "index": 440,
+            "start": 1232.899,
+            "end": 1233.9,
+            "text": "Yeah!"
+          },
+          {
+            "index": 441,
+            "start": 1233.934,
+            "end": 1235.902,
+            "text": "I can't. Got a date."
+          },
+          {
+            "index": 442,
+            "start": 1235.936,
+            "end": 1237.704,
+            "text": "You ready, baby?\nYep."
+          },
+          {
+            "index": 443,
+            "start": 1237.738,
+            "end": 1239.873,
+            "text": "What the..."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1222.2300688476562,
+        "topCueIndex": -1,
+        "bottomCueIndex": 433
+      }
     }
   ]
 }
