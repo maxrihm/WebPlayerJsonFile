@@ -62633,6 +62633,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 371
       }
+    },
+    {
+      "id": "fe3d9f50-84d8-456f-ba9c-df6e8ca687eb",
+      "createdAt": "2026-07-06T22:02:32.107Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "spit take.",
+      "selection": {
+        "rawText": "spit take.",
+        "startOffset": 32,
+        "endOffset": 42,
+        "cueIndex": 374,
+        "cueStart": 1043.61,
+        "cueEnd": 1045.946,
+        "cueText": "Buckminster Fuller\nalmost did a spit take."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 364,
+            "start": 1020.386,
+            "end": 1022.355,
+            "text": "Okay.\nHere's what happened."
+          },
+          {
+            "index": 365,
+            "start": 1023.69,
+            "end": 1024.891,
+            "text": "So I'm at the..."
+          },
+          {
+            "index": 366,
+            "start": 1024.925,
+            "end": 1026.827,
+            "text": "OLDER TED:\nAnd then I proceeded"
+          },
+          {
+            "index": 367,
+            "start": 1026.86,
+            "end": 1028.161,
+            "text": "to waste a half hour\nof those bastards' lives,"
+          },
+          {
+            "index": 368,
+            "start": 1028.194,
+            "end": 1030.43,
+            "text": "telling them about\nthis dream I had"
+          },
+          {
+            "index": 369,
+            "start": 1030.463,
+            "end": 1033.199,
+            "text": "where I ate dinner with my\ntop five favorite architects\nthroughout history."
+          },
+          {
+            "index": 370,
+            "start": 1033.233,
+            "end": 1035.268,
+            "text": "And then, at the end\nof the meal,"
+          },
+          {
+            "index": 371,
+            "start": 1035.301,
+            "end": 1038.772,
+            "text": "Frank Gehry slides the check\nover to I. M. Pei, and he says,"
+          },
+          {
+            "index": 372,
+            "start": 1038.805,
+            "end": 1042.175,
+            "text": "\"Buddy, tonight,\nyour name\nis I. M. Paying.\""
+          },
+          {
+            "index": 373,
+            "start": 1042.208,
+            "end": 1043.577,
+            "text": "(GUFFAWING)"
+          },
+          {
+            "index": 374,
+            "start": 1043.61,
+            "end": 1045.946,
+            "text": "Buckminster Fuller\nalmost did a spit take."
+          },
+          {
+            "index": 375,
+            "start": 1048.148,
+            "end": 1049.816,
+            "text": "And then I woke up."
+          },
+          {
+            "index": 376,
+            "start": 1051.484,
+            "end": 1053.186,
+            "text": "So, that's it?"
+          },
+          {
+            "index": 377,
+            "start": 1053.219,
+            "end": 1057.991,
+            "text": "No other dreams?\nNothing confusing or erotic?"
+          },
+          {
+            "index": 378,
+            "start": 1058.825,
+            "end": 1061.461,
+            "text": "No."
+          },
+          {
+            "index": 379,
+            "start": 1061.494,
+            "end": 1063.964,
+            "text": "Okay, how about this?\nTed, you know how,\nat some point in the future,"
+          },
+          {
+            "index": 380,
+            "start": 1063.997,
+            "end": 1066.199,
+            "text": "machines will\nrise up against us?\nSure."
+          },
+          {
+            "index": 381,
+            "start": 1066.232,
+            "end": 1069.736,
+            "text": "Okay. So the machines,\nthey've killed everybody,"
+          },
+          {
+            "index": 382,
+            "start": 1069.77,
+            "end": 1071.938,
+            "text": "and all that's left\nis you,"
+          },
+          {
+            "index": 383,
+            "start": 1073.339,
+            "end": 1074.14,
+            "text": "me,"
+          },
+          {
+            "index": 384,
+            "start": 1075.008,
+            "end": 1077.31,
+            "text": "and Barney."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1046.7103669433593,
+        "topCueIndex": -1,
+        "bottomCueIndex": 374
+      }
     }
   ]
 }
