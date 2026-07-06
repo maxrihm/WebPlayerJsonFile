@@ -63545,6 +63545,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 397
       }
+    },
+    {
+      "id": "913d6453-2fc6-491c-a8fd-c45550676574",
+      "createdAt": "2026-07-06T22:08:20.797Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "sit around",
+      "selection": {
+        "rawText": "sit around",
+        "startOffset": 24,
+        "endOffset": 34,
+        "cueIndex": 401,
+        "cueStart": 1122.455,
+        "cueEnd": 1124.124,
+        "cueText": "And by the way,\nI don't sit around\nmy apartment"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 391,
+            "start": 1101.935,
+            "end": 1102.936,
+            "text": "Holli."
+          },
+          {
+            "index": 392,
+            "start": 1104.437,
+            "end": 1105.972,
+            "text": "Robin told me\nwhat you guys did."
+          },
+          {
+            "index": 393,
+            "start": 1106.006,
+            "end": 1107.774,
+            "text": "That's why I made up\nthe gay dreams thing."
+          },
+          {
+            "index": 394,
+            "start": 1107.808,
+            "end": 1109.309,
+            "text": "Guys, this is Holli."
+          },
+          {
+            "index": 395,
+            "start": 1109.342,
+            "end": 1110.944,
+            "text": "Hi."
+          },
+          {
+            "index": 396,
+            "start": 1110.977,
+            "end": 1113.246,
+            "text": "And I didn't wait\nyour precious\nthree days to call her."
+          },
+          {
+            "index": 397,
+            "start": 1113.279,
+            "end": 1115.749,
+            "text": "I knew where she worked,\nso I tracked her down."
+          },
+          {
+            "index": 398,
+            "start": 1115.782,
+            "end": 1117.618,
+            "text": "Let me ask you.\nDid I call you too soon?"
+          },
+          {
+            "index": 399,
+            "start": 1117.651,
+            "end": 1119.853,
+            "text": "I love that\nhe called me\nright away."
+          },
+          {
+            "index": 400,
+            "start": 1119.886,
+            "end": 1122.422,
+            "text": "I found it\nvery romantic."
+          },
+          {
+            "index": 401,
+            "start": 1122.455,
+            "end": 1124.124,
+            "text": "And by the way,\nI don't sit around\nmy apartment"
+          },
+          {
+            "index": 402,
+            "start": 1124.157,
+            "end": 1127.861,
+            "text": "reading architecture magazines\nin my old cheerleader uniform."
+          },
+          {
+            "index": 403,
+            "start": 1127.894,
+            "end": 1129.796,
+            "text": "I do that\ncompletely naked."
+          },
+          {
+            "index": 404,
+            "start": 1131.131,
+            "end": 1132.699,
+            "text": "(SNICKERING)"
+          },
+          {
+            "index": 405,
+            "start": 1134.735,
+            "end": 1137.27,
+            "text": "So Holli and I\nare going out to dinner."
+          },
+          {
+            "index": 406,
+            "start": 1137.303,
+            "end": 1138.739,
+            "text": "I'll meet you out front.\nOkay."
+          },
+          {
+            "index": 407,
+            "start": 1141.007,
+            "end": 1143.677,
+            "text": "I'm sorry, buddy.\nWe were just\ntrying to help you."
+          },
+          {
+            "index": 408,
+            "start": 1143.71,
+            "end": 1146.079,
+            "text": "And, also, it was really fun."
+          },
+          {
+            "index": 409,
+            "start": 1148.815,
+            "end": 1152.553,
+            "text": "I don't need your help, okay?\nI can take care of myself."
+          },
+          {
+            "index": 410,
+            "start": 1152.586,
+            "end": 1154.988,
+            "text": "And, yeah, maybe\nthere are some girls"
+          },
+          {
+            "index": 411,
+            "start": 1155.021,
+            "end": 1156.99,
+            "text": "who wouldn't like it\nthat I called them\nright away"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1127.0159631347656,
+        "topCueIndex": -1,
+        "bottomCueIndex": 401
+      }
     }
   ]
 }
