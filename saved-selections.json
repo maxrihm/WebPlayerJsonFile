@@ -62785,6 +62785,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 374
       }
+    },
+    {
+      "id": "34f8fc52-d9b9-4c0f-bd77-62c95baeb207",
+      "createdAt": "2026-07-06T22:03:36.293Z",
+      "videoName": "How I Met Your Mother",
+      "audioTrackName": "",
+      "selectedText": "at some point",
+      "selection": {
+        "rawText": "at some point",
+        "startOffset": 41,
+        "endOffset": 54,
+        "cueIndex": 379,
+        "cueStart": 1061.494,
+        "cueEnd": 1063.964,
+        "cueText": "Okay, how about this?\nTed, you know how,\nat some point in the future,"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 369,
+            "start": 1030.463,
+            "end": 1033.199,
+            "text": "where I ate dinner with my\ntop five favorite architects\nthroughout history."
+          },
+          {
+            "index": 370,
+            "start": 1033.233,
+            "end": 1035.268,
+            "text": "And then, at the end\nof the meal,"
+          },
+          {
+            "index": 371,
+            "start": 1035.301,
+            "end": 1038.772,
+            "text": "Frank Gehry slides the check\nover to I. M. Pei, and he says,"
+          },
+          {
+            "index": 372,
+            "start": 1038.805,
+            "end": 1042.175,
+            "text": "\"Buddy, tonight,\nyour name\nis I. M. Paying.\""
+          },
+          {
+            "index": 373,
+            "start": 1042.208,
+            "end": 1043.577,
+            "text": "(GUFFAWING)"
+          },
+          {
+            "index": 374,
+            "start": 1043.61,
+            "end": 1045.946,
+            "text": "Buckminster Fuller\nalmost did a spit take."
+          },
+          {
+            "index": 375,
+            "start": 1048.148,
+            "end": 1049.816,
+            "text": "And then I woke up."
+          },
+          {
+            "index": 376,
+            "start": 1051.484,
+            "end": 1053.186,
+            "text": "So, that's it?"
+          },
+          {
+            "index": 377,
+            "start": 1053.219,
+            "end": 1057.991,
+            "text": "No other dreams?\nNothing confusing or erotic?"
+          },
+          {
+            "index": 378,
+            "start": 1058.825,
+            "end": 1061.461,
+            "text": "No."
+          },
+          {
+            "index": 379,
+            "start": 1061.494,
+            "end": 1063.964,
+            "text": "Okay, how about this?\nTed, you know how,\nat some point in the future,"
+          },
+          {
+            "index": 380,
+            "start": 1063.997,
+            "end": 1066.199,
+            "text": "machines will\nrise up against us?\nSure."
+          },
+          {
+            "index": 381,
+            "start": 1066.232,
+            "end": 1069.736,
+            "text": "Okay. So the machines,\nthey've killed everybody,"
+          },
+          {
+            "index": 382,
+            "start": 1069.77,
+            "end": 1071.938,
+            "text": "and all that's left\nis you,"
+          },
+          {
+            "index": 383,
+            "start": 1073.339,
+            "end": 1074.14,
+            "text": "me,"
+          },
+          {
+            "index": 384,
+            "start": 1075.008,
+            "end": 1077.31,
+            "text": "and Barney."
+          },
+          {
+            "index": 385,
+            "start": 1077.343,
+            "end": 1079.279,
+            "text": "Which one of us\nwould you, like,"
+          },
+          {
+            "index": 386,
+            "start": 1081.515,
+            "end": 1082.849,
+            "text": "get with?"
+          },
+          {
+            "index": 387,
+            "start": 1085.085,
+            "end": 1089.222,
+            "text": "(CLEARING THROAT)\nAnd why do I have to\n\"get with\" one of you?"
+          },
+          {
+            "index": 388,
+            "start": 1089.255,
+            "end": 1090.657,
+            "text": "The machines\nare forcing you."
+          },
+          {
+            "index": 389,
+            "start": 1090.691,
+            "end": 1094.46,
+            "text": "They want to watch.\nThat's just\nhow they get down."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1065.4909411621093,
+        "topCueIndex": -1,
+        "bottomCueIndex": 379
+      }
     }
   ]
 }
