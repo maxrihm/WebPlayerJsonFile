@@ -65619,6 +65619,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 75
       }
+    },
+    {
+      "id": "896f56f9-829d-45c6-b7fb-379d2fb6e26f",
+      "createdAt": "2026-07-10T19:28:06.466Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "ivory",
+      "selection": {
+        "rawText": "ivory",
+        "startOffset": 30,
+        "endOffset": 35,
+        "cueIndex": 77,
+        "cueStart": 224.14,
+        "cueEnd": 226.559,
+        "cueText": "To Mr. Burns, that's one\nless ivory back scratcher."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 67,
+            "start": 205.58,
+            "end": 207.373,
+            "text": "Dry fish sticks.\nThis sucks."
+          },
+          {
+            "index": 68,
+            "start": 207.457,
+            "end": 208.458,
+            "text": "Quit complaining, chrome dome."
+          },
+          {
+            "index": 69,
+            "start": 208.541,
+            "end": 210.084,
+            "text": "Oh! If I had hair,"
+          },
+          {
+            "index": 70,
+            "start": 210.168,
+            "end": 212.086,
+            "text": "you wouldn't be\ncalling me that."
+          },
+          {
+            "index": 71,
+            "start": 212.17,
+            "end": 214.047,
+            "text": "LENNY: Homer, don't be\na sap all of your life."
+          },
+          {
+            "index": 72,
+            "start": 214.13,
+            "end": 216.925,
+            "text": "Just fill out a few medical\ninsurance forms creatively."
+          },
+          {
+            "index": 73,
+            "start": 217.008,
+            "end": 218.635,
+            "text": "Charge that Dimoxinil stuff\nto the company."
+          },
+          {
+            "index": 74,
+            "start": 218.718,
+            "end": 219.928,
+            "text": "But it's a thousand bucks."
+          },
+          {
+            "index": 75,
+            "start": 220.011,
+            "end": 221.846,
+            "text": "Burns would can my butt\nin no time flat."
+          },
+          {
+            "index": 76,
+            "start": 221.93,
+            "end": 224.057,
+            "text": "Ooh, a thousand bucks!\nSo what?"
+          },
+          {
+            "index": 77,
+            "start": 224.14,
+            "end": 226.559,
+            "text": "To Mr. Burns, that's one\nless ivory back scratcher."
+          },
+          {
+            "index": 78,
+            "start": 226.643,
+            "end": 229.52,
+            "text": "Yeah. Besides, you pay money\ninto the insurance fund every week."
+          },
+          {
+            "index": 79,
+            "start": 229.604,
+            "end": 230.855,
+            "text": "What do you ever\nget out of it?"
+          },
+          {
+            "index": 80,
+            "start": 230.939,
+            "end": 232.899,
+            "text": "Nothing.\nWell, that newsletter."
+          },
+          {
+            "index": 81,
+            "start": 232.982,
+            "end": 234.859,
+            "text": "Exactly.\nWhy should you get nothing"
+          },
+          {
+            "index": 82,
+            "start": 234.943,
+            "end": 237.737,
+            "text": "while some guy who loses\na finger hits the jackpot?"
+          },
+          {
+            "index": 83,
+            "start": 237.82,
+            "end": 239.28,
+            "text": "You got me."
+          },
+          {
+            "index": 84,
+            "start": 239.364,
+            "end": 242.492,
+            "text": "Uh, I'd like to charge\nthat Dimoxinil stuff"
+          },
+          {
+            "index": 85,
+            "start": 242.575,
+            "end": 244.577,
+            "text": "to my health insurance."
+          },
+          {
+            "index": 86,
+            "start": 244.661,
+            "end": 247.33,
+            "text": "Look buddy, I don't know\nwho put you up to this"
+          },
+          {
+            "index": 87,
+            "start": 247.413,
+            "end": 249.666,
+            "text": "but no insurance plan\nin this state"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 226.93492504882812,
+        "topCueIndex": -1,
+        "bottomCueIndex": 77
+      }
     }
   ]
 }
