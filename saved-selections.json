@@ -64555,6 +64555,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 30
       }
+    },
+    {
+      "id": "35b020d8-b1c0-401f-af8b-9e1beea7e3d1",
+      "createdAt": "2026-07-10T19:15:13.781Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "virile.",
+      "selection": {
+        "rawText": "virile.",
+        "startOffset": 41,
+        "endOffset": 48,
+        "cueIndex": 37,
+        "cueStart": 139.973,
+        "cueEnd": 142.851,
+        "cueText": "You know, some women\nfind bald men quite virile."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 27,
+            "start": 113.696,
+            "end": 115.406,
+            "text": "the new miracle breakthrough\nin hair regrowth."
+          },
+          {
+            "index": 28,
+            "start": 115.49,
+            "end": 117.45,
+            "text": "(gasps)\nMiracle breakthrough?"
+          },
+          {
+            "index": 29,
+            "start": 117.534,
+            "end": 118.993,
+            "text": "There's been\na miracle breakthrough?!"
+          },
+          {
+            "index": 30,
+            "start": 119.077,
+            "end": 120.954,
+            "text": "The odds are Dimoxinil\ncan help me grow"
+          },
+          {
+            "index": 31,
+            "start": 121.037,
+            "end": 124.04,
+            "text": "as much or as little hair\nas I want to."
+          },
+          {
+            "index": 32,
+            "start": 124.124,
+            "end": 126.835,
+            "text": "Hey, today\nI'm going to do it."
+          },
+          {
+            "index": 33,
+            "start": 126.918,
+            "end": 129.337,
+            "text": "ANNOUNCER: For your free brochure,\nsend five dollars to Dimoxinil"
+          },
+          {
+            "index": 34,
+            "start": 129.42,
+            "end": 130.922,
+            "text": "485 Hair Plaza,\nHair City, Utah."
+          },
+          {
+            "index": 35,
+            "start": 131.005,
+            "end": 133.424,
+            "text": "Hair. Hair."
+          },
+          {
+            "index": 36,
+            "start": 133.508,
+            "end": 135.844,
+            "text": "Just like everybody else."
+          },
+          {
+            "index": 37,
+            "start": 139.973,
+            "end": 142.851,
+            "text": "You know, some women\nfind bald men quite virile."
+          },
+          {
+            "index": 38,
+            "start": 142.934,
+            "end": 144.352,
+            "text": "Marge, weren't you listening?"
+          },
+          {
+            "index": 39,
+            "start": 144.435,
+            "end": 147.355,
+            "text": "This is a miracle breakthrough"
+          },
+          {
+            "index": 40,
+            "start": 147.438,
+            "end": 149.232,
+            "text": "not one of these cheap-o,\nsucker deals."
+          },
+          {
+            "index": 41,
+            "start": 153.903,
+            "end": 157.49,
+            "text": "Allow me to present the Dimoxinil\naction set in its entirety."
+          },
+          {
+            "index": 42,
+            "start": 157.574,
+            "end": 160.118,
+            "text": "A six-month supply\nof the drug,"
+          },
+          {
+            "index": 43,
+            "start": 160.201,
+            "end": 161.452,
+            "text": "the gravity boots,"
+          },
+          {
+            "index": 44,
+            "start": 161.536,
+            "end": 162.829,
+            "text": "scalp massager,"
+          },
+          {
+            "index": 45,
+            "start": 162.912,
+            "end": 164.289,
+            "text": "and your t-shirt."
+          },
+          {
+            "index": 46,
+            "start": 164.372,
+            "end": 165.999,
+            "text": "Great, great, great.\nHow much? How much? How much?"
+          },
+          {
+            "index": 47,
+            "start": 166.082,
+            "end": 167.208,
+            "text": "$1,000."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 143.00130590820314,
+        "topCueIndex": -1,
+        "bottomCueIndex": 37
+      }
     }
   ]
 }
