@@ -66075,6 +66075,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 88
       }
+    },
+    {
+      "id": "73555c73-a3c8-4aa1-abb4-7b0d9cbb2963",
+      "createdAt": "2026-07-10T19:31:49.232Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "alley",
+      "selection": {
+        "rawText": "alley",
+        "startOffset": 15,
+        "endOffset": 20,
+        "cueIndex": 90,
+        "cueStart": 255.463,
+        "cueEnd": 258.383,
+        "cueText": "Meet me in the alley\nin 15 minutes."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 80,
+            "start": 230.939,
+            "end": 232.899,
+            "text": "Nothing.\nWell, that newsletter."
+          },
+          {
+            "index": 81,
+            "start": 232.982,
+            "end": 234.859,
+            "text": "Exactly.\nWhy should you get nothing"
+          },
+          {
+            "index": 82,
+            "start": 234.943,
+            "end": 237.737,
+            "text": "while some guy who loses\na finger hits the jackpot?"
+          },
+          {
+            "index": 83,
+            "start": 237.82,
+            "end": 239.28,
+            "text": "You got me."
+          },
+          {
+            "index": 84,
+            "start": 239.364,
+            "end": 242.492,
+            "text": "Uh, I'd like to charge\nthat Dimoxinil stuff"
+          },
+          {
+            "index": 85,
+            "start": 242.575,
+            "end": 244.577,
+            "text": "to my health insurance."
+          },
+          {
+            "index": 86,
+            "start": 244.661,
+            "end": 247.33,
+            "text": "Look buddy, I don't know\nwho put you up to this"
+          },
+          {
+            "index": 87,
+            "start": 247.413,
+            "end": 249.666,
+            "text": "but no insurance plan\nin this state"
+          },
+          {
+            "index": 88,
+            "start": 249.749,
+            "end": 253.211,
+            "text": "covers something\nas frivolous as Dimoxinil."
+          },
+          {
+            "index": 89,
+            "start": 253.294,
+            "end": 255.38,
+            "text": "(radio blasting)"
+          },
+          {
+            "index": 90,
+            "start": 255.463,
+            "end": 258.383,
+            "text": "Meet me in the alley\nin 15 minutes."
+          },
+          {
+            "index": 91,
+            "start": 258.466,
+            "end": 259.759,
+            "text": "Come alone."
+          },
+          {
+            "index": 92,
+            "start": 268.643,
+            "end": 271.062,
+            "text": "(humming)"
+          },
+          {
+            "index": 93,
+            "start": 280.905,
+            "end": 283.825,
+            "text": "Dear God, give a bald guy\na break. Amen."
+          },
+          {
+            "index": 94,
+            "start": 291.916,
+            "end": 293.835,
+            "text": "(yawning)"
+          },
+          {
+            "index": 95,
+            "start": 299.924,
+            "end": 302.635,
+            "text": "(gargling)"
+          },
+          {
+            "index": 96,
+            "start": 302.719,
+            "end": 303.886,
+            "text": "(swishing)"
+          },
+          {
+            "index": 97,
+            "start": 303.97,
+            "end": 305.638,
+            "text": "(humming)"
+          },
+          {
+            "index": 98,
+            "start": 305.722,
+            "end": 307.223,
+            "text": "(gasping)"
+          },
+          {
+            "index": 99,
+            "start": 307.307,
+            "end": 310.601,
+            "text": "I have hair.\nI have hair!"
+          },
+          {
+            "index": 100,
+            "start": 310.685,
+            "end": 312.52,
+            "text": "I have hair!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 258.1659670410156,
+        "topCueIndex": -1,
+        "bottomCueIndex": 90
+      }
     }
   ]
 }
