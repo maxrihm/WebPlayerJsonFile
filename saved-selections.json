@@ -64859,6 +64859,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 41
       }
+    },
+    {
+      "id": "4f359706-8e10-43a0-bffa-b5d94d4b3922",
+      "createdAt": "2026-07-10T19:20:27.417Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "coincidental.",
+      "selection": {
+        "rawText": "coincidental.",
+        "startOffset": 15,
+        "endOffset": 28,
+        "cueIndex": 54,
+        "cueStart": 177.844,
+        "cueEnd": 179.554,
+        "cueText": "will be purely coincidental."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 44,
+            "start": 161.536,
+            "end": 162.829,
+            "text": "scalp massager,"
+          },
+          {
+            "index": 45,
+            "start": 162.912,
+            "end": 164.289,
+            "text": "and your t-shirt."
+          },
+          {
+            "index": 46,
+            "start": 164.372,
+            "end": 165.999,
+            "text": "Great, great, great.\nHow much? How much? How much?"
+          },
+          {
+            "index": 47,
+            "start": 166.082,
+            "end": 167.208,
+            "text": "$1,000."
+          },
+          {
+            "index": 48,
+            "start": 167.292,
+            "end": 168.71,
+            "text": "A thousand bucks?!"
+          },
+          {
+            "index": 49,
+            "start": 168.793,
+            "end": 170.461,
+            "text": "I can't afford that."
+          },
+          {
+            "index": 50,
+            "start": 170.545,
+            "end": 172.589,
+            "text": "Well, we do have a product"
+          },
+          {
+            "index": 51,
+            "start": 172.672,
+            "end": 174.632,
+            "text": "which is more\nin your price range."
+          },
+          {
+            "index": 52,
+            "start": 174.716,
+            "end": 176.467,
+            "text": "However, I must assure\nyou that any hair growth"
+          },
+          {
+            "index": 53,
+            "start": 176.551,
+            "end": 177.76,
+            "text": "you experience\nwhile using it"
+          },
+          {
+            "index": 54,
+            "start": 177.844,
+            "end": 179.554,
+            "text": "will be purely coincidental."
+          },
+          {
+            "index": 55,
+            "start": 179.637,
+            "end": 181.723,
+            "text": "A thousand bucks..."
+          },
+          {
+            "index": 56,
+            "start": 181.806,
+            "end": 183.224,
+            "text": "Of all the rip-off"
+          },
+          {
+            "index": 57,
+            "start": 183.308,
+            "end": 185.268,
+            "text": "screw job,\ngyp joint..."
+          },
+          {
+            "index": 58,
+            "start": 185.351,
+            "end": 188.479,
+            "text": "(cries)\nForget you, pal."
+          },
+          {
+            "index": 59,
+            "start": 188.563,
+            "end": 190.023,
+            "text": "Thanks for nothing."
+          },
+          {
+            "index": 60,
+            "start": 190.106,
+            "end": 191.232,
+            "text": "(sobbing)"
+          },
+          {
+            "index": 61,
+            "start": 191.316,
+            "end": 194.277,
+            "text": "So I say, \"Forget you, pal!"
+          },
+          {
+            "index": 62,
+            "start": 194.36,
+            "end": 195.737,
+            "text": "Thanks for nothing!\""
+          },
+          {
+            "index": 63,
+            "start": 195.82,
+            "end": 196.905,
+            "text": "and I stormed\nright out of there."
+          },
+          {
+            "index": 64,
+            "start": 196.988,
+            "end": 198.781,
+            "text": "Ha! That's telling him, Homer."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 181.961875,
+        "topCueIndex": -1,
+        "bottomCueIndex": 54
+      }
     }
   ]
 }
