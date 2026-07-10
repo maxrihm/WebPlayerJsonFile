@@ -66683,6 +66683,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 130
       }
+    },
+    {
+      "id": "629ff603-21f8-49d6-9837-3e5dd5676f26",
+      "createdAt": "2026-07-10T19:40:52.631Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "token",
+      "selection": {
+        "rawText": "token",
+        "startOffset": 4,
+        "endOffset": 9,
+        "cueIndex": 141,
+        "cueStart": 425.133,
+        "cueEnd": 427.51,
+        "cueText": "One token promotion\nfrom within per year."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 131,
+            "start": 401.567,
+            "end": 402.777,
+            "text": "Heh.\nLook who's talking."
+          },
+          {
+            "index": 132,
+            "start": 408.157,
+            "end": 409.659,
+            "text": "Hey, there's something's\ndifferent about you, Homer."
+          },
+          {
+            "index": 133,
+            "start": 409.742,
+            "end": 410.993,
+            "text": "Did you lose some weight?"
+          },
+          {
+            "index": 134,
+            "start": 411.077,
+            "end": 413.121,
+            "text": "Yeah, you look like\nyou got a tan or something."
+          },
+          {
+            "index": 135,
+            "start": 413.204,
+            "end": 414.705,
+            "text": "I know what it is.\nA new tie."
+          },
+          {
+            "index": 136,
+            "start": 414.789,
+            "end": 416.082,
+            "text": "(Homer laughing)"
+          },
+          {
+            "index": 137,
+            "start": 416.165,
+            "end": 418.668,
+            "text": "BURNS: Morons, pathetic morons\nin my employ,"
+          },
+          {
+            "index": 138,
+            "start": 418.751,
+            "end": 420.628,
+            "text": "stealing my precious money."
+          },
+          {
+            "index": 139,
+            "start": 420.711,
+            "end": 423.381,
+            "text": "This is hopeless. None of these\ncretins deserves a promotion."
+          },
+          {
+            "index": 140,
+            "start": 423.464,
+            "end": 425.049,
+            "text": "It's in the union\ncontract, sir."
+          },
+          {
+            "index": 141,
+            "start": 425.133,
+            "end": 427.51,
+            "text": "One token promotion\nfrom within per year."
+          },
+          {
+            "index": 142,
+            "start": 427.593,
+            "end": 430.388,
+            "text": "Wait! Who is that\nyoung go-getter?"
+          },
+          {
+            "index": 143,
+            "start": 430.471,
+            "end": 432.64,
+            "text": "SMITHERS: Well, it sort of\nlooks like Homer Simpson"
+          },
+          {
+            "index": 144,
+            "start": 432.723,
+            "end": 434.809,
+            "text": "only more dynamic\nand resourceful."
+          },
+          {
+            "index": 145,
+            "start": 434.892,
+            "end": 437.228,
+            "text": "Simpson, huh?\nHmm."
+          },
+          {
+            "index": 146,
+            "start": 437.311,
+            "end": 440.398,
+            "text": "An unspoiled lump of clay\nto mold in my own image."
+          },
+          {
+            "index": 147,
+            "start": 440.481,
+            "end": 442.9,
+            "text": "Our new junior executive."
+          },
+          {
+            "index": 148,
+            "start": 442.984,
+            "end": 444.861,
+            "text": "Bring him to me!"
+          },
+          {
+            "index": 149,
+            "start": 444.944,
+            "end": 446.612,
+            "text": "SMITHERS (on P.A.):\nAttention! Homer Simpson."
+          },
+          {
+            "index": 150,
+            "start": 446.696,
+            "end": 449.657,
+            "text": "You have been promoted.\nYou are now an executive."
+          },
+          {
+            "index": 151,
+            "start": 449.74,
+            "end": 451.617,
+            "text": "Take three minutes to say\ngood-bye to your former friends"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 427.8225310058594,
+        "topCueIndex": -1,
+        "bottomCueIndex": 141
+      }
     }
   ]
 }
