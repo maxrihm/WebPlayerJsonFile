@@ -64403,6 +64403,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 27
       }
+    },
+    {
+      "id": "664f330b-6637-41d2-81e3-14f2f802e3ee",
+      "createdAt": "2026-07-10T19:14:24.244Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "The odds are",
+      "selection": {
+        "rawText": "The odds are",
+        "startOffset": 0,
+        "endOffset": 12,
+        "cueIndex": 30,
+        "cueStart": 119.077,
+        "cueEnd": 120.954,
+        "cueText": "The odds are Dimoxinil\ncan help me grow"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 20,
+            "start": 100.725,
+            "end": 102.936,
+            "text": "-TV CONTESTANT: Green. \n-I was right!"
+          },
+          {
+            "index": 21,
+            "start": 103.019,
+            "end": 104.479,
+            "text": "TV HOST:\nOkay, we'll be right back"
+          },
+          {
+            "index": 22,
+            "start": 104.562,
+            "end": 105.939,
+            "text": "with more\nGrade School Challenge,"
+          },
+          {
+            "index": 23,
+            "start": 106.022,
+            "end": 107.857,
+            "text": "after this important message."
+          },
+          {
+            "index": 24,
+            "start": 107.941,
+            "end": 109.234,
+            "text": "I used to think\nthat losing my hair"
+          },
+          {
+            "index": 25,
+            "start": 109.317,
+            "end": 111.194,
+            "text": "was as inevitable\nas the tides."
+          },
+          {
+            "index": 26,
+            "start": 111.277,
+            "end": 113.613,
+            "text": "Then I found out\nabout Dimoxinil"
+          },
+          {
+            "index": 27,
+            "start": 113.696,
+            "end": 115.406,
+            "text": "the new miracle breakthrough\nin hair regrowth."
+          },
+          {
+            "index": 28,
+            "start": 115.49,
+            "end": 117.45,
+            "text": "(gasps)\nMiracle breakthrough?"
+          },
+          {
+            "index": 29,
+            "start": 117.534,
+            "end": 118.993,
+            "text": "There's been\na miracle breakthrough?!"
+          },
+          {
+            "index": 30,
+            "start": 119.077,
+            "end": 120.954,
+            "text": "The odds are Dimoxinil\ncan help me grow"
+          },
+          {
+            "index": 31,
+            "start": 121.037,
+            "end": 124.04,
+            "text": "as much or as little hair\nas I want to."
+          },
+          {
+            "index": 32,
+            "start": 124.124,
+            "end": 126.835,
+            "text": "Hey, today\nI'm going to do it."
+          },
+          {
+            "index": 33,
+            "start": 126.918,
+            "end": 129.337,
+            "text": "ANNOUNCER: For your free brochure,\nsend five dollars to Dimoxinil"
+          },
+          {
+            "index": 34,
+            "start": 129.42,
+            "end": 130.922,
+            "text": "485 Hair Plaza,\nHair City, Utah."
+          },
+          {
+            "index": 35,
+            "start": 131.005,
+            "end": 133.424,
+            "text": "Hair. Hair."
+          },
+          {
+            "index": 36,
+            "start": 133.508,
+            "end": 135.844,
+            "text": "Just like everybody else."
+          },
+          {
+            "index": 37,
+            "start": 139.973,
+            "end": 142.851,
+            "text": "You know, some women\nfind bald men quite virile."
+          },
+          {
+            "index": 38,
+            "start": 142.934,
+            "end": 144.352,
+            "text": "Marge, weren't you listening?"
+          },
+          {
+            "index": 39,
+            "start": 144.435,
+            "end": 147.355,
+            "text": "This is a miracle breakthrough"
+          },
+          {
+            "index": 40,
+            "start": 147.438,
+            "end": 149.232,
+            "text": "not one of these cheap-o,\nsucker deals."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 123.25164501953125,
+        "topCueIndex": -1,
+        "bottomCueIndex": 30
+      }
     }
   ]
 }
