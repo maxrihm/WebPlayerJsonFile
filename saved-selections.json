@@ -65315,6 +65315,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 63
       }
+    },
+    {
+      "id": "71d27116-99eb-4de0-b47c-335103e3b98b",
+      "createdAt": "2026-07-10T19:25:56.913Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "sap",
+      "selection": {
+        "rawText": "sap",
+        "startOffset": 25,
+        "endOffset": 28,
+        "cueIndex": 71,
+        "cueStart": 212.17,
+        "cueEnd": 214.047,
+        "cueText": "LENNY: Homer, don't be\na sap all of your life."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 61,
+            "start": 191.316,
+            "end": 194.277,
+            "text": "So I say, \"Forget you, pal!"
+          },
+          {
+            "index": 62,
+            "start": 194.36,
+            "end": 195.737,
+            "text": "Thanks for nothing!\""
+          },
+          {
+            "index": 63,
+            "start": 195.82,
+            "end": 196.905,
+            "text": "and I stormed\nright out of there."
+          },
+          {
+            "index": 64,
+            "start": 196.988,
+            "end": 198.781,
+            "text": "Ha! That's telling him, Homer."
+          },
+          {
+            "index": 65,
+            "start": 198.865,
+            "end": 202.827,
+            "text": "D'oh! I'm out of tartar sauce.\nThey call this a portion?"
+          },
+          {
+            "index": 66,
+            "start": 202.911,
+            "end": 205.496,
+            "text": "Hey, Lenny, are you going to use\nall of your tartar sauce?"
+          },
+          {
+            "index": 67,
+            "start": 205.58,
+            "end": 207.373,
+            "text": "Dry fish sticks.\nThis sucks."
+          },
+          {
+            "index": 68,
+            "start": 207.457,
+            "end": 208.458,
+            "text": "Quit complaining, chrome dome."
+          },
+          {
+            "index": 69,
+            "start": 208.541,
+            "end": 210.084,
+            "text": "Oh! If I had hair,"
+          },
+          {
+            "index": 70,
+            "start": 210.168,
+            "end": 212.086,
+            "text": "you wouldn't be\ncalling me that."
+          },
+          {
+            "index": 71,
+            "start": 212.17,
+            "end": 214.047,
+            "text": "LENNY: Homer, don't be\na sap all of your life."
+          },
+          {
+            "index": 72,
+            "start": 214.13,
+            "end": 216.925,
+            "text": "Just fill out a few medical\ninsurance forms creatively."
+          },
+          {
+            "index": 73,
+            "start": 217.008,
+            "end": 218.635,
+            "text": "Charge that Dimoxinil stuff\nto the company."
+          },
+          {
+            "index": 74,
+            "start": 218.718,
+            "end": 219.928,
+            "text": "But it's a thousand bucks."
+          },
+          {
+            "index": 75,
+            "start": 220.011,
+            "end": 221.846,
+            "text": "Burns would can my butt\nin no time flat."
+          },
+          {
+            "index": 76,
+            "start": 221.93,
+            "end": 224.057,
+            "text": "Ooh, a thousand bucks!\nSo what?"
+          },
+          {
+            "index": 77,
+            "start": 224.14,
+            "end": 226.559,
+            "text": "To Mr. Burns, that's one\nless ivory back scratcher."
+          },
+          {
+            "index": 78,
+            "start": 226.643,
+            "end": 229.52,
+            "text": "Yeah. Besides, you pay money\ninto the insurance fund every week."
+          },
+          {
+            "index": 79,
+            "start": 229.604,
+            "end": 230.855,
+            "text": "What do you ever\nget out of it?"
+          },
+          {
+            "index": 80,
+            "start": 230.939,
+            "end": 232.899,
+            "text": "Nothing.\nWell, that newsletter."
+          },
+          {
+            "index": 81,
+            "start": 232.982,
+            "end": 234.859,
+            "text": "Exactly.\nWhy should you get nothing"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 217.11377392578126,
+        "topCueIndex": -1,
+        "bottomCueIndex": 71
+      }
     }
   ]
 }
