@@ -66531,6 +66531,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 121
       }
+    },
+    {
+      "id": "55d89773-0563-41f0-937f-ff7280c0a973",
+      "createdAt": "2026-07-10T19:37:01.353Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "drooling.",
+      "selection": {
+        "rawText": "drooling.",
+        "startOffset": 12,
+        "endOffset": 21,
+        "cueIndex": 130,
+        "cueStart": 399.857,
+        "cueEnd": 401.484,
+        "cueText": "Patty,\nstop drooling."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 120,
+            "start": 375.041,
+            "end": 377.126,
+            "text": "and, well,\njust between us girls"
+          },
+          {
+            "index": 121,
+            "start": 377.21,
+            "end": 380.046,
+            "text": "well, he hasn't been\nthis frisky in years."
+          },
+          {
+            "index": 122,
+            "start": 380.129,
+            "end": 381.964,
+            "text": "I don't want\nto think about it."
+          },
+          {
+            "index": 123,
+            "start": 382.048,
+            "end": 384.384,
+            "text": "HOMER:\nDaddy's home, Sugar."
+          },
+          {
+            "index": 124,
+            "start": 387.261,
+            "end": 388.179,
+            "text": "(giggling and cooing)"
+          },
+          {
+            "index": 125,
+            "start": 388.262,
+            "end": 389.806,
+            "text": "HOMER:\nCome here, you."
+          },
+          {
+            "index": 126,
+            "start": 389.889,
+            "end": 393.059,
+            "text": "MARGE: Ooh! Oh, Homie,\nmy sisters are here."
+          },
+          {
+            "index": 127,
+            "start": 393.142,
+            "end": 395.561,
+            "text": "HOMER: Ah, dinner with three\nbeautiful women."
+          },
+          {
+            "index": 128,
+            "start": 395.645,
+            "end": 397.355,
+            "text": "I must be in heaven."
+          },
+          {
+            "index": 129,
+            "start": 397.438,
+            "end": 399.774,
+            "text": "This is Homer?\nOh, my."
+          },
+          {
+            "index": 130,
+            "start": 399.857,
+            "end": 401.484,
+            "text": "Patty,\nstop drooling."
+          },
+          {
+            "index": 131,
+            "start": 401.567,
+            "end": 402.777,
+            "text": "Heh.\nLook who's talking."
+          },
+          {
+            "index": 132,
+            "start": 408.157,
+            "end": 409.659,
+            "text": "Hey, there's something's\ndifferent about you, Homer."
+          },
+          {
+            "index": 133,
+            "start": 409.742,
+            "end": 410.993,
+            "text": "Did you lose some weight?"
+          },
+          {
+            "index": 134,
+            "start": 411.077,
+            "end": 413.121,
+            "text": "Yeah, you look like\nyou got a tan or something."
+          },
+          {
+            "index": 135,
+            "start": 413.204,
+            "end": 414.705,
+            "text": "I know what it is.\nA new tie."
+          },
+          {
+            "index": 136,
+            "start": 414.789,
+            "end": 416.082,
+            "text": "(Homer laughing)"
+          },
+          {
+            "index": 137,
+            "start": 416.165,
+            "end": 418.668,
+            "text": "BURNS: Morons, pathetic morons\nin my employ,"
+          },
+          {
+            "index": 138,
+            "start": 418.751,
+            "end": 420.628,
+            "text": "stealing my precious money."
+          },
+          {
+            "index": 139,
+            "start": 420.711,
+            "end": 423.381,
+            "text": "This is hopeless. None of these\ncretins deserves a promotion."
+          },
+          {
+            "index": 140,
+            "start": 423.464,
+            "end": 425.049,
+            "text": "It's in the union\ncontract, sir."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 403.3504729003906,
+        "topCueIndex": -1,
+        "bottomCueIndex": 130
+      }
     }
   ]
 }
