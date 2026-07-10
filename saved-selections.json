@@ -66227,6 +66227,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 90
       }
+    },
+    {
+      "id": "384d2e27-64eb-4e3d-8b5c-a7fb4b57f075",
+      "createdAt": "2026-07-10T19:34:50.120Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "sideburns.",
+      "selection": {
+        "rawText": "sideburns.",
+        "startOffset": 24,
+        "endOffset": 34,
+        "cueIndex": 117,
+        "cueStart": 368.409,
+        "cueEnd": 369.494,
+        "cueText": "Hey, you got rid of\nthe sideburns."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 107,
+            "start": 327.285,
+            "end": 328.619,
+            "text": "Good morning, everybody!"
+          },
+          {
+            "index": 108,
+            "start": 328.703,
+            "end": 330.413,
+            "text": "ALL:\nGood morning."
+          },
+          {
+            "index": 109,
+            "start": 330.496,
+            "end": 334.208,
+            "text": "Good morning, everybody!\nGood morning, Springfield!"
+          },
+          {
+            "index": 110,
+            "start": 336.252,
+            "end": 337.754,
+            "text": "-Dimoxinil!\n-Dimoxinil!"
+          },
+          {
+            "index": 111,
+            "start": 337.837,
+            "end": 342.342,
+            "text": "(jubilant laughter)"
+          },
+          {
+            "index": 112,
+            "start": 351.392,
+            "end": 352.518,
+            "text": "(gasping)"
+          },
+          {
+            "index": 113,
+            "start": 352.602,
+            "end": 355.313,
+            "text": "(laughter)"
+          },
+          {
+            "index": 114,
+            "start": 360.068,
+            "end": 361.527,
+            "text": "(tires screech)"
+          },
+          {
+            "index": 115,
+            "start": 363.404,
+            "end": 365.615,
+            "text": "Well, Homer Simpson."
+          },
+          {
+            "index": 116,
+            "start": 365.698,
+            "end": 368.326,
+            "text": "Why-why-why, you haven't\nbeen here in 20 years."
+          },
+          {
+            "index": 117,
+            "start": 368.409,
+            "end": 369.494,
+            "text": "Hey, you got rid of\nthe sideburns."
+          },
+          {
+            "index": 118,
+            "start": 369.577,
+            "end": 372.205,
+            "text": "(chuckling)\nGive me the usual."
+          },
+          {
+            "index": 119,
+            "start": 373.373,
+            "end": 374.957,
+            "text": "MARGE:\nHe's much happier at work"
+          },
+          {
+            "index": 120,
+            "start": 375.041,
+            "end": 377.126,
+            "text": "and, well,\njust between us girls"
+          },
+          {
+            "index": 121,
+            "start": 377.21,
+            "end": 380.046,
+            "text": "well, he hasn't been\nthis frisky in years."
+          },
+          {
+            "index": 122,
+            "start": 380.129,
+            "end": 381.964,
+            "text": "I don't want\nto think about it."
+          },
+          {
+            "index": 123,
+            "start": 382.048,
+            "end": 384.384,
+            "text": "HOMER:\nDaddy's home, Sugar."
+          },
+          {
+            "index": 124,
+            "start": 387.261,
+            "end": 388.179,
+            "text": "(giggling and cooing)"
+          },
+          {
+            "index": 125,
+            "start": 388.262,
+            "end": 389.806,
+            "text": "HOMER:\nCome here, you."
+          },
+          {
+            "index": 126,
+            "start": 389.889,
+            "end": 393.059,
+            "text": "MARGE: Ooh! Oh, Homie,\nmy sisters are here."
+          },
+          {
+            "index": 127,
+            "start": 393.142,
+            "end": 395.561,
+            "text": "HOMER: Ah, dinner with three\nbeautiful women."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 370.1032490234375,
+        "topCueIndex": -1,
+        "bottomCueIndex": 117
+      }
     }
   ]
 }
