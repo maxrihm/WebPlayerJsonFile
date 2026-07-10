@@ -66379,6 +66379,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 117
       }
+    },
+    {
+      "id": "5a9f0da2-ce25-4ee7-9ae9-3a49f9e22dd0",
+      "createdAt": "2026-07-10T19:35:44.428Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "frisky",
+      "selection": {
+        "rawText": "frisky",
+        "startOffset": 26,
+        "endOffset": 32,
+        "cueIndex": 121,
+        "cueStart": 377.21,
+        "cueEnd": 380.046,
+        "cueText": "well, he hasn't been\nthis frisky in years."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 111,
+            "start": 337.837,
+            "end": 342.342,
+            "text": "(jubilant laughter)"
+          },
+          {
+            "index": 112,
+            "start": 351.392,
+            "end": 352.518,
+            "text": "(gasping)"
+          },
+          {
+            "index": 113,
+            "start": 352.602,
+            "end": 355.313,
+            "text": "(laughter)"
+          },
+          {
+            "index": 114,
+            "start": 360.068,
+            "end": 361.527,
+            "text": "(tires screech)"
+          },
+          {
+            "index": 115,
+            "start": 363.404,
+            "end": 365.615,
+            "text": "Well, Homer Simpson."
+          },
+          {
+            "index": 116,
+            "start": 365.698,
+            "end": 368.326,
+            "text": "Why-why-why, you haven't\nbeen here in 20 years."
+          },
+          {
+            "index": 117,
+            "start": 368.409,
+            "end": 369.494,
+            "text": "Hey, you got rid of\nthe sideburns."
+          },
+          {
+            "index": 118,
+            "start": 369.577,
+            "end": 372.205,
+            "text": "(chuckling)\nGive me the usual."
+          },
+          {
+            "index": 119,
+            "start": 373.373,
+            "end": 374.957,
+            "text": "MARGE:\nHe's much happier at work"
+          },
+          {
+            "index": 120,
+            "start": 375.041,
+            "end": 377.126,
+            "text": "and, well,\njust between us girls"
+          },
+          {
+            "index": 121,
+            "start": 377.21,
+            "end": 380.046,
+            "text": "well, he hasn't been\nthis frisky in years."
+          },
+          {
+            "index": 122,
+            "start": 380.129,
+            "end": 381.964,
+            "text": "I don't want\nto think about it."
+          },
+          {
+            "index": 123,
+            "start": 382.048,
+            "end": 384.384,
+            "text": "HOMER:\nDaddy's home, Sugar."
+          },
+          {
+            "index": 124,
+            "start": 387.261,
+            "end": 388.179,
+            "text": "(giggling and cooing)"
+          },
+          {
+            "index": 125,
+            "start": 388.262,
+            "end": 389.806,
+            "text": "HOMER:\nCome here, you."
+          },
+          {
+            "index": 126,
+            "start": 389.889,
+            "end": 393.059,
+            "text": "MARGE: Ooh! Oh, Homie,\nmy sisters are here."
+          },
+          {
+            "index": 127,
+            "start": 393.142,
+            "end": 395.561,
+            "text": "HOMER: Ah, dinner with three\nbeautiful women."
+          },
+          {
+            "index": 128,
+            "start": 395.645,
+            "end": 397.355,
+            "text": "I must be in heaven."
+          },
+          {
+            "index": 129,
+            "start": 397.438,
+            "end": 399.774,
+            "text": "This is Homer?\nOh, my."
+          },
+          {
+            "index": 130,
+            "start": 399.857,
+            "end": 401.484,
+            "text": "Patty,\nstop drooling."
+          },
+          {
+            "index": 131,
+            "start": 401.567,
+            "end": 402.777,
+            "text": "Heh.\nLook who's talking."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 380.3990759277344,
+        "topCueIndex": -1,
+        "bottomCueIndex": 121
+      }
     }
   ]
 }
