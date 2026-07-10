@@ -67139,6 +67139,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 144
       }
+    },
+    {
+      "id": "7cca5266-2e4b-4653-b981-63a172168a05",
+      "createdAt": "2026-07-10T19:42:18.016Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "mold",
+      "selection": {
+        "rawText": "mold",
+        "startOffset": 29,
+        "endOffset": 33,
+        "cueIndex": 146,
+        "cueStart": 437.311,
+        "cueEnd": 440.398,
+        "cueText": "An unspoiled lump of clay\nto mold in my own image."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 136,
+            "start": 414.789,
+            "end": 416.082,
+            "text": "(Homer laughing)"
+          },
+          {
+            "index": 137,
+            "start": 416.165,
+            "end": 418.668,
+            "text": "BURNS: Morons, pathetic morons\nin my employ,"
+          },
+          {
+            "index": 138,
+            "start": 418.751,
+            "end": 420.628,
+            "text": "stealing my precious money."
+          },
+          {
+            "index": 139,
+            "start": 420.711,
+            "end": 423.381,
+            "text": "This is hopeless. None of these\ncretins deserves a promotion."
+          },
+          {
+            "index": 140,
+            "start": 423.464,
+            "end": 425.049,
+            "text": "It's in the union\ncontract, sir."
+          },
+          {
+            "index": 141,
+            "start": 425.133,
+            "end": 427.51,
+            "text": "One token promotion\nfrom within per year."
+          },
+          {
+            "index": 142,
+            "start": 427.593,
+            "end": 430.388,
+            "text": "Wait! Who is that\nyoung go-getter?"
+          },
+          {
+            "index": 143,
+            "start": 430.471,
+            "end": 432.64,
+            "text": "SMITHERS: Well, it sort of\nlooks like Homer Simpson"
+          },
+          {
+            "index": 144,
+            "start": 432.723,
+            "end": 434.809,
+            "text": "only more dynamic\nand resourceful."
+          },
+          {
+            "index": 145,
+            "start": 434.892,
+            "end": 437.228,
+            "text": "Simpson, huh?\nHmm."
+          },
+          {
+            "index": 146,
+            "start": 437.311,
+            "end": 440.398,
+            "text": "An unspoiled lump of clay\nto mold in my own image."
+          },
+          {
+            "index": 147,
+            "start": 440.481,
+            "end": 442.9,
+            "text": "Our new junior executive."
+          },
+          {
+            "index": 148,
+            "start": 442.984,
+            "end": 444.861,
+            "text": "Bring him to me!"
+          },
+          {
+            "index": 149,
+            "start": 444.944,
+            "end": 446.612,
+            "text": "SMITHERS (on P.A.):\nAttention! Homer Simpson."
+          },
+          {
+            "index": 150,
+            "start": 446.696,
+            "end": 449.657,
+            "text": "You have been promoted.\nYou are now an executive."
+          },
+          {
+            "index": 151,
+            "start": 449.74,
+            "end": 451.617,
+            "text": "Take three minutes to say\ngood-bye to your former friends"
+          },
+          {
+            "index": 152,
+            "start": 451.701,
+            "end": 454.245,
+            "text": "and report to room 503\nfor reassignment"
+          },
+          {
+            "index": 153,
+            "start": 454.328,
+            "end": 456.414,
+            "text": "to a better life."
+          },
+          {
+            "index": 154,
+            "start": 461.627,
+            "end": 462.545,
+            "text": "Well, your resume\nseems in order."
+          },
+          {
+            "index": 155,
+            "start": 462.628,
+            "end": 464.213,
+            "text": "Besides typing and stuff"
+          },
+          {
+            "index": 156,
+            "start": 464.297,
+            "end": 466.382,
+            "text": "do you have any other qualifications\nI should know about?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 440.6528229980469,
+        "topCueIndex": -1,
+        "bottomCueIndex": 146
+      }
     }
   ]
 }
