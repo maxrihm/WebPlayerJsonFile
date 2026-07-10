@@ -67595,6 +67595,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 146
       }
+    },
+    {
+      "id": "0cb0b75e-00ce-4402-afb0-c5c901ce080d",
+      "createdAt": "2026-07-10T19:44:02.679Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "reassignment",
+      "selection": {
+        "rawText": "reassignment",
+        "startOffset": 27,
+        "endOffset": 39,
+        "cueIndex": 152,
+        "cueStart": 451.701,
+        "cueEnd": 454.245,
+        "cueText": "and report to room 503\nfor reassignment"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 142,
+            "start": 427.593,
+            "end": 430.388,
+            "text": "Wait! Who is that\nyoung go-getter?"
+          },
+          {
+            "index": 143,
+            "start": 430.471,
+            "end": 432.64,
+            "text": "SMITHERS: Well, it sort of\nlooks like Homer Simpson"
+          },
+          {
+            "index": 144,
+            "start": 432.723,
+            "end": 434.809,
+            "text": "only more dynamic\nand resourceful."
+          },
+          {
+            "index": 145,
+            "start": 434.892,
+            "end": 437.228,
+            "text": "Simpson, huh?\nHmm."
+          },
+          {
+            "index": 146,
+            "start": 437.311,
+            "end": 440.398,
+            "text": "An unspoiled lump of clay\nto mold in my own image."
+          },
+          {
+            "index": 147,
+            "start": 440.481,
+            "end": 442.9,
+            "text": "Our new junior executive."
+          },
+          {
+            "index": 148,
+            "start": 442.984,
+            "end": 444.861,
+            "text": "Bring him to me!"
+          },
+          {
+            "index": 149,
+            "start": 444.944,
+            "end": 446.612,
+            "text": "SMITHERS (on P.A.):\nAttention! Homer Simpson."
+          },
+          {
+            "index": 150,
+            "start": 446.696,
+            "end": 449.657,
+            "text": "You have been promoted.\nYou are now an executive."
+          },
+          {
+            "index": 151,
+            "start": 449.74,
+            "end": 451.617,
+            "text": "Take three minutes to say\ngood-bye to your former friends"
+          },
+          {
+            "index": 152,
+            "start": 451.701,
+            "end": 454.245,
+            "text": "and report to room 503\nfor reassignment"
+          },
+          {
+            "index": 153,
+            "start": 454.328,
+            "end": 456.414,
+            "text": "to a better life."
+          },
+          {
+            "index": 154,
+            "start": 461.627,
+            "end": 462.545,
+            "text": "Well, your resume\nseems in order."
+          },
+          {
+            "index": 155,
+            "start": 462.628,
+            "end": 464.213,
+            "text": "Besides typing and stuff"
+          },
+          {
+            "index": 156,
+            "start": 464.297,
+            "end": 466.382,
+            "text": "do you have any other qualifications\nI should know about?"
+          },
+          {
+            "index": 157,
+            "start": 466.466,
+            "end": 468.468,
+            "text": "I give great back rubs\nto harried executives."
+          },
+          {
+            "index": 158,
+            "start": 468.551,
+            "end": 469.51,
+            "text": "Here, let me show you."
+          },
+          {
+            "index": 159,
+            "start": 469.594,
+            "end": 471.22,
+            "text": "Uh, no, no.\nThat'll be fine."
+          },
+          {
+            "index": 160,
+            "start": 471.304,
+            "end": 473.764,
+            "text": "Thank you. Good-bye."
+          },
+          {
+            "index": 161,
+            "start": 473.848,
+            "end": 474.932,
+            "text": "HOMER: Hello?"
+          },
+          {
+            "index": 162,
+            "start": 475.016,
+            "end": 476.058,
+            "text": "Hello, Homie."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 455.9746530761719,
+        "topCueIndex": -1,
+        "bottomCueIndex": 152
+      }
     }
   ]
 }
