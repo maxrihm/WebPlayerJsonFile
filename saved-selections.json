@@ -68811,6 +68811,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 234
       }
+    },
+    {
+      "id": "6d24f007-a16b-456f-99b2-c9648ebb4c28",
+      "createdAt": "2026-07-11T19:50:13.375Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "in touch",
+      "selection": {
+        "rawText": "in touch",
+        "startOffset": 36,
+        "endOffset": 44,
+        "cueIndex": 239,
+        "cueStart": 642.266,
+        "cueEnd": 644.769,
+        "cueText": "That's why I promoted someone\nwho's in touch with the workers."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 229,
+            "start": 623.122,
+            "end": 626.208,
+            "text": "I love you, Karl--\nUh, Marge."
+          },
+          {
+            "index": 230,
+            "start": 626.292,
+            "end": 627.293,
+            "text": "Proceed, Smithers."
+          },
+          {
+            "index": 231,
+            "start": 627.376,
+            "end": 628.794,
+            "text": "Our first issue, sir,"
+          },
+          {
+            "index": 232,
+            "start": 628.878,
+            "end": 630.254,
+            "text": "is our low productivity"
+          },
+          {
+            "index": 233,
+            "start": 630.338,
+            "end": 632.006,
+            "text": "and record-high\nworker accident rate."
+          },
+          {
+            "index": 234,
+            "start": 632.089,
+            "end": 634.425,
+            "text": "Guh! Any suggestions?"
+          },
+          {
+            "index": 235,
+            "start": 634.508,
+            "end": 636.51,
+            "text": "A round of layoffs might\nwake up the idiots."
+          },
+          {
+            "index": 236,
+            "start": 636.594,
+            "end": 638.304,
+            "text": "We could put caffeine\nin the water cooler."
+          },
+          {
+            "index": 237,
+            "start": 638.387,
+            "end": 640.056,
+            "text": "Hmm, well, those\nare my ideas!"
+          },
+          {
+            "index": 238,
+            "start": 640.139,
+            "end": 642.183,
+            "text": "You people don't think,\nyou regurgitate!"
+          },
+          {
+            "index": 239,
+            "start": 642.266,
+            "end": 644.769,
+            "text": "That's why I promoted someone\nwho's in touch with the workers."
+          },
+          {
+            "index": 240,
+            "start": 644.852,
+            "end": 646.729,
+            "text": "-You.\n-I think you mean him, sir."
+          },
+          {
+            "index": 241,
+            "start": 646.812,
+            "end": 649.857,
+            "text": "You then. How would you improve\nthe workers' situation?"
+          },
+          {
+            "index": 242,
+            "start": 649.94,
+            "end": 652.61,
+            "text": "Well, I--\nWell, sir, for one thing,"
+          },
+          {
+            "index": 243,
+            "start": 652.693,
+            "end": 654.362,
+            "text": "we had a problem\nevery Tuesday"
+          },
+          {
+            "index": 244,
+            "start": 654.445,
+            "end": 656.28,
+            "text": "when the cafeteria\nwould serve fish sticks."
+          },
+          {
+            "index": 245,
+            "start": 656.364,
+            "end": 658.574,
+            "text": "Fish sticks! What in blazes\nare you talking about?"
+          },
+          {
+            "index": 246,
+            "start": 658.658,
+            "end": 660.493,
+            "text": "Well sir, they cut\nthe head off the fish"
+          },
+          {
+            "index": 247,
+            "start": 660.576,
+            "end": 662.411,
+            "text": "and chop up the rest into sticks and\nthen put seasoned bread crumbs--"
+          },
+          {
+            "index": 248,
+            "start": 662.495,
+            "end": 665.539,
+            "text": "I know what fish sticks are!\nGet to the point!"
+          },
+          {
+            "index": 249,
+            "start": 665.623,
+            "end": 668.125,
+            "text": "Well, you only get\nthis tiny"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 644.9401721191406,
+        "topCueIndex": -1,
+        "bottomCueIndex": 239
+      }
     }
   ]
 }
