@@ -69723,6 +69723,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 291
       }
+    },
+    {
+      "id": "e6a05666-2edd-46ea-ad37-054bc45897a2",
+      "createdAt": "2026-07-11T20:16:25.145Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "weave",
+      "selection": {
+        "rawText": "weave",
+        "startOffset": 21,
+        "endOffset": 26,
+        "cueIndex": 307,
+        "cueStart": 839.046,
+        "cueEnd": 840.756,
+        "cueText": "BURNS:\nI want you to weave"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 297,
+            "start": 811.644,
+            "end": 813.687,
+            "text": "Now I've got you, Simpson."
+          },
+          {
+            "index": 298,
+            "start": 813.771,
+            "end": 815.147,
+            "text": "(laughing)"
+          },
+          {
+            "index": 299,
+            "start": 819.443,
+            "end": 823.531,
+            "text": "MARGE: Hmm Homer, between your hair\ncare products and new wardrobe"
+          },
+          {
+            "index": 300,
+            "start": 823.614,
+            "end": 825.491,
+            "text": "we're not saving anything\nfor a rainy day."
+          },
+          {
+            "index": 301,
+            "start": 825.574,
+            "end": 828.536,
+            "text": "Rainy day! There's never going\nto be a rainy day, Marge."
+          },
+          {
+            "index": 302,
+            "start": 828.619,
+            "end": 831.121,
+            "text": "There's not a cloud\nin the Simpson sky."
+          },
+          {
+            "index": 303,
+            "start": 831.205,
+            "end": 833.082,
+            "text": "And what does\nmy little girl want?"
+          },
+          {
+            "index": 304,
+            "start": 833.165,
+            "end": 835.96,
+            "text": "An absence of mood swings\nand some stability in my life."
+          },
+          {
+            "index": 305,
+            "start": 836.043,
+            "end": 837.837,
+            "text": "Uh... how about a pony?"
+          },
+          {
+            "index": 306,
+            "start": 837.92,
+            "end": 838.963,
+            "text": "Okay."
+          },
+          {
+            "index": 307,
+            "start": 839.046,
+            "end": 840.756,
+            "text": "BURNS:\nI want you to weave"
+          },
+          {
+            "index": 308,
+            "start": 840.84,
+            "end": 843.425,
+            "text": "that patented Simpson magic\nwith my executives."
+          },
+          {
+            "index": 309,
+            "start": 843.509,
+            "end": 845.511,
+            "text": "A short speech. Work, work, work.\nYou know."
+          },
+          {
+            "index": 310,
+            "start": 845.594,
+            "end": 846.72,
+            "text": "Uh, well, okay.\nWhat the hey?"
+          },
+          {
+            "index": 311,
+            "start": 846.804,
+            "end": 849.431,
+            "text": "Excellent. Set you\nto your task, Simpson."
+          },
+          {
+            "index": 312,
+            "start": 851.684,
+            "end": 854.812,
+            "text": "Hmm. Uh, Mr. Burns,\nit is my sad duty"
+          },
+          {
+            "index": 313,
+            "start": 854.895,
+            "end": 856.522,
+            "text": "to report that one\nof your executives"
+          },
+          {
+            "index": 314,
+            "start": 856.605,
+            "end": 858.274,
+            "text": "has bilked the company\ninsurance plan out of $1,000."
+          },
+          {
+            "index": 315,
+            "start": 858.357,
+            "end": 861.151,
+            "text": "What?\nBlast his hide to Hades!"
+          },
+          {
+            "index": 316,
+            "start": 861.235,
+            "end": 864.655,
+            "text": "Ooh! and I was going to buy\nthat ivory back scratcher."
+          },
+          {
+            "index": 317,
+            "start": 864.738,
+            "end": 865.865,
+            "text": "How did he do it?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 843.42116796875,
+        "topCueIndex": -1,
+        "bottomCueIndex": 307
+      }
     }
   ]
 }
