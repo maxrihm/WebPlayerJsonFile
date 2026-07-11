@@ -68659,6 +68659,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 225
       }
+    },
+    {
+      "id": "39acb18a-c445-48ac-9b3c-ba57305ed01e",
+      "createdAt": "2026-07-11T19:48:51.627Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "bounds.",
+      "selection": {
+        "rawText": "bounds.",
+        "startOffset": 38,
+        "endOffset": 45,
+        "cueIndex": 225,
+        "cueStart": 612.486,
+        "cueEnd": 614.905,
+        "cueText": "Yes, sir. I hope I didn't\noverstep my bounds."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 215,
+            "start": 589.171,
+            "end": 591.09,
+            "text": "Happy Anniversary,\nMrs. Homer Simpson!"
+          },
+          {
+            "index": 216,
+            "start": 591.173,
+            "end": 593.968,
+            "text": "♪ You are so beautiful ♪"
+          },
+          {
+            "index": 217,
+            "start": 594.051,
+            "end": 597.388,
+            "text": "♪ to me, yeah ♪"
+          },
+          {
+            "index": 218,
+            "start": 597.471,
+            "end": 600.266,
+            "text": "♪ You are so beautiful ♪"
+          },
+          {
+            "index": 219,
+            "start": 600.349,
+            "end": 601.601,
+            "text": "♪ to me ♪"
+          },
+          {
+            "index": 220,
+            "start": 601.684,
+            "end": 602.977,
+            "text": "♪ Can't you see ♪"
+          },
+          {
+            "index": 221,
+            "start": 603.06,
+            "end": 604.145,
+            "text": "-Oh, Homer.\n-(telephone rings)"
+          },
+          {
+            "index": 222,
+            "start": 604.228,
+            "end": 607.648,
+            "text": "-Hello?\n-Mr. Simpson, it's Karl."
+          },
+          {
+            "index": 223,
+            "start": 607.732,
+            "end": 610.526,
+            "text": "Ah, it sounds like\neverything has arrived."
+          },
+          {
+            "index": 224,
+            "start": 610.61,
+            "end": 612.403,
+            "text": "-Wonderful.\n-You did this?"
+          },
+          {
+            "index": 225,
+            "start": 612.486,
+            "end": 614.905,
+            "text": "Yes, sir. I hope I didn't\noverstep my bounds."
+          },
+          {
+            "index": 226,
+            "start": 614.989,
+            "end": 617.7,
+            "text": "♪ You are so beautiful ♪"
+          },
+          {
+            "index": 227,
+            "start": 617.783,
+            "end": 621.037,
+            "text": "♪ to me ♪"
+          },
+          {
+            "index": 228,
+            "start": 621.12,
+            "end": 623.039,
+            "text": "I love you, Homer!"
+          },
+          {
+            "index": 229,
+            "start": 623.122,
+            "end": 626.208,
+            "text": "I love you, Karl--\nUh, Marge."
+          },
+          {
+            "index": 230,
+            "start": 626.292,
+            "end": 627.293,
+            "text": "Proceed, Smithers."
+          },
+          {
+            "index": 231,
+            "start": 627.376,
+            "end": 628.794,
+            "text": "Our first issue, sir,"
+          },
+          {
+            "index": 232,
+            "start": 628.878,
+            "end": 630.254,
+            "text": "is our low productivity"
+          },
+          {
+            "index": 233,
+            "start": 630.338,
+            "end": 632.006,
+            "text": "and record-high\nworker accident rate."
+          },
+          {
+            "index": 234,
+            "start": 632.089,
+            "end": 634.425,
+            "text": "Guh! Any suggestions?"
+          },
+          {
+            "index": 235,
+            "start": 634.508,
+            "end": 636.51,
+            "text": "A round of layoffs might\nwake up the idiots."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 614.87675390625,
+        "topCueIndex": -1,
+        "bottomCueIndex": 225
+      }
     }
   ]
 }
