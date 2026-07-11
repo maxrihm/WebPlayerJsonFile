@@ -70179,6 +70179,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 327
       }
+    },
+    {
+      "id": "c5d622e9-7ac0-49d7-a861-951f71dc72a7",
+      "createdAt": "2026-07-11T20:22:44.139Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "does not look kindly upon",
+      "selection": {
+        "rawText": "does not\nlook kindly upon",
+        "startOffset": 12,
+        "endOffset": 37,
+        "cueIndex": 329,
+        "cueStart": 887.386,
+        "cueEnd": 890.18,
+        "cueText": "Our company does not\nlook kindly upon $1,000"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 319,
+            "start": 867.825,
+            "end": 868.951,
+            "text": "It's a baldness cure."
+          },
+          {
+            "index": 320,
+            "start": 869.034,
+            "end": 870.953,
+            "text": "Thank you very much,\nprofessor science."
+          },
+          {
+            "index": 321,
+            "start": 871.036,
+            "end": 872.788,
+            "text": "I know what Dimoxinil is."
+          },
+          {
+            "index": 322,
+            "start": 872.872,
+            "end": 875.708,
+            "text": "Now, go and make an example\nof this hooligan."
+          },
+          {
+            "index": 323,
+            "start": 875.791,
+            "end": 877.918,
+            "text": "With pleasure, sir."
+          },
+          {
+            "index": 324,
+            "start": 878.002,
+            "end": 880.671,
+            "text": "Karl, you got to help me.\nMr. Burns wants me"
+          },
+          {
+            "index": 325,
+            "start": 880.754,
+            "end": 882.965,
+            "text": "to make some speech\nto his executives, and--"
+          },
+          {
+            "index": 326,
+            "start": 883.048,
+            "end": 884.174,
+            "text": "-Ahem.\n-What do you want?"
+          },
+          {
+            "index": 327,
+            "start": 884.258,
+            "end": 885.467,
+            "text": "Oh, just thought\nI'd drop by"
+          },
+          {
+            "index": 328,
+            "start": 885.551,
+            "end": 887.303,
+            "text": "-to tell you that you're fired.\n-What?"
+          },
+          {
+            "index": 329,
+            "start": 887.386,
+            "end": 890.18,
+            "text": "Our company does not\nlook kindly upon $1,000"
+          },
+          {
+            "index": 330,
+            "start": 890.264,
+            "end": 891.557,
+            "text": "worth of insurance fraud."
+          },
+          {
+            "index": 331,
+            "start": 891.64,
+            "end": 892.933,
+            "text": "Clean out your desk\nby noon, Simpson."
+          },
+          {
+            "index": 332,
+            "start": 893.017,
+            "end": 894.31,
+            "text": "(moans)"
+          },
+          {
+            "index": 333,
+            "start": 894.393,
+            "end": 897.187,
+            "text": "Wait, Mr. Smithers.\nHomer Simpson is innocent."
+          },
+          {
+            "index": 334,
+            "start": 897.271,
+            "end": 898.814,
+            "text": "I did this."
+          },
+          {
+            "index": 335,
+            "start": 898.898,
+            "end": 900.19,
+            "text": "-You did?\n-What are you talking about?"
+          },
+          {
+            "index": 336,
+            "start": 900.274,
+            "end": 902.651,
+            "text": "Mr. Simpson was unaware\nof any impropriety."
+          },
+          {
+            "index": 337,
+            "start": 902.735,
+            "end": 904.778,
+            "text": "I take full responsibility."
+          },
+          {
+            "index": 338,
+            "start": 904.862,
+            "end": 906.989,
+            "text": "Really? Oh."
+          },
+          {
+            "index": 339,
+            "start": 907.072,
+            "end": 909.992,
+            "text": "Well, then... you're fired,\nwhoever you are."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 891.9742004394532,
+        "topCueIndex": -1,
+        "bottomCueIndex": 329
+      }
     }
   ]
 }
