@@ -69571,6 +69571,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 264
       }
+    },
+    {
+      "id": "36ea0634-187c-4757-951a-6a49913eb9e3",
+      "createdAt": "2026-07-11T20:00:31.646Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "filthy",
+      "selection": {
+        "rawText": "filthy",
+        "startOffset": 36,
+        "endOffset": 42,
+        "cueIndex": 274,
+        "cueStart": 722.888,
+        "cueEnd": 726.475,
+        "cueText": "KARL: Mr. Simpson don't sit on that\nfilthy thing one second longer."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 264,
+            "start": 700.741,
+            "end": 702.66,
+            "text": "would pay off so quickly?"
+          },
+          {
+            "index": 265,
+            "start": 702.743,
+            "end": 705.621,
+            "text": "You know sir, accidents decreased\nby exactly the number"
+          },
+          {
+            "index": 266,
+            "start": 705.705,
+            "end": 708.374,
+            "text": "that Simpson himself has known\nor suspected to have caused last month."
+          },
+          {
+            "index": 267,
+            "start": 708.457,
+            "end": 710.376,
+            "text": "And our output level\nwas just as high"
+          },
+          {
+            "index": 268,
+            "start": 710.459,
+            "end": 711.961,
+            "text": "during Simpson's\nlast vacation."
+          },
+          {
+            "index": 269,
+            "start": 712.044,
+            "end": 714.171,
+            "text": "My dear, tired old Smithers..."
+          },
+          {
+            "index": 270,
+            "start": 714.255,
+            "end": 716.465,
+            "text": "do I detect a note of jealousy?"
+          },
+          {
+            "index": 271,
+            "start": 716.549,
+            "end": 718.008,
+            "text": "(laughing)"
+          },
+          {
+            "index": 272,
+            "start": 718.092,
+            "end": 719.677,
+            "text": "It is time."
+          },
+          {
+            "index": 273,
+            "start": 719.76,
+            "end": 722.805,
+            "text": "Give Simpson...\nthe key."
+          },
+          {
+            "index": 274,
+            "start": 722.888,
+            "end": 726.475,
+            "text": "KARL: Mr. Simpson don't sit on that\nfilthy thing one second longer."
+          },
+          {
+            "index": 275,
+            "start": 726.559,
+            "end": 730.229,
+            "text": "They've given you... the key."
+          },
+          {
+            "index": 276,
+            "start": 730.312,
+            "end": 731.897,
+            "text": "HOMER (gasps):\nThe key?!"
+          },
+          {
+            "index": 277,
+            "start": 731.981,
+            "end": 733.357,
+            "text": "-He's got the key.\n-Who's got the key?"
+          },
+          {
+            "index": 278,
+            "start": 737.403,
+            "end": 738.696,
+            "text": "(all gasping)"
+          },
+          {
+            "index": 279,
+            "start": 748.789,
+            "end": 750.04,
+            "text": "(bird chirping)"
+          },
+          {
+            "index": 280,
+            "start": 750.124,
+            "end": 754.42,
+            "text": "KARL: Stunning.\nAbsolutely stunning."
+          },
+          {
+            "index": 281,
+            "start": 754.503,
+            "end": 755.629,
+            "text": "(toilet flushes)"
+          },
+          {
+            "index": 282,
+            "start": 755.713,
+            "end": 757.173,
+            "text": "Oh! Hey, ho, men."
+          },
+          {
+            "index": 283,
+            "start": 757.256,
+            "end": 758.799,
+            "text": "You know I was watching\nthe Dumont last night"
+          },
+          {
+            "index": 284,
+            "start": 758.883,
+            "end": 760.468,
+            "text": "and I happened to catch\na fascinating documentary"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 726.6430380859375,
+        "topCueIndex": -1,
+        "bottomCueIndex": 274
+      }
     }
   ]
 }
