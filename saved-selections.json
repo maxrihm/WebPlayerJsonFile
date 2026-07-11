@@ -68963,6 +68963,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 239
       }
+    },
+    {
+      "id": "5084ff86-dd4a-4ce1-95bf-a6264219647e",
+      "createdAt": "2026-07-11T19:55:06.756Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "I like the cut of your jib,",
+      "selection": {
+        "rawText": "I like the cut\nof your jib,",
+        "startOffset": 0,
+        "endOffset": 27,
+        "cueIndex": 257,
+        "cueStart": 680.68,
+        "cueEnd": 682.932,
+        "cueText": "I like the cut\nof your jib, Simpson."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 247,
+            "start": 660.576,
+            "end": 662.411,
+            "text": "and chop up the rest into sticks and\nthen put seasoned bread crumbs--"
+          },
+          {
+            "index": 248,
+            "start": 662.495,
+            "end": 665.539,
+            "text": "I know what fish sticks are!\nGet to the point!"
+          },
+          {
+            "index": 249,
+            "start": 665.623,
+            "end": 668.125,
+            "text": "Well, you only get\nthis tiny"
+          },
+          {
+            "index": 250,
+            "start": 668.209,
+            "end": 670.544,
+            "text": "little cup of tartar sauce to dip 'em in\nand I always run out."
+          },
+          {
+            "index": 251,
+            "start": 670.628,
+            "end": 671.754,
+            "text": "Will you stop\nwasting our time, Simpson?"
+          },
+          {
+            "index": 252,
+            "start": 671.837,
+            "end": 673.214,
+            "text": "Shut up, Smithers."
+          },
+          {
+            "index": 253,
+            "start": 673.297,
+            "end": 674.59,
+            "text": "Can't you see\nwhat he's saying?"
+          },
+          {
+            "index": 254,
+            "start": 674.674,
+            "end": 676.592,
+            "text": "A happy worker\nis a busy worker."
+          },
+          {
+            "index": 255,
+            "start": 676.676,
+            "end": 678.386,
+            "text": "Three cents' worth\nof tartar sauce"
+          },
+          {
+            "index": 256,
+            "start": 678.469,
+            "end": 680.596,
+            "text": "could save us thousands\nof man-hours in labor."
+          },
+          {
+            "index": 257,
+            "start": 680.68,
+            "end": 682.932,
+            "text": "I like the cut\nof your jib, Simpson."
+          },
+          {
+            "index": 258,
+            "start": 683.015,
+            "end": 687.144,
+            "text": "Let the fools\nhave their tartar sauce."
+          },
+          {
+            "index": 259,
+            "start": 687.228,
+            "end": 689.98,
+            "text": "HOMER: Enjoy your tartar sauce,\nboys. Enjoy!"
+          },
+          {
+            "index": 260,
+            "start": 690.064,
+            "end": 692.441,
+            "text": "Give me your plates.\nDon't crowd."
+          },
+          {
+            "index": 261,
+            "start": 692.525,
+            "end": 693.943,
+            "text": "Plenty for everybody!"
+          },
+          {
+            "index": 262,
+            "start": 695.486,
+            "end": 697.822,
+            "text": "Hmm, brilliant."
+          },
+          {
+            "index": 263,
+            "start": 697.905,
+            "end": 700.658,
+            "text": "Who could ever have imagined\nthat Simpson's sweeping reforms"
+          },
+          {
+            "index": 264,
+            "start": 700.741,
+            "end": 702.66,
+            "text": "would pay off so quickly?"
+          },
+          {
+            "index": 265,
+            "start": 702.743,
+            "end": 705.621,
+            "text": "You know sir, accidents decreased\nby exactly the number"
+          },
+          {
+            "index": 266,
+            "start": 705.705,
+            "end": 708.374,
+            "text": "that Simpson himself has known\nor suspected to have caused last month."
+          },
+          {
+            "index": 267,
+            "start": 708.457,
+            "end": 710.376,
+            "text": "And our output level\nwas just as high"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 683.3641889648437,
+        "topCueIndex": -1,
+        "bottomCueIndex": 257
+      }
     }
   ]
 }
