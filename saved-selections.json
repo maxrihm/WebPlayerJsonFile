@@ -67747,6 +67747,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 152
       }
+    },
+    {
+      "id": "afe58319-5838-4e7f-afbe-2636e5eeba83",
+      "createdAt": "2026-07-11T17:52:05.722Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "kissy",
+      "selection": {
+        "rawText": "kissy",
+        "startOffset": 28,
+        "endOffset": 33,
+        "cueIndex": 165,
+        "cueStart": 479.812,
+        "cueEnd": 482.023,
+        "cueText": "for the secretary job\nmakes kissy faces at me."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 155,
+            "start": 462.628,
+            "end": 464.213,
+            "text": "Besides typing and stuff"
+          },
+          {
+            "index": 156,
+            "start": 464.297,
+            "end": 466.382,
+            "text": "do you have any other qualifications\nI should know about?"
+          },
+          {
+            "index": 157,
+            "start": 466.466,
+            "end": 468.468,
+            "text": "I give great back rubs\nto harried executives."
+          },
+          {
+            "index": 158,
+            "start": 468.551,
+            "end": 469.51,
+            "text": "Here, let me show you."
+          },
+          {
+            "index": 159,
+            "start": 469.594,
+            "end": 471.22,
+            "text": "Uh, no, no.\nThat'll be fine."
+          },
+          {
+            "index": 160,
+            "start": 471.304,
+            "end": 473.764,
+            "text": "Thank you. Good-bye."
+          },
+          {
+            "index": 161,
+            "start": 473.848,
+            "end": 474.932,
+            "text": "HOMER: Hello?"
+          },
+          {
+            "index": 162,
+            "start": 475.016,
+            "end": 476.058,
+            "text": "Hello, Homie."
+          },
+          {
+            "index": 163,
+            "start": 476.142,
+            "end": 477.685,
+            "text": "How's my big,\nimportant executive?"
+          },
+          {
+            "index": 164,
+            "start": 477.768,
+            "end": 479.729,
+            "text": "Oh Marge, every woman\nI interview"
+          },
+          {
+            "index": 165,
+            "start": 479.812,
+            "end": 482.023,
+            "text": "for the secretary job\nmakes kissy faces at me."
+          },
+          {
+            "index": 166,
+            "start": 482.106,
+            "end": 482.899,
+            "text": "Hmm..."
+          },
+          {
+            "index": 167,
+            "start": 482.982,
+            "end": 486.027,
+            "text": "Hello, Mr. Simpson.\nI'm Karl."
+          },
+          {
+            "index": 168,
+            "start": 486.11,
+            "end": 487.737,
+            "text": "He sounds good. Hire him."
+          },
+          {
+            "index": 169,
+            "start": 487.82,
+            "end": 489.53,
+            "text": "-I'll call ya' back, Marge.\n-Simpson."
+          },
+          {
+            "index": 170,
+            "start": 489.614,
+            "end": 491.741,
+            "text": "Meeting in the\nboard room tomorrow at 2:00."
+          },
+          {
+            "index": 171,
+            "start": 491.824,
+            "end": 493.534,
+            "text": "Just sit there and keep\nyour mouth shut, got it?"
+          },
+          {
+            "index": 172,
+            "start": 493.618,
+            "end": 495.244,
+            "text": "Yes, Mr. Smithers."
+          },
+          {
+            "index": 173,
+            "start": 495.328,
+            "end": 497.079,
+            "text": "He thinks he's so big."
+          },
+          {
+            "index": 174,
+            "start": 497.163,
+            "end": 499.04,
+            "text": "-You don't belong here.\n-Huh?"
+          },
+          {
+            "index": 175,
+            "start": 499.123,
+            "end": 501.709,
+            "text": "You don't belong here."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 482.32163696289064,
+        "topCueIndex": -1,
+        "bottomCueIndex": 165
+      }
     }
   ]
 }
