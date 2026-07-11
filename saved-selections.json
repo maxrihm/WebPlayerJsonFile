@@ -67899,6 +67899,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 170
       }
+    },
+    {
+      "id": "6ac3319c-7bc9-4ce7-965a-e976b954cf2c",
+      "createdAt": "2026-07-11T17:53:35.103Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "phony,",
+      "selection": {
+        "rawText": "phony,",
+        "startOffset": 22,
+        "endOffset": 28,
+        "cueIndex": 176,
+        "cueStart": 501.792,
+        "cueEnd": 503.503,
+        "cueText": "You're a fraud,\nand a phony,"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 166,
+            "start": 482.106,
+            "end": 482.899,
+            "text": "Hmm..."
+          },
+          {
+            "index": 167,
+            "start": 482.982,
+            "end": 486.027,
+            "text": "Hello, Mr. Simpson.\nI'm Karl."
+          },
+          {
+            "index": 168,
+            "start": 486.11,
+            "end": 487.737,
+            "text": "He sounds good. Hire him."
+          },
+          {
+            "index": 169,
+            "start": 487.82,
+            "end": 489.53,
+            "text": "-I'll call ya' back, Marge.\n-Simpson."
+          },
+          {
+            "index": 170,
+            "start": 489.614,
+            "end": 491.741,
+            "text": "Meeting in the\nboard room tomorrow at 2:00."
+          },
+          {
+            "index": 171,
+            "start": 491.824,
+            "end": 493.534,
+            "text": "Just sit there and keep\nyour mouth shut, got it?"
+          },
+          {
+            "index": 172,
+            "start": 493.618,
+            "end": 495.244,
+            "text": "Yes, Mr. Smithers."
+          },
+          {
+            "index": 173,
+            "start": 495.328,
+            "end": 497.079,
+            "text": "He thinks he's so big."
+          },
+          {
+            "index": 174,
+            "start": 497.163,
+            "end": 499.04,
+            "text": "-You don't belong here.\n-Huh?"
+          },
+          {
+            "index": 175,
+            "start": 499.123,
+            "end": 501.709,
+            "text": "You don't belong here."
+          },
+          {
+            "index": 176,
+            "start": 501.792,
+            "end": 503.503,
+            "text": "You're a fraud,\nand a phony,"
+          },
+          {
+            "index": 177,
+            "start": 503.586,
+            "end": 505.671,
+            "text": "and it's only a matter of time\nuntil they find you out."
+          },
+          {
+            "index": 178,
+            "start": 505.755,
+            "end": 507.59,
+            "text": "-(gasps) Who told you?\n-You did."
+          },
+          {
+            "index": 179,
+            "start": 507.673,
+            "end": 509.675,
+            "text": "You told me with the way\nyou slump your shoulders."
+          },
+          {
+            "index": 180,
+            "start": 509.759,
+            "end": 511.177,
+            "text": "The way you talk\ninto your chest."
+          },
+          {
+            "index": 181,
+            "start": 511.26,
+            "end": 512.762,
+            "text": "The way you\nsmother yourself"
+          },
+          {
+            "index": 182,
+            "start": 512.845,
+            "end": 515.515,
+            "text": "in bargain basement\nlime green polyester."
+          },
+          {
+            "index": 183,
+            "start": 515.598,
+            "end": 517.433,
+            "text": "I want you\nto say to yourself"
+          },
+          {
+            "index": 184,
+            "start": 517.517,
+            "end": 519.185,
+            "text": "\"I deserve this.\""
+          },
+          {
+            "index": 185,
+            "start": 519.268,
+            "end": 520.645,
+            "text": "\"I love it.\""
+          },
+          {
+            "index": 186,
+            "start": 520.728,
+            "end": 523.231,
+            "text": "\"I am nature's\ngreatest miracle.\""
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 506.25863818359375,
+        "topCueIndex": -1,
+        "bottomCueIndex": 176
+      }
     }
   ]
 }
