@@ -68203,6 +68203,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 182
       }
+    },
+    {
+      "id": "62dc077e-87db-4576-8a0d-d51ae57373f6",
+      "createdAt": "2026-07-11T17:58:39.884Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "conceal",
+      "selection": {
+        "rawText": "conceal",
+        "startOffset": 5,
+        "endOffset": 12,
+        "cueIndex": 206,
+        "cueStart": 568.317,
+        "cueEnd": 570.319,
+        "cueText": "You, conceal it."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 196,
+            "start": 545.711,
+            "end": 548.714,
+            "text": "(gasps)\nOoh... beauty."
+          },
+          {
+            "index": 197,
+            "start": 548.798,
+            "end": 549.966,
+            "text": "A man's suit"
+          },
+          {
+            "index": 198,
+            "start": 550.049,
+            "end": 551.509,
+            "text": "should make him\nfeel like a prince."
+          },
+          {
+            "index": 199,
+            "start": 551.592,
+            "end": 554.72,
+            "text": "It should cry out to\nthe world, \"Here I am.\""
+          },
+          {
+            "index": 200,
+            "start": 554.804,
+            "end": 556.347,
+            "text": "\"Don't judge me. Love me.\""
+          },
+          {
+            "index": 201,
+            "start": 556.43,
+            "end": 558.182,
+            "text": "Do any of these\nsuits do that?"
+          },
+          {
+            "index": 202,
+            "start": 558.266,
+            "end": 559.35,
+            "text": "No."
+          },
+          {
+            "index": 203,
+            "start": 561.018,
+            "end": 562.687,
+            "text": "Woo! I like this."
+          },
+          {
+            "index": 204,
+            "start": 562.77,
+            "end": 565.523,
+            "text": "No, no, no,\nstand naturally, Mr. Simpson."
+          },
+          {
+            "index": 205,
+            "start": 565.606,
+            "end": 567.233,
+            "text": "Let it all\nhang out."
+          },
+          {
+            "index": 206,
+            "start": 568.317,
+            "end": 570.319,
+            "text": "You, conceal it."
+          },
+          {
+            "index": 207,
+            "start": 570.403,
+            "end": 573.906,
+            "text": "(Marge humming)"
+          },
+          {
+            "index": 208,
+            "start": 575.741,
+            "end": 577.618,
+            "text": "Mom and Dad\nhave been smooching again."
+          },
+          {
+            "index": 209,
+            "start": 577.702,
+            "end": 579.161,
+            "text": "Got to run, Marge.\nCan't be late!"
+          },
+          {
+            "index": 210,
+            "start": 579.245,
+            "end": 581.08,
+            "text": "Happy Anniversary, Homer."
+          },
+          {
+            "index": 211,
+            "start": 581.163,
+            "end": 583.874,
+            "text": "What? Our anniversary?\nAre you sure?"
+          },
+          {
+            "index": 212,
+            "start": 583.958,
+            "end": 585.459,
+            "text": "Well, don't worry, Homie."
+          },
+          {
+            "index": 213,
+            "start": 585.543,
+            "end": 587.753,
+            "text": "This year you have an excuse\nfor not remembering"
+          },
+          {
+            "index": 214,
+            "start": 587.837,
+            "end": 589.088,
+            "text": "-what with your job and--\n-(knock on door)"
+          },
+          {
+            "index": 215,
+            "start": 589.171,
+            "end": 591.09,
+            "text": "Happy Anniversary,\nMrs. Homer Simpson!"
+          },
+          {
+            "index": 216,
+            "start": 591.173,
+            "end": 593.968,
+            "text": "♪ You are so beautiful ♪"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 570.3573212890625,
+        "topCueIndex": -1,
+        "bottomCueIndex": 206
+      }
     }
   ]
 }
