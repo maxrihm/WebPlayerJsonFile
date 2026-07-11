@@ -68355,6 +68355,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 206
       }
+    },
+    {
+      "id": "e614ddb1-b5ba-4358-9ede-300715d978c4",
+      "createdAt": "2026-07-11T19:40:29.739Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "smooching",
+      "selection": {
+        "rawText": "smooching",
+        "startOffset": 22,
+        "endOffset": 31,
+        "cueIndex": 208,
+        "cueStart": 575.741,
+        "cueEnd": 577.618,
+        "cueText": "Mom and Dad\nhave been smooching again."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 198,
+            "start": 550.049,
+            "end": 551.509,
+            "text": "should make him\nfeel like a prince."
+          },
+          {
+            "index": 199,
+            "start": 551.592,
+            "end": 554.72,
+            "text": "It should cry out to\nthe world, \"Here I am.\""
+          },
+          {
+            "index": 200,
+            "start": 554.804,
+            "end": 556.347,
+            "text": "\"Don't judge me. Love me.\""
+          },
+          {
+            "index": 201,
+            "start": 556.43,
+            "end": 558.182,
+            "text": "Do any of these\nsuits do that?"
+          },
+          {
+            "index": 202,
+            "start": 558.266,
+            "end": 559.35,
+            "text": "No."
+          },
+          {
+            "index": 203,
+            "start": 561.018,
+            "end": 562.687,
+            "text": "Woo! I like this."
+          },
+          {
+            "index": 204,
+            "start": 562.77,
+            "end": 565.523,
+            "text": "No, no, no,\nstand naturally, Mr. Simpson."
+          },
+          {
+            "index": 205,
+            "start": 565.606,
+            "end": 567.233,
+            "text": "Let it all\nhang out."
+          },
+          {
+            "index": 206,
+            "start": 568.317,
+            "end": 570.319,
+            "text": "You, conceal it."
+          },
+          {
+            "index": 207,
+            "start": 570.403,
+            "end": 573.906,
+            "text": "(Marge humming)"
+          },
+          {
+            "index": 208,
+            "start": 575.741,
+            "end": 577.618,
+            "text": "Mom and Dad\nhave been smooching again."
+          },
+          {
+            "index": 209,
+            "start": 577.702,
+            "end": 579.161,
+            "text": "Got to run, Marge.\nCan't be late!"
+          },
+          {
+            "index": 210,
+            "start": 579.245,
+            "end": 581.08,
+            "text": "Happy Anniversary, Homer."
+          },
+          {
+            "index": 211,
+            "start": 581.163,
+            "end": 583.874,
+            "text": "What? Our anniversary?\nAre you sure?"
+          },
+          {
+            "index": 212,
+            "start": 583.958,
+            "end": 585.459,
+            "text": "Well, don't worry, Homie."
+          },
+          {
+            "index": 213,
+            "start": 585.543,
+            "end": 587.753,
+            "text": "This year you have an excuse\nfor not remembering"
+          },
+          {
+            "index": 214,
+            "start": 587.837,
+            "end": 589.088,
+            "text": "-what with your job and--\n-(knock on door)"
+          },
+          {
+            "index": 215,
+            "start": 589.171,
+            "end": 591.09,
+            "text": "Happy Anniversary,\nMrs. Homer Simpson!"
+          },
+          {
+            "index": 216,
+            "start": 591.173,
+            "end": 593.968,
+            "text": "♪ You are so beautiful ♪"
+          },
+          {
+            "index": 217,
+            "start": 594.051,
+            "end": 597.388,
+            "text": "♪ to me, yeah ♪"
+          },
+          {
+            "index": 218,
+            "start": 597.471,
+            "end": 600.266,
+            "text": "♪ You are so beautiful ♪"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 579.2407670898438,
+        "topCueIndex": -1,
+        "bottomCueIndex": 208
+      }
     }
   ]
 }
