@@ -68811,6 +68811,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 225
       }
+    },
+    {
+      "id": "8e55b1e3-d61e-427b-94a4-6b7e640906ae",
+      "createdAt": "2026-07-11T19:49:34.548Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "suggestions?",
+      "selection": {
+        "rawText": "suggestions?",
+        "startOffset": 9,
+        "endOffset": 21,
+        "cueIndex": 234,
+        "cueStart": 632.089,
+        "cueEnd": 634.425,
+        "cueText": "Guh! Any suggestions?"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 224,
+            "start": 610.61,
+            "end": 612.403,
+            "text": "-Wonderful.\n-You did this?"
+          },
+          {
+            "index": 225,
+            "start": 612.486,
+            "end": 614.905,
+            "text": "Yes, sir. I hope I didn't\noverstep my bounds."
+          },
+          {
+            "index": 226,
+            "start": 614.989,
+            "end": 617.7,
+            "text": "♪ You are so beautiful ♪"
+          },
+          {
+            "index": 227,
+            "start": 617.783,
+            "end": 621.037,
+            "text": "♪ to me ♪"
+          },
+          {
+            "index": 228,
+            "start": 621.12,
+            "end": 623.039,
+            "text": "I love you, Homer!"
+          },
+          {
+            "index": 229,
+            "start": 623.122,
+            "end": 626.208,
+            "text": "I love you, Karl--\nUh, Marge."
+          },
+          {
+            "index": 230,
+            "start": 626.292,
+            "end": 627.293,
+            "text": "Proceed, Smithers."
+          },
+          {
+            "index": 231,
+            "start": 627.376,
+            "end": 628.794,
+            "text": "Our first issue, sir,"
+          },
+          {
+            "index": 232,
+            "start": 628.878,
+            "end": 630.254,
+            "text": "is our low productivity"
+          },
+          {
+            "index": 233,
+            "start": 630.338,
+            "end": 632.006,
+            "text": "and record-high\nworker accident rate."
+          },
+          {
+            "index": 234,
+            "start": 632.089,
+            "end": 634.425,
+            "text": "Guh! Any suggestions?"
+          },
+          {
+            "index": 235,
+            "start": 634.508,
+            "end": 636.51,
+            "text": "A round of layoffs might\nwake up the idiots."
+          },
+          {
+            "index": 236,
+            "start": 636.594,
+            "end": 638.304,
+            "text": "We could put caffeine\nin the water cooler."
+          },
+          {
+            "index": 237,
+            "start": 638.387,
+            "end": 640.056,
+            "text": "Hmm, well, those\nare my ideas!"
+          },
+          {
+            "index": 238,
+            "start": 640.139,
+            "end": 642.183,
+            "text": "You people don't think,\nyou regurgitate!"
+          },
+          {
+            "index": 239,
+            "start": 642.266,
+            "end": 644.769,
+            "text": "That's why I promoted someone\nwho's in touch with the workers."
+          },
+          {
+            "index": 240,
+            "start": 644.852,
+            "end": 646.729,
+            "text": "-You.\n-I think you mean him, sir."
+          },
+          {
+            "index": 241,
+            "start": 646.812,
+            "end": 649.857,
+            "text": "You then. How would you improve\nthe workers' situation?"
+          },
+          {
+            "index": 242,
+            "start": 649.94,
+            "end": 652.61,
+            "text": "Well, I--\nWell, sir, for one thing,"
+          },
+          {
+            "index": 243,
+            "start": 652.693,
+            "end": 654.362,
+            "text": "we had a problem\nevery Tuesday"
+          },
+          {
+            "index": 244,
+            "start": 654.445,
+            "end": 656.28,
+            "text": "when the cafeteria\nwould serve fish sticks."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 634.7220539550781,
+        "topCueIndex": -1,
+        "bottomCueIndex": 234
+      }
     }
   ]
 }
