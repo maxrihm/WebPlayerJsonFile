@@ -69419,6 +69419,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 263
       }
+    },
+    {
+      "id": "6df0ede9-6c74-49a0-a352-d3b38a4e4871",
+      "createdAt": "2026-07-11T19:57:15.228Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "pay off",
+      "selection": {
+        "rawText": "pay off",
+        "startOffset": 6,
+        "endOffset": 13,
+        "cueIndex": 264,
+        "cueStart": 700.741,
+        "cueEnd": 702.66,
+        "cueText": "would pay off so quickly?"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 254,
+            "start": 674.674,
+            "end": 676.592,
+            "text": "A happy worker\nis a busy worker."
+          },
+          {
+            "index": 255,
+            "start": 676.676,
+            "end": 678.386,
+            "text": "Three cents' worth\nof tartar sauce"
+          },
+          {
+            "index": 256,
+            "start": 678.469,
+            "end": 680.596,
+            "text": "could save us thousands\nof man-hours in labor."
+          },
+          {
+            "index": 257,
+            "start": 680.68,
+            "end": 682.932,
+            "text": "I like the cut\nof your jib, Simpson."
+          },
+          {
+            "index": 258,
+            "start": 683.015,
+            "end": 687.144,
+            "text": "Let the fools\nhave their tartar sauce."
+          },
+          {
+            "index": 259,
+            "start": 687.228,
+            "end": 689.98,
+            "text": "HOMER: Enjoy your tartar sauce,\nboys. Enjoy!"
+          },
+          {
+            "index": 260,
+            "start": 690.064,
+            "end": 692.441,
+            "text": "Give me your plates.\nDon't crowd."
+          },
+          {
+            "index": 261,
+            "start": 692.525,
+            "end": 693.943,
+            "text": "Plenty for everybody!"
+          },
+          {
+            "index": 262,
+            "start": 695.486,
+            "end": 697.822,
+            "text": "Hmm, brilliant."
+          },
+          {
+            "index": 263,
+            "start": 697.905,
+            "end": 700.658,
+            "text": "Who could ever have imagined\nthat Simpson's sweeping reforms"
+          },
+          {
+            "index": 264,
+            "start": 700.741,
+            "end": 702.66,
+            "text": "would pay off so quickly?"
+          },
+          {
+            "index": 265,
+            "start": 702.743,
+            "end": 705.621,
+            "text": "You know sir, accidents decreased\nby exactly the number"
+          },
+          {
+            "index": 266,
+            "start": 705.705,
+            "end": 708.374,
+            "text": "that Simpson himself has known\nor suspected to have caused last month."
+          },
+          {
+            "index": 267,
+            "start": 708.457,
+            "end": 710.376,
+            "text": "And our output level\nwas just as high"
+          },
+          {
+            "index": 268,
+            "start": 710.459,
+            "end": 711.961,
+            "text": "during Simpson's\nlast vacation."
+          },
+          {
+            "index": 269,
+            "start": 712.044,
+            "end": 714.171,
+            "text": "My dear, tired old Smithers..."
+          },
+          {
+            "index": 270,
+            "start": 714.255,
+            "end": 716.465,
+            "text": "do I detect a note of jealousy?"
+          },
+          {
+            "index": 271,
+            "start": 716.549,
+            "end": 718.008,
+            "text": "(laughing)"
+          },
+          {
+            "index": 272,
+            "start": 718.092,
+            "end": 719.677,
+            "text": "It is time."
+          },
+          {
+            "index": 273,
+            "start": 719.76,
+            "end": 722.805,
+            "text": "Give Simpson...\nthe key."
+          },
+          {
+            "index": 274,
+            "start": 722.888,
+            "end": 726.475,
+            "text": "KARL: Mr. Simpson don't sit on that\nfilthy thing one second longer."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 702.5982309570312,
+        "topCueIndex": -1,
+        "bottomCueIndex": 264
+      }
     }
   ]
 }
