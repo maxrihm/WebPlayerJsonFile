@@ -70939,6 +70939,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 348
       }
+    },
+    {
+      "id": "fdc55975-d449-4442-b079-365ff6eba9e3",
+      "createdAt": "2026-07-11T20:27:59.902Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "hereditary.",
+      "selection": {
+        "rawText": "hereditary.",
+        "startOffset": 16,
+        "endOffset": 27,
+        "cueIndex": 382,
+        "cueStart": 1030.738,
+        "cueEnd": 1032.99,
+        "cueText": "and baldness is hereditary."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 372,
+            "start": 1011.385,
+            "end": 1012.553,
+            "text": "(Homer shouting incoherently)"
+          },
+          {
+            "index": 373,
+            "start": 1012.636,
+            "end": 1014.513,
+            "text": "Aah!"
+          },
+          {
+            "index": 374,
+            "start": 1014.596,
+            "end": 1016.557,
+            "text": "Boy... must... die!"
+          },
+          {
+            "index": 375,
+            "start": 1016.64,
+            "end": 1018.308,
+            "text": "I love you, Dad."
+          },
+          {
+            "index": 376,
+            "start": 1018.392,
+            "end": 1021.395,
+            "text": "D'oh!\nDirty trick."
+          },
+          {
+            "index": 377,
+            "start": 1021.478,
+            "end": 1023.814,
+            "text": "Okay. I'm not gonna kill you,"
+          },
+          {
+            "index": 378,
+            "start": 1023.897,
+            "end": 1025.524,
+            "text": "but I'm going to\ntell you three things"
+          },
+          {
+            "index": 379,
+            "start": 1025.607,
+            "end": 1027.484,
+            "text": "that are going to haunt you\nfor the rest of your days."
+          },
+          {
+            "index": 380,
+            "start": 1027.568,
+            "end": 1028.944,
+            "text": "You've ruined your father."
+          },
+          {
+            "index": 381,
+            "start": 1029.028,
+            "end": 1030.654,
+            "text": "You've crippled your family,"
+          },
+          {
+            "index": 382,
+            "start": 1030.738,
+            "end": 1032.99,
+            "text": "and baldness is hereditary."
+          },
+          {
+            "index": 383,
+            "start": 1033.073,
+            "end": 1034.533,
+            "text": "It is?!"
+          },
+          {
+            "index": 384,
+            "start": 1036.785,
+            "end": 1039.663,
+            "text": "(sobbing)"
+          },
+          {
+            "index": 385,
+            "start": 1039.747,
+            "end": 1042.374,
+            "text": "Oh, Homer, why don't you\njust call the pharmacy and--"
+          },
+          {
+            "index": 386,
+            "start": 1042.458,
+            "end": 1043.959,
+            "text": "I don't have 1,000 bucks!"
+          },
+          {
+            "index": 387,
+            "start": 1044.043,
+            "end": 1046.003,
+            "text": "But you do, don't you, Marge?\nYou do. You do."
+          },
+          {
+            "index": 388,
+            "start": 1046.086,
+            "end": 1048.047,
+            "text": "You've been squirreling it\naway, haven't you?"
+          },
+          {
+            "index": 389,
+            "start": 1048.13,
+            "end": 1050.34,
+            "text": "Saving it for a rainy day, that's what\nyou've said, right, right, right?"
+          },
+          {
+            "index": 390,
+            "start": 1050.424,
+            "end": 1051.717,
+            "text": "Homer!"
+          },
+          {
+            "index": 391,
+            "start": 1051.8,
+            "end": 1053.844,
+            "text": "(sobbing)"
+          },
+          {
+            "index": 392,
+            "start": 1053.927,
+            "end": 1056.472,
+            "text": "Dad is taking this\nin a less-than-heroic fashion."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1033.5285444335937,
+        "topCueIndex": -1,
+        "bottomCueIndex": 382
+      }
     }
   ]
 }
