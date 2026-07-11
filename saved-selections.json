@@ -67747,6 +67747,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 176
       }
+    },
+    {
+      "id": "c60f6579-58dc-41f2-91d0-07123231cc54",
+      "createdAt": "2026-07-11T17:54:29.576Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "slump",
+      "selection": {
+        "rawText": "slump",
+        "startOffset": 29,
+        "endOffset": 34,
+        "cueIndex": 179,
+        "cueStart": 507.673,
+        "cueEnd": 509.675,
+        "cueText": "You told me with the way\nyou slump your shoulders."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 169,
+            "start": 487.82,
+            "end": 489.53,
+            "text": "-I'll call ya' back, Marge.\n-Simpson."
+          },
+          {
+            "index": 170,
+            "start": 489.614,
+            "end": 491.741,
+            "text": "Meeting in the\nboard room tomorrow at 2:00."
+          },
+          {
+            "index": 171,
+            "start": 491.824,
+            "end": 493.534,
+            "text": "Just sit there and keep\nyour mouth shut, got it?"
+          },
+          {
+            "index": 172,
+            "start": 493.618,
+            "end": 495.244,
+            "text": "Yes, Mr. Smithers."
+          },
+          {
+            "index": 173,
+            "start": 495.328,
+            "end": 497.079,
+            "text": "He thinks he's so big."
+          },
+          {
+            "index": 174,
+            "start": 497.163,
+            "end": 499.04,
+            "text": "-You don't belong here.\n-Huh?"
+          },
+          {
+            "index": 175,
+            "start": 499.123,
+            "end": 501.709,
+            "text": "You don't belong here."
+          },
+          {
+            "index": 176,
+            "start": 501.792,
+            "end": 503.503,
+            "text": "You're a fraud,\nand a phony,"
+          },
+          {
+            "index": 177,
+            "start": 503.586,
+            "end": 505.671,
+            "text": "and it's only a matter of time\nuntil they find you out."
+          },
+          {
+            "index": 178,
+            "start": 505.755,
+            "end": 507.59,
+            "text": "-(gasps) Who told you?\n-You did."
+          },
+          {
+            "index": 179,
+            "start": 507.673,
+            "end": 509.675,
+            "text": "You told me with the way\nyou slump your shoulders."
+          },
+          {
+            "index": 180,
+            "start": 509.759,
+            "end": 511.177,
+            "text": "The way you talk\ninto your chest."
+          },
+          {
+            "index": 181,
+            "start": 511.26,
+            "end": 512.762,
+            "text": "The way you\nsmother yourself"
+          },
+          {
+            "index": 182,
+            "start": 512.845,
+            "end": 515.515,
+            "text": "in bargain basement\nlime green polyester."
+          },
+          {
+            "index": 183,
+            "start": 515.598,
+            "end": 517.433,
+            "text": "I want you\nto say to yourself"
+          },
+          {
+            "index": 184,
+            "start": 517.517,
+            "end": 519.185,
+            "text": "\"I deserve this.\""
+          },
+          {
+            "index": 185,
+            "start": 519.268,
+            "end": 520.645,
+            "text": "\"I love it.\""
+          },
+          {
+            "index": 186,
+            "start": 520.728,
+            "end": 523.231,
+            "text": "\"I am nature's\ngreatest miracle.\""
+          },
+          {
+            "index": 187,
+            "start": 523.314,
+            "end": 524.482,
+            "text": "Go ahead, say it."
+          },
+          {
+            "index": 188,
+            "start": 524.565,
+            "end": 525.9,
+            "text": "-I-I deser...\n-Trust me, Homer."
+          },
+          {
+            "index": 189,
+            "start": 525.983,
+            "end": 528.236,
+            "text": "-I-- Uh...\n-Take a step and say it!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 512.6658891601562,
+        "topCueIndex": -1,
+        "bottomCueIndex": 179
+      }
     }
   ]
 }
