@@ -70027,6 +70027,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 314
       }
+    },
+    {
+      "id": "529c03ea-3dc4-4951-9fcb-100ce7e6986f",
+      "createdAt": "2026-07-11T20:21:52.771Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "drop by",
+      "selection": {
+        "rawText": "drop by",
+        "startOffset": 21,
+        "endOffset": 28,
+        "cueIndex": 327,
+        "cueStart": 884.258,
+        "cueEnd": 885.467,
+        "cueText": "Oh, just thought\nI'd drop by"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 317,
+            "start": 864.738,
+            "end": 865.865,
+            "text": "How did he do it?"
+          },
+          {
+            "index": 318,
+            "start": 865.948,
+            "end": 867.741,
+            "text": "He charged the company\nfor Dimoxinil."
+          },
+          {
+            "index": 319,
+            "start": 867.825,
+            "end": 868.951,
+            "text": "It's a baldness cure."
+          },
+          {
+            "index": 320,
+            "start": 869.034,
+            "end": 870.953,
+            "text": "Thank you very much,\nprofessor science."
+          },
+          {
+            "index": 321,
+            "start": 871.036,
+            "end": 872.788,
+            "text": "I know what Dimoxinil is."
+          },
+          {
+            "index": 322,
+            "start": 872.872,
+            "end": 875.708,
+            "text": "Now, go and make an example\nof this hooligan."
+          },
+          {
+            "index": 323,
+            "start": 875.791,
+            "end": 877.918,
+            "text": "With pleasure, sir."
+          },
+          {
+            "index": 324,
+            "start": 878.002,
+            "end": 880.671,
+            "text": "Karl, you got to help me.\nMr. Burns wants me"
+          },
+          {
+            "index": 325,
+            "start": 880.754,
+            "end": 882.965,
+            "text": "to make some speech\nto his executives, and--"
+          },
+          {
+            "index": 326,
+            "start": 883.048,
+            "end": 884.174,
+            "text": "-Ahem.\n-What do you want?"
+          },
+          {
+            "index": 327,
+            "start": 884.258,
+            "end": 885.467,
+            "text": "Oh, just thought\nI'd drop by"
+          },
+          {
+            "index": 328,
+            "start": 885.551,
+            "end": 887.303,
+            "text": "-to tell you that you're fired.\n-What?"
+          },
+          {
+            "index": 329,
+            "start": 887.386,
+            "end": 890.18,
+            "text": "Our company does not\nlook kindly upon $1,000"
+          },
+          {
+            "index": 330,
+            "start": 890.264,
+            "end": 891.557,
+            "text": "worth of insurance fraud."
+          },
+          {
+            "index": 331,
+            "start": 891.64,
+            "end": 892.933,
+            "text": "Clean out your desk\nby noon, Simpson."
+          },
+          {
+            "index": 332,
+            "start": 893.017,
+            "end": 894.31,
+            "text": "(moans)"
+          },
+          {
+            "index": 333,
+            "start": 894.393,
+            "end": 897.187,
+            "text": "Wait, Mr. Smithers.\nHomer Simpson is innocent."
+          },
+          {
+            "index": 334,
+            "start": 897.271,
+            "end": 898.814,
+            "text": "I did this."
+          },
+          {
+            "index": 335,
+            "start": 898.898,
+            "end": 900.19,
+            "text": "-You did?\n-What are you talking about?"
+          },
+          {
+            "index": 336,
+            "start": 900.274,
+            "end": 902.651,
+            "text": "Mr. Simpson was unaware\nof any impropriety."
+          },
+          {
+            "index": 337,
+            "start": 902.735,
+            "end": 904.778,
+            "text": "I take full responsibility."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 887.2865695800781,
+        "topCueIndex": -1,
+        "bottomCueIndex": 327
+      }
     }
   ]
 }
