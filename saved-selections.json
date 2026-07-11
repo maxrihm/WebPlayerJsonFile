@@ -70483,6 +70483,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 336
       }
+    },
+    {
+      "id": "53bfdd1a-f25b-4e0b-a882-c0c737c7156f",
+      "createdAt": "2026-07-11T20:24:15.701Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "extraordinary",
+      "selection": {
+        "rawText": "extraordinary",
+        "startOffset": 22,
+        "endOffset": 35,
+        "cueIndex": 344,
+        "cueStart": 922.671,
+        "cueEnd": 926.008,
+        "cueText": "Have I done something\nextraordinary here today?"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 334,
+            "start": 897.271,
+            "end": 898.814,
+            "text": "I did this."
+          },
+          {
+            "index": 335,
+            "start": 898.898,
+            "end": 900.19,
+            "text": "-You did?\n-What are you talking about?"
+          },
+          {
+            "index": 336,
+            "start": 900.274,
+            "end": 902.651,
+            "text": "Mr. Simpson was unaware\nof any impropriety."
+          },
+          {
+            "index": 337,
+            "start": 902.735,
+            "end": 904.778,
+            "text": "I take full responsibility."
+          },
+          {
+            "index": 338,
+            "start": 904.862,
+            "end": 906.989,
+            "text": "Really? Oh."
+          },
+          {
+            "index": 339,
+            "start": 907.072,
+            "end": 909.992,
+            "text": "Well, then... you're fired,\nwhoever you are."
+          },
+          {
+            "index": 340,
+            "start": 910.075,
+            "end": 911.827,
+            "text": "Here's your $1,000."
+          },
+          {
+            "index": 341,
+            "start": 911.911,
+            "end": 915.539,
+            "text": "(groans) Hey, what do you care\nif this guy's bald?"
+          },
+          {
+            "index": 342,
+            "start": 915.623,
+            "end": 918.167,
+            "text": "My reasons... are my own."
+          },
+          {
+            "index": 343,
+            "start": 919.376,
+            "end": 922.588,
+            "text": "Karl, you saved me. Why?"
+          },
+          {
+            "index": 344,
+            "start": 922.671,
+            "end": 926.008,
+            "text": "Have I done something\nextraordinary here today?"
+          },
+          {
+            "index": 345,
+            "start": 926.091,
+            "end": 929.178,
+            "text": "No. I did what\nI was born to do."
+          },
+          {
+            "index": 346,
+            "start": 929.261,
+            "end": 931.096,
+            "text": "What any good soldier\nwould have done"
+          },
+          {
+            "index": 347,
+            "start": 931.18,
+            "end": 933.724,
+            "text": "when a live grenade\nthreatened his commander."
+          },
+          {
+            "index": 348,
+            "start": 933.807,
+            "end": 938.312,
+            "text": "I threw myself upon it\nand bore its terrible brunt."
+          },
+          {
+            "index": 349,
+            "start": 938.395,
+            "end": 940.064,
+            "text": "Oh, thanks, Karl."
+          },
+          {
+            "index": 350,
+            "start": 940.147,
+            "end": 942.65,
+            "text": "I don't know what to say."
+          },
+          {
+            "index": 351,
+            "start": 942.733,
+            "end": 944.276,
+            "text": "Just walk me to my car."
+          },
+          {
+            "index": 352,
+            "start": 945.694,
+            "end": 949.448,
+            "text": "Bye, Karl.\nI'm going to miss you."
+          },
+          {
+            "index": 353,
+            "start": 949.531,
+            "end": 950.866,
+            "text": "Bye, Mr. Simpson."
+          },
+          {
+            "index": 354,
+            "start": 955.162,
+            "end": 958.04,
+            "text": "Oh, Mr. Simpson, did you\nbring an umbrella today?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 925.8451625976562,
+        "topCueIndex": -1,
+        "bottomCueIndex": 344
+      }
     }
   ]
 }
