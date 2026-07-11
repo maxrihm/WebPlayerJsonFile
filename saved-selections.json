@@ -69875,6 +69875,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 307
       }
+    },
+    {
+      "id": "3719c9bb-02e6-4ccb-ae92-a0c5b8c177f6",
+      "createdAt": "2026-07-11T20:19:30.079Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "bilked",
+      "selection": {
+        "rawText": "bilked",
+        "startOffset": 4,
+        "endOffset": 10,
+        "cueIndex": 314,
+        "cueStart": 856.605,
+        "cueEnd": 858.274,
+        "cueText": "has bilked the company\ninsurance plan out of $1,000."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 304,
+            "start": 833.165,
+            "end": 835.96,
+            "text": "An absence of mood swings\nand some stability in my life."
+          },
+          {
+            "index": 305,
+            "start": 836.043,
+            "end": 837.837,
+            "text": "Uh... how about a pony?"
+          },
+          {
+            "index": 306,
+            "start": 837.92,
+            "end": 838.963,
+            "text": "Okay."
+          },
+          {
+            "index": 307,
+            "start": 839.046,
+            "end": 840.756,
+            "text": "BURNS:\nI want you to weave"
+          },
+          {
+            "index": 308,
+            "start": 840.84,
+            "end": 843.425,
+            "text": "that patented Simpson magic\nwith my executives."
+          },
+          {
+            "index": 309,
+            "start": 843.509,
+            "end": 845.511,
+            "text": "A short speech. Work, work, work.\nYou know."
+          },
+          {
+            "index": 310,
+            "start": 845.594,
+            "end": 846.72,
+            "text": "Uh, well, okay.\nWhat the hey?"
+          },
+          {
+            "index": 311,
+            "start": 846.804,
+            "end": 849.431,
+            "text": "Excellent. Set you\nto your task, Simpson."
+          },
+          {
+            "index": 312,
+            "start": 851.684,
+            "end": 854.812,
+            "text": "Hmm. Uh, Mr. Burns,\nit is my sad duty"
+          },
+          {
+            "index": 313,
+            "start": 854.895,
+            "end": 856.522,
+            "text": "to report that one\nof your executives"
+          },
+          {
+            "index": 314,
+            "start": 856.605,
+            "end": 858.274,
+            "text": "has bilked the company\ninsurance plan out of $1,000."
+          },
+          {
+            "index": 315,
+            "start": 858.357,
+            "end": 861.151,
+            "text": "What?\nBlast his hide to Hades!"
+          },
+          {
+            "index": 316,
+            "start": 861.235,
+            "end": 864.655,
+            "text": "Ooh! and I was going to buy\nthat ivory back scratcher."
+          },
+          {
+            "index": 317,
+            "start": 864.738,
+            "end": 865.865,
+            "text": "How did he do it?"
+          },
+          {
+            "index": 318,
+            "start": 865.948,
+            "end": 867.741,
+            "text": "He charged the company\nfor Dimoxinil."
+          },
+          {
+            "index": 319,
+            "start": 867.825,
+            "end": 868.951,
+            "text": "It's a baldness cure."
+          },
+          {
+            "index": 320,
+            "start": 869.034,
+            "end": 870.953,
+            "text": "Thank you very much,\nprofessor science."
+          },
+          {
+            "index": 321,
+            "start": 871.036,
+            "end": 872.788,
+            "text": "I know what Dimoxinil is."
+          },
+          {
+            "index": 322,
+            "start": 872.872,
+            "end": 875.708,
+            "text": "Now, go and make an example\nof this hooligan."
+          },
+          {
+            "index": 323,
+            "start": 875.791,
+            "end": 877.918,
+            "text": "With pleasure, sir."
+          },
+          {
+            "index": 324,
+            "start": 878.002,
+            "end": 880.671,
+            "text": "Karl, you got to help me.\nMr. Burns wants me"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 859.071916015625,
+        "topCueIndex": -1,
+        "bottomCueIndex": 314
+      }
     }
   ]
 }
