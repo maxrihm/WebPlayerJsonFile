@@ -72459,6 +72459,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 411
       }
+    },
+    {
+      "id": "39f6ecbb-bea5-46fb-b2ff-17181f79c501",
+      "createdAt": "2026-07-12T20:03:39.143Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "fresh insights,",
+      "selection": {
+        "rawText": "fresh insights,",
+        "startOffset": 19,
+        "endOffset": 34,
+        "cueIndex": 426,
+        "cueStart": 1140.514,
+        "cueEnd": 1143.058,
+        "cueText": "And now, with some\nfresh insights,"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 416,
+            "start": 1118.492,
+            "end": 1120.244,
+            "text": "The tartar sauce,\nthe bathroom key,"
+          },
+          {
+            "index": 417,
+            "start": 1120.327,
+            "end": 1122.204,
+            "text": "drying your boss's hands."
+          },
+          {
+            "index": 418,
+            "start": 1122.287,
+            "end": 1124.498,
+            "text": "You did it all.\nIt was never the hair."
+          },
+          {
+            "index": 419,
+            "start": 1124.581,
+            "end": 1127.501,
+            "text": "You did it because you believed\nyou could, and you still can."
+          },
+          {
+            "index": 420,
+            "start": 1127.584,
+            "end": 1129.253,
+            "text": "No, I can't.\nI'm just a big fool."
+          },
+          {
+            "index": 421,
+            "start": 1129.336,
+            "end": 1130.838,
+            "text": "-Oh no, you're not.\n-How do you know?"
+          },
+          {
+            "index": 422,
+            "start": 1130.921,
+            "end": 1134.424,
+            "text": "Because my mother taught me\nnever to kiss a fool."
+          },
+          {
+            "index": 423,
+            "start": 1134.508,
+            "end": 1135.592,
+            "text": "Karl."
+          },
+          {
+            "index": 424,
+            "start": 1135.676,
+            "end": 1137.678,
+            "text": "Now go get them, tiger."
+          },
+          {
+            "index": 425,
+            "start": 1137.761,
+            "end": 1138.679,
+            "text": "(growls)"
+          },
+          {
+            "index": 426,
+            "start": 1140.514,
+            "end": 1143.058,
+            "text": "And now, with some\nfresh insights,"
+          },
+          {
+            "index": 427,
+            "start": 1143.142,
+            "end": 1146.186,
+            "text": "one of the rising young stars\nof our nuclear family,"
+          },
+          {
+            "index": 428,
+            "start": 1146.27,
+            "end": 1147.688,
+            "text": "Homer Simpson."
+          },
+          {
+            "index": 429,
+            "start": 1147.771,
+            "end": 1149.94,
+            "text": "(applause)"
+          },
+          {
+            "index": 430,
+            "start": 1150.023,
+            "end": 1152.234,
+            "text": "What in blazes?\nWho is that old geezer?"
+          },
+          {
+            "index": 431,
+            "start": 1152.317,
+            "end": 1153.694,
+            "text": "And what has he done\nwith Homer Simpson?"
+          },
+          {
+            "index": 432,
+            "start": 1153.777,
+            "end": 1156.196,
+            "text": "He is Homer Simpson, sir."
+          },
+          {
+            "index": 433,
+            "start": 1156.28,
+            "end": 1157.239,
+            "text": "(clears throat)"
+          },
+          {
+            "index": 434,
+            "start": 1157.322,
+            "end": 1158.866,
+            "text": "Uh, a lot of you"
+          },
+          {
+            "index": 435,
+            "start": 1158.949,
+            "end": 1161.118,
+            "text": "would think I was crazy\nif I did this."
+          },
+          {
+            "index": 436,
+            "start": 1161.201,
+            "end": 1162.327,
+            "text": "He's crazy!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1147.3254079589844,
+        "topCueIndex": -1,
+        "bottomCueIndex": 426
+      }
     }
   ]
 }
