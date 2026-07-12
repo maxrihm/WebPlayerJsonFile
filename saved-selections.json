@@ -73827,6 +73827,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 474
       }
+    },
+    {
+      "id": "35a88a21-83b0-4154-8b46-10aac781b7fa",
+      "createdAt": "2026-07-12T20:13:45.344Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "get over it.",
+      "selection": {
+        "rawText": "get over it.",
+        "startOffset": 18,
+        "endOffset": 30,
+        "cueIndex": 488,
+        "cueStart": 1288.578,
+        "cueEnd": 1290.539,
+        "cueText": "and the kids\nwill get over it."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 478,
+            "start": 1266.39,
+            "end": 1268.308,
+            "text": "I've never been\nmore awake in my life."
+          },
+          {
+            "index": 479,
+            "start": 1268.392,
+            "end": 1269.434,
+            "text": "What's wrong?"
+          },
+          {
+            "index": 480,
+            "start": 1269.518,
+            "end": 1270.936,
+            "text": "Are you kidding?"
+          },
+          {
+            "index": 481,
+            "start": 1271.019,
+            "end": 1273.981,
+            "text": "I'm stuck\nin that dead-end job again."
+          },
+          {
+            "index": 482,
+            "start": 1274.064,
+            "end": 1275.816,
+            "text": "The kids are going to hate me"
+          },
+          {
+            "index": 483,
+            "start": 1275.899,
+            "end": 1278.694,
+            "text": "'cause I can't buy 'em\nall that stuff I promised them,"
+          },
+          {
+            "index": 484,
+            "start": 1278.777,
+            "end": 1281.196,
+            "text": "and you're not going\nto love me as much"
+          },
+          {
+            "index": 485,
+            "start": 1281.28,
+            "end": 1283.824,
+            "text": "'cause I'm ugly and bald."
+          },
+          {
+            "index": 486,
+            "start": 1283.907,
+            "end": 1285.325,
+            "text": "Oh, Homer."
+          },
+          {
+            "index": 487,
+            "start": 1285.409,
+            "end": 1288.495,
+            "text": "Your job has always\nput food on our table"
+          },
+          {
+            "index": 488,
+            "start": 1288.578,
+            "end": 1290.539,
+            "text": "and the kids\nwill get over it."
+          },
+          {
+            "index": 489,
+            "start": 1290.622,
+            "end": 1292.165,
+            "text": "And?"
+          },
+          {
+            "index": 490,
+            "start": 1292.249,
+            "end": 1294.167,
+            "text": "And what about loving me?"
+          },
+          {
+            "index": 491,
+            "start": 1294.251,
+            "end": 1296.253,
+            "text": "Oh, Homer, I--"
+          },
+          {
+            "index": 492,
+            "start": 1296.336,
+            "end": 1297.838,
+            "text": "-Come here.\n-Why?"
+          },
+          {
+            "index": 493,
+            "start": 1297.921,
+            "end": 1299.84,
+            "text": "-Come here.\n-Oh."
+          },
+          {
+            "index": 494,
+            "start": 1299.923,
+            "end": 1307.806,
+            "text": "♪ You are so beautiful to me ♪"
+          },
+          {
+            "index": 495,
+            "start": 1307.889,
+            "end": 1313.395,
+            "text": "♪ You are so\nbeautiful to me ♪"
+          },
+          {
+            "index": 496,
+            "start": 1313.478,
+            "end": 1315.147,
+            "text": "♪ Can't you see? ♪"
+          },
+          {
+            "index": 497,
+            "start": 1315.23,
+            "end": 1316.773,
+            "text": "Aw."
+          },
+          {
+            "index": 498,
+            "start": 1316.857,
+            "end": 1320.11,
+            "text": "♪ You're everything\nthat I hope for ♪"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1290.7044428710938,
+        "topCueIndex": -1,
+        "bottomCueIndex": 488
+      }
     }
   ]
 }
