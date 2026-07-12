@@ -71243,6 +71243,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 388
       }
+    },
+    {
+      "id": "6dd1b206-daae-45e3-9fb6-162c61bec49a",
+      "createdAt": "2026-07-12T19:57:41.391Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "fashion.",
+      "selection": {
+        "rawText": "fashion.",
+        "startOffset": 41,
+        "endOffset": 49,
+        "cueIndex": 392,
+        "cueStart": 1053.927,
+        "cueEnd": 1056.472,
+        "cueText": "Dad is taking this\nin a less-than-heroic fashion."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 382,
+            "start": 1030.738,
+            "end": 1032.99,
+            "text": "and baldness is hereditary."
+          },
+          {
+            "index": 383,
+            "start": 1033.073,
+            "end": 1034.533,
+            "text": "It is?!"
+          },
+          {
+            "index": 384,
+            "start": 1036.785,
+            "end": 1039.663,
+            "text": "(sobbing)"
+          },
+          {
+            "index": 385,
+            "start": 1039.747,
+            "end": 1042.374,
+            "text": "Oh, Homer, why don't you\njust call the pharmacy and--"
+          },
+          {
+            "index": 386,
+            "start": 1042.458,
+            "end": 1043.959,
+            "text": "I don't have 1,000 bucks!"
+          },
+          {
+            "index": 387,
+            "start": 1044.043,
+            "end": 1046.003,
+            "text": "But you do, don't you, Marge?\nYou do. You do."
+          },
+          {
+            "index": 388,
+            "start": 1046.086,
+            "end": 1048.047,
+            "text": "You've been squirreling it\naway, haven't you?"
+          },
+          {
+            "index": 389,
+            "start": 1048.13,
+            "end": 1050.34,
+            "text": "Saving it for a rainy day, that's what\nyou've said, right, right, right?"
+          },
+          {
+            "index": 390,
+            "start": 1050.424,
+            "end": 1051.717,
+            "text": "Homer!"
+          },
+          {
+            "index": 391,
+            "start": 1051.8,
+            "end": 1053.844,
+            "text": "(sobbing)"
+          },
+          {
+            "index": 392,
+            "start": 1053.927,
+            "end": 1056.472,
+            "text": "Dad is taking this\nin a less-than-heroic fashion."
+          },
+          {
+            "index": 393,
+            "start": 1068.025,
+            "end": 1070.903,
+            "text": "Oh, Homie, I'm so sorry."
+          },
+          {
+            "index": 394,
+            "start": 1070.986,
+            "end": 1072.613,
+            "text": "(shuddering sigh)"
+          },
+          {
+            "index": 395,
+            "start": 1072.696,
+            "end": 1075.407,
+            "text": "Got that big speech in\nfive minutes, Simpson, huh?"
+          },
+          {
+            "index": 396,
+            "start": 1075.491,
+            "end": 1078.202,
+            "text": "You're not going\nto hang yourself, are you?"
+          },
+          {
+            "index": 397,
+            "start": 1078.285,
+            "end": 1079.62,
+            "text": "D'oh!"
+          },
+          {
+            "index": 398,
+            "start": 1079.703,
+            "end": 1081.121,
+            "text": "Huh?"
+          },
+          {
+            "index": 399,
+            "start": 1082.581,
+            "end": 1084.458,
+            "text": "KARL:\n\"Dear Mr. Simpson"
+          },
+          {
+            "index": 400,
+            "start": 1084.541,
+            "end": 1086.543,
+            "text": "\"I've taken the liberty\nof preparing your speech"
+          },
+          {
+            "index": 401,
+            "start": 1086.627,
+            "end": 1088.796,
+            "text": "\"on the enclosed\nnumbered three-by-five cards."
+          },
+          {
+            "index": 402,
+            "start": 1088.879,
+            "end": 1090.714,
+            "text": "\"all the big words\nare spelled..."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1056.460421875,
+        "topCueIndex": -1,
+        "bottomCueIndex": 392
+      }
     }
   ]
 }
