@@ -73371,6 +73371,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 467
       }
+    },
+    {
+      "id": "ef365baf-e5cd-4c25-9114-45d10dec83c0",
+      "createdAt": "2026-07-12T20:11:52.346Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "plucked chicken.",
+      "selection": {
+        "rawText": "plucked chicken.",
+        "startOffset": 27,
+        "endOffset": 43,
+        "cueIndex": 469,
+        "cueStart": 1240.822,
+        "cueEnd": 1243.283,
+        "cueText": "when I became as bald\nas a plucked chicken."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 459,
+            "start": 1214.171,
+            "end": 1216.256,
+            "text": "I should fire you on the spot."
+          },
+          {
+            "index": 460,
+            "start": 1216.34,
+            "end": 1218.8,
+            "text": "But...\nI'm not going to."
+          },
+          {
+            "index": 461,
+            "start": 1218.884,
+            "end": 1220.886,
+            "text": "Uh, why?"
+          },
+          {
+            "index": 462,
+            "start": 1220.969,
+            "end": 1222.804,
+            "text": "Simpsons, how old\ndo you think I am?"
+          },
+          {
+            "index": 463,
+            "start": 1222.888,
+            "end": 1225.182,
+            "text": "I don't know. 102?"
+          },
+          {
+            "index": 464,
+            "start": 1225.265,
+            "end": 1227.517,
+            "text": "I'm only 81."
+          },
+          {
+            "index": 465,
+            "start": 1227.601,
+            "end": 1230.103,
+            "text": "You may find this\nhard to believe"
+          },
+          {
+            "index": 466,
+            "start": 1230.187,
+            "end": 1233.815,
+            "text": "but in my salad days,\nmy crowning glory"
+          },
+          {
+            "index": 467,
+            "start": 1233.899,
+            "end": 1237.319,
+            "text": "was a bright shock\nof strawberry blonde curls."
+          },
+          {
+            "index": 468,
+            "start": 1237.402,
+            "end": 1240.739,
+            "text": "Oh, I was big man on campus\nuntil my senior year,"
+          },
+          {
+            "index": 469,
+            "start": 1240.822,
+            "end": 1243.283,
+            "text": "when I became as bald\nas a plucked chicken."
+          },
+          {
+            "index": 470,
+            "start": 1243.367,
+            "end": 1244.868,
+            "text": "You see, Simpson"
+          },
+          {
+            "index": 471,
+            "start": 1244.952,
+            "end": 1250.123,
+            "text": "I, too, know the sting\nof male pattern baldness."
+          },
+          {
+            "index": 472,
+            "start": 1250.207,
+            "end": 1253.335,
+            "text": "That's why I'm giving you\nyour old job back."
+          },
+          {
+            "index": 473,
+            "start": 1253.418,
+            "end": 1256.004,
+            "text": "What? Oh, thank you,\nthank you, thank you."
+          },
+          {
+            "index": 474,
+            "start": 1256.088,
+            "end": 1258.131,
+            "text": "Now get out of here\nbefore I reconsider."
+          },
+          {
+            "index": 475,
+            "start": 1259.299,
+            "end": 1260.509,
+            "text": "Oh. Better hurry up."
+          },
+          {
+            "index": 476,
+            "start": 1260.592,
+            "end": 1264.137,
+            "text": "(Homer mumbling)"
+          },
+          {
+            "index": 477,
+            "start": 1264.221,
+            "end": 1266.306,
+            "text": "Homer, are you\nstill awake?"
+          },
+          {
+            "index": 478,
+            "start": 1266.39,
+            "end": 1268.308,
+            "text": "I've never been\nmore awake in my life."
+          },
+          {
+            "index": 479,
+            "start": 1268.392,
+            "end": 1269.434,
+            "text": "What's wrong?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1243.6841909179689,
+        "topCueIndex": -1,
+        "bottomCueIndex": 469
+      }
     }
   ]
 }
