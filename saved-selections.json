@@ -73675,6 +73675,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 471
       }
+    },
+    {
+      "id": "f2bfcb2b-d873-4f36-8c29-d3f8f47f650c",
+      "createdAt": "2026-07-12T20:12:50.115Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "reconsider.",
+      "selection": {
+        "rawText": "reconsider.",
+        "startOffset": 29,
+        "endOffset": 40,
+        "cueIndex": 474,
+        "cueStart": 1256.088,
+        "cueEnd": 1258.131,
+        "cueText": "Now get out of here\nbefore I reconsider."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 464,
+            "start": 1225.265,
+            "end": 1227.517,
+            "text": "I'm only 81."
+          },
+          {
+            "index": 465,
+            "start": 1227.601,
+            "end": 1230.103,
+            "text": "You may find this\nhard to believe"
+          },
+          {
+            "index": 466,
+            "start": 1230.187,
+            "end": 1233.815,
+            "text": "but in my salad days,\nmy crowning glory"
+          },
+          {
+            "index": 467,
+            "start": 1233.899,
+            "end": 1237.319,
+            "text": "was a bright shock\nof strawberry blonde curls."
+          },
+          {
+            "index": 468,
+            "start": 1237.402,
+            "end": 1240.739,
+            "text": "Oh, I was big man on campus\nuntil my senior year,"
+          },
+          {
+            "index": 469,
+            "start": 1240.822,
+            "end": 1243.283,
+            "text": "when I became as bald\nas a plucked chicken."
+          },
+          {
+            "index": 470,
+            "start": 1243.367,
+            "end": 1244.868,
+            "text": "You see, Simpson"
+          },
+          {
+            "index": 471,
+            "start": 1244.952,
+            "end": 1250.123,
+            "text": "I, too, know the sting\nof male pattern baldness."
+          },
+          {
+            "index": 472,
+            "start": 1250.207,
+            "end": 1253.335,
+            "text": "That's why I'm giving you\nyour old job back."
+          },
+          {
+            "index": 473,
+            "start": 1253.418,
+            "end": 1256.004,
+            "text": "What? Oh, thank you,\nthank you, thank you."
+          },
+          {
+            "index": 474,
+            "start": 1256.088,
+            "end": 1258.131,
+            "text": "Now get out of here\nbefore I reconsider."
+          },
+          {
+            "index": 475,
+            "start": 1259.299,
+            "end": 1260.509,
+            "text": "Oh. Better hurry up."
+          },
+          {
+            "index": 476,
+            "start": 1260.592,
+            "end": 1264.137,
+            "text": "(Homer mumbling)"
+          },
+          {
+            "index": 477,
+            "start": 1264.221,
+            "end": 1266.306,
+            "text": "Homer, are you\nstill awake?"
+          },
+          {
+            "index": 478,
+            "start": 1266.39,
+            "end": 1268.308,
+            "text": "I've never been\nmore awake in my life."
+          },
+          {
+            "index": 479,
+            "start": 1268.392,
+            "end": 1269.434,
+            "text": "What's wrong?"
+          },
+          {
+            "index": 480,
+            "start": 1269.518,
+            "end": 1270.936,
+            "text": "Are you kidding?"
+          },
+          {
+            "index": 481,
+            "start": 1271.019,
+            "end": 1273.981,
+            "text": "I'm stuck\nin that dead-end job again."
+          },
+          {
+            "index": 482,
+            "start": 1274.064,
+            "end": 1275.816,
+            "text": "The kids are going to hate me"
+          },
+          {
+            "index": 483,
+            "start": 1275.899,
+            "end": 1278.694,
+            "text": "'cause I can't buy 'em\nall that stuff I promised them,"
+          },
+          {
+            "index": 484,
+            "start": 1278.777,
+            "end": 1281.196,
+            "text": "and you're not going\nto love me as much"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1261.058344970703,
+        "topCueIndex": -1,
+        "bottomCueIndex": 474
+      }
     }
   ]
 }
