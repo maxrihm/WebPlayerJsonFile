@@ -72459,6 +72459,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 439
       }
+    },
+    {
+      "id": "d8a1b804-cc8c-409c-bd0f-76fc9ba66d1c",
+      "createdAt": "2026-07-12T20:07:06.244Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "offsetting",
+      "selection": {
+        "rawText": "offsetting",
+        "startOffset": 10,
+        "endOffset": 20,
+        "cueIndex": 450,
+        "cueStart": 1190.856,
+        "cueEnd": 1192.649,
+        "cueText": "more than offsetting\nthe one-time cost"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 440,
+            "start": 1168.876,
+            "end": 1172.087,
+            "text": "I can save this company\nmillions of dollars a year."
+          },
+          {
+            "index": 441,
+            "start": 1172.171,
+            "end": 1174.214,
+            "text": "How?\nThrough Jiko Kandri"
+          },
+          {
+            "index": 442,
+            "start": 1174.298,
+            "end": 1176.633,
+            "text": "the Japanese art\nof self-management."
+          },
+          {
+            "index": 443,
+            "start": 1176.717,
+            "end": 1178.76,
+            "text": "This bald man\nhas no ideas."
+          },
+          {
+            "index": 444,
+            "start": 1178.844,
+            "end": 1180.637,
+            "text": "If this is a joke,\nI'm not laughing."
+          },
+          {
+            "index": 445,
+            "start": 1180.721,
+            "end": 1183.056,
+            "text": "Some nerve, telling us\nhow to run the plant."
+          },
+          {
+            "index": 446,
+            "start": 1183.14,
+            "end": 1184.433,
+            "text": "He doesn't even have hair."
+          },
+          {
+            "index": 447,
+            "start": 1184.516,
+            "end": 1186.268,
+            "text": "...inefficiently\nmining uranium"
+          },
+          {
+            "index": 448,
+            "start": 1186.351,
+            "end": 1188.854,
+            "text": "that can be purchased quite\ncheaply on the foreign markets."
+          },
+          {
+            "index": 449,
+            "start": 1188.937,
+            "end": 1190.772,
+            "text": "The long-term benefits"
+          },
+          {
+            "index": 450,
+            "start": 1190.856,
+            "end": 1192.649,
+            "text": "more than offsetting\nthe one-time cost"
+          },
+          {
+            "index": 451,
+            "start": 1192.733,
+            "end": 1196.111,
+            "text": "for a net savings\nof five thousand, two..."
+          },
+          {
+            "index": 452,
+            "start": 1196.195,
+            "end": 1198.322,
+            "text": "(mumbling)"
+          },
+          {
+            "index": 453,
+            "start": 1198.405,
+            "end": 1199.406,
+            "text": "...lots of money."
+          },
+          {
+            "index": 454,
+            "start": 1199.489,
+            "end": 1201.658,
+            "text": "Mr. Burns' office.\nRight now."
+          },
+          {
+            "index": 455,
+            "start": 1205.204,
+            "end": 1206.538,
+            "text": "Dead man coming through."
+          },
+          {
+            "index": 456,
+            "start": 1206.622,
+            "end": 1207.956,
+            "text": "MR. BURNS:\nWell, well, well"
+          },
+          {
+            "index": 457,
+            "start": 1208.04,
+            "end": 1211.001,
+            "text": "our dashing\nyoung \"junior\" executive."
+          },
+          {
+            "index": 458,
+            "start": 1211.084,
+            "end": 1214.087,
+            "text": "You made a hollow mockery of\nour morning meeting, Simpson."
+          },
+          {
+            "index": 459,
+            "start": 1214.171,
+            "end": 1216.256,
+            "text": "I should fire you on the spot."
+          },
+          {
+            "index": 460,
+            "start": 1216.34,
+            "end": 1218.8,
+            "text": "But...\nI'm not going to."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1202.0378149414062,
+        "topCueIndex": -1,
+        "bottomCueIndex": 450
+      }
     }
   ]
 }
