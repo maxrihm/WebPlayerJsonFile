@@ -72611,6 +72611,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 450
       }
+    },
+    {
+      "id": "d1421602-ef26-4afa-951c-9d3c563c59b2",
+      "createdAt": "2026-07-12T20:07:44.206Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "dashing",
+      "selection": {
+        "rawText": "dashing",
+        "startOffset": 4,
+        "endOffset": 11,
+        "cueIndex": 457,
+        "cueStart": 1208.04,
+        "cueEnd": 1211.001,
+        "cueText": "our dashing\nyoung \"junior\" executive."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 447,
+            "start": 1184.516,
+            "end": 1186.268,
+            "text": "...inefficiently\nmining uranium"
+          },
+          {
+            "index": 448,
+            "start": 1186.351,
+            "end": 1188.854,
+            "text": "that can be purchased quite\ncheaply on the foreign markets."
+          },
+          {
+            "index": 449,
+            "start": 1188.937,
+            "end": 1190.772,
+            "text": "The long-term benefits"
+          },
+          {
+            "index": 450,
+            "start": 1190.856,
+            "end": 1192.649,
+            "text": "more than offsetting\nthe one-time cost"
+          },
+          {
+            "index": 451,
+            "start": 1192.733,
+            "end": 1196.111,
+            "text": "for a net savings\nof five thousand, two..."
+          },
+          {
+            "index": 452,
+            "start": 1196.195,
+            "end": 1198.322,
+            "text": "(mumbling)"
+          },
+          {
+            "index": 453,
+            "start": 1198.405,
+            "end": 1199.406,
+            "text": "...lots of money."
+          },
+          {
+            "index": 454,
+            "start": 1199.489,
+            "end": 1201.658,
+            "text": "Mr. Burns' office.\nRight now."
+          },
+          {
+            "index": 455,
+            "start": 1205.204,
+            "end": 1206.538,
+            "text": "Dead man coming through."
+          },
+          {
+            "index": 456,
+            "start": 1206.622,
+            "end": 1207.956,
+            "text": "MR. BURNS:\nWell, well, well"
+          },
+          {
+            "index": 457,
+            "start": 1208.04,
+            "end": 1211.001,
+            "text": "our dashing\nyoung \"junior\" executive."
+          },
+          {
+            "index": 458,
+            "start": 1211.084,
+            "end": 1214.087,
+            "text": "You made a hollow mockery of\nour morning meeting, Simpson."
+          },
+          {
+            "index": 459,
+            "start": 1214.171,
+            "end": 1216.256,
+            "text": "I should fire you on the spot."
+          },
+          {
+            "index": 460,
+            "start": 1216.34,
+            "end": 1218.8,
+            "text": "But...\nI'm not going to."
+          },
+          {
+            "index": 461,
+            "start": 1218.884,
+            "end": 1220.886,
+            "text": "Uh, why?"
+          },
+          {
+            "index": 462,
+            "start": 1220.969,
+            "end": 1222.804,
+            "text": "Simpsons, how old\ndo you think I am?"
+          },
+          {
+            "index": 463,
+            "start": 1222.888,
+            "end": 1225.182,
+            "text": "I don't know. 102?"
+          },
+          {
+            "index": 464,
+            "start": 1225.265,
+            "end": 1227.517,
+            "text": "I'm only 81."
+          },
+          {
+            "index": 465,
+            "start": 1227.601,
+            "end": 1230.103,
+            "text": "You may find this\nhard to believe"
+          },
+          {
+            "index": 466,
+            "start": 1230.187,
+            "end": 1233.815,
+            "text": "but in my salad days,\nmy crowning glory"
+          },
+          {
+            "index": 467,
+            "start": 1233.899,
+            "end": 1237.319,
+            "text": "was a bright shock\nof strawberry blonde curls."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1211.1685310058594,
+        "topCueIndex": -1,
+        "bottomCueIndex": 457
+      }
     }
   ]
 }
