@@ -72307,6 +72307,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 406
       }
+    },
+    {
+      "id": "6477c3fb-66f0-4a2b-ae3f-24e13864b182",
+      "createdAt": "2026-07-12T20:01:02.068Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "gals",
+      "selection": {
+        "rawText": "gals",
+        "startOffset": 35,
+        "endOffset": 39,
+        "cueIndex": 411,
+        "cueStart": 1107.689,
+        "cueEnd": 1110.192,
+        "cueText": "I just came to say good-bye\nto the gals in the typing pool."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 401,
+            "start": 1086.627,
+            "end": 1088.796,
+            "text": "\"on the enclosed\nnumbered three-by-five cards."
+          },
+          {
+            "index": 402,
+            "start": 1088.879,
+            "end": 1090.714,
+            "text": "\"all the big words\nare spelled..."
+          },
+          {
+            "index": 403,
+            "start": 1090.798,
+            "end": 1092.466,
+            "text": "\"pho-en-ne-net-tically."
+          },
+          {
+            "index": 404,
+            "start": 1092.549,
+            "end": 1094.259,
+            "text": "\"God bless you."
+          },
+          {
+            "index": 405,
+            "start": 1094.343,
+            "end": 1098.18,
+            "text": "\"You are one of Springfield's\nvery special creatures."
+          },
+          {
+            "index": 406,
+            "start": 1098.263,
+            "end": 1101.558,
+            "text": "Your obedient servant, Karl.\""
+          },
+          {
+            "index": 407,
+            "start": 1101.642,
+            "end": 1102.601,
+            "text": "Good luck, sir."
+          },
+          {
+            "index": 408,
+            "start": 1102.684,
+            "end": 1103.811,
+            "text": "Ah! Karl."
+          },
+          {
+            "index": 409,
+            "start": 1103.894,
+            "end": 1105.229,
+            "text": "So that wasn't just\na sweet voice"
+          },
+          {
+            "index": 410,
+            "start": 1105.312,
+            "end": 1107.606,
+            "text": "I heard inside my head.\nWhat are you doing here?"
+          },
+          {
+            "index": 411,
+            "start": 1107.689,
+            "end": 1110.192,
+            "text": "I just came to say good-bye\nto the gals in the typing pool."
+          },
+          {
+            "index": 412,
+            "start": 1110.275,
+            "end": 1112.569,
+            "text": "Yeah, well.\nThanks for the speech, Karl"
+          },
+          {
+            "index": 413,
+            "start": 1112.653,
+            "end": 1114.78,
+            "text": "but I can't give it.\nLook at me."
+          },
+          {
+            "index": 414,
+            "start": 1114.863,
+            "end": 1116.615,
+            "text": "I guess I haven't\ntaught you anything."
+          },
+          {
+            "index": 415,
+            "start": 1116.698,
+            "end": 1118.408,
+            "text": "-What do you mean?\n-Don't you see?"
+          },
+          {
+            "index": 416,
+            "start": 1118.492,
+            "end": 1120.244,
+            "text": "The tartar sauce,\nthe bathroom key,"
+          },
+          {
+            "index": 417,
+            "start": 1120.327,
+            "end": 1122.204,
+            "text": "drying your boss's hands."
+          },
+          {
+            "index": 418,
+            "start": 1122.287,
+            "end": 1124.498,
+            "text": "You did it all.\nIt was never the hair."
+          },
+          {
+            "index": 419,
+            "start": 1124.581,
+            "end": 1127.501,
+            "text": "You did it because you believed\nyou could, and you still can."
+          },
+          {
+            "index": 420,
+            "start": 1127.584,
+            "end": 1129.253,
+            "text": "No, I can't.\nI'm just a big fool."
+          },
+          {
+            "index": 421,
+            "start": 1129.336,
+            "end": 1130.838,
+            "text": "-Oh no, you're not.\n-How do you know?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1110.5161149902344,
+        "topCueIndex": -1,
+        "bottomCueIndex": 411
+      }
     }
   ]
 }
