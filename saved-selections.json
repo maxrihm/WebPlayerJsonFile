@@ -72003,6 +72003,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 400
       }
+    },
+    {
+      "id": "96babe68-feae-48a5-8ffb-0e5bae559303",
+      "createdAt": "2026-07-12T20:00:15.899Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "obedient",
+      "selection": {
+        "rawText": "obedient",
+        "startOffset": 5,
+        "endOffset": 13,
+        "cueIndex": 406,
+        "cueStart": 1098.263,
+        "cueEnd": 1101.558,
+        "cueText": "Your obedient servant, Karl.\""
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 396,
+            "start": 1075.491,
+            "end": 1078.202,
+            "text": "You're not going\nto hang yourself, are you?"
+          },
+          {
+            "index": 397,
+            "start": 1078.285,
+            "end": 1079.62,
+            "text": "D'oh!"
+          },
+          {
+            "index": 398,
+            "start": 1079.703,
+            "end": 1081.121,
+            "text": "Huh?"
+          },
+          {
+            "index": 399,
+            "start": 1082.581,
+            "end": 1084.458,
+            "text": "KARL:\n\"Dear Mr. Simpson"
+          },
+          {
+            "index": 400,
+            "start": 1084.541,
+            "end": 1086.543,
+            "text": "\"I've taken the liberty\nof preparing your speech"
+          },
+          {
+            "index": 401,
+            "start": 1086.627,
+            "end": 1088.796,
+            "text": "\"on the enclosed\nnumbered three-by-five cards."
+          },
+          {
+            "index": 402,
+            "start": 1088.879,
+            "end": 1090.714,
+            "text": "\"all the big words\nare spelled..."
+          },
+          {
+            "index": 403,
+            "start": 1090.798,
+            "end": 1092.466,
+            "text": "\"pho-en-ne-net-tically."
+          },
+          {
+            "index": 404,
+            "start": 1092.549,
+            "end": 1094.259,
+            "text": "\"God bless you."
+          },
+          {
+            "index": 405,
+            "start": 1094.343,
+            "end": 1098.18,
+            "text": "\"You are one of Springfield's\nvery special creatures."
+          },
+          {
+            "index": 406,
+            "start": 1098.263,
+            "end": 1101.558,
+            "text": "Your obedient servant, Karl.\""
+          },
+          {
+            "index": 407,
+            "start": 1101.642,
+            "end": 1102.601,
+            "text": "Good luck, sir."
+          },
+          {
+            "index": 408,
+            "start": 1102.684,
+            "end": 1103.811,
+            "text": "Ah! Karl."
+          },
+          {
+            "index": 409,
+            "start": 1103.894,
+            "end": 1105.229,
+            "text": "So that wasn't just\na sweet voice"
+          },
+          {
+            "index": 410,
+            "start": 1105.312,
+            "end": 1107.606,
+            "text": "I heard inside my head.\nWhat are you doing here?"
+          },
+          {
+            "index": 411,
+            "start": 1107.689,
+            "end": 1110.192,
+            "text": "I just came to say good-bye\nto the gals in the typing pool."
+          },
+          {
+            "index": 412,
+            "start": 1110.275,
+            "end": 1112.569,
+            "text": "Yeah, well.\nThanks for the speech, Karl"
+          },
+          {
+            "index": 413,
+            "start": 1112.653,
+            "end": 1114.78,
+            "text": "but I can't give it.\nLook at me."
+          },
+          {
+            "index": 414,
+            "start": 1114.863,
+            "end": 1116.615,
+            "text": "I guess I haven't\ntaught you anything."
+          },
+          {
+            "index": 415,
+            "start": 1116.698,
+            "end": 1118.408,
+            "text": "-What do you mean?\n-Don't you see?"
+          },
+          {
+            "index": 416,
+            "start": 1118.492,
+            "end": 1120.244,
+            "text": "The tartar sauce,\nthe bathroom key,"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1103.1238718261718,
+        "topCueIndex": -1,
+        "bottomCueIndex": 406
+      }
     }
   ]
 }
