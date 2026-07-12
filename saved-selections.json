@@ -72307,6 +72307,158 @@
         "topCueIndex": -1,
         "bottomCueIndex": 426
       }
+    },
+    {
+      "id": "4591f85d-269a-43e9-a210-318c9428dc4c",
+      "createdAt": "2026-07-12T20:05:57.785Z",
+      "videoName": "The Simpsons",
+      "audioTrackName": "",
+      "selectedText": "outmoded",
+      "selection": {
+        "rawText": "outmoded",
+        "startOffset": 21,
+        "endOffset": 29,
+        "cueIndex": 439,
+        "cueStart": 1165.622,
+        "cueEnd": 1168.792,
+        "cueText": "Bloated inventories,\noutmoded production methods."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 429,
+            "start": 1147.771,
+            "end": 1149.94,
+            "text": "(applause)"
+          },
+          {
+            "index": 430,
+            "start": 1150.023,
+            "end": 1152.234,
+            "text": "What in blazes?\nWho is that old geezer?"
+          },
+          {
+            "index": 431,
+            "start": 1152.317,
+            "end": 1153.694,
+            "text": "And what has he done\nwith Homer Simpson?"
+          },
+          {
+            "index": 432,
+            "start": 1153.777,
+            "end": 1156.196,
+            "text": "He is Homer Simpson, sir."
+          },
+          {
+            "index": 433,
+            "start": 1156.28,
+            "end": 1157.239,
+            "text": "(clears throat)"
+          },
+          {
+            "index": 434,
+            "start": 1157.322,
+            "end": 1158.866,
+            "text": "Uh, a lot of you"
+          },
+          {
+            "index": 435,
+            "start": 1158.949,
+            "end": 1161.118,
+            "text": "would think I was crazy\nif I did this."
+          },
+          {
+            "index": 436,
+            "start": 1161.201,
+            "end": 1162.327,
+            "text": "He's crazy!"
+          },
+          {
+            "index": 437,
+            "start": 1162.411,
+            "end": 1163.704,
+            "text": "Yet we at this power plant"
+          },
+          {
+            "index": 438,
+            "start": 1163.787,
+            "end": 1165.539,
+            "text": "are doing this\nevery hour of every day."
+          },
+          {
+            "index": 439,
+            "start": 1165.622,
+            "end": 1168.792,
+            "text": "Bloated inventories,\noutmoded production methods."
+          },
+          {
+            "index": 440,
+            "start": 1168.876,
+            "end": 1172.087,
+            "text": "I can save this company\nmillions of dollars a year."
+          },
+          {
+            "index": 441,
+            "start": 1172.171,
+            "end": 1174.214,
+            "text": "How?\nThrough Jiko Kandri"
+          },
+          {
+            "index": 442,
+            "start": 1174.298,
+            "end": 1176.633,
+            "text": "the Japanese art\nof self-management."
+          },
+          {
+            "index": 443,
+            "start": 1176.717,
+            "end": 1178.76,
+            "text": "This bald man\nhas no ideas."
+          },
+          {
+            "index": 444,
+            "start": 1178.844,
+            "end": 1180.637,
+            "text": "If this is a joke,\nI'm not laughing."
+          },
+          {
+            "index": 445,
+            "start": 1180.721,
+            "end": 1183.056,
+            "text": "Some nerve, telling us\nhow to run the plant."
+          },
+          {
+            "index": 446,
+            "start": 1183.14,
+            "end": 1184.433,
+            "text": "He doesn't even have hair."
+          },
+          {
+            "index": 447,
+            "start": 1184.516,
+            "end": 1186.268,
+            "text": "...inefficiently\nmining uranium"
+          },
+          {
+            "index": 448,
+            "start": 1186.351,
+            "end": 1188.854,
+            "text": "that can be purchased quite\ncheaply on the foreign markets."
+          },
+          {
+            "index": 449,
+            "start": 1188.937,
+            "end": 1190.772,
+            "text": "The long-term benefits"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1172.3601870117188,
+        "topCueIndex": -1,
+        "bottomCueIndex": 439
+      }
     }
   ]
 }
