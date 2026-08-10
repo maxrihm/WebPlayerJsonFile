@@ -70519,6 +70519,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 488
       }
+    },
+    {
+      "id": "15b0cee9-dedd-4993-a67d-a1bf9efaa206",
+      "createdAt": "2026-08-10T23:19:23.542Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "hooves",
+      "selection": {
+        "rawText": "hooves",
+        "startOffset": 26,
+        "endOffset": 32,
+        "cueIndex": 746,
+        "cueStart": 2365.708,
+        "cueEnd": 2366.917,
+        "cueText": "Pumbaa, did you wash\nyour hooves?"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "start": 2328.583,
+            "end": 2330.583,
+            "text": "[♪ valiant music playing]",
+            "index": 736
+          },
+          {
+            "start": 2345.083,
+            "end": 2348,
+            "text": "They left their family\nnever to see them again?",
+            "index": 737
+          },
+          {
+            "start": 2348.167,
+            "end": 2349.333,
+            "text": "-[Timon whimpers]\n-This story is killing me.",
+            "index": 738
+          },
+          {
+            "start": 2349.5,
+            "end": 2351.042,
+            "text": "It's toying with my emotions.",
+            "index": 739
+          },
+          {
+            "start": 2351.208,
+            "end": 2352.667,
+            "text": "[Pumbaa] And here\nis the worst part.",
+            "index": 740
+          },
+          {
+            "start": 2353.083,
+            "end": 2354.542,
+            "text": "-What's that?\n-I'm out of crickets.",
+            "index": 741
+          },
+          {
+            "start": 2354.708,
+            "end": 2355.958,
+            "text": "Oh, maybe that's for the best.",
+            "index": 742
+          },
+          {
+            "start": 2356.125,
+            "end": 2357.667,
+            "text": "I need a bathroom break\nbefore the second act.",
+            "index": 743
+          },
+          {
+            "start": 2357.833,
+            "end": 2359.292,
+            "text": "Everyone wait for me.",
+            "index": 744
+          },
+          {
+            "start": 2364.542,
+            "end": 2365.542,
+            "text": "I am back.",
+            "index": 745
+          },
+          {
+            "start": 2365.708,
+            "end": 2366.917,
+            "text": "Pumbaa, did you wash\nyour hooves?",
+            "index": 746
+          },
+          {
+            "start": 2367,
+            "end": 2368,
+            "text": "[Pumbaa] Mm-hmm.",
+            "index": 747
+          },
+          {
+            "start": 2368.083,
+            "end": 2369.25,
+            "text": "-Pumbaa?\n-I did. I did.",
+            "index": 748
+          },
+          {
+            "start": 2369.417,
+            "end": 2370.667,
+            "text": "-[Timon] Pumbaa?\n-I'm just gonna walk",
+            "index": 749
+          },
+          {
+            "start": 2370.833,
+            "end": 2372.417,
+            "text": "-on them again right after.\n-Pumbaa?",
+            "index": 750
+          },
+          {
+            "start": 2372.583,
+            "end": 2373.75,
+            "text": "[groans]",
+            "index": 751
+          },
+          {
+            "start": 2374.583,
+            "end": 2377,
+            "text": "Rafiki,\ndid the Outsiders come?",
+            "index": 752
+          },
+          {
+            "start": 2377.167,
+            "end": 2378.167,
+            "text": "[Rafiki] Yes.",
+            "index": 753
+          },
+          {
+            "start": 2378.333,
+            "end": 2381.083,
+            "text": "And as the hunters led Kiros\ninto the Valley of Kings,",
+            "index": 754
+          },
+          {
+            "start": 2381.333,
+            "end": 2384.625,
+            "text": "Obasi and Eshe\nstood their ground.",
+            "index": 755
+          },
+          {
+            "start": 2385.625,
+            "end": 2387.625,
+            "text": "[♪ tense music playing]",
+            "index": 756
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 2365.708,
+        "topCueIndex": -1,
+        "bottomCueIndex": 746
+      }
     }
   ]
 }
