@@ -71743,6 +71743,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 805
       }
+    },
+    {
+      "id": "641ae9ef-c612-46b4-b093-9c651f72533d",
+      "createdAt": "2026-08-11T22:41:55.923Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "pledged",
+      "selection": {
+        "rawText": "pledged",
+        "startOffset": 4,
+        "endOffset": 11,
+        "cueIndex": 836,
+        "cueStart": 2650.667,
+        "cueEnd": 2653.292,
+        "cueText": "You pledged your loyalty.\nI command you to swim."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 826,
+            "start": 2619,
+            "end": 2621,
+            "text": "[♪ dramatic music playing]"
+          },
+          {
+            "index": 827,
+            "start": 2622.083,
+            "end": 2623.542,
+            "text": "This way!"
+          },
+          {
+            "index": 828,
+            "start": 2635.042,
+            "end": 2636.208,
+            "text": "[grunting]"
+          },
+          {
+            "index": 829,
+            "start": 2638.167,
+            "end": 2639.417,
+            "text": "Back to the trees."
+          },
+          {
+            "index": 830,
+            "start": 2639.583,
+            "end": 2641.25,
+            "text": "We're trapped.\nWe have to swim."
+          },
+          {
+            "index": 831,
+            "start": 2641.417,
+            "end": 2642.833,
+            "text": "No, we have to fight."
+          },
+          {
+            "index": 832,
+            "start": 2643,
+            "end": 2644.458,
+            "text": "If we fight, we die."
+          },
+          {
+            "index": 833,
+            "start": 2644.625,
+            "end": 2646,
+            "text": "But if we swim, we drown."
+          },
+          {
+            "index": 834,
+            "start": 2646.167,
+            "end": 2648.25,
+            "text": "Okay, I didn't\nwant to do this,"
+          },
+          {
+            "index": 835,
+            "start": 2648.417,
+            "end": 2650.5,
+            "text": "-but I command you to swim!\n-You what?"
+          },
+          {
+            "index": 836,
+            "start": 2650.667,
+            "end": 2653.292,
+            "text": "You pledged your loyalty.\nI command you to swim."
+          },
+          {
+            "index": 837,
+            "start": 2653.458,
+            "end": 2655.958,
+            "text": "Taka, this is not the time\nfor jokes."
+          },
+          {
+            "index": 838,
+            "start": 2656.125,
+            "end": 2658.792,
+            "text": "-[antelope bleating]\n-[♪ ominous music playing]"
+          },
+          {
+            "index": 839,
+            "start": 2665,
+            "end": 2666.292,
+            "text": "[lions growling]"
+          },
+          {
+            "index": 840,
+            "start": 2670.542,
+            "end": 2673.083,
+            "text": "Which one of you\nkilled my son?"
+          },
+          {
+            "index": 841,
+            "start": 2673.25,
+            "end": 2674.833,
+            "text": "I did.\nThis lion with me is nothing"
+          },
+          {
+            "index": 842,
+            "start": 2674.917,
+            "end": 2676.417,
+            "text": "but a stray. Let him go."
+          },
+          {
+            "index": 843,
+            "start": 2676.5,
+            "end": 2678.208,
+            "text": "Kiros, the other is no stray."
+          },
+          {
+            "index": 844,
+            "start": 2678.375,
+            "end": 2680.125,
+            "text": "He holds the blood\nof the pride."
+          },
+          {
+            "index": 845,
+            "start": 2680.292,
+            "end": 2681.5,
+            "text": "[Kiros chuckles]"
+          },
+          {
+            "index": 846,
+            "start": 2681.667,
+            "end": 2684.208,
+            "text": "The last blood\nof the king? Hmm."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 2653.0415471191404,
+        "topCueIndex": -1,
+        "bottomCueIndex": 836
+      }
     }
   ]
 }
