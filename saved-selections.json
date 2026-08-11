@@ -70978,6 +70978,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 767
       }
+    },
+    {
+      "id": "d32139e2-e39b-4146-973c-c0ac4c1b8a81",
+      "createdAt": "2026-08-11T22:34:58.931Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "shade",
+      "selection": {
+        "rawText": "shade",
+        "startOffset": 28,
+        "endOffset": 33,
+        "cueIndex": 771,
+        "cueStart": 2437.875,
+        "cueEnd": 2441.042,
+        "cueText": "♪ But you lie around\nin the shade ♪"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 761,
+            "start": 2408.458,
+            "end": 2411.042,
+            "text": "There are rules among lions."
+          },
+          {
+            "index": 762,
+            "start": 2411.208,
+            "end": 2412.375,
+            "text": "Not anymore."
+          },
+          {
+            "index": 763,
+            "start": 2413.208,
+            "end": 2416.042,
+            "text": "While you ruled this pride,\nI've built my army."
+          },
+          {
+            "index": 764,
+            "start": 2416.708,
+            "end": 2418.042,
+            "text": "Yours is the last pride"
+          },
+          {
+            "index": 765,
+            "start": 2418.208,
+            "end": 2421.167,
+            "text": "in the Valley of Kings,\nwhich means"
+          },
+          {
+            "index": 766,
+            "start": 2421.333,
+            "end": 2425.208,
+            "text": "everything the light touches\nbelongs to me."
+          },
+          {
+            "index": 767,
+            "start": 2425.375,
+            "end": 2427.042,
+            "text": "There will be one ruler."
+          },
+          {
+            "index": 768,
+            "start": 2427.208,
+            "end": 2429.833,
+            "text": "One Lion King."
+          },
+          {
+            "index": 769,
+            "start": 2429.958,
+            "end": 2431.708,
+            "text": "[lions growling]"
+          },
+          {
+            "index": 770,
+            "start": 2435.75,
+            "end": 2437.792,
+            "text": "♪ You say you're the king ♪"
+          },
+          {
+            "index": 771,
+            "start": 2437.875,
+            "end": 2441.042,
+            "text": "♪ But you lie around\nin the shade ♪"
+          },
+          {
+            "index": 772,
+            "start": 2441.208,
+            "end": 2443.667,
+            "text": "♪ Out of shape, unafraid ♪"
+          },
+          {
+            "index": 773,
+            "start": 2444.792,
+            "end": 2448.042,
+            "text": "♪ The moon cuts a path\nthrough the sky ♪"
+          },
+          {
+            "index": 774,
+            "start": 2448.208,
+            "end": 2450.292,
+            "text": "♪ By night or by day ♪"
+          },
+          {
+            "index": 775,
+            "start": 2450.5,
+            "end": 2452.667,
+            "text": "♪ It doesn't obey ♪"
+          },
+          {
+            "index": 776,
+            "start": 2452.833,
+            "end": 2455.042,
+            "text": "♪ And neither do I ♪"
+          },
+          {
+            "index": 777,
+            "start": 2455.208,
+            "end": 2457.708,
+            "text": "♪ You took my son ♪"
+          },
+          {
+            "index": 778,
+            "start": 2457.792,
+            "end": 2458.792,
+            "text": "[growls]"
+          },
+          {
+            "index": 779,
+            "start": 2459.542,
+            "end": 2462.292,
+            "text": "♪ I hope you can run ♪"
+          },
+          {
+            "index": 780,
+            "start": 2462.833,
+            "end": 2466.542,
+            "text": "♪ 'Cause I'm going to be\nthe last thing you see ♪"
+          },
+          {
+            "index": 781,
+            "start": 2466.708,
+            "end": 2468.625,
+            "text": "♪ Before you go bye-bye ♪"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 2442.712056884766,
+        "topCueIndex": -1,
+        "bottomCueIndex": 771
+      }
     }
   ]
 }
