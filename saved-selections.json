@@ -70825,6 +70825,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 754
       }
+    },
+    {
+      "id": "a8b1aac6-6e15-4257-b95e-9ee9fc9293a4",
+      "createdAt": "2026-08-11T22:34:31.554Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "ruler.",
+      "selection": {
+        "rawText": "ruler.",
+        "startOffset": 18,
+        "endOffset": 24,
+        "cueIndex": 767,
+        "cueStart": 2425.375,
+        "cueEnd": 2427.042,
+        "cueText": "There will be one ruler."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 757,
+            "start": 2394.667,
+            "end": 2395.917,
+            "text": "[growling]"
+          },
+          {
+            "index": 758,
+            "start": 2397.25,
+            "end": 2400.417,
+            "text": "Which one of you is king?"
+          },
+          {
+            "index": 759,
+            "start": 2400.583,
+            "end": 2403.542,
+            "text": "You have no reason\nto challenge me."
+          },
+          {
+            "index": 760,
+            "start": 2403.708,
+            "end": 2408.208,
+            "text": "[chuckles] Does this look\nlike a challenge, King?"
+          },
+          {
+            "index": 761,
+            "start": 2408.458,
+            "end": 2411.042,
+            "text": "There are rules among lions."
+          },
+          {
+            "index": 762,
+            "start": 2411.208,
+            "end": 2412.375,
+            "text": "Not anymore."
+          },
+          {
+            "index": 763,
+            "start": 2413.208,
+            "end": 2416.042,
+            "text": "While you ruled this pride,\nI've built my army."
+          },
+          {
+            "index": 764,
+            "start": 2416.708,
+            "end": 2418.042,
+            "text": "Yours is the last pride"
+          },
+          {
+            "index": 765,
+            "start": 2418.208,
+            "end": 2421.167,
+            "text": "in the Valley of Kings,\nwhich means"
+          },
+          {
+            "index": 766,
+            "start": 2421.333,
+            "end": 2425.208,
+            "text": "everything the light touches\nbelongs to me."
+          },
+          {
+            "index": 767,
+            "start": 2425.375,
+            "end": 2427.042,
+            "text": "There will be one ruler."
+          },
+          {
+            "index": 768,
+            "start": 2427.208,
+            "end": 2429.833,
+            "text": "One Lion King."
+          },
+          {
+            "index": 769,
+            "start": 2429.958,
+            "end": 2431.708,
+            "text": "[lions growling]"
+          },
+          {
+            "index": 770,
+            "start": 2435.75,
+            "end": 2437.792,
+            "text": "♪ You say you're the king ♪"
+          },
+          {
+            "index": 771,
+            "start": 2437.875,
+            "end": 2441.042,
+            "text": "♪ But you lie around\nin the shade ♪"
+          },
+          {
+            "index": 772,
+            "start": 2441.208,
+            "end": 2443.667,
+            "text": "♪ Out of shape, unafraid ♪"
+          },
+          {
+            "index": 773,
+            "start": 2444.792,
+            "end": 2448.042,
+            "text": "♪ The moon cuts a path\nthrough the sky ♪"
+          },
+          {
+            "index": 774,
+            "start": 2448.208,
+            "end": 2450.292,
+            "text": "♪ By night or by day ♪"
+          },
+          {
+            "index": 775,
+            "start": 2450.5,
+            "end": 2452.667,
+            "text": "♪ It doesn't obey ♪"
+          },
+          {
+            "index": 776,
+            "start": 2452.833,
+            "end": 2455.042,
+            "text": "♪ And neither do I ♪"
+          },
+          {
+            "index": 777,
+            "start": 2455.208,
+            "end": 2457.708,
+            "text": "♪ You took my son ♪"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 2430.8524279785156,
+        "topCueIndex": -1,
+        "bottomCueIndex": 767
+      }
     }
   ]
 }
