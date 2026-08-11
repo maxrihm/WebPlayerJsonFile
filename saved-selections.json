@@ -70672,6 +70672,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 746
       }
+    },
+    {
+      "id": "5d55ecbd-b35c-4234-a876-f736ce295659",
+      "createdAt": "2026-08-11T22:33:00.285Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "led",
+      "selection": {
+        "rawText": "led",
+        "startOffset": 19,
+        "endOffset": 22,
+        "cueIndex": 754,
+        "cueStart": 2378.333,
+        "cueEnd": 2381.083,
+        "cueText": "And as the hunters led Kiros\ninto the Valley of Kings,"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 744,
+            "start": 2357.833,
+            "end": 2359.292,
+            "text": "Everyone wait for me."
+          },
+          {
+            "index": 745,
+            "start": 2364.542,
+            "end": 2365.542,
+            "text": "I am back."
+          },
+          {
+            "index": 746,
+            "start": 2365.708,
+            "end": 2366.917,
+            "text": "Pumbaa, did you wash\nyour hooves?"
+          },
+          {
+            "index": 747,
+            "start": 2367,
+            "end": 2368,
+            "text": "[Pumbaa] Mm-hmm."
+          },
+          {
+            "index": 748,
+            "start": 2368.083,
+            "end": 2369.25,
+            "text": "-Pumbaa?\n-I did. I did."
+          },
+          {
+            "index": 749,
+            "start": 2369.417,
+            "end": 2370.667,
+            "text": "-[Timon] Pumbaa?\n-I'm just gonna walk"
+          },
+          {
+            "index": 750,
+            "start": 2370.833,
+            "end": 2372.417,
+            "text": "-on them again right after.\n-Pumbaa?"
+          },
+          {
+            "index": 751,
+            "start": 2372.583,
+            "end": 2373.75,
+            "text": "[groans]"
+          },
+          {
+            "index": 752,
+            "start": 2374.583,
+            "end": 2377,
+            "text": "Rafiki,\ndid the Outsiders come?"
+          },
+          {
+            "index": 753,
+            "start": 2377.167,
+            "end": 2378.167,
+            "text": "[Rafiki] Yes."
+          },
+          {
+            "index": 754,
+            "start": 2378.333,
+            "end": 2381.083,
+            "text": "And as the hunters led Kiros\ninto the Valley of Kings,"
+          },
+          {
+            "index": 755,
+            "start": 2381.333,
+            "end": 2384.625,
+            "text": "Obasi and Eshe\nstood their ground."
+          },
+          {
+            "index": 756,
+            "start": 2385.625,
+            "end": 2387.625,
+            "text": "[♪ tense music playing]"
+          },
+          {
+            "index": 757,
+            "start": 2394.667,
+            "end": 2395.917,
+            "text": "[growling]"
+          },
+          {
+            "index": 758,
+            "start": 2397.25,
+            "end": 2400.417,
+            "text": "Which one of you is king?"
+          },
+          {
+            "index": 759,
+            "start": 2400.583,
+            "end": 2403.542,
+            "text": "You have no reason\nto challenge me."
+          },
+          {
+            "index": 760,
+            "start": 2403.708,
+            "end": 2408.208,
+            "text": "[chuckles] Does this look\nlike a challenge, King?"
+          },
+          {
+            "index": 761,
+            "start": 2408.458,
+            "end": 2411.042,
+            "text": "There are rules among lions."
+          },
+          {
+            "index": 762,
+            "start": 2411.208,
+            "end": 2412.375,
+            "text": "Not anymore."
+          },
+          {
+            "index": 763,
+            "start": 2413.208,
+            "end": 2416.042,
+            "text": "While you ruled this pride,\nI've built my army."
+          },
+          {
+            "index": 764,
+            "start": 2416.708,
+            "end": 2418.042,
+            "text": "Yours is the last pride"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 2386.0305170898437,
+        "topCueIndex": -1,
+        "bottomCueIndex": 754
+      }
     }
   ]
 }
