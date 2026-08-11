@@ -71437,6 +71437,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 792
       }
+    },
+    {
+      "id": "f330329b-b5d8-4dfa-b650-98752fde6b84",
+      "createdAt": "2026-08-11T22:37:07.135Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "glances",
+      "selection": {
+        "rawText": "glances",
+        "startOffset": 21,
+        "endOffset": 28,
+        "cueIndex": 793,
+        "cueStart": 2502.042,
+        "cueEnd": 2504.208,
+        "cueText": "♪ They keep stealing glances ♪"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 783,
+            "start": 2472.25,
+            "end": 2475.667,
+            "text": "♪ Climb every tree\nCross land and sea ♪"
+          },
+          {
+            "index": 784,
+            "start": 2475.833,
+            "end": 2477.542,
+            "text": "♪ I'll make you go bye-bye ♪"
+          },
+          {
+            "index": 785,
+            "start": 2477.958,
+            "end": 2479.875,
+            "text": "♪ I'll make you go bye-bye ♪"
+          },
+          {
+            "index": 786,
+            "start": 2480.917,
+            "end": 2483.25,
+            "text": "♪ Everything\nin my clutches, ha! ♪"
+          },
+          {
+            "index": 787,
+            "start": 2483.333,
+            "end": 2484.667,
+            "text": "♪ Bye-bye ♪"
+          },
+          {
+            "index": 788,
+            "start": 2485.583,
+            "end": 2488.042,
+            "text": "♪ Everything\nthe light touches ♪"
+          },
+          {
+            "index": 789,
+            "start": 2489.958,
+            "end": 2492.958,
+            "text": "♪ The Circle of Life\nis a lie ♪"
+          },
+          {
+            "index": 790,
+            "start": 2493.125,
+            "end": 2494.875,
+            "text": "♪ A pretty way to say ♪"
+          },
+          {
+            "index": 791,
+            "start": 2495.042,
+            "end": 2497.667,
+            "text": "♪ There are predators\nand prey ♪"
+          },
+          {
+            "index": 792,
+            "start": 2498.625,
+            "end": 2501.875,
+            "text": "♪ That circle of vultures\nup high ♪"
+          },
+          {
+            "index": 793,
+            "start": 2502.042,
+            "end": 2504.208,
+            "text": "♪ They keep stealing glances ♪"
+          },
+          {
+            "index": 794,
+            "start": 2504.375,
+            "end": 2506.417,
+            "text": "♪ They don't like\nyour chances ♪"
+          },
+          {
+            "index": 795,
+            "start": 2506.583,
+            "end": 2508.875,
+            "text": "♪ And neither do I ♪"
+          },
+          {
+            "index": 796,
+            "start": 2509.208,
+            "end": 2512.25,
+            "text": "♪ I run my pride ♪"
+          },
+          {
+            "index": 797,
+            "start": 2513.583,
+            "end": 2516,
+            "text": "♪ You run and hide ♪"
+          },
+          {
+            "index": 798,
+            "start": 2517,
+            "end": 2520.5,
+            "text": "♪ 'Cause I'm going to be\nthe last thing you see ♪"
+          },
+          {
+            "index": 799,
+            "start": 2520.667,
+            "end": 2522.5,
+            "text": "♪ Before you go bye-bye ♪"
+          },
+          {
+            "index": 800,
+            "start": 2522.917,
+            "end": 2524.792,
+            "text": "♪ There you go, bye-bye ♪"
+          },
+          {
+            "index": 801,
+            "start": 2525.792,
+            "end": 2529.5,
+            "text": "♪ Climb every tree\nCross land and sea ♪"
+          },
+          {
+            "index": 802,
+            "start": 2529.667,
+            "end": 2531.708,
+            "text": "♪ Until you go bye-bye ♪"
+          },
+          {
+            "index": 803,
+            "start": 2531.875,
+            "end": 2533.708,
+            "text": "♪ Will you go bye-bye? ♪"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 2506.308160888672,
+        "topCueIndex": -1,
+        "bottomCueIndex": 793
+      }
     }
   ]
 }
