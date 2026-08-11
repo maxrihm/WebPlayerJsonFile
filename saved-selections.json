@@ -71131,6 +71131,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 771
       }
+    },
+    {
+      "id": "8221cbaf-53c9-4d0a-b956-6aa39ae0da95",
+      "createdAt": "2026-08-11T22:36:16.797Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "clutches,",
+      "selection": {
+        "rawText": "clutches,",
+        "startOffset": 19,
+        "endOffset": 28,
+        "cueIndex": 786,
+        "cueStart": 2480.917,
+        "cueEnd": 2483.25,
+        "cueText": "♪ Everything\nin my clutches, ha! ♪"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 776,
+            "start": 2452.833,
+            "end": 2455.042,
+            "text": "♪ And neither do I ♪"
+          },
+          {
+            "index": 777,
+            "start": 2455.208,
+            "end": 2457.708,
+            "text": "♪ You took my son ♪"
+          },
+          {
+            "index": 778,
+            "start": 2457.792,
+            "end": 2458.792,
+            "text": "[growls]"
+          },
+          {
+            "index": 779,
+            "start": 2459.542,
+            "end": 2462.292,
+            "text": "♪ I hope you can run ♪"
+          },
+          {
+            "index": 780,
+            "start": 2462.833,
+            "end": 2466.542,
+            "text": "♪ 'Cause I'm going to be\nthe last thing you see ♪"
+          },
+          {
+            "index": 781,
+            "start": 2466.708,
+            "end": 2468.625,
+            "text": "♪ Before you go bye-bye ♪"
+          },
+          {
+            "index": 782,
+            "start": 2469.125,
+            "end": 2471.042,
+            "text": "♪ There you go, bye-bye ♪"
+          },
+          {
+            "index": 783,
+            "start": 2472.25,
+            "end": 2475.667,
+            "text": "♪ Climb every tree\nCross land and sea ♪"
+          },
+          {
+            "index": 784,
+            "start": 2475.833,
+            "end": 2477.542,
+            "text": "♪ I'll make you go bye-bye ♪"
+          },
+          {
+            "index": 785,
+            "start": 2477.958,
+            "end": 2479.875,
+            "text": "♪ I'll make you go bye-bye ♪"
+          },
+          {
+            "index": 786,
+            "start": 2480.917,
+            "end": 2483.25,
+            "text": "♪ Everything\nin my clutches, ha! ♪"
+          },
+          {
+            "index": 787,
+            "start": 2483.333,
+            "end": 2484.667,
+            "text": "♪ Bye-bye ♪"
+          },
+          {
+            "index": 788,
+            "start": 2485.583,
+            "end": 2488.042,
+            "text": "♪ Everything\nthe light touches ♪"
+          },
+          {
+            "index": 789,
+            "start": 2489.958,
+            "end": 2492.958,
+            "text": "♪ The Circle of Life\nis a lie ♪"
+          },
+          {
+            "index": 790,
+            "start": 2493.125,
+            "end": 2494.875,
+            "text": "♪ A pretty way to say ♪"
+          },
+          {
+            "index": 791,
+            "start": 2495.042,
+            "end": 2497.667,
+            "text": "♪ There are predators\nand prey ♪"
+          },
+          {
+            "index": 792,
+            "start": 2498.625,
+            "end": 2501.875,
+            "text": "♪ That circle of vultures\nup high ♪"
+          },
+          {
+            "index": 793,
+            "start": 2502.042,
+            "end": 2504.208,
+            "text": "♪ They keep stealing glances ♪"
+          },
+          {
+            "index": 794,
+            "start": 2504.375,
+            "end": 2506.417,
+            "text": "♪ They don't like\nyour chances ♪"
+          },
+          {
+            "index": 795,
+            "start": 2506.583,
+            "end": 2508.875,
+            "text": "♪ And neither do I ♪"
+          },
+          {
+            "index": 796,
+            "start": 2509.208,
+            "end": 2512.25,
+            "text": "♪ I run my pride ♪"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 2484.6194541015625,
+        "topCueIndex": -1,
+        "bottomCueIndex": 786
+      }
     }
   ]
 }
