@@ -82147,6 +82147,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1622
       }
+    },
+    {
+      "id": "4230f1ab-5686-476a-97d2-ae4810d41cc2",
+      "createdAt": "2026-08-23T22:47:58.783Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "line",
+      "selection": {
+        "rawText": "line",
+        "startOffset": 14,
+        "endOffset": 18,
+        "cueIndex": 1626,
+        "cueStart": 4824.5,
+        "cueEnd": 4826.833,
+        "cueText": "♪ I'm next in line\nShe should be mine, ha! ♪"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1616,
+            "start": 4788.375,
+            "end": 4793.625,
+            "text": "♪ You know I love her,\nmy brother ♪"
+          },
+          {
+            "index": 1617,
+            "start": 4793.792,
+            "end": 4798.917,
+            "text": "♪ There's nothing we keep\nfrom each other ♪"
+          },
+          {
+            "index": 1618,
+            "start": 4799.083,
+            "end": 4802.042,
+            "text": "♪ I saved your life ♪"
+          },
+          {
+            "index": 1619,
+            "start": 4802.208,
+            "end": 4807.75,
+            "text": "♪ This is how you repay me? ♪"
+          },
+          {
+            "index": 1620,
+            "start": 4810.042,
+            "end": 4812.375,
+            "text": "♪ What do I do?\nWhat does it mean? ♪"
+          },
+          {
+            "index": 1621,
+            "start": 4812.542,
+            "end": 4814.792,
+            "text": "♪ How do I ever unsee\nwhat I've seen? ♪"
+          },
+          {
+            "index": 1622,
+            "start": 4814.958,
+            "end": 4817.417,
+            "text": "♪ He was my kin\nShe was my queen ♪"
+          },
+          {
+            "index": 1623,
+            "start": 4817.583,
+            "end": 4819.208,
+            "text": "♪ Now it's broken forever\nand... ♪"
+          },
+          {
+            "index": 1624,
+            "start": 4819.792,
+            "end": 4822,
+            "text": "♪ \"Tell her it's you!\nShe knows it's you!\" ♪"
+          },
+          {
+            "index": 1625,
+            "start": 4822.167,
+            "end": 4824.333,
+            "text": "♪ What did you say to her?\nWhat did you do? ♪"
+          },
+          {
+            "index": 1626,
+            "start": 4824.5,
+            "end": 4826.833,
+            "text": "♪ I'm next in line\nShe should be mine, ha! ♪"
+          },
+          {
+            "index": 1627,
+            "start": 4827.25,
+            "end": 4828.833,
+            "text": "♪ Are the ancestors\nlaughing, I... ♪"
+          },
+          {
+            "index": 1628,
+            "start": 4829.375,
+            "end": 4831.667,
+            "text": "♪ What would they say?\nFather is gone ♪"
+          },
+          {
+            "index": 1629,
+            "start": 4831.833,
+            "end": 4834.125,
+            "text": "♪ Not before giving me\nstrength to go on ♪"
+          },
+          {
+            "index": 1630,
+            "start": 4834.292,
+            "end": 4835.625,
+            "text": "♪ He never trusted you! ♪"
+          },
+          {
+            "index": 1631,
+            "start": 4835.792,
+            "end": 4838.667,
+            "text": "♪ Did he know\nyou'd betray me so? ♪"
+          },
+          {
+            "index": 1632,
+            "start": 4838.833,
+            "end": 4841.167,
+            "text": "♪ When you were drowning\nI pulled you out ♪"
+          },
+          {
+            "index": 1633,
+            "start": 4841.375,
+            "end": 4843.375,
+            "text": "♪ I gave you life\nwhich you lived in my debt! ♪"
+          },
+          {
+            "index": 1634,
+            "start": 4843.542,
+            "end": 4846,
+            "text": "♪ Now I'm the one drowning\nTumbling down ♪"
+          },
+          {
+            "index": 1635,
+            "start": 4846.167,
+            "end": 4848.208,
+            "text": "♪ Trying to escape\nwhat I cannot forget ♪"
+          },
+          {
+            "index": 1636,
+            "start": 4848.542,
+            "end": 4850.667,
+            "text": "♪ I have a brother no longer ♪"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 4829.304188964844,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1626
+      }
     }
   ]
 }
