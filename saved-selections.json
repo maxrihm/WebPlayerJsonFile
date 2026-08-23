@@ -77098,6 +77098,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1070
       }
+    },
+    {
+      "id": "623f197c-4cd4-48eb-b8d4-63abac13ea07",
+      "createdAt": "2026-08-23T21:50:08.658Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "go around",
+      "selection": {
+        "rawText": "go around",
+        "startOffset": 17,
+        "endOffset": 26,
+        "cueIndex": 1078,
+        "cueStart": 3296.625,
+        "cueEnd": 3297.625,
+        "cueText": "why don't we all go around"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1068,
+            "start": 3271.583,
+            "end": 3273.708,
+            "text": "I've had enough of this!"
+          },
+          {
+            "index": 1069,
+            "start": 3273.875,
+            "end": 3275.542,
+            "text": "Taka, do not eat him."
+          },
+          {
+            "index": 1070,
+            "start": 3275.708,
+            "end": 3277.292,
+            "text": "Wonderful.\nAnother misfit stray"
+          },
+          {
+            "index": 1071,
+            "start": 3277.375,
+            "end": 3278.667,
+            "text": "we're not supposed to eat."
+          },
+          {
+            "index": 1072,
+            "start": 3278.833,
+            "end": 3281.417,
+            "text": "So, you expect us\nto follow this baboon"
+          },
+          {
+            "index": 1073,
+            "start": 3281.583,
+            "end": 3284.542,
+            "text": "to a place nobody\nhas ever seen? [scoffs]"
+          },
+          {
+            "index": 1074,
+            "start": 3284.667,
+            "end": 3287.167,
+            "text": "-I'll be better off alone.\n-Hhe ntombazane."
+          },
+          {
+            "index": 1075,
+            "start": 3287.333,
+            "end": 3289.75,
+            "text": "A single stick may smoke,"
+          },
+          {
+            "index": 1076,
+            "start": 3289.917,
+            "end": 3291.792,
+            "text": "but it will never burn."
+          },
+          {
+            "index": 1077,
+            "start": 3295,
+            "end": 3296.458,
+            "text": "Okay, now that\nthere's five of us,"
+          },
+          {
+            "index": 1078,
+            "start": 3296.625,
+            "end": 3297.625,
+            "text": "why don't we all go around"
+          },
+          {
+            "index": 1079,
+            "start": 3297.708,
+            "end": 3299.208,
+            "text": "and say a fun fact\nabout ourselves?"
+          },
+          {
+            "index": 1080,
+            "start": 3299.375,
+            "end": 3300.375,
+            "text": "I'll go first."
+          },
+          {
+            "index": 1081,
+            "start": 3300.542,
+            "end": 3303.5,
+            "text": "[chuckling] I once had\na crush on a flamingo."
+          },
+          {
+            "index": 1082,
+            "start": 3303.667,
+            "end": 3305.667,
+            "text": "[whispers] I've never\nsaid that out loud."
+          },
+          {
+            "index": 1083,
+            "start": 3306.25,
+            "end": 3307.292,
+            "text": "And they're walking away."
+          },
+          {
+            "index": 1084,
+            "start": 3307.458,
+            "end": 3309.25,
+            "text": "Yeah, places to go,\nkingdoms to see."
+          },
+          {
+            "index": 1085,
+            "start": 3309.417,
+            "end": 3310.875,
+            "text": "We're busy. Let's hustle."
+          },
+          {
+            "index": 1086,
+            "start": 3311,
+            "end": 3313,
+            "text": "[♪ exhilarating song playing\nin other language]"
+          },
+          {
+            "index": 1087,
+            "start": 3320.958,
+            "end": 3323.417,
+            "text": "Wait, wait, wait. Now you're\nthe star of this thing?"
+          },
+          {
+            "index": 1088,
+            "start": 3323.583,
+            "end": 3326.167,
+            "text": "Someone's a little tired\nof bein' second banana, huh?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 3299.4714958496093,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1078
+      }
     }
   ]
 }
