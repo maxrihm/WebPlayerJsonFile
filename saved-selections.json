@@ -77710,6 +77710,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1101
       }
+    },
+    {
+      "id": "c17344c7-8a78-425d-842e-31b6a39d3eef",
+      "createdAt": "2026-08-23T21:54:42.690Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "alike.",
+      "selection": {
+        "rawText": "alike.",
+        "startOffset": 15,
+        "endOffset": 21,
+        "cueIndex": 1124,
+        "cueStart": 3422.708,
+        "cueEnd": 3424.25,
+        "cueText": "We are nothing alike."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1114,
+            "start": 3399,
+            "end": 3400.667,
+            "text": "-What are you doing?\n-I am fishing."
+          },
+          {
+            "index": 1115,
+            "start": 3400.833,
+            "end": 3403.292,
+            "text": "[Mufasa] You're sitting on\na rock with your eyes closed."
+          },
+          {
+            "index": 1116,
+            "start": 3403.458,
+            "end": 3406.708,
+            "text": "My eyes are open.\nIt is my lids that are closed."
+          },
+          {
+            "index": 1117,
+            "start": 3406.875,
+            "end": 3409.25,
+            "text": "Why am I talking to a baboon?"
+          },
+          {
+            "index": 1118,
+            "start": 3409.417,
+            "end": 3413.167,
+            "text": "I am not a baboon.\nI am a mandrill."
+          },
+          {
+            "index": 1119,
+            "start": 3413.333,
+            "end": 3416.042,
+            "text": "No offense,\nbut a monkey is a monkey."
+          },
+          {
+            "index": 1120,
+            "start": 3416.208,
+            "end": 3417.625,
+            "text": "[Rafiki] And a stray\nis a stray."
+          },
+          {
+            "index": 1121,
+            "start": 3417.792,
+            "end": 3418.792,
+            "text": "What's that supposed to mean?"
+          },
+          {
+            "index": 1122,
+            "start": 3418.917,
+            "end": 3421.042,
+            "text": "It means\nwe are very much the same."
+          },
+          {
+            "index": 1123,
+            "start": 3421.208,
+            "end": 3422.542,
+            "text": "Siyafana."
+          },
+          {
+            "index": 1124,
+            "start": 3422.708,
+            "end": 3424.25,
+            "text": "We are nothing alike."
+          },
+          {
+            "index": 1125,
+            "start": 3424.583,
+            "end": 3427.75,
+            "text": "Take a good look. I am a lion."
+          },
+          {
+            "index": 1126,
+            "start": 3427.917,
+            "end": 3429.625,
+            "text": "[Rafiki] A lion\nwho fears water,"
+          },
+          {
+            "index": 1127,
+            "start": 3429.708,
+            "end": 3431.292,
+            "text": "fears his own reflection."
+          },
+          {
+            "index": 1128,
+            "start": 3431.792,
+            "end": 3433.5,
+            "text": "Who can't sleep\nbecause of what he sees"
+          },
+          {
+            "index": 1129,
+            "start": 3433.583,
+            "end": 3435.25,
+            "text": "when he closes his eyes."
+          },
+          {
+            "index": 1130,
+            "start": 3435.417,
+            "end": 3436.417,
+            "text": "Huh?"
+          },
+          {
+            "index": 1131,
+            "start": 3436.583,
+            "end": 3439.458,
+            "text": "You are afraid\nof your dreams, Mufasa."
+          },
+          {
+            "index": 1132,
+            "start": 3439.625,
+            "end": 3441.625,
+            "text": "Afraid of what\nyou see in them."
+          },
+          {
+            "index": 1133,
+            "start": 3441.792,
+            "end": 3444.208,
+            "text": "[Mufasa] I see my parents."
+          },
+          {
+            "index": 1134,
+            "start": 3444.917,
+            "end": 3446.958,
+            "text": "I feel them everywhere."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 3425.813553955078,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1124
+      }
     }
   ]
 }
