@@ -77404,6 +77404,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1092
       }
+    },
+    {
+      "id": "be4668f6-18e7-4063-8df5-e668beb0a748",
+      "createdAt": "2026-08-23T21:52:16.661Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "fragrance.",
+      "selection": {
+        "rawText": "fragrance.",
+        "startOffset": 32,
+        "endOffset": 42,
+        "cueIndex": 1098,
+        "cueStart": 3342.667,
+        "cueEnd": 3343.917,
+        "cueText": "Pretty soon, he'll have\nhis own fragrance."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1088,
+            "start": 3323.583,
+            "end": 3326.167,
+            "text": "Someone's a little tired\nof bein' second banana, huh?"
+          },
+          {
+            "index": 1089,
+            "start": 3326.333,
+            "end": 3328.625,
+            "text": "All of a sudden, there's\na lotta Rafiki in this story."
+          },
+          {
+            "index": 1090,
+            "start": 3328.792,
+            "end": 3330.667,
+            "text": "You even gave yourself\na long-lost brother."
+          },
+          {
+            "index": 1091,
+            "start": 3330.75,
+            "end": 3331.75,
+            "text": "-Yeah.\n-[Timon] What's next?"
+          },
+          {
+            "index": 1092,
+            "start": 3331.833,
+            "end": 3332.833,
+            "text": "A funny catchphrase?"
+          },
+          {
+            "index": 1093,
+            "start": 3332.917,
+            "end": 3334.792,
+            "text": "[Pumbaa] You gonna be fartin'\nnext? 'Cause that's my thing."
+          },
+          {
+            "index": 1094,
+            "start": 3334.958,
+            "end": 3337.333,
+            "text": "You cannot tell the story\nof Mufasa"
+          },
+          {
+            "index": 1095,
+            "start": 3337.5,
+            "end": 3339.958,
+            "text": "without the story of Rafiki."
+          },
+          {
+            "index": 1096,
+            "start": 3340.125,
+            "end": 3341.5,
+            "text": "[Timon] Oh, now he's even\ntalkin' about himself"
+          },
+          {
+            "index": 1097,
+            "start": 3341.583,
+            "end": 3342.583,
+            "text": "in the third person."
+          },
+          {
+            "index": 1098,
+            "start": 3342.667,
+            "end": 3343.917,
+            "text": "Pretty soon, he'll have\nhis own fragrance."
+          },
+          {
+            "index": 1099,
+            "start": 3344.083,
+            "end": 3346.458,
+            "text": "[Pumbaa] And I'm the only one\nwith a fragrance around here."
+          },
+          {
+            "index": 1100,
+            "start": 3346.625,
+            "end": 3348.167,
+            "text": "It's called\n\"Pumbaa by Pumbaa,\""
+          },
+          {
+            "index": 1101,
+            "start": 3348.333,
+            "end": 3350.833,
+            "text": "and from what I hear,\nit's pretty gross."
+          },
+          {
+            "index": 1102,
+            "start": 3351.458,
+            "end": 3352.958,
+            "text": "Mom? Dad?"
+          },
+          {
+            "index": 1103,
+            "start": 3353.375,
+            "end": 3355.75,
+            "text": "If you can hear me, come home."
+          },
+          {
+            "index": 1104,
+            "start": 3356.708,
+            "end": 3357.875,
+            "text": "Please."
+          },
+          {
+            "index": 1105,
+            "start": 3358.292,
+            "end": 3359.542,
+            "text": "Come home."
+          },
+          {
+            "index": 1106,
+            "start": 3360.708,
+            "end": 3363,
+            "text": "-[♪ melancholic music playing]\n-[thunder rumbling]"
+          },
+          {
+            "index": 1107,
+            "start": 3367.292,
+            "end": 3368.292,
+            "text": "[Mufasa whispering] Mother?"
+          },
+          {
+            "index": 1108,
+            "start": 3370.667,
+            "end": 3371.667,
+            "text": "Mother?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 3344.391135986328,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1098
+      }
     }
   ]
 }
