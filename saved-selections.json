@@ -78781,6 +78781,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1222
       }
+    },
+    {
+      "id": "28671938-dd50-4806-b4a7-b699f707d3c9",
+      "createdAt": "2026-08-23T22:05:14.034Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "astray,",
+      "selection": {
+        "rawText": "astray,",
+        "startOffset": 10,
+        "endOffset": 17,
+        "cueIndex": 1238,
+        "cueStart": 3721.958,
+        "cueEnd": 3723.375,
+        "cueText": "-♪ And go astray, say ♪\n-♪ To the end ♪"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1228,
+            "start": 3703.917,
+            "end": 3706.375,
+            "text": "♪ Like the flecks of gold\nin your mane, Sarabi ♪"
+          },
+          {
+            "index": 1229,
+            "start": 3706.458,
+            "end": 3708.083,
+            "text": "[Mufasa and Sarabi] ♪ We will\nfind our way to the end ♪"
+          },
+          {
+            "index": 1230,
+            "start": 3708.25,
+            "end": 3709.75,
+            "text": "♪ You and me, we go together ♪"
+          },
+          {
+            "index": 1231,
+            "start": 3709.833,
+            "end": 3711.208,
+            "text": "[Mufasa and Sarabi] ♪ It's\nmuch easier with a friend ♪"
+          },
+          {
+            "index": 1232,
+            "start": 3711.375,
+            "end": 3713.5,
+            "text": "[Rafiki] ♪ My brother waits\nfor me to find him ♪"
+          },
+          {
+            "index": 1233,
+            "start": 3713.583,
+            "end": 3715.208,
+            "text": "[Mufasa and Sarabi] ♪ We will\nfind our family again ♪"
+          },
+          {
+            "index": 1234,
+            "start": 3715.375,
+            "end": 3717.542,
+            "text": "♪ My brother knows\nI'm right behind him ♪"
+          },
+          {
+            "index": 1235,
+            "start": 3717.625,
+            "end": 3719.042,
+            "text": "[Mufasa and Sarabi] ♪ We will\nwalk together till then ♪"
+          },
+          {
+            "index": 1236,
+            "start": 3719.208,
+            "end": 3720.667,
+            "text": "♪ My brother tends to lose\nhis way ♪"
+          },
+          {
+            "index": 1237,
+            "start": 3720.75,
+            "end": 3721.792,
+            "text": "[Mufasa and Sarabi] ♪ We will\nfind our way ♪"
+          },
+          {
+            "index": 1238,
+            "start": 3721.958,
+            "end": 3723.375,
+            "text": "-♪ And go astray, say ♪\n-♪ To the end ♪"
+          },
+          {
+            "index": 1239,
+            "start": 3723.542,
+            "end": 3725.458,
+            "text": "♪ If you see my brother,\nplease remind him ♪"
+          },
+          {
+            "index": 1240,
+            "start": 3725.542,
+            "end": 3727.25,
+            "text": "[Mufasa and Sarabi] ♪ It's\nmuch easier with a friend ♪"
+          },
+          {
+            "index": 1241,
+            "start": 3727.333,
+            "end": 3728.917,
+            "text": "-[chorus] ♪ Sondela ♪\n-[all] ♪ It's much easier ♪"
+          },
+          {
+            "index": 1242,
+            "start": 3729,
+            "end": 3731.125,
+            "text": "-♪ With a friend ♪\n-♪ Sondela mntanam! Sondela ♪"
+          },
+          {
+            "index": 1243,
+            "start": 3731.208,
+            "end": 3734.333,
+            "text": "-♪ It's much easier ♪\n-♪ Sondela mntanam! Sondela ♪"
+          },
+          {
+            "index": 1244,
+            "start": 3734.417,
+            "end": 3736.625,
+            "text": "♪ Sondela mntanam! Sondela ♪"
+          },
+          {
+            "index": 1245,
+            "start": 3736.708,
+            "end": 3738.125,
+            "text": "[Rafiki and Sarabi]\n♪ We won't go alone ♪"
+          },
+          {
+            "index": 1246,
+            "start": 3738.208,
+            "end": 3739.208,
+            "text": "-[lions] ♪ Not alone ♪\n-[vocalizing]"
+          },
+          {
+            "index": 1247,
+            "start": 3739.333,
+            "end": 3741.083,
+            "text": "-♪ Here we go ♪\n-♪ Here we go ♪"
+          },
+          {
+            "index": 1248,
+            "start": 3741.25,
+            "end": 3743.333,
+            "text": "-♪ Down the road ♪\n-♪ Down the road ♪"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 3726.711906982422,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1238
+      }
     }
   ]
 }
