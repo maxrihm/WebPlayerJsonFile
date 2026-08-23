@@ -78934,6 +78934,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1238
       }
+    },
+    {
+      "id": "61243b20-b828-4774-8448-ccc883747909",
+      "createdAt": "2026-08-23T22:08:18.071Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "stems.",
+      "selection": {
+        "rawText": "stems.",
+        "startOffset": 5,
+        "endOffset": 11,
+        "cueIndex": 1286,
+        "cueStart": 3835.542,
+        "cueEnd": 3837.167,
+        "cueText": "Long stems."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1276,
+            "start": 3808.875,
+            "end": 3809.917,
+            "text": "You..."
+          },
+          {
+            "index": 1277,
+            "start": 3810.417,
+            "end": 3812.25,
+            "text": "just know things. [sighs]"
+          },
+          {
+            "index": 1278,
+            "start": 3813.083,
+            "end": 3814.708,
+            "text": "Fine. Fine."
+          },
+          {
+            "index": 1279,
+            "start": 3815.208,
+            "end": 3817.792,
+            "text": "Keep it simple.\nAsk her a question."
+          },
+          {
+            "index": 1280,
+            "start": 3817.958,
+            "end": 3820.75,
+            "text": "Right. A question.\nThis... This is good."
+          },
+          {
+            "index": 1281,
+            "start": 3820.917,
+            "end": 3824.542,
+            "text": "Yeah, try to be confident.\nDisinterested."
+          },
+          {
+            "index": 1282,
+            "start": 3824.708,
+            "end": 3826.208,
+            "text": "But I'm very interested."
+          },
+          {
+            "index": 1283,
+            "start": 3826.375,
+            "end": 3829.625,
+            "text": "-Tell her about the flowers.\n-What flowers?"
+          },
+          {
+            "index": 1284,
+            "start": 3829.792,
+            "end": 3833.25,
+            "text": "The valley she comes from.\nThere's flowers everywhere."
+          },
+          {
+            "index": 1285,
+            "start": 3833.417,
+            "end": 3835.375,
+            "text": "They're called duck flowers."
+          },
+          {
+            "index": 1286,
+            "start": 3835.542,
+            "end": 3837.167,
+            "text": "Long stems."
+          },
+          {
+            "index": 1287,
+            "start": 3837.333,
+            "end": 3839.5,
+            "text": "It's absolutely beautiful."
+          },
+          {
+            "index": 1288,
+            "start": 3840.208,
+            "end": 3841.208,
+            "text": "How do you know that?"
+          },
+          {
+            "index": 1289,
+            "start": 3841.375,
+            "end": 3844.417,
+            "text": "When she passes,\nI can smell them on her fur."
+          },
+          {
+            "index": 1290,
+            "start": 3844.875,
+            "end": 3845.875,
+            "text": "[Taka] Okay."
+          },
+          {
+            "index": 1291,
+            "start": 3846.333,
+            "end": 3848.583,
+            "text": "Flowers. Disinterested."
+          },
+          {
+            "index": 1292,
+            "start": 3848.75,
+            "end": 3850.083,
+            "text": "-Flowers. And disinterested.\n-And here's the most"
+          },
+          {
+            "index": 1293,
+            "start": 3850.167,
+            "end": 3851.5,
+            "text": "-important thing, okay?\n-[whispering] Flowers."
+          },
+          {
+            "index": 1294,
+            "start": 3851.667,
+            "end": 3852.833,
+            "text": "-And disinterested.\n-Listen..."
+          },
+          {
+            "index": 1295,
+            "start": 3853,
+            "end": 3854.667,
+            "text": "-Flowers and disinterested.\n-...when she speaks."
+          },
+          {
+            "index": 1296,
+            "start": 3854.75,
+            "end": 3855.875,
+            "text": "Males have trouble\nwith that one."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 3839.2669118652343,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1286
+      }
     }
   ]
 }
