@@ -76027,6 +76027,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1013
       }
+    },
+    {
+      "id": "db711f07-c888-492d-b5f7-e9a3fad9493f",
+      "createdAt": "2026-08-23T21:43:38.760Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "banishment,",
+      "selection": {
+        "rawText": "banishment,",
+        "startOffset": 16,
+        "endOffset": 27,
+        "cueIndex": 1013,
+        "cueStart": 3107.792,
+        "cueEnd": 3110.667,
+        "cueText": "All in favor of banishment,\ncover one eye."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1003,
+            "start": 3089.833,
+            "end": 3090.833,
+            "text": "Yet somehow, he survived?"
+          },
+          {
+            "index": 1004,
+            "start": 3091,
+            "end": 3093.458,
+            "text": "It was Rafiki who found water\nin the dry season."
+          },
+          {
+            "index": 1005,
+            "start": 3093.625,
+            "end": 3095.958,
+            "text": "Who healed you, Inaki,\nwhen you were sick."
+          },
+          {
+            "index": 1006,
+            "start": 3096.125,
+            "end": 3099.208,
+            "text": "He speaks to the insects,\nconverses with the moon."
+          },
+          {
+            "index": 1007,
+            "start": 3099.375,
+            "end": 3100.833,
+            "text": "Zala, you know\nwhat will happen"
+          },
+          {
+            "index": 1008,
+            "start": 3100.917,
+            "end": 3102.333,
+            "text": "if you send him\ndown from the trees."
+          },
+          {
+            "index": 1009,
+            "start": 3102.5,
+            "end": 3104.292,
+            "text": "[Inaki] He is amelaaniwa!"
+          },
+          {
+            "index": 1010,
+            "start": 3104.458,
+            "end": 3105.458,
+            "text": "A curse to us all."
+          },
+          {
+            "index": 1011,
+            "start": 3105.625,
+            "end": 3106.625,
+            "text": "[female baboon]\nThat's not true."
+          },
+          {
+            "index": 1012,
+            "start": 3106.708,
+            "end": 3107.708,
+            "text": "[baboon 2] He doesn't\nbelong here."
+          },
+          {
+            "index": 1013,
+            "start": 3107.792,
+            "end": 3110.667,
+            "text": "All in favor of banishment,\ncover one eye."
+          },
+          {
+            "index": 1014,
+            "start": 3111.25,
+            "end": 3112.417,
+            "text": "[baboon 3] How can you\ntrust him?"
+          },
+          {
+            "index": 1015,
+            "start": 3112.583,
+            "end": 3114.375,
+            "text": "[baboon 4] Don't trust him,\nand I don't trust his magic!"
+          },
+          {
+            "index": 1016,
+            "start": 3114.542,
+            "end": 3115.542,
+            "text": "[baboon 5] He doesn't\nbelong here."
+          },
+          {
+            "index": 1017,
+            "start": 3115.667,
+            "end": 3117.417,
+            "text": "[baboon 6] He's not a baboon.\nAnd he never will be."
+          },
+          {
+            "index": 1018,
+            "start": 3117.583,
+            "end": 3119,
+            "text": "[baboon 7] He's not one of us."
+          },
+          {
+            "index": 1019,
+            "start": 3119.167,
+            "end": 3121.125,
+            "text": "-And so, it is time.\n-[♪ solemn music playing]"
+          },
+          {
+            "index": 1020,
+            "start": 3121.292,
+            "end": 3122.583,
+            "text": "[female baboon] No, wait."
+          },
+          {
+            "index": 1021,
+            "start": 3123.208,
+            "end": 3124.625,
+            "text": "Where will you go?"
+          },
+          {
+            "index": 1022,
+            "start": 3124.792,
+            "end": 3127.208,
+            "text": "Where I should have gone\nlong ago."
+          },
+          {
+            "index": 1023,
+            "start": 3127.375,
+            "end": 3129.417,
+            "text": "To find all that was lost."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 3110.496703857422,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1013
+      }
     }
   ]
 }
