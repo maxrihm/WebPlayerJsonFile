@@ -79546,6 +79546,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1354
       }
+    },
+    {
+      "id": "bf34d3e4-1935-4609-92dc-99846dc7f99f",
+      "createdAt": "2026-08-23T22:18:43.650Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "stampede.",
+      "selection": {
+        "rawText": "stampede.",
+        "startOffset": 38,
+        "endOffset": 47,
+        "cueIndex": 1406,
+        "cueStart": 4196.625,
+        "cueEnd": 4199.292,
+        "cueText": "Because, uh, it felt like\nan elephant stampede."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1396,
+            "start": 4171.708,
+            "end": 4173.75,
+            "text": "-Who?\n-Taka."
+          },
+          {
+            "index": 1397,
+            "start": 4173.875,
+            "end": 4176.333,
+            "text": "-[gasps] Uh...\n-Taka saved you."
+          },
+          {
+            "index": 1398,
+            "start": 4176.5,
+            "end": 4178.375,
+            "text": "Isn't that right, brother?"
+          },
+          {
+            "index": 1399,
+            "start": 4181.917,
+            "end": 4183.417,
+            "text": "You saved me?"
+          },
+          {
+            "index": 1400,
+            "start": 4183.5,
+            "end": 4186.75,
+            "text": "Uh... Well, I...\nI had to do something."
+          },
+          {
+            "index": 1401,
+            "start": 4186.917,
+            "end": 4188.083,
+            "text": "Thank you."
+          },
+          {
+            "index": 1402,
+            "start": 4189.458,
+            "end": 4190.708,
+            "text": "[Mufasa] We're lucky."
+          },
+          {
+            "index": 1403,
+            "start": 4190.875,
+            "end": 4193.125,
+            "text": "Those bees\nalmost killed us all."
+          },
+          {
+            "index": 1404,
+            "start": 4193.292,
+            "end": 4194.875,
+            "text": "Those bees saved our lives."
+          },
+          {
+            "index": 1405,
+            "start": 4195.042,
+            "end": 4196.458,
+            "text": "-Oh, Mufasa.\n-[Mufasa] Really?"
+          },
+          {
+            "index": 1406,
+            "start": 4196.625,
+            "end": 4199.292,
+            "text": "Because, uh, it felt like\nan elephant stampede."
+          },
+          {
+            "index": 1407,
+            "start": 4199.458,
+            "end": 4200.542,
+            "text": "We're alive, aren't we?"
+          },
+          {
+            "index": 1408,
+            "start": 4200.625,
+            "end": 4201.708,
+            "text": "[Mufasa] The elephants\nwould have fought with us."
+          },
+          {
+            "index": 1409,
+            "start": 4201.875,
+            "end": 4202.917,
+            "text": "[Sarabi] We're lions."
+          },
+          {
+            "index": 1410,
+            "start": 4203.083,
+            "end": 4204.333,
+            "text": "Nobody will fight with us."
+          },
+          {
+            "index": 1411,
+            "start": 4204.5,
+            "end": 4205.667,
+            "text": "Not out here."
+          },
+          {
+            "index": 1412,
+            "start": 4206.25,
+            "end": 4207.25,
+            "text": "[Rafiki] ♪ Ngiya... ♪"
+          },
+          {
+            "index": 1413,
+            "start": 4207.333,
+            "end": 4208.375,
+            "text": "[gasps]"
+          },
+          {
+            "index": 1414,
+            "start": 4208.458,
+            "end": 4210.375,
+            "text": "♪ Milele... ♪"
+          },
+          {
+            "index": 1415,
+            "start": 4210.458,
+            "end": 4213.25,
+            "text": "♪ Umfoweth'ungimele ♪ [laughs]"
+          },
+          {
+            "index": 1416,
+            "start": 4213.333,
+            "end": 4214.417,
+            "text": "♪ Umfoweth'ungimele ♪"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 4199.868950927735,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1406
+      }
     }
   ]
 }
