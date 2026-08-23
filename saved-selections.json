@@ -82606,6 +82606,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1670
       }
+    },
+    {
+      "id": "4bb8c543-583f-458c-bf64-233152480689",
+      "createdAt": "2026-08-23T22:53:20.496Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "Only one chance at",
+      "selection": {
+        "rawText": "Only one chance at",
+        "startOffset": 0,
+        "endOffset": 18,
+        "cueIndex": 1672,
+        "cueStart": 4991.333,
+        "cueEnd": 4995.875,
+        "cueText": "Only one chance at revenge."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1662,
+            "start": 4963.25,
+            "end": 4966.125,
+            "text": "outsmarted you at every turn."
+          },
+          {
+            "index": 1663,
+            "start": 4966.583,
+            "end": 4970.333,
+            "text": "Now I will lead you to him\nand to Milele."
+          },
+          {
+            "index": 1664,
+            "start": 4970.5,
+            "end": 4972.542,
+            "text": "[growls] Milele!"
+          },
+          {
+            "index": 1665,
+            "start": 4972.708,
+            "end": 4977.292,
+            "text": "Milele is nothing but a dream,\na vision sold to cubs."
+          },
+          {
+            "index": 1666,
+            "start": 4977.5,
+            "end": 4980.375,
+            "text": "Ah. Well,\ntell that to the monkey."
+          },
+          {
+            "index": 1667,
+            "start": 4980.542,
+            "end": 4982.125,
+            "text": "He leads them to it."
+          },
+          {
+            "index": 1668,
+            "start": 4982.583,
+            "end": 4983.708,
+            "text": "Look at you."
+          },
+          {
+            "index": 1669,
+            "start": 4984.083,
+            "end": 4987.083,
+            "text": "A pack of starving wolves"
+          },
+          {
+            "index": 1670,
+            "start": 4987.25,
+            "end": 4989.375,
+            "text": "clinging to the side\nof a mountain."
+          },
+          {
+            "index": 1671,
+            "start": 4989.542,
+            "end": 4991.167,
+            "text": "No tracks to follow."
+          },
+          {
+            "index": 1672,
+            "start": 4991.333,
+            "end": 4995.875,
+            "text": "Only one chance at revenge."
+          },
+          {
+            "index": 1673,
+            "start": 4997.042,
+            "end": 4998.042,
+            "text": "Me!"
+          },
+          {
+            "index": 1674,
+            "start": 4999.667,
+            "end": 5000.833,
+            "text": "Revenge..."
+          },
+          {
+            "index": 1675,
+            "start": 5002.917,
+            "end": 5004.875,
+            "text": "What about your father?"
+          },
+          {
+            "index": 1676,
+            "start": 5005.833,
+            "end": 5007.5,
+            "text": "Because of Mufasa,"
+          },
+          {
+            "index": 1677,
+            "start": 5008.208,
+            "end": 5009.917,
+            "text": "I have no father."
+          },
+          {
+            "index": 1678,
+            "start": 5011.5,
+            "end": 5012.792,
+            "text": "He did this."
+          },
+          {
+            "index": 1679,
+            "start": 5015.167,
+            "end": 5016.292,
+            "text": "Yes."
+          },
+          {
+            "index": 1680,
+            "start": 5016.458,
+            "end": 5018.083,
+            "text": "You lost a father,"
+          },
+          {
+            "index": 1681,
+            "start": 5018.958,
+            "end": 5020.583,
+            "text": "and I, a son."
+          },
+          {
+            "index": 1682,
+            "start": 5021.125,
+            "end": 5023.667,
+            "text": "Taka, will you join us?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 4998.248588867187,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1672
+      }
     }
   ]
 }
