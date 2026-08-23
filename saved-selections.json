@@ -80770,6 +80770,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1479
       }
+    },
+    {
+      "id": "a0e52fd4-ad71-4091-afee-cbeb0ce701de",
+      "createdAt": "2026-08-23T22:30:03.070Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "charged",
+      "selection": {
+        "rawText": "charged",
+        "startOffset": 23,
+        "endOffset": 30,
+        "cueIndex": 1485,
+        "cueStart": 4428.625,
+        "cueEnd": 4431.292,
+        "cueText": "You know, one hornbill charged\nwith saving the future..."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1475,
+            "start": 4406.25,
+            "end": 4408.125,
+            "text": "Oh. Are you quite sure\nabout that?"
+          },
+          {
+            "index": 1476,
+            "start": 4408.292,
+            "end": 4409.333,
+            "text": "No, I was actually thinking"
+          },
+          {
+            "index": 1477,
+            "start": 4409.5,
+            "end": 4411.083,
+            "text": "that Rafiki looks pretty\nhandy, and with the stick..."
+          },
+          {
+            "index": 1478,
+            "start": 4411.375,
+            "end": 4412.625,
+            "text": "Zazu, you can use your wings"
+          },
+          {
+            "index": 1479,
+            "start": 4412.792,
+            "end": 4414.458,
+            "text": "to cover our tracks\nas we head up the mountain"
+          },
+          {
+            "index": 1480,
+            "start": 4414.625,
+            "end": 4416,
+            "text": "without leaving a trace."
+          },
+          {
+            "index": 1481,
+            "start": 4416.167,
+            "end": 4418.083,
+            "text": "Hey, you can do this."
+          },
+          {
+            "index": 1482,
+            "start": 4418.167,
+            "end": 4420.083,
+            "text": "Oh, hmm. Yeah."
+          },
+          {
+            "index": 1483,
+            "start": 4420.25,
+            "end": 4422.375,
+            "text": "Yes, sir. You're right.\nI've got this."
+          },
+          {
+            "index": 1484,
+            "start": 4426.083,
+            "end": 4428.458,
+            "text": "Okay. It's just me against\na frozen mountain."
+          },
+          {
+            "index": 1485,
+            "start": 4428.625,
+            "end": 4431.292,
+            "text": "You know, one hornbill charged\nwith saving the future..."
+          },
+          {
+            "index": 1486,
+            "start": 4431.375,
+            "end": 4433.208,
+            "text": "Whoa! Mummy!"
+          },
+          {
+            "index": 1487,
+            "start": 4434.292,
+            "end": 4437.375,
+            "text": "[exclaims] Oh, man alive,\nthat's cold."
+          },
+          {
+            "index": 1488,
+            "start": 4447.125,
+            "end": 4448.375,
+            "text": "[gasps softly]"
+          },
+          {
+            "index": 1489,
+            "start": 4450.958,
+            "end": 4452.917,
+            "text": "[Kiros growls]\nNow what's happening?"
+          },
+          {
+            "index": 1490,
+            "start": 4453.083,
+            "end": 4455.125,
+            "text": "We can't keep stopping."
+          },
+          {
+            "index": 1491,
+            "start": 4455.292,
+            "end": 4457.667,
+            "text": "Somehow, they have\ncovered their tracks."
+          },
+          {
+            "index": 1492,
+            "start": 4457.833,
+            "end": 4459.25,
+            "text": "In the snow?"
+          },
+          {
+            "index": 1493,
+            "start": 4459.833,
+            "end": 4461.042,
+            "text": "It's not possible."
+          },
+          {
+            "index": 1494,
+            "start": 4461.208,
+            "end": 4463.375,
+            "text": "Majesty, they could be\nanywhere on this mountain..."
+          },
+          {
+            "index": 1495,
+            "start": 4463.542,
+            "end": 4464.583,
+            "text": "[Kiros] Then find them!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 4431.925441894531,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1485
+      }
     }
   ]
 }
