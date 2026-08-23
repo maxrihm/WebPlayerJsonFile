@@ -76945,6 +76945,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1050
       }
+    },
+    {
+      "id": "513ad3e6-1ba7-439b-a2cc-338626cf2cc7",
+      "createdAt": "2026-08-23T21:48:44.535Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "misfit",
+      "selection": {
+        "rawText": "misfit",
+        "startOffset": 19,
+        "endOffset": 25,
+        "cueIndex": 1070,
+        "cueStart": 3275.708,
+        "cueEnd": 3277.292,
+        "cueText": "Wonderful.\nAnother misfit stray"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1060,
+            "start": 3252.708,
+            "end": 3254.958,
+            "text": "Sometimes, a dream\nis all you have."
+          },
+          {
+            "index": 1061,
+            "start": 3255.125,
+            "end": 3257.5,
+            "text": "The only truth\nthat lives in you."
+          },
+          {
+            "index": 1062,
+            "start": 3257.667,
+            "end": 3260.125,
+            "text": "Like the memory\nof a great king."
+          },
+          {
+            "index": 1063,
+            "start": 3260.292,
+            "end": 3261.708,
+            "text": "How did you know?"
+          },
+          {
+            "index": 1064,
+            "start": 3261.875,
+            "end": 3265.167,
+            "text": "Okay. Help us get to Milele,\nand we will let you live."
+          },
+          {
+            "index": 1065,
+            "start": 3265.333,
+            "end": 3266.917,
+            "text": "-Do we have a deal?\n-No."
+          },
+          {
+            "index": 1066,
+            "start": 3267.083,
+            "end": 3268.25,
+            "text": "What? Why?"
+          },
+          {
+            "index": 1067,
+            "start": 3268.417,
+            "end": 3271.417,
+            "text": "Rafiki will let you live."
+          },
+          {
+            "index": 1068,
+            "start": 3271.583,
+            "end": 3273.708,
+            "text": "I've had enough of this!"
+          },
+          {
+            "index": 1069,
+            "start": 3273.875,
+            "end": 3275.542,
+            "text": "Taka, do not eat him."
+          },
+          {
+            "index": 1070,
+            "start": 3275.708,
+            "end": 3277.292,
+            "text": "Wonderful.\nAnother misfit stray"
+          },
+          {
+            "index": 1071,
+            "start": 3277.375,
+            "end": 3278.667,
+            "text": "we're not supposed to eat."
+          },
+          {
+            "index": 1072,
+            "start": 3278.833,
+            "end": 3281.417,
+            "text": "So, you expect us\nto follow this baboon"
+          },
+          {
+            "index": 1073,
+            "start": 3281.583,
+            "end": 3284.542,
+            "text": "to a place nobody\nhas ever seen? [scoffs]"
+          },
+          {
+            "index": 1074,
+            "start": 3284.667,
+            "end": 3287.167,
+            "text": "-I'll be better off alone.\n-Hhe ntombazane."
+          },
+          {
+            "index": 1075,
+            "start": 3287.333,
+            "end": 3289.75,
+            "text": "A single stick may smoke,"
+          },
+          {
+            "index": 1076,
+            "start": 3289.917,
+            "end": 3291.792,
+            "text": "but it will never burn."
+          },
+          {
+            "index": 1077,
+            "start": 3295,
+            "end": 3296.458,
+            "text": "Okay, now that\nthere's five of us,"
+          },
+          {
+            "index": 1078,
+            "start": 3296.625,
+            "end": 3297.625,
+            "text": "why don't we all go around"
+          },
+          {
+            "index": 1079,
+            "start": 3297.708,
+            "end": 3299.208,
+            "text": "and say a fun fact\nabout ourselves?"
+          },
+          {
+            "index": 1080,
+            "start": 3299.375,
+            "end": 3300.375,
+            "text": "I'll go first."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 3278.4978728027345,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1070
+      }
     }
   ]
 }
