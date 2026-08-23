@@ -72814,6 +72814,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 901
       }
+    },
+    {
+      "id": "d9ccd4d2-0970-4007-8f13-867f6fb1c1a5",
+      "createdAt": "2026-08-23T21:31:04.081Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "wood",
+      "selection": {
+        "rawText": "wood",
+        "startOffset": 20,
+        "endOffset": 24,
+        "cueIndex": 923,
+        "cueStart": 2888.5,
+        "cueEnd": 2889.75,
+        "cueText": "three times in this wood"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 913,
+            "start": 2870.042,
+            "end": 2871.833,
+            "text": "[stutters] Is it them?\nIs it the Outsiders?"
+          },
+          {
+            "index": 914,
+            "start": 2872,
+            "end": 2873.875,
+            "text": "[Mufasa] No.\nShe's right there."
+          },
+          {
+            "index": 915,
+            "start": 2874.042,
+            "end": 2875.167,
+            "text": "\"She\"?"
+          },
+          {
+            "index": 916,
+            "start": 2875.333,
+            "end": 2877.417,
+            "text": "[♪ suspenseful music playing]"
+          },
+          {
+            "index": 917,
+            "start": 2877.625,
+            "end": 2879.292,
+            "text": "There's no place to run."
+          },
+          {
+            "index": 918,
+            "start": 2879.458,
+            "end": 2880.875,
+            "text": "We have your scent."
+          },
+          {
+            "index": 919,
+            "start": 2881.167,
+            "end": 2882.208,
+            "text": "[lioness] My scent?"
+          },
+          {
+            "index": 920,
+            "start": 2882.292,
+            "end": 2884.708,
+            "text": "[scoffs] I've been stalking\nyou two all night."
+          },
+          {
+            "index": 921,
+            "start": 2885.167,
+            "end": 2886.708,
+            "text": "[chuckles]\nThat's not possible."
+          },
+          {
+            "index": 922,
+            "start": 2886.875,
+            "end": 2888.333,
+            "text": "[lioness] Then\nwhy did I circle you"
+          },
+          {
+            "index": 923,
+            "start": 2888.5,
+            "end": 2889.75,
+            "text": "three times in this wood"
+          },
+          {
+            "index": 924,
+            "start": 2889.917,
+            "end": 2892.125,
+            "text": "while you two were\nchasing each other's tails?"
+          },
+          {
+            "index": 925,
+            "start": 2908.333,
+            "end": 2910,
+            "text": "-[roars]\n-[Taka exclaims]"
+          },
+          {
+            "index": 926,
+            "start": 2911.625,
+            "end": 2913.25,
+            "text": "Uh... That's embarrassing."
+          },
+          {
+            "index": 927,
+            "start": 2913.792,
+            "end": 2917.167,
+            "text": "Yeah, well, I, uh,\nmeant to do that, so..."
+          },
+          {
+            "index": 928,
+            "start": 2917.333,
+            "end": 2919.25,
+            "text": "Still think I'm afraid?"
+          },
+          {
+            "index": 929,
+            "start": 2921.833,
+            "end": 2923,
+            "text": "[Mufasa] Why are you\nfollowing us?"
+          },
+          {
+            "index": 930,
+            "start": 2923.083,
+            "end": 2924.417,
+            "text": "I was hoping to find my pride."
+          },
+          {
+            "index": 931,
+            "start": 2924.5,
+            "end": 2925.5,
+            "text": "What happened to them?"
+          },
+          {
+            "index": 932,
+            "start": 2925.583,
+            "end": 2926.583,
+            "text": "[lioness] The Outsiders\nhappened."
+          },
+          {
+            "index": 933,
+            "start": 2927.042,
+            "end": 2928.125,
+            "text": "A few of us got away,"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 2889.938998779297,
+        "topCueIndex": -1,
+        "bottomCueIndex": 923
+      }
     }
   ]
 }
