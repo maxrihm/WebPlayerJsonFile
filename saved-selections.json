@@ -76639,6 +76639,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1043
       }
+    },
+    {
+      "id": "94a060f8-3c8e-4752-8e85-40205c6ab6ec",
+      "createdAt": "2026-08-23T21:46:35.106Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "about to happen.",
+      "selection": {
+        "rawText": "about to happen.",
+        "startOffset": 36,
+        "endOffset": 52,
+        "cueIndex": 1045,
+        "cueStart": 3216.292,
+        "cueEnd": 3218.958,
+        "cueText": "I don't think you understand\nwhat's about to happen."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1035,
+            "start": 3183.208,
+            "end": 3185.208,
+            "text": "[♪ suspenseful music playing]"
+          },
+          {
+            "index": 1036,
+            "start": 3187.333,
+            "end": 3188.375,
+            "text": "[grunts]"
+          },
+          {
+            "index": 1037,
+            "start": 3192,
+            "end": 3194,
+            "text": "Hmm. Jamaa."
+          },
+          {
+            "index": 1038,
+            "start": 3195.333,
+            "end": 3196.333,
+            "text": "Hmm."
+          },
+          {
+            "index": 1039,
+            "start": 3200.75,
+            "end": 3204.083,
+            "text": "You can try to run, but I'm\nafraid you won't get very far."
+          },
+          {
+            "index": 1040,
+            "start": 3204.25,
+            "end": 3206.042,
+            "text": "And why would I run from you?"
+          },
+          {
+            "index": 1041,
+            "start": 3206.792,
+            "end": 3208.75,
+            "text": "Because we're lions."
+          },
+          {
+            "index": 1042,
+            "start": 3208.917,
+            "end": 3211.625,
+            "text": "As in... [roaring] lions!"
+          },
+          {
+            "index": 1043,
+            "start": 3211.792,
+            "end": 3214.25,
+            "text": "[scoffs] A flea\ncan trouble a lion"
+          },
+          {
+            "index": 1044,
+            "start": 3214.333,
+            "end": 3216.125,
+            "text": "more than a lion\ncan trouble a flea."
+          },
+          {
+            "index": 1045,
+            "start": 3216.292,
+            "end": 3218.958,
+            "text": "I don't think you understand\nwhat's about to happen."
+          },
+          {
+            "index": 1046,
+            "start": 3219.125,
+            "end": 3220.625,
+            "text": "There's no place\nfor you to go."
+          },
+          {
+            "index": 1047,
+            "start": 3220.792,
+            "end": 3222.583,
+            "text": "I am going forward."
+          },
+          {
+            "index": 1048,
+            "start": 3222.75,
+            "end": 3224.167,
+            "text": "I seriously doubt that."
+          },
+          {
+            "index": 1049,
+            "start": 3224.333,
+            "end": 3228.125,
+            "text": "It is easy to doubt everything\nwhen you know nothing."
+          },
+          {
+            "index": 1050,
+            "start": 3228.292,
+            "end": 3230.375,
+            "text": "Can we get on\nwith this, please?"
+          },
+          {
+            "index": 1051,
+            "start": 3230.542,
+            "end": 3233.833,
+            "text": "If you take my life,\nyou will never find Milele."
+          },
+          {
+            "index": 1052,
+            "start": 3234,
+            "end": 3235.75,
+            "text": "Wait, did you say Milele?"
+          },
+          {
+            "index": 1053,
+            "start": 3235.917,
+            "end": 3238.75,
+            "text": "That is where I'm going.\nToward the light."
+          },
+          {
+            "index": 1054,
+            "start": 3238.917,
+            "end": 3242.542,
+            "text": "I have been there many times\nin my dreams."
+          },
+          {
+            "index": 1055,
+            "start": 3242.708,
+            "end": 3244.708,
+            "text": "My brother waits for me there."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 3219.141145751953,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1045
+      }
     }
   ]
 }
