@@ -76792,6 +76792,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1045
       }
+    },
+    {
+      "id": "a6888229-f0d6-4c73-a191-f4e7046df263",
+      "createdAt": "2026-08-23T21:47:08.334Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "get on",
+      "selection": {
+        "rawText": "get on",
+        "startOffset": 7,
+        "endOffset": 13,
+        "cueIndex": 1050,
+        "cueStart": 3228.292,
+        "cueEnd": 3230.375,
+        "cueText": "Can we get on\nwith this, please?"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1040,
+            "start": 3204.25,
+            "end": 3206.042,
+            "text": "And why would I run from you?"
+          },
+          {
+            "index": 1041,
+            "start": 3206.792,
+            "end": 3208.75,
+            "text": "Because we're lions."
+          },
+          {
+            "index": 1042,
+            "start": 3208.917,
+            "end": 3211.625,
+            "text": "As in... [roaring] lions!"
+          },
+          {
+            "index": 1043,
+            "start": 3211.792,
+            "end": 3214.25,
+            "text": "[scoffs] A flea\ncan trouble a lion"
+          },
+          {
+            "index": 1044,
+            "start": 3214.333,
+            "end": 3216.125,
+            "text": "more than a lion\ncan trouble a flea."
+          },
+          {
+            "index": 1045,
+            "start": 3216.292,
+            "end": 3218.958,
+            "text": "I don't think you understand\nwhat's about to happen."
+          },
+          {
+            "index": 1046,
+            "start": 3219.125,
+            "end": 3220.625,
+            "text": "There's no place\nfor you to go."
+          },
+          {
+            "index": 1047,
+            "start": 3220.792,
+            "end": 3222.583,
+            "text": "I am going forward."
+          },
+          {
+            "index": 1048,
+            "start": 3222.75,
+            "end": 3224.167,
+            "text": "I seriously doubt that."
+          },
+          {
+            "index": 1049,
+            "start": 3224.333,
+            "end": 3228.125,
+            "text": "It is easy to doubt everything\nwhen you know nothing."
+          },
+          {
+            "index": 1050,
+            "start": 3228.292,
+            "end": 3230.375,
+            "text": "Can we get on\nwith this, please?"
+          },
+          {
+            "index": 1051,
+            "start": 3230.542,
+            "end": 3233.833,
+            "text": "If you take my life,\nyou will never find Milele."
+          },
+          {
+            "index": 1052,
+            "start": 3234,
+            "end": 3235.75,
+            "text": "Wait, did you say Milele?"
+          },
+          {
+            "index": 1053,
+            "start": 3235.917,
+            "end": 3238.75,
+            "text": "That is where I'm going.\nToward the light."
+          },
+          {
+            "index": 1054,
+            "start": 3238.917,
+            "end": 3242.542,
+            "text": "I have been there many times\nin my dreams."
+          },
+          {
+            "index": 1055,
+            "start": 3242.708,
+            "end": 3244.708,
+            "text": "My brother waits for me there."
+          },
+          {
+            "index": 1056,
+            "start": 3244.875,
+            "end": 3246.208,
+            "text": "I've seen the tree."
+          },
+          {
+            "index": 1057,
+            "start": 3246.375,
+            "end": 3248.375,
+            "text": "Can picture it. The two of us,"
+          },
+          {
+            "index": 1058,
+            "start": 3248.542,
+            "end": 3250.042,
+            "text": "together again."
+          },
+          {
+            "index": 1059,
+            "start": 3250.208,
+            "end": 3252.542,
+            "text": "And why would anyone trust\na baboon's dream?"
+          },
+          {
+            "index": 1060,
+            "start": 3252.708,
+            "end": 3254.958,
+            "text": "Sometimes, a dream\nis all you have."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 3231.9097939453127,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1050
+      }
     }
   ]
 }
