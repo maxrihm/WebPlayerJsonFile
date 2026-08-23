@@ -75568,6 +75568,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 995
       }
+    },
+    {
+      "id": "a6633efd-6e9a-4cfb-9437-b9474e930bd7",
+      "createdAt": "2026-08-23T21:41:43.857Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "very",
+      "selection": {
+        "rawText": "very",
+        "startOffset": 34,
+        "endOffset": 38,
+        "cueIndex": 999,
+        "cueStart": 3082.458,
+        "cueEnd": 3084.417,
+        "cueText": "His brother was chased\nfrom these very trees,"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 989,
+            "start": 3066.5,
+            "end": 3067.833,
+            "text": "Almost took one of our own."
+          },
+          {
+            "index": 990,
+            "start": 3068,
+            "end": 3069,
+            "text": "It was Rafiki's fault."
+          },
+          {
+            "index": 991,
+            "start": 3069.292,
+            "end": 3071.25,
+            "text": "He summoned the beast\nwith his dreams."
+          },
+          {
+            "index": 992,
+            "start": 3071.417,
+            "end": 3072.667,
+            "text": "[baboon 1] Rafiki\nand his visions"
+          },
+          {
+            "index": 993,
+            "start": 3072.75,
+            "end": 3074.792,
+            "text": "must be banished\nonce and for all."
+          },
+          {
+            "index": 994,
+            "start": 3074.958,
+            "end": 3076.125,
+            "text": "Rafiki tried to warn you."
+          },
+          {
+            "index": 995,
+            "start": 3076.292,
+            "end": 3077.958,
+            "text": "His dreams\nconjure our enemies."
+          },
+          {
+            "index": 996,
+            "start": 3078.042,
+            "end": 3080,
+            "text": "He talks to the spirits,\nsummons the devil."
+          },
+          {
+            "index": 997,
+            "start": 3080.167,
+            "end": 3081.167,
+            "text": "What are you talking about?"
+          },
+          {
+            "index": 998,
+            "start": 3081.25,
+            "end": 3082.292,
+            "text": "[baboon 2] He's\ndone it before."
+          },
+          {
+            "index": 999,
+            "start": 3082.458,
+            "end": 3084.417,
+            "text": "His brother was chased\nfrom these very trees,"
+          },
+          {
+            "index": 1000,
+            "start": 3084.583,
+            "end": 3085.708,
+            "text": "never to be seen again."
+          },
+          {
+            "index": 1001,
+            "start": 3085.875,
+            "end": 3087.083,
+            "text": "[female baboon]\nRafiki was just a child."
+          },
+          {
+            "index": 1002,
+            "start": 3087.25,
+            "end": 3089.75,
+            "text": "A child born with a leg that\ndoes not work."
+          },
+          {
+            "index": 1003,
+            "start": 3089.833,
+            "end": 3090.833,
+            "text": "Yet somehow, he survived?"
+          },
+          {
+            "index": 1004,
+            "start": 3091,
+            "end": 3093.458,
+            "text": "It was Rafiki who found water\nin the dry season."
+          },
+          {
+            "index": 1005,
+            "start": 3093.625,
+            "end": 3095.958,
+            "text": "Who healed you, Inaki,\nwhen you were sick."
+          },
+          {
+            "index": 1006,
+            "start": 3096.125,
+            "end": 3099.208,
+            "text": "He speaks to the insects,\nconverses with the moon."
+          },
+          {
+            "index": 1007,
+            "start": 3099.375,
+            "end": 3100.833,
+            "text": "Zala, you know\nwhat will happen"
+          },
+          {
+            "index": 1008,
+            "start": 3100.917,
+            "end": 3102.333,
+            "text": "if you send him\ndown from the trees."
+          },
+          {
+            "index": 1009,
+            "start": 3102.5,
+            "end": 3104.292,
+            "text": "[Inaki] He is amelaaniwa!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 3084.8014819335935,
+        "topCueIndex": -1,
+        "bottomCueIndex": 999
+      }
     }
   ]
 }
