@@ -79699,6 +79699,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1406
       }
+    },
+    {
+      "id": "d421935b-96cf-4a09-a03e-4e7480263c7c",
+      "createdAt": "2026-08-23T22:20:05.122Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "come",
+      "selection": {
+        "rawText": "come",
+        "startOffset": 20,
+        "endOffset": 24,
+        "cueIndex": 1424,
+        "cueStart": 4242.042,
+        "cueEnd": 4245.167,
+        "cueText": "Well, the Outsiders come\nfrom many prides."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1414,
+            "start": 4208.458,
+            "end": 4210.375,
+            "text": "♪ Milele... ♪"
+          },
+          {
+            "index": 1415,
+            "start": 4210.458,
+            "end": 4213.25,
+            "text": "♪ Umfoweth'ungimele ♪ [laughs]"
+          },
+          {
+            "index": 1416,
+            "start": 4213.333,
+            "end": 4214.417,
+            "text": "♪ Umfoweth'ungimele ♪"
+          },
+          {
+            "index": 1417,
+            "start": 4214.5,
+            "end": 4215.708,
+            "text": "Where's he going?"
+          },
+          {
+            "index": 1418,
+            "start": 4216.625,
+            "end": 4219.417,
+            "text": "-Beyond the horizon itself.\n-[sighs]"
+          },
+          {
+            "index": 1419,
+            "start": 4219.542,
+            "end": 4221.625,
+            "text": "[Rafiki]\n♪ Umfoweth'ungimele... ♪"
+          },
+          {
+            "index": 1420,
+            "start": 4222.25,
+            "end": 4224.208,
+            "text": "Mufasa, thank you."
+          },
+          {
+            "index": 1421,
+            "start": 4229.5,
+            "end": 4232.5,
+            "text": "-[thunder rumbling]\n-[♪ pensive music playing]"
+          },
+          {
+            "index": 1422,
+            "start": 4237.708,
+            "end": 4239.583,
+            "text": "Rafiki, who..."
+          },
+          {
+            "index": 1423,
+            "start": 4239.667,
+            "end": 4241.875,
+            "text": "Who are the Outsiders?"
+          },
+          {
+            "index": 1424,
+            "start": 4242.042,
+            "end": 4245.167,
+            "text": "Well, the Outsiders come\nfrom many prides."
+          },
+          {
+            "index": 1425,
+            "start": 4245.375,
+            "end": 4247.958,
+            "text": "But, when they are born,\nthey are hated"
+          },
+          {
+            "index": 1426,
+            "start": 4248.042,
+            "end": 4250.833,
+            "text": "because they are different\nfrom their tribe."
+          },
+          {
+            "index": 1427,
+            "start": 4251,
+            "end": 4252.375,
+            "text": "Like you and your tribe?"
+          },
+          {
+            "index": 1428,
+            "start": 4252.542,
+            "end": 4254.125,
+            "text": "Yes, just like me."
+          },
+          {
+            "index": 1429,
+            "start": 4254.292,
+            "end": 4256.458,
+            "text": "-But, Rafiki?\n-Yes?"
+          },
+          {
+            "index": 1430,
+            "start": 4256.625,
+            "end": 4258.542,
+            "text": "Why do they wanna\nhurt everybody?"
+          },
+          {
+            "index": 1431,
+            "start": 4258.875,
+            "end": 4262.667,
+            "text": "Sometimes, when the people\nmost like you don't love you,"
+          },
+          {
+            "index": 1432,
+            "start": 4262.833,
+            "end": 4266.042,
+            "text": "it is a hurt that can cause\nthe greatest pain."
+          },
+          {
+            "index": 1433,
+            "start": 4266.375,
+            "end": 4267.708,
+            "text": "And this pain"
+          },
+          {
+            "index": 1434,
+            "start": 4267.875,
+            "end": 4271.25,
+            "text": "can lead you\nto hate everything."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 4245.4503029785155,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1424
+      }
     }
   ]
 }
