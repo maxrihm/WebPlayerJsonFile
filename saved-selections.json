@@ -79087,6 +79087,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1286
       }
+    },
+    {
+      "id": "18f64866-b3ef-471f-bfd1-575722713d13",
+      "createdAt": "2026-08-23T22:13:17.305Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "drill!",
+      "selection": {
+        "rawText": "drill!",
+        "startOffset": 14,
+        "endOffset": 20,
+        "cueIndex": 1331,
+        "cueStart": 3943.833,
+        "cueEnd": 3946.292,
+        "cueText": "This is not a drill!\nJust to be clear,"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1321,
+            "start": 3912.125,
+            "end": 3915.042,
+            "text": "thousands of them\nas far as the eye could see."
+          },
+          {
+            "index": 1322,
+            "start": 3915.125,
+            "end": 3918.375,
+            "text": "It was... It was the most\nbeautiful place, Taka."
+          },
+          {
+            "index": 1323,
+            "start": 3919.042,
+            "end": 3921.042,
+            "text": "Did he just say\nshe smells like a duck?"
+          },
+          {
+            "index": 1324,
+            "start": 3921.208,
+            "end": 3923.708,
+            "text": "And you call me a baboon?\n[scoffs]"
+          },
+          {
+            "index": 1325,
+            "start": 3924.625,
+            "end": 3925.625,
+            "text": "[fly buzzing]"
+          },
+          {
+            "index": 1326,
+            "start": 3928.583,
+            "end": 3931.25,
+            "text": "-[♪ intriguing music playing]\n-[fly buzzes]"
+          },
+          {
+            "index": 1327,
+            "start": 3932.375,
+            "end": 3933.792,
+            "text": "[elephants trumpeting]"
+          },
+          {
+            "index": 1328,
+            "start": 3938.625,
+            "end": 3940.208,
+            "text": "They shouldn't be here."
+          },
+          {
+            "index": 1329,
+            "start": 3940.542,
+            "end": 3942.042,
+            "text": "The migration patterns\nare broken."
+          },
+          {
+            "index": 1330,
+            "start": 3942.208,
+            "end": 3943.667,
+            "text": "-I... I don't understand...\n-Outsiders!"
+          },
+          {
+            "index": 1331,
+            "start": 3943.833,
+            "end": 3946.292,
+            "text": "This is not a drill!\nJust to be clear,"
+          },
+          {
+            "index": 1332,
+            "start": 3946.5,
+            "end": 3949.292,
+            "text": "I never signed up for this."
+          },
+          {
+            "index": 1333,
+            "start": 3951.083,
+            "end": 3952.958,
+            "text": "It's okay. We're safe."
+          },
+          {
+            "index": 1334,
+            "start": 3953.125,
+            "end": 3954.5,
+            "text": "They're on the other side."
+          },
+          {
+            "index": 1335,
+            "start": 3955.292,
+            "end": 3956.292,
+            "text": "Nope!"
+          },
+          {
+            "index": 1336,
+            "start": 3956.458,
+            "end": 3957.917,
+            "text": "They can just jump across!"
+          },
+          {
+            "index": 1337,
+            "start": 3958.083,
+            "end": 3959.542,
+            "text": "[stutters] We are trapped!"
+          },
+          {
+            "index": 1338,
+            "start": 3959.708,
+            "end": 3960.833,
+            "text": "What do we do?"
+          },
+          {
+            "index": 1339,
+            "start": 3961,
+            "end": 3962.375,
+            "text": "The elephants\nwill fight with us."
+          },
+          {
+            "index": 1340,
+            "start": 3962.542,
+            "end": 3963.542,
+            "text": "And why would they do that?"
+          },
+          {
+            "index": 1341,
+            "start": 3963.708,
+            "end": 3966.125,
+            "text": "Because I'm going to ask them."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 3945.0725568847656,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1331
+      }
     }
   ]
 }
