@@ -75721,6 +75721,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 999
       }
+    },
+    {
+      "id": "ada2cd96-abe2-4f9d-a392-fa28e16f34b6",
+      "createdAt": "2026-08-23T21:42:51.546Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "converses",
+      "selection": {
+        "rawText": "converses",
+        "startOffset": 26,
+        "endOffset": 35,
+        "cueIndex": 1006,
+        "cueStart": 3096.125,
+        "cueEnd": 3099.208,
+        "cueText": "He speaks to the insects,\nconverses with the moon."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 996,
+            "start": 3078.042,
+            "end": 3080,
+            "text": "He talks to the spirits,\nsummons the devil."
+          },
+          {
+            "index": 997,
+            "start": 3080.167,
+            "end": 3081.167,
+            "text": "What are you talking about?"
+          },
+          {
+            "index": 998,
+            "start": 3081.25,
+            "end": 3082.292,
+            "text": "[baboon 2] He's\ndone it before."
+          },
+          {
+            "index": 999,
+            "start": 3082.458,
+            "end": 3084.417,
+            "text": "His brother was chased\nfrom these very trees,"
+          },
+          {
+            "index": 1000,
+            "start": 3084.583,
+            "end": 3085.708,
+            "text": "never to be seen again."
+          },
+          {
+            "index": 1001,
+            "start": 3085.875,
+            "end": 3087.083,
+            "text": "[female baboon]\nRafiki was just a child."
+          },
+          {
+            "index": 1002,
+            "start": 3087.25,
+            "end": 3089.75,
+            "text": "A child born with a leg that\ndoes not work."
+          },
+          {
+            "index": 1003,
+            "start": 3089.833,
+            "end": 3090.833,
+            "text": "Yet somehow, he survived?"
+          },
+          {
+            "index": 1004,
+            "start": 3091,
+            "end": 3093.458,
+            "text": "It was Rafiki who found water\nin the dry season."
+          },
+          {
+            "index": 1005,
+            "start": 3093.625,
+            "end": 3095.958,
+            "text": "Who healed you, Inaki,\nwhen you were sick."
+          },
+          {
+            "index": 1006,
+            "start": 3096.125,
+            "end": 3099.208,
+            "text": "He speaks to the insects,\nconverses with the moon."
+          },
+          {
+            "index": 1007,
+            "start": 3099.375,
+            "end": 3100.833,
+            "text": "Zala, you know\nwhat will happen"
+          },
+          {
+            "index": 1008,
+            "start": 3100.917,
+            "end": 3102.333,
+            "text": "if you send him\ndown from the trees."
+          },
+          {
+            "index": 1009,
+            "start": 3102.5,
+            "end": 3104.292,
+            "text": "[Inaki] He is amelaaniwa!"
+          },
+          {
+            "index": 1010,
+            "start": 3104.458,
+            "end": 3105.458,
+            "text": "A curse to us all."
+          },
+          {
+            "index": 1011,
+            "start": 3105.625,
+            "end": 3106.625,
+            "text": "[female baboon]\nThat's not true."
+          },
+          {
+            "index": 1012,
+            "start": 3106.708,
+            "end": 3107.708,
+            "text": "[baboon 2] He doesn't\nbelong here."
+          },
+          {
+            "index": 1013,
+            "start": 3107.792,
+            "end": 3110.667,
+            "text": "All in favor of banishment,\ncover one eye."
+          },
+          {
+            "index": 1014,
+            "start": 3111.25,
+            "end": 3112.417,
+            "text": "[baboon 3] How can you\ntrust him?"
+          },
+          {
+            "index": 1015,
+            "start": 3112.583,
+            "end": 3114.375,
+            "text": "[baboon 4] Don't trust him,\nand I don't trust his magic!"
+          },
+          {
+            "index": 1016,
+            "start": 3114.542,
+            "end": 3115.542,
+            "text": "[baboon 5] He doesn't\nbelong here."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 3099.3492219238283,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1006
+      }
     }
   ]
 }
