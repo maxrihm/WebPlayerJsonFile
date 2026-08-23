@@ -85819,6 +85819,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1960
       }
+    },
+    {
+      "id": "854575d4-e465-4ccf-9c39-bea3064282be",
+      "createdAt": "2026-08-23T23:32:26.579Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "-You could not improve on it.",
+      "selection": {
+        "rawText": "-You could not improve on it.",
+        "startOffset": 17,
+        "endOffset": 46,
+        "cueIndex": 2040,
+        "cueStart": 6579.458,
+        "cueEnd": 6581.333,
+        "cueText": "-It was perfect.\n-You could not improve on it."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 2030,
+            "start": 6535.417,
+            "end": 6536.542,
+            "text": "[roars]"
+          },
+          {
+            "index": 2031,
+            "start": 6536.625,
+            "end": 6539.042,
+            "text": "[♪ enthralling song playing\nin other language]"
+          },
+          {
+            "index": 2032,
+            "start": 6552.75,
+            "end": 6553.833,
+            "text": "Mmm..."
+          },
+          {
+            "index": 2033,
+            "start": 6559.125,
+            "end": 6561.167,
+            "text": "I don't want him\nto go, Rafiki."
+          },
+          {
+            "index": 2034,
+            "start": 6561.25,
+            "end": 6562.708,
+            "text": "I don't want it to end."
+          },
+          {
+            "index": 2035,
+            "start": 6563.292,
+            "end": 6565.208,
+            "text": "Don't you see, Kiara?"
+          },
+          {
+            "index": 2036,
+            "start": 6565.583,
+            "end": 6568.292,
+            "text": "Mufasa lives in you."
+          },
+          {
+            "index": 2037,
+            "start": 6569.167,
+            "end": 6571.542,
+            "text": "He lives in you."
+          },
+          {
+            "index": 2038,
+            "start": 6573.792,
+            "end": 6575.708,
+            "text": "[gasps] Dad!"
+          },
+          {
+            "index": 2039,
+            "start": 6577.083,
+            "end": 6579.292,
+            "text": "-Rafiki.\n-It was unbelievable."
+          },
+          {
+            "index": 2040,
+            "start": 6579.458,
+            "end": 6581.333,
+            "text": "-It was perfect.\n-You could not improve on it."
+          },
+          {
+            "index": 2041,
+            "start": 6581.5,
+            "end": 6583.042,
+            "text": "That said, I do have notes."
+          },
+          {
+            "index": 2042,
+            "start": 6583.208,
+            "end": 6585.667,
+            "text": "Some suggestions. Take 'em\nor leave 'em. But take 'em."
+          },
+          {
+            "index": 2043,
+            "start": 6587.208,
+            "end": 6588.917,
+            "text": "-[Kiara] Dad!\n-[Simba] Kiara!"
+          },
+          {
+            "index": 2044,
+            "start": 6589,
+            "end": 6590.042,
+            "text": "[panting]"
+          },
+          {
+            "index": 2045,
+            "start": 6591.083,
+            "end": 6593.208,
+            "text": "-[coos]\n-Kiara."
+          },
+          {
+            "index": 2046,
+            "start": 6593.375,
+            "end": 6594.375,
+            "text": "Dad."
+          },
+          {
+            "index": 2047,
+            "start": 6594.792,
+            "end": 6596.208,
+            "text": "Where's Mom?"
+          },
+          {
+            "index": 2048,
+            "start": 6596.375,
+            "end": 6599,
+            "text": "[chuckles] Well, love, there's\nsomething you need to know."
+          },
+          {
+            "index": 2049,
+            "start": 6599.167,
+            "end": 6601.375,
+            "text": "What? Did something\nhappen to Mom?"
+          },
+          {
+            "index": 2050,
+            "start": 6601.542,
+            "end": 6603.833,
+            "text": "Baby, I'm right here,\nand I'm fine."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 6582.164427978516,
+        "topCueIndex": -1,
+        "bottomCueIndex": 2040
+      }
     }
   ]
 }
