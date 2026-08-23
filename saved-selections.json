@@ -81535,6 +81535,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1526
       }
+    },
+    {
+      "id": "6a03ab74-58e4-4820-8adb-740ba79297fc",
+      "createdAt": "2026-08-23T22:37:28.063Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "sensed",
+      "selection": {
+        "rawText": "sensed",
+        "startOffset": 15,
+        "endOffset": 21,
+        "cueIndex": 1555,
+        "cueStart": 4607.708,
+        "cueEnd": 4609.208,
+        "cueText": "[Sarabi] Ah, I sensed it\nfrom the beginning."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1545,
+            "start": 4589.125,
+            "end": 4590.125,
+            "text": "It was a lucky guess."
+          },
+          {
+            "index": 1546,
+            "start": 4590.292,
+            "end": 4592.5,
+            "text": "You can smell the exact flower\nfrom my valley."
+          },
+          {
+            "index": 1547,
+            "start": 4592.667,
+            "end": 4594.542,
+            "text": "[chuckling] No,\nthat's not possible."
+          },
+          {
+            "index": 1548,
+            "start": 4594.708,
+            "end": 4596.083,
+            "text": "[Sarabi] You saved me."
+          },
+          {
+            "index": 1549,
+            "start": 4596.25,
+            "end": 4598.708,
+            "text": "Held me, covered me in the\nstampede, comforted me."
+          },
+          {
+            "index": 1550,
+            "start": 4598.875,
+            "end": 4599.875,
+            "text": "No, it was Taka."
+          },
+          {
+            "index": 1551,
+            "start": 4600.042,
+            "end": 4602,
+            "text": "\"I got you.\nI got you, Sarabi.\""
+          },
+          {
+            "index": 1552,
+            "start": 4602.167,
+            "end": 4604.292,
+            "text": "-I'm here to protect him.\n-That was you."
+          },
+          {
+            "index": 1553,
+            "start": 4604.458,
+            "end": 4606.458,
+            "text": "I was lost in the water,\nand he found me."
+          },
+          {
+            "index": 1554,
+            "start": 4606.542,
+            "end": 4607.542,
+            "text": "My brother saved me."
+          },
+          {
+            "index": 1555,
+            "start": 4607.708,
+            "end": 4609.208,
+            "text": "[Sarabi] Ah, I sensed it\nfrom the beginning."
+          },
+          {
+            "index": 1556,
+            "start": 4609.375,
+            "end": 4611.333,
+            "text": "His blood is the blood\nof the king."
+          },
+          {
+            "index": 1557,
+            "start": 4611.417,
+            "end": 4612.417,
+            "text": "Mufasa."
+          },
+          {
+            "index": 1558,
+            "start": 4612.5,
+            "end": 4614.333,
+            "text": "-That is his destiny.\n-No!"
+          },
+          {
+            "index": 1559,
+            "start": 4614.667,
+            "end": 4616.708,
+            "text": "His destiny was to save you."
+          },
+          {
+            "index": 1560,
+            "start": 4616.833,
+            "end": 4618.083,
+            "text": "[grunts]"
+          },
+          {
+            "index": 1561,
+            "start": 4620.375,
+            "end": 4622.25,
+            "text": "Now tell me it's you."
+          },
+          {
+            "index": 1562,
+            "start": 4622.333,
+            "end": 4624.5,
+            "text": "[♪ emotional music playing]"
+          },
+          {
+            "index": 1563,
+            "start": 4635.375,
+            "end": 4637.167,
+            "text": "♪ Ever since you appeared ♪"
+          },
+          {
+            "index": 1564,
+            "start": 4638.625,
+            "end": 4641.792,
+            "text": "♪ I've been running from\nsomething deep inside ♪"
+          },
+          {
+            "index": 1565,
+            "start": 4641.958,
+            "end": 4643.625,
+            "text": "♪ And it's worse\nthan I feared ♪"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 4611.651291992188,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1555
+      }
     }
   ]
 }
