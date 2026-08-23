@@ -78169,6 +78169,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1176
       }
+    },
+    {
+      "id": "5d7100bb-f1ca-4073-b096-da780824a7ed",
+      "createdAt": "2026-08-23T22:02:00.214Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "see me through",
+      "selection": {
+        "rawText": "see me through",
+        "startOffset": 22,
+        "endOffset": 36,
+        "cueIndex": 1200,
+        "cueStart": 3629.292,
+        "cueEnd": 3632.667,
+        "cueText": "♪ And I've got you\nto see me through ♪"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1190,
+            "start": 3606.958,
+            "end": 3608.042,
+            "text": "♪ There's the road ♪"
+          },
+          {
+            "index": 1191,
+            "start": 3608.708,
+            "end": 3610.083,
+            "text": "♪ Off you go ♪"
+          },
+          {
+            "index": 1192,
+            "start": 3610.292,
+            "end": 3613.458,
+            "text": "♪ But if you wanna go far ♪"
+          },
+          {
+            "index": 1193,
+            "start": 3613.625,
+            "end": 3615.333,
+            "text": "♪ We go together ♪"
+          },
+          {
+            "index": 1194,
+            "start": 3615.5,
+            "end": 3617.292,
+            "text": "♪ So good, so far ♪"
+          },
+          {
+            "index": 1195,
+            "start": 3617.458,
+            "end": 3619.125,
+            "text": "♪ We go together ♪"
+          },
+          {
+            "index": 1196,
+            "start": 3619.292,
+            "end": 3621.75,
+            "text": "♪ Your father left you\nin my care ♪"
+          },
+          {
+            "index": 1197,
+            "start": 3621.833,
+            "end": 3623.083,
+            "text": "[chorus vocalizing]"
+          },
+          {
+            "index": 1198,
+            "start": 3623.167,
+            "end": 3625.667,
+            "text": "♪ And now we're running\nwho knows where ♪"
+          },
+          {
+            "index": 1199,
+            "start": 3626.917,
+            "end": 3629.125,
+            "text": "♪ Sometimes you need\na bird's-eye view ♪"
+          },
+          {
+            "index": 1200,
+            "start": 3629.292,
+            "end": 3632.667,
+            "text": "♪ And I've got you\nto see me through ♪"
+          },
+          {
+            "index": 1201,
+            "start": 3632.833,
+            "end": 3634.333,
+            "text": "♪ By land, by air ♪"
+          },
+          {
+            "index": 1202,
+            "start": 3634.5,
+            "end": 3636.417,
+            "text": "♪ If you wanna go fast,\ngo alone ♪"
+          },
+          {
+            "index": 1203,
+            "start": 3636.583,
+            "end": 3637.583,
+            "text": "♪ Day and night ♪"
+          },
+          {
+            "index": 1204,
+            "start": 3637.667,
+            "end": 3639.292,
+            "text": "-♪ There's the road ♪\n-♪ I just might ♪"
+          },
+          {
+            "index": 1205,
+            "start": 3639.458,
+            "end": 3641.458,
+            "text": "-♪ Off you go ♪\n-♪ Yeah, right ♪"
+          },
+          {
+            "index": 1206,
+            "start": 3641.917,
+            "end": 3644.125,
+            "text": "[Rafiki and Sarabi]\n♪ If you wanna go far ♪"
+          },
+          {
+            "index": 1207,
+            "start": 3644.292,
+            "end": 3646.042,
+            "text": "[Rafiki, Sarabi and Zazu]\n♪ We go together ♪"
+          },
+          {
+            "index": 1208,
+            "start": 3646.208,
+            "end": 3648,
+            "text": "♪ So good, so far ♪"
+          },
+          {
+            "index": 1209,
+            "start": 3648.167,
+            "end": 3650,
+            "text": "♪ We go together ♪"
+          },
+          {
+            "index": 1210,
+            "start": 3650.667,
+            "end": 3653.958,
+            "text": "♪ I will find\nmy family again ♪"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 3632.7556579589846,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1200
+      }
     }
   ]
 }
