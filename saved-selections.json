@@ -72355,6 +72355,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 890
       }
+    },
+    {
+      "id": "d8e5b0af-7eb0-41a6-b083-0c61bd571d6c",
+      "createdAt": "2026-08-23T21:28:12.725Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "Not that I'm",
+      "selection": {
+        "rawText": "Not that I'm",
+        "startOffset": 0,
+        "endOffset": 12,
+        "cueIndex": 900,
+        "cueStart": 2841.25,
+        "cueEnd": 2844.917,
+        "cueText": "Not that I'm counting,\nbut I saved your hide. Again!"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 890,
+            "start": 2817.792,
+            "end": 2820.375,
+            "text": "Less childhood trauma,\nmore meerkat."
+          },
+          {
+            "index": 891,
+            "start": 2820.542,
+            "end": 2823.25,
+            "text": "Rafiki, I know\nwho Taka's gonna be."
+          },
+          {
+            "index": 892,
+            "start": 2823.417,
+            "end": 2826,
+            "text": "Oh. Me too. It's so obvious."
+          },
+          {
+            "index": 893,
+            "start": 2826.167,
+            "end": 2827.833,
+            "text": "But maybe, just so we're on\nthe same page, tell me?"
+          },
+          {
+            "index": 894,
+            "start": 2828,
+            "end": 2829.708,
+            "text": "-Is it Simba? Is it me?\n-Pumbaa."
+          },
+          {
+            "index": 895,
+            "start": 2829.875,
+            "end": 2831.667,
+            "text": "-Oh, wait. Am I Obasi?\n-[sighs]"
+          },
+          {
+            "index": 896,
+            "start": 2831.833,
+            "end": 2832.833,
+            "text": "That makes no sense."
+          },
+          {
+            "index": 897,
+            "start": 2832.917,
+            "end": 2834.042,
+            "text": "But seriously,\nI have one question."
+          },
+          {
+            "index": 898,
+            "start": 2835.708,
+            "end": 2837.125,
+            "text": "Am I Taka?"
+          },
+          {
+            "index": 899,
+            "start": 2837.542,
+            "end": 2840.875,
+            "text": "[in sing-song voice] ♪ I did\nit again, I did it again ♪"
+          },
+          {
+            "index": 900,
+            "start": 2841.25,
+            "end": 2844.917,
+            "text": "Not that I'm counting,\nbut I saved your hide. Again!"
+          },
+          {
+            "index": 901,
+            "start": 2845,
+            "end": 2847.5,
+            "text": "[chuckles] As much as\nit kills you to say it,"
+          },
+          {
+            "index": 902,
+            "start": 2847.583,
+            "end": 2849.125,
+            "text": "let's hear a little,\n\"Thank you, Taka.\""
+          },
+          {
+            "index": 903,
+            "start": 2849.292,
+            "end": 2851.417,
+            "text": "[chuckles] You want me\nto thank you"
+          },
+          {
+            "index": 904,
+            "start": 2851.5,
+            "end": 2853.083,
+            "text": "for pushing me\noff a waterfall?"
+          },
+          {
+            "index": 905,
+            "start": 2853.25,
+            "end": 2855.583,
+            "text": "Yes, and you're welcome.\n[scoffs]"
+          },
+          {
+            "index": 906,
+            "start": 2855.667,
+            "end": 2856.833,
+            "text": "Look, it's not my fault"
+          },
+          {
+            "index": 907,
+            "start": 2856.917,
+            "end": 2858.25,
+            "text": "crocodiles are simply\nattracted to you."
+          },
+          {
+            "index": 908,
+            "start": 2858.333,
+            "end": 2860.5,
+            "text": "[laughing] Don't...\nDon't say that."
+          },
+          {
+            "index": 909,
+            "start": 2860.583,
+            "end": 2861.708,
+            "text": "[Taka laughs]"
+          },
+          {
+            "index": 910,
+            "start": 2863.708,
+            "end": 2866.708,
+            "text": "[in sing-song voice] ♪ I did\nit again, I did it..."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 2850.5584438476562,
+        "topCueIndex": -1,
+        "bottomCueIndex": 900
+      }
     }
   ]
 }
