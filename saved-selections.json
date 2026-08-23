@@ -81841,6 +81841,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1584
       }
+    },
+    {
+      "id": "53c9ff31-a38d-4013-8d25-a01fbdcf7396",
+      "createdAt": "2026-08-23T22:43:51.754Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "overstay",
+      "selection": {
+        "rawText": "overstay",
+        "startOffset": 32,
+        "endOffset": 40,
+        "cueIndex": 1585,
+        "cueStart": 4689.792,
+        "cueEnd": 4692.875,
+        "cueText": "[both] ♪ I remind myself\nnot to overstay ♪"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1575,
+            "start": 4667.333,
+            "end": 4669.5,
+            "text": "♪ The way you feel\nwhen you're with me ♪"
+          },
+          {
+            "index": 1576,
+            "start": 4669.833,
+            "end": 4671.125,
+            "text": "♪ Beside me ♪"
+          },
+          {
+            "index": 1577,
+            "start": 4671.208,
+            "end": 4673.917,
+            "text": "♪ Don't hide from me anymore ♪"
+          },
+          {
+            "index": 1578,
+            "start": 4674.083,
+            "end": 4676.875,
+            "text": "♪ Tell me it's you,\nI know it's you ♪"
+          },
+          {
+            "index": 1579,
+            "start": 4677.042,
+            "end": 4678.542,
+            "text": "♪ What do I say?\nWhere do I go? ♪"
+          },
+          {
+            "index": 1580,
+            "start": 4678.708,
+            "end": 4680,
+            "text": "♪ How do I know\nyou feel the same? ♪"
+          },
+          {
+            "index": 1581,
+            "start": 4680.542,
+            "end": 4683.167,
+            "text": "♪ Tell me it's you,\nI know it's you ♪"
+          },
+          {
+            "index": 1582,
+            "start": 4683.333,
+            "end": 4684.958,
+            "text": "♪ Quiet and low,\nletting it go ♪"
+          },
+          {
+            "index": 1583,
+            "start": 4685.042,
+            "end": 4686.125,
+            "text": "♪ Letting you know\nit's in me ♪"
+          },
+          {
+            "index": 1584,
+            "start": 4686.542,
+            "end": 4688.667,
+            "text": "♪ Ev'rywhere that I roam ♪"
+          },
+          {
+            "index": 1585,
+            "start": 4689.792,
+            "end": 4692.875,
+            "text": "[both] ♪ I remind myself\nnot to overstay ♪"
+          },
+          {
+            "index": 1586,
+            "start": 4693.042,
+            "end": 4694.875,
+            "text": "♪ Ev'ry time I find home ♪"
+          },
+          {
+            "index": 1587,
+            "start": 4696.125,
+            "end": 4699.292,
+            "text": "[both] ♪ Something happens\nto take that home away ♪"
+          },
+          {
+            "index": 1588,
+            "start": 4699.458,
+            "end": 4701,
+            "text": "♪ But you've seen\nwhat I've seen ♪"
+          },
+          {
+            "index": 1589,
+            "start": 4701.167,
+            "end": 4703.333,
+            "text": "-[Sarabi] ♪ I see you ♪\n-♪ As you lead with ♪"
+          },
+          {
+            "index": 1590,
+            "start": 4703.5,
+            "end": 4705.75,
+            "text": "♪ A strength that shines\nright through ♪"
+          },
+          {
+            "index": 1591,
+            "start": 4706.042,
+            "end": 4708.625,
+            "text": "♪ You move like a queen,\na true queen ♪"
+          },
+          {
+            "index": 1592,
+            "start": 4709.042,
+            "end": 4712.417,
+            "text": "♪ Don't let anything take me\naway from you ♪"
+          },
+          {
+            "index": 1593,
+            "start": 4712.583,
+            "end": 4715.042,
+            "text": "♪ Tell me it's you,\nI know it's you ♪"
+          },
+          {
+            "index": 1594,
+            "start": 4715.208,
+            "end": 4716.917,
+            "text": "[Mufasa] ♪ Say it again,\nsay it again ♪"
+          },
+          {
+            "index": 1595,
+            "start": 4717.083,
+            "end": 4718.708,
+            "text": "♪ Tell me I'll always\nbe with you ♪"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 4693.379833984375,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1585
+      }
     }
   ]
 }
