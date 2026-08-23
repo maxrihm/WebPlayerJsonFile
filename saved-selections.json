@@ -78016,6 +78016,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1176
       }
+    },
+    {
+      "id": "1114f5c9-5c2d-41f3-b90c-f46766627ce6",
+      "createdAt": "2026-08-23T21:59:20.648Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "bush",
+      "selection": {
+        "rawText": "bush",
+        "startOffset": 13,
+        "endOffset": 17,
+        "cueIndex": 1176,
+        "cueStart": 3560.625,
+        "cueEnd": 3561.875,
+        "cueText": "-through the bush willow.\n-They, who?"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1166,
+            "start": 3543.208,
+            "end": 3544.667,
+            "text": "It's safer to go around."
+          },
+          {
+            "index": 1167,
+            "start": 3544.833,
+            "end": 3546.25,
+            "text": "I picked up their scents."
+          },
+          {
+            "index": 1168,
+            "start": 3546.417,
+            "end": 3548.917,
+            "text": "The only thing you picked up\nis a hallucinating baboon."
+          },
+          {
+            "index": 1169,
+            "start": 3549.083,
+            "end": 3550.167,
+            "text": "I am a mandrill."
+          },
+          {
+            "index": 1170,
+            "start": 3550.333,
+            "end": 3551.708,
+            "text": "This is a waste of time."
+          },
+          {
+            "index": 1171,
+            "start": 3551.875,
+            "end": 3553.292,
+            "text": "Close your eyes."
+          },
+          {
+            "index": 1172,
+            "start": 3553.833,
+            "end": 3554.833,
+            "text": "What?"
+          },
+          {
+            "index": 1173,
+            "start": 3555,
+            "end": 3557.708,
+            "text": "Tell me what you see.\nWhat you feel."
+          },
+          {
+            "index": 1174,
+            "start": 3557.875,
+            "end": 3559.25,
+            "text": "There's nothing on the wind."
+          },
+          {
+            "index": 1175,
+            "start": 3559.417,
+            "end": 3560.542,
+            "text": "[Mufasa] No, they're moving"
+          },
+          {
+            "index": 1176,
+            "start": 3560.625,
+            "end": 3561.875,
+            "text": "-through the bush willow.\n-They, who?"
+          },
+          {
+            "index": 1177,
+            "start": 3562.042,
+            "end": 3564.875,
+            "text": "The females, out front.\nCome on."
+          },
+          {
+            "index": 1178,
+            "start": 3565.083,
+            "end": 3567.125,
+            "text": "Clear your thoughts.\nConcentrate."
+          },
+          {
+            "index": 1179,
+            "start": 3567.292,
+            "end": 3569.333,
+            "text": "I am concentrating."
+          },
+          {
+            "index": 1180,
+            "start": 3581.083,
+            "end": 3582.25,
+            "text": "He's right."
+          },
+          {
+            "index": 1181,
+            "start": 3583.958,
+            "end": 3585.292,
+            "text": "We have to go down."
+          },
+          {
+            "index": 1182,
+            "start": 3585.583,
+            "end": 3587.292,
+            "text": "Wow. Wow, wow, wow."
+          },
+          {
+            "index": 1183,
+            "start": 3587.458,
+            "end": 3589.417,
+            "text": "Ah! Uyabona mfana."
+          },
+          {
+            "index": 1184,
+            "start": 3589.625,
+            "end": 3592.708,
+            "text": "Now the many sticks\nwill make fire as one."
+          },
+          {
+            "index": 1185,
+            "start": 3593.125,
+            "end": 3595.792,
+            "text": "Come on. We have places to go."
+          },
+          {
+            "index": 1186,
+            "start": 3595.958,
+            "end": 3598.208,
+            "text": "[Zazu] And kingdoms to see."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 3563.164348876953,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1176
+      }
     }
   ]
 }
