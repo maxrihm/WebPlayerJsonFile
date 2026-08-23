@@ -84442,6 +84442,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1840
       }
+    },
+    {
+      "id": "3815c9bf-102c-4d9e-9318-35d480fa615e",
+      "createdAt": "2026-08-23T23:10:56.561Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "concern",
+      "selection": {
+        "rawText": "concern",
+        "startOffset": 8,
+        "endOffset": 15,
+        "cueIndex": 1841,
+        "cueStart": 5602.042,
+        "cueEnd": 5604.667,
+        "cueText": "without concern\nfor the fate of others."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1831,
+            "start": 5562.333,
+            "end": 5564.375,
+            "text": "And they will always\ntake more."
+          },
+          {
+            "index": 1832,
+            "start": 5564.5,
+            "end": 5565.667,
+            "text": "[lions growling]"
+          },
+          {
+            "index": 1833,
+            "start": 5571.75,
+            "end": 5572.792,
+            "text": "[roars]"
+          },
+          {
+            "index": 1834,
+            "start": 5574.542,
+            "end": 5576.542,
+            "text": "[♪ dramatic music continues]"
+          },
+          {
+            "index": 1835,
+            "start": 5589.333,
+            "end": 5592.125,
+            "text": "I am Mufasa,\na stray with no pride,"
+          },
+          {
+            "index": 1836,
+            "start": 5592.292,
+            "end": 5594.125,
+            "text": "and yet I stand before you."
+          },
+          {
+            "index": 1837,
+            "start": 5594.292,
+            "end": 5595.333,
+            "text": "Head unbowed."
+          },
+          {
+            "index": 1838,
+            "start": 5595.5,
+            "end": 5597.708,
+            "text": "I know you're afraid,\nbut trust me."
+          },
+          {
+            "index": 1839,
+            "start": 5597.875,
+            "end": 5600.333,
+            "text": "Nothing will change\nif we remain isolated"
+          },
+          {
+            "index": 1840,
+            "start": 5600.417,
+            "end": 5601.875,
+            "text": "to our own tribes"
+          },
+          {
+            "index": 1841,
+            "start": 5602.042,
+            "end": 5604.667,
+            "text": "without concern\nfor the fate of others."
+          },
+          {
+            "index": 1842,
+            "start": 5604.833,
+            "end": 5606.625,
+            "text": "But why should\nwe stand with you?"
+          },
+          {
+            "index": 1843,
+            "start": 5606.792,
+            "end": 5608.542,
+            "text": "This is your fight."
+          },
+          {
+            "index": 1844,
+            "start": 5608.833,
+            "end": 5611.625,
+            "text": "Today, they are here for us\nlions, but I assure you,"
+          },
+          {
+            "index": 1845,
+            "start": 5611.792,
+            "end": 5614.708,
+            "text": "as you let them walk among you\nin search of us now,"
+          },
+          {
+            "index": 1846,
+            "start": 5614.875,
+            "end": 5617.583,
+            "text": "they are plotting to come\nfor you tomorrow."
+          },
+          {
+            "index": 1847,
+            "start": 5617.75,
+            "end": 5620.792,
+            "text": "One lion's hope cannot change\nthe fate of Milele."
+          },
+          {
+            "index": 1848,
+            "start": 5620.958,
+            "end": 5623.458,
+            "text": "There is no lion as large\nas an elephant,"
+          },
+          {
+            "index": 1849,
+            "start": 5623.542,
+            "end": 5624.917,
+            "text": "as strong as an oxen,"
+          },
+          {
+            "index": 1850,
+            "start": 5625.083,
+            "end": 5627.542,
+            "text": "fast as a cheetah\nor tall as a giraffe,"
+          },
+          {
+            "index": 1851,
+            "start": 5627.708,
+            "end": 5630.125,
+            "text": "who can soar and scout\nas wide and far"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 5604.696107910157,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1841
+      }
     }
   ]
 }
