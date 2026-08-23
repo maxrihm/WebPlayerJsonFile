@@ -73885,6 +73885,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 958
       }
+    },
+    {
+      "id": "272174c9-d7b2-42ba-984b-48f2e13a6cd8",
+      "createdAt": "2026-08-23T21:35:59.014Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "stumbling",
+      "selection": {
+        "rawText": "stumbling",
+        "startOffset": 0,
+        "endOffset": 9,
+        "cueIndex": 962,
+        "cueStart": 2989.167,
+        "cueEnd": 2991,
+        "cueText": "stumbling around,\nrunning into each other?"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 952,
+            "start": 2968.792,
+            "end": 2970.375,
+            "text": "Zazu was the last option."
+          },
+          {
+            "index": 953,
+            "start": 2970.542,
+            "end": 2972.083,
+            "text": "Well, next to last. [chuckles]"
+          },
+          {
+            "index": 954,
+            "start": 2972.25,
+            "end": 2974.083,
+            "text": "Between Albert the Iguana\nand I,"
+          },
+          {
+            "index": 955,
+            "start": 2974.25,
+            "end": 2977.833,
+            "text": "His Majesty decided\non the underling with wings."
+          },
+          {
+            "index": 956,
+            "start": 2978,
+            "end": 2980.792,
+            "text": "And thus, I became the\nlead scout for the princess."
+          },
+          {
+            "index": 957,
+            "start": 2980.958,
+            "end": 2982.5,
+            "text": "It's my third day,\ngoing swimmingly,"
+          },
+          {
+            "index": 958,
+            "start": 2982.583,
+            "end": 2983.75,
+            "text": "if I may say so myself."
+          },
+          {
+            "index": 959,
+            "start": 2983.917,
+            "end": 2985.208,
+            "text": "Sarabi, you can\nsay so as well."
+          },
+          {
+            "index": 960,
+            "start": 2985.375,
+            "end": 2986.958,
+            "text": "[Mufasa] How far do you think\nyou'll get with a bird?"
+          },
+          {
+            "index": 961,
+            "start": 2987.125,
+            "end": 2989.083,
+            "text": "How far do you two geniuses\nthink you'll get"
+          },
+          {
+            "index": 962,
+            "start": 2989.167,
+            "end": 2991,
+            "text": "stumbling around,\nrunning into each other?"
+          },
+          {
+            "index": 963,
+            "start": 2991.167,
+            "end": 2993.083,
+            "text": "All the way to Milele."
+          },
+          {
+            "index": 964,
+            "start": 2993.25,
+            "end": 2995.042,
+            "text": "-Milele is nothing but a myth.\n-It's not a myth."
+          },
+          {
+            "index": 965,
+            "start": 2995.208,
+            "end": 2997.292,
+            "text": "Circle of Life\nand fairy tale herds."
+          },
+          {
+            "index": 966,
+            "start": 2997.375,
+            "end": 2998.375,
+            "text": "-You're chasing something...\n-Honestly."
+          },
+          {
+            "index": 967,
+            "start": 2998.458,
+            "end": 2999.458,
+            "text": "-...that doesn't exist.\n-As If."
+          },
+          {
+            "index": 968,
+            "start": 2999.542,
+            "end": 3002,
+            "text": "I don't know that Milele\nexists, but right now,"
+          },
+          {
+            "index": 969,
+            "start": 3002.167,
+            "end": 3003.333,
+            "text": "it's the only hope we have."
+          },
+          {
+            "index": 970,
+            "start": 3003.5,
+            "end": 3006.333,
+            "text": "We don't need hope.\nWe need food."
+          },
+          {
+            "index": 971,
+            "start": 3007.708,
+            "end": 3009.958,
+            "text": "[softly] Um...\nGood job, brother."
+          },
+          {
+            "index": 972,
+            "start": 3010.042,
+            "end": 3011.917,
+            "text": "-Oh, real nice.\n-[animal screeches]"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 2991.3611948242187,
+        "topCueIndex": -1,
+        "bottomCueIndex": 962
+      }
     }
   ]
 }
