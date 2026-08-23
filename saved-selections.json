@@ -78475,6 +78475,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1221
       }
+    },
+    {
+      "id": "4396c944-f971-4207-8a1d-5e8c3dfacedf",
+      "createdAt": "2026-08-23T22:04:06.764Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "flecks",
+      "selection": {
+        "rawText": "flecks",
+        "startOffset": 11,
+        "endOffset": 17,
+        "cueIndex": 1222,
+        "cueStart": 3688.458,
+        "cueEnd": 3691.333,
+        "cueText": "♪ Like the flecks of gold\nin your mane ♪"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1212,
+            "start": 3658.208,
+            "end": 3661.667,
+            "text": "♪ I will walk with you\ntill the end ♪"
+          },
+          {
+            "index": 1213,
+            "start": 3662.042,
+            "end": 3665.083,
+            "text": "♪ It's much easier\nwith a friend ♪"
+          },
+          {
+            "index": 1214,
+            "start": 3665.917,
+            "end": 3669.542,
+            "text": "♪ I will find\nmy family again ♪"
+          },
+          {
+            "index": 1215,
+            "start": 3669.708,
+            "end": 3673.333,
+            "text": "♪ I will walk with you\nuntil then ♪"
+          },
+          {
+            "index": 1216,
+            "start": 3673.5,
+            "end": 3675.708,
+            "text": "♪ I will walk with you\ntill the end ♪"
+          },
+          {
+            "index": 1217,
+            "start": 3675.792,
+            "end": 3676.792,
+            "text": "[Zazu] ♪ Flying through ♪"
+          },
+          {
+            "index": 1218,
+            "start": 3677.458,
+            "end": 3680.667,
+            "text": "[Mufasa and Sarabi] ♪ It's\nmuch easier with a friend ♪"
+          },
+          {
+            "index": 1219,
+            "start": 3680.833,
+            "end": 3682.917,
+            "text": "♪ Like the clouds and rain ♪"
+          },
+          {
+            "index": 1220,
+            "start": 3683,
+            "end": 3684.5,
+            "text": "[chorus vocalizing]"
+          },
+          {
+            "index": 1221,
+            "start": 3684.583,
+            "end": 3687.583,
+            "text": "♪ Like a meal\nin a field of grain ♪"
+          },
+          {
+            "index": 1222,
+            "start": 3688.458,
+            "end": 3691.333,
+            "text": "♪ Like the flecks of gold\nin your mane ♪"
+          },
+          {
+            "index": 1223,
+            "start": 3691.5,
+            "end": 3695.792,
+            "text": "♪ Sarabi, you and me,\nwe go together ♪"
+          },
+          {
+            "index": 1224,
+            "start": 3695.958,
+            "end": 3697.333,
+            "text": "♪ Like clouds and rain ♪"
+          },
+          {
+            "index": 1225,
+            "start": 3697.417,
+            "end": 3699.708,
+            "text": "[Mufasa and Sarabi] ♪ We will\nfind our family again ♪"
+          },
+          {
+            "index": 1226,
+            "start": 3699.875,
+            "end": 3701.542,
+            "text": "♪ Like a meal\nin a field of grain ♪"
+          },
+          {
+            "index": 1227,
+            "start": 3701.625,
+            "end": 3703.708,
+            "text": "[Mufasa and Sarabi] ♪ We will\nwalk together till then ♪"
+          },
+          {
+            "index": 1228,
+            "start": 3703.917,
+            "end": 3706.375,
+            "text": "♪ Like the flecks of gold\nin your mane, Sarabi ♪"
+          },
+          {
+            "index": 1229,
+            "start": 3706.458,
+            "end": 3708.083,
+            "text": "[Mufasa and Sarabi] ♪ We will\nfind our way to the end ♪"
+          },
+          {
+            "index": 1230,
+            "start": 3708.25,
+            "end": 3709.75,
+            "text": "♪ You and me, we go together ♪"
+          },
+          {
+            "index": 1231,
+            "start": 3709.833,
+            "end": 3711.208,
+            "text": "[Mufasa and Sarabi] ♪ It's\nmuch easier with a friend ♪"
+          },
+          {
+            "index": 1232,
+            "start": 3711.375,
+            "end": 3713.5,
+            "text": "[Rafiki] ♪ My brother waits\nfor me to find him ♪"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 3696.4814008789062,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1222
+      }
     }
   ]
 }
