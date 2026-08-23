@@ -85054,6 +85054,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1846
       }
+    },
+    {
+      "id": "82c6b809-c0b6-4041-be77-630aa7b3a479",
+      "createdAt": "2026-08-23T23:11:53.339Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "oxen,",
+      "selection": {
+        "rawText": "oxen,",
+        "startOffset": 16,
+        "endOffset": 21,
+        "cueIndex": 1849,
+        "cueStart": 5623.542,
+        "cueEnd": 5624.917,
+        "cueText": "as strong as an oxen,"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1839,
+            "start": 5597.875,
+            "end": 5600.333,
+            "text": "Nothing will change\nif we remain isolated"
+          },
+          {
+            "index": 1840,
+            "start": 5600.417,
+            "end": 5601.875,
+            "text": "to our own tribes"
+          },
+          {
+            "index": 1841,
+            "start": 5602.042,
+            "end": 5604.667,
+            "text": "without concern\nfor the fate of others."
+          },
+          {
+            "index": 1842,
+            "start": 5604.833,
+            "end": 5606.625,
+            "text": "But why should\nwe stand with you?"
+          },
+          {
+            "index": 1843,
+            "start": 5606.792,
+            "end": 5608.542,
+            "text": "This is your fight."
+          },
+          {
+            "index": 1844,
+            "start": 5608.833,
+            "end": 5611.625,
+            "text": "Today, they are here for us\nlions, but I assure you,"
+          },
+          {
+            "index": 1845,
+            "start": 5611.792,
+            "end": 5614.708,
+            "text": "as you let them walk among you\nin search of us now,"
+          },
+          {
+            "index": 1846,
+            "start": 5614.875,
+            "end": 5617.583,
+            "text": "they are plotting to come\nfor you tomorrow."
+          },
+          {
+            "index": 1847,
+            "start": 5617.75,
+            "end": 5620.792,
+            "text": "One lion's hope cannot change\nthe fate of Milele."
+          },
+          {
+            "index": 1848,
+            "start": 5620.958,
+            "end": 5623.458,
+            "text": "There is no lion as large\nas an elephant,"
+          },
+          {
+            "index": 1849,
+            "start": 5623.542,
+            "end": 5624.917,
+            "text": "as strong as an oxen,"
+          },
+          {
+            "index": 1850,
+            "start": 5625.083,
+            "end": 5627.542,
+            "text": "fast as a cheetah\nor tall as a giraffe,"
+          },
+          {
+            "index": 1851,
+            "start": 5627.708,
+            "end": 5630.125,
+            "text": "who can soar and scout\nas wide and far"
+          },
+          {
+            "index": 1852,
+            "start": 5630.292,
+            "end": 5632.208,
+            "text": "as the cranes\nand hawks in the sky."
+          },
+          {
+            "index": 1853,
+            "start": 5632.417,
+            "end": 5634.417,
+            "text": "So, can't you see..."
+          },
+          {
+            "index": 1854,
+            "start": 5634.75,
+            "end": 5637.417,
+            "text": "Every being has a place\nin the Circle of Life."
+          },
+          {
+            "index": 1855,
+            "start": 5637.583,
+            "end": 5639.375,
+            "text": "My breath is your breath."
+          },
+          {
+            "index": 1856,
+            "start": 5639.542,
+            "end": 5641.5,
+            "text": "Your fight is my fight."
+          },
+          {
+            "index": 1857,
+            "start": 5641.667,
+            "end": 5645.042,
+            "text": "I will not bend to evil,\nand neither should you."
+          },
+          {
+            "index": 1858,
+            "start": 5645.292,
+            "end": 5647.542,
+            "text": "Nants ingonyama bagithi!"
+          },
+          {
+            "index": 1859,
+            "start": 5648.667,
+            "end": 5651.208,
+            "text": "Nants ingonyama bagithi!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 5626.177552001953,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1849
+      }
     }
   ]
 }
