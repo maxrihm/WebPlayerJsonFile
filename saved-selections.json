@@ -79852,6 +79852,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1424
       }
+    },
+    {
+      "id": "1ac5edda-242e-4378-ab55-1909f9898f2a",
+      "createdAt": "2026-08-23T22:21:54.233Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "hurt",
+      "selection": {
+        "rawText": "hurt",
+        "startOffset": 8,
+        "endOffset": 12,
+        "cueIndex": 1432,
+        "cueStart": 4262.833,
+        "cueEnd": 4266.042,
+        "cueText": "it is a hurt that can cause\nthe greatest pain."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1422,
+            "start": 4237.708,
+            "end": 4239.583,
+            "text": "Rafiki, who..."
+          },
+          {
+            "index": 1423,
+            "start": 4239.667,
+            "end": 4241.875,
+            "text": "Who are the Outsiders?"
+          },
+          {
+            "index": 1424,
+            "start": 4242.042,
+            "end": 4245.167,
+            "text": "Well, the Outsiders come\nfrom many prides."
+          },
+          {
+            "index": 1425,
+            "start": 4245.375,
+            "end": 4247.958,
+            "text": "But, when they are born,\nthey are hated"
+          },
+          {
+            "index": 1426,
+            "start": 4248.042,
+            "end": 4250.833,
+            "text": "because they are different\nfrom their tribe."
+          },
+          {
+            "index": 1427,
+            "start": 4251,
+            "end": 4252.375,
+            "text": "Like you and your tribe?"
+          },
+          {
+            "index": 1428,
+            "start": 4252.542,
+            "end": 4254.125,
+            "text": "Yes, just like me."
+          },
+          {
+            "index": 1429,
+            "start": 4254.292,
+            "end": 4256.458,
+            "text": "-But, Rafiki?\n-Yes?"
+          },
+          {
+            "index": 1430,
+            "start": 4256.625,
+            "end": 4258.542,
+            "text": "Why do they wanna\nhurt everybody?"
+          },
+          {
+            "index": 1431,
+            "start": 4258.875,
+            "end": 4262.667,
+            "text": "Sometimes, when the people\nmost like you don't love you,"
+          },
+          {
+            "index": 1432,
+            "start": 4262.833,
+            "end": 4266.042,
+            "text": "it is a hurt that can cause\nthe greatest pain."
+          },
+          {
+            "index": 1433,
+            "start": 4266.375,
+            "end": 4267.708,
+            "text": "And this pain"
+          },
+          {
+            "index": 1434,
+            "start": 4267.875,
+            "end": 4271.25,
+            "text": "can lead you\nto hate everything."
+          },
+          {
+            "index": 1435,
+            "start": 4271.417,
+            "end": 4274,
+            "text": "I'm glad that didn't happen\nto you, Rafiki."
+          },
+          {
+            "index": 1436,
+            "start": 4274.167,
+            "end": 4276.708,
+            "text": "-Yes, my child. I'm glad too.\n-[chuckles softly]"
+          },
+          {
+            "index": 1437,
+            "start": 4278.208,
+            "end": 4279.333,
+            "text": "Um, hi. We're here, too."
+          },
+          {
+            "index": 1438,
+            "start": 4279.5,
+            "end": 4281.25,
+            "text": "Yeah, why are you leavin' us\noutside this story"
+          },
+          {
+            "index": 1439,
+            "start": 4281.417,
+            "end": 4284.042,
+            "text": "when I'm pretty sure\nwe are the ultimate outsiders."
+          },
+          {
+            "index": 1440,
+            "start": 4284.125,
+            "end": 4285.125,
+            "text": "-Come on!\n-[Timon] Yeah,"
+          },
+          {
+            "index": 1441,
+            "start": 4285.208,
+            "end": 4286.25,
+            "text": "we've always\nbeen misunderstood."
+          },
+          {
+            "index": 1442,
+            "start": 4286.5,
+            "end": 4287.833,
+            "text": "I contain multitudes."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 4262.961861083984,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1432
+      }
     }
   ]
 }
