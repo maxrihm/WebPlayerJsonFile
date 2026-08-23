@@ -79393,6 +79393,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1332
       }
+    },
+    {
+      "id": "35a480e4-1595-41ef-ad31-7425d5d23d83",
+      "createdAt": "2026-08-23T22:14:48.083Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "hive!",
+      "selection": {
+        "rawText": "hive!",
+        "startOffset": 20,
+        "endOffset": 25,
+        "cueIndex": 1354,
+        "cueStart": 3991.292,
+        "cueEnd": 3993.167,
+        "cueText": "She's going for the hive!"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1344,
+            "start": 3970.833,
+            "end": 3971.875,
+            "text": "Get ready to run."
+          },
+          {
+            "index": 1345,
+            "start": 3972.417,
+            "end": 3973.417,
+            "text": "[Mufasa] Uh..."
+          },
+          {
+            "index": 1346,
+            "start": 3973.5,
+            "end": 3974.833,
+            "text": "Where is she going?"
+          },
+          {
+            "index": 1347,
+            "start": 3975,
+            "end": 3977.75,
+            "text": "Hello? Listen to me, please.\nWe need your help."
+          },
+          {
+            "index": 1348,
+            "start": 3978,
+            "end": 3979.292,
+            "text": "Can you talk with me?"
+          },
+          {
+            "index": 1349,
+            "start": 3979.375,
+            "end": 3980.708,
+            "text": "-We need your help. Please.\n-[trumpets]"
+          },
+          {
+            "index": 1350,
+            "start": 3980.792,
+            "end": 3981.833,
+            "text": "[growling]"
+          },
+          {
+            "index": 1351,
+            "start": 3982.25,
+            "end": 3983.583,
+            "text": "[Zazu] They're coming!"
+          },
+          {
+            "index": 1352,
+            "start": 3984.417,
+            "end": 3986.583,
+            "text": "Sarabi! Sarabi, wait!"
+          },
+          {
+            "index": 1353,
+            "start": 3986.75,
+            "end": 3989.25,
+            "text": "Sarabi! Sarabi, wait. Wait!\nWhere is she going?"
+          },
+          {
+            "index": 1354,
+            "start": 3991.292,
+            "end": 3993.167,
+            "text": "She's going for the hive!"
+          },
+          {
+            "index": 1355,
+            "start": 3993.333,
+            "end": 3996.833,
+            "text": "Like I said, get ready to run!"
+          },
+          {
+            "index": 1356,
+            "start": 3998.333,
+            "end": 3999.708,
+            "text": "[grunts]"
+          },
+          {
+            "index": 1357,
+            "start": 4004.333,
+            "end": 4005.833,
+            "text": "[buzzing]"
+          },
+          {
+            "index": 1358,
+            "start": 4005.917,
+            "end": 4007.417,
+            "text": "[elephants trumpet]"
+          },
+          {
+            "index": 1359,
+            "start": 4008.833,
+            "end": 4010.042,
+            "text": "Run!"
+          },
+          {
+            "index": 1360,
+            "start": 4010.208,
+            "end": 4012.125,
+            "text": "Get to the trees!"
+          },
+          {
+            "index": 1361,
+            "start": 4012.292,
+            "end": 4016.083,
+            "text": "Why am I running?"
+          },
+          {
+            "index": 1362,
+            "start": 4017.75,
+            "end": 4019,
+            "text": "[elephant groans]"
+          },
+          {
+            "index": 1363,
+            "start": 4019.083,
+            "end": 4021.458,
+            "text": "[♪ dramatic music playing]"
+          },
+          {
+            "index": 1364,
+            "start": 4026.583,
+            "end": 4027.833,
+            "text": "[pants]"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 3994.0478369140624,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1354
+      }
     }
   ]
 }
