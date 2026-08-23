@@ -74038,6 +74038,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 962
       }
+    },
+    {
+      "id": "9408f348-ba8a-47af-ab57-ba6db348c402",
+      "createdAt": "2026-08-23T21:37:04.699Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "pass.",
+      "selection": {
+        "rawText": "pass.",
+        "startOffset": 18,
+        "endOffset": 23,
+        "cueIndex": 974,
+        "cueStart": 3014.5,
+        "cueEnd": 3016,
+        "cueText": "and I am going to pass.\nNot going."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 964,
+            "start": 2993.25,
+            "end": 2995.042,
+            "text": "-Milele is nothing but a myth.\n-It's not a myth."
+          },
+          {
+            "index": 965,
+            "start": 2995.208,
+            "end": 2997.292,
+            "text": "Circle of Life\nand fairy tale herds."
+          },
+          {
+            "index": 966,
+            "start": 2997.375,
+            "end": 2998.375,
+            "text": "-You're chasing something...\n-Honestly."
+          },
+          {
+            "index": 967,
+            "start": 2998.458,
+            "end": 2999.458,
+            "text": "-...that doesn't exist.\n-As If."
+          },
+          {
+            "index": 968,
+            "start": 2999.542,
+            "end": 3002,
+            "text": "I don't know that Milele\nexists, but right now,"
+          },
+          {
+            "index": 969,
+            "start": 3002.167,
+            "end": 3003.333,
+            "text": "it's the only hope we have."
+          },
+          {
+            "index": 970,
+            "start": 3003.5,
+            "end": 3006.333,
+            "text": "We don't need hope.\nWe need food."
+          },
+          {
+            "index": 971,
+            "start": 3007.708,
+            "end": 3009.958,
+            "text": "[softly] Um...\nGood job, brother."
+          },
+          {
+            "index": 972,
+            "start": 3010.042,
+            "end": 3011.917,
+            "text": "-Oh, real nice.\n-[animal screeches]"
+          },
+          {
+            "index": 973,
+            "start": 3012,
+            "end": 3014.333,
+            "text": "There's trouble in the trees.\nMy first real trouble,"
+          },
+          {
+            "index": 974,
+            "start": 3014.5,
+            "end": 3016,
+            "text": "and I am going to pass.\nNot going."
+          },
+          {
+            "index": 975,
+            "start": 3016.083,
+            "end": 3017.5,
+            "text": "I am staying right here,\nthank you."
+          },
+          {
+            "index": 976,
+            "start": 3017.667,
+            "end": 3020.875,
+            "text": "Come on, Sarabi. Looks like\nthere's dinner headed our way."
+          },
+          {
+            "index": 977,
+            "start": 3021.417,
+            "end": 3023.125,
+            "text": "[stutters] Sarabi, if I may."
+          },
+          {
+            "index": 978,
+            "start": 3023.583,
+            "end": 3026.375,
+            "text": "He makes a valid point,\nYour Highness."
+          },
+          {
+            "index": 979,
+            "start": 3026.667,
+            "end": 3028.5,
+            "text": "But, on the other hand,\nhe's a starving lion,"
+          },
+          {
+            "index": 980,
+            "start": 3028.583,
+            "end": 3030.458,
+            "text": "he wants to eat me,\nso I am slightly torn."
+          },
+          {
+            "index": 981,
+            "start": 3031.167,
+            "end": 3032.458,
+            "text": "[animals screeching]"
+          },
+          {
+            "index": 982,
+            "start": 3033.75,
+            "end": 3035.917,
+            "text": "I think that went quite well,\nall things considered."
+          },
+          {
+            "index": 983,
+            "start": 3036,
+            "end": 3038,
+            "text": "[♪ exhilarating music playing]"
+          },
+          {
+            "index": 984,
+            "start": 3046,
+            "end": 3049.5,
+            "text": "[Rafiki] And now, Kiara,\nthis is where I come in."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 3015.8262939453125,
+        "topCueIndex": -1,
+        "bottomCueIndex": 974
+      }
     }
   ]
 }
