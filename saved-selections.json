@@ -80311,6 +80311,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1442
       }
+    },
+    {
+      "id": "661669aa-91e8-45ad-b06e-240f8a428d6b",
+      "createdAt": "2026-08-23T22:28:16.605Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "quite",
+      "selection": {
+        "rawText": "quite",
+        "startOffset": 12,
+        "endOffset": 17,
+        "cueIndex": 1475,
+        "cueStart": 4406.25,
+        "cueEnd": 4408.125,
+        "cueText": "Oh. Are you quite sure\nabout that?"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1465,
+            "start": 4364.875,
+            "end": 4366.75,
+            "text": "Milele exists."
+          },
+          {
+            "index": 1466,
+            "start": 4367.125,
+            "end": 4369.583,
+            "text": "I feel it in here."
+          },
+          {
+            "index": 1467,
+            "start": 4369.917,
+            "end": 4371.25,
+            "text": "The question is,"
+          },
+          {
+            "index": 1468,
+            "start": 4371.417,
+            "end": 4373.792,
+            "text": "what do you feel, Mufasa,"
+          },
+          {
+            "index": 1469,
+            "start": 4375,
+            "end": 4376.417,
+            "text": "in there?"
+          },
+          {
+            "index": 1470,
+            "start": 4395.958,
+            "end": 4397,
+            "text": "The weather's shifted."
+          },
+          {
+            "index": 1471,
+            "start": 4397.167,
+            "end": 4398.833,
+            "text": "There's not enough fresh snow."
+          },
+          {
+            "index": 1472,
+            "start": 4399.292,
+            "end": 4401.417,
+            "text": "Hey, if the Outsiders\nfind our tracks,"
+          },
+          {
+            "index": 1473,
+            "start": 4401.5,
+            "end": 4403.458,
+            "text": "they'll follow them to Milele."
+          },
+          {
+            "index": 1474,
+            "start": 4403.625,
+            "end": 4406.167,
+            "text": "Zazu, only you can\nhelp us now."
+          },
+          {
+            "index": 1475,
+            "start": 4406.25,
+            "end": 4408.125,
+            "text": "Oh. Are you quite sure\nabout that?"
+          },
+          {
+            "index": 1476,
+            "start": 4408.292,
+            "end": 4409.333,
+            "text": "No, I was actually thinking"
+          },
+          {
+            "index": 1477,
+            "start": 4409.5,
+            "end": 4411.083,
+            "text": "that Rafiki looks pretty\nhandy, and with the stick..."
+          },
+          {
+            "index": 1478,
+            "start": 4411.375,
+            "end": 4412.625,
+            "text": "Zazu, you can use your wings"
+          },
+          {
+            "index": 1479,
+            "start": 4412.792,
+            "end": 4414.458,
+            "text": "to cover our tracks\nas we head up the mountain"
+          },
+          {
+            "index": 1480,
+            "start": 4414.625,
+            "end": 4416,
+            "text": "without leaving a trace."
+          },
+          {
+            "index": 1481,
+            "start": 4416.167,
+            "end": 4418.083,
+            "text": "Hey, you can do this."
+          },
+          {
+            "index": 1482,
+            "start": 4418.167,
+            "end": 4420.083,
+            "text": "Oh, hmm. Yeah."
+          },
+          {
+            "index": 1483,
+            "start": 4420.25,
+            "end": 4422.375,
+            "text": "Yes, sir. You're right.\nI've got this."
+          },
+          {
+            "index": 1484,
+            "start": 4426.083,
+            "end": 4428.458,
+            "text": "Okay. It's just me against\na frozen mountain."
+          },
+          {
+            "index": 1485,
+            "start": 4428.625,
+            "end": 4431.292,
+            "text": "You know, one hornbill charged\nwith saving the future..."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 4411.104999023438,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1475
+      }
     }
   ]
 }
