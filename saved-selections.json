@@ -72202,6 +72202,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 886
       }
+    },
+    {
+      "id": "0217e406-5bd8-4271-a935-0757983182df",
+      "createdAt": "2026-08-23T21:25:48.683Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "meerkat.",
+      "selection": {
+        "rawText": "meerkat.",
+        "startOffset": 28,
+        "endOffset": 36,
+        "cueIndex": 890,
+        "cueStart": 2817.792,
+        "cueEnd": 2820.375,
+        "cueText": "Less childhood trauma,\nmore meerkat."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 880,
+            "start": 2796.375,
+            "end": 2798.417,
+            "text": "Tell me you can track them\ndown river."
+          },
+          {
+            "index": 881,
+            "start": 2798.583,
+            "end": 2800.833,
+            "text": "We can track them anywhere."
+          },
+          {
+            "index": 882,
+            "start": 2801,
+            "end": 2803.583,
+            "text": "They can run,\nbut they can't hide."
+          },
+          {
+            "index": 883,
+            "start": 2804.958,
+            "end": 2807.292,
+            "text": "So just to be clear,\nwe're not in this story?"
+          },
+          {
+            "index": 884,
+            "start": 2807.458,
+            "end": 2808.75,
+            "text": "It feels a little bit like"
+          },
+          {
+            "index": 885,
+            "start": 2808.833,
+            "end": 2810.75,
+            "text": "Kiros is stealing\nmy thunder here."
+          },
+          {
+            "index": 886,
+            "start": 2810.917,
+            "end": 2812.917,
+            "text": "Yeah. You know,\nI don't feel seen."
+          },
+          {
+            "index": 887,
+            "start": 2813.167,
+            "end": 2814.708,
+            "text": "No. There's a lotta stories\nwith all of us."
+          },
+          {
+            "index": 888,
+            "start": 2814.792,
+            "end": 2815.792,
+            "text": "Tell one of those!"
+          },
+          {
+            "index": 889,
+            "start": 2815.875,
+            "end": 2817.625,
+            "text": "Can I make\none small suggestion?"
+          },
+          {
+            "index": 890,
+            "start": 2817.792,
+            "end": 2820.375,
+            "text": "Less childhood trauma,\nmore meerkat."
+          },
+          {
+            "index": 891,
+            "start": 2820.542,
+            "end": 2823.25,
+            "text": "Rafiki, I know\nwho Taka's gonna be."
+          },
+          {
+            "index": 892,
+            "start": 2823.417,
+            "end": 2826,
+            "text": "Oh. Me too. It's so obvious."
+          },
+          {
+            "index": 893,
+            "start": 2826.167,
+            "end": 2827.833,
+            "text": "But maybe, just so we're on\nthe same page, tell me?"
+          },
+          {
+            "index": 894,
+            "start": 2828,
+            "end": 2829.708,
+            "text": "-Is it Simba? Is it me?\n-Pumbaa."
+          },
+          {
+            "index": 895,
+            "start": 2829.875,
+            "end": 2831.667,
+            "text": "-Oh, wait. Am I Obasi?\n-[sighs]"
+          },
+          {
+            "index": 896,
+            "start": 2831.833,
+            "end": 2832.833,
+            "text": "That makes no sense."
+          },
+          {
+            "index": 897,
+            "start": 2832.917,
+            "end": 2834.042,
+            "text": "But seriously,\nI have one question."
+          },
+          {
+            "index": 898,
+            "start": 2835.708,
+            "end": 2837.125,
+            "text": "Am I Taka?"
+          },
+          {
+            "index": 899,
+            "start": 2837.542,
+            "end": 2840.875,
+            "text": "[in sing-song voice] ♪ I did\nit again, I did it again ♪"
+          },
+          {
+            "index": 900,
+            "start": 2841.25,
+            "end": 2844.917,
+            "text": "Not that I'm counting,\nbut I saved your hide. Again!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 2820.707410888672,
+        "topCueIndex": -1,
+        "bottomCueIndex": 890
+      }
     }
   ]
 }
