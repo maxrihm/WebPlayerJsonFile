@@ -85666,6 +85666,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1851
       }
+    },
+    {
+      "id": "91265f7f-29d2-4c0d-83e7-4bf6c820c258",
+      "createdAt": "2026-08-23T23:24:59.546Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "kingly.",
+      "selection": {
+        "rawText": "kingly.",
+        "startOffset": 16,
+        "endOffset": 23,
+        "cueIndex": 1960,
+        "cueStart": 6190.167,
+        "cueEnd": 6192.625,
+        "cueText": "Nothing is more kingly."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1950,
+            "start": 6166.917,
+            "end": 6168.875,
+            "text": "-My king.\n-King?"
+          },
+          {
+            "index": 1951,
+            "start": 6169.042,
+            "end": 6171.75,
+            "text": "No, no, I'm not king."
+          },
+          {
+            "index": 1952,
+            "start": 6171.917,
+            "end": 6173.042,
+            "text": "Raise your heads."
+          },
+          {
+            "index": 1953,
+            "start": 6173.208,
+            "end": 6175.833,
+            "text": "No. I'm just... No, no!\nNo more kings."
+          },
+          {
+            "index": 1954,
+            "start": 6176,
+            "end": 6178.333,
+            "text": "We are all one. Please."
+          },
+          {
+            "index": 1955,
+            "start": 6178.5,
+            "end": 6180.625,
+            "text": "Please. Raise your heads."
+          },
+          {
+            "index": 1956,
+            "start": 6180.875,
+            "end": 6182.833,
+            "text": "But, Mufasa,"
+          },
+          {
+            "index": 1957,
+            "start": 6183,
+            "end": 6184.958,
+            "text": "you have\nbrought them together."
+          },
+          {
+            "index": 1958,
+            "start": 6185.458,
+            "end": 6187.458,
+            "text": "You helped them see\nin themselves"
+          },
+          {
+            "index": 1959,
+            "start": 6187.542,
+            "end": 6189.5,
+            "text": "what they considered\nunseeable."
+          },
+          {
+            "index": 1960,
+            "start": 6190.167,
+            "end": 6192.625,
+            "text": "Nothing is more kingly."
+          },
+          {
+            "index": 1961,
+            "start": 6192.833,
+            "end": 6194.875,
+            "text": "No, Rafiki."
+          },
+          {
+            "index": 1962,
+            "start": 6195.042,
+            "end": 6198.125,
+            "text": "I'm not king.\nI'm not royal blood."
+          },
+          {
+            "index": 1963,
+            "start": 6198.292,
+            "end": 6200.083,
+            "text": "Don't you see, my brother?"
+          },
+          {
+            "index": 1964,
+            "start": 6200.542,
+            "end": 6203,
+            "text": "It is not what you were,"
+          },
+          {
+            "index": 1965,
+            "start": 6203.208,
+            "end": 6207.417,
+            "text": "it is what you have become.\n[chuckles]"
+          },
+          {
+            "index": 1966,
+            "start": 6208.25,
+            "end": 6211.042,
+            "text": "The King of Milele."
+          },
+          {
+            "index": 1967,
+            "start": 6218,
+            "end": 6219.375,
+            "text": "My brother,"
+          },
+          {
+            "index": 1968,
+            "start": 6219.833,
+            "end": 6222.792,
+            "text": "something beautiful\nawaits you."
+          },
+          {
+            "index": 1969,
+            "start": 6231.167,
+            "end": 6232.458,
+            "text": "[sniffing]"
+          },
+          {
+            "index": 1970,
+            "start": 6235.25,
+            "end": 6236.458,
+            "text": "Is this real?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 6193.31094506836,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1960
+      }
     }
   ]
 }
