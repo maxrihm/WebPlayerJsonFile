@@ -73120,6 +73120,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 927
       }
+    },
+    {
+      "id": "801efa8e-9341-4cde-bf4b-82246c8ab4b4",
+      "createdAt": "2026-08-23T21:33:29.771Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "addition",
+      "selection": {
+        "rawText": "addition",
+        "startOffset": 12,
+        "endOffset": 20,
+        "cueIndex": 946,
+        "cueStart": 2954.042,
+        "cueEnd": 2956.833,
+        "cueText": "As a recent addition\nto the King's Royal Guard,"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 936,
+            "start": 2933.25,
+            "end": 2934.5,
+            "text": "Wait! Please."
+          },
+          {
+            "index": 937,
+            "start": 2934.667,
+            "end": 2936.917,
+            "text": "Um... My name is Taka."
+          },
+          {
+            "index": 938,
+            "start": 2938.083,
+            "end": 2939.792,
+            "text": "Son of Obasi."
+          },
+          {
+            "index": 939,
+            "start": 2939.958,
+            "end": 2941.625,
+            "text": "I know what it's like\nto lose everything."
+          },
+          {
+            "index": 940,
+            "start": 2941.792,
+            "end": 2943.042,
+            "text": "Come with us. We can help you."
+          },
+          {
+            "index": 941,
+            "start": 2943.208,
+            "end": 2944.792,
+            "text": "I don't need any help."
+          },
+          {
+            "index": 942,
+            "start": 2944.958,
+            "end": 2947.083,
+            "text": "But you don't have anyone."
+          },
+          {
+            "index": 943,
+            "start": 2947.25,
+            "end": 2949.875,
+            "text": "She does indeed have someone.\nThank you very much."
+          },
+          {
+            "index": 944,
+            "start": 2950.042,
+            "end": 2952.25,
+            "text": "That's Zazu. Don't eat him."
+          },
+          {
+            "index": 945,
+            "start": 2952.417,
+            "end": 2953.875,
+            "text": "You heard her. Do not eat me."
+          },
+          {
+            "index": 946,
+            "start": 2954.042,
+            "end": 2956.833,
+            "text": "As a recent addition\nto the King's Royal Guard,"
+          },
+          {
+            "index": 947,
+            "start": 2957,
+            "end": 2959.792,
+            "text": "I must kindly ask you both\nto move on."
+          },
+          {
+            "index": 948,
+            "start": 2959.958,
+            "end": 2961.708,
+            "text": "Thank you for stopping by."
+          },
+          {
+            "index": 949,
+            "start": 2961.875,
+            "end": 2963.917,
+            "text": "Your king hired a bird\nto protect you?"
+          },
+          {
+            "index": 950,
+            "start": 2964.208,
+            "end": 2965.792,
+            "text": "How high can you fly?"
+          },
+          {
+            "index": 951,
+            "start": 2966,
+            "end": 2968.625,
+            "text": "-Mmm.\n-Look, I needed a scout."
+          },
+          {
+            "index": 952,
+            "start": 2968.792,
+            "end": 2970.375,
+            "text": "Zazu was the last option."
+          },
+          {
+            "index": 953,
+            "start": 2970.542,
+            "end": 2972.083,
+            "text": "Well, next to last. [chuckles]"
+          },
+          {
+            "index": 954,
+            "start": 2972.25,
+            "end": 2974.083,
+            "text": "Between Albert the Iguana\nand I,"
+          },
+          {
+            "index": 955,
+            "start": 2974.25,
+            "end": 2977.833,
+            "text": "His Majesty decided\non the underling with wings."
+          },
+          {
+            "index": 956,
+            "start": 2978,
+            "end": 2980.792,
+            "text": "And thus, I became the\nlead scout for the princess."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 2956.8987329101565,
+        "topCueIndex": -1,
+        "bottomCueIndex": 946
+      }
     }
   ]
 }
