@@ -81229,6 +81229,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1508
       }
+    },
+    {
+      "id": "16170f4e-fbc3-4d36-8b53-db265da8b74b",
+      "createdAt": "2026-08-23T22:34:09.786Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "descent.",
+      "selection": {
+        "rawText": "descent.",
+        "startOffset": 23,
+        "endOffset": 31,
+        "cueIndex": 1526,
+        "cueStart": 4549.708,
+        "cueEnd": 4551.375,
+        "cueText": "before we take on\nthat descent."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1516,
+            "start": 4511.583,
+            "end": 4513.125,
+            "text": "[Mufasa laughs]"
+          },
+          {
+            "index": 1517,
+            "start": 4513.833,
+            "end": 4515.333,
+            "text": "I got you, Rafiki."
+          },
+          {
+            "index": 1518,
+            "start": 4515.5,
+            "end": 4516.708,
+            "text": "-Hey.\n-I got you."
+          },
+          {
+            "index": 1519,
+            "start": 4517.125,
+            "end": 4518.125,
+            "text": "Ho monate, Mufasa."
+          },
+          {
+            "index": 1520,
+            "start": 4518.292,
+            "end": 4519.5,
+            "text": "Yeah, I got you."
+          },
+          {
+            "index": 1521,
+            "start": 4523.083,
+            "end": 4525.583,
+            "text": "[gasps] Mufasa..."
+          },
+          {
+            "index": 1522,
+            "start": 4527.042,
+            "end": 4528.417,
+            "text": "[softly] \"I got you.\""
+          },
+          {
+            "index": 1523,
+            "start": 4541.292,
+            "end": 4545.292,
+            "text": "Hidden in the shadows,\ndownwind, light of foot."
+          },
+          {
+            "index": 1524,
+            "start": 4545.708,
+            "end": 4547.958,
+            "text": "Interesting hunting style,\nMufasa."
+          },
+          {
+            "index": 1525,
+            "start": 4548.125,
+            "end": 4549.625,
+            "text": "We have to eat something"
+          },
+          {
+            "index": 1526,
+            "start": 4549.708,
+            "end": 4551.375,
+            "text": "before we take on\nthat descent."
+          },
+          {
+            "index": 1527,
+            "start": 4551.542,
+            "end": 4553.667,
+            "text": "Unfortunately, there's\nnothing to hunt up here."
+          },
+          {
+            "index": 1528,
+            "start": 4553.833,
+            "end": 4555,
+            "text": "See under that rock?"
+          },
+          {
+            "index": 1529,
+            "start": 4555.167,
+            "end": 4557.625,
+            "text": "There's a civet\nabout to leave his den."
+          },
+          {
+            "index": 1530,
+            "start": 4557.708,
+            "end": 4559.417,
+            "text": "[chuckles] Of course\nyou can smell"
+          },
+          {
+            "index": 1531,
+            "start": 4559.5,
+            "end": 4560.792,
+            "text": "a civet hidden in the snow."
+          },
+          {
+            "index": 1532,
+            "start": 4560.958,
+            "end": 4564.042,
+            "text": "You, the lion\nwho can do anything."
+          },
+          {
+            "index": 1533,
+            "start": 4564.125,
+            "end": 4565.958,
+            "text": "[scoffs] What's that\nsupposed to mean?"
+          },
+          {
+            "index": 1534,
+            "start": 4566.125,
+            "end": 4568.75,
+            "text": "It means I see you, Mufasa."
+          },
+          {
+            "index": 1535,
+            "start": 4569.208,
+            "end": 4570.833,
+            "text": "I don't know\nwhat you're talking about."
+          },
+          {
+            "index": 1536,
+            "start": 4571,
+            "end": 4572.333,
+            "text": "Now, that part, I believe."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 4551.727604980469,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1526
+      }
     }
   ]
 }
