@@ -83524,6 +83524,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1716
       }
+    },
+    {
+      "id": "421c67a0-ce15-40b8-adfa-61a0b4b133f8",
+      "createdAt": "2026-08-23T23:03:19.713Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "twin.",
+      "selection": {
+        "rawText": "twin.",
+        "startOffset": 31,
+        "endOffset": 36,
+        "cueIndex": 1750,
+        "cueStart": 5322.833,
+        "cueEnd": 5325.625,
+        "cueText": "and you came here\nto find your twin."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1740,
+            "start": 5260.917,
+            "end": 5265.417,
+            "text": "You found it, brother.\nYou always do."
+          },
+          {
+            "index": 1741,
+            "start": 5265.542,
+            "end": 5266.917,
+            "text": "[Rafiki continues exclaiming]"
+          },
+          {
+            "index": 1742,
+            "start": 5272.25,
+            "end": 5273.333,
+            "text": "[laughing]"
+          },
+          {
+            "index": 1743,
+            "start": 5276.25,
+            "end": 5278.25,
+            "text": "[♪ triumphant music playing]"
+          },
+          {
+            "index": 1744,
+            "start": 5305.25,
+            "end": 5306.292,
+            "text": "[Mufasa] Rafiki."
+          },
+          {
+            "index": 1745,
+            "start": 5308.208,
+            "end": 5310.958,
+            "text": "This is the tree\nfrom your visions."
+          },
+          {
+            "index": 1746,
+            "start": 5313.042,
+            "end": 5315.375,
+            "text": "I have seen this tree\nmany times,"
+          },
+          {
+            "index": 1747,
+            "start": 5315.583,
+            "end": 5318.833,
+            "text": "and, in each vision,\nthere was always a brother"
+          },
+          {
+            "index": 1748,
+            "start": 5319.333,
+            "end": 5320.958,
+            "text": "standing right here."
+          },
+          {
+            "index": 1749,
+            "start": 5321.125,
+            "end": 5322.667,
+            "text": "[Mufasa] But there's\nno one here, Rafiki,"
+          },
+          {
+            "index": 1750,
+            "start": 5322.833,
+            "end": 5325.625,
+            "text": "and you came here\nto find your twin."
+          },
+          {
+            "index": 1751,
+            "start": 5326.333,
+            "end": 5328.708,
+            "text": "He was taken from me long ago."
+          },
+          {
+            "index": 1752,
+            "start": 5328.875,
+            "end": 5331.875,
+            "text": "What I saw in my dreams\nwas a brother."
+          },
+          {
+            "index": 1753,
+            "start": 5332.208,
+            "end": 5334.083,
+            "text": "Standing right here."
+          },
+          {
+            "index": 1754,
+            "start": 5334.25,
+            "end": 5336.958,
+            "text": "A friend, family."
+          },
+          {
+            "index": 1755,
+            "start": 5337.125,
+            "end": 5338.833,
+            "text": "What I saw was you."
+          },
+          {
+            "index": 1756,
+            "start": 5339,
+            "end": 5340.5,
+            "text": "The unseeable."
+          },
+          {
+            "index": 1757,
+            "start": 5340.667,
+            "end": 5343.125,
+            "text": "I saw Mufasa."
+          },
+          {
+            "index": 1758,
+            "start": 5343.292,
+            "end": 5344.292,
+            "text": "Me?"
+          },
+          {
+            "index": 1759,
+            "start": 5344.458,
+            "end": 5346.292,
+            "text": "Yes, you."
+          },
+          {
+            "index": 1760,
+            "start": 5346.458,
+            "end": 5348.042,
+            "text": "My brother."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 5328.015935058594,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1750
+      }
     }
   ]
 }
