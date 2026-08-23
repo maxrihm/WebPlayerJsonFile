@@ -73273,6 +73273,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 946
       }
+    },
+    {
+      "id": "b887fbc2-da3b-434f-a6a2-eb979bde2643",
+      "createdAt": "2026-08-23T21:34:04.092Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "next to last.",
+      "selection": {
+        "rawText": "next to last.",
+        "startOffset": 6,
+        "endOffset": 19,
+        "cueIndex": 953,
+        "cueStart": 2970.542,
+        "cueEnd": 2972.083,
+        "cueText": "Well, next to last. [chuckles]"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 943,
+            "start": 2947.25,
+            "end": 2949.875,
+            "text": "She does indeed have someone.\nThank you very much."
+          },
+          {
+            "index": 944,
+            "start": 2950.042,
+            "end": 2952.25,
+            "text": "That's Zazu. Don't eat him."
+          },
+          {
+            "index": 945,
+            "start": 2952.417,
+            "end": 2953.875,
+            "text": "You heard her. Do not eat me."
+          },
+          {
+            "index": 946,
+            "start": 2954.042,
+            "end": 2956.833,
+            "text": "As a recent addition\nto the King's Royal Guard,"
+          },
+          {
+            "index": 947,
+            "start": 2957,
+            "end": 2959.792,
+            "text": "I must kindly ask you both\nto move on."
+          },
+          {
+            "index": 948,
+            "start": 2959.958,
+            "end": 2961.708,
+            "text": "Thank you for stopping by."
+          },
+          {
+            "index": 949,
+            "start": 2961.875,
+            "end": 2963.917,
+            "text": "Your king hired a bird\nto protect you?"
+          },
+          {
+            "index": 950,
+            "start": 2964.208,
+            "end": 2965.792,
+            "text": "How high can you fly?"
+          },
+          {
+            "index": 951,
+            "start": 2966,
+            "end": 2968.625,
+            "text": "-Mmm.\n-Look, I needed a scout."
+          },
+          {
+            "index": 952,
+            "start": 2968.792,
+            "end": 2970.375,
+            "text": "Zazu was the last option."
+          },
+          {
+            "index": 953,
+            "start": 2970.542,
+            "end": 2972.083,
+            "text": "Well, next to last. [chuckles]"
+          },
+          {
+            "index": 954,
+            "start": 2972.25,
+            "end": 2974.083,
+            "text": "Between Albert the Iguana\nand I,"
+          },
+          {
+            "index": 955,
+            "start": 2974.25,
+            "end": 2977.833,
+            "text": "His Majesty decided\non the underling with wings."
+          },
+          {
+            "index": 956,
+            "start": 2978,
+            "end": 2980.792,
+            "text": "And thus, I became the\nlead scout for the princess."
+          },
+          {
+            "index": 957,
+            "start": 2980.958,
+            "end": 2982.5,
+            "text": "It's my third day,\ngoing swimmingly,"
+          },
+          {
+            "index": 958,
+            "start": 2982.583,
+            "end": 2983.75,
+            "text": "if I may say so myself."
+          },
+          {
+            "index": 959,
+            "start": 2983.917,
+            "end": 2985.208,
+            "text": "Sarabi, you can\nsay so as well."
+          },
+          {
+            "index": 960,
+            "start": 2985.375,
+            "end": 2986.958,
+            "text": "[Mufasa] How far do you think\nyou'll get with a bird?"
+          },
+          {
+            "index": 961,
+            "start": 2987.125,
+            "end": 2989.083,
+            "text": "How far do you two geniuses\nthink you'll get"
+          },
+          {
+            "index": 962,
+            "start": 2989.167,
+            "end": 2991,
+            "text": "stumbling around,\nrunning into each other?"
+          },
+          {
+            "index": 963,
+            "start": 2991.167,
+            "end": 2993.083,
+            "text": "All the way to Milele."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 2972.9551247558593,
+        "topCueIndex": -1,
+        "bottomCueIndex": 953
+      }
     }
   ]
 }
