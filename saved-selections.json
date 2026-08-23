@@ -75109,6 +75109,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 987
       }
+    },
+    {
+      "id": "ce3bb4db-f9a3-45c0-a5a5-af95a66de39e",
+      "createdAt": "2026-08-23T21:40:07.113Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "one of our own.",
+      "selection": {
+        "rawText": "one of our own.",
+        "startOffset": 12,
+        "endOffset": 27,
+        "cueIndex": 989,
+        "cueStart": 3066.5,
+        "cueEnd": 3067.833,
+        "cueText": "Almost took one of our own."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 979,
+            "start": 3026.667,
+            "end": 3028.5,
+            "text": "But, on the other hand,\nhe's a starving lion,"
+          },
+          {
+            "index": 980,
+            "start": 3028.583,
+            "end": 3030.458,
+            "text": "he wants to eat me,\nso I am slightly torn."
+          },
+          {
+            "index": 981,
+            "start": 3031.167,
+            "end": 3032.458,
+            "text": "[animals screeching]"
+          },
+          {
+            "index": 982,
+            "start": 3033.75,
+            "end": 3035.917,
+            "text": "I think that went quite well,\nall things considered."
+          },
+          {
+            "index": 983,
+            "start": 3036,
+            "end": 3038,
+            "text": "[♪ exhilarating music playing]"
+          },
+          {
+            "index": 984,
+            "start": 3046,
+            "end": 3049.5,
+            "text": "[Rafiki] And now, Kiara,\nthis is where I come in."
+          },
+          {
+            "index": 985,
+            "start": 3058.5,
+            "end": 3059.5,
+            "text": "Rafiki."
+          },
+          {
+            "index": 986,
+            "start": 3060.042,
+            "end": 3062.708,
+            "text": "Order! We will have order\nin the Congress of Baboons."
+          },
+          {
+            "index": 987,
+            "start": 3062.875,
+            "end": 3064.875,
+            "text": "Tonight, a cheetah\ncame into our trees"
+          },
+          {
+            "index": 988,
+            "start": 3064.958,
+            "end": 3066.333,
+            "text": "for the third night in a row."
+          },
+          {
+            "index": 989,
+            "start": 3066.5,
+            "end": 3067.833,
+            "text": "Almost took one of our own."
+          },
+          {
+            "index": 990,
+            "start": 3068,
+            "end": 3069,
+            "text": "It was Rafiki's fault."
+          },
+          {
+            "index": 991,
+            "start": 3069.292,
+            "end": 3071.25,
+            "text": "He summoned the beast\nwith his dreams."
+          },
+          {
+            "index": 992,
+            "start": 3071.417,
+            "end": 3072.667,
+            "text": "[baboon 1] Rafiki\nand his visions"
+          },
+          {
+            "index": 993,
+            "start": 3072.75,
+            "end": 3074.792,
+            "text": "must be banished\nonce and for all."
+          },
+          {
+            "index": 994,
+            "start": 3074.958,
+            "end": 3076.125,
+            "text": "Rafiki tried to warn you."
+          },
+          {
+            "index": 995,
+            "start": 3076.292,
+            "end": 3077.958,
+            "text": "His dreams\nconjure our enemies."
+          },
+          {
+            "index": 996,
+            "start": 3078.042,
+            "end": 3080,
+            "text": "He talks to the spirits,\nsummons the devil."
+          },
+          {
+            "index": 997,
+            "start": 3080.167,
+            "end": 3081.167,
+            "text": "What are you talking about?"
+          },
+          {
+            "index": 998,
+            "start": 3081.25,
+            "end": 3082.292,
+            "text": "[baboon 2] He's\ndone it before."
+          },
+          {
+            "index": 999,
+            "start": 3082.458,
+            "end": 3084.417,
+            "text": "His brother was chased\nfrom these very trees,"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 3068.723848876953,
+        "topCueIndex": -1,
+        "bottomCueIndex": 989
+      }
     }
   ]
 }
