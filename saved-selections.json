@@ -80158,6 +80158,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1436
       }
+    },
+    {
+      "id": "d4f028fb-34db-49b1-9b55-312024391eee",
+      "createdAt": "2026-08-23T22:24:53.532Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "multitudes.",
+      "selection": {
+        "rawText": "multitudes.",
+        "startOffset": 10,
+        "endOffset": 21,
+        "cueIndex": 1442,
+        "cueStart": 4286.5,
+        "cueEnd": 4287.833,
+        "cueText": "I contain multitudes."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1432,
+            "start": 4262.833,
+            "end": 4266.042,
+            "text": "it is a hurt that can cause\nthe greatest pain."
+          },
+          {
+            "index": 1433,
+            "start": 4266.375,
+            "end": 4267.708,
+            "text": "And this pain"
+          },
+          {
+            "index": 1434,
+            "start": 4267.875,
+            "end": 4271.25,
+            "text": "can lead you\nto hate everything."
+          },
+          {
+            "index": 1435,
+            "start": 4271.417,
+            "end": 4274,
+            "text": "I'm glad that didn't happen\nto you, Rafiki."
+          },
+          {
+            "index": 1436,
+            "start": 4274.167,
+            "end": 4276.708,
+            "text": "-Yes, my child. I'm glad too.\n-[chuckles softly]"
+          },
+          {
+            "index": 1437,
+            "start": 4278.208,
+            "end": 4279.333,
+            "text": "Um, hi. We're here, too."
+          },
+          {
+            "index": 1438,
+            "start": 4279.5,
+            "end": 4281.25,
+            "text": "Yeah, why are you leavin' us\noutside this story"
+          },
+          {
+            "index": 1439,
+            "start": 4281.417,
+            "end": 4284.042,
+            "text": "when I'm pretty sure\nwe are the ultimate outsiders."
+          },
+          {
+            "index": 1440,
+            "start": 4284.125,
+            "end": 4285.125,
+            "text": "-Come on!\n-[Timon] Yeah,"
+          },
+          {
+            "index": 1441,
+            "start": 4285.208,
+            "end": 4286.25,
+            "text": "we've always\nbeen misunderstood."
+          },
+          {
+            "index": 1442,
+            "start": 4286.5,
+            "end": 4287.833,
+            "text": "I contain multitudes."
+          },
+          {
+            "index": 1443,
+            "start": 4293.625,
+            "end": 4296.25,
+            "text": "There are many ways to Milele."
+          },
+          {
+            "index": 1444,
+            "start": 4297.125,
+            "end": 4299.333,
+            "text": "But this will be ours."
+          },
+          {
+            "index": 1445,
+            "start": 4299.417,
+            "end": 4301.417,
+            "text": "[♪ mystical music playing]"
+          },
+          {
+            "index": 1446,
+            "start": 4307.542,
+            "end": 4310.167,
+            "text": "[Eshe] Go. Go, Mufasa."
+          },
+          {
+            "index": 1447,
+            "start": 4310.583,
+            "end": 4312.417,
+            "text": "Find your forever."
+          },
+          {
+            "index": 1448,
+            "start": 4313.667,
+            "end": 4315.375,
+            "text": "[Mufasa] I got you."
+          },
+          {
+            "index": 1449,
+            "start": 4315.542,
+            "end": 4317.708,
+            "text": "Oh, Sarabi, I got you."
+          },
+          {
+            "index": 1450,
+            "start": 4317.875,
+            "end": 4319.167,
+            "text": "[gasping]"
+          },
+          {
+            "index": 1451,
+            "start": 4321.167,
+            "end": 4322.542,
+            "text": "[Rafiki] Mmm."
+          },
+          {
+            "index": 1452,
+            "start": 4323.208,
+            "end": 4328.208,
+            "text": "Iketle Rafiki.\nIketle mosimane."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 4287.8452890625,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1442
+      }
     }
   ]
 }
