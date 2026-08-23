@@ -81076,6 +81076,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1503
       }
+    },
+    {
+      "id": "510c9bf3-e21e-488e-a025-62ad6eb15a35",
+      "createdAt": "2026-08-23T22:32:30.749Z",
+      "videoName": "Mufasa: The Lion King",
+      "sourceUrl": "https://www.disneyplus.com/play/be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "audioTrackName": "",
+      "selectedText": "rubbing off on",
+      "selection": {
+        "rawText": "rubbing off on",
+        "startOffset": 21,
+        "endOffset": 35,
+        "cueIndex": 1508,
+        "cueStart": 4491.375,
+        "cueEnd": 4492.708,
+        "cueText": "[Zazu] Oh, we're all\nrubbing off on each other."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1498,
+            "start": 4468.042,
+            "end": 4470.042,
+            "text": "♪ Zazu, Zazu! ♪"
+          },
+          {
+            "index": 1499,
+            "start": 4474.958,
+            "end": 4476.208,
+            "text": "I have a report."
+          },
+          {
+            "index": 1500,
+            "start": 4476.375,
+            "end": 4479.167,
+            "text": "The Outsiders\nare completely lost."
+          },
+          {
+            "index": 1501,
+            "start": 4479.333,
+            "end": 4480.417,
+            "text": "Well played, Mufasa."
+          },
+          {
+            "index": 1502,
+            "start": 4480.583,
+            "end": 4481.75,
+            "text": "Great job, Zazu."
+          },
+          {
+            "index": 1503,
+            "start": 4481.917,
+            "end": 4482.917,
+            "text": "And as per usual. [chuckles]"
+          },
+          {
+            "index": 1504,
+            "start": 4483.083,
+            "end": 4484.333,
+            "text": "[Mufasa] I knew\nyou could do it."
+          },
+          {
+            "index": 1505,
+            "start": 4484.5,
+            "end": 4486.75,
+            "text": "We did it. We did it."
+          },
+          {
+            "index": 1506,
+            "start": 4487.167,
+            "end": 4489.292,
+            "text": "No, you did it."
+          },
+          {
+            "index": 1507,
+            "start": 4489.458,
+            "end": 4491.208,
+            "text": "Great thinking, Mufasa."
+          },
+          {
+            "index": 1508,
+            "start": 4491.375,
+            "end": 4492.708,
+            "text": "[Zazu] Oh, we're all\nrubbing off on each other."
+          },
+          {
+            "index": 1509,
+            "start": 4492.792,
+            "end": 4493.917,
+            "text": "Perfectly normal thing to do."
+          },
+          {
+            "index": 1510,
+            "start": 4494.083,
+            "end": 4495.792,
+            "text": "Who wants to rub against Zazu?"
+          },
+          {
+            "index": 1511,
+            "start": 4495.958,
+            "end": 4497.5,
+            "text": "-[grunts]\n-No one. I'm leaving now."
+          },
+          {
+            "index": 1512,
+            "start": 4497.667,
+            "end": 4499.5,
+            "text": "-I'll scout ahead.\n-[grunts]"
+          },
+          {
+            "index": 1513,
+            "start": 4503.167,
+            "end": 4504.375,
+            "text": "[yelps]"
+          },
+          {
+            "index": 1514,
+            "start": 4504.5,
+            "end": 4506.042,
+            "text": "[coughs]"
+          },
+          {
+            "index": 1515,
+            "start": 4507.167,
+            "end": 4509.75,
+            "text": "[sighs] Ah. [laughing]"
+          },
+          {
+            "index": 1516,
+            "start": 4511.583,
+            "end": 4513.125,
+            "text": "[Mufasa laughs]"
+          },
+          {
+            "index": 1517,
+            "start": 4513.833,
+            "end": 4515.333,
+            "text": "I got you, Rafiki."
+          },
+          {
+            "index": 1518,
+            "start": 4515.5,
+            "end": 4516.708,
+            "text": "-Hey.\n-I got you."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 4492.232215087891,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1508
+      }
     }
   ]
 }
