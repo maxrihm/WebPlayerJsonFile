@@ -86236,6 +86236,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 3
       }
+    },
+    {
+      "id": "884a44f2-3306-45ab-9c91-57544568e5c2",
+      "createdAt": "2026-08-25T22:47:16.034Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "slender",
+      "selection": {
+        "rawText": "slender",
+        "startOffset": 7,
+        "endOffset": 14,
+        "cueIndex": 22,
+        "cueStart": 228.478,
+        "cueEnd": 233.233,
+        "cueText": "No, my slender brown friend.\nLove is a beautiful thing."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 12,
+            "start": 203.745,
+            "end": 205.664,
+            "text": "Not the Daffodil Daydream.\nThe girl."
+          },
+          {
+            "index": 13,
+            "start": 205.789,
+            "end": 207.708,
+            "text": "Ah, yes. Gita."
+          },
+          {
+            "index": 14,
+            "start": 207.791,
+            "end": 209.209,
+            "text": "-Hmm.\n-She is quite lovely."
+          },
+          {
+            "index": 15,
+            "start": 209.71,
+            "end": 212.045,
+            "text": "She would have made me\na very agreeable wife."
+          },
+          {
+            "index": 16,
+            "start": 212.129,
+            "end": 213.296,
+            "text": "But, um..."
+          },
+          {
+            "index": 17,
+            "start": 214.214,
+            "end": 217.551,
+            "text": "Gita's heart has been stolen\nby my cousin Bandhu."
+          },
+          {
+            "index": 18,
+            "start": 217.718,
+            "end": 221.68,
+            "text": "He is as dishonorable\nas he is attractive."
+          },
+          {
+            "index": 19,
+            "start": 222.848,
+            "end": 224.808,
+            "text": "Dopinder,\nI'm starting to think"
+          },
+          {
+            "index": 20,
+            "start": 224.891,
+            "end": 226.643,
+            "text": "there's a reason\nI'm in this cab today."
+          },
+          {
+            "index": 21,
+            "start": 226.977,
+            "end": 228.311,
+            "text": "Yeah, sir, you called for it,\nremember?"
+          },
+          {
+            "index": 22,
+            "start": 228.478,
+            "end": 233.233,
+            "text": "No, my slender brown friend.\nLove is a beautiful thing."
+          },
+          {
+            "index": 23,
+            "start": 233.4,
+            "end": 234.818,
+            "text": "When you find it,\nthe whole world"
+          },
+          {
+            "index": 24,
+            "start": 234.901,
+            "end": 236.153,
+            "text": "tastes like Daffodil Daydream."
+          },
+          {
+            "index": 25,
+            "start": 236.278,
+            "end": 237.279,
+            "text": "(Dopinder grunts)"
+          },
+          {
+            "index": 26,
+            "start": 237.404,
+            "end": 239.156,
+            "text": "So you gotta hold onto love..."
+          },
+          {
+            "index": 27,
+            "start": 239.531,
+            "end": 240.866,
+            "text": "-...tight!\n-Ah."
+          },
+          {
+            "index": 28,
+            "start": 241.032,
+            "end": 242.367,
+            "text": "And never let go."
+          },
+          {
+            "index": 29,
+            "start": 242.451,
+            "end": 243.827,
+            "text": "Don't make\nthe same mistakes I did."
+          },
+          {
+            "index": 30,
+            "start": 243.994,
+            "end": 245.12,
+            "text": "-Got it?\n-Yeah."
+          },
+          {
+            "index": 31,
+            "start": 245.287,
+            "end": 248.79,
+            "text": "Or else the whole world tastes\nlike Mama June after hot yoga."
+          },
+          {
+            "index": 32,
+            "start": 249.332,
+            "end": 251.585,
+            "text": "(stutters) Sir, what does\nMiss Mama June taste like?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 231.06969897460937,
+        "topCueIndex": -1,
+        "bottomCueIndex": 22
+      }
     }
   ]
 }
