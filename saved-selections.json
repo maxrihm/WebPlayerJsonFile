@@ -90520,6 +90520,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 407
       }
+    },
+    {
+      "id": "8aa857f2-48b7-4a45-892e-bcd525d565b0",
+      "createdAt": "2026-08-25T23:33:13.242Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "gags,",
+      "selection": {
+        "rawText": "gags,",
+        "startOffset": 29,
+        "endOffset": 34,
+        "cueIndex": 412,
+        "cueStart": 1285.826,
+        "cueEnd": 1287.578,
+        "cueText": "It was pretty much\n24/7 ball gags,"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 402,
+            "start": 1268.058,
+            "end": 1269.268,
+            "text": "Where else do you put one out?"
+          },
+          {
+            "index": 403,
+            "start": 1269.435,
+            "end": 1270.603,
+            "text": "I was molested."
+          },
+          {
+            "index": 404,
+            "start": 1270.77,
+            "end": 1272.354,
+            "text": "Me too. Uncle."
+          },
+          {
+            "index": 405,
+            "start": 1272.521,
+            "end": 1274.815,
+            "text": "Uncles. They took turns."
+          },
+          {
+            "index": 406,
+            "start": 1275.107,
+            "end": 1276.442,
+            "text": "I watched my own\nbirthday party"
+          },
+          {
+            "index": 407,
+            "start": 1276.525,
+            "end": 1277.61,
+            "text": "through the keyhole\nof a locked closet..."
+          },
+          {
+            "index": 408,
+            "start": 1277.777,
+            "end": 1279.028,
+            "text": "which also happens to be my..."
+          },
+          {
+            "index": 409,
+            "start": 1279.195,
+            "end": 1282.031,
+            "text": "Your bedroom. Lucky.\nI slept in a dishwasher box."
+          },
+          {
+            "index": 410,
+            "start": 1282.114,
+            "end": 1284.158,
+            "text": "(gasps) You had a dishwasher."
+          },
+          {
+            "index": 411,
+            "start": 1284.617,
+            "end": 1285.659,
+            "text": "I didn't even know sleep."
+          },
+          {
+            "index": 412,
+            "start": 1285.826,
+            "end": 1287.578,
+            "text": "It was pretty much\n24/7 ball gags,"
+          },
+          {
+            "index": 413,
+            "start": 1287.661,
+            "end": 1289.079,
+            "text": "brownie mix and clown porn."
+          },
+          {
+            "index": 414,
+            "start": 1289.246,
+            "end": 1290.498,
+            "text": "(laughs)"
+          },
+          {
+            "index": 415,
+            "start": 1293.125,
+            "end": 1294.376,
+            "text": "Who would do such a thing?"
+          },
+          {
+            "index": 416,
+            "start": 1296.045,
+            "end": 1299.507,
+            "text": "Hopefully you, later tonight?"
+          },
+          {
+            "index": 417,
+            "start": 1302.343,
+            "end": 1307.264,
+            "text": "Hey, what can I get for,\nuh, $275 and a..."
+          },
+          {
+            "index": 418,
+            "start": 1308.474,
+            "end": 1310.059,
+            "text": "a Yogurtland rewards card?"
+          },
+          {
+            "index": 419,
+            "start": 1310.226,
+            "end": 1312.853,
+            "text": "Baby, about 48 minutes\nof whatever the fuck you want."
+          },
+          {
+            "index": 420,
+            "start": 1314.313,
+            "end": 1316.065,
+            "text": "And a low-fat dessert."
+          },
+          {
+            "index": 421,
+            "start": 1323.072,
+            "end": 1325.324,
+            "text": "Did she just put a gift card\nin your mouth?"
+          },
+          {
+            "index": 422,
+            "start": 1326.534,
+            "end": 1328.661,
+            "text": "It's time to put\nballs in holes."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1294.6263107910156,
+        "topCueIndex": -1,
+        "bottomCueIndex": 412
+      }
     }
   ]
 }
