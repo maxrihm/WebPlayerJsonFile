@@ -89908,6 +89908,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 380
       }
+    },
+    {
+      "id": "f51093f3-22a8-4292-b69b-c99601b82259",
+      "createdAt": "2026-08-25T23:23:12.882Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "Tight.",
+      "selection": {
+        "rawText": "Tight.",
+        "startOffset": 6,
+        "endOffset": 12,
+        "cueIndex": 381,
+        "cueStart": 1218.634,
+        "cueEnd": 1221.387,
+        "cueText": "Uh... Tight."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 371,
+            "start": 1194.276,
+            "end": 1196.404,
+            "text": "Well, joke's on you.\nI'm living to 102."
+          },
+          {
+            "index": 372,
+            "start": 1196.57,
+            "end": 1198.656,
+            "text": "And then dying.\nLike the city of Detroit."
+          },
+          {
+            "index": 373,
+            "start": 1198.823,
+            "end": 1201.617,
+            "text": "I'm sorry. I just...\nI wanted to win money."
+          },
+          {
+            "index": 374,
+            "start": 1201.742,
+            "end": 1202.952,
+            "text": "I never win anything."
+          },
+          {
+            "index": 375,
+            "start": 1203.119,
+            "end": 1204.161,
+            "text": "Whatever."
+          },
+          {
+            "index": 376,
+            "start": 1204.328,
+            "end": 1205.83,
+            "text": "Soldiers of fortune,\ndrinks on me!"
+          },
+          {
+            "index": 377,
+            "start": 1206.622,
+            "end": 1208.04,
+            "text": "(all cheering)"
+          },
+          {
+            "index": 378,
+            "start": 1208.29,
+            "end": 1210.167,
+            "text": "Domestic, nothing imported."
+          },
+          {
+            "index": 379,
+            "start": 1212.962,
+            "end": 1214.13,
+            "text": "Whoa, whoa, whoa, whoa..."
+          },
+          {
+            "index": 380,
+            "start": 1214.213,
+            "end": 1218.134,
+            "text": "Baby, are you sure you wanna\nshoot your whole wad?"
+          },
+          {
+            "index": 381,
+            "start": 1218.634,
+            "end": 1221.387,
+            "text": "Uh... Tight."
+          },
+          {
+            "index": 382,
+            "start": 1223.055,
+            "end": 1225.015,
+            "text": "-Vanessa.\n-Wade."
+          },
+          {
+            "index": 383,
+            "start": 1225.349,
+            "end": 1227.518,
+            "text": "What's a nice place like you\ndoing in a girl like this?"
+          },
+          {
+            "index": 384,
+            "start": 1228.894,
+            "end": 1230.146,
+            "text": "I'd hit that."
+          },
+          {
+            "index": 385,
+            "start": 1231.439,
+            "end": 1233.232,
+            "text": "Buck, you best\napologize before..."
+          },
+          {
+            "index": 386,
+            "start": 1233.315,
+            "end": 1235.609,
+            "text": "-(gasps)\n-Yeah, that."
+          },
+          {
+            "index": 387,
+            "start": 1235.818,
+            "end": 1237.361,
+            "text": "Say the magic words,\nFat Gandalf."
+          },
+          {
+            "index": 388,
+            "start": 1237.528,
+            "end": 1239.28,
+            "text": "-I'm sorry.\n-Breathe through the nose."
+          },
+          {
+            "index": 389,
+            "start": 1239.447,
+            "end": 1241.49,
+            "text": "I don't have a filter\nbetween my brain and my..."
+          },
+          {
+            "index": 390,
+            "start": 1241.657,
+            "end": 1243.576,
+            "text": "Let go. Okay.\nHey, oh, oh, oh..."
+          },
+          {
+            "index": 391,
+            "start": 1243.659,
+            "end": 1245.995,
+            "text": "-Hakuna his tatas. He's sorry.\n-I'm working on it."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1224.0799189453126,
+        "topCueIndex": -1,
+        "bottomCueIndex": 381
+      }
     }
   ]
 }
