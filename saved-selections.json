@@ -90061,6 +90061,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 381
       }
+    },
+    {
+      "id": "965cb3c5-fd83-45c2-a9cd-404b15f68a98",
+      "createdAt": "2026-08-25T23:30:36.388Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "conceived.",
+      "selection": {
+        "rawText": "conceived.",
+        "startOffset": 24,
+        "endOffset": 34,
+        "cueIndex": 400,
+        "cueStart": 1263.596,
+        "cueEnd": 1265.139,
+        "cueText": "Daddy left before\nI was conceived."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 390,
+            "start": 1241.657,
+            "end": 1243.576,
+            "text": "Let go. Okay.\nHey, oh, oh, oh..."
+          },
+          {
+            "index": 391,
+            "start": 1243.659,
+            "end": 1245.995,
+            "text": "-Hakuna his tatas. He's sorry.\n-I'm working on it."
+          },
+          {
+            "index": 392,
+            "start": 1246.203,
+            "end": 1248.164,
+            "text": "Get out of here.\nGo. Go cast a spell."
+          },
+          {
+            "index": 393,
+            "start": 1248.748,
+            "end": 1251.167,
+            "text": "Hey. Hands off\nthe merchandise."
+          },
+          {
+            "index": 394,
+            "start": 1252.71,
+            "end": 1254.003,
+            "text": "Merchandise? Huh..."
+          },
+          {
+            "index": 395,
+            "start": 1254.253,
+            "end": 1256.589,
+            "text": "So you, uh..."
+          },
+          {
+            "index": 396,
+            "start": 1256.756,
+            "end": 1258.048,
+            "text": "bump fuzzies for money?"
+          },
+          {
+            "index": 397,
+            "start": 1258.215,
+            "end": 1260.134,
+            "text": "-Yep.\n-Rough childhood?"
+          },
+          {
+            "index": 398,
+            "start": 1260.301,
+            "end": 1261.302,
+            "text": "Rougher than yours."
+          },
+          {
+            "index": 399,
+            "start": 1261.385,
+            "end": 1262.97,
+            "text": "Daddy left before I was born."
+          },
+          {
+            "index": 400,
+            "start": 1263.596,
+            "end": 1265.139,
+            "text": "Daddy left before\nI was conceived."
+          },
+          {
+            "index": 401,
+            "start": 1266.348,
+            "end": 1267.683,
+            "text": "Ever had a cigarette\nput out on your skin?"
+          },
+          {
+            "index": 402,
+            "start": 1268.058,
+            "end": 1269.268,
+            "text": "Where else do you put one out?"
+          },
+          {
+            "index": 403,
+            "start": 1269.435,
+            "end": 1270.603,
+            "text": "I was molested."
+          },
+          {
+            "index": 404,
+            "start": 1270.77,
+            "end": 1272.354,
+            "text": "Me too. Uncle."
+          },
+          {
+            "index": 405,
+            "start": 1272.521,
+            "end": 1274.815,
+            "text": "Uncles. They took turns."
+          },
+          {
+            "index": 406,
+            "start": 1275.107,
+            "end": 1276.442,
+            "text": "I watched my own\nbirthday party"
+          },
+          {
+            "index": 407,
+            "start": 1276.525,
+            "end": 1277.61,
+            "text": "through the keyhole\nof a locked closet..."
+          },
+          {
+            "index": 408,
+            "start": 1277.777,
+            "end": 1279.028,
+            "text": "which also happens to be my..."
+          },
+          {
+            "index": 409,
+            "start": 1279.195,
+            "end": 1282.031,
+            "text": "Your bedroom. Lucky.\nI slept in a dishwasher box."
+          },
+          {
+            "index": 410,
+            "start": 1282.114,
+            "end": 1284.158,
+            "text": "(gasps) You had a dishwasher."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1265.3039067382813,
+        "topCueIndex": -1,
+        "bottomCueIndex": 400
+      }
     }
   ]
 }
