@@ -87766,6 +87766,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 141
       }
+    },
+    {
+      "id": "c67d6331-e7c8-490c-a094-c514165950f0",
+      "createdAt": "2026-08-25T22:59:05.858Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "matching",
+      "selection": {
+        "rawText": "matching",
+        "startOffset": 20,
+        "endOffset": 28,
+        "cueIndex": 144,
+        "cueStart": 585.168,
+        "cueEnd": 587.045,
+        "cueText": "Which benefits?\nThe matching unitards?"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 134,
+            "start": 560.56,
+            "end": 562.062,
+            "text": "The assailant\nappears to be armed,"
+          },
+          {
+            "index": 135,
+            "start": 562.145,
+            "end": 563.48,
+            "text": "dangerous, and wearing..."
+          },
+          {
+            "index": 136,
+            "start": 563.646,
+            "end": 565.106,
+            "text": "-a red suit.\n-A red suit."
+          },
+          {
+            "index": 137,
+            "start": 565.774,
+            "end": 566.9,
+            "text": "Deadpool."
+          },
+          {
+            "index": 138,
+            "start": 567.067,
+            "end": 569.736,
+            "text": "Negasonic!\nCome, we have mission."
+          },
+          {
+            "index": 139,
+            "start": 570.653,
+            "end": 573.031,
+            "text": "NEGASONIC TEENAGE WARHEAD:\nColossus, wait up."
+          },
+          {
+            "index": 140,
+            "start": 573.198,
+            "end": 576.451,
+            "text": "I've given Deadpool\nevery chance to join us..."
+          },
+          {
+            "index": 141,
+            "start": 576.618,
+            "end": 578.661,
+            "text": "but he'd rather\nact like a child."
+          },
+          {
+            "index": 142,
+            "start": 578.828,
+            "end": 581.164,
+            "text": "A heavily-armed child."
+          },
+          {
+            "index": 143,
+            "start": 581.414,
+            "end": 585.001,
+            "text": "When will he grow up and see\nbenefits of becoming X-Man?"
+          },
+          {
+            "index": 144,
+            "start": 585.168,
+            "end": 587.045,
+            "text": "Which benefits?\nThe matching unitards?"
+          },
+          {
+            "index": 145,
+            "start": 587.378,
+            "end": 589.13,
+            "text": "The house that blows up\nevery few years?"
+          },
+          {
+            "index": 146,
+            "start": 589.214,
+            "end": 590.215,
+            "text": "Please."
+          },
+          {
+            "index": 147,
+            "start": 590.34,
+            "end": 592.717,
+            "text": "House blowing up\nbuilds character."
+          },
+          {
+            "index": 148,
+            "start": 593.218,
+            "end": 594.969,
+            "text": "You ate breakfast, yes?"
+          },
+          {
+            "index": 149,
+            "start": 595.136,
+            "end": 597.347,
+            "text": "Breakfast is\nmost important meal of day."
+          },
+          {
+            "index": 150,
+            "start": 598.306,
+            "end": 602.477,
+            "text": "Here, protein bar.\nGood for bones."
+          },
+          {
+            "index": 151,
+            "start": 602.644,
+            "end": 604.979,
+            "text": "Deadpool may try\nto break yours."
+          },
+          {
+            "index": 152,
+            "start": 605.23,
+            "end": 606.648,
+            "text": "(jet engine roaring)"
+          },
+          {
+            "index": 153,
+            "start": 612.529,
+            "end": 613.571,
+            "text": "(people clamoring)"
+          },
+          {
+            "index": 154,
+            "start": 613.655,
+            "end": 614.781,
+            "text": "MAN: Get out of the way!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 586.6085288085937,
+        "topCueIndex": -1,
+        "bottomCueIndex": 144
+      }
     }
   ]
 }
