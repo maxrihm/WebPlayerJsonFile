@@ -89602,6 +89602,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 315
       }
+    },
+    {
+      "id": "c5b059ad-b374-42dc-a9f0-d93cc6ac894a",
+      "createdAt": "2026-08-25T23:18:39.483Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "what good will come of this?",
+      "selection": {
+        "rawText": "what good\nwill come of this?",
+        "startOffset": 10,
+        "endOffset": 38,
+        "cueIndex": 344,
+        "cueStart": 1132.214,
+        "cueEnd": 1134.342,
+        "cueText": "Remind me what good\nwill come of this?"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 334,
+            "start": 1112.82,
+            "end": 1115.072,
+            "text": "So what was Special Forces\ndoing in Jacksonville, anyway?"
+          },
+          {
+            "index": 335,
+            "start": 1115.239,
+            "end": 1116.699,
+            "text": "That's classified."
+          },
+          {
+            "index": 336,
+            "start": 1116.866,
+            "end": 1118.951,
+            "text": "(whispers) They have\na wonderful TGI Fridays."
+          },
+          {
+            "index": 337,
+            "start": 1119.16,
+            "end": 1121.37,
+            "text": "All right,\nKahlua, Baileys and..."
+          },
+          {
+            "index": 338,
+            "start": 1121.537,
+            "end": 1122.705,
+            "text": "whipped cream."
+          },
+          {
+            "index": 339,
+            "start": 1122.872,
+            "end": 1124.915,
+            "text": "I give you a Blow Job."
+          },
+          {
+            "index": 340,
+            "start": 1125.416,
+            "end": 1126.709,
+            "text": "Why do you make me make that?"
+          },
+          {
+            "index": 341,
+            "start": 1126.876,
+            "end": 1128.544,
+            "text": "Kelly, Kelly, Kelly..."
+          },
+          {
+            "index": 342,
+            "start": 1128.711,
+            "end": 1130.087,
+            "text": "Take that over to Buck please,"
+          },
+          {
+            "index": 343,
+            "start": 1130.171,
+            "end": 1132.006,
+            "text": "and tell him it's from Boothe.\nLittle foreplay."
+          },
+          {
+            "index": 344,
+            "start": 1132.214,
+            "end": 1134.342,
+            "text": "Remind me what good\nwill come of this?"
+          },
+          {
+            "index": 345,
+            "start": 1134.508,
+            "end": 1136.427,
+            "text": "I don't take the shits.\nI just disturb them."
+          },
+          {
+            "index": 346,
+            "start": 1136.594,
+            "end": 1137.845,
+            "text": "-BUCK: Boothe!\n-Oh!"
+          },
+          {
+            "index": 347,
+            "start": 1137.97,
+            "end": 1139.055,
+            "text": "-Easy, man.\n-Hold up! Hold up!"
+          },
+          {
+            "index": 348,
+            "start": 1139.221,
+            "end": 1140.222,
+            "text": "What you want?"
+          },
+          {
+            "index": 349,
+            "start": 1140.473,
+            "end": 1141.641,
+            "text": "-(grunts)\n-(all exclaiming)"
+          },
+          {
+            "index": 350,
+            "start": 1143.059,
+            "end": 1145.311,
+            "text": "-Cheers. To your health.\n-WEASEL: Fuck you."
+          },
+          {
+            "index": 351,
+            "start": 1145.811,
+            "end": 1147.855,
+            "text": "BOOTHE: Come here,\nyou fat fuck!"
+          },
+          {
+            "index": 352,
+            "start": 1148.022,
+            "end": 1149.482,
+            "text": "That's a new stool."
+          },
+          {
+            "index": 353,
+            "start": 1149.649,
+            "end": 1150.858,
+            "text": "(all clamoring)"
+          },
+          {
+            "index": 354,
+            "start": 1154.362,
+            "end": 1155.821,
+            "text": "BUCK: Stay the fuck down."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1134.8598598632811,
+        "topCueIndex": -1,
+        "bottomCueIndex": 344
+      }
     }
   ]
 }
