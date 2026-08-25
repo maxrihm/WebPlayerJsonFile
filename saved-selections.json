@@ -89296,6 +89296,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 273
       }
+    },
+    {
+      "id": "25a5f3ee-e000-4f93-9134-21b8e2d42869",
+      "createdAt": "2026-08-25T23:15:17.768Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "pitiful.",
+      "selection": {
+        "rawText": "pitiful.",
+        "startOffset": 33,
+        "endOffset": 41,
+        "cueIndex": 315,
+        "cueStart": 1077.66,
+        "cueEnd": 1078.869,
+        "cueText": "Wade Wilson,\npatron saint of the pitiful."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 305,
+            "start": 1052.093,
+            "end": 1054.387,
+            "text": "WADE: Nope. Never will be."
+          },
+          {
+            "index": 306,
+            "start": 1054.595,
+            "end": 1056.305,
+            "text": "Oh. Fuck you, Wade."
+          },
+          {
+            "index": 307,
+            "start": 1056.597,
+            "end": 1060.101,
+            "text": "I'm just a bad guy who gets\npaid to fuck up worse guys."
+          },
+          {
+            "index": 308,
+            "start": 1061.477,
+            "end": 1063.229,
+            "text": "Welcome to Sister Margaret's."
+          },
+          {
+            "index": 309,
+            "start": 1063.437,
+            "end": 1065.523,
+            "text": "It's like a job fair\nfor mercenaries."
+          },
+          {
+            "index": 310,
+            "start": 1066.19,
+            "end": 1068.15,
+            "text": "Think of us as really\nfucked up tooth fairies..."
+          },
+          {
+            "index": 311,
+            "start": 1068.317,
+            "end": 1070.861,
+            "text": "except we knock out the teeth\nand take the cash."
+          },
+          {
+            "index": 312,
+            "start": 1071.028,
+            "end": 1073.948,
+            "text": "You'd best hope we never see\nyour name on a gold card."
+          },
+          {
+            "index": 313,
+            "start": 1074.115,
+            "end": 1075.95,
+            "text": "Buck! Liefeld..."
+          },
+          {
+            "index": 314,
+            "start": 1076.325,
+            "end": 1077.326,
+            "text": "BUCK: Hey, Wade!"
+          },
+          {
+            "index": 315,
+            "start": 1077.66,
+            "end": 1078.869,
+            "text": "Wade Wilson,\npatron saint of the pitiful."
+          },
+          {
+            "index": 316,
+            "start": 1078.953,
+            "end": 1080.246,
+            "text": "What can I do for you?"
+          },
+          {
+            "index": 317,
+            "start": 1080.788,
+            "end": 1082.039,
+            "text": "I'd love a Blow Job."
+          },
+          {
+            "index": 318,
+            "start": 1082.331,
+            "end": 1083.416,
+            "text": "Oh, God, me too."
+          },
+          {
+            "index": 319,
+            "start": 1083.583,
+            "end": 1085.668,
+            "text": "The drink, moose knuckle.\nBut first..."
+          },
+          {
+            "index": 320,
+            "start": 1087.336,
+            "end": 1089.213,
+            "text": "Hey, and I ain't taking any\nbabysitting money, all right?"
+          },
+          {
+            "index": 321,
+            "start": 1089.38,
+            "end": 1091.007,
+            "text": "Make sure\nthat gets back to Ms..."
+          },
+          {
+            "index": 322,
+            "start": 1091.09,
+            "end": 1092.133,
+            "text": "Orlovsky."
+          },
+          {
+            "index": 323,
+            "start": 1092.216,
+            "end": 1093.217,
+            "text": "Yeah, her."
+          },
+          {
+            "index": 324,
+            "start": 1093.301,
+            "end": 1094.552,
+            "text": "-You sure?\n-Hmm."
+          },
+          {
+            "index": 325,
+            "start": 1094.844,
+            "end": 1097.138,
+            "text": "You know, for a merc,\nyou're pretty warm-blooded."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1080.2944477539063,
+        "topCueIndex": -1,
+        "bottomCueIndex": 315
+      }
     }
   ]
 }
