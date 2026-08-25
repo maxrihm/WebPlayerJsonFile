@@ -90979,6 +90979,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 430
       }
+    },
+    {
+      "id": "9a7c69fd-7e4b-4d2e-b005-669ab7638efa",
+      "createdAt": "2026-08-25T23:42:22.485Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "bloodshot",
+      "selection": {
+        "rawText": "bloodshot",
+        "startOffset": 15,
+        "endOffset": 24,
+        "cueIndex": 490,
+        "cueStart": 1493.242,
+        "cueEnd": 1495.035,
+        "cueText": "Brings out the bloodshot\nin your eyes."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 480,
+            "start": 1462.836,
+            "end": 1464.546,
+            "text": "(continues moaning)"
+          },
+          {
+            "index": 481,
+            "start": 1470.219,
+            "end": 1471.971,
+            "text": "Happy Thanksgiving."
+          },
+          {
+            "index": 482,
+            "start": 1473.973,
+            "end": 1475.182,
+            "text": "I love you."
+          },
+          {
+            "index": 483,
+            "start": 1478.978,
+            "end": 1480.896,
+            "text": "If your left leg\nis Thanksgiving..."
+          },
+          {
+            "index": 484,
+            "start": 1481.063,
+            "end": 1482.731,
+            "text": "and your right leg\nis Christmas..."
+          },
+          {
+            "index": 485,
+            "start": 1484.066,
+            "end": 1485.567,
+            "text": "can I visit you\nbetween the holidays?"
+          },
+          {
+            "index": 486,
+            "start": 1486.402,
+            "end": 1487.486,
+            "text": "-(chuckles)\n-Oh!"
+          },
+          {
+            "index": 487,
+            "start": 1487.528,
+            "end": 1489.363,
+            "text": "That sweater is terrible."
+          },
+          {
+            "index": 488,
+            "start": 1489.488,
+            "end": 1491.907,
+            "text": "-(laughs)\n-But red looks good on you."
+          },
+          {
+            "index": 489,
+            "start": 1492.074,
+            "end": 1493.075,
+            "text": "Red's your color."
+          },
+          {
+            "index": 490,
+            "start": 1493.242,
+            "end": 1495.035,
+            "text": "Brings out the bloodshot\nin your eyes."
+          },
+          {
+            "index": 491,
+            "start": 1495.911,
+            "end": 1496.996,
+            "text": "Listen, I've been thinking..."
+          },
+          {
+            "index": 492,
+            "start": 1497.037,
+            "end": 1498.038,
+            "text": "Really?"
+          },
+          {
+            "index": 493,
+            "start": 1498.872,
+            "end": 1500.541,
+            "text": "...about why we're\nso good together."
+          },
+          {
+            "index": 494,
+            "start": 1500.916,
+            "end": 1502.042,
+            "text": "Why's that?"
+          },
+          {
+            "index": 495,
+            "start": 1502.835,
+            "end": 1506.547,
+            "text": "Well, your crazy matches\nmy crazy. Big time."
+          },
+          {
+            "index": 496,
+            "start": 1506.839,
+            "end": 1508.215,
+            "text": "Hmm. (chuckles)"
+          },
+          {
+            "index": 497,
+            "start": 1508.757,
+            "end": 1510.384,
+            "text": "And, uh, we're like\ntwo jigsaw pieces,"
+          },
+          {
+            "index": 498,
+            "start": 1510.426,
+            "end": 1511.677,
+            "text": "you know,\nthe weird curvy edges..."
+          },
+          {
+            "index": 499,
+            "start": 1512.052,
+            "end": 1514.43,
+            "text": "You put them together and you\ncan see the picture on top."
+          },
+          {
+            "index": 500,
+            "start": 1515.264,
+            "end": 1516.348,
+            "text": "Right."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1495.706235107422,
+        "topCueIndex": -1,
+        "bottomCueIndex": 490
+      }
     }
   ]
 }
