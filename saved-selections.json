@@ -89296,6 +89296,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 273
       }
+    },
+    {
+      "id": "c8ced9a5-12d5-4bb6-a9a3-dff0f5613751",
+      "createdAt": "2026-08-25T23:12:25.877Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "Or did it?",
+      "selection": {
+        "rawText": "Or did it?",
+        "startOffset": 0,
+        "endOffset": 10,
+        "cueIndex": 288,
+        "cueStart": 1004.545,
+        "cueEnd": 1005.755,
+        "cueText": "Or did it?"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 278,
+            "start": 984.066,
+            "end": 986.027,
+            "text": "Wait. (chuckles slowly)\nWe are?"
+          },
+          {
+            "index": 279,
+            "start": 986.194,
+            "end": 987.862,
+            "text": "Yeah. We're totally done.\n(laughs)"
+          },
+          {
+            "index": 280,
+            "start": 988.529,
+            "end": 989.906,
+            "text": "You should've seen your face."
+          },
+          {
+            "index": 281,
+            "start": 990.072,
+            "end": 991.324,
+            "text": "I didn't know what to do.\nI was so scared."
+          },
+          {
+            "index": 282,
+            "start": 991.616,
+            "end": 992.7,
+            "text": "Soft spot, remember?"
+          },
+          {
+            "index": 283,
+            "start": 992.867,
+            "end": 993.868,
+            "text": "(whimpers)"
+          },
+          {
+            "index": 284,
+            "start": 994.202,
+            "end": 996.162,
+            "text": "You even look in her\ngeneral direction again..."
+          },
+          {
+            "index": 285,
+            "start": 996.329,
+            "end": 997.872,
+            "text": "and you will learn\nin the worst of ways"
+          },
+          {
+            "index": 286,
+            "start": 997.955,
+            "end": 1000.041,
+            "text": "that I have\nsome hard spots too."
+          },
+          {
+            "index": 287,
+            "start": 1002.043,
+            "end": 1003.419,
+            "text": "That came out wrong."
+          },
+          {
+            "index": 288,
+            "start": 1004.545,
+            "end": 1005.755,
+            "text": "Or did it?"
+          },
+          {
+            "index": 289,
+            "start": 1006.547,
+            "end": 1007.548,
+            "text": "(whimpering)"
+          },
+          {
+            "index": 290,
+            "start": 1007.882,
+            "end": 1009.175,
+            "text": "(indistinct conversations)"
+          },
+          {
+            "index": 291,
+            "start": 1009.425,
+            "end": 1010.801,
+            "text": "(rock music playing)"
+          },
+          {
+            "index": 292,
+            "start": 1011.093,
+            "end": 1012.47,
+            "text": "(woman laughing)"
+          },
+          {
+            "index": 293,
+            "start": 1018.392,
+            "end": 1019.936,
+            "text": "Mmm... Meghan?"
+          },
+          {
+            "index": 294,
+            "start": 1022.98,
+            "end": 1024.398,
+            "text": "You've heard the last\nof Jeremy. He's sorry."
+          },
+          {
+            "index": 295,
+            "start": 1025.399,
+            "end": 1027.276,
+            "text": "No friggin' way."
+          },
+          {
+            "index": 296,
+            "start": 1032.114,
+            "end": 1033.199,
+            "text": "Should've brought\nmy roller blades."
+          },
+          {
+            "index": 297,
+            "start": 1033.282,
+            "end": 1034.7,
+            "text": "Show these kids how it's done."
+          },
+          {
+            "index": 298,
+            "start": 1034.825,
+            "end": 1038.162,
+            "text": "Oh. And that's why we do it.\nBut mostly the money."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1007.9840068359375,
+        "topCueIndex": -1,
+        "bottomCueIndex": 288
+      }
     }
   ]
 }
