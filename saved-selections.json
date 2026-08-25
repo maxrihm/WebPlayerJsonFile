@@ -92356,6 +92356,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 574
       }
+    },
+    {
+      "id": "335d4113-3049-4b75-b6fa-07f7d20433b1",
+      "createdAt": "2026-08-25T23:51:54.664Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "sensation",
+      "selection": {
+        "rawText": "sensation",
+        "startOffset": 10,
+        "endOffset": 19,
+        "cueIndex": 574,
+        "cueStart": 1717.049,
+        "cueEnd": 1719.384,
+        "cueText": "as rookie sensation\nWade W. Wilson..."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 564,
+            "start": 1679.219,
+            "end": 1680.262,
+            "text": "(wade grunts)"
+          },
+          {
+            "index": 565,
+            "start": 1683.265,
+            "end": 1684.349,
+            "text": "(sighs loudly)"
+          },
+          {
+            "index": 566,
+            "start": 1684.391,
+            "end": 1687.06,
+            "text": "Now, if I were\na 200-pound sack"
+          },
+          {
+            "index": 567,
+            "start": 1687.102,
+            "end": 1689.688,
+            "text": "of assholes named Francis,\nwhere would I hide?"
+          },
+          {
+            "index": 568,
+            "start": 1689.771,
+            "end": 1691.69,
+            "text": "(motorbike revving)"
+          },
+          {
+            "index": 569,
+            "start": 1693.525,
+            "end": 1694.568,
+            "text": "Oh."
+          },
+          {
+            "index": 570,
+            "start": 1698.405,
+            "end": 1699.406,
+            "text": "(engine roaring)"
+          },
+          {
+            "index": 571,
+            "start": 1700.407,
+            "end": 1701.408,
+            "text": "(gun firing)"
+          },
+          {
+            "index": 572,
+            "start": 1707.706,
+            "end": 1708.707,
+            "text": "(Francis grunts)"
+          },
+          {
+            "index": 573,
+            "start": 1715.13,
+            "end": 1716.924,
+            "text": "WADE: A hush\nfalls over the crowd"
+          },
+          {
+            "index": 574,
+            "start": 1717.049,
+            "end": 1719.384,
+            "text": "as rookie sensation\nWade W. Wilson..."
+          },
+          {
+            "index": 575,
+            "start": 1719.593,
+            "end": 1723.055,
+            "text": "out of Regina, Saskatchewan,\nlines up the shot."
+          },
+          {
+            "index": 576,
+            "start": 1724.723,
+            "end": 1726.391,
+            "text": "His form looks good."
+          },
+          {
+            "index": 577,
+            "start": 1727.267,
+            "end": 1728.435,
+            "text": "Oh!"
+          },
+          {
+            "index": 578,
+            "start": 1728.477,
+            "end": 1732.272,
+            "text": "And that's why\nRegina rhymes with fun."
+          },
+          {
+            "index": 579,
+            "start": 1732.898,
+            "end": 1735.108,
+            "text": "Ladies and gentlemen,\nwhat you're witnessing..."
+          },
+          {
+            "index": 580,
+            "start": 1735.275,
+            "end": 1737.486,
+            "text": "is sweet dick-kicking revenge."
+          },
+          {
+            "index": 581,
+            "start": 1738.57,
+            "end": 1739.988,
+            "text": "Oh! Giving him the business."
+          },
+          {
+            "index": 582,
+            "start": 1740.447,
+            "end": 1741.49,
+            "text": "Incoming!"
+          },
+          {
+            "index": 583,
+            "start": 1742.616,
+            "end": 1746.411,
+            "text": "This is taking unsportsmanlike\nconduct to a whole new level!"
+          },
+          {
+            "index": 584,
+            "start": 1746.453,
+            "end": 1747.454,
+            "text": "(Francis groans)"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1721.5660451660156,
+        "topCueIndex": -1,
+        "bottomCueIndex": 574
+      }
     }
   ]
 }
