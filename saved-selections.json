@@ -91897,6 +91897,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 513
       }
+    },
+    {
+      "id": "7742d3ac-867a-48f0-a806-77bdbd69bd66",
+      "createdAt": "2026-08-25T23:49:56.980Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "rash.",
+      "selection": {
+        "rawText": "rash.",
+        "startOffset": 34,
+        "endOffset": 39,
+        "cueIndex": 563,
+        "cueStart": 1670.919,
+        "cueEnd": 1672.88,
+        "cueText": "It's important not to\ndo anything rash."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 553,
+            "start": 1649.231,
+            "end": 1650.399,
+            "text": "and there were all these new"
+          },
+          {
+            "index": 554,
+            "start": 1650.524,
+            "end": 1651.692,
+            "text": "experimental drugs\nfrom Germany."
+          },
+          {
+            "index": 555,
+            "start": 1651.859,
+            "end": 1654.319,
+            "text": "WADE: Vanessa's already\nworking on Plan A, B,"
+          },
+          {
+            "index": 556,
+            "start": 1654.361,
+            "end": 1656.071,
+            "text": "all the way through Z."
+          },
+          {
+            "index": 557,
+            "start": 1656.363,
+            "end": 1659.908,
+            "text": "Me? I'm memorizing\nthe details of her face."
+          },
+          {
+            "index": 558,
+            "start": 1660.576,
+            "end": 1662.995,
+            "text": "Like it's the first time\nI'm seeing it."
+          },
+          {
+            "index": 559,
+            "start": 1663.036,
+            "end": 1664.037,
+            "text": "Or the last."
+          },
+          {
+            "index": 560,
+            "start": 1664.204,
+            "end": 1665.581,
+            "text": "DOCTOR: Mr. Wilson..."
+          },
+          {
+            "index": 561,
+            "start": 1665.747,
+            "end": 1667.207,
+            "text": "Mr. Wilson?"
+          },
+          {
+            "index": 562,
+            "start": 1667.583,
+            "end": 1669.877,
+            "text": "Take your time\nto process this."
+          },
+          {
+            "index": 563,
+            "start": 1670.919,
+            "end": 1672.88,
+            "text": "It's important not to\ndo anything rash."
+          },
+          {
+            "index": 564,
+            "start": 1679.219,
+            "end": 1680.262,
+            "text": "(wade grunts)"
+          },
+          {
+            "index": 565,
+            "start": 1683.265,
+            "end": 1684.349,
+            "text": "(sighs loudly)"
+          },
+          {
+            "index": 566,
+            "start": 1684.391,
+            "end": 1687.06,
+            "text": "Now, if I were\na 200-pound sack"
+          },
+          {
+            "index": 567,
+            "start": 1687.102,
+            "end": 1689.688,
+            "text": "of assholes named Francis,\nwhere would I hide?"
+          },
+          {
+            "index": 568,
+            "start": 1689.771,
+            "end": 1691.69,
+            "text": "(motorbike revving)"
+          },
+          {
+            "index": 569,
+            "start": 1693.525,
+            "end": 1694.568,
+            "text": "Oh."
+          },
+          {
+            "index": 570,
+            "start": 1698.405,
+            "end": 1699.406,
+            "text": "(engine roaring)"
+          },
+          {
+            "index": 571,
+            "start": 1700.407,
+            "end": 1701.408,
+            "text": "(gun firing)"
+          },
+          {
+            "index": 572,
+            "start": 1707.706,
+            "end": 1708.707,
+            "text": "(Francis grunts)"
+          },
+          {
+            "index": 573,
+            "start": 1715.13,
+            "end": 1716.924,
+            "text": "WADE: A hush\nfalls over the crowd"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1673.5646181640625,
+        "topCueIndex": -1,
+        "bottomCueIndex": 563
+      }
     }
   ]
 }
