@@ -87307,6 +87307,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 78
       }
+    },
+    {
+      "id": "7f84d057-1425-4594-964a-0f901d2d90fa",
+      "createdAt": "2026-08-25T22:54:30.786Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "fondle",
+      "selection": {
+        "rawText": "fondle",
+        "startOffset": 26,
+        "endOffset": 32,
+        "cueIndex": 89,
+        "cueStart": 407.616,
+        "cueEnd": 409.492,
+        "cueText": "Whose balls\ndid I have to fondle"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 79,
+            "start": 383.174,
+            "end": 386.386,
+            "text": "♪ Hey, yeah\nI wanna shoop, baby ♪"
+          },
+          {
+            "index": 80,
+            "start": 386.553,
+            "end": 389.431,
+            "text": "(wade) ♪ Shoop shooop\nba-doop, shoop ba-doop ♪"
+          },
+          {
+            "index": 81,
+            "start": 389.514,
+            "end": 391.308,
+            "text": "♪ Shoop ba-doop,\nba-doop, ba-doop ♪"
+          },
+          {
+            "index": 82,
+            "start": 391.474,
+            "end": 393.351,
+            "text": "♪ You're packed and you're\nstacked 'specially in the back ♪"
+          },
+          {
+            "index": 83,
+            "start": 393.518,
+            "end": 396.146,
+            "text": "♪ Brother, wanna thank your\nmother for a butt like that ♪"
+          },
+          {
+            "index": 84,
+            "start": 396.313,
+            "end": 398.607,
+            "text": "♪ Can I get some fries\nwith that shake-shake boobie? ♪"
+          },
+          {
+            "index": 85,
+            "start": 398.773,
+            "end": 400.859,
+            "text": "♪ If looks could kill\nyou would be an uzi ♪"
+          },
+          {
+            "index": 86,
+            "start": 401.026,
+            "end": 402.485,
+            "text": "♪ You're a shotgun, bang! ♪"
+          },
+          {
+            "index": 87,
+            "start": 402.569,
+            "end": 403.57,
+            "text": "Wha... Oh!"
+          },
+          {
+            "index": 88,
+            "start": 404.237,
+            "end": 407.449,
+            "text": "Oh, hello. I know, right?"
+          },
+          {
+            "index": 89,
+            "start": 407.616,
+            "end": 409.492,
+            "text": "Whose balls\ndid I have to fondle"
+          },
+          {
+            "index": 90,
+            "start": 409.576,
+            "end": 411.202,
+            "text": "to get my very own movie?"
+          },
+          {
+            "index": 91,
+            "start": 411.369,
+            "end": 412.537,
+            "text": "I can't tell you,"
+          },
+          {
+            "index": 92,
+            "start": 412.621,
+            "end": 414.998,
+            "text": "but it does rhyme\nwith \"Polverine.\""
+          },
+          {
+            "index": 93,
+            "start": 415.206,
+            "end": 416.541,
+            "text": "And let me tell you,"
+          },
+          {
+            "index": 94,
+            "start": 416.625,
+            "end": 420.629,
+            "text": "he's got a nice pair of\nsmooth criminals down under."
+          },
+          {
+            "index": 95,
+            "start": 420.795,
+            "end": 424.883,
+            "text": "Anyway, I got places to be,\na face to fix and, oh..."
+          },
+          {
+            "index": 96,
+            "start": 425.05,
+            "end": 427.719,
+            "text": "Bad guys to kill."
+          },
+          {
+            "index": 97,
+            "start": 427.802,
+            "end": 429.054,
+            "text": "(pop music playing on radio)"
+          },
+          {
+            "index": 98,
+            "start": 433.141,
+            "end": 434.392,
+            "text": "Maximum effort."
+          },
+          {
+            "index": 99,
+            "start": 438.229,
+            "end": 439.272,
+            "text": "(groans)"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 411.20148095703127,
+        "topCueIndex": -1,
+        "bottomCueIndex": 89
+      }
     }
   ]
 }
