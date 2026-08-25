@@ -86848,6 +86848,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 59
       }
+    },
+    {
+      "id": "aeeede83-9f4c-4d4f-b5a2-5f143855a659",
+      "createdAt": "2026-08-25T22:52:35.282Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "or bust.",
+      "selection": {
+        "rawText": "or bust.",
+        "startOffset": 23,
+        "endOffset": 31,
+        "cueIndex": 68,
+        "cueStart": 360.986,
+        "cueEnd": 364.197,
+        "cueText": "9, 10, 11, 12 bullets,\nor bust."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 58,
+            "start": 329.12,
+            "end": 330.121,
+            "text": "(grunts) Okay."
+          },
+          {
+            "index": 59,
+            "start": 330.622,
+            "end": 333.124,
+            "text": "We'll deliver in full\nthe following month."
+          },
+          {
+            "index": 60,
+            "start": 333.208,
+            "end": 335.126,
+            "text": "(gasping)"
+          },
+          {
+            "index": 61,
+            "start": 336.586,
+            "end": 337.671,
+            "text": "Pleasure doing\nbusiness with you."
+          },
+          {
+            "index": 62,
+            "start": 341.591,
+            "end": 343.343,
+            "text": "Fucking mutant."
+          },
+          {
+            "index": 63,
+            "start": 344.427,
+            "end": 346.346,
+            "text": "(engines roaring)"
+          },
+          {
+            "index": 64,
+            "start": 353.353,
+            "end": 354.771,
+            "text": "Oh, shit!"
+          },
+          {
+            "index": 65,
+            "start": 354.938,
+            "end": 356.398,
+            "text": "I forgot my ammo bag."
+          },
+          {
+            "index": 66,
+            "start": 356.69,
+            "end": 358.942,
+            "text": "-Shall we turn back?\n-No, no time."
+          },
+          {
+            "index": 67,
+            "start": 359.359,
+            "end": 360.819,
+            "text": "Fuck it. I got this."
+          },
+          {
+            "index": 68,
+            "start": 360.986,
+            "end": 364.197,
+            "text": "9, 10, 11, 12 bullets,\nor bust."
+          },
+          {
+            "index": 69,
+            "start": 364.364,
+            "end": 365.365,
+            "text": "-Right here!\n-(grunts)"
+          },
+          {
+            "index": 70,
+            "start": 365.448,
+            "end": 367.117,
+            "text": "(tires screeching)"
+          },
+          {
+            "index": 71,
+            "start": 367.367,
+            "end": 369.828,
+            "text": "That's, uh, $27.50."
+          },
+          {
+            "index": 72,
+            "start": 369.995,
+            "end": 371.58,
+            "text": "I... I never carry a wallet\nwhen I'm working."
+          },
+          {
+            "index": 73,
+            "start": 371.746,
+            "end": 373.164,
+            "text": "Ruins the lines of my suit."
+          },
+          {
+            "index": 74,
+            "start": 373.582,
+            "end": 374.583,
+            "text": "-Oh.\n-But, uh,"
+          },
+          {
+            "index": 75,
+            "start": 374.666,
+            "end": 376.084,
+            "text": "how about a crisp high five?"
+          },
+          {
+            "index": 76,
+            "start": 376.251,
+            "end": 377.252,
+            "text": "Okay."
+          },
+          {
+            "index": 77,
+            "start": 377.335,
+            "end": 378.587,
+            "text": "Merry Christmas."
+          },
+          {
+            "index": 78,
+            "start": 379.921,
+            "end": 382.924,
+            "text": "And a convivial Tuesday\nin April to you too, Pool!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 364.55277880859376,
+        "topCueIndex": -1,
+        "bottomCueIndex": 68
+      }
     }
   ]
 }
