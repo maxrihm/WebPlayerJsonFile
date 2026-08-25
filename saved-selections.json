@@ -86389,6 +86389,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 22
       }
+    },
+    {
+      "id": "f5cfc2ce-1d95-43a9-876d-06d4a38bd9ce",
+      "createdAt": "2026-08-25T22:47:56.938Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "hold onto",
+      "selection": {
+        "rawText": "hold onto",
+        "startOffset": 13,
+        "endOffset": 22,
+        "cueIndex": 26,
+        "cueStart": 237.404,
+        "cueEnd": 239.156,
+        "cueText": "So you gotta hold onto love..."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 16,
+            "start": 212.129,
+            "end": 213.296,
+            "text": "But, um..."
+          },
+          {
+            "index": 17,
+            "start": 214.214,
+            "end": 217.551,
+            "text": "Gita's heart has been stolen\nby my cousin Bandhu."
+          },
+          {
+            "index": 18,
+            "start": 217.718,
+            "end": 221.68,
+            "text": "He is as dishonorable\nas he is attractive."
+          },
+          {
+            "index": 19,
+            "start": 222.848,
+            "end": 224.808,
+            "text": "Dopinder,\nI'm starting to think"
+          },
+          {
+            "index": 20,
+            "start": 224.891,
+            "end": 226.643,
+            "text": "there's a reason\nI'm in this cab today."
+          },
+          {
+            "index": 21,
+            "start": 226.977,
+            "end": 228.311,
+            "text": "Yeah, sir, you called for it,\nremember?"
+          },
+          {
+            "index": 22,
+            "start": 228.478,
+            "end": 233.233,
+            "text": "No, my slender brown friend.\nLove is a beautiful thing."
+          },
+          {
+            "index": 23,
+            "start": 233.4,
+            "end": 234.818,
+            "text": "When you find it,\nthe whole world"
+          },
+          {
+            "index": 24,
+            "start": 234.901,
+            "end": 236.153,
+            "text": "tastes like Daffodil Daydream."
+          },
+          {
+            "index": 25,
+            "start": 236.278,
+            "end": 237.279,
+            "text": "(Dopinder grunts)"
+          },
+          {
+            "index": 26,
+            "start": 237.404,
+            "end": 239.156,
+            "text": "So you gotta hold onto love..."
+          },
+          {
+            "index": 27,
+            "start": 239.531,
+            "end": 240.866,
+            "text": "-...tight!\n-Ah."
+          },
+          {
+            "index": 28,
+            "start": 241.032,
+            "end": 242.367,
+            "text": "And never let go."
+          },
+          {
+            "index": 29,
+            "start": 242.451,
+            "end": 243.827,
+            "text": "Don't make\nthe same mistakes I did."
+          },
+          {
+            "index": 30,
+            "start": 243.994,
+            "end": 245.12,
+            "text": "-Got it?\n-Yeah."
+          },
+          {
+            "index": 31,
+            "start": 245.287,
+            "end": 248.79,
+            "text": "Or else the whole world tastes\nlike Mama June after hot yoga."
+          },
+          {
+            "index": 32,
+            "start": 249.332,
+            "end": 251.585,
+            "text": "(stutters) Sir, what does\nMiss Mama June taste like?"
+          },
+          {
+            "index": 33,
+            "start": 251.752,
+            "end": 253.462,
+            "text": "Like two hobos fucking\nin a shoe filled with piss."
+          },
+          {
+            "index": 34,
+            "start": 253.545,
+            "end": 254.588,
+            "text": "Okay, enough."
+          },
+          {
+            "index": 35,
+            "start": 254.755,
+            "end": 257.507,
+            "text": "I can go all day, Dopinder.\nThe point is, it's bad!"
+          },
+          {
+            "index": 36,
+            "start": 257.674,
+            "end": 259.426,
+            "text": "Hmm, it's bad."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 241.98830395507812,
+        "topCueIndex": -1,
+        "bottomCueIndex": 26
+      }
     }
   ]
 }
