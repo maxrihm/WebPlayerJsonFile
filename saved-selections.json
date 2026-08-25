@@ -91744,6 +91744,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 503
       }
+    },
+    {
+      "id": "640f4d5e-d704-47e9-9522-8cfdd1f0c608",
+      "createdAt": "2026-08-25T23:46:18.701Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "line.",
+      "selection": {
+        "rawText": "line.",
+        "startOffset": 10,
+        "endOffset": 15,
+        "cueIndex": 513,
+        "cueStart": 1543.25,
+        "cueEnd": 1544.251,
+        "cueText": "That's my line."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 503,
+            "start": 1521.353,
+            "end": 1523.856,
+            "text": "But only because you haven't\ngotten around to asking me."
+          },
+          {
+            "index": 504,
+            "start": 1525.941,
+            "end": 1527.026,
+            "text": "Will you, uh..."
+          },
+          {
+            "index": 505,
+            "start": 1528.235,
+            "end": 1530.112,
+            "text": "-stick it in my...\n-Marry me?"
+          },
+          {
+            "index": 506,
+            "start": 1531.905,
+            "end": 1534.116,
+            "text": "Uh... Jinx?"
+          },
+          {
+            "index": 507,
+            "start": 1534.241,
+            "end": 1535.242,
+            "text": "Huh."
+          },
+          {
+            "index": 508,
+            "start": 1536.035,
+            "end": 1537.077,
+            "text": "Where were you hiding that?"
+          },
+          {
+            "index": 509,
+            "start": 1537.244,
+            "end": 1538.245,
+            "text": "Nowhere."
+          },
+          {
+            "index": 510,
+            "start": 1539.288,
+            "end": 1540.873,
+            "text": "They say one month's salary.\nSo, uh..."
+          },
+          {
+            "index": 511,
+            "start": 1541.04,
+            "end": 1542.041,
+            "text": "You mean?"
+          },
+          {
+            "index": 512,
+            "start": 1542.082,
+            "end": 1543.083,
+            "text": "I do."
+          },
+          {
+            "index": 513,
+            "start": 1543.25,
+            "end": 1544.251,
+            "text": "That's my line."
+          },
+          {
+            "index": 514,
+            "start": 1547.588,
+            "end": 1549.214,
+            "text": "I love you, Wade Wilson."
+          },
+          {
+            "index": 515,
+            "start": 1550.049,
+            "end": 1551.258,
+            "text": "You're supposed to...\nSo that's a..."
+          },
+          {
+            "index": 516,
+            "start": 1551.425,
+            "end": 1552.926,
+            "text": "-Yes!\n-Whoo!"
+          },
+          {
+            "index": 517,
+            "start": 1553.635,
+            "end": 1554.762,
+            "text": "Yes!"
+          },
+          {
+            "index": 518,
+            "start": 1554.803,
+            "end": 1555.804,
+            "text": "(laughs)"
+          },
+          {
+            "index": 519,
+            "start": 1556.889,
+            "end": 1558.307,
+            "text": "I feel just like\na little girl."
+          },
+          {
+            "index": 520,
+            "start": 1558.766,
+            "end": 1560.434,
+            "text": "-(chuckles)\n-(sighs)"
+          },
+          {
+            "index": 521,
+            "start": 1563.645,
+            "end": 1565.898,
+            "text": "What if I just held on\nand never let go?"
+          },
+          {
+            "index": 522,
+            "start": 1566.065,
+            "end": 1568.609,
+            "text": "Just ride a bitch's back,\nlike Yoda on Luke."
+          },
+          {
+            "index": 523,
+            "start": 1568.776,
+            "end": 1571.111,
+            "text": "Oh, Star Wars jokes."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1545.9450651855468,
+        "topCueIndex": -1,
+        "bottomCueIndex": 513
+      }
     }
   ]
 }
