@@ -86542,6 +86542,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 26
       }
+    },
+    {
+      "id": "c2067851-0091-4efe-aba1-987d0be90990",
+      "createdAt": "2026-08-25T22:50:34.896Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "That won't do.",
+      "selection": {
+        "rawText": "That won't do.",
+        "startOffset": 0,
+        "endOffset": 14,
+        "cueIndex": 53,
+        "cueStart": 312.312,
+        "cueEnd": 313.688,
+        "cueText": "That won't do."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 43,
+            "start": 274.816,
+            "end": 277.027,
+            "text": "And what did he\ndo to you, Mr. Pool?"
+          },
+          {
+            "index": 44,
+            "start": 277.194,
+            "end": 278.528,
+            "text": "This shit..."
+          },
+          {
+            "index": 45,
+            "start": 279.78,
+            "end": 280.781,
+            "text": "Boo!"
+          },
+          {
+            "index": 46,
+            "start": 282.616,
+            "end": 283.95,
+            "text": "(chopper blades whirring)"
+          },
+          {
+            "index": 47,
+            "start": 299.382,
+            "end": 300.675,
+            "text": "(sighs)"
+          },
+          {
+            "index": 48,
+            "start": 301.676,
+            "end": 302.803,
+            "text": "They won't disappoint."
+          },
+          {
+            "index": 49,
+            "start": 303.47,
+            "end": 305.138,
+            "text": "They'd better not."
+          },
+          {
+            "index": 50,
+            "start": 305.305,
+            "end": 307.599,
+            "text": "And what about\nnext month's shipment?"
+          },
+          {
+            "index": 51,
+            "start": 307.766,
+            "end": 309.351,
+            "text": "There won't be one."
+          },
+          {
+            "index": 52,
+            "start": 309.518,
+            "end": 311.061,
+            "text": "You're not the only one\nwith a war to win."
+          },
+          {
+            "index": 53,
+            "start": 312.312,
+            "end": 313.688,
+            "text": "That won't do."
+          },
+          {
+            "index": 54,
+            "start": 316.65,
+            "end": 319.194,
+            "text": "See, we've had\nthis small disruption"
+          },
+          {
+            "index": 55,
+            "start": 319.277,
+            "end": 320.529,
+            "text": "to our supply chain..."
+          },
+          {
+            "index": 56,
+            "start": 321.112,
+            "end": 322.155,
+            "text": "(choking)"
+          },
+          {
+            "index": 57,
+            "start": 324.366,
+            "end": 326.576,
+            "text": "We'd appreciate your patience."
+          },
+          {
+            "index": 58,
+            "start": 329.12,
+            "end": 330.121,
+            "text": "(grunts) Okay."
+          },
+          {
+            "index": 59,
+            "start": 330.622,
+            "end": 333.124,
+            "text": "We'll deliver in full\nthe following month."
+          },
+          {
+            "index": 60,
+            "start": 333.208,
+            "end": 335.126,
+            "text": "(gasping)"
+          },
+          {
+            "index": 61,
+            "start": 336.586,
+            "end": 337.671,
+            "text": "Pleasure doing\nbusiness with you."
+          },
+          {
+            "index": 62,
+            "start": 341.591,
+            "end": 343.343,
+            "text": "Fucking mutant."
+          },
+          {
+            "index": 63,
+            "start": 344.427,
+            "end": 346.346,
+            "text": "(engines roaring)"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 313.88748583984375,
+        "topCueIndex": -1,
+        "bottomCueIndex": 53
+      }
     }
   ]
 }
