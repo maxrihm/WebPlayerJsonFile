@@ -87001,6 +87001,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 68
       }
+    },
+    {
+      "id": "431698d9-7f7b-416e-a739-b3a77c7ecd04",
+      "createdAt": "2026-08-25T22:53:15.057Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "lines",
+      "selection": {
+        "rawText": "lines",
+        "startOffset": 10,
+        "endOffset": 15,
+        "cueIndex": 73,
+        "cueStart": 371.746,
+        "cueEnd": 373.164,
+        "cueText": "Ruins the lines of my suit."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 63,
+            "start": 344.427,
+            "end": 346.346,
+            "text": "(engines roaring)"
+          },
+          {
+            "index": 64,
+            "start": 353.353,
+            "end": 354.771,
+            "text": "Oh, shit!"
+          },
+          {
+            "index": 65,
+            "start": 354.938,
+            "end": 356.398,
+            "text": "I forgot my ammo bag."
+          },
+          {
+            "index": 66,
+            "start": 356.69,
+            "end": 358.942,
+            "text": "-Shall we turn back?\n-No, no time."
+          },
+          {
+            "index": 67,
+            "start": 359.359,
+            "end": 360.819,
+            "text": "Fuck it. I got this."
+          },
+          {
+            "index": 68,
+            "start": 360.986,
+            "end": 364.197,
+            "text": "9, 10, 11, 12 bullets,\nor bust."
+          },
+          {
+            "index": 69,
+            "start": 364.364,
+            "end": 365.365,
+            "text": "-Right here!\n-(grunts)"
+          },
+          {
+            "index": 70,
+            "start": 365.448,
+            "end": 367.117,
+            "text": "(tires screeching)"
+          },
+          {
+            "index": 71,
+            "start": 367.367,
+            "end": 369.828,
+            "text": "That's, uh, $27.50."
+          },
+          {
+            "index": 72,
+            "start": 369.995,
+            "end": 371.58,
+            "text": "I... I never carry a wallet\nwhen I'm working."
+          },
+          {
+            "index": 73,
+            "start": 371.746,
+            "end": 373.164,
+            "text": "Ruins the lines of my suit."
+          },
+          {
+            "index": 74,
+            "start": 373.582,
+            "end": 374.583,
+            "text": "-Oh.\n-But, uh,"
+          },
+          {
+            "index": 75,
+            "start": 374.666,
+            "end": 376.084,
+            "text": "how about a crisp high five?"
+          },
+          {
+            "index": 76,
+            "start": 376.251,
+            "end": 377.252,
+            "text": "Okay."
+          },
+          {
+            "index": 77,
+            "start": 377.335,
+            "end": 378.587,
+            "text": "Merry Christmas."
+          },
+          {
+            "index": 78,
+            "start": 379.921,
+            "end": 382.924,
+            "text": "And a convivial Tuesday\nin April to you too, Pool!"
+          },
+          {
+            "index": 79,
+            "start": 383.174,
+            "end": 386.386,
+            "text": "♪ Hey, yeah\nI wanna shoop, baby ♪"
+          },
+          {
+            "index": 80,
+            "start": 386.553,
+            "end": 389.431,
+            "text": "(wade) ♪ Shoop shooop\nba-doop, shoop ba-doop ♪"
+          },
+          {
+            "index": 81,
+            "start": 389.514,
+            "end": 391.308,
+            "text": "♪ Shoop ba-doop,\nba-doop, ba-doop ♪"
+          },
+          {
+            "index": 82,
+            "start": 391.474,
+            "end": 393.351,
+            "text": "♪ You're packed and you're\nstacked 'specially in the back ♪"
+          },
+          {
+            "index": 83,
+            "start": 393.518,
+            "end": 396.146,
+            "text": "♪ Brother, wanna thank your\nmother for a butt like that ♪"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 373.50447094726565,
+        "topCueIndex": -1,
+        "bottomCueIndex": 73
+      }
     }
   ]
 }
