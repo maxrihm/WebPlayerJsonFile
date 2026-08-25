@@ -86125,6 +86125,117 @@
         "topCueIndex": -1,
         "bottomCueIndex": 2041
       }
+    },
+    {
+      "id": "cf6f5f02-9043-44ef-8e41-a13e4a1ad116",
+      "createdAt": "2026-08-25T22:44:16.965Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "lonesome",
+      "selection": {
+        "rawText": "lonesome",
+        "startOffset": 6,
+        "endOffset": 14,
+        "cueIndex": 3,
+        "cueStart": 181.223,
+        "cueEnd": 183.558,
+        "cueText": "Kinda lonesome back here."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 0,
+            "start": 23.899,
+            "end": 25.901,
+            "text": "(pop music playing)"
+          },
+          {
+            "index": 1,
+            "start": 147.314,
+            "end": 151.193,
+            "text": "(song playing in Hindi)"
+          },
+          {
+            "index": 2,
+            "start": 164.623,
+            "end": 166.208,
+            "text": "(wind whooshing)"
+          },
+          {
+            "index": 3,
+            "start": 181.223,
+            "end": 183.558,
+            "text": "Kinda lonesome back here."
+          },
+          {
+            "index": 4,
+            "start": 183.892,
+            "end": 185.185,
+            "text": "-(mumbling)\n-(grunts) Yeah, little help."
+          },
+          {
+            "index": 5,
+            "start": 186.52,
+            "end": 190.941,
+            "text": "Okay, um, just, I have to keep\nmy hands on the wheel."
+          },
+          {
+            "index": 6,
+            "start": 191.441,
+            "end": 192.609,
+            "text": "(continues grunting)"
+          },
+          {
+            "index": 7,
+            "start": 192.693,
+            "end": 194.486,
+            "text": "Excuse me. Whoo!"
+          },
+          {
+            "index": 8,
+            "start": 194.986,
+            "end": 196.613,
+            "text": "(chuckles) Ah, Dopinder."
+          },
+          {
+            "index": 9,
+            "start": 196.78,
+            "end": 198.782,
+            "text": "Pool. Dead."
+          },
+          {
+            "index": 10,
+            "start": 200.158,
+            "end": 201.41,
+            "text": "Hmm, nice."
+          },
+          {
+            "index": 11,
+            "start": 202.577,
+            "end": 203.578,
+            "text": "DOPINDER: Smells good, no?"
+          },
+          {
+            "index": 12,
+            "start": 203.745,
+            "end": 205.664,
+            "text": "Not the Daffodil Daydream.\nThe girl."
+          },
+          {
+            "index": 13,
+            "start": 205.789,
+            "end": 207.708,
+            "text": "Ah, yes. Gita."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 182.50414306640624,
+        "topCueIndex": -1,
+        "bottomCueIndex": 3
+      }
     }
   ]
 }
