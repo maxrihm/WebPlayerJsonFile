@@ -88225,6 +88225,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 165
       }
+    },
+    {
+      "id": "d849d805-0792-45c5-ba48-e477e6feaaf6",
+      "createdAt": "2026-08-25T23:06:57.697Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "no go",
+      "selection": {
+        "rawText": "no go",
+        "startOffset": 10,
+        "endOffset": 15,
+        "cueIndex": 246,
+        "cueStart": 912.578,
+        "cueEnd": 915.456,
+        "cueText": "That is a no go\non the tiperoo, Jer."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 236,
+            "start": 890.515,
+            "end": 891.516,
+            "text": "Is it burnt crust?"
+          },
+          {
+            "index": 237,
+            "start": 891.766,
+            "end": 893.601,
+            "text": "I... God, I hope not. Um..."
+          },
+          {
+            "index": 238,
+            "start": 893.684,
+            "end": 895.436,
+            "text": "Whoa... Man, look, if this is\nabout that poker game."
+          },
+          {
+            "index": 239,
+            "start": 895.603,
+            "end": 897.772,
+            "text": "I told Howie,\nI told him that..."
+          },
+          {
+            "index": 240,
+            "start": 897.939,
+            "end": 901.776,
+            "text": "Okay, uh, look,\njust take whatever you want."
+          },
+          {
+            "index": 241,
+            "start": 901.943,
+            "end": 903.027,
+            "text": "Thanks."
+          },
+          {
+            "index": 242,
+            "start": 903.986,
+            "end": 905.279,
+            "text": "Sir, before you do\nanything to him,"
+          },
+          {
+            "index": 243,
+            "start": 905.363,
+            "end": 906.572,
+            "text": "do you mind\nif I get a big tip?"
+          },
+          {
+            "index": 244,
+            "start": 907.031,
+            "end": 909.867,
+            "text": "(chuckles) Uh, Jeremy, is it?"
+          },
+          {
+            "index": 245,
+            "start": 910.034,
+            "end": 911.494,
+            "text": "-Umm-hmm.\n-Wade. Wade Wilson."
+          },
+          {
+            "index": 246,
+            "start": 912.578,
+            "end": 915.456,
+            "text": "That is a no go\non the tiperoo, Jer."
+          },
+          {
+            "index": 247,
+            "start": 915.623,
+            "end": 917.083,
+            "text": "I'm not here for him."
+          },
+          {
+            "index": 248,
+            "start": 917.458,
+            "end": 919.043,
+            "text": "I'm here for you."
+          },
+          {
+            "index": 249,
+            "start": 919.168,
+            "end": 920.461,
+            "text": "Oh. (chuckles)"
+          },
+          {
+            "index": 250,
+            "start": 920.586,
+            "end": 922.463,
+            "text": "Okay, wow, dodged a big-time\nbullet on that one."
+          },
+          {
+            "index": 251,
+            "start": 922.63,
+            "end": 924.549,
+            "text": "-Not out of the woods yet.\n-(groans)"
+          },
+          {
+            "index": 252,
+            "start": 925.133,
+            "end": 927.385,
+            "text": "You need to seriously ease up\non the bedazzling."
+          },
+          {
+            "index": 253,
+            "start": 927.552,
+            "end": 929.387,
+            "text": "They're jeans,\nnot a chandelier."
+          },
+          {
+            "index": 254,
+            "start": 929.554,
+            "end": 931.722,
+            "text": "P.S. I'm keeping your wallet.\nYou did kinda give it to me."
+          },
+          {
+            "index": 255,
+            "start": 931.889,
+            "end": 933.558,
+            "text": "Okay, just look, man,\ncan I have my Sam's card..."
+          },
+          {
+            "index": 256,
+            "start": 933.724,
+            "end": 936.018,
+            "text": "I will shoot your fucking cat!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 916.2763708496094,
+        "topCueIndex": -1,
+        "bottomCueIndex": 246
+      }
     }
   ]
 }
