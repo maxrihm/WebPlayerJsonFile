@@ -87154,6 +87154,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 73
       }
+    },
+    {
+      "id": "78220925-9382-4faf-b389-4859805a41a3",
+      "createdAt": "2026-08-25T22:53:40.077Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "convivial",
+      "selection": {
+        "rawText": "convivial",
+        "startOffset": 6,
+        "endOffset": 15,
+        "cueIndex": 78,
+        "cueStart": 379.921,
+        "cueEnd": 382.924,
+        "cueText": "And a convivial Tuesday\nin April to you too, Pool!"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 68,
+            "start": 360.986,
+            "end": 364.197,
+            "text": "9, 10, 11, 12 bullets,\nor bust."
+          },
+          {
+            "index": 69,
+            "start": 364.364,
+            "end": 365.365,
+            "text": "-Right here!\n-(grunts)"
+          },
+          {
+            "index": 70,
+            "start": 365.448,
+            "end": 367.117,
+            "text": "(tires screeching)"
+          },
+          {
+            "index": 71,
+            "start": 367.367,
+            "end": 369.828,
+            "text": "That's, uh, $27.50."
+          },
+          {
+            "index": 72,
+            "start": 369.995,
+            "end": 371.58,
+            "text": "I... I never carry a wallet\nwhen I'm working."
+          },
+          {
+            "index": 73,
+            "start": 371.746,
+            "end": 373.164,
+            "text": "Ruins the lines of my suit."
+          },
+          {
+            "index": 74,
+            "start": 373.582,
+            "end": 374.583,
+            "text": "-Oh.\n-But, uh,"
+          },
+          {
+            "index": 75,
+            "start": 374.666,
+            "end": 376.084,
+            "text": "how about a crisp high five?"
+          },
+          {
+            "index": 76,
+            "start": 376.251,
+            "end": 377.252,
+            "text": "Okay."
+          },
+          {
+            "index": 77,
+            "start": 377.335,
+            "end": 378.587,
+            "text": "Merry Christmas."
+          },
+          {
+            "index": 78,
+            "start": 379.921,
+            "end": 382.924,
+            "text": "And a convivial Tuesday\nin April to you too, Pool!"
+          },
+          {
+            "index": 79,
+            "start": 383.174,
+            "end": 386.386,
+            "text": "♪ Hey, yeah\nI wanna shoop, baby ♪"
+          },
+          {
+            "index": 80,
+            "start": 386.553,
+            "end": 389.431,
+            "text": "(wade) ♪ Shoop shooop\nba-doop, shoop ba-doop ♪"
+          },
+          {
+            "index": 81,
+            "start": 389.514,
+            "end": 391.308,
+            "text": "♪ Shoop ba-doop,\nba-doop, ba-doop ♪"
+          },
+          {
+            "index": 82,
+            "start": 391.474,
+            "end": 393.351,
+            "text": "♪ You're packed and you're\nstacked 'specially in the back ♪"
+          },
+          {
+            "index": 83,
+            "start": 393.518,
+            "end": 396.146,
+            "text": "♪ Brother, wanna thank your\nmother for a butt like that ♪"
+          },
+          {
+            "index": 84,
+            "start": 396.313,
+            "end": 398.607,
+            "text": "♪ Can I get some fries\nwith that shake-shake boobie? ♪"
+          },
+          {
+            "index": 85,
+            "start": 398.773,
+            "end": 400.859,
+            "text": "♪ If looks could kill\nyou would be an uzi ♪"
+          },
+          {
+            "index": 86,
+            "start": 401.026,
+            "end": 402.485,
+            "text": "♪ You're a shotgun, bang! ♪"
+          },
+          {
+            "index": 87,
+            "start": 402.569,
+            "end": 403.57,
+            "text": "Wha... Oh!"
+          },
+          {
+            "index": 88,
+            "start": 404.237,
+            "end": 407.449,
+            "text": "Oh, hello. I know, right?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 383.32219287109376,
+        "topCueIndex": -1,
+        "bottomCueIndex": 78
+      }
     }
   ]
 }
