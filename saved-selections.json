@@ -90673,6 +90673,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 412
       }
+    },
+    {
+      "id": "7868928b-85c9-486f-85b2-ba0b2d2db4e1",
+      "createdAt": "2026-08-25T23:36:48.000Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "tough call.",
+      "selection": {
+        "rawText": "tough call.",
+        "startOffset": 9,
+        "endOffset": 20,
+        "cueIndex": 427,
+        "cueStart": 1337.253,
+        "cueEnd": 1339.547,
+        "cueText": "That's a tough call. (scoffs)"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 417,
+            "start": 1302.343,
+            "end": 1307.264,
+            "text": "Hey, what can I get for,\nuh, $275 and a..."
+          },
+          {
+            "index": 418,
+            "start": 1308.474,
+            "end": 1310.059,
+            "text": "a Yogurtland rewards card?"
+          },
+          {
+            "index": 419,
+            "start": 1310.226,
+            "end": 1312.853,
+            "text": "Baby, about 48 minutes\nof whatever the fuck you want."
+          },
+          {
+            "index": 420,
+            "start": 1314.313,
+            "end": 1316.065,
+            "text": "And a low-fat dessert."
+          },
+          {
+            "index": 421,
+            "start": 1323.072,
+            "end": 1325.324,
+            "text": "Did she just put a gift card\nin your mouth?"
+          },
+          {
+            "index": 422,
+            "start": 1326.534,
+            "end": 1328.661,
+            "text": "It's time to put\nballs in holes."
+          },
+          {
+            "index": 423,
+            "start": 1329.703,
+            "end": 1331.205,
+            "text": "You said whatever I want."
+          },
+          {
+            "index": 424,
+            "start": 1331.914,
+            "end": 1332.915,
+            "text": "I get it."
+          },
+          {
+            "index": 425,
+            "start": 1333.332,
+            "end": 1334.75,
+            "text": "You love skee ball."
+          },
+          {
+            "index": 426,
+            "start": 1334.917,
+            "end": 1337.086,
+            "text": "Apparently more than\nyou love vagina."
+          },
+          {
+            "index": 427,
+            "start": 1337.253,
+            "end": 1339.547,
+            "text": "That's a tough call. (scoffs)"
+          },
+          {
+            "index": 428,
+            "start": 1339.588,
+            "end": 1341.757,
+            "text": "(stutters) I just wanna get to\nknow the real you, you know."
+          },
+          {
+            "index": 429,
+            "start": 1341.924,
+            "end": 1343.759,
+            "text": "Not the short-shorted,\ntwo-dimensional"
+          },
+          {
+            "index": 430,
+            "start": 1343.884,
+            "end": 1345.761,
+            "text": "sex object\npeddled by Hollywood."
+          },
+          {
+            "index": 431,
+            "start": 1345.886,
+            "end": 1346.887,
+            "text": "VANESSA: Balls in holes."
+          },
+          {
+            "index": 432,
+            "start": 1347.012,
+            "end": 1348.013,
+            "text": "(hip-hop music playing)"
+          },
+          {
+            "index": 433,
+            "start": 1348.055,
+            "end": 1349.056,
+            "text": "Balls in holes."
+          },
+          {
+            "index": 434,
+            "start": 1349.265,
+            "end": 1350.558,
+            "text": "Prepare to lose tragically."
+          },
+          {
+            "index": 435,
+            "start": 1350.724,
+            "end": 1351.725,
+            "text": "Bring it, big man."
+          },
+          {
+            "index": 436,
+            "start": 1351.892,
+            "end": 1352.893,
+            "text": "Okay."
+          },
+          {
+            "index": 437,
+            "start": 1355.271,
+            "end": 1356.397,
+            "text": "(mocking Scooby-Doo) Uh-oh."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1338.5474619140625,
+        "topCueIndex": -1,
+        "bottomCueIndex": 427
+      }
     }
   ]
 }
