@@ -88990,6 +88990,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 260
       }
+    },
+    {
+      "id": "4d91c060-1629-4f4b-a78e-5baa739394df",
+      "createdAt": "2026-08-25T23:09:48.860Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "Do you happen to",
+      "selection": {
+        "rawText": "Do you happen to",
+        "startOffset": 0,
+        "endOffset": 16,
+        "cueIndex": 262,
+        "cueStart": 951.451,
+        "cueEnd": 953.661,
+        "cueText": "Do you happen to know\na Meghan Orflosky?"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 252,
+            "start": 925.133,
+            "end": 927.385,
+            "text": "You need to seriously ease up\non the bedazzling."
+          },
+          {
+            "index": 253,
+            "start": 927.552,
+            "end": 929.387,
+            "text": "They're jeans,\nnot a chandelier."
+          },
+          {
+            "index": 254,
+            "start": 929.554,
+            "end": 931.722,
+            "text": "P.S. I'm keeping your wallet.\nYou did kinda give it to me."
+          },
+          {
+            "index": 255,
+            "start": 931.889,
+            "end": 933.558,
+            "text": "Okay, just look, man,\ncan I have my Sam's card..."
+          },
+          {
+            "index": 256,
+            "start": 933.724,
+            "end": 936.018,
+            "text": "I will shoot your fucking cat!"
+          },
+          {
+            "index": 257,
+            "start": 936.811,
+            "end": 937.937,
+            "text": "I don't really know\nwhat that means."
+          },
+          {
+            "index": 258,
+            "start": 938.02,
+            "end": 939.23,
+            "text": "I don't have a cat."
+          },
+          {
+            "index": 259,
+            "start": 939.564,
+            "end": 941.315,
+            "text": "Then whose kitty litter\ndid I just shit in?"
+          },
+          {
+            "index": 260,
+            "start": 945.445,
+            "end": 947.488,
+            "text": "Anyhoo, tell me something..."
+          },
+          {
+            "index": 261,
+            "start": 947.655,
+            "end": 951.284,
+            "text": "what situation\nisn't improved by pizza?"
+          },
+          {
+            "index": 262,
+            "start": 951.451,
+            "end": 953.661,
+            "text": "Do you happen to know\na Meghan Orflosky?"
+          },
+          {
+            "index": 263,
+            "start": 953.828,
+            "end": 955.329,
+            "text": "Getting that right? Orflosky?"
+          },
+          {
+            "index": 264,
+            "start": 955.496,
+            "end": 957.79,
+            "text": "Orlovsky? Yeah? Good."
+          },
+          {
+            "index": 265,
+            "start": 959.041,
+            "end": 960.209,
+            "text": "Because she knows you."
+          },
+          {
+            "index": 266,
+            "start": 960.376,
+            "end": 962.587,
+            "text": "Jeremy, I belong\nto a group of guys"
+          },
+          {
+            "index": 267,
+            "start": 962.67,
+            "end": 964.672,
+            "text": "who take a dime\nto beat a fella down."
+          },
+          {
+            "index": 268,
+            "start": 964.839,
+            "end": 966.215,
+            "text": "And little Meghan,\nshe's not made of money,"
+          },
+          {
+            "index": 269,
+            "start": 966.299,
+            "end": 967.633,
+            "text": "but lucky for her..."
+          },
+          {
+            "index": 270,
+            "start": 967.8,
+            "end": 969.093,
+            "text": "I got a soft spot."
+          },
+          {
+            "index": 271,
+            "start": 969.719,
+            "end": 971.637,
+            "text": "-But I'm a...\n-A stalker."
+          },
+          {
+            "index": 272,
+            "start": 972.096,
+            "end": 973.598,
+            "text": "Threats hurt, Jer."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 954.0622229003907,
+        "topCueIndex": -1,
+        "bottomCueIndex": 262
+      }
     }
   ]
 }
