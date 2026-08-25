@@ -91591,6 +91591,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 502
       }
+    },
+    {
+      "id": "3f595fbd-83d7-41a1-9b72-a14a4ac8358e",
+      "createdAt": "2026-08-25T23:44:36.601Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "gotten around to",
+      "selection": {
+        "rawText": "gotten around to",
+        "startOffset": 29,
+        "endOffset": 45,
+        "cueIndex": 503,
+        "cueStart": 1521.353,
+        "cueEnd": 1523.856,
+        "cueText": "But only because you haven't\ngotten around to asking me."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 493,
+            "start": 1498.872,
+            "end": 1500.541,
+            "text": "...about why we're\nso good together."
+          },
+          {
+            "index": 494,
+            "start": 1500.916,
+            "end": 1502.042,
+            "text": "Why's that?"
+          },
+          {
+            "index": 495,
+            "start": 1502.835,
+            "end": 1506.547,
+            "text": "Well, your crazy matches\nmy crazy. Big time."
+          },
+          {
+            "index": 496,
+            "start": 1506.839,
+            "end": 1508.215,
+            "text": "Hmm. (chuckles)"
+          },
+          {
+            "index": 497,
+            "start": 1508.757,
+            "end": 1510.384,
+            "text": "And, uh, we're like\ntwo jigsaw pieces,"
+          },
+          {
+            "index": 498,
+            "start": 1510.426,
+            "end": 1511.677,
+            "text": "you know,\nthe weird curvy edges..."
+          },
+          {
+            "index": 499,
+            "start": 1512.052,
+            "end": 1514.43,
+            "text": "You put them together and you\ncan see the picture on top."
+          },
+          {
+            "index": 500,
+            "start": 1515.264,
+            "end": 1516.348,
+            "text": "Right."
+          },
+          {
+            "index": 501,
+            "start": 1516.932,
+            "end": 1518.058,
+            "text": "Wade..."
+          },
+          {
+            "index": 502,
+            "start": 1518.726,
+            "end": 1521.186,
+            "text": "there's something I've been\nmeaning to ask you."
+          },
+          {
+            "index": 503,
+            "start": 1521.353,
+            "end": 1523.856,
+            "text": "But only because you haven't\ngotten around to asking me."
+          },
+          {
+            "index": 504,
+            "start": 1525.941,
+            "end": 1527.026,
+            "text": "Will you, uh..."
+          },
+          {
+            "index": 505,
+            "start": 1528.235,
+            "end": 1530.112,
+            "text": "-stick it in my...\n-Marry me?"
+          },
+          {
+            "index": 506,
+            "start": 1531.905,
+            "end": 1534.116,
+            "text": "Uh... Jinx?"
+          },
+          {
+            "index": 507,
+            "start": 1534.241,
+            "end": 1535.242,
+            "text": "Huh."
+          },
+          {
+            "index": 508,
+            "start": 1536.035,
+            "end": 1537.077,
+            "text": "Where were you hiding that?"
+          },
+          {
+            "index": 509,
+            "start": 1537.244,
+            "end": 1538.245,
+            "text": "Nowhere."
+          },
+          {
+            "index": 510,
+            "start": 1539.288,
+            "end": 1540.873,
+            "text": "They say one month's salary.\nSo, uh..."
+          },
+          {
+            "index": 511,
+            "start": 1541.04,
+            "end": 1542.041,
+            "text": "You mean?"
+          },
+          {
+            "index": 512,
+            "start": 1542.082,
+            "end": 1543.083,
+            "text": "I do."
+          },
+          {
+            "index": 513,
+            "start": 1543.25,
+            "end": 1544.251,
+            "text": "That's my line."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1523.7735500488282,
+        "topCueIndex": -1,
+        "bottomCueIndex": 503
+      }
     }
   ]
 }
