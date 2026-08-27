@@ -95110,6 +95110,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 706
       }
+    },
+    {
+      "id": "883e12ce-bdf5-4df4-aee2-53563c55311c",
+      "createdAt": "2026-08-27T01:04:28.215Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "wasn't having it.",
+      "selection": {
+        "rawText": "wasn't having it.",
+        "startOffset": 12,
+        "endOffset": 29,
+        "cueIndex": 720,
+        "cueStart": 2129.669,
+        "cueEnd": 2131.212,
+        "cueText": "and he just wasn't having it."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 710,
+            "start": 2082.122,
+            "end": 2083.331,
+            "text": "so you may wanna..."
+          },
+          {
+            "index": 711,
+            "start": 2088.336,
+            "end": 2089.588,
+            "text": "His drink's on him."
+          },
+          {
+            "index": 712,
+            "start": 2095.26,
+            "end": 2096.97,
+            "text": "WEASEL: What did he say?"
+          },
+          {
+            "index": 713,
+            "start": 2097.095,
+            "end": 2098.305,
+            "text": "(thunderclap)"
+          },
+          {
+            "index": 714,
+            "start": 2099.347,
+            "end": 2101.641,
+            "text": "(siren wailing in distance)"
+          },
+          {
+            "index": 715,
+            "start": 2107.647,
+            "end": 2108.982,
+            "text": "(sniffles)"
+          },
+          {
+            "index": 716,
+            "start": 2119.659,
+            "end": 2121.202,
+            "text": "VANESSA: Hey, what's going on?"
+          },
+          {
+            "index": 717,
+            "start": 2121.328,
+            "end": 2123.705,
+            "text": "(sniffles) Hey. Sorry."
+          },
+          {
+            "index": 718,
+            "start": 2125.165,
+            "end": 2127.167,
+            "text": "I had a Liam Neeson nightmare."
+          },
+          {
+            "index": 719,
+            "start": 2128.043,
+            "end": 2129.544,
+            "text": "I dreamt I kidnapped\nhis daughter"
+          },
+          {
+            "index": 720,
+            "start": 2129.669,
+            "end": 2131.212,
+            "text": "and he just wasn't having it."
+          },
+          {
+            "index": 721,
+            "start": 2138.97,
+            "end": 2143.183,
+            "text": "Hey, uh, they've made\nthree of those movies."
+          },
+          {
+            "index": 722,
+            "start": 2144.184,
+            "end": 2145.56,
+            "text": "At some point\nyou have to wonder"
+          },
+          {
+            "index": 723,
+            "start": 2145.685,
+            "end": 2147.354,
+            "text": "if he's just a bad parent."
+          },
+          {
+            "index": 724,
+            "start": 2147.395,
+            "end": 2148.396,
+            "text": "VANESSA: Hmm."
+          },
+          {
+            "index": 725,
+            "start": 2161.701,
+            "end": 2163.244,
+            "text": "WADE: The worst part\nabout cancer"
+          },
+          {
+            "index": 726,
+            "start": 2163.37,
+            "end": 2165.372,
+            "text": "isn't what it does to you..."
+          },
+          {
+            "index": 727,
+            "start": 2165.705,
+            "end": 2168.583,
+            "text": "but what it does to\nthe people you love."
+          },
+          {
+            "index": 728,
+            "start": 2168.875,
+            "end": 2171.503,
+            "text": "Who knew if this guy\ncould save my life..."
+          },
+          {
+            "index": 729,
+            "start": 2171.67,
+            "end": 2174.214,
+            "text": "but I knew there was only one\nway that I could save hers."
+          },
+          {
+            "index": 730,
+            "start": 2174.714,
+            "end": 2176.049,
+            "text": "(door closes)"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 2132.82736328125,
+        "topCueIndex": -1,
+        "bottomCueIndex": 720
+      }
     }
   ]
 }
