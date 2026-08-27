@@ -97711,6 +97711,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 838
       }
+    },
+    {
+      "id": "07dc158b-29c6-4d23-962b-4c2332172a90",
+      "createdAt": "2026-08-27T01:21:01.602Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "sanitary.",
+      "selection": {
+        "rawText": "sanitary.",
+        "startOffset": 17,
+        "endOffset": 26,
+        "cueIndex": 854,
+        "cueStart": 2507.171,
+        "cueEnd": 2509.298,
+        "cueText": "This place seems sanitary."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 844,
+            "start": 2468.383,
+            "end": 2470.426,
+            "text": "Nothing warms my heart more"
+          },
+          {
+            "index": 845,
+            "start": 2470.51,
+            "end": 2472.762,
+            "text": "than a change\nof someone else's."
+          },
+          {
+            "index": 846,
+            "start": 2472.929,
+            "end": 2474.639,
+            "text": "You finally hit \"fuck it.\""
+          },
+          {
+            "index": 847,
+            "start": 2475.848,
+            "end": 2477.809,
+            "text": "Just promise\nyou'll do right by me."
+          },
+          {
+            "index": 848,
+            "start": 2478.518,
+            "end": 2480.395,
+            "text": "So I can do right\nby someone else."
+          },
+          {
+            "index": 849,
+            "start": 2480.561,
+            "end": 2481.729,
+            "text": "Of course."
+          },
+          {
+            "index": 850,
+            "start": 2482.438,
+            "end": 2484.232,
+            "text": "And please don't make\nthe super-suit green."
+          },
+          {
+            "index": 851,
+            "start": 2485.525,
+            "end": 2487.026,
+            "text": "Or animated."
+          },
+          {
+            "index": 852,
+            "start": 2488.82,
+            "end": 2491.28,
+            "text": "(man choking)"
+          },
+          {
+            "index": 853,
+            "start": 2493.533,
+            "end": 2496.577,
+            "text": "-MAN: Move it! Keep moving.\n-(patient screaming)"
+          },
+          {
+            "index": 854,
+            "start": 2507.171,
+            "end": 2509.298,
+            "text": "This place seems sanitary."
+          },
+          {
+            "index": 855,
+            "start": 2510.091,
+            "end": 2512.301,
+            "text": "My first request\nis warmer hands."
+          },
+          {
+            "index": 856,
+            "start": 2512.385,
+            "end": 2516.139,
+            "text": "Oh! And, Jesus,\na warmer table."
+          },
+          {
+            "index": 857,
+            "start": 2517.724,
+            "end": 2519.6,
+            "text": "We should really come up\nwith a safe word, fellas."
+          },
+          {
+            "index": 858,
+            "start": 2519.934,
+            "end": 2521.769,
+            "text": "I'm thinking \"pork and beans.\""
+          },
+          {
+            "index": 859,
+            "start": 2525.231,
+            "end": 2527.275,
+            "text": "(groans) Easy."
+          },
+          {
+            "index": 860,
+            "start": 2529.277,
+            "end": 2531.571,
+            "text": "Aren't you a little strong\nfor a lady?"
+          },
+          {
+            "index": 861,
+            "start": 2532.321,
+            "end": 2533.74,
+            "text": "I'm calling wang."
+          },
+          {
+            "index": 862,
+            "start": 2533.99,
+            "end": 2535.783,
+            "text": "(breathing heavily)"
+          },
+          {
+            "index": 863,
+            "start": 2537.618,
+            "end": 2538.828,
+            "text": "What's up with the matches?"
+          },
+          {
+            "index": 864,
+            "start": 2539.12,
+            "end": 2541.831,
+            "text": "Oral fixation\nor just a big Stallone fan?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 2515.7387963867186,
+        "topCueIndex": -1,
+        "bottomCueIndex": 854
+      }
     }
   ]
 }
