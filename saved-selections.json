@@ -97405,6 +97405,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 785
       }
+    },
+    {
+      "id": "fd635c86-82ed-4d38-af90-0b0d5dccc9c7",
+      "createdAt": "2026-08-27T01:19:05.257Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "money shot,",
+      "selection": {
+        "rawText": "money shot,",
+        "startOffset": 22,
+        "endOffset": 33,
+        "cueIndex": 833,
+        "cueStart": 2432.68,
+        "cueEnd": 2433.932,
+        "cueText": "WADE: Oh, there's\nthe money shot, baby."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 823,
+            "start": 2401.733,
+            "end": 2403.61,
+            "text": "COLOSSUS: Let us go talk\nto the Professor."
+          },
+          {
+            "index": 824,
+            "start": 2404.11,
+            "end": 2405.778,
+            "text": "McAvoy or Stewart?"
+          },
+          {
+            "index": 825,
+            "start": 2405.945,
+            "end": 2408.114,
+            "text": "These timelines\nare so confusing."
+          },
+          {
+            "index": 826,
+            "start": 2409.449,
+            "end": 2411.993,
+            "text": "\"Dead or alive,\nyou're coming with me!\""
+          },
+          {
+            "index": 827,
+            "start": 2412.16,
+            "end": 2413.745,
+            "text": "COLOSSUS: You will\nrecover, Wade."
+          },
+          {
+            "index": 828,
+            "start": 2413.995,
+            "end": 2415.622,
+            "text": "You always do."
+          },
+          {
+            "index": 829,
+            "start": 2420.126,
+            "end": 2423.588,
+            "text": "You ever see 127 Hours?\nSpoiler alert."
+          },
+          {
+            "index": 830,
+            "start": 2424.631,
+            "end": 2425.965,
+            "text": "(squishing noise)"
+          },
+          {
+            "index": 831,
+            "start": 2427.3,
+            "end": 2428.343,
+            "text": "Oh, my God."
+          },
+          {
+            "index": 832,
+            "start": 2428.509,
+            "end": 2429.594,
+            "text": "Nasty."
+          },
+          {
+            "index": 833,
+            "start": 2432.68,
+            "end": 2433.932,
+            "text": "WADE: Oh, there's\nthe money shot, baby."
+          },
+          {
+            "index": 834,
+            "start": 2433.973,
+            "end": 2435.141,
+            "text": "(retching)"
+          },
+          {
+            "index": 835,
+            "start": 2435.266,
+            "end": 2437.185,
+            "text": "Are You There God?\nIt's Me, Margaret."
+          },
+          {
+            "index": 836,
+            "start": 2442.774,
+            "end": 2443.775,
+            "text": "(truck horn honks)"
+          },
+          {
+            "index": 837,
+            "start": 2448.196,
+            "end": 2450.573,
+            "text": "WADE: Rock, meet bottom."
+          },
+          {
+            "index": 838,
+            "start": 2451.074,
+            "end": 2454.077,
+            "text": "And when life ends up\nbreathtakingly fucked..."
+          },
+          {
+            "index": 839,
+            "start": 2454.369,
+            "end": 2455.411,
+            "text": "you can generally\ntrace it back"
+          },
+          {
+            "index": 840,
+            "start": 2455.495,
+            "end": 2458.498,
+            "text": "to one big, bad decision."
+          },
+          {
+            "index": 841,
+            "start": 2458.665,
+            "end": 2461.751,
+            "text": "The one that sent you\ndown the road to Shitsburgh."
+          },
+          {
+            "index": 842,
+            "start": 2461.918,
+            "end": 2464.963,
+            "text": "This? Well, this was mine."
+          },
+          {
+            "index": 843,
+            "start": 2465.546,
+            "end": 2466.965,
+            "text": "AGENT SMITH: Mr. Wilson."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 2446.92298828125,
+        "topCueIndex": -1,
+        "bottomCueIndex": 833
+      }
     }
   ]
 }
