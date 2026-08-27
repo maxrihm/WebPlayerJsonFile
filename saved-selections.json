@@ -98017,6 +98017,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 868
       }
+    },
+    {
+      "id": "5f89d502-04fe-4286-9afc-55791584134e",
+      "createdAt": "2026-08-27T01:23:27.427Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "blunt.",
+      "selection": {
+        "rawText": "blunt.",
+        "startOffset": 15,
+        "endOffset": 21,
+        "cueIndex": 877,
+        "cueStart": 2572.653,
+        "cueEnd": 2574.822,
+        "cueText": "But I've grown blunt."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 867,
+            "start": 2545.626,
+            "end": 2547.211,
+            "text": "All in good time."
+          },
+          {
+            "index": 868,
+            "start": 2547.42,
+            "end": 2549.297,
+            "text": "Are you here for\nthe turndown service, or what?"
+          },
+          {
+            "index": 869,
+            "start": 2550.882,
+            "end": 2552.008,
+            "text": "We have another talker."
+          },
+          {
+            "index": 870,
+            "start": 2552.175,
+            "end": 2553.926,
+            "text": "I'm just excited about my\nfirst day at superhero camp."
+          },
+          {
+            "index": 871,
+            "start": 2554.093,
+            "end": 2556.22,
+            "text": "Shut the fuck up."
+          },
+          {
+            "index": 872,
+            "start": 2559.557,
+            "end": 2561.517,
+            "text": "Mr. Wilson, my name's Ajax."
+          },
+          {
+            "index": 873,
+            "start": 2562.477,
+            "end": 2564.562,
+            "text": "I manage this workshop."
+          },
+          {
+            "index": 874,
+            "start": 2565.646,
+            "end": 2568.816,
+            "text": "Ah, my welcome speech used to\nbe full of euphemisms like..."
+          },
+          {
+            "index": 875,
+            "start": 2568.983,
+            "end": 2570.443,
+            "text": "\"This may hurt a little.\""
+          },
+          {
+            "index": 876,
+            "start": 2570.526,
+            "end": 2572.487,
+            "text": "\"This may cause you\nsome discomfort.\""
+          },
+          {
+            "index": 877,
+            "start": 2572.653,
+            "end": 2574.822,
+            "text": "But I've grown blunt."
+          },
+          {
+            "index": 878,
+            "start": 2574.989,
+            "end": 2577.492,
+            "text": "This workshop is not\na government-led program."
+          },
+          {
+            "index": 879,
+            "start": 2577.658,
+            "end": 2579.118,
+            "text": "It's a private institution\nthat turns"
+          },
+          {
+            "index": 880,
+            "start": 2579.202,
+            "end": 2581.204,
+            "text": "reclamation projects\nlike yourself..."
+          },
+          {
+            "index": 881,
+            "start": 2581.37,
+            "end": 2584.707,
+            "text": "into men of\nextraordinary abilities."
+          },
+          {
+            "index": 882,
+            "start": 2586.334,
+            "end": 2587.71,
+            "text": "But if you think\nsuper-human powers"
+          },
+          {
+            "index": 883,
+            "start": 2587.794,
+            "end": 2589.629,
+            "text": "are acquired painlessly..."
+          },
+          {
+            "index": 884,
+            "start": 2590.505,
+            "end": 2591.881,
+            "text": "-Wrong.\n-(groans)"
+          },
+          {
+            "index": 885,
+            "start": 2592.006,
+            "end": 2593.883,
+            "text": "I'm injecting you with\na serum that activates"
+          },
+          {
+            "index": 886,
+            "start": 2593.966,
+            "end": 2596.135,
+            "text": "any mutant genes\nlurking in your DNA."
+          },
+          {
+            "index": 887,
+            "start": 2596.344,
+            "end": 2597.678,
+            "text": "For it to work"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 2574.1941203613283,
+        "topCueIndex": -1,
+        "bottomCueIndex": 877
+      }
     }
   ]
 }
