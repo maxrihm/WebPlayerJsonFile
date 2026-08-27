@@ -97558,6 +97558,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 833
       }
+    },
+    {
+      "id": "8398ab19-0f6c-45d7-8d19-769a88afcd12",
+      "createdAt": "2026-08-27T01:19:39.860Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "breathtakingly",
+      "selection": {
+        "rawText": "breathtakingly",
+        "startOffset": 22,
+        "endOffset": 36,
+        "cueIndex": 838,
+        "cueStart": 2451.074,
+        "cueEnd": 2454.077,
+        "cueText": "And when life ends up\nbreathtakingly fucked..."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 828,
+            "start": 2413.995,
+            "end": 2415.622,
+            "text": "You always do."
+          },
+          {
+            "index": 829,
+            "start": 2420.126,
+            "end": 2423.588,
+            "text": "You ever see 127 Hours?\nSpoiler alert."
+          },
+          {
+            "index": 830,
+            "start": 2424.631,
+            "end": 2425.965,
+            "text": "(squishing noise)"
+          },
+          {
+            "index": 831,
+            "start": 2427.3,
+            "end": 2428.343,
+            "text": "Oh, my God."
+          },
+          {
+            "index": 832,
+            "start": 2428.509,
+            "end": 2429.594,
+            "text": "Nasty."
+          },
+          {
+            "index": 833,
+            "start": 2432.68,
+            "end": 2433.932,
+            "text": "WADE: Oh, there's\nthe money shot, baby."
+          },
+          {
+            "index": 834,
+            "start": 2433.973,
+            "end": 2435.141,
+            "text": "(retching)"
+          },
+          {
+            "index": 835,
+            "start": 2435.266,
+            "end": 2437.185,
+            "text": "Are You There God?\nIt's Me, Margaret."
+          },
+          {
+            "index": 836,
+            "start": 2442.774,
+            "end": 2443.775,
+            "text": "(truck horn honks)"
+          },
+          {
+            "index": 837,
+            "start": 2448.196,
+            "end": 2450.573,
+            "text": "WADE: Rock, meet bottom."
+          },
+          {
+            "index": 838,
+            "start": 2451.074,
+            "end": 2454.077,
+            "text": "And when life ends up\nbreathtakingly fucked..."
+          },
+          {
+            "index": 839,
+            "start": 2454.369,
+            "end": 2455.411,
+            "text": "you can generally\ntrace it back"
+          },
+          {
+            "index": 840,
+            "start": 2455.495,
+            "end": 2458.498,
+            "text": "to one big, bad decision."
+          },
+          {
+            "index": 841,
+            "start": 2458.665,
+            "end": 2461.751,
+            "text": "The one that sent you\ndown the road to Shitsburgh."
+          },
+          {
+            "index": 842,
+            "start": 2461.918,
+            "end": 2464.963,
+            "text": "This? Well, this was mine."
+          },
+          {
+            "index": 843,
+            "start": 2465.546,
+            "end": 2466.965,
+            "text": "AGENT SMITH: Mr. Wilson."
+          },
+          {
+            "index": 844,
+            "start": 2468.383,
+            "end": 2470.426,
+            "text": "Nothing warms my heart more"
+          },
+          {
+            "index": 845,
+            "start": 2470.51,
+            "end": 2472.762,
+            "text": "than a change\nof someone else's."
+          },
+          {
+            "index": 846,
+            "start": 2472.929,
+            "end": 2474.639,
+            "text": "You finally hit \"fuck it.\""
+          },
+          {
+            "index": 847,
+            "start": 2475.848,
+            "end": 2477.809,
+            "text": "Just promise\nyou'll do right by me."
+          },
+          {
+            "index": 848,
+            "start": 2478.518,
+            "end": 2480.395,
+            "text": "So I can do right\nby someone else."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 2461.8104423828127,
+        "topCueIndex": -1,
+        "bottomCueIndex": 838
+      }
     }
   ]
 }
