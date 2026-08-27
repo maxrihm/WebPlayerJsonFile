@@ -95416,6 +95416,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 734
       }
+    },
+    {
+      "id": "b6020161-9324-4711-8ec5-ac3a8b1194f9",
+      "createdAt": "2026-08-27T01:07:27.808Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "Lucrative",
+      "selection": {
+        "rawText": "Lucrative",
+        "startOffset": 0,
+        "endOffset": 9,
+        "cueIndex": 738,
+        "cueStart": 2203.368,
+        "cueEnd": 2205.078,
+        "cueText": "Lucrative film deals,\nboth origin stories"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 728,
+            "start": 2168.875,
+            "end": 2171.503,
+            "text": "Who knew if this guy\ncould save my life..."
+          },
+          {
+            "index": 729,
+            "start": 2171.67,
+            "end": 2174.214,
+            "text": "but I knew there was only one\nway that I could save hers."
+          },
+          {
+            "index": 730,
+            "start": 2174.714,
+            "end": 2176.049,
+            "text": "(door closes)"
+          },
+          {
+            "index": 731,
+            "start": 2178.385,
+            "end": 2180.595,
+            "text": "Isn't that what\nsuperheroes do?"
+          },
+          {
+            "index": 732,
+            "start": 2184.057,
+            "end": 2185.058,
+            "text": "(cars honking)"
+          },
+          {
+            "index": 733,
+            "start": 2188.603,
+            "end": 2189.854,
+            "text": "(phone ringing)"
+          },
+          {
+            "index": 734,
+            "start": 2192.941,
+            "end": 2197.028,
+            "text": "WADE: Okay. Let's pro-con\nthis superhero thing."
+          },
+          {
+            "index": 735,
+            "start": 2197.737,
+            "end": 2198.738,
+            "text": "-(thuds)\n-Ow."
+          },
+          {
+            "index": 736,
+            "start": 2198.905,
+            "end": 2201.741,
+            "text": "Pro: They pull down\na gaggle of ass."
+          },
+          {
+            "index": 737,
+            "start": 2201.908,
+            "end": 2203.201,
+            "text": "Local dry cleaning discounts."
+          },
+          {
+            "index": 738,
+            "start": 2203.368,
+            "end": 2205.078,
+            "text": "Lucrative film deals,\nboth origin stories"
+          },
+          {
+            "index": 739,
+            "start": 2205.203,
+            "end": 2207.288,
+            "text": "and larger ensemble\nteam movies."
+          },
+          {
+            "index": 740,
+            "start": 2207.414,
+            "end": 2210.458,
+            "text": "Con: They're all lame-ass\nteacher's pets."
+          },
+          {
+            "index": 741,
+            "start": 2210.875,
+            "end": 2212.252,
+            "text": "You know, I can hear you."
+          },
+          {
+            "index": 742,
+            "start": 2212.419,
+            "end": 2215.422,
+            "text": "I wasn't talking to you.\nI was talking to them."
+          },
+          {
+            "index": 743,
+            "start": 2215.588,
+            "end": 2217.298,
+            "text": "Stay right here."
+          },
+          {
+            "index": 744,
+            "start": 2217.716,
+            "end": 2219.759,
+            "text": "COLOSSUS: You've been\nwarned before, Deadpool."
+          },
+          {
+            "index": 745,
+            "start": 2220.093,
+            "end": 2223.596,
+            "text": "This is a shameful and\nreckless use of your powers."
+          },
+          {
+            "index": 746,
+            "start": 2223.763,
+            "end": 2225.807,
+            "text": "You will both\nbe coming with us."
+          },
+          {
+            "index": 747,
+            "start": 2225.974,
+            "end": 2227.767,
+            "text": "WADE: Look, Colossus,\nI don't have time for"
+          },
+          {
+            "index": 748,
+            "start": 2227.809,
+            "end": 2229.769,
+            "text": "the goody two-shoes\nbullshit right now!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 2207.3426743164064,
+        "topCueIndex": -1,
+        "bottomCueIndex": 738
+      }
     }
   ]
 }
