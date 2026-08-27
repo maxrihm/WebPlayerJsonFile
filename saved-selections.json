@@ -94651,6 +94651,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 684
       }
+    },
+    {
+      "id": "1e45a007-20d3-4552-9368-c15728b5568e",
+      "createdAt": "2026-08-27T01:00:41.337Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "sticking up for",
+      "selection": {
+        "rawText": "sticking up\nfor",
+        "startOffset": 0,
+        "endOffset": 15,
+        "cueIndex": 692,
+        "cueStart": 2032.28,
+        "cueEnd": 2034.241,
+        "cueText": "sticking up\nfor the little people..."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 682,
+            "start": 2008.089,
+            "end": 2009.09,
+            "text": "Stalker alert."
+          },
+          {
+            "index": 683,
+            "start": 2009.257,
+            "end": 2011.426,
+            "text": "It's my job. Recruitment."
+          },
+          {
+            "index": 684,
+            "start": 2012.219,
+            "end": 2014.596,
+            "text": "I'm sorry you've had\nsuch a tough go."
+          },
+          {
+            "index": 685,
+            "start": 2015.722,
+            "end": 2017.891,
+            "text": "But you're a fighter.\nSpecial Forces."
+          },
+          {
+            "index": 686,
+            "start": 2018.058,
+            "end": 2020.393,
+            "text": "41 confirmed kills."
+          },
+          {
+            "index": 687,
+            "start": 2020.936,
+            "end": 2022.229,
+            "text": "One every seven weeks."
+          },
+          {
+            "index": 688,
+            "start": 2022.395,
+            "end": 2024.731,
+            "text": "Same rate most folks\nget a haircut. Hmm..."
+          },
+          {
+            "index": 689,
+            "start": 2025.44,
+            "end": 2026.733,
+            "text": "It's to wash the taste out."
+          },
+          {
+            "index": 690,
+            "start": 2027.025,
+            "end": 2030.07,
+            "text": "It's tough to forget\nbeing so impressive."
+          },
+          {
+            "index": 691,
+            "start": 2030.237,
+            "end": 2032.239,
+            "text": "And now you spend your days"
+          },
+          {
+            "index": 692,
+            "start": 2032.28,
+            "end": 2034.241,
+            "text": "sticking up\nfor the little people..."
+          },
+          {
+            "index": 693,
+            "start": 2034.407,
+            "end": 2035.909,
+            "text": "People change.\nWhat do you want?"
+          },
+          {
+            "index": 694,
+            "start": 2036.284,
+            "end": 2039.371,
+            "text": "I represent an organization\nthat may be able to help."
+          },
+          {
+            "index": 695,
+            "start": 2041.289,
+            "end": 2044.96,
+            "text": "What if I told you\nwe can cure your cancer?"
+          },
+          {
+            "index": 696,
+            "start": 2045.585,
+            "end": 2047.045,
+            "text": "And what's more, give you"
+          },
+          {
+            "index": 697,
+            "start": 2047.087,
+            "end": 2049.714,
+            "text": "abilities most men\nonly dream of?"
+          },
+          {
+            "index": 698,
+            "start": 2053.385,
+            "end": 2055.22,
+            "text": "I'd say that you sound\nlike an infomercial,"
+          },
+          {
+            "index": 699,
+            "start": 2055.262,
+            "end": 2057.305,
+            "text": "but not a good one,\nlike Slap Chop."
+          },
+          {
+            "index": 700,
+            "start": 2057.472,
+            "end": 2058.974,
+            "text": "More Shake Weight-y."
+          },
+          {
+            "index": 701,
+            "start": 2059.14,
+            "end": 2062.06,
+            "text": "The world needs\nextraordinary soldiers."
+          },
+          {
+            "index": 702,
+            "start": 2062.227,
+            "end": 2064.271,
+            "text": "We won't just make you better."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 2035.9083833007812,
+        "topCueIndex": -1,
+        "bottomCueIndex": 692
+      }
     }
   ]
 }
