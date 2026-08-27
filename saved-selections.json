@@ -93886,6 +93886,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 610
       }
+    },
+    {
+      "id": "bf2db1a6-1a1d-49a2-b02d-a51f99ecce61",
+      "createdAt": "2026-08-27T00:48:27.034Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "if I had a nickel for",
+      "selection": {
+        "rawText": "if I had a nickel\nfor",
+        "startOffset": 5,
+        "endOffset": 26,
+        "cueIndex": 615,
+        "cueStart": 1828.91,
+        "cueEnd": 1831.33,
+        "cueText": "God, if I had a nickel\nfor every time"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 605,
+            "start": 1808.223,
+            "end": 1810.183,
+            "text": "Well, maybe not the most."
+          },
+          {
+            "index": 606,
+            "start": 1810.684,
+            "end": 1814.479,
+            "text": "WADE: Uh... This is my most\nprized possession."
+          },
+          {
+            "index": 607,
+            "start": 1815.022,
+            "end": 1816.023,
+            "text": "VANESSA: Wham?"
+          },
+          {
+            "index": 608,
+            "start": 1816.148,
+            "end": 1817.983,
+            "text": "No, no, no. Wham!"
+          },
+          {
+            "index": 609,
+            "start": 1818.525,
+            "end": 1820.485,
+            "text": "Make It Big is the album\nthat George and Andy"
+          },
+          {
+            "index": 610,
+            "start": 1820.527,
+            "end": 1821.987,
+            "text": "earned the exclamation point."
+          },
+          {
+            "index": 611,
+            "start": 1823.03,
+            "end": 1824.531,
+            "text": "So, am I supposed\nto just smile"
+          },
+          {
+            "index": 612,
+            "start": 1824.656,
+            "end": 1825.824,
+            "text": "and wave you out the door?"
+          },
+          {
+            "index": 613,
+            "start": 1825.991,
+            "end": 1827.409,
+            "text": "Think of it like\nspring cleaning."
+          },
+          {
+            "index": 614,
+            "start": 1827.576,
+            "end": 1828.744,
+            "text": "Only if spring was death."
+          },
+          {
+            "index": 615,
+            "start": 1828.91,
+            "end": 1831.33,
+            "text": "God, if I had a nickel\nfor every time"
+          },
+          {
+            "index": 616,
+            "start": 1831.371,
+            "end": 1832.873,
+            "text": "I spanked it to\nBernadette Peters."
+          },
+          {
+            "index": 617,
+            "start": 1833.874,
+            "end": 1835.375,
+            "text": "-Sounds like you do.\n-(coins jingling)"
+          },
+          {
+            "index": 618,
+            "start": 1836.209,
+            "end": 1838.045,
+            "text": "Bernadette is not\ngoing anywhere,"
+          },
+          {
+            "index": 619,
+            "start": 1838.086,
+            "end": 1840.047,
+            "text": "because you're not\ngoing anywhere."
+          },
+          {
+            "index": 620,
+            "start": 1840.088,
+            "end": 1841.089,
+            "text": "Drink."
+          },
+          {
+            "index": 621,
+            "start": 1841.381,
+            "end": 1842.674,
+            "text": "You're right.\nCancer is only in my liver,"
+          },
+          {
+            "index": 622,
+            "start": 1842.716,
+            "end": 1844.051,
+            "text": "lungs, prostate, and brain."
+          },
+          {
+            "index": 623,
+            "start": 1844.217,
+            "end": 1845.344,
+            "text": "All things I can live without."
+          },
+          {
+            "index": 624,
+            "start": 1846.553,
+            "end": 1847.554,
+            "text": "Ha."
+          },
+          {
+            "index": 625,
+            "start": 1847.679,
+            "end": 1849.556,
+            "text": "You belong here at home."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1833.407116455078,
+        "topCueIndex": -1,
+        "bottomCueIndex": 615
+      }
     }
   ]
 }
