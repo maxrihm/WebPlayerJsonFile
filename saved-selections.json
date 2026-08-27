@@ -98629,6 +98629,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 888
       }
+    },
+    {
+      "id": "955c4437-a610-46ae-b890-a7329a69203c",
+      "createdAt": "2026-08-27T01:27:54.585Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "manifest",
+      "selection": {
+        "rawText": "manifest",
+        "startOffset": 4,
+        "endOffset": 12,
+        "cueIndex": 929,
+        "cueStart": 2704.577,
+        "cueEnd": 2707.371,
+        "cueText": "and manifest in\na spectacular fashion."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 919,
+            "start": 2679.01,
+            "end": 2680.386,
+            "text": "I suppose we will."
+          },
+          {
+            "index": 920,
+            "start": 2681.721,
+            "end": 2683.139,
+            "text": "He's all yours."
+          },
+          {
+            "index": 921,
+            "start": 2683.306,
+            "end": 2684.557,
+            "text": "Oh, come on."
+          },
+          {
+            "index": 922,
+            "start": 2685.057,
+            "end": 2686.434,
+            "text": "You're gonna\nleave me all alone here"
+          },
+          {
+            "index": 923,
+            "start": 2686.517,
+            "end": 2688.144,
+            "text": "with less-angry\nRosie O'Donnell?"
+          },
+          {
+            "index": 924,
+            "start": 2688.686,
+            "end": 2689.729,
+            "text": "(groans)"
+          },
+          {
+            "index": 925,
+            "start": 2692.565,
+            "end": 2694.483,
+            "text": "FRANCIS: This is how\nit's going to work."
+          },
+          {
+            "index": 926,
+            "start": 2694.65,
+            "end": 2697.653,
+            "text": "Adrenaline acts as a catalyst\nfor the serum..."
+          },
+          {
+            "index": 927,
+            "start": 2698.279,
+            "end": 2700.781,
+            "text": "so we're going\nto have to make you suffer."
+          },
+          {
+            "index": 928,
+            "start": 2702.533,
+            "end": 2704.493,
+            "text": "FRANCIS: If you're lucky,\nthe mutant genes will activate"
+          },
+          {
+            "index": 929,
+            "start": 2704.577,
+            "end": 2707.371,
+            "text": "and manifest in\na spectacular fashion."
+          },
+          {
+            "index": 930,
+            "start": 2708.456,
+            "end": 2709.457,
+            "text": "(gasps)"
+          },
+          {
+            "index": 931,
+            "start": 2711.667,
+            "end": 2714.503,
+            "text": "FRANCIS: If not, well, we'll\nhave to keep on hurting you..."
+          },
+          {
+            "index": 932,
+            "start": 2714.587,
+            "end": 2716.255,
+            "text": "(Wade shivering)"
+          },
+          {
+            "index": 933,
+            "start": 2716.339,
+            "end": 2717.548,
+            "text": "in new and different ways,"
+          },
+          {
+            "index": 934,
+            "start": 2717.632,
+            "end": 2719.05,
+            "text": "each more painful\nthan the last..."
+          },
+          {
+            "index": 935,
+            "start": 2721.719,
+            "end": 2724.096,
+            "text": "until you finally mutate."
+          },
+          {
+            "index": 936,
+            "start": 2725.681,
+            "end": 2726.933,
+            "text": "Or die."
+          },
+          {
+            "index": 937,
+            "start": 2733.773,
+            "end": 2735.274,
+            "text": "CUNNINGHAM: You mean\na bucket list?"
+          },
+          {
+            "index": 938,
+            "start": 2735.441,
+            "end": 2737.568,
+            "text": "WADE: Like a fuck-it list."
+          },
+          {
+            "index": 939,
+            "start": 2737.735,
+            "end": 2738.986,
+            "text": "I'd really like\nto light a spliff"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 2714.676348388672,
+        "topCueIndex": -1,
+        "bottomCueIndex": 929
+      }
     }
   ]
 }
