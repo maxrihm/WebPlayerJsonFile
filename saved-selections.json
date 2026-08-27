@@ -94192,6 +94192,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 650
       }
+    },
+    {
+      "id": "a9bd59bc-a57d-48bd-8cc6-c483ec62386b",
+      "createdAt": "2026-08-27T00:54:55.815Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "courtesy calls for",
+      "selection": {
+        "rawText": "courtesy calls\nfor",
+        "startOffset": 7,
+        "endOffset": 25,
+        "cueIndex": 650,
+        "cueStart": 1932.305,
+        "cueEnd": 1934.307,
+        "cueText": "Though courtesy calls\nfor the latter first."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 640,
+            "start": 1895.31,
+            "end": 1896.728,
+            "text": "We can fight this."
+          },
+          {
+            "index": 641,
+            "start": 1899.898,
+            "end": 1902.067,
+            "text": "Besides,\nI just realized something."
+          },
+          {
+            "index": 642,
+            "start": 1902.901,
+            "end": 1905.278,
+            "text": "You win.\nYour life is officially"
+          },
+          {
+            "index": 643,
+            "start": 1905.32,
+            "end": 1907.989,
+            "text": "way more fucked up than mine."
+          },
+          {
+            "index": 644,
+            "start": 1909.324,
+            "end": 1911.451,
+            "text": "(Wade chuckles)"
+          },
+          {
+            "index": 645,
+            "start": 1912.452,
+            "end": 1913.453,
+            "text": "I love you."
+          },
+          {
+            "index": 646,
+            "start": 1918.125,
+            "end": 1919.292,
+            "text": "(music playing)"
+          },
+          {
+            "index": 647,
+            "start": 1925.132,
+            "end": 1926.258,
+            "text": "Wade."
+          },
+          {
+            "index": 648,
+            "start": 1928.468,
+            "end": 1929.511,
+            "text": "Weas."
+          },
+          {
+            "index": 649,
+            "start": 1929.678,
+            "end": 1932.139,
+            "text": "You look like you need\na Blow Job and a shower."
+          },
+          {
+            "index": 650,
+            "start": 1932.305,
+            "end": 1934.307,
+            "text": "Though courtesy calls\nfor the latter first."
+          },
+          {
+            "index": 651,
+            "start": 1934.474,
+            "end": 1935.976,
+            "text": "How about three shots\nof Patrón?"
+          },
+          {
+            "index": 652,
+            "start": 1936.143,
+            "end": 1939.813,
+            "text": "Or how about\nTriticum aestivum, wheatgrass."
+          },
+          {
+            "index": 653,
+            "start": 1939.98,
+            "end": 1941.189,
+            "text": "Excellent for\nthe immune system."
+          },
+          {
+            "index": 654,
+            "start": 1941.356,
+            "end": 1943.316,
+            "text": "Jesus Christ.\nYou sound like Vanessa."
+          },
+          {
+            "index": 655,
+            "start": 1943.483,
+            "end": 1944.526,
+            "text": "Here, check it out."
+          },
+          {
+            "index": 656,
+            "start": 1944.693,
+            "end": 1945.986,
+            "text": "She's sending away\nfor all these"
+          },
+          {
+            "index": 657,
+            "start": 1946.027,
+            "end": 1948.029,
+            "text": "colorful clinic brochures."
+          },
+          {
+            "index": 658,
+            "start": 1948.196,
+            "end": 1949.99,
+            "text": "I'm sure they're\nall FDA approved."
+          },
+          {
+            "index": 659,
+            "start": 1950.449,
+            "end": 1953.285,
+            "text": "Chechnya. Isn't that where\nyou go to get cancer?"
+          },
+          {
+            "index": 660,
+            "start": 1953.452,
+            "end": 1956.163,
+            "text": "You got China\nand Central Mexico."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1934.52098828125,
+        "topCueIndex": -1,
+        "bottomCueIndex": 650
+      }
     }
   ]
 }
