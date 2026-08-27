@@ -94345,6 +94345,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 650
       }
+    },
+    {
+      "id": "5c17de55-f9fa-4ccb-afb6-5841fca07d94",
+      "createdAt": "2026-08-27T00:56:39.805Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "Put it up,",
+      "selection": {
+        "rawText": "Put it up,",
+        "startOffset": 21,
+        "endOffset": 31,
+        "cueIndex": 666,
+        "cueStart": 1966.173,
+        "cueEnd": 1967.716,
+        "cueText": "Mind if I keep this?\nPut it up,"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 656,
+            "start": 1944.693,
+            "end": 1945.986,
+            "text": "She's sending away\nfor all these"
+          },
+          {
+            "index": 657,
+            "start": 1946.027,
+            "end": 1948.029,
+            "text": "colorful clinic brochures."
+          },
+          {
+            "index": 658,
+            "start": 1948.196,
+            "end": 1949.99,
+            "text": "I'm sure they're\nall FDA approved."
+          },
+          {
+            "index": 659,
+            "start": 1950.449,
+            "end": 1953.285,
+            "text": "Chechnya. Isn't that where\nyou go to get cancer?"
+          },
+          {
+            "index": 660,
+            "start": 1953.452,
+            "end": 1956.163,
+            "text": "You got China\nand Central Mexico."
+          },
+          {
+            "index": 661,
+            "start": 1956.663,
+            "end": 1958.79,
+            "text": "You know how they\nsay \"cancer\" in Spanish?"
+          },
+          {
+            "index": 662,
+            "start": 1958.957,
+            "end": 1960,
+            "text": "No."
+          },
+          {
+            "index": 663,
+            "start": 1960.667,
+            "end": 1962.21,
+            "text": "-El Cáncer.\n-Oh."
+          },
+          {
+            "index": 664,
+            "start": 1962.377,
+            "end": 1964.212,
+            "text": "I could have guessed that."
+          },
+          {
+            "index": 665,
+            "start": 1964.629,
+            "end": 1966.006,
+            "text": "Look how happy you look here."
+          },
+          {
+            "index": 666,
+            "start": 1966.173,
+            "end": 1967.716,
+            "text": "Mind if I keep this?\nPut it up,"
+          },
+          {
+            "index": 667,
+            "start": 1967.841,
+            "end": 1970.177,
+            "text": "so I can remember\nwhen you looked alive."
+          },
+          {
+            "index": 668,
+            "start": 1970.677,
+            "end": 1972.512,
+            "text": "At least now I'm gonna\nwin the dead pool."
+          },
+          {
+            "index": 669,
+            "start": 1972.679,
+            "end": 1975.307,
+            "text": "Now that you're gonna die\ntragically of cancer."
+          },
+          {
+            "index": 670,
+            "start": 1975.474,
+            "end": 1977.851,
+            "text": "-I got it, Weas. Thanks.\n-Oh."
+          },
+          {
+            "index": 671,
+            "start": 1979.853,
+            "end": 1982.355,
+            "text": "And, uh, that guy over there\ncame in looking for you."
+          },
+          {
+            "index": 672,
+            "start": 1982.522,
+            "end": 1985.317,
+            "text": "Real Grim Reaper type."
+          },
+          {
+            "index": 673,
+            "start": 1985.484,
+            "end": 1987.402,
+            "text": "I don't know.\nMight further the plot."
+          },
+          {
+            "index": 674,
+            "start": 1991.406,
+            "end": 1992.407,
+            "text": "Boothe."
+          },
+          {
+            "index": 675,
+            "start": 1992.532,
+            "end": 1993.658,
+            "text": "Wade."
+          },
+          {
+            "index": 676,
+            "start": 1997.412,
+            "end": 1998.413,
+            "text": "(Wade sighs)"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1969.7343913574218,
+        "topCueIndex": -1,
+        "bottomCueIndex": 666
+      }
     }
   ]
 }
