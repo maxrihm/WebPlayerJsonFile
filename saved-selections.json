@@ -93427,6 +93427,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 603
       }
+    },
+    {
+      "id": "b4adb87c-9bbe-44cc-b5c4-4bc5aa279a76",
+      "createdAt": "2026-08-27T00:46:12.465Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "prized",
+      "selection": {
+        "rawText": "prized",
+        "startOffset": 28,
+        "endOffset": 34,
+        "cueIndex": 606,
+        "cueStart": 1810.684,
+        "cueEnd": 1814.479,
+        "cueText": "WADE: Uh... This is my most\nprized possession."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 596,
+            "start": 1784.283,
+            "end": 1785.492,
+            "text": "Apparently,\nI made you immortal."
+          },
+          {
+            "index": 597,
+            "start": 1785.826,
+            "end": 1787.327,
+            "text": "I'm actually quite jealous."
+          },
+          {
+            "index": 598,
+            "start": 1787.494,
+            "end": 1789.788,
+            "text": "Yeah, but this ain't\na life worth living, is it?"
+          },
+          {
+            "index": 599,
+            "start": 1791.832,
+            "end": 1793.542,
+            "text": "Now, I'm about to do to you"
+          },
+          {
+            "index": 600,
+            "start": 1793.667,
+            "end": 1796.003,
+            "text": "what Limp Bizkit did\nto music in the late 90s."
+          },
+          {
+            "index": 601,
+            "start": 1796.044,
+            "end": 1797.129,
+            "text": "(metal clanks)"
+          },
+          {
+            "index": 602,
+            "start": 1798.171,
+            "end": 1799.172,
+            "text": "Dad?"
+          },
+          {
+            "index": 603,
+            "start": 1802.801,
+            "end": 1805.304,
+            "text": "WADE: I think we can all agree\nthat shit just went sideways"
+          },
+          {
+            "index": 604,
+            "start": 1805.345,
+            "end": 1807.18,
+            "text": "in the most colossal way."
+          },
+          {
+            "index": 605,
+            "start": 1808.223,
+            "end": 1810.183,
+            "text": "Well, maybe not the most."
+          },
+          {
+            "index": 606,
+            "start": 1810.684,
+            "end": 1814.479,
+            "text": "WADE: Uh... This is my most\nprized possession."
+          },
+          {
+            "index": 607,
+            "start": 1815.022,
+            "end": 1816.023,
+            "text": "VANESSA: Wham?"
+          },
+          {
+            "index": 608,
+            "start": 1816.148,
+            "end": 1817.983,
+            "text": "No, no, no. Wham!"
+          },
+          {
+            "index": 609,
+            "start": 1818.525,
+            "end": 1820.485,
+            "text": "Make It Big is the album\nthat George and Andy"
+          },
+          {
+            "index": 610,
+            "start": 1820.527,
+            "end": 1821.987,
+            "text": "earned the exclamation point."
+          },
+          {
+            "index": 611,
+            "start": 1823.03,
+            "end": 1824.531,
+            "text": "So, am I supposed\nto just smile"
+          },
+          {
+            "index": 612,
+            "start": 1824.656,
+            "end": 1825.824,
+            "text": "and wave you out the door?"
+          },
+          {
+            "index": 613,
+            "start": 1825.991,
+            "end": 1827.409,
+            "text": "Think of it like\nspring cleaning."
+          },
+          {
+            "index": 614,
+            "start": 1827.576,
+            "end": 1828.744,
+            "text": "Only if spring was death."
+          },
+          {
+            "index": 615,
+            "start": 1828.91,
+            "end": 1831.33,
+            "text": "God, if I had a nickel\nfor every time"
+          },
+          {
+            "index": 616,
+            "start": 1831.371,
+            "end": 1832.873,
+            "text": "I spanked it to\nBernadette Peters."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1818.0048474121095,
+        "topCueIndex": -1,
+        "bottomCueIndex": 606
+      }
     }
   ]
 }
