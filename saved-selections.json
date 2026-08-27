@@ -96946,6 +96946,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 767
       }
+    },
+    {
+      "id": "97f25088-4ab9-49ec-88a4-5627cff8e0cf",
+      "createdAt": "2026-08-27T01:13:49.376Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "has it coming.",
+      "selection": {
+        "rawText": "has it coming.",
+        "startOffset": 41,
+        "endOffset": 55,
+        "cueIndex": 773,
+        "cueStart": 2285.992,
+        "cueEnd": 2290.33,
+        "cueText": "Trust me, that wheezing bag\nof dick-tips has it coming."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 763,
+            "start": 2261.634,
+            "end": 2263.678,
+            "text": "I'm all about\nlong sullen silences..."
+          },
+          {
+            "index": 764,
+            "start": 2263.845,
+            "end": 2267.307,
+            "text": "followed by mean comments,\nfollowed by more silences."
+          },
+          {
+            "index": 765,
+            "start": 2267.766,
+            "end": 2270.977,
+            "text": "So what's it gonna be, huh?\nLong sullen silence..."
+          },
+          {
+            "index": 766,
+            "start": 2271.144,
+            "end": 2273.688,
+            "text": "or mean comment? Go on."
+          },
+          {
+            "index": 767,
+            "start": 2274.981,
+            "end": 2277.192,
+            "text": "-You got me in a box here.\n-Aha!"
+          },
+          {
+            "index": 768,
+            "start": 2277.317,
+            "end": 2279.152,
+            "text": "We can't allow this, Deadpool."
+          },
+          {
+            "index": 769,
+            "start": 2279.319,
+            "end": 2280.653,
+            "text": "Please, come quietly."
+          },
+          {
+            "index": 770,
+            "start": 2280.82,
+            "end": 2282.989,
+            "text": "You big chrome cock-gobbler!"
+          },
+          {
+            "index": 771,
+            "start": 2283.114,
+            "end": 2284.115,
+            "text": "COLOSSUS: That's not nice."
+          },
+          {
+            "index": 772,
+            "start": 2284.157,
+            "end": 2285.658,
+            "text": "You're really gonna\nfuck this up for me?"
+          },
+          {
+            "index": 773,
+            "start": 2285.992,
+            "end": 2290.33,
+            "text": "Trust me, that wheezing bag\nof dick-tips has it coming."
+          },
+          {
+            "index": 774,
+            "start": 2290.497,
+            "end": 2292.999,
+            "text": "He's pure evil."
+          },
+          {
+            "index": 775,
+            "start": 2293.374,
+            "end": 2296.669,
+            "text": "Besides...\nNobody's getting hurt."
+          },
+          {
+            "index": 776,
+            "start": 2298.296,
+            "end": 2299.297,
+            "text": "(thuds)"
+          },
+          {
+            "index": 777,
+            "start": 2302.008,
+            "end": 2304.177,
+            "text": "That guy was already up there\nwhen I got here."
+          },
+          {
+            "index": 778,
+            "start": 2304.344,
+            "end": 2307.347,
+            "text": "Wade, you are\nbetter than this."
+          },
+          {
+            "index": 779,
+            "start": 2307.514,
+            "end": 2309.516,
+            "text": "Join us.\nUse your powers for good."
+          },
+          {
+            "index": 780,
+            "start": 2309.641,
+            "end": 2310.892,
+            "text": "WADE: Heads up."
+          },
+          {
+            "index": 781,
+            "start": 2311.059,
+            "end": 2312.352,
+            "text": "Be a superhero."
+          },
+          {
+            "index": 782,
+            "start": 2312.393,
+            "end": 2313.394,
+            "text": "WADE: Listen!"
+          },
+          {
+            "index": 783,
+            "start": 2313.52,
+            "end": 2314.521,
+            "text": "The day I decide to become"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 2290.0597934570314,
+        "topCueIndex": -1,
+        "bottomCueIndex": 773
+      }
     }
   ]
 }
