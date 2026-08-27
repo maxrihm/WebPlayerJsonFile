@@ -94957,6 +94957,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 698
       }
+    },
+    {
+      "id": "2e997803-1015-478c-bdbe-a305034f0841",
+      "createdAt": "2026-08-27T01:02:19.316Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "left a mark.",
+      "selection": {
+        "rawText": "left a mark.",
+        "startOffset": 33,
+        "endOffset": 45,
+        "cueIndex": 706,
+        "cueStart": 2072.946,
+        "cueEnd": 2074.99,
+        "cueText": "I tried the hero business\nand it left a mark."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 696,
+            "start": 2045.585,
+            "end": 2047.045,
+            "text": "And what's more, give you"
+          },
+          {
+            "index": 697,
+            "start": 2047.087,
+            "end": 2049.714,
+            "text": "abilities most men\nonly dream of?"
+          },
+          {
+            "index": 698,
+            "start": 2053.385,
+            "end": 2055.22,
+            "text": "I'd say that you sound\nlike an infomercial,"
+          },
+          {
+            "index": 699,
+            "start": 2055.262,
+            "end": 2057.305,
+            "text": "but not a good one,\nlike Slap Chop."
+          },
+          {
+            "index": 700,
+            "start": 2057.472,
+            "end": 2058.974,
+            "text": "More Shake Weight-y."
+          },
+          {
+            "index": 701,
+            "start": 2059.14,
+            "end": 2062.06,
+            "text": "The world needs\nextraordinary soldiers."
+          },
+          {
+            "index": 702,
+            "start": 2062.227,
+            "end": 2064.271,
+            "text": "We won't just make you better."
+          },
+          {
+            "index": 703,
+            "start": 2064.437,
+            "end": 2067.399,
+            "text": "We will make you\nbetter than better."
+          },
+          {
+            "index": 704,
+            "start": 2068.441,
+            "end": 2069.651,
+            "text": "A superhero."
+          },
+          {
+            "index": 705,
+            "start": 2069.985,
+            "end": 2072.821,
+            "text": "Look, Agent Smith,"
+          },
+          {
+            "index": 706,
+            "start": 2072.946,
+            "end": 2074.99,
+            "text": "I tried the hero business\nand it left a mark."
+          },
+          {
+            "index": 707,
+            "start": 2075.448,
+            "end": 2078.118,
+            "text": "But if I ever hit \"fuck it,\"\nI'll look you up."
+          },
+          {
+            "index": 708,
+            "start": 2078.785,
+            "end": 2079.995,
+            "text": "Oh, um..."
+          },
+          {
+            "index": 709,
+            "start": 2080.495,
+            "end": 2082.08,
+            "text": "Shit. We're within 500 yards\nof a school,"
+          },
+          {
+            "index": 710,
+            "start": 2082.122,
+            "end": 2083.331,
+            "text": "so you may wanna..."
+          },
+          {
+            "index": 711,
+            "start": 2088.336,
+            "end": 2089.588,
+            "text": "His drink's on him."
+          },
+          {
+            "index": 712,
+            "start": 2095.26,
+            "end": 2096.97,
+            "text": "WEASEL: What did he say?"
+          },
+          {
+            "index": 713,
+            "start": 2097.095,
+            "end": 2098.305,
+            "text": "(thunderclap)"
+          },
+          {
+            "index": 714,
+            "start": 2099.347,
+            "end": 2101.641,
+            "text": "(siren wailing in distance)"
+          },
+          {
+            "index": 715,
+            "start": 2107.647,
+            "end": 2108.982,
+            "text": "(sniffles)"
+          },
+          {
+            "index": 716,
+            "start": 2119.659,
+            "end": 2121.202,
+            "text": "VANESSA: Hey, what's going on?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 2075.8452802734373,
+        "topCueIndex": -1,
+        "bottomCueIndex": 706
+      }
     }
   ]
 }
