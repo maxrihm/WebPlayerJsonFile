@@ -95875,6 +95875,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 745
       }
+    },
+    {
+      "id": "d5b9487e-0ccf-4f84-8153-74b29b033af2",
+      "createdAt": "2026-08-27T01:08:52.666Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "goody two-shoes",
+      "selection": {
+        "rawText": "goody two-shoes",
+        "startOffset": 4,
+        "endOffset": 19,
+        "cueIndex": 748,
+        "cueStart": 2227.809,
+        "cueEnd": 2229.769,
+        "cueText": "the goody two-shoes\nbullshit right now!"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 738,
+            "start": 2203.368,
+            "end": 2205.078,
+            "text": "Lucrative film deals,\nboth origin stories"
+          },
+          {
+            "index": 739,
+            "start": 2205.203,
+            "end": 2207.288,
+            "text": "and larger ensemble\nteam movies."
+          },
+          {
+            "index": 740,
+            "start": 2207.414,
+            "end": 2210.458,
+            "text": "Con: They're all lame-ass\nteacher's pets."
+          },
+          {
+            "index": 741,
+            "start": 2210.875,
+            "end": 2212.252,
+            "text": "You know, I can hear you."
+          },
+          {
+            "index": 742,
+            "start": 2212.419,
+            "end": 2215.422,
+            "text": "I wasn't talking to you.\nI was talking to them."
+          },
+          {
+            "index": 743,
+            "start": 2215.588,
+            "end": 2217.298,
+            "text": "Stay right here."
+          },
+          {
+            "index": 744,
+            "start": 2217.716,
+            "end": 2219.759,
+            "text": "COLOSSUS: You've been\nwarned before, Deadpool."
+          },
+          {
+            "index": 745,
+            "start": 2220.093,
+            "end": 2223.596,
+            "text": "This is a shameful and\nreckless use of your powers."
+          },
+          {
+            "index": 746,
+            "start": 2223.763,
+            "end": 2225.807,
+            "text": "You will both\nbe coming with us."
+          },
+          {
+            "index": 747,
+            "start": 2225.974,
+            "end": 2227.767,
+            "text": "WADE: Look, Colossus,\nI don't have time for"
+          },
+          {
+            "index": 748,
+            "start": 2227.809,
+            "end": 2229.769,
+            "text": "the goody two-shoes\nbullshit right now!"
+          },
+          {
+            "index": 749,
+            "start": 2229.936,
+            "end": 2231.771,
+            "text": "And you are?"
+          },
+          {
+            "index": 750,
+            "start": 2233.44,
+            "end": 2235.108,
+            "text": "Negasonic Teenage Warhead."
+          },
+          {
+            "index": 751,
+            "start": 2235.275,
+            "end": 2238.611,
+            "text": "Negasonic Teenage...\nWhat the shit?"
+          },
+          {
+            "index": 752,
+            "start": 2238.778,
+            "end": 2240.572,
+            "text": "That's the coolest name ever!"
+          },
+          {
+            "index": 753,
+            "start": 2242.115,
+            "end": 2244.617,
+            "text": "So, what, you're like, uh,\nhis sidekick?"
+          },
+          {
+            "index": 754,
+            "start": 2244.784,
+            "end": 2246.119,
+            "text": "No. Trainee."
+          },
+          {
+            "index": 755,
+            "start": 2246.286,
+            "end": 2247.62,
+            "text": "Let me guess."
+          },
+          {
+            "index": 756,
+            "start": 2247.787,
+            "end": 2250.165,
+            "text": "X-Men left you behind on what?\nShit detail?"
+          },
+          {
+            "index": 757,
+            "start": 2250.331,
+            "end": 2251.332,
+            "text": "What does that make you?"
+          },
+          {
+            "index": 758,
+            "start": 2251.499,
+            "end": 2253.793,
+            "text": "Pretending you're not here,\nNegasonic Teenage Warhead."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 2229.6921274414062,
+        "topCueIndex": -1,
+        "bottomCueIndex": 748
+      }
     }
   ]
 }
