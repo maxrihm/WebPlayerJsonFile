@@ -94804,6 +94804,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 692
       }
+    },
+    {
+      "id": "c2e42266-aeb8-45a9-b03b-1dee16d157b1",
+      "createdAt": "2026-08-27T01:01:09.836Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "infomercial,",
+      "selection": {
+        "rawText": "infomercial,",
+        "startOffset": 31,
+        "endOffset": 43,
+        "cueIndex": 698,
+        "cueStart": 2053.385,
+        "cueEnd": 2055.22,
+        "cueText": "I'd say that you sound\nlike an infomercial,"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 688,
+            "start": 2022.395,
+            "end": 2024.731,
+            "text": "Same rate most folks\nget a haircut. Hmm..."
+          },
+          {
+            "index": 689,
+            "start": 2025.44,
+            "end": 2026.733,
+            "text": "It's to wash the taste out."
+          },
+          {
+            "index": 690,
+            "start": 2027.025,
+            "end": 2030.07,
+            "text": "It's tough to forget\nbeing so impressive."
+          },
+          {
+            "index": 691,
+            "start": 2030.237,
+            "end": 2032.239,
+            "text": "And now you spend your days"
+          },
+          {
+            "index": 692,
+            "start": 2032.28,
+            "end": 2034.241,
+            "text": "sticking up\nfor the little people..."
+          },
+          {
+            "index": 693,
+            "start": 2034.407,
+            "end": 2035.909,
+            "text": "People change.\nWhat do you want?"
+          },
+          {
+            "index": 694,
+            "start": 2036.284,
+            "end": 2039.371,
+            "text": "I represent an organization\nthat may be able to help."
+          },
+          {
+            "index": 695,
+            "start": 2041.289,
+            "end": 2044.96,
+            "text": "What if I told you\nwe can cure your cancer?"
+          },
+          {
+            "index": 696,
+            "start": 2045.585,
+            "end": 2047.045,
+            "text": "And what's more, give you"
+          },
+          {
+            "index": 697,
+            "start": 2047.087,
+            "end": 2049.714,
+            "text": "abilities most men\nonly dream of?"
+          },
+          {
+            "index": 698,
+            "start": 2053.385,
+            "end": 2055.22,
+            "text": "I'd say that you sound\nlike an infomercial,"
+          },
+          {
+            "index": 699,
+            "start": 2055.262,
+            "end": 2057.305,
+            "text": "but not a good one,\nlike Slap Chop."
+          },
+          {
+            "index": 700,
+            "start": 2057.472,
+            "end": 2058.974,
+            "text": "More Shake Weight-y."
+          },
+          {
+            "index": 701,
+            "start": 2059.14,
+            "end": 2062.06,
+            "text": "The world needs\nextraordinary soldiers."
+          },
+          {
+            "index": 702,
+            "start": 2062.227,
+            "end": 2064.271,
+            "text": "We won't just make you better."
+          },
+          {
+            "index": 703,
+            "start": 2064.437,
+            "end": 2067.399,
+            "text": "We will make you\nbetter than better."
+          },
+          {
+            "index": 704,
+            "start": 2068.441,
+            "end": 2069.651,
+            "text": "A superhero."
+          },
+          {
+            "index": 705,
+            "start": 2069.985,
+            "end": 2072.821,
+            "text": "Look, Agent Smith,"
+          },
+          {
+            "index": 706,
+            "start": 2072.946,
+            "end": 2074.99,
+            "text": "I tried the hero business\nand it left a mark."
+          },
+          {
+            "index": 707,
+            "start": 2075.448,
+            "end": 2078.118,
+            "text": "But if I ever hit \"fuck it,\"\nI'll look you up."
+          },
+          {
+            "index": 708,
+            "start": 2078.785,
+            "end": 2079.995,
+            "text": "Oh, um..."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 2055.5231442871095,
+        "topCueIndex": -1,
+        "bottomCueIndex": 698
+      }
     }
   ]
 }
