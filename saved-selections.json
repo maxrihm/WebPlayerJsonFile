@@ -98323,6 +98323,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 880
       }
+    },
+    {
+      "id": "a91f21ba-29fb-492e-acd7-d36b961716d6",
+      "createdAt": "2026-08-27T01:24:49.742Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "lurking",
+      "selection": {
+        "rawText": "lurking",
+        "startOffset": 17,
+        "endOffset": 24,
+        "cueIndex": 886,
+        "cueStart": 2593.966,
+        "cueEnd": 2596.135,
+        "cueText": "any mutant genes\nlurking in your DNA."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 876,
+            "start": 2570.526,
+            "end": 2572.487,
+            "text": "\"This may cause you\nsome discomfort.\""
+          },
+          {
+            "index": 877,
+            "start": 2572.653,
+            "end": 2574.822,
+            "text": "But I've grown blunt."
+          },
+          {
+            "index": 878,
+            "start": 2574.989,
+            "end": 2577.492,
+            "text": "This workshop is not\na government-led program."
+          },
+          {
+            "index": 879,
+            "start": 2577.658,
+            "end": 2579.118,
+            "text": "It's a private institution\nthat turns"
+          },
+          {
+            "index": 880,
+            "start": 2579.202,
+            "end": 2581.204,
+            "text": "reclamation projects\nlike yourself..."
+          },
+          {
+            "index": 881,
+            "start": 2581.37,
+            "end": 2584.707,
+            "text": "into men of\nextraordinary abilities."
+          },
+          {
+            "index": 882,
+            "start": 2586.334,
+            "end": 2587.71,
+            "text": "But if you think\nsuper-human powers"
+          },
+          {
+            "index": 883,
+            "start": 2587.794,
+            "end": 2589.629,
+            "text": "are acquired painlessly..."
+          },
+          {
+            "index": 884,
+            "start": 2590.505,
+            "end": 2591.881,
+            "text": "-Wrong.\n-(groans)"
+          },
+          {
+            "index": 885,
+            "start": 2592.006,
+            "end": 2593.883,
+            "text": "I'm injecting you with\na serum that activates"
+          },
+          {
+            "index": 886,
+            "start": 2593.966,
+            "end": 2596.135,
+            "text": "any mutant genes\nlurking in your DNA."
+          },
+          {
+            "index": 887,
+            "start": 2596.344,
+            "end": 2597.678,
+            "text": "For it to work"
+          },
+          {
+            "index": 888,
+            "start": 2597.762,
+            "end": 2600.306,
+            "text": "we need to subject you\nto extreme stress."
+          },
+          {
+            "index": 889,
+            "start": 2603.518,
+            "end": 2604.852,
+            "text": "(Wade groaning)"
+          },
+          {
+            "index": 890,
+            "start": 2605.728,
+            "end": 2606.813,
+            "text": "You've heard that whole"
+          },
+          {
+            "index": 891,
+            "start": 2606.896,
+            "end": 2609.023,
+            "text": "\"make an omelet,\nbreak some eggs\" bit, right?"
+          },
+          {
+            "index": 892,
+            "start": 2609.816,
+            "end": 2611.192,
+            "text": "I'm about to hurt you, Wade."
+          },
+          {
+            "index": 893,
+            "start": 2612.36,
+            "end": 2614.904,
+            "text": "I was a patient here once\nmyself, you know."
+          },
+          {
+            "index": 894,
+            "start": 2615.446,
+            "end": 2617.99,
+            "text": "The treatment affects\neveryone differently."
+          },
+          {
+            "index": 895,
+            "start": 2618.324,
+            "end": 2621.119,
+            "text": "It made Angel\ninhumanly strong."
+          },
+          {
+            "index": 896,
+            "start": 2621.494,
+            "end": 2625.498,
+            "text": "In my case,\nit enhanced my reflexes."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 2596.376462402344,
+        "topCueIndex": -1,
+        "bottomCueIndex": 886
+      }
     }
   ]
 }
