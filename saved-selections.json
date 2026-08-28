@@ -98935,6 +98935,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 929
       }
+    },
+    {
+      "id": "3076464d-f437-4840-9ef9-033119c2fec9",
+      "createdAt": "2026-08-28T21:57:57.976Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "bucket list",
+      "selection": {
+        "rawText": "bucket list",
+        "startOffset": 15,
+        "endOffset": 26,
+        "cueIndex": 944,
+        "cueStart": 2749.956,
+        "cueEnd": 2753.042,
+        "cueText": "Anything on my bucket list\nwould involve public nudity."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 934,
+            "start": 2717.632,
+            "end": 2719.05,
+            "text": "each more painful\nthan the last..."
+          },
+          {
+            "index": 935,
+            "start": 2721.719,
+            "end": 2724.096,
+            "text": "until you finally mutate."
+          },
+          {
+            "index": 936,
+            "start": 2725.681,
+            "end": 2726.933,
+            "text": "Or die."
+          },
+          {
+            "index": 937,
+            "start": 2733.773,
+            "end": 2735.274,
+            "text": "CUNNINGHAM: You mean\na bucket list?"
+          },
+          {
+            "index": 938,
+            "start": 2735.441,
+            "end": 2737.568,
+            "text": "WADE: Like a fuck-it list."
+          },
+          {
+            "index": 939,
+            "start": 2737.735,
+            "end": 2738.986,
+            "text": "I'd really like\nto light a spliff"
+          },
+          {
+            "index": 940,
+            "start": 2739.07,
+            "end": 2740.404,
+            "text": "off the Olympic torch."
+          },
+          {
+            "index": 941,
+            "start": 2740.988,
+            "end": 2742.782,
+            "text": "CUNNINGHAM: Pass it to me\nright after."
+          },
+          {
+            "index": 942,
+            "start": 2742.949,
+            "end": 2746.327,
+            "text": "Let's not forget naked\ntandem base-jumping"
+          },
+          {
+            "index": 943,
+            "start": 2746.41,
+            "end": 2748.871,
+            "text": "with the WNBA's\nSacramento Monarchs."
+          },
+          {
+            "index": 944,
+            "start": 2749.956,
+            "end": 2753.042,
+            "text": "Anything on my bucket list\nwould involve public nudity."
+          },
+          {
+            "index": 945,
+            "start": 2753.542,
+            "end": 2756.462,
+            "text": "Finally, giving Meredith\nBaxter-Birney a Dutch oven."
+          },
+          {
+            "index": 946,
+            "start": 2756.712,
+            "end": 2759.84,
+            "text": "No. Receiving a Dutch oven\nfrom Meredith Baxter-Birney."
+          },
+          {
+            "index": 947,
+            "start": 2760.466,
+            "end": 2761.759,
+            "text": "(laughs)"
+          },
+          {
+            "index": 948,
+            "start": 2764.512,
+            "end": 2767.974,
+            "text": "Making banana pancakes\nfor my kids."
+          },
+          {
+            "index": 949,
+            "start": 2771.394,
+            "end": 2773.437,
+            "text": "Vanessa."
+          },
+          {
+            "index": 950,
+            "start": 2776.941,
+            "end": 2779.193,
+            "text": "WADE: I wanna see Vanessa."
+          },
+          {
+            "index": 951,
+            "start": 2779.36,
+            "end": 2780.653,
+            "text": "FRANCIS: You're lovely."
+          },
+          {
+            "index": 952,
+            "start": 2780.82,
+            "end": 2784.115,
+            "text": "I don't know about anyone\nelse, but I'm touched."
+          },
+          {
+            "index": 953,
+            "start": 2784.282,
+            "end": 2785.283,
+            "text": "We were just joking."
+          },
+          {
+            "index": 954,
+            "start": 2785.449,
+            "end": 2787.743,
+            "text": "No, no. It's okay."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 2754.628453125,
+        "topCueIndex": -1,
+        "bottomCueIndex": 944
+      }
     }
   ]
 }
