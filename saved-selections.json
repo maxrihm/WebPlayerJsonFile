@@ -102913,6 +102913,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1442
       }
+    },
+    {
+      "id": "ab911c1f-ab69-49fb-ae7a-792e78175eb7",
+      "createdAt": "2026-08-28T23:06:30.732Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "solid.",
+      "selection": {
+        "rawText": "solid.",
+        "startOffset": 25,
+        "endOffset": 31,
+        "cueIndex": 1501,
+        "cueStart": 4718.088,
+        "cueEnd": 4719.673,
+        "cueText": "has agreed\nto do me this solid."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1491,
+            "start": 4690.728,
+            "end": 4693.564,
+            "text": "and I got an offer\nthat you can't refuse."
+          },
+          {
+            "index": 1492,
+            "start": 4696.233,
+            "end": 4697.318,
+            "text": "I'm gonna wait out here, okay?"
+          },
+          {
+            "index": 1493,
+            "start": 4697.401,
+            "end": 4698.402,
+            "text": "It's a big house."
+          },
+          {
+            "index": 1494,
+            "start": 4698.485,
+            "end": 4699.57,
+            "text": "It's funny that\nI only ever see two of you."
+          },
+          {
+            "index": 1495,
+            "start": 4699.612,
+            "end": 4702.907,
+            "text": "It's almost like the studio\ncouldn't afford another X-Man."
+          },
+          {
+            "index": 1496,
+            "start": 4706.41,
+            "end": 4707.828,
+            "text": "WADE: And that is why,\nin my opinion..."
+          },
+          {
+            "index": 1497,
+            "start": 4707.995,
+            "end": 4711.165,
+            "text": "the movie Cocoon\nis pure pornography."
+          },
+          {
+            "index": 1498,
+            "start": 4711.665,
+            "end": 4713.334,
+            "text": "Who brought this twinkly man?"
+          },
+          {
+            "index": 1499,
+            "start": 4713.5,
+            "end": 4715.461,
+            "text": "Twinkly, but deadly."
+          },
+          {
+            "index": 1500,
+            "start": 4715.628,
+            "end": 4718.005,
+            "text": "My chrome-penised\nfriend back there"
+          },
+          {
+            "index": 1501,
+            "start": 4718.088,
+            "end": 4719.673,
+            "text": "has agreed\nto do me this solid."
+          },
+          {
+            "index": 1502,
+            "start": 4720.257,
+            "end": 4722.134,
+            "text": "In exchange,\nI said that I would"
+          },
+          {
+            "index": 1503,
+            "start": 4722.259,
+            "end": 4724.136,
+            "text": "consider joining his boy band."
+          },
+          {
+            "index": 1504,
+            "start": 4724.303,
+            "end": 4725.471,
+            "text": "It's not boy band."
+          },
+          {
+            "index": 1505,
+            "start": 4725.638,
+            "end": 4726.68,
+            "text": "Sure it's not."
+          },
+          {
+            "index": 1506,
+            "start": 4727.431,
+            "end": 4729.683,
+            "text": "(sighs loudly) So,\nany luck winning Gita back?"
+          },
+          {
+            "index": 1507,
+            "start": 4730.476,
+            "end": 4732.811,
+            "text": "I tried to hold on tight,\nMr. Pool..."
+          },
+          {
+            "index": 1508,
+            "start": 4732.937,
+            "end": 4736.607,
+            "text": "but Bandhu is more craftier\nand handsomer than me."
+          },
+          {
+            "index": 1509,
+            "start": 4737.274,
+            "end": 4738.984,
+            "text": "Well, I think you're\npretty darn cute."
+          },
+          {
+            "index": 1510,
+            "start": 4741.111,
+            "end": 4742.279,
+            "text": "(man screams)"
+          },
+          {
+            "index": 1511,
+            "start": 4742.363,
+            "end": 4743.447,
+            "text": "(Punjabi music\nplaying on radio)"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 4722.696058837891,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1501
+      }
     }
   ]
 }
