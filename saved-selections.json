@@ -101842,6 +101842,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1221
       }
+    },
+    {
+      "id": "86bf254f-5c6b-445c-bffb-37273c76bb92",
+      "createdAt": "2026-08-28T22:32:56.411Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "Upside",
+      "selection": {
+        "rawText": "Upside",
+        "startOffset": 0,
+        "endOffset": 6,
+        "cueIndex": 1253,
+        "cueStart": 3932.637,
+        "cueEnd": 3935.557,
+        "cueText": "Upside of being blind:\nI've never seen you in Crocs."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1243,
+            "start": 3907.07,
+            "end": 3908.238,
+            "text": "(knocking on door)"
+          },
+          {
+            "index": 1244,
+            "start": 3912.7,
+            "end": 3913.868,
+            "text": "(knocking on door)"
+          },
+          {
+            "index": 1245,
+            "start": 3915.62,
+            "end": 3916.621,
+            "text": "(Al groans)"
+          },
+          {
+            "index": 1246,
+            "start": 3916.955,
+            "end": 3917.956,
+            "text": "WADE: Al?"
+          },
+          {
+            "index": 1247,
+            "start": 3920.375,
+            "end": 3921.626,
+            "text": "Morning, sleepyhead."
+          },
+          {
+            "index": 1248,
+            "start": 3921.876,
+            "end": 3922.877,
+            "text": "(grunts)"
+          },
+          {
+            "index": 1249,
+            "start": 3923.253,
+            "end": 3925.296,
+            "text": "It smells like\nold lady pants in here."
+          },
+          {
+            "index": 1250,
+            "start": 3925.463,
+            "end": 3927.257,
+            "text": "Yes, I'm old. I wear pants."
+          },
+          {
+            "index": 1251,
+            "start": 3927.465,
+            "end": 3929.05,
+            "text": "But you're no lady."
+          },
+          {
+            "index": 1252,
+            "start": 3929.3,
+            "end": 3931.886,
+            "text": "Oh! So comfy."
+          },
+          {
+            "index": 1253,
+            "start": 3932.637,
+            "end": 3935.557,
+            "text": "Upside of being blind:\nI've never seen you in Crocs."
+          },
+          {
+            "index": 1254,
+            "start": 3935.723,
+            "end": 3937.1,
+            "text": "You mean my big,\nrubber masturbating shoes?"
+          },
+          {
+            "index": 1255,
+            "start": 3937.142,
+            "end": 3938.226,
+            "text": "AL: Yes, I know."
+          },
+          {
+            "index": 1256,
+            "start": 3938.81,
+            "end": 3941.312,
+            "text": "Downside of being blind..."
+          },
+          {
+            "index": 1257,
+            "start": 3941.479,
+            "end": 3943.648,
+            "text": "I hear everything\nin this duplex."
+          },
+          {
+            "index": 1258,
+            "start": 3943.94,
+            "end": 3944.941,
+            "text": "(groans)"
+          },
+          {
+            "index": 1259,
+            "start": 3945.984,
+            "end": 3947.068,
+            "text": "Sit on a stick."
+          },
+          {
+            "index": 1260,
+            "start": 3947.277,
+            "end": 3948.278,
+            "text": "Bactin?"
+          },
+          {
+            "index": 1261,
+            "start": 3948.319,
+            "end": 3952.407,
+            "text": "Yeah. Bactin should do it."
+          },
+          {
+            "index": 1262,
+            "start": 3953.575,
+            "end": 3955.285,
+            "text": "How's that Kullen\ncoming along?"
+          },
+          {
+            "index": 1263,
+            "start": 3955.326,
+            "end": 3957.328,
+            "text": "IKEA doesn't assemble itself,\nyou know."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 3934.3943759765625,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1253
+      }
     }
   ]
 }
