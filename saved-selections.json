@@ -102454,6 +102454,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1332
       }
+    },
+    {
+      "id": "588a0f5c-eb36-4ac2-84c4-16173b15e52b",
+      "createdAt": "2026-08-28T22:46:52.889Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "plows",
+      "selection": {
+        "rawText": "plows",
+        "startOffset": 33,
+        "endOffset": 38,
+        "cueIndex": 1333,
+        "cueStart": 4139.51,
+        "cueEnd": 4141.429,
+        "cueText": "No, I'm gonna wait till this\narm plows through puberty..."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1323,
+            "start": 4120.95,
+            "end": 4121.951,
+            "text": "Looks aren't everything."
+          },
+          {
+            "index": 1324,
+            "start": 4122.118,
+            "end": 4123.119,
+            "text": "Looks are everything."
+          },
+          {
+            "index": 1325,
+            "start": 4123.286,
+            "end": 4125.246,
+            "text": "You ever heard\nDavid Beckham speak?"
+          },
+          {
+            "index": 1326,
+            "start": 4125.413,
+            "end": 4127.457,
+            "text": "It's like he mouth-sexed\na can of helium."
+          },
+          {
+            "index": 1327,
+            "start": 4127.832,
+            "end": 4129.167,
+            "text": "You think Ryan Reynolds\ngot this far"
+          },
+          {
+            "index": 1328,
+            "start": 4129.292,
+            "end": 4131.002,
+            "text": "on his superior acting method?"
+          },
+          {
+            "index": 1329,
+            "start": 4131.169,
+            "end": 4132.42,
+            "text": "Love is blind, Wade."
+          },
+          {
+            "index": 1330,
+            "start": 4132.503,
+            "end": 4133.504,
+            "text": "No."
+          },
+          {
+            "index": 1331,
+            "start": 4134.589,
+            "end": 4135.84,
+            "text": "You're blind."
+          },
+          {
+            "index": 1332,
+            "start": 4136.507,
+            "end": 4139.344,
+            "text": "So, you're just gonna lie\nthere and whimper?"
+          },
+          {
+            "index": 1333,
+            "start": 4139.51,
+            "end": 4141.429,
+            "text": "No, I'm gonna wait till this\narm plows through puberty..."
+          },
+          {
+            "index": 1334,
+            "start": 4141.596,
+            "end": 4142.597,
+            "text": "and then I'm gonna\ncome up with"
+          },
+          {
+            "index": 1335,
+            "start": 4142.68,
+            "end": 4143.681,
+            "text": "a whole new\nChristmas Day plan."
+          },
+          {
+            "index": 1336,
+            "start": 4144.515,
+            "end": 4145.808,
+            "text": "In the meantime,"
+          },
+          {
+            "index": 1337,
+            "start": 4145.85,
+            "end": 4147.185,
+            "text": "you might wanna\nleave the room."
+          },
+          {
+            "index": 1338,
+            "start": 4147.852,
+            "end": 4150.271,
+            "text": "I bet it feels huge\nin this hand."
+          },
+          {
+            "index": 1339,
+            "start": 4151.648,
+            "end": 4154.359,
+            "text": "Go, go, go."
+          },
+          {
+            "index": 1340,
+            "start": 4154.859,
+            "end": 4156.527,
+            "text": "WEASEL: So, the doctor says,\n\"The bad news is"
+          },
+          {
+            "index": 1341,
+            "start": 4156.611,
+            "end": 4157.695,
+            "text": "\"you don't have\nthat long to live.\""
+          },
+          {
+            "index": 1342,
+            "start": 4157.862,
+            "end": 4159.364,
+            "text": "So, the patient says,\n\"How long do I have?\""
+          },
+          {
+            "index": 1343,
+            "start": 4159.53,
+            "end": 4161.282,
+            "text": "The doctor says, \"Five.\""
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 4144.02859790039,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1333
+      }
     }
   ]
 }
