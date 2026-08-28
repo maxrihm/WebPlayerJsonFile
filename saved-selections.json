@@ -101077,6 +101077,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1075
       }
+    },
+    {
+      "id": "b5d7cba8-e43a-4f66-b466-6e27ce5afcb1",
+      "createdAt": "2026-08-28T22:18:31.848Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "catharsis",
+      "selection": {
+        "rawText": "catharsis",
+        "startOffset": 22,
+        "endOffset": 31,
+        "cueIndex": 1106,
+        "cueStart": 3504.876,
+        "cueEnd": 3506.712,
+        "cueText": "and that was\nthe only catharsis"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1096,
+            "start": 3485.107,
+            "end": 3488.193,
+            "text": "I'm a monster inside and out.\nI belong in a fucking circus."
+          },
+          {
+            "index": 1097,
+            "start": 3488.36,
+            "end": 3490.988,
+            "text": "Wade, Vanessa loves you.\nShe doesn't care what you..."
+          },
+          {
+            "index": 1098,
+            "start": 3491.029,
+            "end": 3492.447,
+            "text": "Oh! Oh."
+          },
+          {
+            "index": 1099,
+            "start": 3492.656,
+            "end": 3493.699,
+            "text": "Do you like what you see?"
+          },
+          {
+            "index": 1100,
+            "start": 3493.949,
+            "end": 3495.117,
+            "text": "No."
+          },
+          {
+            "index": 1101,
+            "start": 3495.617,
+            "end": 3497.16,
+            "text": "You look like an avocado"
+          },
+          {
+            "index": 1102,
+            "start": 3497.202,
+            "end": 3499.538,
+            "text": "had sex with an older,\nmore disgusting avocado."
+          },
+          {
+            "index": 1103,
+            "start": 3499.705,
+            "end": 3500.706,
+            "text": "Yeah."
+          },
+          {
+            "index": 1104,
+            "start": 3500.831,
+            "end": 3502.791,
+            "text": "Not gently.\nLike it was hate-fucking."
+          },
+          {
+            "index": 1105,
+            "start": 3502.958,
+            "end": 3504.71,
+            "text": "There was something wrong\nwith the relationship..."
+          },
+          {
+            "index": 1106,
+            "start": 3504.876,
+            "end": 3506.712,
+            "text": "and that was\nthe only catharsis"
+          },
+          {
+            "index": 1107,
+            "start": 3506.795,
+            "end": 3508.38,
+            "text": "that they could find\nwithout violence."
+          },
+          {
+            "index": 1108,
+            "start": 3508.672,
+            "end": 3511.049,
+            "text": "And the only guy\nwho can fix this fugly mug..."
+          },
+          {
+            "index": 1109,
+            "start": 3511.216,
+            "end": 3513.802,
+            "text": "is the British shitstick\nwho ran the mutant factory."
+          },
+          {
+            "index": 1110,
+            "start": 3513.969,
+            "end": 3515.721,
+            "text": "And he's gone. Poof!"
+          },
+          {
+            "index": 1111,
+            "start": 3515.887,
+            "end": 3517.514,
+            "text": "Yeah, well you gotta do\nsomething to remedy this..."
+          },
+          {
+            "index": 1112,
+            "start": 3517.681,
+            "end": 3518.807,
+            "text": "because as of now,"
+          },
+          {
+            "index": 1113,
+            "start": 3518.89,
+            "end": 3520.559,
+            "text": "you only have\none course of action."
+          },
+          {
+            "index": 1114,
+            "start": 3520.726,
+            "end": 3521.893,
+            "text": "Damn straight."
+          },
+          {
+            "index": 1115,
+            "start": 3522.06,
+            "end": 3523.812,
+            "text": "-Find Francis.\n-Star in horror films."
+          },
+          {
+            "index": 1116,
+            "start": 3523.895,
+            "end": 3524.896,
+            "text": "What?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 3508.476115966797,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1106
+      }
     }
   ]
 }
