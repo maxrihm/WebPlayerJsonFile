@@ -100618,6 +100618,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1004
       }
+    },
+    {
+      "id": "a4a035ce-1d1c-49f6-b9f2-245407c4b270",
+      "createdAt": "2026-08-28T22:13:19.645Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "mug.",
+      "selection": {
+        "rawText": "mug.",
+        "startOffset": 39,
+        "endOffset": 43,
+        "cueIndex": 1061,
+        "cueStart": 3245.617,
+        "cueEnd": 3247.911,
+        "cueText": "I'm the only one\nwho can fix your ugly mug."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1051,
+            "start": 3127.791,
+            "end": 3129.251,
+            "text": "(groaning)"
+          },
+          {
+            "index": 1052,
+            "start": 3143.766,
+            "end": 3145.893,
+            "text": "(breathing heavily)"
+          },
+          {
+            "index": 1053,
+            "start": 3176.674,
+            "end": 3177.883,
+            "text": "(exploding)"
+          },
+          {
+            "index": 1054,
+            "start": 3187.643,
+            "end": 3190.187,
+            "text": "(men screaming\nin the distance)"
+          },
+          {
+            "index": 1055,
+            "start": 3193.065,
+            "end": 3196.026,
+            "text": "-(indistinct shouting)\n-(man coughing)"
+          },
+          {
+            "index": 1056,
+            "start": 3209.998,
+            "end": 3210.999,
+            "text": "(both grunting)"
+          },
+          {
+            "index": 1057,
+            "start": 3222.428,
+            "end": 3223.971,
+            "text": "(groans)"
+          },
+          {
+            "index": 1058,
+            "start": 3227.057,
+            "end": 3228.058,
+            "text": "(grunting)"
+          },
+          {
+            "index": 1059,
+            "start": 3238.944,
+            "end": 3239.945,
+            "text": "(groaning)"
+          },
+          {
+            "index": 1060,
+            "start": 3244.158,
+            "end": 3245.451,
+            "text": "You don't want to kill me."
+          },
+          {
+            "index": 1061,
+            "start": 3245.617,
+            "end": 3247.911,
+            "text": "I'm the only one\nwho can fix your ugly mug."
+          },
+          {
+            "index": 1062,
+            "start": 3247.995,
+            "end": 3249.371,
+            "text": "(grunting)"
+          },
+          {
+            "index": 1063,
+            "start": 3258.505,
+            "end": 3259.59,
+            "text": "(laughs)"
+          },
+          {
+            "index": 1064,
+            "start": 3259.882,
+            "end": 3261.3,
+            "text": "(grunting)"
+          },
+          {
+            "index": 1065,
+            "start": 3263.635,
+            "end": 3265.429,
+            "text": "(groaning)"
+          },
+          {
+            "index": 1066,
+            "start": 3283.989,
+            "end": 3285.115,
+            "text": "(grunts loudly)"
+          },
+          {
+            "index": 1067,
+            "start": 3286.2,
+            "end": 3287.743,
+            "text": "(retching)"
+          },
+          {
+            "index": 1068,
+            "start": 3288.786,
+            "end": 3290.662,
+            "text": "(grunts and laughs)"
+          },
+          {
+            "index": 1069,
+            "start": 3294.041,
+            "end": 3295.626,
+            "text": "(grunting)"
+          },
+          {
+            "index": 1070,
+            "start": 3298.42,
+            "end": 3300.38,
+            "text": "(Wade breathing heavily)"
+          },
+          {
+            "index": 1071,
+            "start": 3304.635,
+            "end": 3306.178,
+            "text": "What's my name?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 3246.911569091797,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1061
+      }
     }
   ]
 }
