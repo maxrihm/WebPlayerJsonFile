@@ -101689,6 +101689,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1137
       }
+    },
+    {
+      "id": "ee2e125e-0765-4865-8dfa-dd189b298717",
+      "createdAt": "2026-08-28T22:29:53.678Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "All caught up.",
+      "selection": {
+        "rawText": "All caught up.",
+        "startOffset": 7,
+        "endOffset": 21,
+        "cueIndex": 1221,
+        "cueStart": 3841.546,
+        "cueEnd": 3843.34,
+        "cueText": "There. All caught up."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1211,
+            "start": 3806.177,
+            "end": 3808.096,
+            "text": "Oh, you'll tell me.\nBut first..."
+          },
+          {
+            "index": 1212,
+            "start": 3808.638,
+            "end": 3810.849,
+            "text": "You might wanna\nlook away for this."
+          },
+          {
+            "index": 1213,
+            "start": 3811.016,
+            "end": 3812.267,
+            "text": "Now this little piggy\nwent to..."
+          },
+          {
+            "index": 1214,
+            "start": 3812.35,
+            "end": 3813.476,
+            "text": "(Agent Smith screams)"
+          },
+          {
+            "index": 1215,
+            "start": 3814.352,
+            "end": 3816.646,
+            "text": "WADE: Thank you, Agent Smith."
+          },
+          {
+            "index": 1216,
+            "start": 3820.275,
+            "end": 3821.276,
+            "text": "Taxi!"
+          },
+          {
+            "index": 1217,
+            "start": 3822.777,
+            "end": 3825.03,
+            "text": "Hop in! Great day for a ride."
+          },
+          {
+            "index": 1218,
+            "start": 3825.155,
+            "end": 3826.865,
+            "text": "(Hindi song playing on radio)"
+          },
+          {
+            "index": 1219,
+            "start": 3827.032,
+            "end": 3828.366,
+            "text": "WADE: And we all know\nhow this turned out."
+          },
+          {
+            "index": 1220,
+            "start": 3831.369,
+            "end": 3833.538,
+            "text": "Whoops!\nYou weren't meant to see that."
+          },
+          {
+            "index": 1221,
+            "start": 3841.546,
+            "end": 3843.34,
+            "text": "There. All caught up."
+          },
+          {
+            "index": 1222,
+            "start": 3843.715,
+            "end": 3845.216,
+            "text": "(jazz music playing)"
+          },
+          {
+            "index": 1223,
+            "start": 3851.306,
+            "end": 3853.224,
+            "text": "We're here."
+          },
+          {
+            "index": 1224,
+            "start": 3853.808,
+            "end": 3857.228,
+            "text": "(groans) Sorry about bleeding\nin all your garbage."
+          },
+          {
+            "index": 1225,
+            "start": 3859.731,
+            "end": 3861.232,
+            "text": "(grunts)"
+          },
+          {
+            "index": 1226,
+            "start": 3863.485,
+            "end": 3865.528,
+            "text": "Seltzer water and\nlemon for blood."
+          },
+          {
+            "index": 1227,
+            "start": 3865.987,
+            "end": 3866.988,
+            "text": "Whoo!"
+          },
+          {
+            "index": 1228,
+            "start": 3867.739,
+            "end": 3870.158,
+            "text": "Some kinds of anger\ncan't be managed..."
+          },
+          {
+            "index": 1229,
+            "start": 3870.325,
+            "end": 3872.41,
+            "text": "like the kind where\nyour year-long plan"
+          },
+          {
+            "index": 1230,
+            "start": 3872.535,
+            "end": 3875.372,
+            "text": "ends with the wrong guy\ngetting dismembered!"
+          },
+          {
+            "index": 1231,
+            "start": 3876.081,
+            "end": 3878.875,
+            "text": "That said, when it comes time\nto licking wounds,"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 3843.972083984375,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1221
+      }
     }
   ]
 }
