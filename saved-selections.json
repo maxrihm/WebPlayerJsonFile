@@ -101230,6 +101230,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1106
       }
+    },
+    {
+      "id": "d7d290f1-9bff-4022-9aff-1699e7d2f0a7",
+      "createdAt": "2026-08-28T22:19:25.669Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "one course of action.",
+      "selection": {
+        "rawText": "one course of action.",
+        "startOffset": 14,
+        "endOffset": 35,
+        "cueIndex": 1113,
+        "cueStart": 3518.89,
+        "cueEnd": 3520.559,
+        "cueText": "you only have\none course of action."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1103,
+            "start": 3499.705,
+            "end": 3500.706,
+            "text": "Yeah."
+          },
+          {
+            "index": 1104,
+            "start": 3500.831,
+            "end": 3502.791,
+            "text": "Not gently.\nLike it was hate-fucking."
+          },
+          {
+            "index": 1105,
+            "start": 3502.958,
+            "end": 3504.71,
+            "text": "There was something wrong\nwith the relationship..."
+          },
+          {
+            "index": 1106,
+            "start": 3504.876,
+            "end": 3506.712,
+            "text": "and that was\nthe only catharsis"
+          },
+          {
+            "index": 1107,
+            "start": 3506.795,
+            "end": 3508.38,
+            "text": "that they could find\nwithout violence."
+          },
+          {
+            "index": 1108,
+            "start": 3508.672,
+            "end": 3511.049,
+            "text": "And the only guy\nwho can fix this fugly mug..."
+          },
+          {
+            "index": 1109,
+            "start": 3511.216,
+            "end": 3513.802,
+            "text": "is the British shitstick\nwho ran the mutant factory."
+          },
+          {
+            "index": 1110,
+            "start": 3513.969,
+            "end": 3515.721,
+            "text": "And he's gone. Poof!"
+          },
+          {
+            "index": 1111,
+            "start": 3515.887,
+            "end": 3517.514,
+            "text": "Yeah, well you gotta do\nsomething to remedy this..."
+          },
+          {
+            "index": 1112,
+            "start": 3517.681,
+            "end": 3518.807,
+            "text": "because as of now,"
+          },
+          {
+            "index": 1113,
+            "start": 3518.89,
+            "end": 3520.559,
+            "text": "you only have\none course of action."
+          },
+          {
+            "index": 1114,
+            "start": 3520.726,
+            "end": 3521.893,
+            "text": "Damn straight."
+          },
+          {
+            "index": 1115,
+            "start": 3522.06,
+            "end": 3523.812,
+            "text": "-Find Francis.\n-Star in horror films."
+          },
+          {
+            "index": 1116,
+            "start": 3523.895,
+            "end": 3524.896,
+            "text": "What?"
+          },
+          {
+            "index": 1117,
+            "start": 3524.98,
+            "end": 3527.065,
+            "text": "Star in your own horror films."
+          },
+          {
+            "index": 1118,
+            "start": 3527.232,
+            "end": 3528.525,
+            "text": "Because you look\nlike Freddy Krueger"
+          },
+          {
+            "index": 1119,
+            "start": 3528.567,
+            "end": 3531.069,
+            "text": "face-fucked\na topographical map of Utah."
+          },
+          {
+            "index": 1120,
+            "start": 3531.903,
+            "end": 3533.53,
+            "text": "Here's what\nI'm actually gonna do."
+          },
+          {
+            "index": 1121,
+            "start": 3533.697,
+            "end": 3534.74,
+            "text": "I'm gonna work\nthrough his crew"
+          },
+          {
+            "index": 1122,
+            "start": 3534.865,
+            "end": 3536.241,
+            "text": "until somebody\ngives up Francis..."
+          },
+          {
+            "index": 1123,
+            "start": 3536.408,
+            "end": 3538.66,
+            "text": "force him to fix this, then\nput a bullet in his skull..."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 3521.256897949219,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1113
+      }
     }
   ]
 }
