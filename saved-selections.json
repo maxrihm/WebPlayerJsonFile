@@ -103984,6 +103984,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1740
       }
+    },
+    {
+      "id": "b3b82089-a70a-49d4-af04-f24a8cbaf8fe",
+      "createdAt": "2026-08-28T23:31:31.147Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "droning on.",
+      "selection": {
+        "rawText": "droning on.",
+        "startOffset": 9,
+        "endOffset": 20,
+        "cueIndex": 1747,
+        "cueStart": 5735.647,
+        "cueEnd": 5737.607,
+        "cueText": "You were droning on."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1737,
+            "start": 5708.912,
+            "end": 5711.289,
+            "text": "Moments when\nyou're offered a choice."
+          },
+          {
+            "index": 1738,
+            "start": 5711.456,
+            "end": 5714.083,
+            "text": "To make a sacrifice,\nconquer a flaw,"
+          },
+          {
+            "index": 1739,
+            "start": 5714.167,
+            "end": 5715.627,
+            "text": "save a friend..."
+          },
+          {
+            "index": 1740,
+            "start": 5716.419,
+            "end": 5719.088,
+            "text": "spare an enemy."
+          },
+          {
+            "index": 1741,
+            "start": 5719.464,
+            "end": 5720.84,
+            "text": "In these moments..."
+          },
+          {
+            "index": 1742,
+            "start": 5721.633,
+            "end": 5724.51,
+            "text": "everything else falls away."
+          },
+          {
+            "index": 1743,
+            "start": 5725.261,
+            "end": 5727.764,
+            "text": "The way the world sees us."
+          },
+          {
+            "index": 1744,
+            "start": 5728.139,
+            "end": 5729.14,
+            "text": "The way we..."
+          },
+          {
+            "index": 1745,
+            "start": 5730.099,
+            "end": 5731.601,
+            "text": "(retching)"
+          },
+          {
+            "index": 1746,
+            "start": 5733.436,
+            "end": 5734.437,
+            "text": "Why?"
+          },
+          {
+            "index": 1747,
+            "start": 5735.647,
+            "end": 5737.607,
+            "text": "You were droning on."
+          },
+          {
+            "index": 1748,
+            "start": 5737.774,
+            "end": 5740.652,
+            "text": "Sure, I may be stuck looking\nlike pepperoni flatbread..."
+          },
+          {
+            "index": 1749,
+            "start": 5740.818,
+            "end": 5743.613,
+            "text": "but at least fuckface\nwon't heal from that."
+          },
+          {
+            "index": 1750,
+            "start": 5743.863,
+            "end": 5746.491,
+            "text": "If wearing superhero tights..."
+          },
+          {
+            "index": 1751,
+            "start": 5746.95,
+            "end": 5748.284,
+            "text": "means sparing psychopaths..."
+          },
+          {
+            "index": 1752,
+            "start": 5748.451,
+            "end": 5750.495,
+            "text": "then maybe I wasn't\nmeant to wear 'em."
+          },
+          {
+            "index": 1753,
+            "start": 5750.662,
+            "end": 5752.997,
+            "text": "Not everyone monitors\na hall like you."
+          },
+          {
+            "index": 1754,
+            "start": 5753.164,
+            "end": 5754.207,
+            "text": "Just promise..."
+          },
+          {
+            "index": 1755,
+            "start": 5754.374,
+            "end": 5755.875,
+            "text": "Yeah, yeah,\nI'll be on the lookout"
+          },
+          {
+            "index": 1756,
+            "start": 5755.959,
+            "end": 5758.002,
+            "text": "for the next four moments."
+          },
+          {
+            "index": 1757,
+            "start": 5758.169,
+            "end": 5759.671,
+            "text": "(whispers) Oh, shit."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 5737.441281982422,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1747
+      }
     }
   ]
 }
