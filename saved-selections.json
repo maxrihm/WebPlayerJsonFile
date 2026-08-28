@@ -99700,6 +99700,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 965
       }
+    },
+    {
+      "id": "77c1df5f-da91-4e11-942d-1a8b2e1ccfd8",
+      "createdAt": "2026-08-28T22:01:36.596Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "coat.",
+      "selection": {
+        "rawText": "coat.",
+        "startOffset": 42,
+        "endOffset": 47,
+        "cueIndex": 965,
+        "cueStart": 2818.566,
+        "cueEnd": 2821.444,
+        "cueText": "Snagged the dry cleaning tag\noff your lab coat."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 955,
+            "start": 2788.828,
+            "end": 2790.496,
+            "text": "I encourage distractions."
+          },
+          {
+            "index": 956,
+            "start": 2791.247,
+            "end": 2793.499,
+            "text": "Wouldn't want you giving up\non us, now would we?"
+          },
+          {
+            "index": 957,
+            "start": 2793.666,
+            "end": 2795.501,
+            "text": "Hey, don't take any shit\nfrom him, Cunningham."
+          },
+          {
+            "index": 958,
+            "start": 2796.46,
+            "end": 2798.713,
+            "text": "How tough can he be..."
+          },
+          {
+            "index": 959,
+            "start": 2798.879,
+            "end": 2801.799,
+            "text": "with a name like Francis?"
+          },
+          {
+            "index": 960,
+            "start": 2802.383,
+            "end": 2803.509,
+            "text": "Francis?"
+          },
+          {
+            "index": 961,
+            "start": 2803.801,
+            "end": 2805.219,
+            "text": "WADE: That's his legal name."
+          },
+          {
+            "index": 962,
+            "start": 2805.845,
+            "end": 2809.307,
+            "text": "(chuckling) He got \"Ajax\"\nfrom the dish soap."
+          },
+          {
+            "index": 963,
+            "start": 2811.35,
+            "end": 2814.937,
+            "text": "F, R, A, N, C, I..."
+          },
+          {
+            "index": 964,
+            "start": 2815.813,
+            "end": 2816.814,
+            "text": "Oops!"
+          },
+          {
+            "index": 965,
+            "start": 2818.566,
+            "end": 2821.444,
+            "text": "Snagged the dry cleaning tag\noff your lab coat."
+          },
+          {
+            "index": 966,
+            "start": 2823.362,
+            "end": 2825.656,
+            "text": "FYI, I could probably get you\nthe superhero discount."
+          },
+          {
+            "index": 967,
+            "start": 2825.823,
+            "end": 2827.116,
+            "text": "You are so\nrelentlessly annoying."
+          },
+          {
+            "index": 968,
+            "start": 2827.283,
+            "end": 2828.284,
+            "text": "Thanks."
+          },
+          {
+            "index": 969,
+            "start": 2828.367,
+            "end": 2829.493,
+            "text": "Never heard that before."
+          },
+          {
+            "index": 970,
+            "start": 2829.66,
+            "end": 2832.788,
+            "text": "Why don't you do us all\na favor and shut the fuck up?"
+          },
+          {
+            "index": 971,
+            "start": 2832.955,
+            "end": 2834.957,
+            "text": "Or I'll sew\nyour pretty mouth shut."
+          },
+          {
+            "index": 972,
+            "start": 2835.416,
+            "end": 2836.667,
+            "text": "Oh..."
+          },
+          {
+            "index": 973,
+            "start": 2836.751,
+            "end": 2838.377,
+            "text": "I wouldn't do that\nif I were you."
+          },
+          {
+            "index": 974,
+            "start": 2838.544,
+            "end": 2839.837,
+            "text": "See, here's the problem"
+          },
+          {
+            "index": 975,
+            "start": 2839.92,
+            "end": 2841.672,
+            "text": "with round-the-clock\ntorture..."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 2822.397701904297,
+        "topCueIndex": -1,
+        "bottomCueIndex": 965
+      }
     }
   ]
 }
