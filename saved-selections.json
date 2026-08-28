@@ -103372,6 +103372,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1532
       }
+    },
+    {
+      "id": "f1d0fd15-99eb-4760-9213-16c68599e643",
+      "createdAt": "2026-08-28T23:11:06.242Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "Cue",
+      "selection": {
+        "rawText": "Cue",
+        "startOffset": 0,
+        "endOffset": 3,
+        "cueIndex": 1555,
+        "cueStart": 4872.576,
+        "cueEnd": 4873.619,
+        "cueText": "Cue the music."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1545,
+            "start": 4842.88,
+            "end": 4843.881,
+            "text": "(phone ringing)"
+          },
+          {
+            "index": 1546,
+            "start": 4845.299,
+            "end": 4849.053,
+            "text": "(Hindi song playing on radio)"
+          },
+          {
+            "index": 1547,
+            "start": 4853.39,
+            "end": 4854.475,
+            "text": "(truck honking)"
+          },
+          {
+            "index": 1548,
+            "start": 4855.225,
+            "end": 4856.226,
+            "text": "(tires screeching)"
+          },
+          {
+            "index": 1549,
+            "start": 4856.393,
+            "end": 4858.103,
+            "text": "-(thuds)\n-(Bandhu screams)"
+          },
+          {
+            "index": 1550,
+            "start": 4859.938,
+            "end": 4861.315,
+            "text": "DOPINDER: Bandhu?"
+          },
+          {
+            "index": 1551,
+            "start": 4862.9,
+            "end": 4864.818,
+            "text": "DOPINDER: Leave a message and\nhave a happy day."
+          },
+          {
+            "index": 1552,
+            "start": 4864.985,
+            "end": 4866.278,
+            "text": "God damn it!"
+          },
+          {
+            "index": 1553,
+            "start": 4866.445,
+            "end": 4867.988,
+            "text": "I'm gonna do this\nthe old fashioned way..."
+          },
+          {
+            "index": 1554,
+            "start": 4868.155,
+            "end": 4871.617,
+            "text": "with two swords\nand maximum effort."
+          },
+          {
+            "index": 1555,
+            "start": 4872.576,
+            "end": 4873.619,
+            "text": "Cue the music."
+          },
+          {
+            "index": 1556,
+            "start": 4873.744,
+            "end": 4875.746,
+            "text": "(hip-hop music playing)"
+          },
+          {
+            "index": 1557,
+            "start": 4884.004,
+            "end": 4885.255,
+            "text": "(music stops)"
+          },
+          {
+            "index": 1558,
+            "start": 4889.76,
+            "end": 4892.262,
+            "text": "FRANCIS: Wade Wilson!"
+          },
+          {
+            "index": 1559,
+            "start": 4892.805,
+            "end": 4894.431,
+            "text": "What's my name?"
+          },
+          {
+            "index": 1560,
+            "start": 4894.473,
+            "end": 4896.642,
+            "text": "Oh, I'mma fuckin'\nspell it out for ya."
+          },
+          {
+            "index": 1561,
+            "start": 4898.936,
+            "end": 4899.937,
+            "text": "Go get some."
+          },
+          {
+            "index": 1562,
+            "start": 4900.104,
+            "end": 4901.105,
+            "text": "Superhero landing."
+          },
+          {
+            "index": 1563,
+            "start": 4901.271,
+            "end": 4902.356,
+            "text": "She's gonna do\na superhero landing."
+          },
+          {
+            "index": 1564,
+            "start": 4902.439,
+            "end": 4903.482,
+            "text": "Wait for it."
+          },
+          {
+            "index": 1565,
+            "start": 4906.777,
+            "end": 4907.778,
+            "text": "WADE: Whoo!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 4875.598917724609,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1555
+      }
     }
   ]
 }
