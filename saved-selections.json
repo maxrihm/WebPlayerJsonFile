@@ -102607,6 +102607,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1333
       }
+    },
+    {
+      "id": "f99d503e-31ab-46bc-b019-5686710e46ef",
+      "createdAt": "2026-08-28T22:58:11.376Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "downrange.",
+      "selection": {
+        "rawText": "downrange.",
+        "startOffset": 6,
+        "endOffset": 16,
+        "cueIndex": 1440,
+        "cueStart": 4543.414,
+        "cueEnd": 4544.498,
+        "cueText": "We're downrange."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1430,
+            "start": 4505.543,
+            "end": 4507.545,
+            "text": "You know, it's the turd with\nthe smiling face and the eyes?"
+          },
+          {
+            "index": 1431,
+            "start": 4507.712,
+            "end": 4510.047,
+            "text": "I thought it was chocolate\nyogurt for so long."
+          },
+          {
+            "index": 1432,
+            "start": 4510.715,
+            "end": 4511.841,
+            "text": "I need guns."
+          },
+          {
+            "index": 1433,
+            "start": 4512.008,
+            "end": 4513.009,
+            "text": "Okay, which ones?"
+          },
+          {
+            "index": 1434,
+            "start": 4513.175,
+            "end": 4514.218,
+            "text": "I need all the guns!"
+          },
+          {
+            "index": 1435,
+            "start": 4514.385,
+            "end": 4515.553,
+            "text": "All right. Okay."
+          },
+          {
+            "index": 1436,
+            "start": 4515.678,
+            "end": 4517.221,
+            "text": "(heavy metal playing)"
+          },
+          {
+            "index": 1437,
+            "start": 4536.24,
+            "end": 4537.742,
+            "text": "That's about 3,000 rounds."
+          },
+          {
+            "index": 1438,
+            "start": 4538.701,
+            "end": 4540.745,
+            "text": "We all know\nwhat I can do with 12."
+          },
+          {
+            "index": 1439,
+            "start": 4541.162,
+            "end": 4543.247,
+            "text": "Hey, hey, careful\nwith that, Ronnie Milsap!"
+          },
+          {
+            "index": 1440,
+            "start": 4543.414,
+            "end": 4544.498,
+            "text": "We're downrange."
+          },
+          {
+            "index": 1441,
+            "start": 4545.916,
+            "end": 4547.418,
+            "text": "I was gonna spend the night"
+          },
+          {
+            "index": 1442,
+            "start": 4547.501,
+            "end": 4549.503,
+            "text": "assembling the Börje, but\nthis is holding my interest."
+          },
+          {
+            "index": 1443,
+            "start": 4550.671,
+            "end": 4553.382,
+            "text": "I told you, we're going with\nthe Urvaj, not the Börje."
+          },
+          {
+            "index": 1444,
+            "start": 4553.549,
+            "end": 4555.426,
+            "text": "Get it through your head\nor get out of fuck town."
+          },
+          {
+            "index": 1445,
+            "start": 4555.593,
+            "end": 4558.22,
+            "text": "Shit. That's all the pieces\nin the house."
+          },
+          {
+            "index": 1446,
+            "start": 4558.429,
+            "end": 4560.181,
+            "text": "Nah, nah... Come on.\nLet's go. Cough it up."
+          },
+          {
+            "index": 1447,
+            "start": 4560.556,
+            "end": 4562.058,
+            "text": "Up, up, up."
+          },
+          {
+            "index": 1448,
+            "start": 4563.184,
+            "end": 4564.435,
+            "text": "Oh. Down, down, down."
+          },
+          {
+            "index": 1449,
+            "start": 4564.602,
+            "end": 4565.603,
+            "text": "Fuck you."
+          },
+          {
+            "index": 1450,
+            "start": 4567.438,
+            "end": 4570.232,
+            "text": ".45 cal. I like it."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 4548.978775878906,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1440
+      }
     }
   ]
 }
