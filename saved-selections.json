@@ -101995,6 +101995,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1253
       }
+    },
+    {
+      "id": "c049bdd7-3d14-4de9-a5e6-68aee10e8148",
+      "createdAt": "2026-08-28T22:34:42.887Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "coming along?",
+      "selection": {
+        "rawText": "coming along?",
+        "startOffset": 18,
+        "endOffset": 31,
+        "cueIndex": 1262,
+        "cueStart": 3953.575,
+        "cueEnd": 3955.285,
+        "cueText": "How's that Kullen\ncoming along?"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1252,
+            "start": 3929.3,
+            "end": 3931.886,
+            "text": "Oh! So comfy."
+          },
+          {
+            "index": 1253,
+            "start": 3932.637,
+            "end": 3935.557,
+            "text": "Upside of being blind:\nI've never seen you in Crocs."
+          },
+          {
+            "index": 1254,
+            "start": 3935.723,
+            "end": 3937.1,
+            "text": "You mean my big,\nrubber masturbating shoes?"
+          },
+          {
+            "index": 1255,
+            "start": 3937.142,
+            "end": 3938.226,
+            "text": "AL: Yes, I know."
+          },
+          {
+            "index": 1256,
+            "start": 3938.81,
+            "end": 3941.312,
+            "text": "Downside of being blind..."
+          },
+          {
+            "index": 1257,
+            "start": 3941.479,
+            "end": 3943.648,
+            "text": "I hear everything\nin this duplex."
+          },
+          {
+            "index": 1258,
+            "start": 3943.94,
+            "end": 3944.941,
+            "text": "(groans)"
+          },
+          {
+            "index": 1259,
+            "start": 3945.984,
+            "end": 3947.068,
+            "text": "Sit on a stick."
+          },
+          {
+            "index": 1260,
+            "start": 3947.277,
+            "end": 3948.278,
+            "text": "Bactin?"
+          },
+          {
+            "index": 1261,
+            "start": 3948.319,
+            "end": 3952.407,
+            "text": "Yeah. Bactin should do it."
+          },
+          {
+            "index": 1262,
+            "start": 3953.575,
+            "end": 3955.285,
+            "text": "How's that Kullen\ncoming along?"
+          },
+          {
+            "index": 1263,
+            "start": 3955.326,
+            "end": 3957.328,
+            "text": "IKEA doesn't assemble itself,\nyou know."
+          },
+          {
+            "index": 1264,
+            "start": 3957.495,
+            "end": 3960.331,
+            "text": "You're telling me.\nI don't mind the Kullen."
+          },
+          {
+            "index": 1265,
+            "start": 3960.498,
+            "end": 3962.333,
+            "text": "It's an improvement\non the Hurdal."
+          },
+          {
+            "index": 1266,
+            "start": 3963.001,
+            "end": 3965.503,
+            "text": "Please. Anything's an\nimprovement over the Hurdal."
+          },
+          {
+            "index": 1267,
+            "start": 3965.67,
+            "end": 3969.174,
+            "text": "I'd have taken an Hemnes\nor a Trysil over the Hurdal."
+          },
+          {
+            "index": 1268,
+            "start": 3969.841,
+            "end": 3972.594,
+            "text": "Oh, no, I didn't get excited\ntill I saw the Kullen."
+          },
+          {
+            "index": 1269,
+            "start": 3972.677,
+            "end": 3973.678,
+            "text": "Screw, please."
+          },
+          {
+            "index": 1270,
+            "start": 3973.845,
+            "end": 3975.138,
+            "text": "Here? Now? Just kidding."
+          },
+          {
+            "index": 1271,
+            "start": 3975.305,
+            "end": 3976.347,
+            "text": "I know it's been decades."
+          },
+          {
+            "index": 1272,
+            "start": 3976.514,
+            "end": 3977.682,
+            "text": "You'd be surprised."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 3955.2230769042967,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1262
+      }
     }
   ]
 }
