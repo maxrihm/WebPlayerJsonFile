@@ -99241,6 +99241,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 944
       }
+    },
+    {
+      "id": "b3e9f742-5f8a-40bf-a965-49c2905fdf83",
+      "createdAt": "2026-08-28T21:59:55.991Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "encourage",
+      "selection": {
+        "rawText": "encourage",
+        "startOffset": 2,
+        "endOffset": 11,
+        "cueIndex": 955,
+        "cueStart": 2788.828,
+        "cueEnd": 2790.496,
+        "cueText": "I encourage distractions."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 945,
+            "start": 2753.542,
+            "end": 2756.462,
+            "text": "Finally, giving Meredith\nBaxter-Birney a Dutch oven."
+          },
+          {
+            "index": 946,
+            "start": 2756.712,
+            "end": 2759.84,
+            "text": "No. Receiving a Dutch oven\nfrom Meredith Baxter-Birney."
+          },
+          {
+            "index": 947,
+            "start": 2760.466,
+            "end": 2761.759,
+            "text": "(laughs)"
+          },
+          {
+            "index": 948,
+            "start": 2764.512,
+            "end": 2767.974,
+            "text": "Making banana pancakes\nfor my kids."
+          },
+          {
+            "index": 949,
+            "start": 2771.394,
+            "end": 2773.437,
+            "text": "Vanessa."
+          },
+          {
+            "index": 950,
+            "start": 2776.941,
+            "end": 2779.193,
+            "text": "WADE: I wanna see Vanessa."
+          },
+          {
+            "index": 951,
+            "start": 2779.36,
+            "end": 2780.653,
+            "text": "FRANCIS: You're lovely."
+          },
+          {
+            "index": 952,
+            "start": 2780.82,
+            "end": 2784.115,
+            "text": "I don't know about anyone\nelse, but I'm touched."
+          },
+          {
+            "index": 953,
+            "start": 2784.282,
+            "end": 2785.283,
+            "text": "We were just joking."
+          },
+          {
+            "index": 954,
+            "start": 2785.449,
+            "end": 2787.743,
+            "text": "No, no. It's okay."
+          },
+          {
+            "index": 955,
+            "start": 2788.828,
+            "end": 2790.496,
+            "text": "I encourage distractions."
+          },
+          {
+            "index": 956,
+            "start": 2791.247,
+            "end": 2793.499,
+            "text": "Wouldn't want you giving up\non us, now would we?"
+          },
+          {
+            "index": 957,
+            "start": 2793.666,
+            "end": 2795.501,
+            "text": "Hey, don't take any shit\nfrom him, Cunningham."
+          },
+          {
+            "index": 958,
+            "start": 2796.46,
+            "end": 2798.713,
+            "text": "How tough can he be..."
+          },
+          {
+            "index": 959,
+            "start": 2798.879,
+            "end": 2801.799,
+            "text": "with a name like Francis?"
+          },
+          {
+            "index": 960,
+            "start": 2802.383,
+            "end": 2803.509,
+            "text": "Francis?"
+          },
+          {
+            "index": 961,
+            "start": 2803.801,
+            "end": 2805.219,
+            "text": "WADE: That's his legal name."
+          },
+          {
+            "index": 962,
+            "start": 2805.845,
+            "end": 2809.307,
+            "text": "(chuckling) He got \"Ajax\"\nfrom the dish soap."
+          },
+          {
+            "index": 963,
+            "start": 2811.35,
+            "end": 2814.937,
+            "text": "F, R, A, N, C, I..."
+          },
+          {
+            "index": 964,
+            "start": 2815.813,
+            "end": 2816.814,
+            "text": "Oops!"
+          },
+          {
+            "index": 965,
+            "start": 2818.566,
+            "end": 2821.444,
+            "text": "Snagged the dry cleaning tag\noff your lab coat."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 2793.723705078125,
+        "topCueIndex": -1,
+        "bottomCueIndex": 955
+      }
     }
   ]
 }
