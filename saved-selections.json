@@ -103219,6 +103219,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1508
       }
+    },
+    {
+      "id": "7580f0be-4207-4964-8e5d-15fa7d8b4f46",
+      "createdAt": "2026-08-28T23:09:10.889Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "presume",
+      "selection": {
+        "rawText": "presume",
+        "startOffset": 2,
+        "endOffset": 9,
+        "cueIndex": 1532,
+        "cueStart": 4794.873,
+        "cueEnd": 4796.375,
+        "cueText": "I presume a crisp high five?"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1522,
+            "start": 4769.89,
+            "end": 4772.476,
+            "text": "Absolutely not.\nIt got lost in translation."
+          },
+          {
+            "index": 1523,
+            "start": 4772.643,
+            "end": 4775.729,
+            "text": "Dopinder, this is no way\nto win Gita's heart back!"
+          },
+          {
+            "index": 1524,
+            "start": 4775.896,
+            "end": 4776.897,
+            "text": "(whispers)\nI'm so proud of you."
+          },
+          {
+            "index": 1525,
+            "start": 4777.064,
+            "end": 4779.149,
+            "text": "Drop Bandhu off,\nsafe and gentle-like."
+          },
+          {
+            "index": 1526,
+            "start": 4779.233,
+            "end": 4780.234,
+            "text": "(whispers) Kill him."
+          },
+          {
+            "index": 1527,
+            "start": 4780.317,
+            "end": 4782.319,
+            "text": "And then, win Gita back..."
+          },
+          {
+            "index": 1528,
+            "start": 4782.486,
+            "end": 4785.197,
+            "text": "the old fashioned way:\nwith your boyish charm."
+          },
+          {
+            "index": 1529,
+            "start": 4785.364,
+            "end": 4786.699,
+            "text": "(whispers) Kidnap her."
+          },
+          {
+            "index": 1530,
+            "start": 4788.242,
+            "end": 4789.41,
+            "text": "He's super dead."
+          },
+          {
+            "index": 1531,
+            "start": 4789.91,
+            "end": 4790.911,
+            "text": "Whoa!"
+          },
+          {
+            "index": 1532,
+            "start": 4794.873,
+            "end": 4796.375,
+            "text": "I presume a crisp high five?"
+          },
+          {
+            "index": 1533,
+            "start": 4796.542,
+            "end": 4797.835,
+            "text": "For you? 10."
+          },
+          {
+            "index": 1534,
+            "start": 4799.336,
+            "end": 4802.006,
+            "text": "Okay, guys, let's get out\nthere and make a difference."
+          },
+          {
+            "index": 1535,
+            "start": 4802.172,
+            "end": 4804.091,
+            "text": "(whispers)\nYou know what to do."
+          },
+          {
+            "index": 1536,
+            "start": 4805.05,
+            "end": 4807.678,
+            "text": "Knock 'em dead, Pool Boy!"
+          },
+          {
+            "index": 1537,
+            "start": 4808.887,
+            "end": 4810.848,
+            "text": "Time to make\nthe chimi-fuckin'-changas."
+          },
+          {
+            "index": 1538,
+            "start": 4812.391,
+            "end": 4813.892,
+            "text": "WADE: Not often\na dude ruins your face..."
+          },
+          {
+            "index": 1539,
+            "start": 4814.059,
+            "end": 4816.895,
+            "text": "skull-stomps your sanity,\ngrabs your future baby mama..."
+          },
+          {
+            "index": 1540,
+            "start": 4817.062,
+            "end": 4818.689,
+            "text": "and personally sees to four"
+          },
+          {
+            "index": 1541,
+            "start": 4818.772,
+            "end": 4821.108,
+            "text": "of your five\nshittiest moments."
+          },
+          {
+            "index": 1542,
+            "start": 4821.275,
+            "end": 4825.446,
+            "text": "Let's just say it's beginning\nto look a lot like Christmas."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 4796.4046328125,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1532
+      }
     }
   ]
 }
