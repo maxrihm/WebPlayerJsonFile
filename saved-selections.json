@@ -100312,6 +100312,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1004
       }
+    },
+    {
+      "id": "1233b2c7-9d31-49ef-8c88-69ba1e732dd0",
+      "createdAt": "2026-08-28T22:06:13.960Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "mow",
+      "selection": {
+        "rawText": "mow",
+        "startOffset": 11,
+        "endOffset": 14,
+        "cueIndex": 1004,
+        "cueStart": 2920.459,
+        "cueEnd": 2923.295,
+        "cueText": "Maybe just mow\nthe occasional lawn."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 994,
+            "start": 2891.055,
+            "end": 2894.517,
+            "text": "You. A dishonorable discharge."
+          },
+          {
+            "index": 995,
+            "start": 2895.267,
+            "end": 2897.311,
+            "text": "Hip-deep in hookers."
+          },
+          {
+            "index": 996,
+            "start": 2898.02,
+            "end": 2899.647,
+            "text": "You're nothing."
+          },
+          {
+            "index": 997,
+            "start": 2900.606,
+            "end": 2902.066,
+            "text": "Little secret, Wade."
+          },
+          {
+            "index": 998,
+            "start": 2902.9,
+            "end": 2904.735,
+            "text": "This workshop\ndoesn't make superheroes,"
+          },
+          {
+            "index": 999,
+            "start": 2904.819,
+            "end": 2906.987,
+            "text": "we make super-slaves."
+          },
+          {
+            "index": 1000,
+            "start": 2908.072,
+            "end": 2909.782,
+            "text": "We're gonna fit you\nwith a control collar"
+          },
+          {
+            "index": 1001,
+            "start": 2909.865,
+            "end": 2911.826,
+            "text": "and auction you off\nto the highest bidder."
+          },
+          {
+            "index": 1002,
+            "start": 2912.618,
+            "end": 2913.994,
+            "text": "Who knows what\nthey'll have you doing?"
+          },
+          {
+            "index": 1003,
+            "start": 2914.829,
+            "end": 2918.29,
+            "text": "Terrorizing citizens,\nputting down freedom fighters."
+          },
+          {
+            "index": 1004,
+            "start": 2920.459,
+            "end": 2923.295,
+            "text": "Maybe just mow\nthe occasional lawn."
+          },
+          {
+            "index": 1005,
+            "start": 2923.796,
+            "end": 2926.257,
+            "text": "What the fuck\nis wrong with you?"
+          },
+          {
+            "index": 1006,
+            "start": 2931.512,
+            "end": 2934.223,
+            "text": "You're never going home\nafter this."
+          },
+          {
+            "index": 1007,
+            "start": 2934.39,
+            "end": 2936.6,
+            "text": "Now there's a brave face."
+          },
+          {
+            "index": 1008,
+            "start": 2937.643,
+            "end": 2939.186,
+            "text": "Wait, wait! Wait. Wait."
+          },
+          {
+            "index": 1009,
+            "start": 2941.522,
+            "end": 2945.443,
+            "text": "Seriously, you actually have\nsomething in your teeth now."
+          },
+          {
+            "index": 1010,
+            "start": 2947.361,
+            "end": 2948.737,
+            "text": "Enjoy your weekend."
+          },
+          {
+            "index": 1011,
+            "start": 2949.113,
+            "end": 2950.698,
+            "text": "\"Weekend\"? Back up."
+          },
+          {
+            "index": 1012,
+            "start": 2950.865,
+            "end": 2952.074,
+            "text": "Weekend?"
+          },
+          {
+            "index": 1013,
+            "start": 2952.908,
+            "end": 2954.577,
+            "text": "(machine hissing)"
+          },
+          {
+            "index": 1014,
+            "start": 2957.538,
+            "end": 2958.956,
+            "text": "(gasping)"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 2922.138175048828,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1004
+      }
     }
   ]
 }
