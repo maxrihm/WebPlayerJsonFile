@@ -103525,6 +103525,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1555
       }
+    },
+    {
+      "id": "6ebba8af-a46c-4a56-85ed-b34be760407c",
+      "createdAt": "2026-08-28T23:14:37.821Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "preferential,",
+      "selection": {
+        "rawText": "preferential,",
+        "startOffset": 16,
+        "endOffset": 29,
+        "cueIndex": 1598,
+        "cueStart": 5022.142,
+        "cueEnd": 5025.062,
+        "cueText": "in exchange for preferential,\nbordering on gentle..."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1588,
+            "start": 4997.784,
+            "end": 4999.119,
+            "text": "Look away!"
+          },
+          {
+            "index": 1589,
+            "start": 4999.912,
+            "end": 5001.205,
+            "text": "(screaming)"
+          },
+          {
+            "index": 1590,
+            "start": 5006.46,
+            "end": 5007.711,
+            "text": "WADE: Wait!"
+          },
+          {
+            "index": 1591,
+            "start": 5007.878,
+            "end": 5008.879,
+            "text": "Wait!"
+          },
+          {
+            "index": 1592,
+            "start": 5009.046,
+            "end": 5010.047,
+            "text": "Cease fire!"
+          },
+          {
+            "index": 1593,
+            "start": 5010.088,
+            "end": 5011.298,
+            "text": "Cease fire!"
+          },
+          {
+            "index": 1594,
+            "start": 5011.465,
+            "end": 5012.925,
+            "text": "WADE: Fellas! Hey! Hey!"
+          },
+          {
+            "index": 1595,
+            "start": 5014.301,
+            "end": 5017.888,
+            "text": "You only work for that\nshit-spackled muppet fart."
+          },
+          {
+            "index": 1596,
+            "start": 5018.055,
+            "end": 5020.224,
+            "text": "So, I'mma give you a chance"
+          },
+          {
+            "index": 1597,
+            "start": 5020.307,
+            "end": 5021.975,
+            "text": "for y'all to lay down\nyour firearms..."
+          },
+          {
+            "index": 1598,
+            "start": 5022.142,
+            "end": 5025.062,
+            "text": "in exchange for preferential,\nbordering on gentle..."
+          },
+          {
+            "index": 1599,
+            "start": 5025.229,
+            "end": 5028.649,
+            "text": "possibly even\nlover-like treatment."
+          },
+          {
+            "index": 1600,
+            "start": 5028.899,
+            "end": 5030.484,
+            "text": "(guns firing)"
+          },
+          {
+            "index": 1601,
+            "start": 5030.734,
+            "end": 5031.902,
+            "text": "Fine."
+          },
+          {
+            "index": 1602,
+            "start": 5031.944,
+            "end": 5032.986,
+            "text": "Commando!"
+          },
+          {
+            "index": 1603,
+            "start": 5033.904,
+            "end": 5035.28,
+            "text": "(grunting)"
+          },
+          {
+            "index": 1604,
+            "start": 5041.787,
+            "end": 5042.996,
+            "text": "(exhaling)"
+          },
+          {
+            "index": 1605,
+            "start": 5043.83,
+            "end": 5045.082,
+            "text": "(grunting)"
+          },
+          {
+            "index": 1606,
+            "start": 5047.251,
+            "end": 5048.252,
+            "text": "(Colossus grunts)"
+          },
+          {
+            "index": 1607,
+            "start": 5048.418,
+            "end": 5049.419,
+            "text": "(Angel Dust groans)"
+          },
+          {
+            "index": 1608,
+            "start": 5053.799,
+            "end": 5055.259,
+            "text": "(both grunting)"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 5028.092917724609,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1598
+      }
     }
   ]
 }
