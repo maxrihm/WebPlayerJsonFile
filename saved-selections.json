@@ -100006,6 +100006,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 967
       }
+    },
+    {
+      "id": "601f390b-f1bf-4c81-8a86-c308dd9b34ff",
+      "createdAt": "2026-08-28T22:03:03.369Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "step it up",
+      "selection": {
+        "rawText": "step it up",
+        "startOffset": 25,
+        "endOffset": 35,
+        "cueIndex": 976,
+        "cueStart": 2841.839,
+        "cueEnd": 2844.8,
+        "cueText": "is that you can't really\nstep it up from there."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 966,
+            "start": 2823.362,
+            "end": 2825.656,
+            "text": "FYI, I could probably get you\nthe superhero discount."
+          },
+          {
+            "index": 967,
+            "start": 2825.823,
+            "end": 2827.116,
+            "text": "You are so\nrelentlessly annoying."
+          },
+          {
+            "index": 968,
+            "start": 2827.283,
+            "end": 2828.284,
+            "text": "Thanks."
+          },
+          {
+            "index": 969,
+            "start": 2828.367,
+            "end": 2829.493,
+            "text": "Never heard that before."
+          },
+          {
+            "index": 970,
+            "start": 2829.66,
+            "end": 2832.788,
+            "text": "Why don't you do us all\na favor and shut the fuck up?"
+          },
+          {
+            "index": 971,
+            "start": 2832.955,
+            "end": 2834.957,
+            "text": "Or I'll sew\nyour pretty mouth shut."
+          },
+          {
+            "index": 972,
+            "start": 2835.416,
+            "end": 2836.667,
+            "text": "Oh..."
+          },
+          {
+            "index": 973,
+            "start": 2836.751,
+            "end": 2838.377,
+            "text": "I wouldn't do that\nif I were you."
+          },
+          {
+            "index": 974,
+            "start": 2838.544,
+            "end": 2839.837,
+            "text": "See, here's the problem"
+          },
+          {
+            "index": 975,
+            "start": 2839.92,
+            "end": 2841.672,
+            "text": "with round-the-clock\ntorture..."
+          },
+          {
+            "index": 976,
+            "start": 2841.839,
+            "end": 2844.8,
+            "text": "is that you can't really\nstep it up from there."
+          },
+          {
+            "index": 977,
+            "start": 2847.428,
+            "end": 2849.764,
+            "text": "Is that what you think?"
+          },
+          {
+            "index": 978,
+            "start": 2855.061,
+            "end": 2857.563,
+            "text": "If this doesn't unlock\nyour mutation, then, well..."
+          },
+          {
+            "index": 979,
+            "start": 2858.397,
+            "end": 2859.69,
+            "text": "nothing will."
+          },
+          {
+            "index": 980,
+            "start": 2860.107,
+            "end": 2861.359,
+            "text": "Now, what we're going to do is"
+          },
+          {
+            "index": 981,
+            "start": 2861.442,
+            "end": 2862.985,
+            "text": "lower the oxygen\nconcentration in the air..."
+          },
+          {
+            "index": 982,
+            "start": 2863.152,
+            "end": 2865.78,
+            "text": "to the exact point you feel\nlike you're suffocating."
+          },
+          {
+            "index": 983,
+            "start": 2866.072,
+            "end": 2867.323,
+            "text": "If your brainwaves slow,"
+          },
+          {
+            "index": 984,
+            "start": 2867.406,
+            "end": 2869.241,
+            "text": "meaning you're\nabout to pass out..."
+          },
+          {
+            "index": 985,
+            "start": 2869.909,
+            "end": 2871.035,
+            "text": "then we'll turn up the O2."
+          },
+          {
+            "index": 986,
+            "start": 2872.078,
+            "end": 2873.371,
+            "text": "If your heart rate slows..."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 2844.8890869140623,
+        "topCueIndex": -1,
+        "bottomCueIndex": 976
+      }
     }
   ]
 }
