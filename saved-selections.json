@@ -102148,6 +102148,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1262
       }
+    },
+    {
+      "id": "d13e8f2f-355e-4539-b145-8ff872815b9c",
+      "createdAt": "2026-08-28T22:41:00.968Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "misery.",
+      "selection": {
+        "rawText": "misery.",
+        "startOffset": 32,
+        "endOffset": 39,
+        "cueIndex": 1296,
+        "cueStart": 4056.386,
+        "cueEnd": 4059.055,
+        "cueText": "Still, we'll put him\nout of our misery."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1286,
+            "start": 4011.633,
+            "end": 4013.51,
+            "text": "to be hot again,\nget my super sexy ex back..."
+          },
+          {
+            "index": 1287,
+            "start": 4013.676,
+            "end": 4015.845,
+            "text": "and prevent this shit from\nhappening to someone else."
+          },
+          {
+            "index": 1288,
+            "start": 4016.012,
+            "end": 4017.972,
+            "text": "So, yeah,\ntoday was about as much fun"
+          },
+          {
+            "index": 1289,
+            "start": 4018.056,
+            "end": 4019.724,
+            "text": "as a sandpaper dildo."
+          },
+          {
+            "index": 1290,
+            "start": 4020.558,
+            "end": 4021.559,
+            "text": "(Wade farts)"
+          },
+          {
+            "index": 1291,
+            "start": 4021.684,
+            "end": 4023.228,
+            "text": "#driveby."
+          },
+          {
+            "index": 1292,
+            "start": 4040.703,
+            "end": 4042.664,
+            "text": "Found out who our friend\nin the red suit is."
+          },
+          {
+            "index": 1293,
+            "start": 4045.041,
+            "end": 4046.918,
+            "text": "Fucking Wade Wilson."
+          },
+          {
+            "index": 1294,
+            "start": 4047.877,
+            "end": 4050.213,
+            "text": "I suppose I'd wear a mask too\nif I had a face like that."
+          },
+          {
+            "index": 1295,
+            "start": 4050.88,
+            "end": 4052.423,
+            "text": "I only wish I healed the same."
+          },
+          {
+            "index": 1296,
+            "start": 4056.386,
+            "end": 4059.055,
+            "text": "Still, we'll put him\nout of our misery."
+          },
+          {
+            "index": 1297,
+            "start": 4059.222,
+            "end": 4060.431,
+            "text": "On our terms."
+          },
+          {
+            "index": 1298,
+            "start": 4060.848,
+            "end": 4062.6,
+            "text": "Right. And when he heals?"
+          },
+          {
+            "index": 1299,
+            "start": 4063.601,
+            "end": 4064.602,
+            "text": "He can't."
+          },
+          {
+            "index": 1300,
+            "start": 4064.769,
+            "end": 4067.272,
+            "text": "Not if there's nothing\nleft of him to heal."
+          },
+          {
+            "index": 1301,
+            "start": 4067.438,
+            "end": 4071.359,
+            "text": "You know, it's funny.\nI almost miss the fucker."
+          },
+          {
+            "index": 1302,
+            "start": 4072.777,
+            "end": 4074.195,
+            "text": "I like a challenge."
+          },
+          {
+            "index": 1303,
+            "start": 4075.572,
+            "end": 4077.615,
+            "text": "But he's bad for business."
+          },
+          {
+            "index": 1304,
+            "start": 4077.782,
+            "end": 4079.45,
+            "text": "Now let's go find him."
+          },
+          {
+            "index": 1305,
+            "start": 4080.368,
+            "end": 4081.369,
+            "text": "Oh."
+          },
+          {
+            "index": 1306,
+            "start": 4082.37,
+            "end": 4083.871,
+            "text": "(Wade grunts slowly)"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 4058.9543466796877,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1296
+      }
     }
   ]
 }
