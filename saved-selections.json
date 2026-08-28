@@ -100771,6 +100771,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1061
       }
+    },
+    {
+      "id": "89bd6fdf-4a0d-4d81-8598-466e157bd6f9",
+      "createdAt": "2026-08-28T22:15:55.793Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "el",
+      "selection": {
+        "rawText": "el",
+        "startOffset": 18,
+        "endOffset": 20,
+        "cueIndex": 1075,
+        "cueStart": 3385.424,
+        "cueEnd": 3388.093,
+        "cueText": "I got the cure\nto el everything."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1065,
+            "start": 3263.635,
+            "end": 3265.429,
+            "text": "(groaning)"
+          },
+          {
+            "index": 1066,
+            "start": 3283.989,
+            "end": 3285.115,
+            "text": "(grunts loudly)"
+          },
+          {
+            "index": 1067,
+            "start": 3286.2,
+            "end": 3287.743,
+            "text": "(retching)"
+          },
+          {
+            "index": 1068,
+            "start": 3288.786,
+            "end": 3290.662,
+            "text": "(grunts and laughs)"
+          },
+          {
+            "index": 1069,
+            "start": 3294.041,
+            "end": 3295.626,
+            "text": "(grunting)"
+          },
+          {
+            "index": 1070,
+            "start": 3298.42,
+            "end": 3300.38,
+            "text": "(Wade breathing heavily)"
+          },
+          {
+            "index": 1071,
+            "start": 3304.635,
+            "end": 3306.178,
+            "text": "What's my name?"
+          },
+          {
+            "index": 1072,
+            "start": 3312.351,
+            "end": 3313.519,
+            "text": "CUNNINGHAM: Wade."
+          },
+          {
+            "index": 1073,
+            "start": 3373.37,
+            "end": 3374.58,
+            "text": "(groans)"
+          },
+          {
+            "index": 1074,
+            "start": 3380.878,
+            "end": 3383.922,
+            "text": "WADE: I didn't just get\nthe cure to el cáncer..."
+          },
+          {
+            "index": 1075,
+            "start": 3385.424,
+            "end": 3388.093,
+            "text": "I got the cure\nto el everything."
+          },
+          {
+            "index": 1076,
+            "start": 3391.763,
+            "end": 3393.891,
+            "text": "But there was\nonly one thing..."
+          },
+          {
+            "index": 1077,
+            "start": 3394.057,
+            "end": 3395.684,
+            "text": "that really mattered."
+          },
+          {
+            "index": 1078,
+            "start": 3398.687,
+            "end": 3401.273,
+            "text": "(indistinct conversations)"
+          },
+          {
+            "index": 1079,
+            "start": 3407.362,
+            "end": 3408.906,
+            "text": "(thunder rumbling)"
+          },
+          {
+            "index": 1080,
+            "start": 3417.122,
+            "end": 3419.291,
+            "text": "(indistinct conversations)"
+          },
+          {
+            "index": 1081,
+            "start": 3420.709,
+            "end": 3421.752,
+            "text": "(infant crying)"
+          },
+          {
+            "index": 1082,
+            "start": 3425.13,
+            "end": 3426.131,
+            "text": "WOMAN: Come on, let's go."
+          },
+          {
+            "index": 1083,
+            "start": 3431.553,
+            "end": 3434.264,
+            "text": "WOMAN: Oh, that must hurt."
+          },
+          {
+            "index": 1084,
+            "start": 3435.265,
+            "end": 3436.725,
+            "text": "Thank you so much."
+          },
+          {
+            "index": 1085,
+            "start": 3437.643,
+            "end": 3439.561,
+            "text": "(indistinct\nconversations continue)"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 3387.9214440917967,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1075
+      }
     }
   ]
 }
