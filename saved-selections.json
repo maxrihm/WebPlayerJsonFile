@@ -101536,6 +101536,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 1132
       }
+    },
+    {
+      "id": "60249baf-72c0-4f60-a7da-d81eae5a5626",
+      "createdAt": "2026-08-28T22:21:31.145Z",
+      "videoName": "Deadpool",
+      "sourceUrl": "https://www.disneyplus.com/play/17854bdb-0121-4327-80a0-699fdecd1aaa",
+      "audioTrackName": "",
+      "selectedText": "for others' sake.",
+      "selection": {
+        "rawText": "for others' sake.",
+        "startOffset": 9,
+        "endOffset": 26,
+        "cueIndex": 1137,
+        "cueStart": 3565.103,
+        "cueEnd": 3567.022,
+        "cueText": "Ideally, for others' sake."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 1127,
+            "start": 3545.584,
+            "end": 3546.585,
+            "text": "Yeah."
+          },
+          {
+            "index": 1128,
+            "start": 3546.918,
+            "end": 3548.545,
+            "text": "That's good.\nYou should keep it that way."
+          },
+          {
+            "index": 1129,
+            "start": 3548.587,
+            "end": 3550.172,
+            "text": "What, like, wear a mask?"
+          },
+          {
+            "index": 1130,
+            "start": 3550.338,
+            "end": 3553.258,
+            "text": "Yes. A very thick mask.\nAll the time."
+          },
+          {
+            "index": 1131,
+            "start": 3553.925,
+            "end": 3554.926,
+            "text": "I am sorry..."
+          },
+          {
+            "index": 1132,
+            "start": 3555.093,
+            "end": 3557.596,
+            "text": "you are haunting."
+          },
+          {
+            "index": 1133,
+            "start": 3557.763,
+            "end": 3559.556,
+            "text": "Your face is\nthe stuff of nightmares."
+          },
+          {
+            "index": 1134,
+            "start": 3559.723,
+            "end": 3560.932,
+            "text": "Like a testicle with teeth."
+          },
+          {
+            "index": 1135,
+            "start": 3561.099,
+            "end": 3562.768,
+            "text": "You will die alone."
+          },
+          {
+            "index": 1136,
+            "start": 3562.934,
+            "end": 3564.561,
+            "text": "I mean, if you could die."
+          },
+          {
+            "index": 1137,
+            "start": 3565.103,
+            "end": 3567.022,
+            "text": "Ideally, for others' sake."
+          },
+          {
+            "index": 1138,
+            "start": 3567.189,
+            "end": 3568.44,
+            "text": "That'll do."
+          },
+          {
+            "index": 1139,
+            "start": 3568.732,
+            "end": 3570.4,
+            "text": "All you need now is a suit\nand a nickname..."
+          },
+          {
+            "index": 1140,
+            "start": 3570.567,
+            "end": 3572.444,
+            "text": "like Wade the Wisecracker..."
+          },
+          {
+            "index": 1141,
+            "start": 3572.861,
+            "end": 3575.947,
+            "text": "or Scaredevil, Mr. Neverdie."
+          },
+          {
+            "index": 1142,
+            "start": 3576.615,
+            "end": 3577.866,
+            "text": "Oh, shit."
+          },
+          {
+            "index": 1143,
+            "start": 3578.45,
+            "end": 3579.534,
+            "text": "What?"
+          },
+          {
+            "index": 1144,
+            "start": 3580.368,
+            "end": 3582.245,
+            "text": "I put all my money\non you and now..."
+          },
+          {
+            "index": 1145,
+            "start": 3582.412,
+            "end": 3583.872,
+            "text": "I just realized\nI'm never gonna win the, uh..."
+          },
+          {
+            "index": 1146,
+            "start": 3583.955,
+            "end": 3584.956,
+            "text": "Dead pool."
+          },
+          {
+            "index": 1147,
+            "start": 3588.919,
+            "end": 3591.213,
+            "text": "Captain Deadpool..."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 3567.6830830078125,
+        "topCueIndex": -1,
+        "bottomCueIndex": 1137
+      }
     }
   ]
 }
