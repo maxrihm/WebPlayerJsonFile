@@ -105055,6 +105055,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 61
       }
+    },
+    {
+      "id": "e32f1cd8-a728-4b84-9c7b-94fcde3922b1",
+      "createdAt": "2026-08-30T01:26:53.480Z",
+      "videoName": "Logan",
+      "sourceUrl": "https://www.disneyplus.com/play/7c1743ec-7cd6-4da4-9e8c-b713ad4e634a",
+      "audioTrackName": "",
+      "selectedText": "pullout",
+      "selection": {
+        "rawText": "pullout",
+        "startOffset": 23,
+        "endOffset": 30,
+        "cueIndex": 88,
+        "cueStart": 460.043,
+        "cueEnd": 462.253,
+        "cueText": "three dead cholos\nin a pullout on 54."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 78,
+            "start": 432.349,
+            "end": 433.475,
+            "text": "(COUGHING)"
+          },
+          {
+            "index": 79,
+            "start": 435.518,
+            "end": 436.603,
+            "text": "(DOOR OPENING)"
+          },
+          {
+            "index": 80,
+            "start": 441.191,
+            "end": 444.861,
+            "text": "As I live and breathe,\nthe Wolverine."
+          },
+          {
+            "index": 81,
+            "start": 445.445,
+            "end": 447.113,
+            "text": "And he's a junkie now."
+          },
+          {
+            "index": 82,
+            "start": 447.28,
+            "end": 448.74,
+            "text": "Who the fuck are you?"
+          },
+          {
+            "index": 83,
+            "start": 448.865,
+            "end": 452.41,
+            "text": "You know, you got some\nbuckshot in your door."
+          },
+          {
+            "index": 84,
+            "start": 452.744,
+            "end": 454.245,
+            "text": "I heard you was in Phoenix."
+          },
+          {
+            "index": 85,
+            "start": 455.08,
+            "end": 457.248,
+            "text": "But then, last night,\nsome friends of mine"
+          },
+          {
+            "index": 86,
+            "start": 457.374,
+            "end": 458.541,
+            "text": "in Texas HP called..."
+          },
+          {
+            "index": 87,
+            "start": 458.708,
+            "end": 459.918,
+            "text": "and told me they found"
+          },
+          {
+            "index": 88,
+            "start": 460.043,
+            "end": 462.253,
+            "text": "three dead cholos\nin a pullout on 54."
+          },
+          {
+            "index": 89,
+            "start": 463.254,
+            "end": 465.548,
+            "text": "Not unusual, I know."
+          },
+          {
+            "index": 90,
+            "start": 465.715,
+            "end": 468.218,
+            "text": "Except one was missing a hand,\nanother one a leg."
+          },
+          {
+            "index": 91,
+            "start": 469.302,
+            "end": 470.762,
+            "text": "So they was thinking..."
+          },
+          {
+            "index": 92,
+            "start": 470.929,
+            "end": 473.974,
+            "text": "it was either an escaped tiger\nor Freddy Krueger."
+          },
+          {
+            "index": 93,
+            "start": 474.766,
+            "end": 476.559,
+            "text": "But neither one of them\ncan drive..."
+          },
+          {
+            "index": 94,
+            "start": 476.726,
+            "end": 479.729,
+            "text": "one being fictional,\nthe other one extinct."
+          },
+          {
+            "index": 95,
+            "start": 479.896,
+            "end": 482.065,
+            "text": "And since the wheel lugs\nthey found"
+          },
+          {
+            "index": 96,
+            "start": 482.107,
+            "end": 484.067,
+            "text": "belonged to a '24 Chrysler..."
+          },
+          {
+            "index": 97,
+            "start": 485.402,
+            "end": 486.236,
+            "text": "and, well..."
+          },
+          {
+            "index": 98,
+            "start": 486.736,
+            "end": 488.78,
+            "text": "this is a '24 Chrysler."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 462.62628100585937,
+        "topCueIndex": -1,
+        "bottomCueIndex": 88
+      }
     }
   ]
 }
