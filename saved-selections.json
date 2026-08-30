@@ -104902,6 +104902,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 61
       }
+    },
+    {
+      "id": "d495762a-7344-40b2-9ecd-5526fc265c2b",
+      "createdAt": "2026-08-30T01:23:37.280Z",
+      "videoName": "Logan",
+      "sourceUrl": "https://www.disneyplus.com/play/7c1743ec-7cd6-4da4-9e8c-b713ad4e634a",
+      "audioTrackName": "",
+      "selectedText": "Killed it",
+      "selection": {
+        "rawText": "Killed it",
+        "startOffset": 0,
+        "endOffset": 9,
+        "cueIndex": 61,
+        "cueStart": 308.517,
+        "cueEnd": 310.227,
+        "cueText": "Killed it up and down\nthe fence."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 51,
+            "start": 274.149,
+            "end": 275.984,
+            "text": "-(BULLETS CLATTERING)\n-(GRUNTING)"
+          },
+          {
+            "index": 52,
+            "start": 276.943,
+            "end": 277.944,
+            "text": "(SPITS)"
+          },
+          {
+            "index": 53,
+            "start": 289.539,
+            "end": 291.208,
+            "text": "CLYDE: (ON RADIO)\nEveryone's asleep, Burt."
+          },
+          {
+            "index": 54,
+            "start": 291.374,
+            "end": 293.668,
+            "text": "Sleepwalking.\nBetween the ice caps,"
+          },
+          {
+            "index": 55,
+            "start": 293.752,
+            "end": 295.67,
+            "text": "the pornographers,\npoisoned water, mutants..."
+          },
+          {
+            "index": 56,
+            "start": 296.213,
+            "end": 297.506,
+            "text": "it's all connected."
+          },
+          {
+            "index": 57,
+            "start": 297.798,
+            "end": 299.966,
+            "text": "BURT: Hey, Clyde. It's 2029."
+          },
+          {
+            "index": 58,
+            "start": 300.05,
+            "end": 302.302,
+            "text": "Why are we still\ntalking about mutants?"
+          },
+          {
+            "index": 59,
+            "start": 303.637,
+            "end": 306.097,
+            "text": "Hey, it's me. I'm in the car."
+          },
+          {
+            "index": 60,
+            "start": 306.181,
+            "end": 307.474,
+            "text": "Yeah, it was a good trip."
+          },
+          {
+            "index": 61,
+            "start": 308.517,
+            "end": 310.227,
+            "text": "Killed it up and down\nthe fence."
+          },
+          {
+            "index": 62,
+            "start": 310.352,
+            "end": 312.854,
+            "text": "BOYS: (CHANTING)\nUSA! USA! USA!"
+          },
+          {
+            "index": 63,
+            "start": 314.773,
+            "end": 319.694,
+            "text": "USA! USA! USA! USA!"
+          },
+          {
+            "index": 64,
+            "start": 334.501,
+            "end": 336.545,
+            "text": "(MAN SPEAKING INDISTINCTLY)"
+          },
+          {
+            "index": 65,
+            "start": 346.888,
+            "end": 348.056,
+            "text": "GABRIELA: Wolverine."
+          },
+          {
+            "index": 66,
+            "start": 350.1,
+            "end": 351.101,
+            "text": "I knew it was you."
+          },
+          {
+            "index": 67,
+            "start": 352.394,
+            "end": 354.02,
+            "text": "-Oh, fuck.\n-Please!"
+          },
+          {
+            "index": 68,
+            "start": 354.104,
+            "end": 355.23,
+            "text": "I'm in trouble!"
+          },
+          {
+            "index": 69,
+            "start": 355.897,
+            "end": 358.024,
+            "text": "You're the only one\nthat could help!"
+          },
+          {
+            "index": 70,
+            "start": 358.733,
+            "end": 360.151,
+            "text": "(GABRIELA SPEAKING SPANISH)"
+          },
+          {
+            "index": 71,
+            "start": 360.235,
+            "end": 361.736,
+            "text": "Get the fuck away from me!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 310.2552099609375,
+        "topCueIndex": -1,
+        "bottomCueIndex": 61
+      }
     }
   ]
 }
