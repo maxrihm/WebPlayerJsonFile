@@ -104596,6 +104596,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 20
       }
+    },
+    {
+      "id": "2fa1a4df-3c50-4eb8-bbb5-b1ffc8e0b0d2",
+      "createdAt": "2026-08-30T01:18:15.992Z",
+      "videoName": "Logan",
+      "sourceUrl": "https://www.disneyplus.com/play/7c1743ec-7cd6-4da4-9e8c-b713ad4e634a",
+      "audioTrackName": "",
+      "selectedText": "plating",
+      "selection": {
+        "rawText": "plating",
+        "startOffset": 4,
+        "endOffset": 11,
+        "cueIndex": 20,
+        "cueStart": 105.439,
+        "cueEnd": 107.107,
+        "cueText": "The plating flakes off."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 10,
+            "start": 74.116,
+            "end": 75.576,
+            "text": "MAN 1: Gonna get some green"
+          },
+          {
+            "index": 11,
+            "start": 75.617,
+            "end": 77.119,
+            "text": "for this shit right here,\nhomes."
+          },
+          {
+            "index": 12,
+            "start": 77.327,
+            "end": 78.787,
+            "text": "(GROANS)"
+          },
+          {
+            "index": 13,
+            "start": 78.829,
+            "end": 79.83,
+            "text": "Fuck."
+          },
+          {
+            "index": 14,
+            "start": 79.955,
+            "end": 81.748,
+            "text": "(MEN CONTINUE\nSPEAKING INDISTINCTLY)"
+          },
+          {
+            "index": 15,
+            "start": 83.125,
+            "end": 84.126,
+            "text": "MAN 1: Hey."
+          },
+          {
+            "index": 16,
+            "start": 84.251,
+            "end": 85.794,
+            "text": "(MUSIC PLAYING ON SPEAKERS)"
+          },
+          {
+            "index": 17,
+            "start": 99.6,
+            "end": 100.434,
+            "text": "Uh, guys?"
+          },
+          {
+            "index": 18,
+            "start": 101.643,
+            "end": 104.104,
+            "text": "Those are chrome-plated lugs.\nYou're gonna strip them."
+          },
+          {
+            "index": 19,
+            "start": 104.271,
+            "end": 105.272,
+            "text": "MAN 1: Look at this guy, eh?"
+          },
+          {
+            "index": 20,
+            "start": 105.439,
+            "end": 107.107,
+            "text": "The plating flakes off."
+          },
+          {
+            "index": 21,
+            "start": 107.274,
+            "end": 108.358,
+            "text": "Yeah?"
+          },
+          {
+            "index": 22,
+            "start": 108.525,
+            "end": 109.943,
+            "text": "This is a lease.\nNo one's gonna pay to ride..."
+          },
+          {
+            "index": 23,
+            "start": 109.985,
+            "end": 110.986,
+            "text": "(GUNSHOT)"
+          },
+          {
+            "index": 24,
+            "start": 112.029,
+            "end": 113.697,
+            "text": "(MAN LAUGHING)"
+          },
+          {
+            "index": 25,
+            "start": 113.989,
+            "end": 117.701,
+            "text": "(MEN SPEAKING SPANISH)"
+          },
+          {
+            "index": 26,
+            "start": 117.826,
+            "end": 118.827,
+            "text": "(GROANING)"
+          },
+          {
+            "index": 27,
+            "start": 123.665,
+            "end": 124.666,
+            "text": "Shit."
+          },
+          {
+            "index": 28,
+            "start": 129.171,
+            "end": 130.088,
+            "text": "MAN 3: Come on, man."
+          },
+          {
+            "index": 29,
+            "start": 134.676,
+            "end": 136.345,
+            "text": "Uh, guys, guys."
+          },
+          {
+            "index": 30,
+            "start": 136.428,
+            "end": 137.596,
+            "text": "MAN 1: What the fuck?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 107.70009912109376,
+        "topCueIndex": -1,
+        "bottomCueIndex": 20
+      }
     }
   ]
 }
