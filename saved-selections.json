@@ -107763,6 +107763,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 212
       }
+    },
+    {
+      "id": "99f04944-07e0-44c1-b0db-b6cf00f690c1",
+      "createdAt": "2026-09-10T20:10:51.936Z",
+      "videoName": "The Simpsons",
+      "sourceUrl": "https://www.disneyplus.com/play/e7b385fe-ec23-491c-93bb-e2cbc2dc8f10",
+      "audioTrackName": "",
+      "selectedText": "prejudice",
+      "selection": {
+        "rawText": "prejudice",
+        "startOffset": 13,
+        "endOffset": 22,
+        "cueIndex": 216,
+        "cueStart": 645.353,
+        "cueEnd": 648.314,
+        "cueText": "We face that prejudice\nevery day of our lives,"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 206,
+            "start": 622.496,
+            "end": 623.873,
+            "text": "You speak English."
+          },
+          {
+            "index": 207,
+            "start": 623.956,
+            "end": 626.042,
+            "text": "I am actually\nspeaking Rigellian."
+          },
+          {
+            "index": 208,
+            "start": 626.125,
+            "end": 627.543,
+            "text": "By an astonishing\ncoincidence,"
+          },
+          {
+            "index": 209,
+            "start": 627.627,
+            "end": 630.129,
+            "text": "both of our languages\nare exactly the same."
+          },
+          {
+            "index": 210,
+            "start": 630.212,
+            "end": 631.797,
+            "text": "Well, what are you gonna\ndo with us, man?"
+          },
+          {
+            "index": 211,
+            "start": 631.881,
+            "end": 634.425,
+            "text": "Kodos and I are taking you\nto Rigel Four--"
+          },
+          {
+            "index": 212,
+            "start": 634.508,
+            "end": 638.471,
+            "text": "a world of infinite delights\nto tantalize your senses"
+          },
+          {
+            "index": 213,
+            "start": 638.554,
+            "end": 641.515,
+            "text": "and challenge\nyour intellectual limitations."
+          },
+          {
+            "index": 214,
+            "start": 641.599,
+            "end": 643.225,
+            "text": "Look, I know that to you"
+          },
+          {
+            "index": 215,
+            "start": 643.309,
+            "end": 645.269,
+            "text": "we Simpsons are\na lower order of life."
+          },
+          {
+            "index": 216,
+            "start": 645.353,
+            "end": 648.314,
+            "text": "We face that prejudice\nevery day of our lives,"
+          },
+          {
+            "index": 217,
+            "start": 648.397,
+            "end": 650.399,
+            "text": "but we are happy\non our little planet."
+          },
+          {
+            "index": 218,
+            "start": 650.483,
+            "end": 652.401,
+            "text": "We throw ourselves\non your mercy."
+          },
+          {
+            "index": 219,
+            "start": 652.485,
+            "end": 654.695,
+            "text": "-Please return us to--\n-KODOS: Dinnertime."
+          },
+          {
+            "index": 220,
+            "start": 654.779,
+            "end": 656.739,
+            "text": "Hey, get a load\nof that spread."
+          },
+          {
+            "index": 221,
+            "start": 656.822,
+            "end": 658.115,
+            "text": "Here you go, Earthlings."
+          },
+          {
+            "index": 222,
+            "start": 658.199,
+            "end": 660.576,
+            "text": "Take all you want,\nbut eat all you take."
+          },
+          {
+            "index": 223,
+            "start": 660.66,
+            "end": 662.578,
+            "text": "Well, thank you\nvery much, mister...?"
+          },
+          {
+            "index": 224,
+            "start": 662.662,
+            "end": 664.747,
+            "text": "To pronounce it correctly,"
+          },
+          {
+            "index": 225,
+            "start": 664.83,
+            "end": 667.667,
+            "text": "I would have to\npull out your tongue."
+          },
+          {
+            "index": 226,
+            "start": 667.75,
+            "end": 669.043,
+            "text": "Eww."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 647.7040100097656,
+        "topCueIndex": -1,
+        "bottomCueIndex": 216
+      }
     }
   ]
 }
