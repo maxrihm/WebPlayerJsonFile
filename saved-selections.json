@@ -107610,6 +107610,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 212
       }
+    },
+    {
+      "id": "1806e0f0-c5f6-42d3-a8df-075eb255054d",
+      "createdAt": "2026-09-10T20:10:09.384Z",
+      "videoName": "The Simpsons",
+      "sourceUrl": "https://www.disneyplus.com/play/e7b385fe-ec23-491c-93bb-e2cbc2dc8f10",
+      "audioTrackName": "",
+      "selectedText": "tantalize",
+      "selection": {
+        "rawText": "tantalize",
+        "startOffset": 32,
+        "endOffset": 41,
+        "cueIndex": 212,
+        "cueStart": 634.508,
+        "cueEnd": 638.471,
+        "cueText": "a world of infinite delights\nto tantalize your senses"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 202,
+            "start": 613.029,
+            "end": 615.031,
+            "text": "(quivering)"
+          },
+          {
+            "index": 203,
+            "start": 615.114,
+            "end": 616.324,
+            "text": "Greetings, Earthlings."
+          },
+          {
+            "index": 204,
+            "start": 616.407,
+            "end": 619.702,
+            "text": "I am Kang.\nDo not be frightened."
+          },
+          {
+            "index": 205,
+            "start": 619.785,
+            "end": 622.413,
+            "text": "We mean you no harm."
+          },
+          {
+            "index": 206,
+            "start": 622.496,
+            "end": 623.873,
+            "text": "You speak English."
+          },
+          {
+            "index": 207,
+            "start": 623.956,
+            "end": 626.042,
+            "text": "I am actually\nspeaking Rigellian."
+          },
+          {
+            "index": 208,
+            "start": 626.125,
+            "end": 627.543,
+            "text": "By an astonishing\ncoincidence,"
+          },
+          {
+            "index": 209,
+            "start": 627.627,
+            "end": 630.129,
+            "text": "both of our languages\nare exactly the same."
+          },
+          {
+            "index": 210,
+            "start": 630.212,
+            "end": 631.797,
+            "text": "Well, what are you gonna\ndo with us, man?"
+          },
+          {
+            "index": 211,
+            "start": 631.881,
+            "end": 634.425,
+            "text": "Kodos and I are taking you\nto Rigel Four--"
+          },
+          {
+            "index": 212,
+            "start": 634.508,
+            "end": 638.471,
+            "text": "a world of infinite delights\nto tantalize your senses"
+          },
+          {
+            "index": 213,
+            "start": 638.554,
+            "end": 641.515,
+            "text": "and challenge\nyour intellectual limitations."
+          },
+          {
+            "index": 214,
+            "start": 641.599,
+            "end": 643.225,
+            "text": "Look, I know that to you"
+          },
+          {
+            "index": 215,
+            "start": 643.309,
+            "end": 645.269,
+            "text": "we Simpsons are\na lower order of life."
+          },
+          {
+            "index": 216,
+            "start": 645.353,
+            "end": 648.314,
+            "text": "We face that prejudice\nevery day of our lives,"
+          },
+          {
+            "index": 217,
+            "start": 648.397,
+            "end": 650.399,
+            "text": "but we are happy\non our little planet."
+          },
+          {
+            "index": 218,
+            "start": 650.483,
+            "end": 652.401,
+            "text": "We throw ourselves\non your mercy."
+          },
+          {
+            "index": 219,
+            "start": 652.485,
+            "end": 654.695,
+            "text": "-Please return us to--\n-KODOS: Dinnertime."
+          },
+          {
+            "index": 220,
+            "start": 654.779,
+            "end": 656.739,
+            "text": "Hey, get a load\nof that spread."
+          },
+          {
+            "index": 221,
+            "start": 656.822,
+            "end": 658.115,
+            "text": "Here you go, Earthlings."
+          },
+          {
+            "index": 222,
+            "start": 658.199,
+            "end": 660.576,
+            "text": "Take all you want,\nbut eat all you take."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 638.221875,
+        "topCueIndex": -1,
+        "bottomCueIndex": 212
+      }
     }
   ]
 }
