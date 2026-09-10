@@ -105774,6 +105774,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 44
       }
+    },
+    {
+      "id": "93b2994d-b3a2-4ed9-9e4a-2041e8ed0393",
+      "createdAt": "2026-09-10T19:51:44.239Z",
+      "videoName": "The Simpsons",
+      "sourceUrl": "https://www.disneyplus.com/play/e7b385fe-ec23-491c-93bb-e2cbc2dc8f10",
+      "audioTrackName": "",
+      "selectedText": "Prime",
+      "selection": {
+        "rawText": "Prime",
+        "startOffset": 0,
+        "endOffset": 5,
+        "cueIndex": 47,
+        "cueStart": 135.802,
+        "cueEnd": 138.429,
+        "cueText": "Prime location,\n18 bedrooms, moat."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 37,
+            "start": 110.527,
+            "end": 112.862,
+            "text": "(Bart laughing maniacally)"
+          },
+          {
+            "index": 38,
+            "start": 116.991,
+            "end": 118.576,
+            "text": "That's all of it.\nSign here."
+          },
+          {
+            "index": 39,
+            "start": 118.66,
+            "end": 120.745,
+            "text": "There you are, my man,"
+          },
+          {
+            "index": 40,
+            "start": 120.829,
+            "end": 122.539,
+            "text": "and a dollar\nfor yourself."
+          },
+          {
+            "index": 41,
+            "start": 122.622,
+            "end": 125.875,
+            "text": "A buck. I'm glad there's\na curse on this place."
+          },
+          {
+            "index": 42,
+            "start": 125.959,
+            "end": 126.918,
+            "text": "Huh?"
+          },
+          {
+            "index": 43,
+            "start": 127.001,
+            "end": 128.962,
+            "text": "Well, it's all ours."
+          },
+          {
+            "index": 44,
+            "start": 129.045,
+            "end": 131.548,
+            "text": "I still can't believe\nhow inexpensive it was."
+          },
+          {
+            "index": 45,
+            "start": 131.631,
+            "end": 133.424,
+            "text": "Motivated seller, Marge."
+          },
+          {
+            "index": 46,
+            "start": 133.508,
+            "end": 135.718,
+            "text": "Well, he certainly\nmust have been motivated."
+          },
+          {
+            "index": 47,
+            "start": 135.802,
+            "end": 138.429,
+            "text": "Prime location,\n18 bedrooms, moat."
+          },
+          {
+            "index": 48,
+            "start": 138.513,
+            "end": 140.265,
+            "text": "We shouldn't be able\nto afford this."
+          },
+          {
+            "index": 49,
+            "start": 140.348,
+            "end": 142.308,
+            "text": "So we got a good deal\nfor once."
+          },
+          {
+            "index": 50,
+            "start": 142.392,
+            "end": 144.269,
+            "text": "Quit fighting it."
+          },
+          {
+            "index": 51,
+            "start": 144.352,
+            "end": 146.187,
+            "text": "It just seems too good\nto be true."
+          },
+          {
+            "index": 52,
+            "start": 147.564,
+            "end": 149.816,
+            "text": "Ow! Mom, Bart threw\na book at me!"
+          },
+          {
+            "index": 53,
+            "start": 149.899,
+            "end": 151.109,
+            "text": "-Did not.\n-Did too!"
+          },
+          {
+            "index": 54,
+            "start": 151.192,
+            "end": 152.402,
+            "text": "-Did not!\n-Did too!"
+          },
+          {
+            "index": 55,
+            "start": 152.485,
+            "end": 154.571,
+            "text": "MALE VOICE:\nGet out!"
+          },
+          {
+            "index": 56,
+            "start": 154.654,
+            "end": 156.698,
+            "text": "MARGE:\nWhat on Earth was that?"
+          },
+          {
+            "index": 57,
+            "start": 156.781,
+            "end": 158.491,
+            "text": "Hmm. Probably just\nthe house settling."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 136.89288793945312,
+        "topCueIndex": -1,
+        "bottomCueIndex": 47
+      }
     }
   ]
 }
