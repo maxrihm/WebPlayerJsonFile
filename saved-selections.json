@@ -105468,6 +105468,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 17
       }
+    },
+    {
+      "id": "35774314-9764-4e76-b7cb-a33d19469871",
+      "createdAt": "2026-09-10T19:49:37.461Z",
+      "videoName": "The Simpsons",
+      "sourceUrl": "https://www.disneyplus.com/play/e7b385fe-ec23-491c-93bb-e2cbc2dc8f10",
+      "audioTrackName": "",
+      "selectedText": "Yawn.",
+      "selection": {
+        "rawText": "Yawn.",
+        "startOffset": 0,
+        "endOffset": 5,
+        "cueIndex": 27,
+        "cueStart": 90.131,
+        "cueEnd": 92.05,
+        "cueText": "Yawn. I heard that when\nI was in the third grade."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 17,
+            "start": 68.359,
+            "end": 70.111,
+            "text": "Ooh, what a haul this year."
+          },
+          {
+            "index": 18,
+            "start": 70.195,
+            "end": 71.863,
+            "text": "I love Halloween."
+          },
+          {
+            "index": 19,
+            "start": 73.281,
+            "end": 75.2,
+            "text": "Heh, heh.\nWait a minute."
+          },
+          {
+            "index": 20,
+            "start": 75.283,
+            "end": 77.869,
+            "text": "Let's see what\nthe kids are up to."
+          },
+          {
+            "index": 21,
+            "start": 77.952,
+            "end": 80.538,
+            "text": "...and the policeman on the\nother end of the phone said"
+          },
+          {
+            "index": 22,
+            "start": 80.622,
+            "end": 82.457,
+            "text": "\"We have traced the call."
+          },
+          {
+            "index": 23,
+            "start": 82.54,
+            "end": 84.626,
+            "text": "\"It's coming from\nthe floor below you."
+          },
+          {
+            "index": 24,
+            "start": 84.709,
+            "end": 86.461,
+            "text": "Get out of the house!\""
+          },
+          {
+            "index": 25,
+            "start": 86.544,
+            "end": 88.505,
+            "text": "But it was too late."
+          },
+          {
+            "index": 26,
+            "start": 88.588,
+            "end": 90.048,
+            "text": "End of story."
+          },
+          {
+            "index": 27,
+            "start": 90.131,
+            "end": 92.05,
+            "text": "Yawn. I heard that when\nI was in the third grade."
+          },
+          {
+            "index": 28,
+            "start": 92.133,
+            "end": 93.093,
+            "text": "It's not scary."
+          },
+          {
+            "index": 29,
+            "start": 93.176,
+            "end": 94.135,
+            "text": "-Is too!\n-Is not."
+          },
+          {
+            "index": 30,
+            "start": 94.219,
+            "end": 95.178,
+            "text": "-Is too!\n-Is not!"
+          },
+          {
+            "index": 31,
+            "start": 95.261,
+            "end": 96.262,
+            "text": "-Is too.\n-Is not!"
+          },
+          {
+            "index": 32,
+            "start": 96.346,
+            "end": 98.598,
+            "text": "Fine!\nThen you tell one scarier."
+          },
+          {
+            "index": 33,
+            "start": 98.681,
+            "end": 100.225,
+            "text": "Flashlight, please."
+          },
+          {
+            "index": 34,
+            "start": 101.851,
+            "end": 105.396,
+            "text": "Here's a story\nthat's really scarifying."
+          },
+          {
+            "index": 35,
+            "start": 105.48,
+            "end": 106.397,
+            "text": "LISA:\nOh, brother."
+          },
+          {
+            "index": 36,
+            "start": 106.481,
+            "end": 108.108,
+            "text": "I call it..."
+          },
+          {
+            "index": 37,
+            "start": 110.527,
+            "end": 112.862,
+            "text": "(Bart laughing maniacally)"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 90.98069799804688,
+        "topCueIndex": -1,
+        "bottomCueIndex": 27
+      }
     }
   ]
 }
