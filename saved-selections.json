@@ -105927,6 +105927,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 47
       }
+    },
+    {
+      "id": "f665e50a-1af7-4132-a904-7711422efbf9",
+      "createdAt": "2026-09-10T19:53:41.569Z",
+      "videoName": "The Simpsons",
+      "sourceUrl": "https://www.disneyplus.com/play/e7b385fe-ec23-491c-93bb-e2cbc2dc8f10",
+      "audioTrackName": "",
+      "selectedText": "settling.",
+      "selection": {
+        "rawText": "settling.",
+        "startOffset": 29,
+        "endOffset": 38,
+        "cueIndex": 57,
+        "cueStart": 156.781,
+        "cueEnd": 158.491,
+        "cueText": "Hmm. Probably just\nthe house settling."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 47,
+            "start": 135.802,
+            "end": 138.429,
+            "text": "Prime location,\n18 bedrooms, moat."
+          },
+          {
+            "index": 48,
+            "start": 138.513,
+            "end": 140.265,
+            "text": "We shouldn't be able\nto afford this."
+          },
+          {
+            "index": 49,
+            "start": 140.348,
+            "end": 142.308,
+            "text": "So we got a good deal\nfor once."
+          },
+          {
+            "index": 50,
+            "start": 142.392,
+            "end": 144.269,
+            "text": "Quit fighting it."
+          },
+          {
+            "index": 51,
+            "start": 144.352,
+            "end": 146.187,
+            "text": "It just seems too good\nto be true."
+          },
+          {
+            "index": 52,
+            "start": 147.564,
+            "end": 149.816,
+            "text": "Ow! Mom, Bart threw\na book at me!"
+          },
+          {
+            "index": 53,
+            "start": 149.899,
+            "end": 151.109,
+            "text": "-Did not.\n-Did too!"
+          },
+          {
+            "index": 54,
+            "start": 151.192,
+            "end": 152.402,
+            "text": "-Did not!\n-Did too!"
+          },
+          {
+            "index": 55,
+            "start": 152.485,
+            "end": 154.571,
+            "text": "MALE VOICE:\nGet out!"
+          },
+          {
+            "index": 56,
+            "start": 154.654,
+            "end": 156.698,
+            "text": "MARGE:\nWhat on Earth was that?"
+          },
+          {
+            "index": 57,
+            "start": 156.781,
+            "end": 158.491,
+            "text": "Hmm. Probably just\nthe house settling."
+          },
+          {
+            "index": 58,
+            "start": 158.575,
+            "end": 159.576,
+            "text": "(Marge groans)"
+          },
+          {
+            "index": 59,
+            "start": 163.872,
+            "end": 167.709,
+            "text": "Hmm, this kitchen certainly\ncould use a woman's touch."
+          },
+          {
+            "index": 60,
+            "start": 170.128,
+            "end": 171.421,
+            "text": "Homer!"
+          },
+          {
+            "index": 61,
+            "start": 171.504,
+            "end": 173.173,
+            "text": "What's this thing\nin the corner?"
+          },
+          {
+            "index": 62,
+            "start": 173.256,
+            "end": 175.675,
+            "text": "-I dunno.\n-It looks like a vortex--"
+          },
+          {
+            "index": 63,
+            "start": 175.758,
+            "end": 178.052,
+            "text": "a gateway\ninto another dimension."
+          },
+          {
+            "index": 64,
+            "start": 178.136,
+            "end": 180.305,
+            "text": "Ooh, a vortex."
+          },
+          {
+            "index": 65,
+            "start": 180.388,
+            "end": 181.806,
+            "text": "Catch!"
+          },
+          {
+            "index": 66,
+            "start": 185.435,
+            "end": 187.729,
+            "text": "Hey, pretty slick."
+          },
+          {
+            "index": 67,
+            "start": 189.189,
+            "end": 190.064,
+            "text": "Huh?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 158.91881298828125,
+        "topCueIndex": -1,
+        "bottomCueIndex": 57
+      }
     }
   ]
 }
