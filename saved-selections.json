@@ -108069,6 +108069,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 220
       }
+    },
+    {
+      "id": "c7002c0d-afa9-4a23-a096-ad6987e76add",
+      "createdAt": "2026-09-10T20:14:05.925Z",
+      "videoName": "The Simpsons",
+      "sourceUrl": "https://www.disneyplus.com/play/e7b385fe-ec23-491c-93bb-e2cbc2dc8f10",
+      "audioTrackName": "",
+      "selectedText": "Get with the times,",
+      "selection": {
+        "rawText": "Get with the times,",
+        "startOffset": 23,
+        "endOffset": 42,
+        "cueIndex": 250,
+        "cueStart": 726.517,
+        "cueEnd": 729.061,
+        "cueText": "Hey, that's just Pong.\nGet with the times, man."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 240,
+            "start": 705.454,
+            "end": 707.248,
+            "text": "with unlimited\nentertainment on your..."
+          },
+          {
+            "index": 241,
+            "start": 707.331,
+            "end": 709.917,
+            "text": "intergalactic journey."
+          },
+          {
+            "index": 242,
+            "start": 710,
+            "end": 712.169,
+            "text": "On this cable system,\nwe receive over one million"
+          },
+          {
+            "index": 243,
+            "start": 712.253,
+            "end": 714.63,
+            "text": "channels from the furthest\nreaches of the galaxy."
+          },
+          {
+            "index": 244,
+            "start": 714.714,
+            "end": 715.84,
+            "text": "You get HBO?"
+          },
+          {
+            "index": 245,
+            "start": 715.923,
+            "end": 717.258,
+            "text": "No. That would cost extra."
+          },
+          {
+            "index": 246,
+            "start": 717.341,
+            "end": 719.51,
+            "text": "And over here is\nour crowning achievement"
+          },
+          {
+            "index": 247,
+            "start": 719.593,
+            "end": 721.929,
+            "text": "in amusement technology--\nan electronic version"
+          },
+          {
+            "index": 248,
+            "start": 722.012,
+            "end": 724.014,
+            "text": "of what you call table tennis."
+          },
+          {
+            "index": 249,
+            "start": 724.098,
+            "end": 726.434,
+            "text": "Your primitive paddles\nhave been replaced by an electronic--"
+          },
+          {
+            "index": 250,
+            "start": 726.517,
+            "end": 729.061,
+            "text": "Hey, that's just Pong.\nGet with the times, man."
+          },
+          {
+            "index": 251,
+            "start": 729.145,
+            "end": 732.356,
+            "text": "Marge and I played that old\ngame before we were married."
+          },
+          {
+            "index": 252,
+            "start": 732.44,
+            "end": 734.358,
+            "text": "Well, we did build\nthis spaceship, you know."
+          },
+          {
+            "index": 253,
+            "start": 734.442,
+            "end": 735.901,
+            "text": "Anyone from a species"
+          },
+          {
+            "index": 254,
+            "start": 735.985,
+            "end": 737.278,
+            "text": "that has mastered\nintergalactic travel,"
+          },
+          {
+            "index": 255,
+            "start": 737.361,
+            "end": 739.196,
+            "text": "raise your hand."
+          },
+          {
+            "index": 256,
+            "start": 744.952,
+            "end": 746.62,
+            "text": "All right, then."
+          },
+          {
+            "index": 257,
+            "start": 746.704,
+            "end": 749.331,
+            "text": "Sorry.\nYour game is very nice."
+          },
+          {
+            "index": 258,
+            "start": 751.959,
+            "end": 753.878,
+            "text": "Dinnertime."
+          },
+          {
+            "index": 259,
+            "start": 753.961,
+            "end": 755.838,
+            "text": "Hey, how come we\nnever see you guys eat?"
+          },
+          {
+            "index": 260,
+            "start": 755.921,
+            "end": 759.717,
+            "text": "Oh, we wouldn't\nwant to spoil our appetite"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 728.9894599609376,
+        "topCueIndex": -1,
+        "bottomCueIndex": 250
+      }
     }
   ]
 }
