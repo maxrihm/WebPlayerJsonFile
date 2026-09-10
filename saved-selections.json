@@ -106692,6 +106692,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 120
       }
+    },
+    {
+      "id": "3520fa65-2571-4a0f-98b1-c3673fd9f90c",
+      "createdAt": "2026-09-10T20:01:45.020Z",
+      "videoName": "The Simpsons",
+      "sourceUrl": "https://www.disneyplus.com/play/e7b385fe-ec23-491c-93bb-e2cbc2dc8f10",
+      "audioTrackName": "",
+      "selectedText": "recollection.",
+      "selection": {
+        "rawText": "recollection.",
+        "startOffset": 20,
+        "endOffset": 33,
+        "cueIndex": 132,
+        "cueStart": 379.837,
+        "cueEnd": 382.382,
+        "cueText": "Well, that's not\nmy recollection."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 122,
+            "start": 347.305,
+            "end": 349.14,
+            "text": "and I blame this house."
+          },
+          {
+            "index": 123,
+            "start": 349.223,
+            "end": 351.809,
+            "text": "Mom, Dad, look!"
+          },
+          {
+            "index": 124,
+            "start": 353.895,
+            "end": 356.064,
+            "text": "LISA: It's an ancient\nIndian burial ground."
+          },
+          {
+            "index": 125,
+            "start": 356.147,
+            "end": 359.025,
+            "text": "BART: Man, this place\nhas got everything."
+          },
+          {
+            "index": 126,
+            "start": 359.108,
+            "end": 360.693,
+            "text": "An ancient Indian what?"
+          },
+          {
+            "index": 127,
+            "start": 364.03,
+            "end": 367.158,
+            "text": "Mr. Plute,\nHomer Simpson here."
+          },
+          {
+            "index": 128,
+            "start": 367.241,
+            "end": 369.035,
+            "text": "When you sold me this house"
+          },
+          {
+            "index": 129,
+            "start": 369.118,
+            "end": 371.371,
+            "text": "you forgot to mention\none little thing."
+          },
+          {
+            "index": 130,
+            "start": 371.454,
+            "end": 376.751,
+            "text": "You didn't tell me it was built\non an Indian burial ground!"
+          },
+          {
+            "index": 131,
+            "start": 376.834,
+            "end": 379.754,
+            "text": "No. You. Didn't!"
+          },
+          {
+            "index": 132,
+            "start": 379.837,
+            "end": 382.382,
+            "text": "Well, that's not\nmy recollection."
+          },
+          {
+            "index": 133,
+            "start": 382.465,
+            "end": 386.386,
+            "text": "Yeah, well--\nAll right, good-bye."
+          },
+          {
+            "index": 134,
+            "start": 386.469,
+            "end": 389.097,
+            "text": "He says he mentioned it\nfive or six times."
+          },
+          {
+            "index": 135,
+            "start": 389.18,
+            "end": 390.556,
+            "text": "Let's go, children."
+          },
+          {
+            "index": 136,
+            "start": 390.64,
+            "end": 392.141,
+            "text": "-Aw, gee, Marge.\n-Homer--"
+          },
+          {
+            "index": 137,
+            "start": 392.225,
+            "end": 393.893,
+            "text": "MALE VOICE:\nYou will die."
+          },
+          {
+            "index": 138,
+            "start": 393.976,
+            "end": 396.562,
+            "text": "You will die slowly."
+          },
+          {
+            "index": 139,
+            "start": 396.646,
+            "end": 398.815,
+            "text": "Your stomach will swell."
+          },
+          {
+            "index": 140,
+            "start": 398.898,
+            "end": 402.318,
+            "text": "Your intestines\nwill writhe and boil."
+          },
+          {
+            "index": 141,
+            "start": 402.402,
+            "end": 404.57,
+            "text": "Your eyes will burst"
+          },
+          {
+            "index": 142,
+            "start": 404.654,
+            "end": 406.906,
+            "text": "and some horrible stuff--"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 381.5406589355469,
+        "topCueIndex": -1,
+        "bottomCueIndex": 132
+      }
     }
   ]
 }
