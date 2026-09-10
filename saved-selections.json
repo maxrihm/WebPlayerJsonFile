@@ -108222,6 +108222,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 250
       }
+    },
+    {
+      "id": "18e0a977-8665-4fb1-8ae1-17d26ac18726",
+      "createdAt": "2026-09-10T20:18:42.426Z",
+      "videoName": "The Simpsons",
+      "sourceUrl": "https://www.disneyplus.com/play/e7b385fe-ec23-491c-93bb-e2cbc2dc8f10",
+      "audioTrackName": "",
+      "selectedText": "sumptuous",
+      "selection": {
+        "rawText": "sumptuous",
+        "startOffset": 35,
+        "endOffset": 44,
+        "cueIndex": 305,
+        "cueStart": 894.768,
+        "cueEnd": 897.73,
+        "cueText": "Make you eat? We merely\nprovided a sumptuous banquet,"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 295,
+            "start": 865.03,
+            "end": 866.782,
+            "text": "(sighs of relief)"
+          },
+          {
+            "index": 296,
+            "start": 868.868,
+            "end": 870.661,
+            "text": "Wait a minute."
+          },
+          {
+            "index": 297,
+            "start": 872.913,
+            "end": 875.332,
+            "text": "-Aha!\n-(gasping)"
+          },
+          {
+            "index": 298,
+            "start": 875.416,
+            "end": 878.711,
+            "text": "Wait. There's still more\nspace dust on here."
+          },
+          {
+            "index": 299,
+            "start": 880.337,
+            "end": 881.672,
+            "text": "(sighs of relief)"
+          },
+          {
+            "index": 300,
+            "start": 881.755,
+            "end": 884.425,
+            "text": "Let me get this straight.\nYou thought--"
+          },
+          {
+            "index": 301,
+            "start": 884.508,
+            "end": 886.51,
+            "text": "They thought we were\ngoing to eat them."
+          },
+          {
+            "index": 302,
+            "start": 886.594,
+            "end": 889.179,
+            "text": "Good God, is this\nsome kind of joke?"
+          },
+          {
+            "index": 303,
+            "start": 889.263,
+            "end": 892.016,
+            "text": "No. They're serious."
+          },
+          {
+            "index": 304,
+            "start": 892.099,
+            "end": 894.685,
+            "text": "Well why were you trying\nto make us eat all the time?"
+          },
+          {
+            "index": 305,
+            "start": 894.768,
+            "end": 897.73,
+            "text": "Make you eat? We merely\nprovided a sumptuous banquet,"
+          },
+          {
+            "index": 306,
+            "start": 897.813,
+            "end": 900.983,
+            "text": "and, frankly, you people\nmade pigs of yourselves."
+          },
+          {
+            "index": 307,
+            "start": 901.066,
+            "end": 903.694,
+            "text": "I slaved in the kitchen\nfor days"
+          },
+          {
+            "index": 308,
+            "start": 903.777,
+            "end": 906.155,
+            "text": "for you people and--"
+          },
+          {
+            "index": 309,
+            "start": 906.238,
+            "end": 908.991,
+            "text": "Well, if you wanted to make\nShiroc the Preparer cry,"
+          },
+          {
+            "index": 310,
+            "start": 909.074,
+            "end": 911.035,
+            "text": "mission accomplished."
+          },
+          {
+            "index": 311,
+            "start": 911.118,
+            "end": 914.997,
+            "text": "SHIROC: You aren't the only beings\nwho have emotions, you know."
+          },
+          {
+            "index": 312,
+            "start": 921.921,
+            "end": 924.59,
+            "text": "We offered you paradise."
+          },
+          {
+            "index": 313,
+            "start": 924.673,
+            "end": 926.133,
+            "text": "You would have\nexperienced emotions"
+          },
+          {
+            "index": 314,
+            "start": 926.216,
+            "end": 929.345,
+            "text": "100 times greater\nthan what you call love,"
+          },
+          {
+            "index": 315,
+            "start": 929.428,
+            "end": 932.056,
+            "text": "and 1000 times greater\nthan what you call fun."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 897.2436940917969,
+        "topCueIndex": -1,
+        "bottomCueIndex": 305
+      }
     }
   ]
 }
