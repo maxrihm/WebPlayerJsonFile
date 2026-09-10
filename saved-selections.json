@@ -106845,6 +106845,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 132
       }
+    },
+    {
+      "id": "aafd88bd-b880-4fd9-9030-5927456216c2",
+      "createdAt": "2026-09-10T20:03:03.976Z",
+      "videoName": "The Simpsons",
+      "sourceUrl": "https://www.disneyplus.com/play/e7b385fe-ec23-491c-93bb-e2cbc2dc8f10",
+      "audioTrackName": "",
+      "selectedText": "push us around!",
+      "selection": {
+        "rawText": "push us around!",
+        "startOffset": 15,
+        "endOffset": 30,
+        "cueIndex": 146,
+        "cueStart": 414.205,
+        "cueEnd": 416.666,
+        "cueText": "Quit trying to push us around!"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 136,
+            "start": 390.64,
+            "end": 392.141,
+            "text": "-Aw, gee, Marge.\n-Homer--"
+          },
+          {
+            "index": 137,
+            "start": 392.225,
+            "end": 393.893,
+            "text": "MALE VOICE:\nYou will die."
+          },
+          {
+            "index": 138,
+            "start": 393.976,
+            "end": 396.562,
+            "text": "You will die slowly."
+          },
+          {
+            "index": 139,
+            "start": 396.646,
+            "end": 398.815,
+            "text": "Your stomach will swell."
+          },
+          {
+            "index": 140,
+            "start": 398.898,
+            "end": 402.318,
+            "text": "Your intestines\nwill writhe and boil."
+          },
+          {
+            "index": 141,
+            "start": 402.402,
+            "end": 404.57,
+            "text": "Your eyes will burst"
+          },
+          {
+            "index": 142,
+            "start": 404.654,
+            "end": 406.906,
+            "text": "and some horrible stuff--"
+          },
+          {
+            "index": 143,
+            "start": 406.989,
+            "end": 408.699,
+            "text": "possibly your brains--"
+          },
+          {
+            "index": 144,
+            "start": 408.783,
+            "end": 412.078,
+            "text": "will start coming out\nthrough your nose."
+          },
+          {
+            "index": 145,
+            "start": 412.161,
+            "end": 414.122,
+            "text": "Shush! Shut up!"
+          },
+          {
+            "index": 146,
+            "start": 414.205,
+            "end": 416.666,
+            "text": "Quit trying to push us around!"
+          },
+          {
+            "index": 147,
+            "start": 416.749,
+            "end": 419.46,
+            "text": "Stop saying\nthose horrible things"
+          },
+          {
+            "index": 148,
+            "start": 419.544,
+            "end": 421.546,
+            "text": "and show some manners!"
+          },
+          {
+            "index": 149,
+            "start": 426.634,
+            "end": 428.678,
+            "text": "Look at me.\nI've never been so angry."
+          },
+          {
+            "index": 150,
+            "start": 428.761,
+            "end": 430.513,
+            "text": "My hands are shaking."
+          },
+          {
+            "index": 151,
+            "start": 430.596,
+            "end": 432.348,
+            "text": "Better than\nyour eyes bursting."
+          },
+          {
+            "index": 152,
+            "start": 432.432,
+            "end": 434.1,
+            "text": "-Do it again.\n-What?"
+          },
+          {
+            "index": 153,
+            "start": 434.183,
+            "end": 436.185,
+            "text": "-Make the walls bleed.\n-No."
+          },
+          {
+            "index": 154,
+            "start": 436.269,
+            "end": 438.855,
+            "text": "Hey, man, we own you.\nLet's see some blood."
+          },
+          {
+            "index": 155,
+            "start": 438.938,
+            "end": 441.023,
+            "text": "I don't have to\nentertain you."
+          },
+          {
+            "index": 156,
+            "start": 441.107,
+            "end": 443.025,
+            "text": "Come on, man, do it.\nDo the blood thing."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 416.82301000976565,
+        "topCueIndex": -1,
+        "bottomCueIndex": 146
+      }
     }
   ]
 }
