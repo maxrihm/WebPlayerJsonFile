@@ -105315,6 +105315,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 12
       }
+    },
+    {
+      "id": "f7b2740e-43d0-4b6e-b8ed-aeb0a7a9450c",
+      "createdAt": "2026-09-10T19:48:50.034Z",
+      "videoName": "The Simpsons",
+      "sourceUrl": "https://www.disneyplus.com/play/e7b385fe-ec23-491c-93bb-e2cbc2dc8f10",
+      "audioTrackName": "",
+      "selectedText": "haul",
+      "selection": {
+        "rawText": "haul",
+        "startOffset": 12,
+        "endOffset": 16,
+        "cueIndex": 17,
+        "cueStart": 68.359,
+        "cueEnd": 70.111,
+        "cueText": "Ooh, what a haul this year."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 7,
+            "start": 22.188,
+            "end": 23.898,
+            "text": "Nothing seems to bother\nmy kids,"
+          },
+          {
+            "index": 8,
+            "start": 23.982,
+            "end": 25.191,
+            "text": "but tonight's show--"
+          },
+          {
+            "index": 9,
+            "start": 25.275,
+            "end": 26.735,
+            "text": "which I totally\nwash my hands of--"
+          },
+          {
+            "index": 10,
+            "start": 26.818,
+            "end": 28.695,
+            "text": "is really scary."
+          },
+          {
+            "index": 11,
+            "start": 28.778,
+            "end": 30.405,
+            "text": "So, if you have\nsensitive children,"
+          },
+          {
+            "index": 12,
+            "start": 30.488,
+            "end": 33.408,
+            "text": "maybe you should tuck them\ninto bed early tonight"
+          },
+          {
+            "index": 13,
+            "start": 33.491,
+            "end": 36.661,
+            "text": "instead of writing us\nangry letters tomorrow."
+          },
+          {
+            "index": 14,
+            "start": 36.745,
+            "end": 38.83,
+            "text": "Thanks for your attention."
+          },
+          {
+            "index": 15,
+            "start": 40.165,
+            "end": 42.792,
+            "text": "♪♪"
+          },
+          {
+            "index": 16,
+            "start": 53.011,
+            "end": 54.387,
+            "text": "(screams and howls)"
+          },
+          {
+            "index": 17,
+            "start": 68.359,
+            "end": 70.111,
+            "text": "Ooh, what a haul this year."
+          },
+          {
+            "index": 18,
+            "start": 70.195,
+            "end": 71.863,
+            "text": "I love Halloween."
+          },
+          {
+            "index": 19,
+            "start": 73.281,
+            "end": 75.2,
+            "text": "Heh, heh.\nWait a minute."
+          },
+          {
+            "index": 20,
+            "start": 75.283,
+            "end": 77.869,
+            "text": "Let's see what\nthe kids are up to."
+          },
+          {
+            "index": 21,
+            "start": 77.952,
+            "end": 80.538,
+            "text": "...and the policeman on the\nother end of the phone said"
+          },
+          {
+            "index": 22,
+            "start": 80.622,
+            "end": 82.457,
+            "text": "\"We have traced the call."
+          },
+          {
+            "index": 23,
+            "start": 82.54,
+            "end": 84.626,
+            "text": "\"It's coming from\nthe floor below you."
+          },
+          {
+            "index": 24,
+            "start": 84.709,
+            "end": 86.461,
+            "text": "Get out of the house!\""
+          },
+          {
+            "index": 25,
+            "start": 86.544,
+            "end": 88.505,
+            "text": "But it was too late."
+          },
+          {
+            "index": 26,
+            "start": 88.588,
+            "end": 90.048,
+            "text": "End of story."
+          },
+          {
+            "index": 27,
+            "start": 90.131,
+            "end": 92.05,
+            "text": "Yawn. I heard that when\nI was in the third grade."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 73.11551196289062,
+        "topCueIndex": -1,
+        "bottomCueIndex": 17
+      }
     }
   ]
 }
