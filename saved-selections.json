@@ -106386,6 +106386,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 78
       }
+    },
+    {
+      "id": "e9ede6da-a20d-4dd4-aa60-8e96346b44ff",
+      "createdAt": "2026-09-10T19:57:19.291Z",
+      "videoName": "The Simpsons",
+      "sourceUrl": "https://www.disneyplus.com/play/e7b385fe-ec23-491c-93bb-e2cbc2dc8f10",
+      "audioTrackName": "",
+      "selectedText": "sleep on it,",
+      "selection": {
+        "rawText": "sleep on it,",
+        "startOffset": 11,
+        "endOffset": 23,
+        "cueIndex": 91,
+        "cueStart": 248.122,
+        "cueEnd": 251.292,
+        "cueText": "let's, um, sleep on it, okay?"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 81,
+            "start": 224.474,
+            "end": 227.477,
+            "text": "What's the problem?\nWe get a bunch of priests in here--"
+          },
+          {
+            "index": 82,
+            "start": 227.56,
+            "end": 229.52,
+            "text": "I'm not going to live\nin a house of evil"
+          },
+          {
+            "index": 83,
+            "start": 229.604,
+            "end": 231.481,
+            "text": "just to save a few dollars."
+          },
+          {
+            "index": 84,
+            "start": 231.564,
+            "end": 233.691,
+            "text": "Don't be so stubborn!"
+          },
+          {
+            "index": 85,
+            "start": 233.775,
+            "end": 235.944,
+            "text": "We're not talking about\na few dollars."
+          },
+          {
+            "index": 86,
+            "start": 236.027,
+            "end": 239.447,
+            "text": "We're talking about\na few thousand dollars!"
+          },
+          {
+            "index": 87,
+            "start": 239.53,
+            "end": 240.949,
+            "text": "(screaming)"
+          },
+          {
+            "index": 88,
+            "start": 241.032,
+            "end": 243.952,
+            "text": "Ooh! It's got great\nhigh ceilings."
+          },
+          {
+            "index": 89,
+            "start": 244.035,
+            "end": 245.828,
+            "text": "(screaming)"
+          },
+          {
+            "index": 90,
+            "start": 247.038,
+            "end": 248.039,
+            "text": "Tell you what,"
+          },
+          {
+            "index": 91,
+            "start": 248.122,
+            "end": 251.292,
+            "text": "let's, um, sleep on it, okay?"
+          },
+          {
+            "index": 92,
+            "start": 251.376,
+            "end": 254.003,
+            "text": "All right,\nbut if anything happens--"
+          },
+          {
+            "index": 93,
+            "start": 254.087,
+            "end": 255.213,
+            "text": "What could happen?"
+          },
+          {
+            "index": 94,
+            "start": 255.296,
+            "end": 256.089,
+            "text": "Mmm..."
+          },
+          {
+            "index": 95,
+            "start": 260.551,
+            "end": 264.138,
+            "text": "MALE VOICE: They are all\nagainst you, Bart."
+          },
+          {
+            "index": 96,
+            "start": 264.222,
+            "end": 266.474,
+            "text": "You must kill them all."
+          },
+          {
+            "index": 97,
+            "start": 266.557,
+            "end": 269.56,
+            "text": "They all must die."
+          },
+          {
+            "index": 98,
+            "start": 269.644,
+            "end": 271.437,
+            "text": "Are you my conscience?"
+          },
+          {
+            "index": 99,
+            "start": 271.521,
+            "end": 273.106,
+            "text": "I..."
+          },
+          {
+            "index": 100,
+            "start": 273.189,
+            "end": 275.692,
+            "text": "Yes, I am."
+          },
+          {
+            "index": 101,
+            "start": 275.775,
+            "end": 279.654,
+            "text": "Lisa. Lisa."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 250.9777109375,
+        "topCueIndex": -1,
+        "bottomCueIndex": 91
+      }
     }
   ]
 }
