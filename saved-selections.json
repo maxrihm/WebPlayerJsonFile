@@ -107151,6 +107151,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 181
       }
+    },
+    {
+      "id": "4deb9732-59d7-4283-bf52-a4063504317d",
+      "createdAt": "2026-09-10T20:07:09.209Z",
+      "videoName": "The Simpsons",
+      "sourceUrl": "https://www.disneyplus.com/play/e7b385fe-ec23-491c-93bb-e2cbc2dc8f10",
+      "audioTrackName": "",
+      "selectedText": "macabre",
+      "selection": {
+        "rawText": "macabre",
+        "startOffset": 9,
+        "endOffset": 16,
+        "cueIndex": 184,
+        "cueStart": 516.182,
+        "cueEnd": 519.06,
+        "cueText": "for this macabre tale\nwhich I call..."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 174,
+            "start": 482.773,
+            "end": 484.984,
+            "text": "(rumbling)"
+          },
+          {
+            "index": 175,
+            "start": 487.361,
+            "end": 490.239,
+            "text": "-HOMER: Wow.\n-BART: Bitchin'!"
+          },
+          {
+            "index": 176,
+            "start": 490.323,
+            "end": 491.908,
+            "text": "It chose to destroy itself"
+          },
+          {
+            "index": 177,
+            "start": 491.991,
+            "end": 493.534,
+            "text": "rather than live with us."
+          },
+          {
+            "index": 178,
+            "start": 493.618,
+            "end": 495.745,
+            "text": "You can't help\nbut feel a little rejected."
+          },
+          {
+            "index": 179,
+            "start": 501.876,
+            "end": 503.669,
+            "text": "-(Homer shudders)\n-LISA: That wasn't scary at all, Bart."
+          },
+          {
+            "index": 180,
+            "start": 503.753,
+            "end": 506.13,
+            "text": "Oh yeah? Well, how about..."
+          },
+          {
+            "index": 181,
+            "start": 506.214,
+            "end": 507.673,
+            "text": "this severed finger?!"
+          },
+          {
+            "index": 182,
+            "start": 511.427,
+            "end": 513.554,
+            "text": "-Eww, baby spit!\n-(laughing)"
+          },
+          {
+            "index": 183,
+            "start": 513.638,
+            "end": 516.098,
+            "text": "Well, that last story\nwas just a warm-up"
+          },
+          {
+            "index": 184,
+            "start": 516.182,
+            "end": 519.06,
+            "text": "for this macabre tale\nwhich I call..."
+          },
+          {
+            "index": 185,
+            "start": 525.149,
+            "end": 527.86,
+            "text": "Homer, all these flies."
+          },
+          {
+            "index": 186,
+            "start": 527.944,
+            "end": 529.612,
+            "text": "Not to worry."
+          },
+          {
+            "index": 187,
+            "start": 529.695,
+            "end": 531.197,
+            "text": "I'll just turn on\nthe trusty bug zapper."
+          },
+          {
+            "index": 188,
+            "start": 531.28,
+            "end": 534.408,
+            "text": "-(flies buzzing)\n-(zapping)"
+          },
+          {
+            "index": 189,
+            "start": 534.492,
+            "end": 536.953,
+            "text": "Ooh, that was a big mama.\nHeh-heh-heh."
+          },
+          {
+            "index": 190,
+            "start": 537.036,
+            "end": 539.539,
+            "text": "(humming)"
+          },
+          {
+            "index": 191,
+            "start": 552.677,
+            "end": 553.928,
+            "text": "That should just about do it."
+          },
+          {
+            "index": 192,
+            "start": 554.011,
+            "end": 556.097,
+            "text": "Man alive,\nthere's nothing better"
+          },
+          {
+            "index": 193,
+            "start": 556.18,
+            "end": 558.224,
+            "text": "than a hamburger grilled\nto perfection--"
+          },
+          {
+            "index": 194,
+            "start": 560.309,
+            "end": 562.186,
+            "text": "Cool, man!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 518.8640988769531,
+        "topCueIndex": -1,
+        "bottomCueIndex": 184
+      }
     }
   ]
 }
