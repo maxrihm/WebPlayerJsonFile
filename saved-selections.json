@@ -108528,6 +108528,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 306
       }
+    },
+    {
+      "id": "b3d6fb79-460a-4665-9f37-67b7cb3e1bfb",
+      "createdAt": "2026-09-10T20:19:47.481Z",
+      "videoName": "The Simpsons",
+      "sourceUrl": "https://www.disneyplus.com/play/e7b385fe-ec23-491c-93bb-e2cbc2dc8f10",
+      "audioTrackName": "",
+      "selectedText": "paradise.",
+      "selection": {
+        "rawText": "paradise.",
+        "startOffset": 15,
+        "endOffset": 24,
+        "cueIndex": 312,
+        "cueStart": 921.921,
+        "cueEnd": 924.59,
+        "cueText": "We offered you paradise."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 302,
+            "start": 886.594,
+            "end": 889.179,
+            "text": "Good God, is this\nsome kind of joke?"
+          },
+          {
+            "index": 303,
+            "start": 889.263,
+            "end": 892.016,
+            "text": "No. They're serious."
+          },
+          {
+            "index": 304,
+            "start": 892.099,
+            "end": 894.685,
+            "text": "Well why were you trying\nto make us eat all the time?"
+          },
+          {
+            "index": 305,
+            "start": 894.768,
+            "end": 897.73,
+            "text": "Make you eat? We merely\nprovided a sumptuous banquet,"
+          },
+          {
+            "index": 306,
+            "start": 897.813,
+            "end": 900.983,
+            "text": "and, frankly, you people\nmade pigs of yourselves."
+          },
+          {
+            "index": 307,
+            "start": 901.066,
+            "end": 903.694,
+            "text": "I slaved in the kitchen\nfor days"
+          },
+          {
+            "index": 308,
+            "start": 903.777,
+            "end": 906.155,
+            "text": "for you people and--"
+          },
+          {
+            "index": 309,
+            "start": 906.238,
+            "end": 908.991,
+            "text": "Well, if you wanted to make\nShiroc the Preparer cry,"
+          },
+          {
+            "index": 310,
+            "start": 909.074,
+            "end": 911.035,
+            "text": "mission accomplished."
+          },
+          {
+            "index": 311,
+            "start": 911.118,
+            "end": 914.997,
+            "text": "SHIROC: You aren't the only beings\nwho have emotions, you know."
+          },
+          {
+            "index": 312,
+            "start": 921.921,
+            "end": 924.59,
+            "text": "We offered you paradise."
+          },
+          {
+            "index": 313,
+            "start": 924.673,
+            "end": 926.133,
+            "text": "You would have\nexperienced emotions"
+          },
+          {
+            "index": 314,
+            "start": 926.216,
+            "end": 929.345,
+            "text": "100 times greater\nthan what you call love,"
+          },
+          {
+            "index": 315,
+            "start": 929.428,
+            "end": 932.056,
+            "text": "and 1000 times greater\nthan what you call fun."
+          },
+          {
+            "index": 316,
+            "start": 932.139,
+            "end": 934.516,
+            "text": "You would have been\ntreated like gods"
+          },
+          {
+            "index": 317,
+            "start": 934.6,
+            "end": 937.019,
+            "text": "and lived forever\nin beauty,"
+          },
+          {
+            "index": 318,
+            "start": 937.102,
+            "end": 941.106,
+            "text": "but, now, because of\nyour distrustful nature,"
+          },
+          {
+            "index": 319,
+            "start": 941.19,
+            "end": 942.274,
+            "text": "that can never be."
+          },
+          {
+            "index": 320,
+            "start": 942.358,
+            "end": 945.319,
+            "text": "For a superior race,\nthey really rub it in."
+          },
+          {
+            "index": 321,
+            "start": 949.323,
+            "end": 951.867,
+            "text": "There were monsters\non that ship,"
+          },
+          {
+            "index": 322,
+            "start": 951.951,
+            "end": 953.827,
+            "text": "and truly we were them."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 924.3838920898437,
+        "topCueIndex": -1,
+        "bottomCueIndex": 312
+      }
     }
   ]
 }
