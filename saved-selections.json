@@ -108681,6 +108681,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 312
       }
+    },
+    {
+      "id": "1b843d10-8e3c-4867-9a53-ac4cf1179d0e",
+      "createdAt": "2026-09-10T20:20:50.441Z",
+      "videoName": "The Simpsons",
+      "sourceUrl": "https://www.disneyplus.com/play/e7b385fe-ec23-491c-93bb-e2cbc2dc8f10",
+      "audioTrackName": "",
+      "selectedText": "rub it in.",
+      "selection": {
+        "rawText": "rub it in.",
+        "startOffset": 33,
+        "endOffset": 43,
+        "cueIndex": 320,
+        "cueStart": 942.358,
+        "cueEnd": 945.319,
+        "cueText": "For a superior race,\nthey really rub it in."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 310,
+            "start": 909.074,
+            "end": 911.035,
+            "text": "mission accomplished."
+          },
+          {
+            "index": 311,
+            "start": 911.118,
+            "end": 914.997,
+            "text": "SHIROC: You aren't the only beings\nwho have emotions, you know."
+          },
+          {
+            "index": 312,
+            "start": 921.921,
+            "end": 924.59,
+            "text": "We offered you paradise."
+          },
+          {
+            "index": 313,
+            "start": 924.673,
+            "end": 926.133,
+            "text": "You would have\nexperienced emotions"
+          },
+          {
+            "index": 314,
+            "start": 926.216,
+            "end": 929.345,
+            "text": "100 times greater\nthan what you call love,"
+          },
+          {
+            "index": 315,
+            "start": 929.428,
+            "end": 932.056,
+            "text": "and 1000 times greater\nthan what you call fun."
+          },
+          {
+            "index": 316,
+            "start": 932.139,
+            "end": 934.516,
+            "text": "You would have been\ntreated like gods"
+          },
+          {
+            "index": 317,
+            "start": 934.6,
+            "end": 937.019,
+            "text": "and lived forever\nin beauty,"
+          },
+          {
+            "index": 318,
+            "start": 937.102,
+            "end": 941.106,
+            "text": "but, now, because of\nyour distrustful nature,"
+          },
+          {
+            "index": 319,
+            "start": 941.19,
+            "end": 942.274,
+            "text": "that can never be."
+          },
+          {
+            "index": 320,
+            "start": 942.358,
+            "end": 945.319,
+            "text": "For a superior race,\nthey really rub it in."
+          },
+          {
+            "index": 321,
+            "start": 949.323,
+            "end": 951.867,
+            "text": "There were monsters\non that ship,"
+          },
+          {
+            "index": 322,
+            "start": 951.951,
+            "end": 953.827,
+            "text": "and truly we were them."
+          },
+          {
+            "index": 323,
+            "start": 953.911,
+            "end": 955.412,
+            "text": "MARGE: Lisa, see what we mean\nwhen we say"
+          },
+          {
+            "index": 324,
+            "start": 955.496,
+            "end": 957.539,
+            "text": "you're too smart\nfor your own good?"
+          },
+          {
+            "index": 325,
+            "start": 957.623,
+            "end": 959.792,
+            "text": "-BART: Way to go, Lise.\n-HOMER: Yeah, thanks, Lisa."
+          },
+          {
+            "index": 326,
+            "start": 959.875,
+            "end": 960.876,
+            "text": "(Marge groans)"
+          },
+          {
+            "index": 327,
+            "start": 963.921,
+            "end": 966.34,
+            "text": "(gagging)"
+          },
+          {
+            "index": 328,
+            "start": 966.423,
+            "end": 968.676,
+            "text": "Hello.\nSomething scary happening."
+          },
+          {
+            "index": 329,
+            "start": 969.969,
+            "end": 971.679,
+            "text": "(gagging)"
+          },
+          {
+            "index": 330,
+            "start": 972.972,
+            "end": 974.765,
+            "text": "Hey, Poindexter,\nit's Halloween."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 945.5475620117187,
+        "topCueIndex": -1,
+        "bottomCueIndex": 320
+      }
     }
   ]
 }
