@@ -104904,6 +104904,117 @@
         "topCueIndex": -1,
         "bottomCueIndex": 88
       }
+    },
+    {
+      "id": "3898e602-693e-4068-b975-7c154054309f",
+      "createdAt": "2026-09-10T19:37:48.732Z",
+      "videoName": "The Simpsons",
+      "sourceUrl": "https://www.disneyplus.com/play/e7b385fe-ec23-491c-93bb-e2cbc2dc8f10",
+      "audioTrackName": "",
+      "selectedText": "worshipping",
+      "selection": {
+        "rawText": "worshipping",
+        "startOffset": 5,
+        "endOffset": 16,
+        "cueIndex": 3,
+        "cueStart": 11.428,
+        "cueEnd": 14.597,
+        "cueText": "Kids worshipping ghosts,\npretending to be devils."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 0,
+            "start": 3.211,
+            "end": 4.879,
+            "text": "(clears throat)\nHello everyone."
+          },
+          {
+            "index": 1,
+            "start": 4.963,
+            "end": 8.55,
+            "text": "You know, Halloween\nis a very strange holiday."
+          },
+          {
+            "index": 2,
+            "start": 8.633,
+            "end": 11.344,
+            "text": "Personally,\nI don't understand it."
+          },
+          {
+            "index": 3,
+            "start": 11.428,
+            "end": 14.597,
+            "text": "Kids worshipping ghosts,\npretending to be devils."
+          },
+          {
+            "index": 4,
+            "start": 14.681000000000001,
+            "end": 17.642,
+            "text": "Things on TV that\nare completely inappropriate"
+          },
+          {
+            "index": 5,
+            "start": 17.726,
+            "end": 19.436,
+            "text": "for younger viewers."
+          },
+          {
+            "index": 6,
+            "start": 19.519,
+            "end": 22.105,
+            "text": "Things like\nthe following half-hour."
+          },
+          {
+            "index": 7,
+            "start": 22.188,
+            "end": 23.898,
+            "text": "Nothing seems to bother\nmy kids,"
+          },
+          {
+            "index": 8,
+            "start": 23.982,
+            "end": 25.191,
+            "text": "but tonight's show--"
+          },
+          {
+            "index": 9,
+            "start": 25.275,
+            "end": 26.735,
+            "text": "which I totally\nwash my hands of--"
+          },
+          {
+            "index": 10,
+            "start": 26.818,
+            "end": 28.695,
+            "text": "is really scary."
+          },
+          {
+            "index": 11,
+            "start": 28.778,
+            "end": 30.405,
+            "text": "So, if you have\nsensitive children,"
+          },
+          {
+            "index": 12,
+            "start": 30.488,
+            "end": 33.408,
+            "text": "maybe you should tuck them\ninto bed early tonight"
+          },
+          {
+            "index": 13,
+            "start": 33.491,
+            "end": 36.661,
+            "text": "instead of writing us\nangry letters tomorrow."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 14.517762939453124,
+        "topCueIndex": -1,
+        "bottomCueIndex": 3
+      }
     }
   ]
 }
