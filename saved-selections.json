@@ -106539,6 +106539,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 91
       }
+    },
+    {
+      "id": "6365bf9d-26aa-47ce-8d84-4428a304b9df",
+      "createdAt": "2026-09-10T19:59:49.723Z",
+      "videoName": "The Simpsons",
+      "sourceUrl": "https://www.disneyplus.com/play/e7b385fe-ec23-491c-93bb-e2cbc2dc8f10",
+      "audioTrackName": "",
+      "selectedText": "squabbled,",
+      "selection": {
+        "rawText": "squabbled,",
+        "startOffset": 47,
+        "endOffset": 57,
+        "cueIndex": 120,
+        "cueStart": 343.509,
+        "cueEnd": 345.261,
+        "cueText": "This family has had its differences,\nand we've squabbled,"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 110,
+            "start": 322.405,
+            "end": 325.325,
+            "text": "(maniacal laughter)"
+          },
+          {
+            "index": 111,
+            "start": 328.453,
+            "end": 329.662,
+            "text": "(gasping)"
+          },
+          {
+            "index": 112,
+            "start": 329.746,
+            "end": 331.706,
+            "text": "What's going on\nout here?"
+          },
+          {
+            "index": 113,
+            "start": 331.789,
+            "end": 334.542,
+            "text": "Homer, Bart, Lisa, Maggie,\nstop it!"
+          },
+          {
+            "index": 114,
+            "start": 334.625,
+            "end": 336.044,
+            "text": "-Sorry. Sorry, Bart.\n-Sorry, Dad."
+          },
+          {
+            "index": 115,
+            "start": 336.127,
+            "end": 337.295,
+            "text": "Sorry, Mom.\nSorry, Mag."
+          },
+          {
+            "index": 116,
+            "start": 337.378,
+            "end": 338.338,
+            "text": "Well, that does it."
+          },
+          {
+            "index": 117,
+            "start": 338.421,
+            "end": 339.464,
+            "text": "Children, get dressed.\nWe're leaving."
+          },
+          {
+            "index": 118,
+            "start": 339.547,
+            "end": 341.758,
+            "text": "Ah, c'mon Marge, you said\nyou'd sleep on it."
+          },
+          {
+            "index": 119,
+            "start": 341.841,
+            "end": 343.426,
+            "text": "I don't care what I said."
+          },
+          {
+            "index": 120,
+            "start": 343.509,
+            "end": 345.261,
+            "text": "This family has had its differences,\nand we've squabbled,"
+          },
+          {
+            "index": 121,
+            "start": 345.345,
+            "end": 347.221,
+            "text": "but we never had\nknife fights before,"
+          },
+          {
+            "index": 122,
+            "start": 347.305,
+            "end": 349.14,
+            "text": "and I blame this house."
+          },
+          {
+            "index": 123,
+            "start": 349.223,
+            "end": 351.809,
+            "text": "Mom, Dad, look!"
+          },
+          {
+            "index": 124,
+            "start": 353.895,
+            "end": 356.064,
+            "text": "LISA: It's an ancient\nIndian burial ground."
+          },
+          {
+            "index": 125,
+            "start": 356.147,
+            "end": 359.025,
+            "text": "BART: Man, this place\nhas got everything."
+          },
+          {
+            "index": 126,
+            "start": 359.108,
+            "end": 360.693,
+            "text": "An ancient Indian what?"
+          },
+          {
+            "index": 127,
+            "start": 364.03,
+            "end": 367.158,
+            "text": "Mr. Plute,\nHomer Simpson here."
+          },
+          {
+            "index": 128,
+            "start": 367.241,
+            "end": 369.035,
+            "text": "When you sold me this house"
+          },
+          {
+            "index": 129,
+            "start": 369.118,
+            "end": 371.371,
+            "text": "you forgot to mention\none little thing."
+          },
+          {
+            "index": 130,
+            "start": 371.454,
+            "end": 376.751,
+            "text": "You didn't tell me it was built\non an Indian burial ground!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 347.3405129394531,
+        "topCueIndex": -1,
+        "bottomCueIndex": 120
+      }
     }
   ]
 }
