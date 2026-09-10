@@ -105621,6 +105621,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 27
       }
+    },
+    {
+      "id": "9d11f9a2-3c9d-4b42-8c27-60d19e747f0f",
+      "createdAt": "2026-09-10T19:51:33.442Z",
+      "videoName": "The Simpsons",
+      "sourceUrl": "https://www.disneyplus.com/play/e7b385fe-ec23-491c-93bb-e2cbc2dc8f10",
+      "audioTrackName": "",
+      "selectedText": "inexpensive",
+      "selection": {
+        "rawText": "inexpensive",
+        "startOffset": 26,
+        "endOffset": 37,
+        "cueIndex": 44,
+        "cueStart": 129.045,
+        "cueEnd": 131.548,
+        "cueText": "I still can't believe\nhow inexpensive it was."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 34,
+            "start": 101.851,
+            "end": 105.396,
+            "text": "Here's a story\nthat's really scarifying."
+          },
+          {
+            "index": 35,
+            "start": 105.48,
+            "end": 106.397,
+            "text": "LISA:\nOh, brother."
+          },
+          {
+            "index": 36,
+            "start": 106.481,
+            "end": 108.108,
+            "text": "I call it..."
+          },
+          {
+            "index": 37,
+            "start": 110.527,
+            "end": 112.862,
+            "text": "(Bart laughing maniacally)"
+          },
+          {
+            "index": 38,
+            "start": 116.991,
+            "end": 118.576,
+            "text": "That's all of it.\nSign here."
+          },
+          {
+            "index": 39,
+            "start": 118.66,
+            "end": 120.745,
+            "text": "There you are, my man,"
+          },
+          {
+            "index": 40,
+            "start": 120.829,
+            "end": 122.539,
+            "text": "and a dollar\nfor yourself."
+          },
+          {
+            "index": 41,
+            "start": 122.622,
+            "end": 125.875,
+            "text": "A buck. I'm glad there's\na curse on this place."
+          },
+          {
+            "index": 42,
+            "start": 125.959,
+            "end": 126.918,
+            "text": "Huh?"
+          },
+          {
+            "index": 43,
+            "start": 127.001,
+            "end": 128.962,
+            "text": "Well, it's all ours."
+          },
+          {
+            "index": 44,
+            "start": 129.045,
+            "end": 131.548,
+            "text": "I still can't believe\nhow inexpensive it was."
+          },
+          {
+            "index": 45,
+            "start": 131.631,
+            "end": 133.424,
+            "text": "Motivated seller, Marge."
+          },
+          {
+            "index": 46,
+            "start": 133.508,
+            "end": 135.718,
+            "text": "Well, he certainly\nmust have been motivated."
+          },
+          {
+            "index": 47,
+            "start": 135.802,
+            "end": 138.429,
+            "text": "Prime location,\n18 bedrooms, moat."
+          },
+          {
+            "index": 48,
+            "start": 138.513,
+            "end": 140.265,
+            "text": "We shouldn't be able\nto afford this."
+          },
+          {
+            "index": 49,
+            "start": 140.348,
+            "end": 142.308,
+            "text": "So we got a good deal\nfor once."
+          },
+          {
+            "index": 50,
+            "start": 142.392,
+            "end": 144.269,
+            "text": "Quit fighting it."
+          },
+          {
+            "index": 51,
+            "start": 144.352,
+            "end": 146.187,
+            "text": "It just seems too good\nto be true."
+          },
+          {
+            "index": 52,
+            "start": 147.564,
+            "end": 149.816,
+            "text": "Ow! Mom, Bart threw\na book at me!"
+          },
+          {
+            "index": 53,
+            "start": 149.899,
+            "end": 151.109,
+            "text": "-Did not.\n-Did too!"
+          },
+          {
+            "index": 54,
+            "start": 151.192,
+            "end": 152.402,
+            "text": "-Did not!\n-Did too!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 132.66168701171875,
+        "topCueIndex": -1,
+        "bottomCueIndex": 44
+      }
     }
   ]
 }
