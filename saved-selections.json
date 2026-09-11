@@ -110211,6 +110211,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 345
       }
+    },
+    {
+      "id": "48f6ece0-0422-427c-be07-c524db97d4cf",
+      "createdAt": "2026-09-11T21:13:20.722Z",
+      "videoName": "The Simpsons",
+      "sourceUrl": "https://www.disneyplus.com/play/e7b385fe-ec23-491c-93bb-e2cbc2dc8f10",
+      "audioTrackName": "",
+      "selectedText": "chamber",
+      "selection": {
+        "rawText": "chamber",
+        "startOffset": 14,
+        "endOffset": 21,
+        "cueIndex": 346,
+        "cueStart": 1007.172,
+        "cueEnd": 1008.757,
+        "cueText": "rapping at my chamber door."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 336,
+            "start": 985.025,
+            "end": 986.986,
+            "text": "Don't worry, Bart,\nyou won't learn anything."
+          },
+          {
+            "index": 337,
+            "start": 987.069,
+            "end": 988.737,
+            "text": "It's called..."
+          },
+          {
+            "index": 338,
+            "start": 990.698,
+            "end": 993.617,
+            "text": "\"Once upon a midnight dreary..."
+          },
+          {
+            "index": 339,
+            "start": 993.701,
+            "end": 996.245,
+            "text": "NARRATOR: \"While I pondered,\nweak and weary"
+          },
+          {
+            "index": 340,
+            "start": 996.328,
+            "end": 999.498,
+            "text": "\"over many a quaint\nand curious volume"
+          },
+          {
+            "index": 341,
+            "start": 999.581,
+            "end": 1001.041,
+            "text": "\"of forgotten lore--"
+          },
+          {
+            "index": 342,
+            "start": 1001.125,
+            "end": 1002.584,
+            "text": "\"while I nodded,\nnearly napping,"
+          },
+          {
+            "index": 343,
+            "start": 1002.668,
+            "end": 1004.128,
+            "text": "\"suddenly there came a tapping"
+          },
+          {
+            "index": 344,
+            "start": 1004.211,
+            "end": 1005.379,
+            "text": "-(tapping at door)\n-(Homer shrieks)"
+          },
+          {
+            "index": 345,
+            "start": 1005.462,
+            "end": 1007.089,
+            "text": "\"as of some one\ngently rapping,"
+          },
+          {
+            "index": 346,
+            "start": 1007.172,
+            "end": 1008.757,
+            "text": "rapping at my chamber door."
+          },
+          {
+            "index": 347,
+            "start": 1008.841,
+            "end": 1011.135,
+            "text": "-'Tis some visitor...\"\n-I muttered,"
+          },
+          {
+            "index": 348,
+            "start": 1011.218,
+            "end": 1013.971,
+            "text": "\"...tapping at my chamber door;"
+          },
+          {
+            "index": 349,
+            "start": 1014.054,
+            "end": 1016.306,
+            "text": "Only this, and nothing more.\""
+          },
+          {
+            "index": 350,
+            "start": 1016.39,
+            "end": 1018.6,
+            "text": "BART:\nAre we scared yet?"
+          },
+          {
+            "index": 351,
+            "start": 1018.684,
+            "end": 1020.019,
+            "text": "LISA: Bart,\nhe's establishing mood."
+          },
+          {
+            "index": 352,
+            "start": 1020.102,
+            "end": 1021.437,
+            "text": "(snoring)"
+          },
+          {
+            "index": 353,
+            "start": 1021.52,
+            "end": 1023.647,
+            "text": "NARRATOR:\n\"Ah, distinctly I remember"
+          },
+          {
+            "index": 354,
+            "start": 1023.731,
+            "end": 1025.441,
+            "text": "\"it was in\nthe bleak December,"
+          },
+          {
+            "index": 355,
+            "start": 1025.524,
+            "end": 1027.067,
+            "text": "\"and each separate\ndying ember"
+          },
+          {
+            "index": 356,
+            "start": 1027.151,
+            "end": 1029.069,
+            "text": "\"wrought its ghost\nupon the floor."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1008.2134860839843,
+        "topCueIndex": -1,
+        "bottomCueIndex": 346
+      }
     }
   ]
 }
