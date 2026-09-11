@@ -108987,6 +108987,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 320
       }
+    },
+    {
+      "id": "0c3ae992-1a10-4c58-bc7c-8e1c15b4d5db",
+      "createdAt": "2026-09-11T21:09:08.414Z",
+      "videoName": "The Simpsons",
+      "sourceUrl": "https://www.disneyplus.com/play/e7b385fe-ec23-491c-93bb-e2cbc2dc8f10",
+      "audioTrackName": "",
+      "selectedText": "for your own good?",
+      "selection": {
+        "rawText": "for your own good?",
+        "startOffset": 17,
+        "endOffset": 35,
+        "cueIndex": 324,
+        "cueStart": 955.496,
+        "cueEnd": 957.539,
+        "cueText": "you're too smart\nfor your own good?"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 314,
+            "start": 926.216,
+            "end": 929.345,
+            "text": "100 times greater\nthan what you call love,"
+          },
+          {
+            "index": 315,
+            "start": 929.428,
+            "end": 932.056,
+            "text": "and 1000 times greater\nthan what you call fun."
+          },
+          {
+            "index": 316,
+            "start": 932.139,
+            "end": 934.516,
+            "text": "You would have been\ntreated like gods"
+          },
+          {
+            "index": 317,
+            "start": 934.6,
+            "end": 937.019,
+            "text": "and lived forever\nin beauty,"
+          },
+          {
+            "index": 318,
+            "start": 937.102,
+            "end": 941.106,
+            "text": "but, now, because of\nyour distrustful nature,"
+          },
+          {
+            "index": 319,
+            "start": 941.19,
+            "end": 942.274,
+            "text": "that can never be."
+          },
+          {
+            "index": 320,
+            "start": 942.358,
+            "end": 945.319,
+            "text": "For a superior race,\nthey really rub it in."
+          },
+          {
+            "index": 321,
+            "start": 949.323,
+            "end": 951.867,
+            "text": "There were monsters\non that ship,"
+          },
+          {
+            "index": 322,
+            "start": 951.951,
+            "end": 953.827,
+            "text": "and truly we were them."
+          },
+          {
+            "index": 323,
+            "start": 953.911,
+            "end": 955.412,
+            "text": "MARGE: Lisa, see what we mean\nwhen we say"
+          },
+          {
+            "index": 324,
+            "start": 955.496,
+            "end": 957.539,
+            "text": "you're too smart\nfor your own good?"
+          },
+          {
+            "index": 325,
+            "start": 957.623,
+            "end": 959.792,
+            "text": "-BART: Way to go, Lise.\n-HOMER: Yeah, thanks, Lisa."
+          },
+          {
+            "index": 326,
+            "start": 959.875,
+            "end": 960.876,
+            "text": "(Marge groans)"
+          },
+          {
+            "index": 327,
+            "start": 963.921,
+            "end": 966.34,
+            "text": "(gagging)"
+          },
+          {
+            "index": 328,
+            "start": 966.423,
+            "end": 968.676,
+            "text": "Hello.\nSomething scary happening."
+          },
+          {
+            "index": 329,
+            "start": 969.969,
+            "end": 971.679,
+            "text": "(gagging)"
+          },
+          {
+            "index": 330,
+            "start": 972.972,
+            "end": 974.765,
+            "text": "Hey, Poindexter,\nit's Halloween."
+          },
+          {
+            "index": 331,
+            "start": 974.848,
+            "end": 976.517,
+            "text": "Put the book away."
+          },
+          {
+            "index": 332,
+            "start": 976.6,
+            "end": 977.977,
+            "text": "For your information,"
+          },
+          {
+            "index": 333,
+            "start": 978.06,
+            "end": 980.688,
+            "text": "I'm about to read you\na classic tale of terror"
+          },
+          {
+            "index": 334,
+            "start": 980.771,
+            "end": 982.523,
+            "text": "by Edgar Allan Poe."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 958.7898759765625,
+        "topCueIndex": -1,
+        "bottomCueIndex": 324
+      }
     }
   ]
 }
