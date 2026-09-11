@@ -113118,6 +113118,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 379
       }
+    },
+    {
+      "id": "dcdf6324-881a-46ae-9bc1-9908f4d14ad9",
+      "createdAt": "2026-09-11T21:23:12.455Z",
+      "videoName": "The Simpsons",
+      "sourceUrl": "https://www.disneyplus.com/play/e7b385fe-ec23-491c-93bb-e2cbc2dc8f10",
+      "audioTrackName": "",
+      "selectedText": "window-lattice;",
+      "selection": {
+        "rawText": "window-lattice;",
+        "startOffset": 31,
+        "endOffset": 46,
+        "cueIndex": 396,
+        "cueStart": 1107.981,
+        "cueEnd": 1110.15,
+        "cueText": "surely that is something\nat my window-lattice;"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 386,
+            "start": 1089.254,
+            "end": 1092.007,
+            "text": "\"Darkness there,\nand nothing more.\""
+          },
+          {
+            "index": 387,
+            "start": 1092.091,
+            "end": 1093.592,
+            "text": "Huh?"
+          },
+          {
+            "index": 388,
+            "start": 1093.675,
+            "end": 1094.593,
+            "text": "BART:\nYou know what would have been"
+          },
+          {
+            "index": 389,
+            "start": 1094.676,
+            "end": 1095.761,
+            "text": "scarier than nothing?"
+          },
+          {
+            "index": 390,
+            "start": 1095.844,
+            "end": 1097.596,
+            "text": "-What?\n-Anything!"
+          },
+          {
+            "index": 391,
+            "start": 1097.679,
+            "end": 1099.515,
+            "text": "\"Back into the chamber\nturning,"
+          },
+          {
+            "index": 392,
+            "start": 1099.598,
+            "end": 1101.6,
+            "text": "\"all my soul within me\nburning,"
+          },
+          {
+            "index": 393,
+            "start": 1101.683,
+            "end": 1103.393,
+            "text": "\"Soon again I heard\na tapping,"
+          },
+          {
+            "index": 394,
+            "start": 1103.477,
+            "end": 1105.771,
+            "text": "-\"something louder than before. \n-(knocking)"
+          },
+          {
+            "index": 395,
+            "start": 1105.854,
+            "end": 1107.898,
+            "text": "-(screams) Surely,\n-\"said I,"
+          },
+          {
+            "index": 396,
+            "start": 1107.981,
+            "end": 1110.15,
+            "text": "surely that is something\nat my window-lattice;"
+          },
+          {
+            "index": 397,
+            "start": 1110.234,
+            "end": 1111.902,
+            "text": "Let me see then,\nwhat thereat is"
+          },
+          {
+            "index": 398,
+            "start": 1111.985,
+            "end": 1114.029,
+            "text": "and this mystery explore."
+          },
+          {
+            "index": 399,
+            "start": 1114.113,
+            "end": 1115.948,
+            "text": "\"Open here I flung\nthe shutter,"
+          },
+          {
+            "index": 400,
+            "start": 1116.031,
+            "end": 1117.574,
+            "text": "\"when, with many\na flirt and flutter,"
+          },
+          {
+            "index": 401,
+            "start": 1117.658,
+            "end": 1119.284,
+            "text": "\"in there stepped\na stately raven"
+          },
+          {
+            "index": 402,
+            "start": 1119.368,
+            "end": 1120.702,
+            "text": "\"of the saintly days\nof yore."
+          },
+          {
+            "index": 403,
+            "start": 1120.786,
+            "end": 1122.162,
+            "text": "\"Not the least obeisance\nmade he;"
+          },
+          {
+            "index": 404,
+            "start": 1122.246,
+            "end": 1123.789,
+            "text": "\"Not a minute\nstopped or stayed he"
+          },
+          {
+            "index": 405,
+            "start": 1123.872,
+            "end": 1125.374,
+            "text": "\"but with mien of\nlord or lady,"
+          },
+          {
+            "index": 406,
+            "start": 1125.457,
+            "end": 1127.459,
+            "text": "\"perched above\nmy chamber door--"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1111.0878149414064,
+        "topCueIndex": -1,
+        "bottomCueIndex": 396
+      }
     }
   ]
 }
