@@ -114342,6 +114342,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 410
       }
+    },
+    {
+      "id": "c3673495-e8b8-4f27-adf6-ed726c2369c4",
+      "createdAt": "2026-09-11T21:29:21.031Z",
+      "videoName": "The Simpsons",
+      "sourceUrl": "https://www.disneyplus.com/play/e7b385fe-ec23-491c-93bb-e2cbc2dc8f10",
+      "audioTrackName": "",
+      "selectedText": "shorn",
+      "selection": {
+        "rawText": "shorn",
+        "startOffset": 4,
+        "endOffset": 9,
+        "cueIndex": 411,
+        "cueStart": 1135.509,
+        "cueEnd": 1138.262,
+        "cueText": "-be shorn and shaven, thou,\n-\"I said,"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 401,
+            "start": 1117.658,
+            "end": 1119.284,
+            "text": "\"in there stepped\na stately raven"
+          },
+          {
+            "index": 402,
+            "start": 1119.368,
+            "end": 1120.702,
+            "text": "\"of the saintly days\nof yore."
+          },
+          {
+            "index": 403,
+            "start": 1120.786,
+            "end": 1122.162,
+            "text": "\"Not the least obeisance\nmade he;"
+          },
+          {
+            "index": 404,
+            "start": 1122.246,
+            "end": 1123.789,
+            "text": "\"Not a minute\nstopped or stayed he"
+          },
+          {
+            "index": 405,
+            "start": 1123.872,
+            "end": 1125.374,
+            "text": "\"but with mien of\nlord or lady,"
+          },
+          {
+            "index": 406,
+            "start": 1125.457,
+            "end": 1127.459,
+            "text": "\"perched above\nmy chamber door--"
+          },
+          {
+            "index": 407,
+            "start": 1127.543,
+            "end": 1129.128,
+            "text": "\"Perched upon\na bust of Pallas"
+          },
+          {
+            "index": 408,
+            "start": 1129.211,
+            "end": 1130.712,
+            "text": "\"just above\nmy chamber door--"
+          },
+          {
+            "index": 409,
+            "start": 1130.796,
+            "end": 1133.674,
+            "text": "\"Perched, and sat,\nand nothing more."
+          },
+          {
+            "index": 410,
+            "start": 1133.757,
+            "end": 1135.425,
+            "text": "(laughs)\nThough thy crest"
+          },
+          {
+            "index": 411,
+            "start": 1135.509,
+            "end": 1138.262,
+            "text": "-be shorn and shaven, thou,\n-\"I said,"
+          },
+          {
+            "index": 412,
+            "start": 1138.345,
+            "end": 1140.222,
+            "text": "art sure no craven,"
+          },
+          {
+            "index": 413,
+            "start": 1140.305,
+            "end": 1142.224,
+            "text": "ghastly grim and ancient raven"
+          },
+          {
+            "index": 414,
+            "start": 1142.307,
+            "end": 1143.976,
+            "text": "wandering from\nthe nightly shore--"
+          },
+          {
+            "index": 415,
+            "start": 1144.059,
+            "end": 1145.06,
+            "text": "Tell me,"
+          },
+          {
+            "index": 416,
+            "start": 1145.144,
+            "end": 1147.146,
+            "text": "tell me\nwhat thy lordly name is"
+          },
+          {
+            "index": 417,
+            "start": 1147.229,
+            "end": 1148.689,
+            "text": "on the night's\nPlutonian shore."
+          },
+          {
+            "index": 418,
+            "start": 1148.772,
+            "end": 1150.274,
+            "text": "Quoth the raven...\""
+          },
+          {
+            "index": 419,
+            "start": 1150.357,
+            "end": 1152.317,
+            "text": "-Eat my shorts.\n-Bart, stop it."
+          },
+          {
+            "index": 420,
+            "start": 1152.401,
+            "end": 1153.527,
+            "text": "He says \"Nevermore\""
+          },
+          {
+            "index": 421,
+            "start": 1153.61,
+            "end": 1155.237,
+            "text": "and that's all he'll ever say."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1137.7921340332032,
+        "topCueIndex": -1,
+        "bottomCueIndex": 411
+      }
     }
   ]
 }
