@@ -110823,6 +110823,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 351
       }
+    },
+    {
+      "id": "378898e1-68b5-42d9-9ef2-2f809aaed1df",
+      "createdAt": "2026-09-11T21:14:34.444Z",
+      "videoName": "The Simpsons",
+      "sourceUrl": "https://www.disneyplus.com/play/e7b385fe-ec23-491c-93bb-e2cbc2dc8f10",
+      "audioTrackName": "",
+      "selectedText": "bleak",
+      "selection": {
+        "rawText": "bleak",
+        "startOffset": 15,
+        "endOffset": 20,
+        "cueIndex": 354,
+        "cueStart": 1023.731,
+        "cueEnd": 1025.441,
+        "cueText": "\"it was in\nthe bleak December,"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 344,
+            "start": 1004.211,
+            "end": 1005.379,
+            "text": "-(tapping at door)\n-(Homer shrieks)"
+          },
+          {
+            "index": 345,
+            "start": 1005.462,
+            "end": 1007.089,
+            "text": "\"as of some one\ngently rapping,"
+          },
+          {
+            "index": 346,
+            "start": 1007.172,
+            "end": 1008.757,
+            "text": "rapping at my chamber door."
+          },
+          {
+            "index": 347,
+            "start": 1008.841,
+            "end": 1011.135,
+            "text": "-'Tis some visitor...\"\n-I muttered,"
+          },
+          {
+            "index": 348,
+            "start": 1011.218,
+            "end": 1013.971,
+            "text": "\"...tapping at my chamber door;"
+          },
+          {
+            "index": 349,
+            "start": 1014.054,
+            "end": 1016.306,
+            "text": "Only this, and nothing more.\""
+          },
+          {
+            "index": 350,
+            "start": 1016.39,
+            "end": 1018.6,
+            "text": "BART:\nAre we scared yet?"
+          },
+          {
+            "index": 351,
+            "start": 1018.684,
+            "end": 1020.019,
+            "text": "LISA: Bart,\nhe's establishing mood."
+          },
+          {
+            "index": 352,
+            "start": 1020.102,
+            "end": 1021.437,
+            "text": "(snoring)"
+          },
+          {
+            "index": 353,
+            "start": 1021.52,
+            "end": 1023.647,
+            "text": "NARRATOR:\n\"Ah, distinctly I remember"
+          },
+          {
+            "index": 354,
+            "start": 1023.731,
+            "end": 1025.441,
+            "text": "\"it was in\nthe bleak December,"
+          },
+          {
+            "index": 355,
+            "start": 1025.524,
+            "end": 1027.067,
+            "text": "\"and each separate\ndying ember"
+          },
+          {
+            "index": 356,
+            "start": 1027.151,
+            "end": 1029.069,
+            "text": "\"wrought its ghost\nupon the floor."
+          },
+          {
+            "index": 357,
+            "start": 1029.153,
+            "end": 1031.238,
+            "text": "\"Eagerly\nI wished the morrow;"
+          },
+          {
+            "index": 358,
+            "start": 1031.321,
+            "end": 1033.073,
+            "text": "\"vainly I had sought\nto borrow"
+          },
+          {
+            "index": 359,
+            "start": 1033.157,
+            "end": 1035.159,
+            "text": "from my books\nsurcease of sorrow--\""
+          },
+          {
+            "index": 360,
+            "start": 1035.242,
+            "end": 1037.286,
+            "text": "Hmm? Huh?"
+          },
+          {
+            "index": 361,
+            "start": 1037.369,
+            "end": 1039.747,
+            "text": "Sorrow for\nthe lost Lenore--\""
+          },
+          {
+            "index": 362,
+            "start": 1039.83,
+            "end": 1041.415,
+            "text": "Oh, Lenore."
+          },
+          {
+            "index": 363,
+            "start": 1041.498,
+            "end": 1043.417,
+            "text": "\"For the rare\nand radiant maiden"
+          },
+          {
+            "index": 364,
+            "start": 1043.5,
+            "end": 1045.502,
+            "text": "\"whom the angels named\nLenore--"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1028.992748046875,
+        "topCueIndex": -1,
+        "bottomCueIndex": 354
+      }
     }
   ]
 }
