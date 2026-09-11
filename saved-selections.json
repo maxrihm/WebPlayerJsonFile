@@ -114036,6 +114036,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 406
       }
+    },
+    {
+      "id": "8278a966-9a75-4ccb-8063-9f91dee582ad",
+      "createdAt": "2026-09-11T21:28:15.654Z",
+      "videoName": "The Simpsons",
+      "sourceUrl": "https://www.disneyplus.com/play/e7b385fe-ec23-491c-93bb-e2cbc2dc8f10",
+      "audioTrackName": "",
+      "selectedText": "mien",
+      "selection": {
+        "rawText": "mien",
+        "startOffset": 10,
+        "endOffset": 14,
+        "cueIndex": 405,
+        "cueStart": 1123.872,
+        "cueEnd": 1125.374,
+        "cueText": "\"but with mien of\nlord or lady,"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 395,
+            "start": 1105.854,
+            "end": 1107.898,
+            "text": "-(screams) Surely,\n-\"said I,"
+          },
+          {
+            "index": 396,
+            "start": 1107.981,
+            "end": 1110.15,
+            "text": "surely that is something\nat my window-lattice;"
+          },
+          {
+            "index": 397,
+            "start": 1110.234,
+            "end": 1111.902,
+            "text": "Let me see then,\nwhat thereat is"
+          },
+          {
+            "index": 398,
+            "start": 1111.985,
+            "end": 1114.029,
+            "text": "and this mystery explore."
+          },
+          {
+            "index": 399,
+            "start": 1114.113,
+            "end": 1115.948,
+            "text": "\"Open here I flung\nthe shutter,"
+          },
+          {
+            "index": 400,
+            "start": 1116.031,
+            "end": 1117.574,
+            "text": "\"when, with many\na flirt and flutter,"
+          },
+          {
+            "index": 401,
+            "start": 1117.658,
+            "end": 1119.284,
+            "text": "\"in there stepped\na stately raven"
+          },
+          {
+            "index": 402,
+            "start": 1119.368,
+            "end": 1120.702,
+            "text": "\"of the saintly days\nof yore."
+          },
+          {
+            "index": 403,
+            "start": 1120.786,
+            "end": 1122.162,
+            "text": "\"Not the least obeisance\nmade he;"
+          },
+          {
+            "index": 404,
+            "start": 1122.246,
+            "end": 1123.789,
+            "text": "\"Not a minute\nstopped or stayed he"
+          },
+          {
+            "index": 405,
+            "start": 1123.872,
+            "end": 1125.374,
+            "text": "\"but with mien of\nlord or lady,"
+          },
+          {
+            "index": 406,
+            "start": 1125.457,
+            "end": 1127.459,
+            "text": "\"perched above\nmy chamber door--"
+          },
+          {
+            "index": 407,
+            "start": 1127.543,
+            "end": 1129.128,
+            "text": "\"Perched upon\na bust of Pallas"
+          },
+          {
+            "index": 408,
+            "start": 1129.211,
+            "end": 1130.712,
+            "text": "\"just above\nmy chamber door--"
+          },
+          {
+            "index": 409,
+            "start": 1130.796,
+            "end": 1133.674,
+            "text": "\"Perched, and sat,\nand nothing more."
+          },
+          {
+            "index": 410,
+            "start": 1133.757,
+            "end": 1135.425,
+            "text": "(laughs)\nThough thy crest"
+          },
+          {
+            "index": 411,
+            "start": 1135.509,
+            "end": 1138.262,
+            "text": "-be shorn and shaven, thou,\n-\"I said,"
+          },
+          {
+            "index": 412,
+            "start": 1138.345,
+            "end": 1140.222,
+            "text": "art sure no craven,"
+          },
+          {
+            "index": 413,
+            "start": 1140.305,
+            "end": 1142.224,
+            "text": "ghastly grim and ancient raven"
+          },
+          {
+            "index": 414,
+            "start": 1142.307,
+            "end": 1143.976,
+            "text": "wandering from\nthe nightly shore--"
+          },
+          {
+            "index": 415,
+            "start": 1144.059,
+            "end": 1145.06,
+            "text": "Tell me,"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1127.3728869628906,
+        "topCueIndex": -1,
+        "bottomCueIndex": 405
+      }
     }
   ]
 }
