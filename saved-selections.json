@@ -109599,6 +109599,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 339
       }
+    },
+    {
+      "id": "0c89c033-6161-4fab-beec-d5a6f137e315",
+      "createdAt": "2026-09-11T21:12:10.512Z",
+      "videoName": "The Simpsons",
+      "sourceUrl": "https://www.disneyplus.com/play/e7b385fe-ec23-491c-93bb-e2cbc2dc8f10",
+      "audioTrackName": "",
+      "selectedText": "weary",
+      "selection": {
+        "rawText": "weary",
+        "startOffset": 38,
+        "endOffset": 43,
+        "cueIndex": 339,
+        "cueStart": 993.701,
+        "cueEnd": 996.245,
+        "cueText": "NARRATOR: \"While I pondered,\nweak and weary"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 329,
+            "start": 969.969,
+            "end": 971.679,
+            "text": "(gagging)"
+          },
+          {
+            "index": 330,
+            "start": 972.972,
+            "end": 974.765,
+            "text": "Hey, Poindexter,\nit's Halloween."
+          },
+          {
+            "index": 331,
+            "start": 974.848,
+            "end": 976.517,
+            "text": "Put the book away."
+          },
+          {
+            "index": 332,
+            "start": 976.6,
+            "end": 977.977,
+            "text": "For your information,"
+          },
+          {
+            "index": 333,
+            "start": 978.06,
+            "end": 980.688,
+            "text": "I'm about to read you\na classic tale of terror"
+          },
+          {
+            "index": 334,
+            "start": 980.771,
+            "end": 982.523,
+            "text": "by Edgar Allan Poe."
+          },
+          {
+            "index": 335,
+            "start": 982.606,
+            "end": 984.942,
+            "text": "Wait a minute.\nThat's a school book."
+          },
+          {
+            "index": 336,
+            "start": 985.025,
+            "end": 986.986,
+            "text": "Don't worry, Bart,\nyou won't learn anything."
+          },
+          {
+            "index": 337,
+            "start": 987.069,
+            "end": 988.737,
+            "text": "It's called..."
+          },
+          {
+            "index": 338,
+            "start": 990.698,
+            "end": 993.617,
+            "text": "\"Once upon a midnight dreary..."
+          },
+          {
+            "index": 339,
+            "start": 993.701,
+            "end": 996.245,
+            "text": "NARRATOR: \"While I pondered,\nweak and weary"
+          },
+          {
+            "index": 340,
+            "start": 996.328,
+            "end": 999.498,
+            "text": "\"over many a quaint\nand curious volume"
+          },
+          {
+            "index": 341,
+            "start": 999.581,
+            "end": 1001.041,
+            "text": "\"of forgotten lore--"
+          },
+          {
+            "index": 342,
+            "start": 1001.125,
+            "end": 1002.584,
+            "text": "\"while I nodded,\nnearly napping,"
+          },
+          {
+            "index": 343,
+            "start": 1002.668,
+            "end": 1004.128,
+            "text": "\"suddenly there came a tapping"
+          },
+          {
+            "index": 344,
+            "start": 1004.211,
+            "end": 1005.379,
+            "text": "-(tapping at door)\n-(Homer shrieks)"
+          },
+          {
+            "index": 345,
+            "start": 1005.462,
+            "end": 1007.089,
+            "text": "\"as of some one\ngently rapping,"
+          },
+          {
+            "index": 346,
+            "start": 1007.172,
+            "end": 1008.757,
+            "text": "rapping at my chamber door."
+          },
+          {
+            "index": 347,
+            "start": 1008.841,
+            "end": 1011.135,
+            "text": "-'Tis some visitor...\"\n-I muttered,"
+          },
+          {
+            "index": 348,
+            "start": 1011.218,
+            "end": 1013.971,
+            "text": "\"...tapping at my chamber door;"
+          },
+          {
+            "index": 349,
+            "start": 1014.054,
+            "end": 1016.306,
+            "text": "Only this, and nothing more.\""
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1000.1763920898437,
+        "topCueIndex": -1,
+        "bottomCueIndex": 339
+      }
     }
   ]
 }
