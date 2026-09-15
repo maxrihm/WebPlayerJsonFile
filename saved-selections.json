@@ -115719,6 +115719,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 426
       }
+    },
+    {
+      "id": "9450a4b8-810c-4b92-a39c-6bf87b224882",
+      "createdAt": "2026-09-15T16:23:10.537Z",
+      "videoName": "The Simpsons",
+      "sourceUrl": "https://www.disneyplus.com/play/e7b385fe-ec23-491c-93bb-e2cbc2dc8f10",
+      "audioTrackName": "",
+      "selectedText": "tinkled",
+      "selection": {
+        "rawText": "tinkled",
+        "startOffset": 17,
+        "endOffset": 24,
+        "cueIndex": 428,
+        "cueStart": 1168.458,
+        "cueEnd": 1171.461,
+        "cueText": "\"whose footfalls\ntinkled on the tufted floor."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 418,
+            "start": 1148.772,
+            "end": 1150.274,
+            "text": "Quoth the raven...\""
+          },
+          {
+            "index": 419,
+            "start": 1150.357,
+            "end": 1152.317,
+            "text": "-Eat my shorts.\n-Bart, stop it."
+          },
+          {
+            "index": 420,
+            "start": 1152.401,
+            "end": 1153.527,
+            "text": "He says \"Nevermore\""
+          },
+          {
+            "index": 421,
+            "start": 1153.61,
+            "end": 1155.237,
+            "text": "and that's all he'll ever say."
+          },
+          {
+            "index": 422,
+            "start": 1155.32,
+            "end": 1156.822,
+            "text": "BART: Okay, okay."
+          },
+          {
+            "index": 423,
+            "start": 1157.906,
+            "end": 1159.366,
+            "text": "Ooh."
+          },
+          {
+            "index": 424,
+            "start": 1159.449,
+            "end": 1160.909,
+            "text": "(sniffing)\nHmm."
+          },
+          {
+            "index": 425,
+            "start": 1160.993,
+            "end": 1163.662,
+            "text": "\"Then, methought,\nthe air grew denser,"
+          },
+          {
+            "index": 426,
+            "start": 1163.745,
+            "end": 1165.664,
+            "text": "\"perfumed by\nsome unseen censer..."
+          },
+          {
+            "index": 427,
+            "start": 1165.747,
+            "end": 1168.375,
+            "text": "-D'oh! Stupid censer.\n-\"...swung by Seraphim"
+          },
+          {
+            "index": 428,
+            "start": 1168.458,
+            "end": 1171.461,
+            "text": "\"whose footfalls\ntinkled on the tufted floor."
+          },
+          {
+            "index": 429,
+            "start": 1171.545,
+            "end": 1172.754,
+            "text": "-Wretch.\n-\"I cried,"
+          },
+          {
+            "index": 430,
+            "start": 1172.838,
+            "end": 1174.131,
+            "text": "thy God hath lent thee--"
+          },
+          {
+            "index": 431,
+            "start": 1174.214,
+            "end": 1176.216,
+            "text": "By these angels\nhe hath sent thee"
+          },
+          {
+            "index": 432,
+            "start": 1176.3,
+            "end": 1178.51,
+            "text": "respite and nepenthe\nfrom thy memories of Lenore!"
+          },
+          {
+            "index": 433,
+            "start": 1178.594,
+            "end": 1182.264,
+            "text": "Quaff, o, quaff\nthis kind nepenthe"
+          },
+          {
+            "index": 434,
+            "start": 1182.347,
+            "end": 1184.183,
+            "text": "and forget this lost Lenore!"
+          },
+          {
+            "index": 435,
+            "start": 1184.266,
+            "end": 1185.35,
+            "text": "\"Quoth the raven"
+          },
+          {
+            "index": 436,
+            "start": 1185.434,
+            "end": 1186.768,
+            "text": "-Nevermore!\n-D'oh!"
+          },
+          {
+            "index": 437,
+            "start": 1186.852,
+            "end": 1189.021,
+            "text": "Be that word\nour sign of parting,"
+          },
+          {
+            "index": 438,
+            "start": 1189.104,
+            "end": 1190.105,
+            "text": "bird or fiend!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1170.064544921875,
+        "topCueIndex": -1,
+        "bottomCueIndex": 428
+      }
     }
   ]
 }
