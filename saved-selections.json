@@ -117555,6 +117555,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 446
       }
+    },
+    {
+      "id": "d399aa74-620c-436d-8172-6b1338eb8508",
+      "createdAt": "2026-09-15T16:29:53.119Z",
+      "videoName": "The Simpsons",
+      "sourceUrl": "https://www.disneyplus.com/play/e7b385fe-ec23-491c-93bb-e2cbc2dc8f10",
+      "audioTrackName": "",
+      "selectedText": "pallid",
+      "selection": {
+        "rawText": "pallid",
+        "startOffset": 25,
+        "endOffset": 31,
+        "cueIndex": 463,
+        "cueStart": 1255.295,
+        "cueEnd": 1258.548,
+        "cueText": "\"still is sitting\non the pallid bust of Pallas"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 453,
+            "start": 1222.304,
+            "end": 1225.015,
+            "text": "(grunting, shouting)"
+          },
+          {
+            "index": 454,
+            "start": 1225.098,
+            "end": 1227.017,
+            "text": "Come back here,\nyou little raven!"
+          },
+          {
+            "index": 455,
+            "start": 1229.728,
+            "end": 1233.649,
+            "text": "(grunting, shouting)"
+          },
+          {
+            "index": 456,
+            "start": 1236.443,
+            "end": 1238.612,
+            "text": "D'oh! It missed. (shouts)"
+          },
+          {
+            "index": 457,
+            "start": 1238.695,
+            "end": 1241.406,
+            "text": "(echoing) Nevermore, nevermore,\nnevermore, nevermore."
+          },
+          {
+            "index": 458,
+            "start": 1242.574,
+            "end": 1245.369,
+            "text": "(grunting, shouting)"
+          },
+          {
+            "index": 459,
+            "start": 1247.371,
+            "end": 1248.747,
+            "text": "(shouts)"
+          },
+          {
+            "index": 460,
+            "start": 1250.082,
+            "end": 1251.792,
+            "text": "Ow! D'oh!"
+          },
+          {
+            "index": 461,
+            "start": 1251.875,
+            "end": 1253.252,
+            "text": "\"And the raven,"
+          },
+          {
+            "index": 462,
+            "start": 1253.335,
+            "end": 1255.212,
+            "text": "\"never flitting,\nstill is sitting,"
+          },
+          {
+            "index": 463,
+            "start": 1255.295,
+            "end": 1258.548,
+            "text": "\"still is sitting\non the pallid bust of Pallas"
+          },
+          {
+            "index": 464,
+            "start": 1258.632,
+            "end": 1260.467,
+            "text": "\"just above my chamber door;"
+          },
+          {
+            "index": 465,
+            "start": 1260.55,
+            "end": 1262.052,
+            "text": "\"And his eyes\nhave all the seeming"
+          },
+          {
+            "index": 466,
+            "start": 1262.135,
+            "end": 1264.638,
+            "text": "\"of a demon's\nthat is dreaming."
+          },
+          {
+            "index": 467,
+            "start": 1264.721,
+            "end": 1266.723,
+            "text": "\"And the lamplight\no'er him streaming"
+          },
+          {
+            "index": 468,
+            "start": 1266.807,
+            "end": 1268.642,
+            "text": "\"throws his shadow\non the floor;"
+          },
+          {
+            "index": 469,
+            "start": 1268.725,
+            "end": 1271.311,
+            "text": "\"and my soul\nfrom out that shadow"
+          },
+          {
+            "index": 470,
+            "start": 1271.395,
+            "end": 1273.146,
+            "text": "\"that lies floating\non the floor"
+          },
+          {
+            "index": 471,
+            "start": 1273.23,
+            "end": 1274.648,
+            "text": "\"shall be lifted--"
+          },
+          {
+            "index": 472,
+            "start": 1274.731,
+            "end": 1276.149,
+            "text": "nevermore!\""
+          },
+          {
+            "index": 473,
+            "start": 1276.233,
+            "end": 1278.026,
+            "text": "Heh, heh, heh."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1257.1358181152343,
+        "topCueIndex": -1,
+        "bottomCueIndex": 463
+      }
     }
   ]
 }
