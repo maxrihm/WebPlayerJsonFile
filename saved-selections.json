@@ -116637,6 +116637,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 437
       }
+    },
+    {
+      "id": "9667627a-0ac8-430b-bf45-3164fc9c9a2b",
+      "createdAt": "2026-09-15T16:26:41.183Z",
+      "videoName": "The Simpsons",
+      "sourceUrl": "https://www.disneyplus.com/play/e7b385fe-ec23-491c-93bb-e2cbc2dc8f10",
+      "audioTrackName": "",
+      "selectedText": "shrieked,",
+      "selection": {
+        "rawText": "shrieked,",
+        "startOffset": 3,
+        "endOffset": 12,
+        "cueIndex": 439,
+        "cueStart": 1190.189,
+        "cueEnd": 1191.356,
+        "cueText": "\"I shrieked, upstarting--"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 429,
+            "start": 1171.545,
+            "end": 1172.754,
+            "text": "-Wretch.\n-\"I cried,"
+          },
+          {
+            "index": 430,
+            "start": 1172.838,
+            "end": 1174.131,
+            "text": "thy God hath lent thee--"
+          },
+          {
+            "index": 431,
+            "start": 1174.214,
+            "end": 1176.216,
+            "text": "By these angels\nhe hath sent thee"
+          },
+          {
+            "index": 432,
+            "start": 1176.3,
+            "end": 1178.51,
+            "text": "respite and nepenthe\nfrom thy memories of Lenore!"
+          },
+          {
+            "index": 433,
+            "start": 1178.594,
+            "end": 1182.264,
+            "text": "Quaff, o, quaff\nthis kind nepenthe"
+          },
+          {
+            "index": 434,
+            "start": 1182.347,
+            "end": 1184.183,
+            "text": "and forget this lost Lenore!"
+          },
+          {
+            "index": 435,
+            "start": 1184.266,
+            "end": 1185.35,
+            "text": "\"Quoth the raven"
+          },
+          {
+            "index": 436,
+            "start": 1185.434,
+            "end": 1186.768,
+            "text": "-Nevermore!\n-D'oh!"
+          },
+          {
+            "index": 437,
+            "start": 1186.852,
+            "end": 1189.021,
+            "text": "Be that word\nour sign of parting,"
+          },
+          {
+            "index": 438,
+            "start": 1189.104,
+            "end": 1190.105,
+            "text": "bird or fiend!"
+          },
+          {
+            "index": 439,
+            "start": 1190.189,
+            "end": 1191.356,
+            "text": "\"I shrieked, upstarting--"
+          },
+          {
+            "index": 440,
+            "start": 1191.44,
+            "end": 1193.025,
+            "text": "Get thee back into the tempest,"
+          },
+          {
+            "index": 441,
+            "start": 1193.108,
+            "end": 1195.36,
+            "text": "and the night's\nPlutonian shore!"
+          },
+          {
+            "index": 442,
+            "start": 1195.444,
+            "end": 1198.739,
+            "text": "Leave no black plume\nas a token of the lie"
+          },
+          {
+            "index": 443,
+            "start": 1198.822,
+            "end": 1200.699,
+            "text": "thy soul hath spoken!"
+          },
+          {
+            "index": 444,
+            "start": 1200.782,
+            "end": 1203.202,
+            "text": "Leave my loneliness unbroken!"
+          },
+          {
+            "index": 445,
+            "start": 1203.285,
+            "end": 1204.953,
+            "text": "Quit the bust above my door!"
+          },
+          {
+            "index": 446,
+            "start": 1205.037,
+            "end": 1207.623,
+            "text": "Take thy beak\nfrom out my heart"
+          },
+          {
+            "index": 447,
+            "start": 1207.706,
+            "end": 1211.21,
+            "text": "and take thy form\nfrom off my door!"
+          },
+          {
+            "index": 448,
+            "start": 1211.293,
+            "end": 1213.212,
+            "text": "-\"Quoth the raven\"\n-Nevermore!"
+          },
+          {
+            "index": 449,
+            "start": 1213.295,
+            "end": 1216.131,
+            "text": "Take thy beak\nfrom out my heart"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1194.7266589355468,
+        "topCueIndex": -1,
+        "bottomCueIndex": 439
+      }
     }
   ]
 }
