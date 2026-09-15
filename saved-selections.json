@@ -118014,6 +118014,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 467
       }
+    },
+    {
+      "id": "14c53341-41f3-4503-9b86-994fa14a6116",
+      "createdAt": "2026-09-15T16:31:44.579Z",
+      "videoName": "The Simpsons",
+      "sourceUrl": "https://www.disneyplus.com/play/e7b385fe-ec23-491c-93bb-e2cbc2dc8f10",
+      "audioTrackName": "",
+      "selectedText": "tame",
+      "selection": {
+        "rawText": "tame",
+        "startOffset": 12,
+        "endOffset": 16,
+        "cueIndex": 480,
+        "cueStart": 1290.872,
+        "cueEnd": 1292.499,
+        "cueText": "It's pretty tame\nby today's standards."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 470,
+            "start": 1271.395,
+            "end": 1273.146,
+            "text": "\"that lies floating\non the floor"
+          },
+          {
+            "index": 471,
+            "start": 1273.23,
+            "end": 1274.648,
+            "text": "\"shall be lifted--"
+          },
+          {
+            "index": 472,
+            "start": 1274.731,
+            "end": 1276.149,
+            "text": "nevermore!\""
+          },
+          {
+            "index": 473,
+            "start": 1276.233,
+            "end": 1278.026,
+            "text": "Heh, heh, heh."
+          },
+          {
+            "index": 474,
+            "start": 1279.278,
+            "end": 1281.446,
+            "text": "Lisa, that wasn't scary."
+          },
+          {
+            "index": 475,
+            "start": 1281.53,
+            "end": 1282.99,
+            "text": "Not even for a poem."
+          },
+          {
+            "index": 476,
+            "start": 1283.073,
+            "end": 1284.7,
+            "text": "Well, it was written in 1845."
+          },
+          {
+            "index": 477,
+            "start": 1284.783,
+            "end": 1287.369,
+            "text": "Maybe people were easier to\nscare back then."
+          },
+          {
+            "index": 478,
+            "start": 1287.452,
+            "end": 1289.162,
+            "text": "Oh, yeah.\nLike when you look at"
+          },
+          {
+            "index": 479,
+            "start": 1289.246,
+            "end": 1290.789,
+            "text": "\"Friday the 13th, Part One.\""
+          },
+          {
+            "index": 480,
+            "start": 1290.872,
+            "end": 1292.499,
+            "text": "It's pretty tame\nby today's standards."
+          },
+          {
+            "index": 481,
+            "start": 1292.582,
+            "end": 1294.459,
+            "text": "MARGE:\nChildren, bedtime!"
+          },
+          {
+            "index": 482,
+            "start": 1294.543,
+            "end": 1298.171,
+            "text": "I guess I'll have no trouble\ngetting to sleep tonight."
+          },
+          {
+            "index": 483,
+            "start": 1301.133,
+            "end": 1304.428,
+            "text": "(Homer shuddering)"
+          },
+          {
+            "index": 484,
+            "start": 1315.897,
+            "end": 1318.984,
+            "text": "Oh, no, Marge!\nCome on, please."
+          },
+          {
+            "index": 485,
+            "start": 1319.067,
+            "end": 1321.778,
+            "text": "Homer, I'm not sleeping\nwith the lights on."
+          },
+          {
+            "index": 486,
+            "start": 1321.862,
+            "end": 1323.989,
+            "text": "They're just\nchildren's stories."
+          },
+          {
+            "index": 487,
+            "start": 1324.072,
+            "end": 1325.407,
+            "text": "They can't hurt you."
+          },
+          {
+            "index": 488,
+            "start": 1328.327,
+            "end": 1329.536,
+            "text": "(quavering)"
+          },
+          {
+            "index": 489,
+            "start": 1331.538,
+            "end": 1332.914,
+            "text": "Heh, heh, heh!"
+          },
+          {
+            "index": 490,
+            "start": 1332.998,
+            "end": 1336.293,
+            "text": "Oh...\nOh, I hate Halloween."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1293.65933203125,
+        "topCueIndex": -1,
+        "bottomCueIndex": 480
+      }
     }
   ]
 }
