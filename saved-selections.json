@@ -114954,6 +114954,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 414
       }
+    },
+    {
+      "id": "125814c7-7e99-4ecd-a984-0855babda2fc",
+      "createdAt": "2026-09-15T16:20:41.037Z",
+      "videoName": "The Simpsons",
+      "sourceUrl": "https://www.disneyplus.com/play/e7b385fe-ec23-491c-93bb-e2cbc2dc8f10",
+      "audioTrackName": "",
+      "selectedText": "\"Nevermore\"",
+      "selection": {
+        "rawText": "\"Nevermore\"",
+        "startOffset": 8,
+        "endOffset": 19,
+        "cueIndex": 420,
+        "cueStart": 1152.401,
+        "cueEnd": 1153.527,
+        "cueText": "He says \"Nevermore\""
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 410,
+            "start": 1133.757,
+            "end": 1135.425,
+            "text": "(laughs)\nThough thy crest"
+          },
+          {
+            "index": 411,
+            "start": 1135.509,
+            "end": 1138.262,
+            "text": "-be shorn and shaven, thou,\n-\"I said,"
+          },
+          {
+            "index": 412,
+            "start": 1138.345,
+            "end": 1140.222,
+            "text": "art sure no craven,"
+          },
+          {
+            "index": 413,
+            "start": 1140.305,
+            "end": 1142.224,
+            "text": "ghastly grim and ancient raven"
+          },
+          {
+            "index": 414,
+            "start": 1142.307,
+            "end": 1143.976,
+            "text": "wandering from\nthe nightly shore--"
+          },
+          {
+            "index": 415,
+            "start": 1144.059,
+            "end": 1145.06,
+            "text": "Tell me,"
+          },
+          {
+            "index": 416,
+            "start": 1145.144,
+            "end": 1147.146,
+            "text": "tell me\nwhat thy lordly name is"
+          },
+          {
+            "index": 417,
+            "start": 1147.229,
+            "end": 1148.689,
+            "text": "on the night's\nPlutonian shore."
+          },
+          {
+            "index": 418,
+            "start": 1148.772,
+            "end": 1150.274,
+            "text": "Quoth the raven...\""
+          },
+          {
+            "index": 419,
+            "start": 1150.357,
+            "end": 1152.317,
+            "text": "-Eat my shorts.\n-Bart, stop it."
+          },
+          {
+            "index": 420,
+            "start": 1152.401,
+            "end": 1153.527,
+            "text": "He says \"Nevermore\""
+          },
+          {
+            "index": 421,
+            "start": 1153.61,
+            "end": 1155.237,
+            "text": "and that's all he'll ever say."
+          },
+          {
+            "index": 422,
+            "start": 1155.32,
+            "end": 1156.822,
+            "text": "BART: Okay, okay."
+          },
+          {
+            "index": 423,
+            "start": 1157.906,
+            "end": 1159.366,
+            "text": "Ooh."
+          },
+          {
+            "index": 424,
+            "start": 1159.449,
+            "end": 1160.909,
+            "text": "(sniffing)\nHmm."
+          },
+          {
+            "index": 425,
+            "start": 1160.993,
+            "end": 1163.662,
+            "text": "\"Then, methought,\nthe air grew denser,"
+          },
+          {
+            "index": 426,
+            "start": 1163.745,
+            "end": 1165.664,
+            "text": "\"perfumed by\nsome unseen censer..."
+          },
+          {
+            "index": 427,
+            "start": 1165.747,
+            "end": 1168.375,
+            "text": "-D'oh! Stupid censer.\n-\"...swung by Seraphim"
+          },
+          {
+            "index": 428,
+            "start": 1168.458,
+            "end": 1171.461,
+            "text": "\"whose footfalls\ntinkled on the tufted floor."
+          },
+          {
+            "index": 429,
+            "start": 1171.545,
+            "end": 1172.754,
+            "text": "-Wretch.\n-\"I cried,"
+          },
+          {
+            "index": 430,
+            "start": 1172.838,
+            "end": 1174.131,
+            "text": "thy God hath lent thee--"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1154.4858850097655,
+        "topCueIndex": -1,
+        "bottomCueIndex": 420
+      }
     }
   ]
 }
