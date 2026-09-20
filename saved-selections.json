@@ -127104,6 +127104,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 239
       }
+    },
+    {
+      "id": "afbb5da2-6259-43c1-ad32-e5dc03e7a668",
+      "createdAt": "2026-09-20T22:09:42.757Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/0b16c23e-9f2d-4edb-8721-3cf22f9934bb",
+      "audioTrackName": "",
+      "selectedText": "better off",
+      "selection": {
+        "rawText": "better off",
+        "startOffset": 35,
+        "endOffset": 45,
+        "cueIndex": 250,
+        "cueStart": 710.608,
+        "cueEnd": 714.541,
+        "cueText": "What kind of\nperson does that?\nI'm better off without her."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 240,
+            "start": 686.441,
+            "end": 687.774,
+            "text": "Tony, stop it!"
+          },
+          {
+            "index": 241,
+            "start": 687.808,
+            "end": 690.408,
+            "text": "I don't want your help, okay?\nYou don't have to do this."
+          },
+          {
+            "index": 242,
+            "start": 690.441,
+            "end": 691.941,
+            "text": "Yes, I do.\nWhy?"
+          },
+          {
+            "index": 243,
+            "start": 691.974,
+            "end": 693.541,
+            "text": "Because."
+          },
+          {
+            "index": 244,
+            "start": 695.274,
+            "end": 699.041,
+            "text": "When you were with Stella,\nI know how much I missed her."
+          },
+          {
+            "index": 245,
+            "start": 699.074,
+            "end": 700.908,
+            "text": "I can only imagine\nyou feel the same way."
+          },
+          {
+            "index": 246,
+            "start": 700.941,
+            "end": 702.208,
+            "text": "(LAUGHS)"
+          },
+          {
+            "index": 247,
+            "start": 702.241,
+            "end": 706.008,
+            "text": "Okay, well, let me\nput your mind at ease."
+          },
+          {
+            "index": 248,
+            "start": 706.041,
+            "end": 708.174,
+            "text": "I don't want\nStella back, okay?"
+          },
+          {
+            "index": 249,
+            "start": 708.208,
+            "end": 710.574,
+            "text": "She lied to me\nand left me\nat the altar."
+          },
+          {
+            "index": 250,
+            "start": 710.608,
+            "end": 714.541,
+            "text": "What kind of\nperson does that?\nI'm better off without her."
+          },
+          {
+            "index": 251,
+            "start": 714.574,
+            "end": 716.574,
+            "text": "She's all yours, buddy."
+          },
+          {
+            "index": 252,
+            "start": 720.108,
+            "end": 723.508,
+            "text": "There you go.\nLoad off my mind."
+          },
+          {
+            "index": 253,
+            "start": 723.541,
+            "end": 725.374,
+            "text": "OLDER TED:\nAnd that was it.\nTony left,"
+          },
+          {
+            "index": 254,
+            "start": 725.408,
+            "end": 727.908,
+            "text": "and I began to put this\nwhole business far behind me."
+          },
+          {
+            "index": 255,
+            "start": 727.941,
+            "end": 729.508,
+            "text": "Or so I thought."
+          },
+          {
+            "index": 256,
+            "start": 729.541,
+            "end": 730.574,
+            "text": "(KNOCKING ON DOOR)"
+          },
+          {
+            "index": 257,
+            "start": 732.241,
+            "end": 733.941,
+            "text": "Stella."
+          },
+          {
+            "index": 258,
+            "start": 733.974,
+            "end": 735.908,
+            "text": "Tony broke up with me."
+          },
+          {
+            "index": 259,
+            "start": 741.999,
+            "end": 745.699,
+            "text": "Wow. Okay,\nTony broke up with you?"
+          },
+          {
+            "index": 260,
+            "start": 745.732,
+            "end": 748.132,
+            "text": "He said it was because\nof something you said."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 715.3732619628906,
+        "topCueIndex": -1,
+        "bottomCueIndex": 250
+      }
     }
   ]
 }
