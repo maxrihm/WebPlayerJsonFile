@@ -125727,6 +125727,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 130
       }
+    },
+    {
+      "id": "d1a555d0-621a-4885-85a6-778acbbedc67",
+      "createdAt": "2026-09-20T21:58:14.864Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/0b16c23e-9f2d-4edb-8721-3cf22f9934bb",
+      "audioTrackName": "",
+      "selectedText": "duh.",
+      "selection": {
+        "rawText": "duh.",
+        "startOffset": 6,
+        "endOffset": 10,
+        "cueIndex": 139,
+        "cueStart": 389.774,
+        "cueEnd": 392.708,
+        "cueText": "Well, duh.\nI would've done that, too,"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 129,
+            "start": 355.141,
+            "end": 358.108,
+            "text": "My mom marinates them\nin Belgian beer\nfor two days. No big."
+          },
+          {
+            "index": 130,
+            "start": 358.141,
+            "end": 362.941,
+            "text": "Funny thing was,\nI could've sworn that one\nof those thick, succulent,"
+          },
+          {
+            "index": 131,
+            "start": 362.974,
+            "end": 366.074,
+            "text": "hickory‐smoked brats\nhad some writing on it."
+          },
+          {
+            "index": 132,
+            "start": 366.108,
+            "end": 367.741,
+            "text": "Weird. Anyways,\nwhat were you saying?"
+          },
+          {
+            "index": 133,
+            "start": 367.774,
+            "end": 371.074,
+            "text": "What...\nWhat did it say?\nThe brat?"
+          },
+          {
+            "index": 134,
+            "start": 371.108,
+            "end": 375.941,
+            "text": "It said,\n\"Property of Minnesota\nState Trooper Jorgensen.\""
+          },
+          {
+            "index": 135,
+            "start": 375.974,
+            "end": 379.774,
+            "text": "You a...\nYou a brat man,\nOfficer Jorgensen?"
+          },
+          {
+            "index": 136,
+            "start": 383.241,
+            "end": 385.108,
+            "text": "You going to this address?\nMmm‐hmm."
+          },
+          {
+            "index": 137,
+            "start": 385.141,
+            "end": 386.408,
+            "text": "Follow me and\nlean on the horn."
+          },
+          {
+            "index": 138,
+            "start": 386.441,
+            "end": 387.774,
+            "text": "We're gonna be\nrunning some reds."
+          },
+          {
+            "index": 139,
+            "start": 389.774,
+            "end": 392.708,
+            "text": "Well, duh.\nI would've done that, too,"
+          },
+          {
+            "index": 140,
+            "start": 392.741,
+            "end": 395.041,
+            "text": "if I'd have been\ngoing to a barbecue."
+          },
+          {
+            "index": 141,
+            "start": 395.074,
+            "end": 396.408,
+            "text": "Damn, I was."
+          },
+          {
+            "index": 142,
+            "start": 396.441,
+            "end": 398.274,
+            "text": "See, it's all about\nsizing up your opponent."
+          },
+          {
+            "index": 143,
+            "start": 398.308,
+            "end": 400.174,
+            "text": "I could tell\nthat the officer\nwas a brat man,"
+          },
+          {
+            "index": 144,
+            "start": 400.208,
+            "end": 401.741,
+            "text": "because, well,\nhe was out of breath"
+          },
+          {
+            "index": 145,
+            "start": 401.774,
+            "end": 406.274,
+            "text": "just from walking to my car\nand he had mustard\non his holster."
+          },
+          {
+            "index": 146,
+            "start": 406.308,
+            "end": 408.341,
+            "text": "Marshall Eriksen!"
+          },
+          {
+            "index": 147,
+            "start": 408.374,
+            "end": 412.041,
+            "text": "Manipulating\nan officer of the law\nwith your sausage."
+          },
+          {
+            "index": 148,
+            "start": 412.074,
+            "end": 414.274,
+            "text": "That is very hot."
+          },
+          {
+            "index": 149,
+            "start": 414.308,
+            "end": 417.541,
+            "text": "You think I can't talk\nmy way out of a ticket?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 392.1421960449219,
+        "topCueIndex": -1,
+        "bottomCueIndex": 139
+      }
     }
   ]
 }
