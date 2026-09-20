@@ -122250,6 +122250,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 301
       }
+    },
+    {
+      "id": "00e44513-091a-4e46-82b1-e4980124de9b",
+      "createdAt": "2026-09-20T21:33:13.241Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/cc85407f-8c6c-40a6-8874-5c95420215dd",
+      "audioTrackName": "",
+      "selectedText": "stall",
+      "selection": {
+        "rawText": "stall",
+        "startOffset": 40,
+        "endOffset": 45,
+        "cueIndex": 366,
+        "cueStart": 982.816,
+        "cueEnd": 986.319,
+        "cueText": "Hurry up!\nI'll try to think of a way\nto stall them."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 356,
+            "start": 956.322,
+            "end": 958.124,
+            "text": "What?"
+          },
+          {
+            "index": 357,
+            "start": 958.158,
+            "end": 959.626,
+            "text": "That's how an intervention\nworks, Marshall."
+          },
+          {
+            "index": 358,
+            "start": 959.66,
+            "end": 962.295,
+            "text": "You wouldn't stop using,\nso we flushed your stash."
+          },
+          {
+            "index": 359,
+            "start": 962.328,
+            "end": 964.865,
+            "text": "Come on, Ted!\nI need my charts, man!"
+          },
+          {
+            "index": 360,
+            "start": 964.898,
+            "end": 967.701,
+            "text": "Just for today, and then\nI promise I will never ever\nuse charts again."
+          },
+          {
+            "index": 361,
+            "start": 967.734,
+            "end": 970.837,
+            "text": "I'm under\na lot of pressure here.\nI need my charts, Jack!"
+          },
+          {
+            "index": 362,
+            "start": 970.871,
+            "end": 973.607,
+            "text": "My God, you're doing\ncharts at work?"
+          },
+          {
+            "index": 363,
+            "start": 973.64,
+            "end": 976.943,
+            "text": "They're for work, you idiot!\nI'm giving\na big presentation right now,"
+          },
+          {
+            "index": 364,
+            "start": 976.977,
+            "end": 978.979,
+            "text": "and if I don't have\nthose charts,\nI'm gonna get fired!"
+          },
+          {
+            "index": 365,
+            "start": 979.012,
+            "end": 982.783,
+            "text": "Oh, crap.\nOkay, stay right there.\nI'll bring them to you."
+          },
+          {
+            "index": 366,
+            "start": 982.816,
+            "end": 986.319,
+            "text": "Hurry up!\nI'll try to think of a way\nto stall them."
+          },
+          {
+            "index": 367,
+            "start": 986.352,
+            "end": 988.689,
+            "text": "(CLEARING THROAT)\nHi. Okay."
+          },
+          {
+            "index": 368,
+            "start": 988.722,
+            "end": 990.857,
+            "text": "I'm sorry, but there's been\na little delay\nwith the charts."
+          },
+          {
+            "index": 369,
+            "start": 990.891,
+            "end": 993.594,
+            "text": "But we will get started\nin just a minute."
+          },
+          {
+            "index": 370,
+            "start": 1000.2,
+            "end": 1002.569,
+            "text": "Fish are weird, right?"
+          },
+          {
+            "index": 371,
+            "start": 1002.603,
+            "end": 1004.571,
+            "text": "I mean,\nwhat's up with fish?"
+          },
+          {
+            "index": 372,
+            "start": 1011.011,
+            "end": 1013.113,
+            "text": "MILT: Charts!\nGet your charts here!"
+          },
+          {
+            "index": 373,
+            "start": 1015.415,
+            "end": 1019.92,
+            "text": "Oh! Excuse me, Milt.\nI think\nthose are my charts."
+          },
+          {
+            "index": 374,
+            "start": 1019.953,
+            "end": 1021.254,
+            "text": "These charts?\nYeah."
+          },
+          {
+            "index": 375,
+            "start": 1021.287,
+            "end": 1023.056,
+            "text": "On my blanket?"
+          },
+          {
+            "index": 376,
+            "start": 1023.089,
+            "end": 1025.425,
+            "text": "That's also my blanket.\nWe'll get to that later."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 984.6201579589844,
+        "topCueIndex": -1,
+        "bottomCueIndex": 366
+      }
     }
   ]
 }
