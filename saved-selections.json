@@ -125574,6 +125574,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 112
       }
+    },
+    {
+      "id": "65630fd1-f113-4a42-a015-ad2cbc56155b",
+      "createdAt": "2026-09-20T21:56:52.277Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/0b16c23e-9f2d-4edb-8721-3cf22f9934bb",
+      "audioTrackName": "",
+      "selectedText": "succulent,",
+      "selection": {
+        "rawText": "succulent,",
+        "startOffset": 59,
+        "endOffset": 69,
+        "cueIndex": 130,
+        "cueStart": 358.141,
+        "cueEnd": 362.941,
+        "cueText": "Funny thing was,\nI could've sworn that one\nof those thick, succulent,"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 120,
+            "start": 327.208,
+            "end": 328.774,
+            "text": "You can't talk\nyour way out\nof a ticket."
+          },
+          {
+            "index": 121,
+            "start": 328.808,
+            "end": 330.108,
+            "text": "I've done it."
+          },
+          {
+            "index": 122,
+            "start": 330.141,
+            "end": 333.941,
+            "text": "It was...\nWhat was it? It was 1998."
+          },
+          {
+            "index": 123,
+            "start": 333.974,
+            "end": 335.441,
+            "text": "So where's the fire?"
+          },
+          {
+            "index": 124,
+            "start": 335.474,
+            "end": 337.041,
+            "text": "There's no fire."
+          },
+          {
+            "index": 125,
+            "start": 340.108,
+            "end": 343.108,
+            "text": "Actually, you know,\nthere is a fire at this\nbarbecue I'm headed to."
+          },
+          {
+            "index": 126,
+            "start": 343.141,
+            "end": 346.608,
+            "text": "Nothing special.\nBurgers, ribs, brats."
+          },
+          {
+            "index": 127,
+            "start": 346.641,
+            "end": 350.308,
+            "text": "Son, do you have any idea\nhow dangerous it is to be..."
+          },
+          {
+            "index": 128,
+            "start": 352.041,
+            "end": 355.108,
+            "text": "Did you say brats?\nYeah, brats."
+          },
+          {
+            "index": 129,
+            "start": 355.141,
+            "end": 358.108,
+            "text": "My mom marinates them\nin Belgian beer\nfor two days. No big."
+          },
+          {
+            "index": 130,
+            "start": 358.141,
+            "end": 362.941,
+            "text": "Funny thing was,\nI could've sworn that one\nof those thick, succulent,"
+          },
+          {
+            "index": 131,
+            "start": 362.974,
+            "end": 366.074,
+            "text": "hickory‐smoked brats\nhad some writing on it."
+          },
+          {
+            "index": 132,
+            "start": 366.108,
+            "end": 367.741,
+            "text": "Weird. Anyways,\nwhat were you saying?"
+          },
+          {
+            "index": 133,
+            "start": 367.774,
+            "end": 371.074,
+            "text": "What...\nWhat did it say?\nThe brat?"
+          },
+          {
+            "index": 134,
+            "start": 371.108,
+            "end": 375.941,
+            "text": "It said,\n\"Property of Minnesota\nState Trooper Jorgensen.\""
+          },
+          {
+            "index": 135,
+            "start": 375.974,
+            "end": 379.774,
+            "text": "You a...\nYou a brat man,\nOfficer Jorgensen?"
+          },
+          {
+            "index": 136,
+            "start": 383.241,
+            "end": 385.108,
+            "text": "You going to this address?\nMmm‐hmm."
+          },
+          {
+            "index": 137,
+            "start": 385.141,
+            "end": 386.408,
+            "text": "Follow me and\nlean on the horn."
+          },
+          {
+            "index": 138,
+            "start": 386.441,
+            "end": 387.774,
+            "text": "We're gonna be\nrunning some reds."
+          },
+          {
+            "index": 139,
+            "start": 389.774,
+            "end": 392.708,
+            "text": "Well, duh.\nI would've done that, too,"
+          },
+          {
+            "index": 140,
+            "start": 392.741,
+            "end": 395.041,
+            "text": "if I'd have been\ngoing to a barbecue."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 366.87194189453123,
+        "topCueIndex": -1,
+        "bottomCueIndex": 130
+      }
     }
   ]
 }
