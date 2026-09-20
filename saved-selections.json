@@ -124962,6 +124962,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 80
       }
+    },
+    {
+      "id": "0f049add-7081-49a5-97d8-3bb8a954a2ba",
+      "createdAt": "2026-09-20T21:52:34.241Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/0b16c23e-9f2d-4edb-8721-3cf22f9934bb",
+      "audioTrackName": "",
+      "selectedText": "find yourself wondering",
+      "selection": {
+        "rawText": "find yourself wondering",
+        "startOffset": 49,
+        "endOffset": 72,
+        "cueIndex": 93,
+        "cueStart": 256.308,
+        "cueEnd": 259.574,
+        "cueText": "that when you sit\nnext to it on an airplane,\nyou find yourself wondering"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 83,
+            "start": 229.141,
+            "end": 232.541,
+            "text": "And I want to use that money\nto make this right with you."
+          },
+          {
+            "index": 84,
+            "start": 232.574,
+            "end": 235.241,
+            "text": "Tony is rich? Oh, Ted."
+          },
+          {
+            "index": 85,
+            "start": 235.274,
+            "end": 239.708,
+            "text": "Oh, Ted, tell me\nhe wrote you a check."
+          },
+          {
+            "index": 86,
+            "start": 239.741,
+            "end": 243.774,
+            "text": "Tell me he wrote you\na big, fat check."
+          },
+          {
+            "index": 87,
+            "start": 243.808,
+            "end": 247.508,
+            "text": "A check so big\nit doesn't take its shirt off\nwhen it goes swimming."
+          },
+          {
+            "index": 88,
+            "start": 247.541,
+            "end": 248.908,
+            "text": "That is a big,\nfat check."
+          },
+          {
+            "index": 89,
+            "start": 248.941,
+            "end": 251.374,
+            "text": "A check so big,\nif you had sex with it,"
+          },
+          {
+            "index": 90,
+            "start": 251.408,
+            "end": 252.708,
+            "text": "you wouldn't\ntell your buddies."
+          },
+          {
+            "index": 91,
+            "start": 252.741,
+            "end": 254.541,
+            "text": "That is a big, fat check."
+          },
+          {
+            "index": 92,
+            "start": 254.574,
+            "end": 256.274,
+            "text": "A check so big"
+          },
+          {
+            "index": 93,
+            "start": 256.308,
+            "end": 259.574,
+            "text": "that when you sit\nnext to it on an airplane,\nyou find yourself wondering"
+          },
+          {
+            "index": 94,
+            "start": 259.608,
+            "end": 261.374,
+            "text": "whether the check\nshould have bought\ntwo seats."
+          },
+          {
+            "index": 95,
+            "start": 261.408,
+            "end": 264.541,
+            "text": "That...\nIs a big, fat check!"
+          },
+          {
+            "index": 96,
+            "start": 264.574,
+            "end": 267.374,
+            "text": "Yeah! He didn't\nwrite me a check."
+          },
+          {
+            "index": 97,
+            "start": 267.408,
+            "end": 269.741,
+            "text": "Ted, I want to\noffer you a job.\nA job?"
+          },
+          {
+            "index": 98,
+            "start": 269.774,
+            "end": 272.541,
+            "text": "Every year, my family\ngives a lot of money\nto Columbia University,"
+          },
+          {
+            "index": 99,
+            "start": 272.574,
+            "end": 274.341,
+            "text": "so I got some pull."
+          },
+          {
+            "index": 100,
+            "start": 274.374,
+            "end": 276.708,
+            "text": "How would you\nlike to design..."
+          },
+          {
+            "index": 101,
+            "start": 276.741,
+            "end": 278.108,
+            "text": "OLDER TED: My heart\nleapt into my throat."
+          },
+          {
+            "index": 102,
+            "start": 278.141,
+            "end": 280.874,
+            "text": "A new library?\nA new student center?"
+          },
+          {
+            "index": 103,
+            "start": 280.908,
+            "end": 284.708,
+            "text": "...your very own curriculum as\na professor of architecture."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 261.7028430175781,
+        "topCueIndex": -1,
+        "bottomCueIndex": 93
+      }
     }
   ]
 }
