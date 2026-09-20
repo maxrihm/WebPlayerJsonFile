@@ -128787,6 +128787,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 397
       }
+    },
+    {
+      "id": "3bdd3bcb-b296-42c8-b624-b648c2607386",
+      "createdAt": "2026-09-20T22:25:10.774Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/0b16c23e-9f2d-4edb-8721-3cf22f9934bb",
+      "audioTrackName": "",
+      "selectedText": "shattered",
+      "selection": {
+        "rawText": "shattered",
+        "startOffset": 23,
+        "endOffset": 32,
+        "cueIndex": 410,
+        "cueStart": 1188.432,
+        "cueEnd": 1194.665,
+        "cueText": "♪ But somehow you have\nshattered my defense"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 400,
+            "start": 1147.932,
+            "end": 1149.965,
+            "text": "\"I got here\nas fast as I could.\""
+          },
+          {
+            "index": 401,
+            "start": 1149.999,
+            "end": 1152.065,
+            "text": "(CHUCKLES) For real?"
+          },
+          {
+            "index": 402,
+            "start": 1152.865,
+            "end": 1155.065,
+            "text": "No. It's an old joke."
+          },
+          {
+            "index": 403,
+            "start": 1158.599,
+            "end": 1161.832,
+            "text": "I know that you're\ntired of waiting,"
+          },
+          {
+            "index": 404,
+            "start": 1161.865,
+            "end": 1164.532,
+            "text": "and you may have to wait\na little while more,"
+          },
+          {
+            "index": 405,
+            "start": 1164.565,
+            "end": 1167.232,
+            "text": "but she's on her way, Ted."
+          },
+          {
+            "index": 406,
+            "start": 1169.699,
+            "end": 1173.032,
+            "text": "And she's getting here\nas fast as she can."
+          },
+          {
+            "index": 407,
+            "start": 1182.665,
+            "end": 1184.199,
+            "text": "Bye, Stella."
+          },
+          {
+            "index": 408,
+            "start": 1184.832,
+            "end": 1186.665,
+            "text": "Goodbye, Ted."
+          },
+          {
+            "index": 409,
+            "start": 1186.699,
+            "end": 1188.399,
+            "text": "(CAREFUL PLAYING)"
+          },
+          {
+            "index": 410,
+            "start": 1188.432,
+            "end": 1194.665,
+            "text": "♪ But somehow you have\nshattered my defense"
+          },
+          {
+            "index": 411,
+            "start": 1194.699,
+            "end": 1197.999,
+            "text": "♪ And this is gonna hurt"
+          },
+          {
+            "index": 412,
+            "start": 1198.032,
+            "end": 1201.499,
+            "text": "♪ If it ever starts"
+          },
+          {
+            "index": 413,
+            "start": 1201.532,
+            "end": 1208.465,
+            "text": "♪ So promise you'll be\ncareful with my heart"
+          },
+          {
+            "index": 414,
+            "start": 1208.499,
+            "end": 1213.232,
+            "text": "♪ Careful with my heart ♪"
+          },
+          {
+            "index": 415,
+            "start": 1217.89,
+            "end": 1220.923,
+            "text": "She tracked me down\ntwo days later\nusing a phone book."
+          },
+          {
+            "index": 416,
+            "start": 1220.957,
+            "end": 1224.723,
+            "text": "And that's the last time\nI wrote my name\nin my undergarments."
+          },
+          {
+            "index": 417,
+            "start": 1225.623,
+            "end": 1226.69,
+            "text": "Hey."
+          },
+          {
+            "index": 418,
+            "start": 1226.723,
+            "end": 1228.623,
+            "text": "Hey, Lily!\nLily!"
+          },
+          {
+            "index": 419,
+            "start": 1228.657,
+            "end": 1230.257,
+            "text": "You're back!"
+          },
+          {
+            "index": 420,
+            "start": 1230.29,
+            "end": 1233.823,
+            "text": "Barney, when you told me that\npeanut butter and jam joke,"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1196.7725400390625,
+        "topCueIndex": -1,
+        "bottomCueIndex": 410
+      }
     }
   ]
 }
