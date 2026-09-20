@@ -122097,6 +122097,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 300
       }
+    },
+    {
+      "id": "5239afbb-6964-4f8f-ba0a-4ed30809ee72",
+      "createdAt": "2026-09-20T21:26:34.721Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/cc85407f-8c6c-40a6-8874-5c95420215dd",
+      "audioTrackName": "",
+      "selectedText": "cut down",
+      "selection": {
+        "rawText": "cut down",
+        "startOffset": 0,
+        "endOffset": 8,
+        "cueIndex": 301,
+        "cueStart": 792.125,
+        "cueEnd": 795.428,
+        "cueText": "cut down 77th\nand gotten to that corner\na minute early."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 291,
+            "start": 765.632,
+            "end": 768.802,
+            "text": "Who cares if Pauline\ndoesn't pose for\nbikini pictures in magazines?"
+          },
+          {
+            "index": 292,
+            "start": 768.835,
+            "end": 770.937,
+            "text": "Actually, she does."
+          },
+          {
+            "index": 293,
+            "start": 770.971,
+            "end": 773.439,
+            "text": "She's gonna be\nin next week's issue\nof Muscle Sexxy."
+          },
+          {
+            "index": 294,
+            "start": 773.473,
+            "end": 775.642,
+            "text": "And, like many of the ladies\nin that magazine,"
+          },
+          {
+            "index": 295,
+            "start": 775.676,
+            "end": 778.078,
+            "text": "\"Sexxy\" has\ntwo X's and one Y."
+          },
+          {
+            "index": 296,
+            "start": 778.111,
+            "end": 780.681,
+            "text": "(SOBBING)"
+          },
+          {
+            "index": 297,
+            "start": 780.714,
+            "end": 782.783,
+            "text": "OLDER TED: And so,\non my way to get a bagel,"
+          },
+          {
+            "index": 298,
+            "start": 782.816,
+            "end": 787.153,
+            "text": "I stopped at a newsstand\nfor a full minute to check out\na picture of Barney's 200th."
+          },
+          {
+            "index": 299,
+            "start": 787.187,
+            "end": 789.322,
+            "text": "Barney!"
+          },
+          {
+            "index": 300,
+            "start": 789.355,
+            "end": 792.092,
+            "text": "OLDER TED: If I hadn't\ndone that, I would've\nwalked right by the newsstand,"
+          },
+          {
+            "index": 301,
+            "start": 792.125,
+            "end": 795.428,
+            "text": "cut down 77th\nand gotten to that corner\na minute early."
+          },
+          {
+            "index": 302,
+            "start": 795.461,
+            "end": 797.998,
+            "text": "I would've gotten the bagel,\ndone some work,"
+          },
+          {
+            "index": 303,
+            "start": 798.031,
+            "end": 800.967,
+            "text": "and you kids might\nnever have been born."
+          },
+          {
+            "index": 304,
+            "start": 801.001,
+            "end": 804.17,
+            "text": "Now, why did I cut down 77th\nand give a dollar\nto the homeless guy?"
+          },
+          {
+            "index": 305,
+            "start": 804.204,
+            "end": 806.472,
+            "text": "Here's why."
+          },
+          {
+            "index": 306,
+            "start": 806.507,
+            "end": 808.008,
+            "text": "Back when Marshall\nfirst started working\nat Goliath National Bank..."
+          },
+          {
+            "index": 307,
+            "start": 808.809,
+            "end": 810.811,
+            "text": "Hi."
+          },
+          {
+            "index": 308,
+            "start": 810.844,
+            "end": 813.446,
+            "text": "Fran, I don't mean to\nbother you, but I have\na big presentation tomorrow,"
+          },
+          {
+            "index": 309,
+            "start": 813.479,
+            "end": 815.048,
+            "text": "and it would really help"
+          },
+          {
+            "index": 310,
+            "start": 815.081,
+            "end": 817.317,
+            "text": "if I could get, like,\nsome charts\nand graphs made up."
+          },
+          {
+            "index": 311,
+            "start": 817.35,
+            "end": 818.719,
+            "text": "Could you\nhelp me with that?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 794.2109853515625,
+        "topCueIndex": -1,
+        "bottomCueIndex": 301
+      }
     }
   ]
 }
