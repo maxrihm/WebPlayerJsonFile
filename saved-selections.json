@@ -124809,6 +124809,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 72
       }
+    },
+    {
+      "id": "dc3b77b7-12ec-42ab-a37c-e33a987db4b3",
+      "createdAt": "2026-09-20T21:51:32.263Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/0b16c23e-9f2d-4edb-8721-3cf22f9934bb",
+      "audioTrackName": "",
+      "selectedText": "backbone",
+      "selection": {
+        "rawText": "backbone",
+        "startOffset": 9,
+        "endOffset": 17,
+        "cueIndex": 80,
+        "cueStart": 223.541,
+        "cueEnd": 225.341,
+        "cueText": "It's the backbone\nof the economy."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 70,
+            "start": 199.641,
+            "end": 201.608,
+            "text": "that's got to pull itself\naround on a cart."
+          },
+          {
+            "index": 71,
+            "start": 201.641,
+            "end": 203.074,
+            "text": "Why are you here?"
+          },
+          {
+            "index": 72,
+            "start": 203.108,
+            "end": 207.108,
+            "text": "Look, Ted,\nI know I can come\nacross pretty tough,"
+          },
+          {
+            "index": 73,
+            "start": 207.141,
+            "end": 210.041,
+            "text": "but I can't bear\nto have hurt someone\nthe way I hurt you."
+          },
+          {
+            "index": 74,
+            "start": 210.074,
+            "end": 213.241,
+            "text": "I think fate\nput me on that corner\nto make this right."
+          },
+          {
+            "index": 75,
+            "start": 213.274,
+            "end": 215.874,
+            "text": "Obviously, I can't fill\nthat giant crater"
+          },
+          {
+            "index": 76,
+            "start": 215.908,
+            "end": 217.408,
+            "text": "that Stella left\nin your heart."
+          },
+          {
+            "index": 77,
+            "start": 217.441,
+            "end": 219.241,
+            "text": "I've been dating.\nLike, a lot."
+          },
+          {
+            "index": 78,
+            "start": 219.274,
+            "end": 220.608,
+            "text": "And then I heard\nyou got fired."
+          },
+          {
+            "index": 79,
+            "start": 220.641,
+            "end": 223.508,
+            "text": "I transitioned into\nsmall business ownership."
+          },
+          {
+            "index": 80,
+            "start": 223.541,
+            "end": 225.341,
+            "text": "It's the backbone\nof the economy."
+          },
+          {
+            "index": 81,
+            "start": 225.374,
+            "end": 226.708,
+            "text": "No, it's not."
+          },
+          {
+            "index": 82,
+            "start": 226.741,
+            "end": 229.108,
+            "text": "Ted, my family's\ngot a lot of money."
+          },
+          {
+            "index": 83,
+            "start": 229.141,
+            "end": 232.541,
+            "text": "And I want to use that money\nto make this right with you."
+          },
+          {
+            "index": 84,
+            "start": 232.574,
+            "end": 235.241,
+            "text": "Tony is rich? Oh, Ted."
+          },
+          {
+            "index": 85,
+            "start": 235.274,
+            "end": 239.708,
+            "text": "Oh, Ted, tell me\nhe wrote you a check."
+          },
+          {
+            "index": 86,
+            "start": 239.741,
+            "end": 243.774,
+            "text": "Tell me he wrote you\na big, fat check."
+          },
+          {
+            "index": 87,
+            "start": 243.808,
+            "end": 247.508,
+            "text": "A check so big\nit doesn't take its shirt off\nwhen it goes swimming."
+          },
+          {
+            "index": 88,
+            "start": 247.541,
+            "end": 248.908,
+            "text": "That is a big,\nfat check."
+          },
+          {
+            "index": 89,
+            "start": 248.941,
+            "end": 251.374,
+            "text": "A check so big,\nif you had sex with it,"
+          },
+          {
+            "index": 90,
+            "start": 251.408,
+            "end": 252.708,
+            "text": "you wouldn't\ntell your buddies."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 224.91681103515626,
+        "topCueIndex": -1,
+        "bottomCueIndex": 80
+      }
     }
   ]
 }
