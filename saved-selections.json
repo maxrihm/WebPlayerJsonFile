@@ -121485,6 +121485,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 203
       }
+    },
+    {
+      "id": "318ed463-dccc-4fe8-a65f-1d880897939f",
+      "createdAt": "2026-09-20T21:16:52.563Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/cc85407f-8c6c-40a6-8874-5c95420215dd",
+      "audioTrackName": "",
+      "selectedText": "squander",
+      "selection": {
+        "rawText": "squander",
+        "startOffset": 8,
+        "endOffset": 16,
+        "cueIndex": 226,
+        "cueStart": 606.707,
+        "cueEnd": 609.309,
+        "cueText": "I can't squander that\non 199."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 216,
+            "start": 573.173,
+            "end": 576.042,
+            "text": "And call him I will."
+          },
+          {
+            "index": 217,
+            "start": 576.076,
+            "end": 579.312,
+            "text": "I think he's gonna\nsay it again really slow."
+          },
+          {
+            "index": 218,
+            "start": 579.345,
+            "end": 580.781,
+            "text": "Call him"
+          },
+          {
+            "index": 219,
+            "start": 581.948,
+            "end": 584.417,
+            "text": "I will."
+          },
+          {
+            "index": 220,
+            "start": 584.45,
+            "end": 588.589,
+            "text": "Hey, you listed\nGaby Allan twice,\nas 78 and 162."
+          },
+          {
+            "index": 221,
+            "start": 588.622,
+            "end": 590.791,
+            "text": "What? Let me see."
+          },
+          {
+            "index": 222,
+            "start": 590.824,
+            "end": 594.795,
+            "text": "Seven... One...\nOh, my God."
+          },
+          {
+            "index": 223,
+            "start": 594.828,
+            "end": 599.766,
+            "text": "Wait I... I counted\nthe same girl twice?\nThat means I'm only at 198?"
+          },
+          {
+            "index": 224,
+            "start": 599.8,
+            "end": 603.804,
+            "text": "Well, that only means that\nyou're half a percent\nless gross than we thought."
+          },
+          {
+            "index": 225,
+            "start": 603.837,
+            "end": 606.673,
+            "text": "I'm seducing\na Czech supermodel\nin two hours."
+          },
+          {
+            "index": 226,
+            "start": 606.707,
+            "end": 609.309,
+            "text": "I can't squander that\non 199."
+          },
+          {
+            "index": 227,
+            "start": 609.342,
+            "end": 610.844,
+            "text": "(SCREAMING IN FRUSTRATION)"
+          },
+          {
+            "index": 228,
+            "start": 610.877,
+            "end": 613.113,
+            "text": "Petra has to be 200."
+          },
+          {
+            "index": 229,
+            "start": 613.146,
+            "end": 614.848,
+            "text": "Well, what are\nyou gonna do?"
+          },
+          {
+            "index": 230,
+            "start": 614.881,
+            "end": 615.849,
+            "text": "I mean, it's not like\nyou're gonna\nfind someone new"
+          },
+          {
+            "index": 231,
+            "start": 615.882,
+            "end": 618.619,
+            "text": "to have sex with\nin the next two hours."
+          },
+          {
+            "index": 232,
+            "start": 618.652,
+            "end": 620.02,
+            "text": "Hi, Barney Stinson,\nmillionaire astronaut."
+          },
+          {
+            "index": 233,
+            "start": 620.053,
+            "end": 621.321,
+            "text": "Wanna come back to my place\nand see some moon shells?"
+          },
+          {
+            "index": 234,
+            "start": 621.354,
+            "end": 622.856,
+            "text": "Go away."
+          },
+          {
+            "index": 235,
+            "start": 622.889,
+            "end": 624.29,
+            "text": "I just got back\nfrom my wife's grave."
+          },
+          {
+            "index": 236,
+            "start": 624.324,
+            "end": 625.826,
+            "text": "Put her in the ground\na year ago today."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 608.9794560546875,
+        "topCueIndex": -1,
+        "bottomCueIndex": 226
+      }
     }
   ]
 }
