@@ -126186,6 +126186,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 181
       }
+    },
+    {
+      "id": "97a1dc47-16d2-4970-a2d9-1e4e641863fd",
+      "createdAt": "2026-09-20T22:03:07.291Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/0b16c23e-9f2d-4edb-8721-3cf22f9934bb",
+      "audioTrackName": "",
+      "selectedText": "factual.",
+      "selection": {
+        "rawText": "factual.",
+        "startOffset": 4,
+        "endOffset": 12,
+        "cueIndex": 182,
+        "cueStart": 513.808,
+        "cueEnd": 514.908,
+        "cueText": "And factual."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 172,
+            "start": 489.874,
+            "end": 493.441,
+            "text": "$375!"
+          },
+          {
+            "index": 173,
+            "start": 493.474,
+            "end": 495.774,
+            "text": "And he kept\nthe gift certificate.\nOh, man."
+          },
+          {
+            "index": 174,
+            "start": 495.808,
+            "end": 498.441,
+            "text": "I'm gonna call Emilio\nand tell him to short‐sheet\nhim on the crotch."
+          },
+          {
+            "index": 175,
+            "start": 498.474,
+            "end": 499.941,
+            "text": "You are bad at this, dude."
+          },
+          {
+            "index": 176,
+            "start": 499.974,
+            "end": 502.441,
+            "text": "Whatever, Robin."
+          },
+          {
+            "index": 177,
+            "start": 502.474,
+            "end": 504.708,
+            "text": "Like you've ever\ntalked your way\nout of a ticket."
+          },
+          {
+            "index": 178,
+            "start": 504.741,
+            "end": 506.874,
+            "text": "Are you kidding me?\nRobin's a pretty girl."
+          },
+          {
+            "index": 179,
+            "start": 506.908,
+            "end": 508.541,
+            "text": "Pretty girls\ndon't get tickets."
+          },
+          {
+            "index": 180,
+            "start": 508.574,
+            "end": 511.208,
+            "text": "I bet Robin's been\npulled over tons of times,\nnever once gotten a ticket."
+          },
+          {
+            "index": 181,
+            "start": 511.241,
+            "end": 513.241,
+            "text": "That is outrageous!"
+          },
+          {
+            "index": 182,
+            "start": 513.808,
+            "end": 514.908,
+            "text": "And factual."
+          },
+          {
+            "index": 183,
+            "start": 516.308,
+            "end": 517.908,
+            "text": "License and..."
+          },
+          {
+            "index": 184,
+            "start": 517.941,
+            "end": 519.408,
+            "text": "(SOBBING)"
+          },
+          {
+            "index": 185,
+            "start": 519.441,
+            "end": 523.241,
+            "text": "Oh, honey.\nOh, no, no, no,\ndon't cry."
+          },
+          {
+            "index": 186,
+            "start": 523.274,
+            "end": 525.908,
+            "text": "It's okay.\nNo ticket for you."
+          },
+          {
+            "index": 187,
+            "start": 525.941,
+            "end": 528.274,
+            "text": "Just go a little slower\nnext time, okay?"
+          },
+          {
+            "index": 188,
+            "start": 528.308,
+            "end": 530.308,
+            "text": "Uh‐huh. Yeah.\nOkay."
+          },
+          {
+            "index": 189,
+            "start": 533.708,
+            "end": 535.241,
+            "text": "Thank you."
+          },
+          {
+            "index": 190,
+            "start": 536.374,
+            "end": 538.608,
+            "text": "Yeah!"
+          },
+          {
+            "index": 191,
+            "start": 538.641,
+            "end": 541.741,
+            "text": "Excuse me. I think I left\nsomething in New Jersey."
+          },
+          {
+            "index": 192,
+            "start": 543.374,
+            "end": 546.241,
+            "text": "Hey! How did your lunch go\nwith the rich guy?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 517.8072109375,
+        "topCueIndex": -1,
+        "bottomCueIndex": 182
+      }
     }
   ]
 }
