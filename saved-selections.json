@@ -128175,6 +128175,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 370
       }
+    },
+    {
+      "id": "d583531d-2630-41ca-9c8c-b081626988b7",
+      "createdAt": "2026-09-20T22:21:44.327Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/0b16c23e-9f2d-4edb-8721-3cf22f9934bb",
+      "audioTrackName": "",
+      "selectedText": "sappy,",
+      "selection": {
+        "rawText": "sappy,",
+        "startOffset": 26,
+        "endOffset": 32,
+        "cueIndex": 379,
+        "cueStart": 1076.065,
+        "cueEnd": 1079.099,
+        "cueText": "Yeah, I know\nit's kind of sappy,\nbut, yeah."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 369,
+            "start": 1050.065,
+            "end": 1052.899,
+            "text": "Stella set up a new\ndermatology practice."
+          },
+          {
+            "index": 370,
+            "start": 1052.932,
+            "end": 1056.499,
+            "text": "And against all odds,\nTony found some success\nas a screenwriter."
+          },
+          {
+            "index": 371,
+            "start": 1056.532,
+            "end": 1059.799,
+            "text": "His movie, The Wedding Bride,\nwas a big hit."
+          },
+          {
+            "index": 372,
+            "start": 1059.832,
+            "end": 1061.232,
+            "text": "But we'll get to that later."
+          },
+          {
+            "index": 373,
+            "start": 1061.265,
+            "end": 1064.499,
+            "text": "Okay, but just\ntell me this.\nWhy Tony?"
+          },
+          {
+            "index": 374,
+            "start": 1064.532,
+            "end": 1067.532,
+            "text": "I mean, is it the money,\nthe kung fu pajamas?"
+          },
+          {
+            "index": 375,
+            "start": 1067.565,
+            "end": 1069.132,
+            "text": "Like, what...\nWhat is it?"
+          },
+          {
+            "index": 376,
+            "start": 1069.165,
+            "end": 1070.632,
+            "text": "(LAUGHS)"
+          },
+          {
+            "index": 377,
+            "start": 1070.665,
+            "end": 1072.165,
+            "text": "He's the one."
+          },
+          {
+            "index": 378,
+            "start": 1074.532,
+            "end": 1076.032,
+            "text": "The one."
+          },
+          {
+            "index": 379,
+            "start": 1076.065,
+            "end": 1079.099,
+            "text": "Yeah, I know\nit's kind of sappy,\nbut, yeah."
+          },
+          {
+            "index": 380,
+            "start": 1083.599,
+            "end": 1085.299,
+            "text": "Okay, I'm gonna say\nsomething out loud"
+          },
+          {
+            "index": 381,
+            "start": 1085.332,
+            "end": 1086.699,
+            "text": "that I've been doing\na pretty good job"
+          },
+          {
+            "index": 382,
+            "start": 1086.732,
+            "end": 1088.832,
+            "text": "of not saying\nout loud lately."
+          },
+          {
+            "index": 383,
+            "start": 1090.732,
+            "end": 1093.299,
+            "text": "What you and Tony have,"
+          },
+          {
+            "index": 384,
+            "start": 1093.332,
+            "end": 1096.899,
+            "text": "what I thought for\na second you and I had,"
+          },
+          {
+            "index": 385,
+            "start": 1096.932,
+            "end": 1099.865,
+            "text": "what I know that\nMarshall and Lily have,"
+          },
+          {
+            "index": 386,
+            "start": 1101.865,
+            "end": 1104.832,
+            "text": "I want that. I do."
+          },
+          {
+            "index": 387,
+            "start": 1106.532,
+            "end": 1107.565,
+            "text": "I keep waiting\nfor it to happen"
+          },
+          {
+            "index": 388,
+            "start": 1107.599,
+            "end": 1109.432,
+            "text": "and waiting for it\nto happen, and..."
+          },
+          {
+            "index": 389,
+            "start": 1111.765,
+            "end": 1113.499,
+            "text": "I guess I'm just..."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1078.2748830566406,
+        "topCueIndex": -1,
+        "bottomCueIndex": 379
+      }
     }
   ]
 }
