@@ -128328,6 +128328,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 379
       }
+    },
+    {
+      "id": "d3031fd0-f3eb-45d4-b388-0021a814f009",
+      "createdAt": "2026-09-20T22:22:58.476Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/0b16c23e-9f2d-4edb-8721-3cf22f9934bb",
+      "audioTrackName": "",
+      "selectedText": "on that subject.",
+      "selection": {
+        "rawText": "on that subject.",
+        "startOffset": 33,
+        "endOffset": 49,
+        "cueIndex": 391,
+        "cueStart": 1118.899,
+        "cueEnd": 1122.265,
+        "cueText": "And that is all\nI'm going to say\non that subject."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 381,
+            "start": 1085.332,
+            "end": 1086.699,
+            "text": "that I've been doing\na pretty good job"
+          },
+          {
+            "index": 382,
+            "start": 1086.732,
+            "end": 1088.832,
+            "text": "of not saying\nout loud lately."
+          },
+          {
+            "index": 383,
+            "start": 1090.732,
+            "end": 1093.299,
+            "text": "What you and Tony have,"
+          },
+          {
+            "index": 384,
+            "start": 1093.332,
+            "end": 1096.899,
+            "text": "what I thought for\na second you and I had,"
+          },
+          {
+            "index": 385,
+            "start": 1096.932,
+            "end": 1099.865,
+            "text": "what I know that\nMarshall and Lily have,"
+          },
+          {
+            "index": 386,
+            "start": 1101.865,
+            "end": 1104.832,
+            "text": "I want that. I do."
+          },
+          {
+            "index": 387,
+            "start": 1106.532,
+            "end": 1107.565,
+            "text": "I keep waiting\nfor it to happen"
+          },
+          {
+            "index": 388,
+            "start": 1107.599,
+            "end": 1109.432,
+            "text": "and waiting for it\nto happen, and..."
+          },
+          {
+            "index": 389,
+            "start": 1111.765,
+            "end": 1113.499,
+            "text": "I guess I'm just..."
+          },
+          {
+            "index": 390,
+            "start": 1114.999,
+            "end": 1116.765,
+            "text": "I'm tired of waiting."
+          },
+          {
+            "index": 391,
+            "start": 1118.899,
+            "end": 1122.265,
+            "text": "And that is all\nI'm going to say\non that subject."
+          },
+          {
+            "index": 392,
+            "start": 1128.199,
+            "end": 1130.232,
+            "text": "You know,\nI once talked my way\nout of a speeding ticket."
+          },
+          {
+            "index": 393,
+            "start": 1130.265,
+            "end": 1131.699,
+            "text": "Really?"
+          },
+          {
+            "index": 394,
+            "start": 1131.732,
+            "end": 1133.699,
+            "text": "I was heading upstate\nto my parents' house"
+          },
+          {
+            "index": 395,
+            "start": 1133.732,
+            "end": 1136.365,
+            "text": "doing, like,\n90 on this country road,\nand I got pulled over."
+          },
+          {
+            "index": 396,
+            "start": 1136.399,
+            "end": 1138.665,
+            "text": "So this cop\ngets out of his car."
+          },
+          {
+            "index": 397,
+            "start": 1138.699,
+            "end": 1140.965,
+            "text": "He kind of swaggers\non over and he's, like,"
+          },
+          {
+            "index": 398,
+            "start": 1140.999,
+            "end": 1145.232,
+            "text": "\"Young lady, I have been\nwaiting for you all day.\""
+          },
+          {
+            "index": 399,
+            "start": 1145.265,
+            "end": 1147.899,
+            "text": "So I looked up\nat him and I said,\n\"I'm so sorry, Officer."
+          },
+          {
+            "index": 400,
+            "start": 1147.932,
+            "end": 1149.965,
+            "text": "\"I got here\nas fast as I could.\""
+          },
+          {
+            "index": 401,
+            "start": 1149.999,
+            "end": 1152.065,
+            "text": "(CHUCKLES) For real?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1124.5239650878907,
+        "topCueIndex": -1,
+        "bottomCueIndex": 391
+      }
     }
   ]
 }
