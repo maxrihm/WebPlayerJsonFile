@@ -128022,6 +128022,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 362
       }
+    },
+    {
+      "id": "06467527-144e-4c5b-b7c3-e55d597ba13b",
+      "createdAt": "2026-09-20T22:21:01.524Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/0b16c23e-9f2d-4edb-8721-3cf22f9934bb",
+      "audioTrackName": "",
+      "selectedText": "against all odds,",
+      "selection": {
+        "rawText": "against all odds,",
+        "startOffset": 4,
+        "endOffset": 21,
+        "cueIndex": 370,
+        "cueStart": 1052.932,
+        "cueEnd": 1056.499,
+        "cueText": "And against all odds,\nTony found some success\nas a screenwriter."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 360,
+            "start": 1022.232,
+            "end": 1023.332,
+            "text": "Bye."
+          },
+          {
+            "index": 361,
+            "start": 1026.399,
+            "end": 1030.099,
+            "text": "Ted, I'm so sorry again\nabout everything."
+          },
+          {
+            "index": 362,
+            "start": 1031.532,
+            "end": 1034.199,
+            "text": "For what it's worth...\nI'll talk to Tony."
+          },
+          {
+            "index": 363,
+            "start": 1034.232,
+            "end": 1036.032,
+            "text": "Really?"
+          },
+          {
+            "index": 364,
+            "start": 1036.065,
+            "end": 1039.432,
+            "text": "I want you to\nbe happy, Stella.\nI'll talk to him."
+          },
+          {
+            "index": 365,
+            "start": 1040.199,
+            "end": 1041.632,
+            "text": "OLDER TED: And I did."
+          },
+          {
+            "index": 366,
+            "start": 1041.665,
+            "end": 1043.299,
+            "text": "I don't remember\nwhat I said to him,"
+          },
+          {
+            "index": 367,
+            "start": 1043.332,
+            "end": 1044.732,
+            "text": "but I guess\nI changed his mind,"
+          },
+          {
+            "index": 368,
+            "start": 1044.765,
+            "end": 1050.032,
+            "text": "because the next day,\nthey flew to California."
+          },
+          {
+            "index": 369,
+            "start": 1050.065,
+            "end": 1052.899,
+            "text": "Stella set up a new\ndermatology practice."
+          },
+          {
+            "index": 370,
+            "start": 1052.932,
+            "end": 1056.499,
+            "text": "And against all odds,\nTony found some success\nas a screenwriter."
+          },
+          {
+            "index": 371,
+            "start": 1056.532,
+            "end": 1059.799,
+            "text": "His movie, The Wedding Bride,\nwas a big hit."
+          },
+          {
+            "index": 372,
+            "start": 1059.832,
+            "end": 1061.232,
+            "text": "But we'll get to that later."
+          },
+          {
+            "index": 373,
+            "start": 1061.265,
+            "end": 1064.499,
+            "text": "Okay, but just\ntell me this.\nWhy Tony?"
+          },
+          {
+            "index": 374,
+            "start": 1064.532,
+            "end": 1067.532,
+            "text": "I mean, is it the money,\nthe kung fu pajamas?"
+          },
+          {
+            "index": 375,
+            "start": 1067.565,
+            "end": 1069.132,
+            "text": "Like, what...\nWhat is it?"
+          },
+          {
+            "index": 376,
+            "start": 1069.165,
+            "end": 1070.632,
+            "text": "(LAUGHS)"
+          },
+          {
+            "index": 377,
+            "start": 1070.665,
+            "end": 1072.165,
+            "text": "He's the one."
+          },
+          {
+            "index": 378,
+            "start": 1074.532,
+            "end": 1076.032,
+            "text": "The one."
+          },
+          {
+            "index": 379,
+            "start": 1076.065,
+            "end": 1079.099,
+            "text": "Yeah, I know\nit's kind of sappy,\nbut, yeah."
+          },
+          {
+            "index": 380,
+            "start": 1083.599,
+            "end": 1085.299,
+            "text": "Okay, I'm gonna say\nsomething out loud"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1055.0213820800782,
+        "topCueIndex": -1,
+        "bottomCueIndex": 370
+      }
     }
   ]
 }
