@@ -120414,6 +120414,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 162
       }
+    },
+    {
+      "id": "3bfc0ed0-18fa-4604-8ecf-aca0293e082f",
+      "createdAt": "2026-09-20T21:07:44.449Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/cc85407f-8c6c-40a6-8874-5c95420215dd",
+      "audioTrackName": "",
+      "selectedText": "Let's not",
+      "selection": {
+        "rawText": "Let's not",
+        "startOffset": 34,
+        "endOffset": 43,
+        "cueIndex": 166,
+        "cueStart": 439.606,
+        "cueEnd": 443.81,
+        "cueText": "\"Hey, Babe Ruth,\neasy, big fella. Let's not\nhit too many homers.\""
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 156,
+            "start": 409.743,
+            "end": 411.377,
+            "text": "(LAUGHING MOCKINGLY)"
+          },
+          {
+            "index": 157,
+            "start": 411.411,
+            "end": 415.916,
+            "text": "No. I have something much,\nmuch more special in mind."
+          },
+          {
+            "index": 158,
+            "start": 415.949,
+            "end": 418.118,
+            "text": "Petra here,\nif all goes well,"
+          },
+          {
+            "index": 159,
+            "start": 418.151,
+            "end": 420.486,
+            "text": "will be my...\nWait for it. ...200th."
+          },
+          {
+            "index": 160,
+            "start": 420.521,
+            "end": 422.656,
+            "text": "Sorry, I couldn't wait.\nIt's all too exciting."
+          },
+          {
+            "index": 161,
+            "start": 422.689,
+            "end": 425.559,
+            "text": "Your 200th,\nas in \"sex with\"?"
+          },
+          {
+            "index": 162,
+            "start": 425.592,
+            "end": 430.564,
+            "text": "As in \"sex with.\"\nI request\nthe highest of fives."
+          },
+          {
+            "index": 163,
+            "start": 430.597,
+            "end": 432.833,
+            "text": "Not if I was wearing\na HazMat suit."
+          },
+          {
+            "index": 164,
+            "start": 433.834,
+            "end": 435.936,
+            "text": "Two hundred is too many."
+          },
+          {
+            "index": 165,
+            "start": 435.969,
+            "end": 439.573,
+            "text": "Oh. Right, 'cause\nthere can be too many\nof something wonderful."
+          },
+          {
+            "index": 166,
+            "start": 439.606,
+            "end": 443.81,
+            "text": "\"Hey, Babe Ruth,\neasy, big fella. Let's not\nhit too many homers.\""
+          },
+          {
+            "index": 167,
+            "start": 443.844,
+            "end": 447.48,
+            "text": "\"Hey, Steve Guttenberg,\nmaybe just make\nthree Police Academy movies."
+          },
+          {
+            "index": 168,
+            "start": 447.514,
+            "end": 449.282,
+            "text": "\"America's laughed enough.\""
+          },
+          {
+            "index": 169,
+            "start": 449.315,
+            "end": 451.084,
+            "text": "Who are these girls?"
+          },
+          {
+            "index": 170,
+            "start": 451.117,
+            "end": 453.019,
+            "text": "That was rhetorical.\nDon't show me the list."
+          },
+          {
+            "index": 171,
+            "start": 453.053,
+            "end": 456.523,
+            "text": "A hundred and ninety‐nine\nsatisfied customers."
+          },
+          {
+            "index": 172,
+            "start": 456.557,
+            "end": 459.125,
+            "text": "Anyway, the big night\nis Thursday."
+          },
+          {
+            "index": 173,
+            "start": 459.159,
+            "end": 462.495,
+            "text": "I'm having\na celebratory soiree\nbeforehand at MacLaren's."
+          },
+          {
+            "index": 174,
+            "start": 462.529,
+            "end": 465.999,
+            "text": "Prepare a toast.\nBlack tie optional,\nbut preferred."
+          },
+          {
+            "index": 175,
+            "start": 466.032,
+            "end": 469.002,
+            "text": "Gifts are, look,\nI would say unnecessary,\nbut follow your heart."
+          },
+          {
+            "index": 176,
+            "start": 469.035,
+            "end": 470.871,
+            "text": "Barney, 200's too many."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 444.1760251464844,
+        "topCueIndex": -1,
+        "bottomCueIndex": 166
+      }
     }
   ]
 }
