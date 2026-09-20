@@ -119649,6 +119649,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 89
       }
+    },
+    {
+      "id": "a7bcfcf2-58d5-4ef8-8513-c251b90e1896",
+      "createdAt": "2026-09-20T20:59:51.791Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/cc85407f-8c6c-40a6-8874-5c95420215dd",
+      "audioTrackName": "",
+      "selectedText": "crib",
+      "selection": {
+        "rawText": "crib",
+        "startOffset": 35,
+        "endOffset": 39,
+        "cueIndex": 108,
+        "cueStart": 304.905,
+        "cueEnd": 306.306,
+        "cueText": "That Spanish place\nwith the baby's crib"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 98,
+            "start": 277.511,
+            "end": 278.845,
+            "text": "Yeah. Someone."
+          },
+          {
+            "index": 99,
+            "start": 281.214,
+            "end": 283.65,
+            "text": "So, why you been throwing up?\nYou pregnant?"
+          },
+          {
+            "index": 100,
+            "start": 283.684,
+            "end": 285.819,
+            "text": "Yeah, Barney.\nI'm pregnant."
+          },
+          {
+            "index": 101,
+            "start": 290.456,
+            "end": 292.859,
+            "text": "So, wait, why won't\nyou tell me where\nyou got food poisoning?"
+          },
+          {
+            "index": 102,
+            "start": 292.893,
+            "end": 296.597,
+            "text": "You love this place.\nIf I tell you,\nit'll just ruin it."
+          },
+          {
+            "index": 103,
+            "start": 296.63,
+            "end": 298.131,
+            "text": "Okay. That makes sense."
+          },
+          {
+            "index": 104,
+            "start": 298.164,
+            "end": 299.499,
+            "text": "Yeah."
+          },
+          {
+            "index": 105,
+            "start": 299.533,
+            "end": 301.502,
+            "text": "Don't tell me."
+          },
+          {
+            "index": 106,
+            "start": 301.535,
+            "end": 303.504,
+            "text": "Is it that Indian place\nwhere the cat\njumps on all the tables?"
+          },
+          {
+            "index": 107,
+            "start": 303.537,
+            "end": 304.871,
+            "text": "I'm not saying."
+          },
+          {
+            "index": 108,
+            "start": 304.905,
+            "end": 306.306,
+            "text": "That Spanish place\nwith the baby's crib"
+          },
+          {
+            "index": 109,
+            "start": 306.339,
+            "end": 306.873,
+            "text": "in the middle\nof the restaurant?"
+          },
+          {
+            "index": 110,
+            "start": 306.907,
+            "end": 309.042,
+            "text": "I'm not saying."
+          },
+          {
+            "index": 111,
+            "start": 309.075,
+            "end": 312.478,
+            "text": "God, no. No, no, no."
+          },
+          {
+            "index": 112,
+            "start": 312.513,
+            "end": 314.848,
+            "text": "Is it this place?\nTell me, damn you!"
+          },
+          {
+            "index": 113,
+            "start": 314.881,
+            "end": 315.649,
+            "text": "Fine, you really\nwant to know?"
+          },
+          {
+            "index": 114,
+            "start": 315.682,
+            "end": 317.651,
+            "text": "Yes!"
+          },
+          {
+            "index": 115,
+            "start": 317.684,
+            "end": 318.519,
+            "text": "It's Schlegel's Bagels."
+          },
+          {
+            "index": 116,
+            "start": 318.552,
+            "end": 319.62,
+            "text": "No!"
+          },
+          {
+            "index": 117,
+            "start": 319.653,
+            "end": 322.188,
+            "text": "Why did you tell me that?"
+          },
+          {
+            "index": 118,
+            "start": 322.222,
+            "end": 325.626,
+            "text": "Schlegel's?\nThanks a lot, Robin."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 307.31558203125,
+        "topCueIndex": -1,
+        "bottomCueIndex": 108
+      }
     }
   ]
 }
