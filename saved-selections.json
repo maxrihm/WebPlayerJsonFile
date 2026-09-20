@@ -125880,6 +125880,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 139
       }
+    },
+    {
+      "id": "7df1d585-16b6-4c65-8fc5-39b780241284",
+      "createdAt": "2026-09-20T22:02:31.852Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/0b16c23e-9f2d-4edb-8721-3cf22f9934bb",
+      "audioTrackName": "",
+      "selectedText": "crotch.",
+      "selection": {
+        "rawText": "crotch.",
+        "startOffset": 61,
+        "endOffset": 68,
+        "cueIndex": 174,
+        "cueStart": 495.808,
+        "cueEnd": 498.441,
+        "cueText": "I'm gonna call Emilio\nand tell him to short‐sheet\nhim on the crotch."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 164,
+            "start": 461.374,
+            "end": 464.308,
+            "text": "That is a big, fat check."
+          },
+          {
+            "index": 165,
+            "start": 470.874,
+            "end": 472.241,
+            "text": "(POLICE SIREN BLARING)"
+          },
+          {
+            "index": 166,
+            "start": 472.274,
+            "end": 473.708,
+            "text": "(LAUGHING) Showtime."
+          },
+          {
+            "index": 167,
+            "start": 474.874,
+            "end": 476.208,
+            "text": "License\nand registration."
+          },
+          {
+            "index": 168,
+            "start": 476.241,
+            "end": 478.541,
+            "text": "Oh. Of course, Officer.\nRight away."
+          },
+          {
+            "index": 169,
+            "start": 483.874,
+            "end": 485.341,
+            "text": "Sir, this is\na gift certificate"
+          },
+          {
+            "index": 170,
+            "start": 485.374,
+            "end": 487.841,
+            "text": "for a custom‐tailored\nItalian suit."
+          },
+          {
+            "index": 171,
+            "start": 487.874,
+            "end": 489.841,
+            "text": "So, we done here?"
+          },
+          {
+            "index": 172,
+            "start": 489.874,
+            "end": 493.441,
+            "text": "$375!"
+          },
+          {
+            "index": 173,
+            "start": 493.474,
+            "end": 495.774,
+            "text": "And he kept\nthe gift certificate.\nOh, man."
+          },
+          {
+            "index": 174,
+            "start": 495.808,
+            "end": 498.441,
+            "text": "I'm gonna call Emilio\nand tell him to short‐sheet\nhim on the crotch."
+          },
+          {
+            "index": 175,
+            "start": 498.474,
+            "end": 499.941,
+            "text": "You are bad at this, dude."
+          },
+          {
+            "index": 176,
+            "start": 499.974,
+            "end": 502.441,
+            "text": "Whatever, Robin."
+          },
+          {
+            "index": 177,
+            "start": 502.474,
+            "end": 504.708,
+            "text": "Like you've ever\ntalked your way\nout of a ticket."
+          },
+          {
+            "index": 178,
+            "start": 504.741,
+            "end": 506.874,
+            "text": "Are you kidding me?\nRobin's a pretty girl."
+          },
+          {
+            "index": 179,
+            "start": 506.908,
+            "end": 508.541,
+            "text": "Pretty girls\ndon't get tickets."
+          },
+          {
+            "index": 180,
+            "start": 508.574,
+            "end": 511.208,
+            "text": "I bet Robin's been\npulled over tons of times,\nnever once gotten a ticket."
+          },
+          {
+            "index": 181,
+            "start": 511.241,
+            "end": 513.241,
+            "text": "That is outrageous!"
+          },
+          {
+            "index": 182,
+            "start": 513.808,
+            "end": 514.908,
+            "text": "And factual."
+          },
+          {
+            "index": 183,
+            "start": 516.308,
+            "end": 517.908,
+            "text": "License and..."
+          },
+          {
+            "index": 184,
+            "start": 517.941,
+            "end": 519.408,
+            "text": "(SOBBING)"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 497.24364892578126,
+        "topCueIndex": -1,
+        "bottomCueIndex": 174
+      }
     }
   ]
 }
