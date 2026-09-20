@@ -124044,6 +124044,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 41
       }
+    },
+    {
+      "id": "e9d6b9e5-b003-4391-a628-d5da4290543f",
+      "createdAt": "2026-09-20T21:48:13.125Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/0b16c23e-9f2d-4edb-8721-3cf22f9934bb",
+      "audioTrackName": "",
+      "selectedText": "grappled",
+      "selection": {
+        "rawText": "grappled",
+        "startOffset": 10,
+        "endOffset": 18,
+        "cueIndex": 54,
+        "cueStart": 160.741,
+        "cueEnd": 165.341,
+        "cueText": "I mean, I grappled with it.\nI was up nights.\nAnd not for the good reason."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 44,
+            "start": 116.574,
+            "end": 117.874,
+            "text": "I know."
+          },
+          {
+            "index": 45,
+            "start": 117.908,
+            "end": 119.441,
+            "text": "I'm a better person\nthan you are."
+          },
+          {
+            "index": 46,
+            "start": 119.474,
+            "end": 121.041,
+            "text": "You totally are."
+          },
+          {
+            "index": 47,
+            "start": 121.074,
+            "end": 123.208,
+            "text": "Let's get back together\nand have way more sex\nthan before."
+          },
+          {
+            "index": 48,
+            "start": 123.241,
+            "end": 124.241,
+            "text": "Deal!"
+          },
+          {
+            "index": 49,
+            "start": 126.608,
+            "end": 128.041,
+            "text": "(KNOCKING ON DOOR)"
+          },
+          {
+            "index": 50,
+            "start": 134.374,
+            "end": 135.741,
+            "text": "Hello, Ted."
+          },
+          {
+            "index": 51,
+            "start": 151.074,
+            "end": 153.174,
+            "text": "No, come in.\nIt's not weird at all."
+          },
+          {
+            "index": 52,
+            "start": 153.208,
+            "end": 156.108,
+            "text": "Ted, Teddy,\nTed, Ted, Ted."
+          },
+          {
+            "index": 53,
+            "start": 157.874,
+            "end": 160.708,
+            "text": "I knew it was wrong\nto steal somebody's fiancee."
+          },
+          {
+            "index": 54,
+            "start": 160.741,
+            "end": 165.341,
+            "text": "I mean, I grappled with it.\nI was up nights.\nAnd not for the good reason."
+          },
+          {
+            "index": 55,
+            "start": 165.374,
+            "end": 167.341,
+            "text": "Well, sometimes\nfor the good reason."
+          },
+          {
+            "index": 56,
+            "start": 167.374,
+            "end": 169.441,
+            "text": "I mean, Stella and I\nhadn't seen each other\nin five years,"
+          },
+          {
+            "index": 57,
+            "start": 169.474,
+            "end": 173.541,
+            "text": "so, as you can imagine,\nthe beginning,\nit was just fast and furious."
+          },
+          {
+            "index": 58,
+            "start": 173.574,
+            "end": 175.441,
+            "text": "Lamps breaking,\nfurniture moving."
+          },
+          {
+            "index": 59,
+            "start": 175.474,
+            "end": 176.574,
+            "text": "You see this bald patch?"
+          },
+          {
+            "index": 60,
+            "start": 176.608,
+            "end": 177.608,
+            "text": "Yeah, Tony..."
+          },
+          {
+            "index": 61,
+            "start": 177.641,
+            "end": 179.674,
+            "text": "Anyway, we moved on."
+          },
+          {
+            "index": 62,
+            "start": 179.708,
+            "end": 182.508,
+            "text": "Me, Lucy, Stella,\nwe were gonna move to LA."
+          },
+          {
+            "index": 63,
+            "start": 182.541,
+            "end": 184.741,
+            "text": "I was gonna become\na screenwriter."
+          },
+          {
+            "index": 64,
+            "start": 184.774,
+            "end": 189.141,
+            "text": "Then we bumped into you,\nand you just looked so sad."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 161.934037109375,
+        "topCueIndex": -1,
+        "bottomCueIndex": 54
+      }
     }
   ]
 }
