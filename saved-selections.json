@@ -123891,6 +123891,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 21
       }
+    },
+    {
+      "id": "1fd93c10-2b22-4e69-9437-7872547f270b",
+      "createdAt": "2026-09-20T21:47:11.928Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/0b16c23e-9f2d-4edb-8721-3cf22f9934bb",
+      "audioTrackName": "",
+      "selectedText": "wander.",
+      "selection": {
+        "rawText": "wander.",
+        "startOffset": 40,
+        "endOffset": 47,
+        "cueIndex": 41,
+        "cueStart": 108.241,
+        "cueEnd": 111.708,
+        "cueText": "But still, that night,\nmy mind began to wander."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 31,
+            "start": 77.441,
+            "end": 79.908,
+            "text": "I'd say you nailed it."
+          },
+          {
+            "index": 32,
+            "start": 79.941,
+            "end": 83.574,
+            "text": "I'll do you one better.\nYou, sir,\ngot Stella thinking."
+          },
+          {
+            "index": 33,
+            "start": 83.608,
+            "end": 88.041,
+            "text": "\"Gosh,\nTed seemed so cool today.\nDid I choose the wrong guy?\""
+          },
+          {
+            "index": 34,
+            "start": 88.074,
+            "end": 90.574,
+            "text": "Give it a week,\nyou'll get her back."
+          },
+          {
+            "index": 35,
+            "start": 90.608,
+            "end": 93.341,
+            "text": "And her front."
+          },
+          {
+            "index": 36,
+            "start": 93.374,
+            "end": 96.274,
+            "text": "Did you just feel that?\nI think we just had\na \"what up\" quake."
+          },
+          {
+            "index": 37,
+            "start": 97.874,
+            "end": 101.774,
+            "text": "I don't want her back.\nOr her front.\nI just want to move on."
+          },
+          {
+            "index": 38,
+            "start": 101.808,
+            "end": 103.574,
+            "text": "And this was an important\nstep towards that."
+          },
+          {
+            "index": 39,
+            "start": 103.608,
+            "end": 105.841,
+            "text": "To moving on."
+          },
+          {
+            "index": 40,
+            "start": 105.874,
+            "end": 108.208,
+            "text": "OLDER TED: And, you know,\nI really meant it."
+          },
+          {
+            "index": 41,
+            "start": 108.241,
+            "end": 111.708,
+            "text": "But still, that night,\nmy mind began to wander."
+          },
+          {
+            "index": 42,
+            "start": 111.741,
+            "end": 113.608,
+            "text": "(KNOCKING ON DOOR)"
+          },
+          {
+            "index": 43,
+            "start": 115.474,
+            "end": 116.541,
+            "text": "I made a terrible mistake."
+          },
+          {
+            "index": 44,
+            "start": 116.574,
+            "end": 117.874,
+            "text": "I know."
+          },
+          {
+            "index": 45,
+            "start": 117.908,
+            "end": 119.441,
+            "text": "I'm a better person\nthan you are."
+          },
+          {
+            "index": 46,
+            "start": 119.474,
+            "end": 121.041,
+            "text": "You totally are."
+          },
+          {
+            "index": 47,
+            "start": 121.074,
+            "end": 123.208,
+            "text": "Let's get back together\nand have way more sex\nthan before."
+          },
+          {
+            "index": 48,
+            "start": 123.241,
+            "end": 124.241,
+            "text": "Deal!"
+          },
+          {
+            "index": 49,
+            "start": 126.608,
+            "end": 128.041,
+            "text": "(KNOCKING ON DOOR)"
+          },
+          {
+            "index": 50,
+            "start": 134.374,
+            "end": 135.741,
+            "text": "Hello, Ted."
+          },
+          {
+            "index": 51,
+            "start": 151.074,
+            "end": 153.174,
+            "text": "No, come in.\nIt's not weird at all."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 112.98751391601563,
+        "topCueIndex": -1,
+        "bottomCueIndex": 41
+      }
     }
   ]
 }
