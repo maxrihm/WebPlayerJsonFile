@@ -127869,6 +127869,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 350
       }
+    },
+    {
+      "id": "d66a1b74-9b01-4973-8198-19febc8fdb6c",
+      "createdAt": "2026-09-20T22:20:12.715Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/0b16c23e-9f2d-4edb-8721-3cf22f9934bb",
+      "audioTrackName": "",
+      "selectedText": "For what it's worth...",
+      "selection": {
+        "rawText": "For what it's worth...",
+        "startOffset": 0,
+        "endOffset": 22,
+        "cueIndex": 362,
+        "cueStart": 1031.532,
+        "cueEnd": 1034.199,
+        "cueText": "For what it's worth...\nI'll talk to Tony."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 352,
+            "start": 1000.599,
+            "end": 1003.165,
+            "text": "OLDER TED: So Stella and I\ndrove all the way out\nto New Jersey,"
+          },
+          {
+            "index": 353,
+            "start": 1003.199,
+            "end": 1004.832,
+            "text": "bailed your Uncle Barney\nout of jail"
+          },
+          {
+            "index": 354,
+            "start": 1004.865,
+            "end": 1006.699,
+            "text": "and drove all the way home."
+          },
+          {
+            "index": 355,
+            "start": 1006.732,
+            "end": 1008.399,
+            "text": "Oh, by the way, Ted,\nhow's that girl\nyou've been seeing?"
+          },
+          {
+            "index": 356,
+            "start": 1008.432,
+            "end": 1012.065,
+            "text": "That super hot French chick\nwith the big enormous boobs?"
+          },
+          {
+            "index": 357,
+            "start": 1012.099,
+            "end": 1015.365,
+            "text": "Oh, you mean Claudette?\nYeah, she's... She's fine."
+          },
+          {
+            "index": 358,
+            "start": 1015.399,
+            "end": 1019.332,
+            "text": "Man, she's the hottest girl\nyou have ever been with, Ted."
+          },
+          {
+            "index": 359,
+            "start": 1019.365,
+            "end": 1021.265,
+            "text": "Ever! Bye, Stella."
+          },
+          {
+            "index": 360,
+            "start": 1022.232,
+            "end": 1023.332,
+            "text": "Bye."
+          },
+          {
+            "index": 361,
+            "start": 1026.399,
+            "end": 1030.099,
+            "text": "Ted, I'm so sorry again\nabout everything."
+          },
+          {
+            "index": 362,
+            "start": 1031.532,
+            "end": 1034.199,
+            "text": "For what it's worth...\nI'll talk to Tony."
+          },
+          {
+            "index": 363,
+            "start": 1034.232,
+            "end": 1036.032,
+            "text": "Really?"
+          },
+          {
+            "index": 364,
+            "start": 1036.065,
+            "end": 1039.432,
+            "text": "I want you to\nbe happy, Stella.\nI'll talk to him."
+          },
+          {
+            "index": 365,
+            "start": 1040.199,
+            "end": 1041.632,
+            "text": "OLDER TED: And I did."
+          },
+          {
+            "index": 366,
+            "start": 1041.665,
+            "end": 1043.299,
+            "text": "I don't remember\nwhat I said to him,"
+          },
+          {
+            "index": 367,
+            "start": 1043.332,
+            "end": 1044.732,
+            "text": "but I guess\nI changed his mind,"
+          },
+          {
+            "index": 368,
+            "start": 1044.765,
+            "end": 1050.032,
+            "text": "because the next day,\nthey flew to California."
+          },
+          {
+            "index": 369,
+            "start": 1050.065,
+            "end": 1052.899,
+            "text": "Stella set up a new\ndermatology practice."
+          },
+          {
+            "index": 370,
+            "start": 1052.932,
+            "end": 1056.499,
+            "text": "And against all odds,\nTony found some success\nas a screenwriter."
+          },
+          {
+            "index": 371,
+            "start": 1056.532,
+            "end": 1059.799,
+            "text": "His movie, The Wedding Bride,\nwas a big hit."
+          },
+          {
+            "index": 372,
+            "start": 1059.832,
+            "end": 1061.232,
+            "text": "But we'll get to that later."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1033.7851430664064,
+        "topCueIndex": -1,
+        "bottomCueIndex": 362
+      }
     }
   ]
 }
