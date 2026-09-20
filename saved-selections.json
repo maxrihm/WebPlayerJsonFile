@@ -120873,6 +120873,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 173
       }
+    },
+    {
+      "id": "d6c28d86-8b0a-446e-885a-99b27badda80",
+      "createdAt": "2026-09-20T21:10:42.146Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/cc85407f-8c6c-40a6-8874-5c95420215dd",
+      "audioTrackName": "",
+      "selectedText": "genitals,",
+      "selection": {
+        "rawText": "genitals,",
+        "startOffset": 50,
+        "endOffset": 59,
+        "cueIndex": 182,
+        "cueStart": 478.244,
+        "cueEnd": 480.18,
+        "cueText": "and the cops should\nprobably clamp a boot\non your genitals,"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 172,
+            "start": 456.557,
+            "end": 459.125,
+            "text": "Anyway, the big night\nis Thursday."
+          },
+          {
+            "index": 173,
+            "start": 459.159,
+            "end": 462.495,
+            "text": "I'm having\na celebratory soiree\nbeforehand at MacLaren's."
+          },
+          {
+            "index": 174,
+            "start": 462.529,
+            "end": 465.999,
+            "text": "Prepare a toast.\nBlack tie optional,\nbut preferred."
+          },
+          {
+            "index": 175,
+            "start": 466.032,
+            "end": 469.002,
+            "text": "Gifts are, look,\nI would say unnecessary,\nbut follow your heart."
+          },
+          {
+            "index": 176,
+            "start": 469.035,
+            "end": 470.871,
+            "text": "Barney, 200's too many."
+          },
+          {
+            "index": 177,
+            "start": 470.904,
+            "end": 472.706,
+            "text": "It's not too many.\nIt's too many!"
+          },
+          {
+            "index": 178,
+            "start": 472.739,
+            "end": 473.807,
+            "text": "It's not too many."
+          },
+          {
+            "index": 179,
+            "start": 473.84,
+            "end": 474.875,
+            "text": "Thank you."
+          },
+          {
+            "index": 180,
+            "start": 474.908,
+            "end": 476.209,
+            "text": "No, don't\nget me wrong."
+          },
+          {
+            "index": 181,
+            "start": 476.242,
+            "end": 478.211,
+            "text": "You're disgusting,"
+          },
+          {
+            "index": 182,
+            "start": 478.244,
+            "end": 480.18,
+            "text": "and the cops should\nprobably clamp a boot\non your genitals,"
+          },
+          {
+            "index": 183,
+            "start": 480.213,
+            "end": 482.649,
+            "text": "but that number\nshould be higher."
+          },
+          {
+            "index": 184,
+            "start": 482.683,
+            "end": 486.787,
+            "text": "After Barney told me about\nall this, I crunched\nthe numbers and, well,"
+          },
+          {
+            "index": 185,
+            "start": 486.82,
+            "end": 487.921,
+            "text": "I had some\ncharts made up."
+          },
+          {
+            "index": 186,
+            "start": 490.223,
+            "end": 492.626,
+            "text": "Barney here hits on\nroughly 20 girls a week."
+          },
+          {
+            "index": 187,
+            "start": 492.659,
+            "end": 497.731,
+            "text": "Whoa! It's way more than 20.\nAnd B. Smooth\ndon't do nothing roughly."
+          },
+          {
+            "index": 188,
+            "start": 497.764,
+            "end": 502.903,
+            "text": "Let's say 20.\nSo, 20 girls a week\nmeans 1,040 girls a year."
+          },
+          {
+            "index": 189,
+            "start": 502.936,
+            "end": 505.839,
+            "text": "In Barney's 16 years\nof sexual activity,"
+          },
+          {
+            "index": 190,
+            "start": 505.872,
+            "end": 510.31,
+            "text": "that means he's hit on\n16,640 girls."
+          },
+          {
+            "index": 191,
+            "start": 510.343,
+            "end": 512.746,
+            "text": "Now, if he's bedded\n199 of them,"
+          },
+          {
+            "index": 192,
+            "start": 512.779,
+            "end": 516.517,
+            "text": "that's a success rate of"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 481.3175151367187,
+        "topCueIndex": -1,
+        "bottomCueIndex": 182
+      }
     }
   ]
 }
