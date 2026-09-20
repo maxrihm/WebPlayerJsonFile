@@ -121791,6 +121791,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 249
       }
+    },
+    {
+      "id": "77d3af20-4af8-4859-becc-925a31a4bd13",
+      "createdAt": "2026-09-20T21:21:41.790Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/cc85407f-8c6c-40a6-8874-5c95420215dd",
+      "audioTrackName": "",
+      "selectedText": "rip it up",
+      "selection": {
+        "rawText": "rip it up",
+        "startOffset": 14,
+        "endOffset": 23,
+        "cueIndex": 263,
+        "cueStart": 690.557,
+        "cueEnd": 692.726,
+        "cueText": "You are gonna rip it up"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 253,
+            "start": 664.998,
+            "end": 668.168,
+            "text": "Okay. All done."
+          },
+          {
+            "index": 254,
+            "start": 668.201,
+            "end": 670.303,
+            "text": "One hundred\nand ninety‐nine down,\none more to go."
+          },
+          {
+            "index": 255,
+            "start": 670.336,
+            "end": 672.506,
+            "text": "Hey, you done\nwith your drink?"
+          },
+          {
+            "index": 256,
+            "start": 674.44,
+            "end": 675.876,
+            "text": "There's the stuff."
+          },
+          {
+            "index": 257,
+            "start": 677.778,
+            "end": 679.58,
+            "text": "What the hell\nhappened to you?"
+          },
+          {
+            "index": 258,
+            "start": 679.613,
+            "end": 683.016,
+            "text": "So, there's this girl\nat my gym, Pauline."
+          },
+          {
+            "index": 259,
+            "start": 683.049,
+            "end": 684.685,
+            "text": "She's been after me\nfor some time."
+          },
+          {
+            "index": 260,
+            "start": 684.718,
+            "end": 686.086,
+            "text": "Why'd you wait\nuntil now?"
+          },
+          {
+            "index": 261,
+            "start": 686.119,
+            "end": 688.354,
+            "text": "She's not exactly\nmy type."
+          },
+          {
+            "index": 262,
+            "start": 688.388,
+            "end": 690.524,
+            "text": "BARNEY:\nLooking good, Pauline."
+          },
+          {
+            "index": 263,
+            "start": 690.557,
+            "end": 692.726,
+            "text": "You are gonna rip it up"
+          },
+          {
+            "index": 264,
+            "start": 692.759,
+            "end": 695.428,
+            "text": "at the Women's\nPumping Iron Classic\nin Sarasota this fall."
+          },
+          {
+            "index": 265,
+            "start": 695.461,
+            "end": 696.863,
+            "text": "(HOARSE GRUNTING)"
+          },
+          {
+            "index": 266,
+            "start": 699.933,
+            "end": 704.671,
+            "text": "So, I was thinking\nabout you and me,"
+          },
+          {
+            "index": 267,
+            "start": 704.705,
+            "end": 707.874,
+            "text": "and if you're still\ninterested..."
+          },
+          {
+            "index": 268,
+            "start": 707.908,
+            "end": 710.076,
+            "text": "Okay, blondie,\ntime for Mama's cardio."
+          },
+          {
+            "index": 269,
+            "start": 710.11,
+            "end": 712.445,
+            "text": "Sweet Mommy!"
+          },
+          {
+            "index": 270,
+            "start": 712.478,
+            "end": 715.616,
+            "text": "Every inch of her\ntasted like\nroast beef and creatine."
+          },
+          {
+            "index": 271,
+            "start": 717.651,
+            "end": 719.686,
+            "text": "But I did it."
+          },
+          {
+            "index": 272,
+            "start": 719.72,
+            "end": 722.956,
+            "text": "I did it, and I still have\n30 minutes before\nI'm supposed to meet Petra."
+          },
+          {
+            "index": 273,
+            "start": 722.989,
+            "end": 724.424,
+            "text": "Robin, do you have\nany concealer handy?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 697.175447265625,
+        "topCueIndex": -1,
+        "bottomCueIndex": 263
+      }
     }
   ]
 }
