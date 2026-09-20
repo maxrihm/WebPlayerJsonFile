@@ -119802,6 +119802,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 108
       }
+    },
+    {
+      "id": "83467bfb-6f8f-43f9-9f1f-6bb385294b64",
+      "createdAt": "2026-09-20T21:02:55.369Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/cc85407f-8c6c-40a6-8874-5c95420215dd",
+      "audioTrackName": "",
+      "selectedText": "Below",
+      "selection": {
+        "rawText": "Below",
+        "startOffset": 0,
+        "endOffset": 5,
+        "cueIndex": 137,
+        "cueStart": 370.47,
+        "cueEnd": 372.105,
+        "cueText": "Below that."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 127,
+            "start": 344.177,
+            "end": 348.014,
+            "text": "But I turned left instead,\nto go to my\nsecond‐favorite bagel place,"
+          },
+          {
+            "index": 128,
+            "start": 348.048,
+            "end": 350.216,
+            "text": "and the rest is history."
+          },
+          {
+            "index": 129,
+            "start": 350.25,
+            "end": 353.219,
+            "text": "Of course, I stopped\nat that magazine stand\non the way."
+          },
+          {
+            "index": 130,
+            "start": 353.253,
+            "end": 355.589,
+            "text": "Why did I stop there?\nHere's why."
+          },
+          {
+            "index": 131,
+            "start": 356.256,
+            "end": 357.558,
+            "text": "Yes."
+          },
+          {
+            "index": 132,
+            "start": 358.358,
+            "end": 359.86,
+            "text": "Yes!"
+          },
+          {
+            "index": 133,
+            "start": 361.628,
+            "end": 363.93,
+            "text": "Bro's Life magazine."
+          },
+          {
+            "index": 134,
+            "start": 363.964,
+            "end": 366.366,
+            "text": "Page 83. Check it."
+          },
+          {
+            "index": 135,
+            "start": 366.399,
+            "end": 368.201,
+            "text": "(SIGHING)"
+          },
+          {
+            "index": 136,
+            "start": 368.234,
+            "end": 370.436,
+            "text": "\"What your paintball gun\nsays about\nyour personality.\""
+          },
+          {
+            "index": 137,
+            "start": 370.47,
+            "end": 372.105,
+            "text": "Below that."
+          },
+          {
+            "index": 138,
+            "start": 372.138,
+            "end": 374.708,
+            "text": "\"That last five pounds.\nHow to get her to lose them.\""
+          },
+          {
+            "index": 139,
+            "start": 374.741,
+            "end": 376.577,
+            "text": "Above that."
+          },
+          {
+            "index": 140,
+            "start": 376.61,
+            "end": 378.344,
+            "text": "\"Petra Petrova.\""
+          },
+          {
+            "index": 141,
+            "start": 378.378,
+            "end": 380.413,
+            "text": "Petra Petrova."
+          },
+          {
+            "index": 142,
+            "start": 380.446,
+            "end": 384.885,
+            "text": "Bro's Life magazine's\nGirl of the Year for May."
+          },
+          {
+            "index": 143,
+            "start": 384.918,
+            "end": 387.387,
+            "text": "A delicate flower\nin stiletto pumps\nand leopard panties,"
+          },
+          {
+            "index": 144,
+            "start": 387.42,
+            "end": 389.022,
+            "text": "straddling an ATV."
+          },
+          {
+            "index": 145,
+            "start": 389.055,
+            "end": 390.39,
+            "text": "(SNORTING) These magazines\nare so lame."
+          },
+          {
+            "index": 146,
+            "start": 390.423,
+            "end": 392.125,
+            "text": "I mean, she's probably\nairbrushed and enhanced."
+          },
+          {
+            "index": 147,
+            "start": 392.158,
+            "end": 393.459,
+            "text": "I have a date with her."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 373.0475231933594,
+        "topCueIndex": -1,
+        "bottomCueIndex": 137
+      }
     }
   ]
 }
