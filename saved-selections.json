@@ -127410,6 +127410,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 252
       }
+    },
+    {
+      "id": "c37d3831-7ceb-4eb2-8f0f-18caf64508d7",
+      "createdAt": "2026-09-20T22:13:25.068Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/0b16c23e-9f2d-4edb-8721-3cf22f9934bb",
+      "audioTrackName": "",
+      "selectedText": "just shy of",
+      "selection": {
+        "rawText": "just shy of",
+        "startOffset": 42,
+        "endOffset": 53,
+        "cueIndex": 276,
+        "cueStart": 802.699,
+        "cueEnd": 807.765,
+        "cueText": "I loved you so much,\nin fact, that it was\njust shy of enough."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 266,
+            "start": 767.565,
+            "end": 771.865,
+            "text": "Look, Ted, this is\nabout seven months\ntoo late, but here goes."
+          },
+          {
+            "index": 267,
+            "start": 773.599,
+            "end": 776.465,
+            "text": "I've been in love with Tony\nsince high school."
+          },
+          {
+            "index": 268,
+            "start": 776.499,
+            "end": 778.632,
+            "text": "We dated for a long time,"
+          },
+          {
+            "index": 269,
+            "start": 778.665,
+            "end": 781.799,
+            "text": "but then I got pregnant,\nand I guess for\ntwo 19‐year‐olds,"
+          },
+          {
+            "index": 270,
+            "start": 781.832,
+            "end": 784.965,
+            "text": "it was just too\nmuch to handle,\nso we broke up."
+          },
+          {
+            "index": 271,
+            "start": 784.999,
+            "end": 788.399,
+            "text": "And for a long time,\nI just focused\non being a mother."
+          },
+          {
+            "index": 272,
+            "start": 788.432,
+            "end": 791.199,
+            "text": "I forgot about Tony.\nI forgot about"
+          },
+          {
+            "index": 273,
+            "start": 792.265,
+            "end": 794.699,
+            "text": "the very idea\nof being in love."
+          },
+          {
+            "index": 274,
+            "start": 796.432,
+            "end": 798.365,
+            "text": "And then you came along\nand reminded me."
+          },
+          {
+            "index": 275,
+            "start": 798.399,
+            "end": 800.565,
+            "text": "And I loved you for that."
+          },
+          {
+            "index": 276,
+            "start": 802.699,
+            "end": 807.765,
+            "text": "I loved you so much,\nin fact, that it was\njust shy of enough."
+          },
+          {
+            "index": 277,
+            "start": 810.499,
+            "end": 812.865,
+            "text": "But I never stopped\nloving Tony."
+          },
+          {
+            "index": 278,
+            "start": 814.399,
+            "end": 817.199,
+            "text": "Take him back, honey.\nHe's sorry."
+          },
+          {
+            "index": 279,
+            "start": 817.232,
+            "end": 819.899,
+            "text": "No, that's... That's not...\nThat's not what's happening."
+          },
+          {
+            "index": 280,
+            "start": 819.932,
+            "end": 822.332,
+            "text": "Just go back inside,\nMrs. Matsen."
+          },
+          {
+            "index": 281,
+            "start": 824.165,
+            "end": 826.232,
+            "text": "(DOOR CLOSES)"
+          },
+          {
+            "index": 282,
+            "start": 826.265,
+            "end": 828.232,
+            "text": "It was good\nseeing you, Stella."
+          },
+          {
+            "index": 283,
+            "start": 828.265,
+            "end": 830.065,
+            "text": "Can you talk to Tony?"
+          },
+          {
+            "index": 284,
+            "start": 832.332,
+            "end": 834.832,
+            "text": "What?\nHe'd listen to you."
+          },
+          {
+            "index": 285,
+            "start": 834.865,
+            "end": 837.199,
+            "text": "I mean,\nyou changed his mind.\nYou could change it back."
+          },
+          {
+            "index": 286,
+            "start": 837.232,
+            "end": 838.965,
+            "text": "I know it's an awful\nthing to ask..."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 806.9037319335938,
+        "topCueIndex": -1,
+        "bottomCueIndex": 276
+      }
     }
   ]
 }
