@@ -122556,6 +122556,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 366
       }
+    },
+    {
+      "id": "ec3f700f-2f1e-481d-9ecf-50dbac30d391",
+      "createdAt": "2026-09-20T21:38:07.630Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/cc85407f-8c6c-40a6-8874-5c95420215dd",
+      "audioTrackName": "",
+      "selectedText": "confronted",
+      "selection": {
+        "rawText": "confronted",
+        "startOffset": 46,
+        "endOffset": 56,
+        "cueIndex": 422,
+        "cueStart": 1170.07,
+        "cueEnd": 1173.073,
+        "cueText": "OLDER TED: The next day,\nUncle Barney finally\nconfronted Matthew Panning,"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 412,
+            "start": 1106.973,
+            "end": 1108.509,
+            "text": "(GLAD GIRLS PLAYING)"
+          },
+          {
+            "index": 413,
+            "start": 1108.542,
+            "end": 1112.278,
+            "text": "♪ Hey, hey, glad girls\nonly want to get you high"
+          },
+          {
+            "index": 414,
+            "start": 1114.214,
+            "end": 1119.52,
+            "text": "♪ Hey, hey, glad girls\nonly want to get you high"
+          },
+          {
+            "index": 415,
+            "start": 1121.487,
+            "end": 1126.993,
+            "text": "♪ Hey, hey, glad girls\nonly want to get you high"
+          },
+          {
+            "index": 416,
+            "start": 1130.063,
+            "end": 1133.634,
+            "text": "♪ And they're all right\nAnd they're all right"
+          },
+          {
+            "index": 417,
+            "start": 1133.667,
+            "end": 1136.937,
+            "text": "♪ And they're all right\nAnd they're all right"
+          },
+          {
+            "index": 418,
+            "start": 1136.97,
+            "end": 1143.109,
+            "text": "♪ Glad girls\nonly want to\nget you high"
+          },
+          {
+            "index": 419,
+            "start": 1143.143,
+            "end": 1146.68,
+            "text": "♪ And they're all right\nAnd they're all right ♪"
+          },
+          {
+            "index": 420,
+            "start": 1146.713,
+            "end": 1150.551,
+            "text": "OLDER TED: Because, somehow,\nI ended up in the right place\nat the right time."
+          },
+          {
+            "index": 421,
+            "start": 1150.584,
+            "end": 1153.52,
+            "text": "And, as a result,\nmy life would never\nbe the same."
+          },
+          {
+            "index": 422,
+            "start": 1170.07,
+            "end": 1173.073,
+            "text": "OLDER TED: The next day,\nUncle Barney finally\nconfronted Matthew Panning,"
+          },
+          {
+            "index": 423,
+            "start": 1173.106,
+            "end": 1175.241,
+            "text": "the stud of Port Richmond\nMiddle School."
+          },
+          {
+            "index": 424,
+            "start": 1175.275,
+            "end": 1177.878,
+            "text": "So, Barney,\ngreat to hear from you\nafter all this time."
+          },
+          {
+            "index": 425,
+            "start": 1177.911,
+            "end": 1179.045,
+            "text": "What's been going on?"
+          },
+          {
+            "index": 426,
+            "start": 1179.079,
+            "end": 1181.247,
+            "text": "I've had sex\nwith 200 women."
+          },
+          {
+            "index": 427,
+            "start": 1182.916,
+            "end": 1186.219,
+            "text": "Oh God!\nThat's way too many."
+          },
+          {
+            "index": 428,
+            "start": 1186.252,
+            "end": 1188.589,
+            "text": "I mean, that's just gross."
+          },
+          {
+            "index": 429,
+            "start": 1188.622,
+            "end": 1190.356,
+            "text": "Have you sought counseling\nfor sex addiction?"
+          },
+          {
+            "index": 430,
+            "start": 1190.39,
+            "end": 1192.092,
+            "text": "Because you're\na prime candidate."
+          },
+          {
+            "index": 431,
+            "start": 1192.125,
+            "end": 1195.161,
+            "text": "Have you sought counseling\nfor I win‐you lose?"
+          },
+          {
+            "index": 432,
+            "start": 1195.195,
+            "end": 1198.532,
+            "text": "Yeah, suddenly those\n100 girls you nailed\nin the seventh grade"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1174.4910900878906,
+        "topCueIndex": -1,
+        "bottomCueIndex": 422
+      }
     }
   ]
 }
