@@ -119343,6 +119343,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 53
       }
+    },
+    {
+      "id": "620451a4-1f66-4ccd-95b7-363336b6d030",
+      "createdAt": "2026-09-20T20:56:04.912Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/cc85407f-8c6c-40a6-8874-5c95420215dd",
+      "audioTrackName": "",
+      "selectedText": "hand‐embroidered",
+      "selection": {
+        "rawText": "hand‐embroidered",
+        "startOffset": 9,
+        "endOffset": 25,
+        "cueIndex": 69,
+        "cueStart": 208.141,
+        "cueEnd": 210.777,
+        "cueText": "They are hand‐embroidered\nwith the world's finest silk."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 59,
+            "start": 163.697,
+            "end": 166.499,
+            "text": "exactly when you're supposed\nto be there."
+          },
+          {
+            "index": 60,
+            "start": 166.533,
+            "end": 169.235,
+            "text": "The right place\nat the right time."
+          },
+          {
+            "index": 61,
+            "start": 186.587,
+            "end": 189.255,
+            "text": "OLDER TED: Kids,\nit's a miracle that I ended up\non that street corner,"
+          },
+          {
+            "index": 62,
+            "start": 189.289,
+            "end": 192.993,
+            "text": "especially when you consider\nhow easy it would have been\nnot to end up there."
+          },
+          {
+            "index": 63,
+            "start": 193.026,
+            "end": 195.395,
+            "text": "I mean, for instance,\nwhen I first\nstepped out of the apartment,"
+          },
+          {
+            "index": 64,
+            "start": 195.428,
+            "end": 197.33,
+            "text": "I almost went right\ninstead of left."
+          },
+          {
+            "index": 65,
+            "start": 197.363,
+            "end": 199.065,
+            "text": "Why didn't I go right?"
+          },
+          {
+            "index": 66,
+            "start": 199.099,
+            "end": 201.502,
+            "text": "Well, to answer that,\nwe have to go back\na few days."
+          },
+          {
+            "index": 67,
+            "start": 201.535,
+            "end": 204.505,
+            "text": "As you know, back then,\nyour Aunt Robin\nhosted a morning show."
+          },
+          {
+            "index": 68,
+            "start": 204.538,
+            "end": 208.108,
+            "text": "Now Eunice here\nmakes all of these\npurses herself."
+          },
+          {
+            "index": 69,
+            "start": 208.141,
+            "end": 210.777,
+            "text": "They are hand‐embroidered\nwith the world's finest silk."
+          },
+          {
+            "index": 70,
+            "start": 210.811,
+            "end": 213.113,
+            "text": "And each one\ntakes months to make."
+          },
+          {
+            "index": 71,
+            "start": 213.146,
+            "end": 217.017,
+            "text": "I cannot emphasize\nhow much work goes into..."
+          },
+          {
+            "index": 72,
+            "start": 217.05,
+            "end": 218.785,
+            "text": "(ROBIN VOMITING)"
+          },
+          {
+            "index": 73,
+            "start": 220.453,
+            "end": 222.255,
+            "text": "Go to weather,\nyou idiots."
+          },
+          {
+            "index": 74,
+            "start": 223.957,
+            "end": 225.526,
+            "text": "Hey, everybody."
+          },
+          {
+            "index": 75,
+            "start": 225.559,
+            "end": 228.094,
+            "text": "We got a high‐pressure system\ncoming in from the west and..."
+          },
+          {
+            "index": 76,
+            "start": 228.128,
+            "end": 231.064,
+            "text": "(LAUGHING)"
+          },
+          {
+            "index": 77,
+            "start": 231.097,
+            "end": 234.901,
+            "text": "On the plus side,\nI bought\nthe cutest purse today."
+          },
+          {
+            "index": 78,
+            "start": 234.935,
+            "end": 236.803,
+            "text": "So, wait, why did\nyou throw up?"
+          },
+          {
+            "index": 79,
+            "start": 236.837,
+            "end": 238.271,
+            "text": "(SIGHING)\nYou don't want to know."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 210.62855810546876,
+        "topCueIndex": -1,
+        "bottomCueIndex": 69
+      }
     }
   ]
 }
