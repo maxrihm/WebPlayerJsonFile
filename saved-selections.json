@@ -118272,6 +118272,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 2
       }
+    },
+    {
+      "id": "777da9db-c2f4-4c6e-a796-85e8754db423",
+      "createdAt": "2026-09-20T20:48:01.140Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/cc85407f-8c6c-40a6-8874-5c95420215dd",
+      "audioTrackName": "",
+      "selectedText": "says",
+      "selection": {
+        "rawText": "says",
+        "startOffset": 16,
+        "endOffset": 20,
+        "cueIndex": 10,
+        "cueStart": 25.626,
+        "cueEnd": 29.095,
+        "cueText": "I mean, nothing says\ndelicious like the inside\nof a cowboy hat, right?"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 0,
+            "start": 1.502,
+            "end": 3.136,
+            "text": "OLDER TED: In May of 2009,\nI was on the verge of scoring"
+          },
+          {
+            "index": 1,
+            "start": 3.169,
+            "end": 6.707,
+            "text": "my first big client\nas an independent architect."
+          },
+          {
+            "index": 2,
+            "start": 6.74,
+            "end": 9.309,
+            "text": "I was willing to do anything\nto make it happen."
+          },
+          {
+            "index": 3,
+            "start": 9.342,
+            "end": 12.012,
+            "text": "Here's what\nwe want, son.\nIt's real simple."
+          },
+          {
+            "index": 4,
+            "start": 12.045,
+            "end": 14.681000000000001,
+            "text": "We're opening\na restaurant called\nRib Town,"
+          },
+          {
+            "index": 5,
+            "start": 14.715,
+            "end": 16.683,
+            "text": "and we want it\nto be shaped"
+          },
+          {
+            "index": 6,
+            "start": 16.717,
+            "end": 18.384,
+            "text": "like a cowboy hat."
+          },
+          {
+            "index": 7,
+            "start": 19.452,
+            "end": 20.521,
+            "text": "OLDER TED: Anything."
+          },
+          {
+            "index": 8,
+            "start": 20.554,
+            "end": 22.689,
+            "text": "A cowboy hat?"
+          },
+          {
+            "index": 9,
+            "start": 22.723,
+            "end": 25.592,
+            "text": "That's brilliant.\nI love it!"
+          },
+          {
+            "index": 10,
+            "start": 25.626,
+            "end": 29.095,
+            "text": "I mean, nothing says\ndelicious like the inside\nof a cowboy hat, right?"
+          },
+          {
+            "index": 11,
+            "start": 29.129,
+            "end": 32.733,
+            "text": "Look, I'm telling you,\nI'm your guy. I..."
+          },
+          {
+            "index": 12,
+            "start": 32.766,
+            "end": 35.769,
+            "text": "I think I was born\nto design this building.\nI just..."
+          },
+          {
+            "index": 13,
+            "start": 36.369,
+            "end": 38.539,
+            "text": "I see it."
+          },
+          {
+            "index": 14,
+            "start": 38.572,
+            "end": 40.674,
+            "text": "I don't see it.\nI don't see it.\nI don't see it."
+          },
+          {
+            "index": 15,
+            "start": 40.707,
+            "end": 41.775,
+            "text": "Hey."
+          },
+          {
+            "index": 16,
+            "start": 41.808,
+            "end": 43.544,
+            "text": "What's so good about it?"
+          },
+          {
+            "index": 17,
+            "start": 43.577,
+            "end": 45.546,
+            "text": "Uh‐oh. Up all night?"
+          },
+          {
+            "index": 18,
+            "start": 45.579,
+            "end": 47.514,
+            "text": "I told these guys\nI have a vision\nfor this thing."
+          },
+          {
+            "index": 19,
+            "start": 47.548,
+            "end": 49.55,
+            "text": "They want to see\na pitch in a week,\nand I got nothing."
+          },
+          {
+            "index": 20,
+            "start": 49.583,
+            "end": 50.617,
+            "text": "Oh, it's cute."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 28.46751806640625,
+        "topCueIndex": -1,
+        "bottomCueIndex": 10
+      }
     }
   ]
 }
