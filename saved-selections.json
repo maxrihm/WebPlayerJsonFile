@@ -126951,6 +126951,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 221
       }
+    },
+    {
+      "id": "58c26546-061e-45e7-989b-d42f38fdb070",
+      "createdAt": "2026-09-20T22:08:27.684Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/0b16c23e-9f2d-4edb-8721-3cf22f9934bb",
+      "audioTrackName": "",
+      "selectedText": "suction",
+      "selection": {
+        "rawText": "suction",
+        "startOffset": 16,
+        "endOffset": 23,
+        "cueIndex": 239,
+        "cueStart": 684.408,
+        "cueEnd": 686.408,
+        "cueText": "Now, I got some suction\ndown at City Hall."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 229,
+            "start": 650.874,
+            "end": 652.274,
+            "text": "I'm not gonna design\na murder house!"
+          },
+          {
+            "index": 230,
+            "start": 655.541,
+            "end": 657.274,
+            "text": "(SIREN BLARES)"
+          },
+          {
+            "index": 231,
+            "start": 657.308,
+            "end": 659.108,
+            "text": "Bring it."
+          },
+          {
+            "index": 232,
+            "start": 659.141,
+            "end": 662.941,
+            "text": "Officer, please, my wife\nis about to have a baby!\nHer water just broke!"
+          },
+          {
+            "index": 233,
+            "start": 662.974,
+            "end": 665.108,
+            "text": "Where's your wife?"
+          },
+          {
+            "index": 234,
+            "start": 665.141,
+            "end": 669.074,
+            "text": "She took the other car.\nThis is Italian leather, so..."
+          },
+          {
+            "index": 235,
+            "start": 669.108,
+            "end": 671.141,
+            "text": "I... Come..."
+          },
+          {
+            "index": 236,
+            "start": 672.941,
+            "end": 675.041,
+            "text": "I'm sorry about that\nmurder house thing."
+          },
+          {
+            "index": 237,
+            "start": 675.074,
+            "end": 678.841,
+            "text": "That was my bad.\nThat's on me.\nSo, new plan."
+          },
+          {
+            "index": 238,
+            "start": 678.874,
+            "end": 684.374,
+            "text": "You, my friend,\nare gonna build the Statue\nof Liberty a husband."
+          },
+          {
+            "index": 239,
+            "start": 684.408,
+            "end": 686.408,
+            "text": "Now, I got some suction\ndown at City Hall."
+          },
+          {
+            "index": 240,
+            "start": 686.441,
+            "end": 687.774,
+            "text": "Tony, stop it!"
+          },
+          {
+            "index": 241,
+            "start": 687.808,
+            "end": 690.408,
+            "text": "I don't want your help, okay?\nYou don't have to do this."
+          },
+          {
+            "index": 242,
+            "start": 690.441,
+            "end": 691.941,
+            "text": "Yes, I do.\nWhy?"
+          },
+          {
+            "index": 243,
+            "start": 691.974,
+            "end": 693.541,
+            "text": "Because."
+          },
+          {
+            "index": 244,
+            "start": 695.274,
+            "end": 699.041,
+            "text": "When you were with Stella,\nI know how much I missed her."
+          },
+          {
+            "index": 245,
+            "start": 699.074,
+            "end": 700.908,
+            "text": "I can only imagine\nyou feel the same way."
+          },
+          {
+            "index": 246,
+            "start": 700.941,
+            "end": 702.208,
+            "text": "(LAUGHS)"
+          },
+          {
+            "index": 247,
+            "start": 702.241,
+            "end": 706.008,
+            "text": "Okay, well, let me\nput your mind at ease."
+          },
+          {
+            "index": 248,
+            "start": 706.041,
+            "end": 708.174,
+            "text": "I don't want\nStella back, okay?"
+          },
+          {
+            "index": 249,
+            "start": 708.208,
+            "end": 710.574,
+            "text": "She lied to me\nand left me\nat the altar."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 687.2922561035156,
+        "topCueIndex": -1,
+        "bottomCueIndex": 239
+      }
     }
   ]
 }
