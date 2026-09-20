@@ -123168,6 +123168,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 429
       }
+    },
+    {
+      "id": "ad5384a9-913d-4d08-93d3-2bf4024cf4e1",
+      "createdAt": "2026-09-20T21:38:52.331Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/cc85407f-8c6c-40a6-8874-5c95420215dd",
+      "audioTrackName": "",
+      "selectedText": "prime",
+      "selection": {
+        "rawText": "prime",
+        "startOffset": 17,
+        "endOffset": 22,
+        "cueIndex": 430,
+        "cueStart": 1190.39,
+        "cueEnd": 1192.092,
+        "cueText": "Because you're\na prime candidate."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 420,
+            "start": 1146.713,
+            "end": 1150.551,
+            "text": "OLDER TED: Because, somehow,\nI ended up in the right place\nat the right time."
+          },
+          {
+            "index": 421,
+            "start": 1150.584,
+            "end": 1153.52,
+            "text": "And, as a result,\nmy life would never\nbe the same."
+          },
+          {
+            "index": 422,
+            "start": 1170.07,
+            "end": 1173.073,
+            "text": "OLDER TED: The next day,\nUncle Barney finally\nconfronted Matthew Panning,"
+          },
+          {
+            "index": 423,
+            "start": 1173.106,
+            "end": 1175.241,
+            "text": "the stud of Port Richmond\nMiddle School."
+          },
+          {
+            "index": 424,
+            "start": 1175.275,
+            "end": 1177.878,
+            "text": "So, Barney,\ngreat to hear from you\nafter all this time."
+          },
+          {
+            "index": 425,
+            "start": 1177.911,
+            "end": 1179.045,
+            "text": "What's been going on?"
+          },
+          {
+            "index": 426,
+            "start": 1179.079,
+            "end": 1181.247,
+            "text": "I've had sex\nwith 200 women."
+          },
+          {
+            "index": 427,
+            "start": 1182.916,
+            "end": 1186.219,
+            "text": "Oh God!\nThat's way too many."
+          },
+          {
+            "index": 428,
+            "start": 1186.252,
+            "end": 1188.589,
+            "text": "I mean, that's just gross."
+          },
+          {
+            "index": 429,
+            "start": 1188.622,
+            "end": 1190.356,
+            "text": "Have you sought counseling\nfor sex addiction?"
+          },
+          {
+            "index": 430,
+            "start": 1190.39,
+            "end": 1192.092,
+            "text": "Because you're\na prime candidate."
+          },
+          {
+            "index": 431,
+            "start": 1192.125,
+            "end": 1195.161,
+            "text": "Have you sought counseling\nfor I win‐you lose?"
+          },
+          {
+            "index": 432,
+            "start": 1195.195,
+            "end": 1198.532,
+            "text": "Yeah, suddenly those\n100 girls you nailed\nin the seventh grade"
+          },
+          {
+            "index": 433,
+            "start": 1198.565,
+            "end": 1200.2,
+            "text": "aren't so impressive."
+          },
+          {
+            "index": 434,
+            "start": 1200.233,
+            "end": 1202.869,
+            "text": "A hundred girls?\nIs that what this is about?"
+          },
+          {
+            "index": 435,
+            "start": 1202.903,
+            "end": 1204.404,
+            "text": "Barney, I lied."
+          },
+          {
+            "index": 436,
+            "start": 1204.437,
+            "end": 1205.839,
+            "text": "Sure you did."
+          },
+          {
+            "index": 437,
+            "start": 1205.872,
+            "end": 1208.742,
+            "text": "I was 12.\nOf course I was lying."
+          },
+          {
+            "index": 438,
+            "start": 1208.775,
+            "end": 1210.611,
+            "text": "I didn't have\na pet Ewok, either."
+          },
+          {
+            "index": 439,
+            "start": 1210.644,
+            "end": 1212.746,
+            "text": "Sure you didn't."
+          },
+          {
+            "index": 440,
+            "start": 1212.779,
+            "end": 1215.549,
+            "text": "Your whole adult life\nhas been built around"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1190.495093017578,
+        "topCueIndex": -1,
+        "bottomCueIndex": 430
+      }
     }
   ]
 }
