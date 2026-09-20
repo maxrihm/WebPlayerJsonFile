@@ -119496,6 +119496,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 69
       }
+    },
+    {
+      "id": "5975b342-19b7-4ff0-a7bb-1e57dd5b4355",
+      "createdAt": "2026-09-20T20:58:13.136Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/cc85407f-8c6c-40a6-8874-5c95420215dd",
+      "audioTrackName": "",
+      "selectedText": "spewing",
+      "selection": {
+        "rawText": "spewing",
+        "startOffset": 29,
+        "endOffset": 36,
+        "cueIndex": 89,
+        "cueStart": 257.457,
+        "cueEnd": 261.094,
+        "cueText": "and three hours later,\nI was spewing\nlike an open hydrant."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 79,
+            "start": 236.837,
+            "end": 238.271,
+            "text": "(SIGHING)\nYou don't want to know."
+          },
+          {
+            "index": 80,
+            "start": 238.304,
+            "end": 239.372,
+            "text": "Come on. Tell me."
+          },
+          {
+            "index": 81,
+            "start": 239.405,
+            "end": 240.807,
+            "text": "(STUTTERING)"
+          },
+          {
+            "index": 82,
+            "start": 240.841,
+            "end": 242.709,
+            "text": "I'm pregnant."
+          },
+          {
+            "index": 83,
+            "start": 242.743,
+            "end": 245.612,
+            "text": "I will raise this child\nwith you.\nYou are not alone in this."
+          },
+          {
+            "index": 84,
+            "start": 245.646,
+            "end": 248.448,
+            "text": "We can even get married\nif you want, but I'd still\nwant to see other girls,"
+          },
+          {
+            "index": 85,
+            "start": 248.481,
+            "end": 249.415,
+            "text": "so it'd have to be\none of those\nkinds of marriages."
+          },
+          {
+            "index": 86,
+            "start": 249.449,
+            "end": 250.984,
+            "text": "God, stop it."
+          },
+          {
+            "index": 87,
+            "start": 251.017,
+            "end": 254.955,
+            "text": "I'm not pregnant.\nIt's food poisoning. God!"
+          },
+          {
+            "index": 88,
+            "start": 254.988,
+            "end": 257.423,
+            "text": "I ate something\nfrom this place,"
+          },
+          {
+            "index": 89,
+            "start": 257.457,
+            "end": 261.094,
+            "text": "and three hours later,\nI was spewing\nlike an open hydrant."
+          },
+          {
+            "index": 90,
+            "start": 261.127,
+            "end": 262.663,
+            "text": "God. From where?"
+          },
+          {
+            "index": 91,
+            "start": 262.696,
+            "end": 264.598,
+            "text": "Well, that's\na gross question."
+          },
+          {
+            "index": 92,
+            "start": 264.631,
+            "end": 266.299,
+            "text": "No, where was the food from?"
+          },
+          {
+            "index": 93,
+            "start": 266.332,
+            "end": 268.234,
+            "text": "Oh."
+          },
+          {
+            "index": 94,
+            "start": 268.268,
+            "end": 270.236,
+            "text": "I don't want to tell you.\nWhat?"
+          },
+          {
+            "index": 95,
+            "start": 270.27,
+            "end": 272.806,
+            "text": "Ted, Ted! Go to YouTube.\nPut in \"Robin Scherbatsky,\nmorning show, vomit.\""
+          },
+          {
+            "index": 96,
+            "start": 272.839,
+            "end": 275.308,
+            "text": "Oh, hey, Robin.\nHome so soon?"
+          },
+          {
+            "index": 97,
+            "start": 275.341,
+            "end": 277.477,
+            "text": "Someone already\nput it on YouTube?"
+          },
+          {
+            "index": 98,
+            "start": 277.511,
+            "end": 278.845,
+            "text": "Yeah. Someone."
+          },
+          {
+            "index": 99,
+            "start": 281.214,
+            "end": 283.65,
+            "text": "So, why you been throwing up?\nYou pregnant?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 260.9000300292969,
+        "topCueIndex": -1,
+        "bottomCueIndex": 89
+      }
     }
   ]
 }
