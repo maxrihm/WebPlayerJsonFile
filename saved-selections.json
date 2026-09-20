@@ -123585,6 +123585,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 13
       }
+    },
+    {
+      "id": "0fb66f8f-0e98-4b31-bc13-14884438ff82",
+      "createdAt": "2026-09-20T21:44:03.479Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/0b16c23e-9f2d-4edb-8721-3cf22f9934bb",
+      "audioTrackName": "",
+      "selectedText": "let them have it?",
+      "selection": {
+        "rawText": "let them have it?",
+        "startOffset": 19,
+        "endOffset": 36,
+        "cueIndex": 14,
+        "cueStart": 30.541,
+        "cueEnd": 31.941,
+        "cueText": "I mean, you didn't\nlet them have it?"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 4,
+            "start": 10.108,
+            "end": 12.508,
+            "text": "So when I ran into her\nseven months later,"
+          },
+          {
+            "index": 5,
+            "start": 12.541,
+            "end": 15.174,
+            "text": "there was only one way\nto deal with her."
+          },
+          {
+            "index": 6,
+            "start": 15.208,
+            "end": 16.674,
+            "text": "Stella!"
+          },
+          {
+            "index": 7,
+            "start": 16.708,
+            "end": 17.608,
+            "text": "Great to see you!"
+          },
+          {
+            "index": 8,
+            "start": 17.641,
+            "end": 18.941,
+            "text": "You, too."
+          },
+          {
+            "index": 9,
+            "start": 19.541,
+            "end": 20.674,
+            "text": "And Tony!"
+          },
+          {
+            "index": 10,
+            "start": 20.708,
+            "end": 23.708,
+            "text": "Hey.\nHey! What a nice surprise."
+          },
+          {
+            "index": 11,
+            "start": 23.741,
+            "end": 25.508,
+            "text": "\"What a nice surprise\"?"
+          },
+          {
+            "index": 12,
+            "start": 25.541,
+            "end": 28.074,
+            "text": "No, a nice surprise\nwould be if a safe fell"
+          },
+          {
+            "index": 13,
+            "start": 28.108,
+            "end": 30.508,
+            "text": "from 40 stories\nand smushed them both."
+          },
+          {
+            "index": 14,
+            "start": 30.541,
+            "end": 31.941,
+            "text": "I mean, you didn't\nlet them have it?"
+          },
+          {
+            "index": 15,
+            "start": 31.974,
+            "end": 33.674,
+            "text": "No, we had\na nice friendly chat,"
+          },
+          {
+            "index": 16,
+            "start": 33.708,
+            "end": 35.441,
+            "text": "then they went their way\nand I went mine."
+          },
+          {
+            "index": 17,
+            "start": 35.474,
+            "end": 38.108,
+            "text": "Ted, you blew it.\nHe blew it, right?"
+          },
+          {
+            "index": 18,
+            "start": 40.274,
+            "end": 41.941,
+            "text": "Well played, sir.\nBravo."
+          },
+          {
+            "index": 19,
+            "start": 41.974,
+            "end": 44.674,
+            "text": "What?\nYou see, Robin,\nTed played it cool,"
+          },
+          {
+            "index": 20,
+            "start": 44.708,
+            "end": 47.108,
+            "text": "which is exactly what\nhe should have done."
+          },
+          {
+            "index": 21,
+            "start": 47.141,
+            "end": 49.708,
+            "text": "As a matter of fact,\nI'd say on a scale\nranging from..."
+          },
+          {
+            "index": 22,
+            "start": 49.741,
+            "end": 52.574,
+            "text": "And I kept this\nsweater of yours"
+          },
+          {
+            "index": 23,
+            "start": 52.608,
+            "end": 55.108,
+            "text": "and sometimes I just\nsit in the bathtub"
+          },
+          {
+            "index": 24,
+            "start": 55.141,
+            "end": 59.074,
+            "text": "for hours just, you know,\njust sniffing it."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 31.391112060546874,
+        "topCueIndex": -1,
+        "bottomCueIndex": 14
+      }
     }
   ]
 }
