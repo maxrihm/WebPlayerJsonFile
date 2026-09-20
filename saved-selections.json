@@ -120567,6 +120567,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 166
       }
+    },
+    {
+      "id": "fc05b589-be56-49c1-b9bc-47d14d310199",
+      "createdAt": "2026-09-20T21:09:19.862Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/cc85407f-8c6c-40a6-8874-5c95420215dd",
+      "audioTrackName": "",
+      "selectedText": "celebratory",
+      "selection": {
+        "rawText": "celebratory",
+        "startOffset": 13,
+        "endOffset": 24,
+        "cueIndex": 173,
+        "cueStart": 459.159,
+        "cueEnd": 462.495,
+        "cueText": "I'm having\na celebratory soiree\nbeforehand at MacLaren's."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 163,
+            "start": 430.597,
+            "end": 432.833,
+            "text": "Not if I was wearing\na HazMat suit."
+          },
+          {
+            "index": 164,
+            "start": 433.834,
+            "end": 435.936,
+            "text": "Two hundred is too many."
+          },
+          {
+            "index": 165,
+            "start": 435.969,
+            "end": 439.573,
+            "text": "Oh. Right, 'cause\nthere can be too many\nof something wonderful."
+          },
+          {
+            "index": 166,
+            "start": 439.606,
+            "end": 443.81,
+            "text": "\"Hey, Babe Ruth,\neasy, big fella. Let's not\nhit too many homers.\""
+          },
+          {
+            "index": 167,
+            "start": 443.844,
+            "end": 447.48,
+            "text": "\"Hey, Steve Guttenberg,\nmaybe just make\nthree Police Academy movies."
+          },
+          {
+            "index": 168,
+            "start": 447.514,
+            "end": 449.282,
+            "text": "\"America's laughed enough.\""
+          },
+          {
+            "index": 169,
+            "start": 449.315,
+            "end": 451.084,
+            "text": "Who are these girls?"
+          },
+          {
+            "index": 170,
+            "start": 451.117,
+            "end": 453.019,
+            "text": "That was rhetorical.\nDon't show me the list."
+          },
+          {
+            "index": 171,
+            "start": 453.053,
+            "end": 456.523,
+            "text": "A hundred and ninety‐nine\nsatisfied customers."
+          },
+          {
+            "index": 172,
+            "start": 456.557,
+            "end": 459.125,
+            "text": "Anyway, the big night\nis Thursday."
+          },
+          {
+            "index": 173,
+            "start": 459.159,
+            "end": 462.495,
+            "text": "I'm having\na celebratory soiree\nbeforehand at MacLaren's."
+          },
+          {
+            "index": 174,
+            "start": 462.529,
+            "end": 465.999,
+            "text": "Prepare a toast.\nBlack tie optional,\nbut preferred."
+          },
+          {
+            "index": 175,
+            "start": 466.032,
+            "end": 469.002,
+            "text": "Gifts are, look,\nI would say unnecessary,\nbut follow your heart."
+          },
+          {
+            "index": 176,
+            "start": 469.035,
+            "end": 470.871,
+            "text": "Barney, 200's too many."
+          },
+          {
+            "index": 177,
+            "start": 470.904,
+            "end": 472.706,
+            "text": "It's not too many.\nIt's too many!"
+          },
+          {
+            "index": 178,
+            "start": 472.739,
+            "end": 473.807,
+            "text": "It's not too many."
+          },
+          {
+            "index": 179,
+            "start": 473.84,
+            "end": 474.875,
+            "text": "Thank you."
+          },
+          {
+            "index": 180,
+            "start": 474.908,
+            "end": 476.209,
+            "text": "No, don't\nget me wrong."
+          },
+          {
+            "index": 181,
+            "start": 476.242,
+            "end": 478.211,
+            "text": "You're disgusting,"
+          },
+          {
+            "index": 182,
+            "start": 478.244,
+            "end": 480.18,
+            "text": "and the cops should\nprobably clamp a boot\non your genitals,"
+          },
+          {
+            "index": 183,
+            "start": 480.213,
+            "end": 482.649,
+            "text": "but that number\nshould be higher."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 461.4035322265625,
+        "topCueIndex": -1,
+        "bottomCueIndex": 173
+      }
     }
   ]
 }
