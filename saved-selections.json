@@ -121332,6 +121332,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 187
       }
+    },
+    {
+      "id": "6968abf8-ece4-4ed3-88e4-c22319863739",
+      "createdAt": "2026-09-20T21:14:59.040Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/cc85407f-8c6c-40a6-8874-5c95420215dd",
+      "audioTrackName": "",
+      "selectedText": "grand",
+      "selection": {
+        "rawText": "grand",
+        "startOffset": 9,
+        "endOffset": 14,
+        "cueIndex": 203,
+        "cueStart": 543.443,
+        "cueEnd": 545.779,
+        "cueText": "It's the grand total.\nThat's the only number\nthat matters."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 193,
+            "start": 516.55,
+            "end": 520.587,
+            "text": "a little over\none percent."
+          },
+          {
+            "index": 194,
+            "start": 520.621,
+            "end": 522.989,
+            "text": "That's a batting average\nof 12,"
+          },
+          {
+            "index": 195,
+            "start": 523.023,
+            "end": 526.059,
+            "text": "eight times worse than\nthe career batting average"
+          },
+          {
+            "index": 196,
+            "start": 526.092,
+            "end": 531.031,
+            "text": "of one‐handed pitcher,\nthat's right,\npitcher, Jim Abbott."
+          },
+          {
+            "index": 197,
+            "start": 531.064,
+            "end": 532.799,
+            "text": "(TED AND ROBIN LAUGHING)"
+          },
+          {
+            "index": 198,
+            "start": 533.934,
+            "end": 536.202,
+            "text": "Jealous. Jealous."
+          },
+          {
+            "index": 199,
+            "start": 536.236,
+            "end": 538.004,
+            "text": "Hero."
+          },
+          {
+            "index": 200,
+            "start": 538.038,
+            "end": 539.906,
+            "text": "Suspiciously quiet\nduring this conversation"
+          },
+          {
+            "index": 201,
+            "start": 539.94,
+            "end": 541.708,
+            "text": "about number\nof sex partners."
+          },
+          {
+            "index": 202,
+            "start": 541.742,
+            "end": 543.409,
+            "text": "Hero."
+          },
+          {
+            "index": 203,
+            "start": 543.443,
+            "end": 545.779,
+            "text": "It's the grand total.\nThat's the only number\nthat matters."
+          },
+          {
+            "index": 204,
+            "start": 545.812,
+            "end": 546.913,
+            "text": "Says who?"
+          },
+          {
+            "index": 205,
+            "start": 546.947,
+            "end": 548.749,
+            "text": "Matthew Panning,"
+          },
+          {
+            "index": 206,
+            "start": 548.782,
+            "end": 551.618,
+            "text": "the stud of\nPort Richmond\nMiddle School."
+          },
+          {
+            "index": 207,
+            "start": 551.652,
+            "end": 554.22,
+            "text": "Stinson, you're\nsuch a dweeb‐o."
+          },
+          {
+            "index": 208,
+            "start": 554.254,
+            "end": 555.956,
+            "text": "I bet you never even\ndone it with a girl."
+          },
+          {
+            "index": 209,
+            "start": 555.989,
+            "end": 557.624,
+            "text": "Neither have you."
+          },
+          {
+            "index": 210,
+            "start": 557.658,
+            "end": 560.06,
+            "text": "How many times\ndo I have to\nexplain this?"
+          },
+          {
+            "index": 211,
+            "start": 560.093,
+            "end": 561.895,
+            "text": "I've done it\nwith 100 girls."
+          },
+          {
+            "index": 212,
+            "start": 561.928,
+            "end": 564.731,
+            "text": "They're seventh graders\nat my cousin's school\non Long Island."
+          },
+          {
+            "index": 213,
+            "start": 564.765,
+            "end": 567.768,
+            "text": "Well, you know what, Matthew?\nSomeday,\nI'm gonna do it with 200."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 544.7073291015626,
+        "topCueIndex": -1,
+        "bottomCueIndex": 203
+      }
     }
   ]
 }
