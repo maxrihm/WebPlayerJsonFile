@@ -118884,6 +118884,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 27
       }
+    },
+    {
+      "id": "fa4a9829-6601-48b8-865d-aa53e0b12ad5",
+      "createdAt": "2026-09-20T20:51:07.706Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/cc85407f-8c6c-40a6-8874-5c95420215dd",
+      "audioTrackName": "",
+      "selectedText": "cheesy,",
+      "selection": {
+        "rawText": "cheesy,",
+        "startOffset": 16,
+        "endOffset": 23,
+        "cueIndex": 37,
+        "cueStart": 96.83,
+        "cueEnd": 97.631,
+        "cueText": "That's a little cheesy,\ndon't you think?"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 27,
+            "start": 65.666,
+            "end": 70.771,
+            "text": "A two‐story Stetson\nwith outdoor dining\non the brim."
+          },
+          {
+            "index": 28,
+            "start": 70.804,
+            "end": 75.041,
+            "text": "It's a sick cosmic joke.\nThe universe\nis conspiring against me."
+          },
+          {
+            "index": 29,
+            "start": 75.075,
+            "end": 78.545,
+            "text": "Oh, you just need to\nget out of the house.\nTake a walk. Get a bagel."
+          },
+          {
+            "index": 30,
+            "start": 78.579,
+            "end": 81.381,
+            "text": "Yeah. Yeah,\nthat'll solve\neverything."
+          },
+          {
+            "index": 31,
+            "start": 81.414,
+            "end": 84.15,
+            "text": "I haven't slept for 34 hours,\nbut a bagel is the answer."
+          },
+          {
+            "index": 32,
+            "start": 84.184,
+            "end": 88.121,
+            "text": "A cinnamon‐raisin bagel\nwith a little cream cheese."
+          },
+          {
+            "index": 33,
+            "start": 88.154,
+            "end": 90.657,
+            "text": "Actually, that sounds\npretty good.\nI'm going to get a bagel."
+          },
+          {
+            "index": 34,
+            "start": 90.691,
+            "end": 92.893,
+            "text": "Bring an umbrella."
+          },
+          {
+            "index": 35,
+            "start": 92.926,
+            "end": 94.26,
+            "text": "It's supposed to rain,\naccording to Galoshes,\nour weather clown."
+          },
+          {
+            "index": 36,
+            "start": 94.294,
+            "end": 96.797,
+            "text": "Your show has a clown\nwho does the weather?"
+          },
+          {
+            "index": 37,
+            "start": 96.83,
+            "end": 97.631,
+            "text": "That's a little cheesy,\ndon't you think?"
+          },
+          {
+            "index": 38,
+            "start": 97.664,
+            "end": 99.9,
+            "text": "Yeah."
+          },
+          {
+            "index": 39,
+            "start": 99.933,
+            "end": 104.304,
+            "text": "And what's that restaurant\nyou're designing\nshaped like, Hoss?"
+          },
+          {
+            "index": 40,
+            "start": 104.337,
+            "end": 106.472,
+            "text": "Fine. You want me out\nof the house,\nI'll get out of the house."
+          },
+          {
+            "index": 41,
+            "start": 106.507,
+            "end": 108.609,
+            "text": "Uh‐huh."
+          },
+          {
+            "index": 42,
+            "start": 108.642,
+            "end": 111.812,
+            "text": "Can't wait to see\nwhat the universe has\nlined up for me out there."
+          },
+          {
+            "index": 43,
+            "start": 116.482,
+            "end": 119.52,
+            "text": "OLDER TED: Kids, I've been\ntelling you the story\nof how I met your mother."
+          },
+          {
+            "index": 44,
+            "start": 119.553,
+            "end": 121.588,
+            "text": "And while there's many things\nto learn from this story,"
+          },
+          {
+            "index": 45,
+            "start": 121.622,
+            "end": 123.957,
+            "text": "this may be the biggest."
+          },
+          {
+            "index": 46,
+            "start": 123.99,
+            "end": 127.661,
+            "text": "The great moments of your life\nwon't necessarily\nbe the things you do."
+          },
+          {
+            "index": 47,
+            "start": 127.694,
+            "end": 130.33,
+            "text": "They'll also be the things\nthat happen to you."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 98.73128002929687,
+        "topCueIndex": -1,
+        "bottomCueIndex": 37
+      }
     }
   ]
 }
