@@ -129216,6 +129216,105 @@
         "topCueIndex": -1,
         "bottomCueIndex": 428
       }
+    },
+    {
+      "id": "22a98d5c-5957-483c-a14e-5b2116d3e624",
+      "createdAt": "2026-09-20T22:27:56.760Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/0b16c23e-9f2d-4edb-8721-3cf22f9934bb",
+      "audioTrackName": "",
+      "selectedText": "ease back into this.",
+      "selection": {
+        "rawText": "ease back into this.",
+        "startOffset": 49,
+        "endOffset": 69,
+        "cueIndex": 432,
+        "cueStart": 1262.057,
+        "cueEnd": 1265.823,
+        "cueText": "Okay, so that's\ngood enough for tonight.\nI gotta ease back into this."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 422,
+            "start": 1236.39,
+            "end": 1239.357,
+            "text": "But I was\nin the shower this morning\nand it popped into my head"
+          },
+          {
+            "index": 423,
+            "start": 1239.39,
+            "end": 1244.123,
+            "text": "and it actually\nmade me laugh.\nPeanut butter."
+          },
+          {
+            "index": 424,
+            "start": 1244.157,
+            "end": 1247.257,
+            "text": "So I can see now\nhow I may have\noverreacted."
+          },
+          {
+            "index": 425,
+            "start": 1247.29,
+            "end": 1249.323,
+            "text": "Marshall's words,\nnot mine."
+          },
+          {
+            "index": 426,
+            "start": 1249.357,
+            "end": 1251.423,
+            "text": "Well, it's good to\nsee you again, Lily."
+          },
+          {
+            "index": 427,
+            "start": 1251.457,
+            "end": 1252.857,
+            "text": "Thanks."
+          },
+          {
+            "index": 428,
+            "start": 1252.89,
+            "end": 1255.023,
+            "text": "So what have you\nbeen up to?"
+          },
+          {
+            "index": 429,
+            "start": 1255.057,
+            "end": 1257.49,
+            "text": "I'm going to an amnesia ward\nwith a bunch of photos\nof my \"children\""
+          },
+          {
+            "index": 430,
+            "start": 1257.523,
+            "end": 1259.69,
+            "text": "and a wedding ring."
+          },
+          {
+            "index": 431,
+            "start": 1259.723,
+            "end": 1262.023,
+            "text": "I'm gonna find\nthe hottest patient/my wife,\nand we are going..."
+          },
+          {
+            "index": 432,
+            "start": 1262.057,
+            "end": 1265.823,
+            "text": "Okay, so that's\ngood enough for tonight.\nI gotta ease back into this."
+          },
+          {
+            "index": 433,
+            "start": 1265.857,
+            "end": 1267.39,
+            "text": "See you tomorrow!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1267.9410200195312,
+        "topCueIndex": -1,
+        "bottomCueIndex": 432
+      }
     }
   ]
 }
