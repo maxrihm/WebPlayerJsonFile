@@ -121638,6 +121638,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 226
       }
+    },
+    {
+      "id": "83f1637e-ae30-4057-8e83-9285b3d30815",
+      "createdAt": "2026-09-20T21:20:09.766Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/cc85407f-8c6c-40a6-8874-5c95420215dd",
+      "audioTrackName": "",
+      "selectedText": "over an hour.",
+      "selection": {
+        "rawText": "over an hour.",
+        "startOffset": 29,
+        "endOffset": 42,
+        "cueIndex": 249,
+        "cueStart": 654.154,
+        "cueEnd": 656.356,
+        "cueText": "Where'd Barney go?\nIt's been over an hour."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 239,
+            "start": 629.696,
+            "end": 632.098,
+            "text": "Man, aren't you sick\nof all the games?\nI just want to settle down"
+          },
+          {
+            "index": 240,
+            "start": 632.132,
+            "end": 634.2,
+            "text": "and have\na gaggle of rug rats,\nlike, right now."
+          },
+          {
+            "index": 241,
+            "start": 634.234,
+            "end": 636.937,
+            "text": "I have Mace,\nand I enjoy using it."
+          },
+          {
+            "index": 242,
+            "start": 636.97,
+            "end": 638.404,
+            "text": "(EXCLAIMING)"
+          },
+          {
+            "index": 243,
+            "start": 639.506,
+            "end": 641.642,
+            "text": "Marshall."
+          },
+          {
+            "index": 244,
+            "start": 641.675,
+            "end": 644.044,
+            "text": "Knowing how important\nthis is to me, do you think\nLily would even consider..."
+          },
+          {
+            "index": 245,
+            "start": 644.077,
+            "end": 645.278,
+            "text": "And by the way,\nI would do all the work..."
+          },
+          {
+            "index": 246,
+            "start": 645.311,
+            "end": 646.179,
+            "text": "I will end your life."
+          },
+          {
+            "index": 247,
+            "start": 646.212,
+            "end": 647.548,
+            "text": "Right."
+          },
+          {
+            "index": 248,
+            "start": 648.549,
+            "end": 649.716,
+            "text": "(BARNEY GROANING)"
+          },
+          {
+            "index": 249,
+            "start": 654.154,
+            "end": 656.356,
+            "text": "Where'd Barney go?\nIt's been over an hour."
+          },
+          {
+            "index": 250,
+            "start": 656.389,
+            "end": 658.625,
+            "text": "You know,\nlooking over the names\non this list,"
+          },
+          {
+            "index": 251,
+            "start": 658.659,
+            "end": 661.227,
+            "text": "I'm not sensing\na lot of ethnic diversity."
+          },
+          {
+            "index": 252,
+            "start": 661.261,
+            "end": 663.329,
+            "text": "He should really\nlook at that in himself."
+          },
+          {
+            "index": 253,
+            "start": 664.998,
+            "end": 668.168,
+            "text": "Okay. All done."
+          },
+          {
+            "index": 254,
+            "start": 668.201,
+            "end": 670.303,
+            "text": "One hundred\nand ninety‐nine down,\none more to go."
+          },
+          {
+            "index": 255,
+            "start": 670.336,
+            "end": 672.506,
+            "text": "Hey, you done\nwith your drink?"
+          },
+          {
+            "index": 256,
+            "start": 674.44,
+            "end": 675.876,
+            "text": "There's the stuff."
+          },
+          {
+            "index": 257,
+            "start": 677.778,
+            "end": 679.58,
+            "text": "What the hell\nhappened to you?"
+          },
+          {
+            "index": 258,
+            "start": 679.613,
+            "end": 683.016,
+            "text": "So, there's this girl\nat my gym, Pauline."
+          },
+          {
+            "index": 259,
+            "start": 683.049,
+            "end": 684.685,
+            "text": "She's been after me\nfor some time."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 656.1639243164062,
+        "topCueIndex": -1,
+        "bottomCueIndex": 249
+      }
     }
   ]
 }
