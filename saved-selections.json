@@ -126798,6 +126798,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 205
       }
+    },
+    {
+      "id": "a7f835fc-4685-47aa-be37-516307bec4c3",
+      "createdAt": "2026-09-20T22:06:33.094Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/0b16c23e-9f2d-4edb-8721-3cf22f9934bb",
+      "audioTrackName": "",
+      "selectedText": "feel off",
+      "selection": {
+        "rawText": "feel off",
+        "startOffset": 21,
+        "endOffset": 29,
+        "cueIndex": 221,
+        "cueStart": 635.474,
+        "cueEnd": 638.408,
+        "cueText": "Tony, does something\nfeel off about this guy?"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 211,
+            "start": 601.908,
+            "end": 603.508,
+            "text": "You know,\nas a martial artist,"
+          },
+          {
+            "index": 212,
+            "start": 603.541,
+            "end": 605.441,
+            "text": "I'm trained to\ntrust my instincts,"
+          },
+          {
+            "index": 213,
+            "start": 605.474,
+            "end": 609.441,
+            "text": "and my instincts are saying\nthis feels very good."
+          },
+          {
+            "index": 214,
+            "start": 611.108,
+            "end": 612.574,
+            "text": "The steak is so rare."
+          },
+          {
+            "index": 215,
+            "start": 614.974,
+            "end": 617.408,
+            "text": "Right? Right?"
+          },
+          {
+            "index": 216,
+            "start": 617.441,
+            "end": 621.374,
+            "text": "One final concern,\nsoundproofing."
+          },
+          {
+            "index": 217,
+            "start": 621.408,
+            "end": 624.841,
+            "text": "I tend to make\na lot of racket\nwhen I launder."
+          },
+          {
+            "index": 218,
+            "start": 624.874,
+            "end": 626.941,
+            "text": "I'll show you what I mean."
+          },
+          {
+            "index": 219,
+            "start": 626.974,
+            "end": 629.108,
+            "text": "I'm gonna go to\nmy laundry room,"
+          },
+          {
+            "index": 220,
+            "start": 629.141,
+            "end": 631.241,
+            "text": "and you tell me\nif you can hear me."
+          },
+          {
+            "index": 221,
+            "start": 635.474,
+            "end": 638.408,
+            "text": "Tony, does something\nfeel off about this guy?"
+          },
+          {
+            "index": 222,
+            "start": 638.441,
+            "end": 639.541,
+            "text": "Yeah."
+          },
+          {
+            "index": 223,
+            "start": 639.574,
+            "end": 642.474,
+            "text": "Off the hook!\nBro, you are nailing this."
+          },
+          {
+            "index": 224,
+            "start": 643.808,
+            "end": 645.074,
+            "text": "(MACHINE BUZZING)"
+          },
+          {
+            "index": 225,
+            "start": 645.108,
+            "end": 646.241,
+            "text": "(MANIACAL LAUGHTER)"
+          },
+          {
+            "index": 226,
+            "start": 646.274,
+            "end": 647.908,
+            "text": "Ted, you can't design\na murder house!"
+          },
+          {
+            "index": 227,
+            "start": 647.941,
+            "end": 649.041,
+            "text": "I'm not gonna design\na murder house."
+          },
+          {
+            "index": 228,
+            "start": 649.074,
+            "end": 650.841,
+            "text": "Ted, you can't design\na murder house!"
+          },
+          {
+            "index": 229,
+            "start": 650.874,
+            "end": 652.274,
+            "text": "I'm not gonna design\na murder house!"
+          },
+          {
+            "index": 230,
+            "start": 655.541,
+            "end": 657.274,
+            "text": "(SIREN BLARES)"
+          },
+          {
+            "index": 231,
+            "start": 657.308,
+            "end": 659.108,
+            "text": "Bring it."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 638.3423249511719,
+        "topCueIndex": -1,
+        "bottomCueIndex": 221
+      }
     }
   ]
 }
