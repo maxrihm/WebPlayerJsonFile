@@ -126645,6 +126645,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 194
       }
+    },
+    {
+      "id": "98b5642d-ecac-45fd-8192-a65b7237ca38",
+      "createdAt": "2026-09-20T22:05:31.433Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/0b16c23e-9f2d-4edb-8721-3cf22f9934bb",
+      "audioTrackName": "",
+      "selectedText": "dangle",
+      "selection": {
+        "rawText": "dangle",
+        "startOffset": 18,
+        "endOffset": 24,
+        "cueIndex": 205,
+        "cueStart": 581.074,
+        "cueEnd": 585.274,
+        "cueText": "Steel chains\nwill dangle from the ceiling\nat a height of 9 feet."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 195,
+            "start": 553.808,
+            "end": 555.874,
+            "text": "You know,\nwhen Frank Lloyd Wright\ndesigned Fallingwater"
+          },
+          {
+            "index": 196,
+            "start": 555.908,
+            "end": 557.374,
+            "text": "in 1935, there's..."
+          },
+          {
+            "index": 197,
+            "start": 557.408,
+            "end": 560.541,
+            "text": "Yes, yes, that's all fine.\nI'm sure you'll do\na great job."
+          },
+          {
+            "index": 198,
+            "start": 560.574,
+            "end": 562.708,
+            "text": "What I'm really worried\nabout is the basement."
+          },
+          {
+            "index": 199,
+            "start": 562.741,
+            "end": 564.941,
+            "text": "Specifically,\nthe laundry room."
+          },
+          {
+            "index": 200,
+            "start": 564.974,
+            "end": 566.208,
+            "text": "The laundry room?"
+          },
+          {
+            "index": 201,
+            "start": 566.241,
+            "end": 569.774,
+            "text": "I require a laundry room\nof 15 feet by 15 feet,"
+          },
+          {
+            "index": 202,
+            "start": 569.808,
+            "end": 573.508,
+            "text": "stain‐proof ceramic tile\nfrom floor to ceiling."
+          },
+          {
+            "index": 203,
+            "start": 573.541,
+            "end": 578.508,
+            "text": "I'm a man who likes\nto do his own laundry,\nand sometimes, it gets messy."
+          },
+          {
+            "index": 204,
+            "start": 578.541,
+            "end": 581.041,
+            "text": "Messy?\nMessy."
+          },
+          {
+            "index": 205,
+            "start": 581.074,
+            "end": 585.274,
+            "text": "Steel chains\nwill dangle from the ceiling\nat a height of 9 feet."
+          },
+          {
+            "index": 206,
+            "start": 585.308,
+            "end": 588.441,
+            "text": "And that is where\nmy laundry bags will hang"
+          },
+          {
+            "index": 207,
+            "start": 588.474,
+            "end": 590.541,
+            "text": "for three days\nand three nights"
+          },
+          {
+            "index": 208,
+            "start": 590.574,
+            "end": 593.141,
+            "text": "before I clean them."
+          },
+          {
+            "index": 209,
+            "start": 594.941,
+            "end": 598.674,
+            "text": "Ted, it... It kind of sounds\nlike what this guy\nis asking you to design..."
+          },
+          {
+            "index": 210,
+            "start": 598.708,
+            "end": 601.874,
+            "text": "It's a murder house.\nIt is. It's totally\na murder house."
+          },
+          {
+            "index": 211,
+            "start": 601.908,
+            "end": 603.508,
+            "text": "You know,\nas a martial artist,"
+          },
+          {
+            "index": 212,
+            "start": 603.541,
+            "end": 605.441,
+            "text": "I'm trained to\ntrust my instincts,"
+          },
+          {
+            "index": 213,
+            "start": 605.474,
+            "end": 609.441,
+            "text": "and my instincts are saying\nthis feels very good."
+          },
+          {
+            "index": 214,
+            "start": 611.108,
+            "end": 612.574,
+            "text": "The steak is so rare."
+          },
+          {
+            "index": 215,
+            "start": 614.974,
+            "end": 617.408,
+            "text": "Right? Right?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 584.3581389160156,
+        "topCueIndex": -1,
+        "bottomCueIndex": 205
+      }
     }
   ]
 }
