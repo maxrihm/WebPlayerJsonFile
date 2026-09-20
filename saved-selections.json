@@ -121179,6 +121179,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 184
       }
+    },
+    {
+      "id": "d873e5c3-94ff-4ec4-8fd8-c48ed9482529",
+      "createdAt": "2026-09-20T21:12:22.159Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/cc85407f-8c6c-40a6-8874-5c95420215dd",
+      "audioTrackName": "",
+      "selectedText": "roughly.",
+      "selection": {
+        "rawText": "roughly.",
+        "startOffset": 60,
+        "endOffset": 68,
+        "cueIndex": 187,
+        "cueStart": 492.659,
+        "cueEnd": 497.731,
+        "cueText": "Whoa! It's way more than 20.\nAnd B. Smooth\ndon't do nothing roughly."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 177,
+            "start": 470.904,
+            "end": 472.706,
+            "text": "It's not too many.\nIt's too many!"
+          },
+          {
+            "index": 178,
+            "start": 472.739,
+            "end": 473.807,
+            "text": "It's not too many."
+          },
+          {
+            "index": 179,
+            "start": 473.84,
+            "end": 474.875,
+            "text": "Thank you."
+          },
+          {
+            "index": 180,
+            "start": 474.908,
+            "end": 476.209,
+            "text": "No, don't\nget me wrong."
+          },
+          {
+            "index": 181,
+            "start": 476.242,
+            "end": 478.211,
+            "text": "You're disgusting,"
+          },
+          {
+            "index": 182,
+            "start": 478.244,
+            "end": 480.18,
+            "text": "and the cops should\nprobably clamp a boot\non your genitals,"
+          },
+          {
+            "index": 183,
+            "start": 480.213,
+            "end": 482.649,
+            "text": "but that number\nshould be higher."
+          },
+          {
+            "index": 184,
+            "start": 482.683,
+            "end": 486.787,
+            "text": "After Barney told me about\nall this, I crunched\nthe numbers and, well,"
+          },
+          {
+            "index": 185,
+            "start": 486.82,
+            "end": 487.921,
+            "text": "I had some\ncharts made up."
+          },
+          {
+            "index": 186,
+            "start": 490.223,
+            "end": 492.626,
+            "text": "Barney here hits on\nroughly 20 girls a week."
+          },
+          {
+            "index": 187,
+            "start": 492.659,
+            "end": 497.731,
+            "text": "Whoa! It's way more than 20.\nAnd B. Smooth\ndon't do nothing roughly."
+          },
+          {
+            "index": 188,
+            "start": 497.764,
+            "end": 502.903,
+            "text": "Let's say 20.\nSo, 20 girls a week\nmeans 1,040 girls a year."
+          },
+          {
+            "index": 189,
+            "start": 502.936,
+            "end": 505.839,
+            "text": "In Barney's 16 years\nof sexual activity,"
+          },
+          {
+            "index": 190,
+            "start": 505.872,
+            "end": 510.31,
+            "text": "that means he's hit on\n16,640 girls."
+          },
+          {
+            "index": 191,
+            "start": 510.343,
+            "end": 512.746,
+            "text": "Now, if he's bedded\n199 of them,"
+          },
+          {
+            "index": 192,
+            "start": 512.779,
+            "end": 516.517,
+            "text": "that's a success rate of"
+          },
+          {
+            "index": 193,
+            "start": 516.55,
+            "end": 520.587,
+            "text": "a little over\none percent."
+          },
+          {
+            "index": 194,
+            "start": 520.621,
+            "end": 522.989,
+            "text": "That's a batting average\nof 12,"
+          },
+          {
+            "index": 195,
+            "start": 523.023,
+            "end": 526.059,
+            "text": "eight times worse than\nthe career batting average"
+          },
+          {
+            "index": 196,
+            "start": 526.092,
+            "end": 531.031,
+            "text": "of one‐handed pitcher,\nthat's right,\npitcher, Jim Abbott."
+          },
+          {
+            "index": 197,
+            "start": 531.064,
+            "end": 532.799,
+            "text": "(TED AND ROBIN LAUGHING)"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 497.8827412109375,
+        "topCueIndex": -1,
+        "bottomCueIndex": 187
+      }
     }
   ]
 }
