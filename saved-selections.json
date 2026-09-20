@@ -118731,6 +118731,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 26
       }
+    },
+    {
+      "id": "90984ebd-085e-4226-a24e-e89b1a2b29ba",
+      "createdAt": "2026-09-20T20:49:52.596Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/cc85407f-8c6c-40a6-8874-5c95420215dd",
+      "audioTrackName": "",
+      "selectedText": "brim.",
+      "selection": {
+        "rawText": "brim.",
+        "startOffset": 47,
+        "endOffset": 52,
+        "cueIndex": 27,
+        "cueStart": 65.666,
+        "cueEnd": 70.771,
+        "cueText": "A two‐story Stetson\nwith outdoor dining\non the brim."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 17,
+            "start": 43.577,
+            "end": 45.546,
+            "text": "Uh‐oh. Up all night?"
+          },
+          {
+            "index": 18,
+            "start": 45.579,
+            "end": 47.514,
+            "text": "I told these guys\nI have a vision\nfor this thing."
+          },
+          {
+            "index": 19,
+            "start": 47.548,
+            "end": 49.55,
+            "text": "They want to see\na pitch in a week,\nand I got nothing."
+          },
+          {
+            "index": 20,
+            "start": 49.583,
+            "end": 50.617,
+            "text": "Oh, it's cute."
+          },
+          {
+            "index": 21,
+            "start": 50.651,
+            "end": 51.752,
+            "text": "Cute?"
+          },
+          {
+            "index": 22,
+            "start": 51.785,
+            "end": 53.219,
+            "text": "Yeah.\nRobin,"
+          },
+          {
+            "index": 23,
+            "start": 53.253,
+            "end": 56.356,
+            "text": "I could be designing\nconcert halls and bridges."
+          },
+          {
+            "index": 24,
+            "start": 56.389,
+            "end": 59.56,
+            "text": "Bridges so beautiful\nthey could be in museums."
+          },
+          {
+            "index": 25,
+            "start": 59.593,
+            "end": 62.596,
+            "text": "And I could design\nthose museums."
+          },
+          {
+            "index": 26,
+            "start": 62.629,
+            "end": 65.632,
+            "text": "But what am I\ndesigning instead?\nWhat has my career come to?"
+          },
+          {
+            "index": 27,
+            "start": 65.666,
+            "end": 70.771,
+            "text": "A two‐story Stetson\nwith outdoor dining\non the brim."
+          },
+          {
+            "index": 28,
+            "start": 70.804,
+            "end": 75.041,
+            "text": "It's a sick cosmic joke.\nThe universe\nis conspiring against me."
+          },
+          {
+            "index": 29,
+            "start": 75.075,
+            "end": 78.545,
+            "text": "Oh, you just need to\nget out of the house.\nTake a walk. Get a bagel."
+          },
+          {
+            "index": 30,
+            "start": 78.579,
+            "end": 81.381,
+            "text": "Yeah. Yeah,\nthat'll solve\neverything."
+          },
+          {
+            "index": 31,
+            "start": 81.414,
+            "end": 84.15,
+            "text": "I haven't slept for 34 hours,\nbut a bagel is the answer."
+          },
+          {
+            "index": 32,
+            "start": 84.184,
+            "end": 88.121,
+            "text": "A cinnamon‐raisin bagel\nwith a little cream cheese."
+          },
+          {
+            "index": 33,
+            "start": 88.154,
+            "end": 90.657,
+            "text": "Actually, that sounds\npretty good.\nI'm going to get a bagel."
+          },
+          {
+            "index": 34,
+            "start": 90.691,
+            "end": 92.893,
+            "text": "Bring an umbrella."
+          },
+          {
+            "index": 35,
+            "start": 92.926,
+            "end": 94.26,
+            "text": "It's supposed to rain,\naccording to Galoshes,\nour weather clown."
+          },
+          {
+            "index": 36,
+            "start": 94.294,
+            "end": 96.797,
+            "text": "Your show has a clown\nwho does the weather?"
+          },
+          {
+            "index": 37,
+            "start": 96.83,
+            "end": 97.631,
+            "text": "That's a little cheesy,\ndon't you think?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 67.08600610351563,
+        "topCueIndex": -1,
+        "bottomCueIndex": 27
+      }
     }
   ]
 }
