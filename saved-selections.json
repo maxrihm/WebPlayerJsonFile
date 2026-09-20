@@ -120108,6 +120108,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 146
       }
+    },
+    {
+      "id": "868433a3-5b71-41d5-9102-c34acc696d89",
+      "createdAt": "2026-09-20T21:04:59.602Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/cc85407f-8c6c-40a6-8874-5c95420215dd",
+      "audioTrackName": "",
+      "selectedText": "enhanced.",
+      "selection": {
+        "rawText": "enhanced.",
+        "startOffset": 38,
+        "endOffset": 47,
+        "cueIndex": 146,
+        "cueStart": 390.423,
+        "cueEnd": 392.125,
+        "cueText": "I mean, she's probably\nairbrushed and enhanced."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 136,
+            "start": 368.234,
+            "end": 370.436,
+            "text": "\"What your paintball gun\nsays about\nyour personality.\""
+          },
+          {
+            "index": 137,
+            "start": 370.47,
+            "end": 372.105,
+            "text": "Below that."
+          },
+          {
+            "index": 138,
+            "start": 372.138,
+            "end": 374.708,
+            "text": "\"That last five pounds.\nHow to get her to lose them.\""
+          },
+          {
+            "index": 139,
+            "start": 374.741,
+            "end": 376.577,
+            "text": "Above that."
+          },
+          {
+            "index": 140,
+            "start": 376.61,
+            "end": 378.344,
+            "text": "\"Petra Petrova.\""
+          },
+          {
+            "index": 141,
+            "start": 378.378,
+            "end": 380.413,
+            "text": "Petra Petrova."
+          },
+          {
+            "index": 142,
+            "start": 380.446,
+            "end": 384.885,
+            "text": "Bro's Life magazine's\nGirl of the Year for May."
+          },
+          {
+            "index": 143,
+            "start": 384.918,
+            "end": 387.387,
+            "text": "A delicate flower\nin stiletto pumps\nand leopard panties,"
+          },
+          {
+            "index": 144,
+            "start": 387.42,
+            "end": 389.022,
+            "text": "straddling an ATV."
+          },
+          {
+            "index": 145,
+            "start": 389.055,
+            "end": 390.39,
+            "text": "(SNORTING) These magazines\nare so lame."
+          },
+          {
+            "index": 146,
+            "start": 390.423,
+            "end": 392.125,
+            "text": "I mean, she's probably\nairbrushed and enhanced."
+          },
+          {
+            "index": 147,
+            "start": 392.158,
+            "end": 393.459,
+            "text": "I have a date with her."
+          },
+          {
+            "index": 148,
+            "start": 393.493,
+            "end": 395.428,
+            "text": "You are my hero!\nAre you serious?"
+          },
+          {
+            "index": 149,
+            "start": 395.461,
+            "end": 396.429,
+            "text": "How do you have\na date with her?"
+          },
+          {
+            "index": 150,
+            "start": 396.462,
+            "end": 398.398,
+            "text": "Not part of the story."
+          },
+          {
+            "index": 151,
+            "start": 398.431,
+            "end": 401.868,
+            "text": "Ted, I have been waiting\na long time to say this."
+          },
+          {
+            "index": 152,
+            "start": 401.902,
+            "end": 404.104,
+            "text": "This girl is the one."
+          },
+          {
+            "index": 153,
+            "start": 404.137,
+            "end": 406.306,
+            "text": "Of course, she's the one.\nYou have to marry those."
+          },
+          {
+            "index": 154,
+            "start": 406.339,
+            "end": 407.508,
+            "text": "Her."
+          },
+          {
+            "index": 155,
+            "start": 408.575,
+            "end": 409.71,
+            "text": "Marry?"
+          },
+          {
+            "index": 156,
+            "start": 409.743,
+            "end": 411.377,
+            "text": "(LAUGHING MOCKINGLY)"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 392.7839250488281,
+        "topCueIndex": -1,
+        "bottomCueIndex": 146
+      }
     }
   ]
 }
