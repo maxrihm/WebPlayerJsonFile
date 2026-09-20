@@ -124656,6 +124656,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 69
       }
+    },
+    {
+      "id": "7e7d5c7f-13f4-40af-b182-5cae73a5a64e",
+      "createdAt": "2026-09-20T21:50:58.312Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/0b16c23e-9f2d-4edb-8721-3cf22f9934bb",
+      "audioTrackName": "",
+      "selectedText": "come across",
+      "selection": {
+        "rawText": "come\nacross",
+        "startOffset": 24,
+        "endOffset": 35,
+        "cueIndex": 72,
+        "cueStart": 203.108,
+        "cueEnd": 207.108,
+        "cueText": "Look, Ted,\nI know I can come\nacross pretty tough,"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 62,
+            "start": 179.708,
+            "end": 182.508,
+            "text": "Me, Lucy, Stella,\nwe were gonna move to LA."
+          },
+          {
+            "index": 63,
+            "start": 182.541,
+            "end": 184.741,
+            "text": "I was gonna become\na screenwriter."
+          },
+          {
+            "index": 64,
+            "start": 184.774,
+            "end": 189.141,
+            "text": "Then we bumped into you,\nand you just looked so sad."
+          },
+          {
+            "index": 65,
+            "start": 189.908,
+            "end": 191.408,
+            "text": "Sad? No. I..."
+          },
+          {
+            "index": 66,
+            "start": 191.441,
+            "end": 193.341,
+            "text": "I think what\nyou're calling sad"
+          },
+          {
+            "index": 67,
+            "start": 193.374,
+            "end": 195.508,
+            "text": "was actually\na jovial nonchalance."
+          },
+          {
+            "index": 68,
+            "start": 195.541,
+            "end": 197.108,
+            "text": "Ted, you looked awful, okay?"
+          },
+          {
+            "index": 69,
+            "start": 197.141,
+            "end": 199.608,
+            "text": "Like a little dachshund puppy\nwith a bad back"
+          },
+          {
+            "index": 70,
+            "start": 199.641,
+            "end": 201.608,
+            "text": "that's got to pull itself\naround on a cart."
+          },
+          {
+            "index": 71,
+            "start": 201.641,
+            "end": 203.074,
+            "text": "Why are you here?"
+          },
+          {
+            "index": 72,
+            "start": 203.108,
+            "end": 207.108,
+            "text": "Look, Ted,\nI know I can come\nacross pretty tough,"
+          },
+          {
+            "index": 73,
+            "start": 207.141,
+            "end": 210.041,
+            "text": "but I can't bear\nto have hurt someone\nthe way I hurt you."
+          },
+          {
+            "index": 74,
+            "start": 210.074,
+            "end": 213.241,
+            "text": "I think fate\nput me on that corner\nto make this right."
+          },
+          {
+            "index": 75,
+            "start": 213.274,
+            "end": 215.874,
+            "text": "Obviously, I can't fill\nthat giant crater"
+          },
+          {
+            "index": 76,
+            "start": 215.908,
+            "end": 217.408,
+            "text": "that Stella left\nin your heart."
+          },
+          {
+            "index": 77,
+            "start": 217.441,
+            "end": 219.241,
+            "text": "I've been dating.\nLike, a lot."
+          },
+          {
+            "index": 78,
+            "start": 219.274,
+            "end": 220.608,
+            "text": "And then I heard\nyou got fired."
+          },
+          {
+            "index": 79,
+            "start": 220.641,
+            "end": 223.508,
+            "text": "I transitioned into\nsmall business ownership."
+          },
+          {
+            "index": 80,
+            "start": 223.541,
+            "end": 225.341,
+            "text": "It's the backbone\nof the economy."
+          },
+          {
+            "index": 81,
+            "start": 225.374,
+            "end": 226.708,
+            "text": "No, it's not."
+          },
+          {
+            "index": 82,
+            "start": 226.741,
+            "end": 229.108,
+            "text": "Ted, my family's\ngot a lot of money."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 208.9432890625,
+        "topCueIndex": -1,
+        "bottomCueIndex": 72
+      }
     }
   ]
 }
