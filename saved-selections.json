@@ -125115,6 +125115,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 93
       }
+    },
+    {
+      "id": "b2867ef3-f563-4988-924c-bd6006ec69d7",
+      "createdAt": "2026-09-20T21:53:00.070Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/0b16c23e-9f2d-4edb-8721-3cf22f9934bb",
+      "audioTrackName": "",
+      "selectedText": "pull.",
+      "selection": {
+        "rawText": "pull.",
+        "startOffset": 14,
+        "endOffset": 19,
+        "cueIndex": 99,
+        "cueStart": 272.574,
+        "cueEnd": 274.341,
+        "cueText": "so I got some pull."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 89,
+            "start": 248.941,
+            "end": 251.374,
+            "text": "A check so big,\nif you had sex with it,"
+          },
+          {
+            "index": 90,
+            "start": 251.408,
+            "end": 252.708,
+            "text": "you wouldn't\ntell your buddies."
+          },
+          {
+            "index": 91,
+            "start": 252.741,
+            "end": 254.541,
+            "text": "That is a big, fat check."
+          },
+          {
+            "index": 92,
+            "start": 254.574,
+            "end": 256.274,
+            "text": "A check so big"
+          },
+          {
+            "index": 93,
+            "start": 256.308,
+            "end": 259.574,
+            "text": "that when you sit\nnext to it on an airplane,\nyou find yourself wondering"
+          },
+          {
+            "index": 94,
+            "start": 259.608,
+            "end": 261.374,
+            "text": "whether the check\nshould have bought\ntwo seats."
+          },
+          {
+            "index": 95,
+            "start": 261.408,
+            "end": 264.541,
+            "text": "That...\nIs a big, fat check!"
+          },
+          {
+            "index": 96,
+            "start": 264.574,
+            "end": 267.374,
+            "text": "Yeah! He didn't\nwrite me a check."
+          },
+          {
+            "index": 97,
+            "start": 267.408,
+            "end": 269.741,
+            "text": "Ted, I want to\noffer you a job.\nA job?"
+          },
+          {
+            "index": 98,
+            "start": 269.774,
+            "end": 272.541,
+            "text": "Every year, my family\ngives a lot of money\nto Columbia University,"
+          },
+          {
+            "index": 99,
+            "start": 272.574,
+            "end": 274.341,
+            "text": "so I got some pull."
+          },
+          {
+            "index": 100,
+            "start": 274.374,
+            "end": 276.708,
+            "text": "How would you\nlike to design..."
+          },
+          {
+            "index": 101,
+            "start": 276.741,
+            "end": 278.108,
+            "text": "OLDER TED: My heart\nleapt into my throat."
+          },
+          {
+            "index": 102,
+            "start": 278.141,
+            "end": 280.874,
+            "text": "A new library?\nA new student center?"
+          },
+          {
+            "index": 103,
+            "start": 280.908,
+            "end": 284.708,
+            "text": "...your very own curriculum as\na professor of architecture."
+          },
+          {
+            "index": 104,
+            "start": 286.541,
+            "end": 287.874,
+            "text": "No, thanks."
+          },
+          {
+            "index": 105,
+            "start": 287.908,
+            "end": 291.408,
+            "text": "What do you mean,\n\"No, thanks\"?"
+          },
+          {
+            "index": 106,
+            "start": 291.441,
+            "end": 295.341,
+            "text": "Ted, you would be\na great professor, okay?"
+          },
+          {
+            "index": 107,
+            "start": 295.374,
+            "end": 298.841,
+            "text": "You are knowledgeable,\nyou're a good talker,"
+          },
+          {
+            "index": 108,
+            "start": 298.874,
+            "end": 301.208,
+            "text": "and when you need to,"
+          },
+          {
+            "index": 109,
+            "start": 301.241,
+            "end": 304.408,
+            "text": "you can grow a very\nhandsome neck beard."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 274.32483203125,
+        "topCueIndex": -1,
+        "bottomCueIndex": 99
+      }
     }
   ]
 }
