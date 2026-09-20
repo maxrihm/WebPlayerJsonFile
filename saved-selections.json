@@ -123321,6 +123321,117 @@
         "topCueIndex": -1,
         "bottomCueIndex": 430
       }
+    },
+    {
+      "id": "320c6376-5be7-4b1f-8755-d75083cd8d90",
+      "createdAt": "2026-09-20T21:42:37.317Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/0b16c23e-9f2d-4edb-8721-3cf22f9934bb",
+      "audioTrackName": "",
+      "selectedText": "smithereens.",
+      "selection": {
+        "rawText": "smithereens.",
+        "startOffset": 21,
+        "endOffset": 33,
+        "cueIndex": 3,
+        "cueStart": 6.874,
+        "cueEnd": 10.074,
+        "cueText": "smashing my heart\nto smithereens."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 0,
+            "start": 1.974,
+            "end": 3.508,
+            "text": "OLDER TED: Kids,\nStella Zinman was the girl"
+          },
+          {
+            "index": 1,
+            "start": 3.541,
+            "end": 5.341,
+            "text": "I thought I'd spend\nthe rest of my life with."
+          },
+          {
+            "index": 2,
+            "start": 5.374,
+            "end": 6.841,
+            "text": "Until she left me\nat the altar,"
+          },
+          {
+            "index": 3,
+            "start": 6.874,
+            "end": 10.074,
+            "text": "smashing my heart\nto smithereens."
+          },
+          {
+            "index": 4,
+            "start": 10.108,
+            "end": 12.508,
+            "text": "So when I ran into her\nseven months later,"
+          },
+          {
+            "index": 5,
+            "start": 12.541,
+            "end": 15.174,
+            "text": "there was only one way\nto deal with her."
+          },
+          {
+            "index": 6,
+            "start": 15.208,
+            "end": 16.674,
+            "text": "Stella!"
+          },
+          {
+            "index": 7,
+            "start": 16.708,
+            "end": 17.608,
+            "text": "Great to see you!"
+          },
+          {
+            "index": 8,
+            "start": 17.641,
+            "end": 18.941,
+            "text": "You, too."
+          },
+          {
+            "index": 9,
+            "start": 19.541,
+            "end": 20.674,
+            "text": "And Tony!"
+          },
+          {
+            "index": 10,
+            "start": 20.708,
+            "end": 23.708,
+            "text": "Hey.\nHey! What a nice surprise."
+          },
+          {
+            "index": 11,
+            "start": 23.741,
+            "end": 25.508,
+            "text": "\"What a nice surprise\"?"
+          },
+          {
+            "index": 12,
+            "start": 25.541,
+            "end": 28.074,
+            "text": "No, a nice surprise\nwould be if a safe fell"
+          },
+          {
+            "index": 13,
+            "start": 28.108,
+            "end": 30.508,
+            "text": "from 40 stories\nand smushed them both."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 9.641243896484376,
+        "topCueIndex": -1,
+        "bottomCueIndex": 3
+      }
     }
   ]
 }
