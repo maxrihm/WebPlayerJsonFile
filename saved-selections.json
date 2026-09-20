@@ -125421,6 +125421,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 107
       }
+    },
+    {
+      "id": "e51e2bd8-2888-40c7-af86-bca8b8827d9b",
+      "createdAt": "2026-09-20T21:54:15.672Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/0b16c23e-9f2d-4edb-8721-3cf22f9934bb",
+      "audioTrackName": "",
+      "selectedText": "bottomed out",
+      "selection": {
+        "rawText": "bottomed out",
+        "startOffset": 29,
+        "endOffset": 41,
+        "cueIndex": 112,
+        "cueStart": 307.608,
+        "cueEnd": 308.674,
+        "cueText": "when your career has\ntotally bottomed out"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 102,
+            "start": 278.141,
+            "end": 280.874,
+            "text": "A new library?\nA new student center?"
+          },
+          {
+            "index": 103,
+            "start": 280.908,
+            "end": 284.708,
+            "text": "...your very own curriculum as\na professor of architecture."
+          },
+          {
+            "index": 104,
+            "start": 286.541,
+            "end": 287.874,
+            "text": "No, thanks."
+          },
+          {
+            "index": 105,
+            "start": 287.908,
+            "end": 291.408,
+            "text": "What do you mean,\n\"No, thanks\"?"
+          },
+          {
+            "index": 106,
+            "start": 291.441,
+            "end": 295.341,
+            "text": "Ted, you would be\na great professor, okay?"
+          },
+          {
+            "index": 107,
+            "start": 295.374,
+            "end": 298.841,
+            "text": "You are knowledgeable,\nyou're a good talker,"
+          },
+          {
+            "index": 108,
+            "start": 298.874,
+            "end": 301.208,
+            "text": "and when you need to,"
+          },
+          {
+            "index": 109,
+            "start": 301.241,
+            "end": 304.408,
+            "text": "you can grow a very\nhandsome neck beard."
+          },
+          {
+            "index": 110,
+            "start": 304.441,
+            "end": 306.174,
+            "text": "I'm not gonna be\na professor."
+          },
+          {
+            "index": 111,
+            "start": 306.208,
+            "end": 307.574,
+            "text": "Teaching architecture\nis what you do"
+          },
+          {
+            "index": 112,
+            "start": 307.608,
+            "end": 308.674,
+            "text": "when your career has\ntotally bottomed out"
+          },
+          {
+            "index": 113,
+            "start": 308.708,
+            "end": 310.208,
+            "text": "and you need to\npay the bills."
+          },
+          {
+            "index": 114,
+            "start": 310.241,
+            "end": 312.208,
+            "text": "(ALL MUTTERING)"
+          },
+          {
+            "index": 115,
+            "start": 312.241,
+            "end": 315.174,
+            "text": "Hey, hey, hey!\nSmall business owner.\nBackbone of the economy."
+          },
+          {
+            "index": 116,
+            "start": 315.208,
+            "end": 319.274,
+            "text": "I'm not gonna take\nthat job, all right?\nI'm gonna be just fine."
+          },
+          {
+            "index": 117,
+            "start": 319.308,
+            "end": 320.574,
+            "text": "New topic.\nOkay, new topic."
+          },
+          {
+            "index": 118,
+            "start": 320.608,
+            "end": 324.574,
+            "text": "I just got a $200\nspeeding ticket today."
+          },
+          {
+            "index": 119,
+            "start": 324.608,
+            "end": 327.174,
+            "text": "That sucks, dude.\nYou couldn't talk\nyour way out of it?"
+          },
+          {
+            "index": 120,
+            "start": 327.208,
+            "end": 328.774,
+            "text": "You can't talk\nyour way out\nof a ticket."
+          },
+          {
+            "index": 121,
+            "start": 328.808,
+            "end": 330.108,
+            "text": "I've done it."
+          },
+          {
+            "index": 122,
+            "start": 330.141,
+            "end": 333.941,
+            "text": "It was...\nWhat was it? It was 1998."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 309.16885302734374,
+        "topCueIndex": -1,
+        "bottomCueIndex": 112
+      }
     }
   ]
 }
