@@ -124197,6 +124197,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 54
       }
+    },
+    {
+      "id": "51dada91-6cf7-44ef-89da-10f4e819cae6",
+      "createdAt": "2026-09-20T21:50:03.407Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/0b16c23e-9f2d-4edb-8721-3cf22f9934bb",
+      "audioTrackName": "",
+      "selectedText": "jovial",
+      "selection": {
+        "rawText": "jovial",
+        "startOffset": 15,
+        "endOffset": 21,
+        "cueIndex": 67,
+        "cueStart": 193.374,
+        "cueEnd": 195.508,
+        "cueText": "was actually\na jovial nonchalance."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 57,
+            "start": 169.474,
+            "end": 173.541,
+            "text": "so, as you can imagine,\nthe beginning,\nit was just fast and furious."
+          },
+          {
+            "index": 58,
+            "start": 173.574,
+            "end": 175.441,
+            "text": "Lamps breaking,\nfurniture moving."
+          },
+          {
+            "index": 59,
+            "start": 175.474,
+            "end": 176.574,
+            "text": "You see this bald patch?"
+          },
+          {
+            "index": 60,
+            "start": 176.608,
+            "end": 177.608,
+            "text": "Yeah, Tony..."
+          },
+          {
+            "index": 61,
+            "start": 177.641,
+            "end": 179.674,
+            "text": "Anyway, we moved on."
+          },
+          {
+            "index": 62,
+            "start": 179.708,
+            "end": 182.508,
+            "text": "Me, Lucy, Stella,\nwe were gonna move to LA."
+          },
+          {
+            "index": 63,
+            "start": 182.541,
+            "end": 184.741,
+            "text": "I was gonna become\na screenwriter."
+          },
+          {
+            "index": 64,
+            "start": 184.774,
+            "end": 189.141,
+            "text": "Then we bumped into you,\nand you just looked so sad."
+          },
+          {
+            "index": 65,
+            "start": 189.908,
+            "end": 191.408,
+            "text": "Sad? No. I..."
+          },
+          {
+            "index": 66,
+            "start": 191.441,
+            "end": 193.341,
+            "text": "I think what\nyou're calling sad"
+          },
+          {
+            "index": 67,
+            "start": 193.374,
+            "end": 195.508,
+            "text": "was actually\na jovial nonchalance."
+          },
+          {
+            "index": 68,
+            "start": 195.541,
+            "end": 197.108,
+            "text": "Ted, you looked awful, okay?"
+          },
+          {
+            "index": 69,
+            "start": 197.141,
+            "end": 199.608,
+            "text": "Like a little dachshund puppy\nwith a bad back"
+          },
+          {
+            "index": 70,
+            "start": 199.641,
+            "end": 201.608,
+            "text": "that's got to pull itself\naround on a cart."
+          },
+          {
+            "index": 71,
+            "start": 201.641,
+            "end": 203.074,
+            "text": "Why are you here?"
+          },
+          {
+            "index": 72,
+            "start": 203.108,
+            "end": 207.108,
+            "text": "Look, Ted,\nI know I can come\nacross pretty tough,"
+          },
+          {
+            "index": 73,
+            "start": 207.141,
+            "end": 210.041,
+            "text": "but I can't bear\nto have hurt someone\nthe way I hurt you."
+          },
+          {
+            "index": 74,
+            "start": 210.074,
+            "end": 213.241,
+            "text": "I think fate\nput me on that corner\nto make this right."
+          },
+          {
+            "index": 75,
+            "start": 213.274,
+            "end": 215.874,
+            "text": "Obviously, I can't fill\nthat giant crater"
+          },
+          {
+            "index": 76,
+            "start": 215.908,
+            "end": 217.408,
+            "text": "that Stella left\nin your heart."
+          },
+          {
+            "index": 77,
+            "start": 217.441,
+            "end": 219.241,
+            "text": "I've been dating.\nLike, a lot."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 195.12038598632813,
+        "topCueIndex": -1,
+        "bottomCueIndex": 67
+      }
     }
   ]
 }
