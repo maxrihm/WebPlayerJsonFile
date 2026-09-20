@@ -128940,6 +128940,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 410
       }
+    },
+    {
+      "id": "0d24de65-b1b4-40b0-aa59-1e2a26636446",
+      "createdAt": "2026-09-20T22:25:44.278Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/0b16c23e-9f2d-4edb-8721-3cf22f9934bb",
+      "audioTrackName": "",
+      "selectedText": "undergarments.",
+      "selection": {
+        "rawText": "undergarments.",
+        "startOffset": 47,
+        "endOffset": 61,
+        "cueIndex": 416,
+        "cueStart": 1220.957,
+        "cueEnd": 1224.723,
+        "cueText": "And that's the last time\nI wrote my name\nin my undergarments."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 406,
+            "start": 1169.699,
+            "end": 1173.032,
+            "text": "And she's getting here\nas fast as she can."
+          },
+          {
+            "index": 407,
+            "start": 1182.665,
+            "end": 1184.199,
+            "text": "Bye, Stella."
+          },
+          {
+            "index": 408,
+            "start": 1184.832,
+            "end": 1186.665,
+            "text": "Goodbye, Ted."
+          },
+          {
+            "index": 409,
+            "start": 1186.699,
+            "end": 1188.399,
+            "text": "(CAREFUL PLAYING)"
+          },
+          {
+            "index": 410,
+            "start": 1188.432,
+            "end": 1194.665,
+            "text": "♪ But somehow you have\nshattered my defense"
+          },
+          {
+            "index": 411,
+            "start": 1194.699,
+            "end": 1197.999,
+            "text": "♪ And this is gonna hurt"
+          },
+          {
+            "index": 412,
+            "start": 1198.032,
+            "end": 1201.499,
+            "text": "♪ If it ever starts"
+          },
+          {
+            "index": 413,
+            "start": 1201.532,
+            "end": 1208.465,
+            "text": "♪ So promise you'll be\ncareful with my heart"
+          },
+          {
+            "index": 414,
+            "start": 1208.499,
+            "end": 1213.232,
+            "text": "♪ Careful with my heart ♪"
+          },
+          {
+            "index": 415,
+            "start": 1217.89,
+            "end": 1220.923,
+            "text": "She tracked me down\ntwo days later\nusing a phone book."
+          },
+          {
+            "index": 416,
+            "start": 1220.957,
+            "end": 1224.723,
+            "text": "And that's the last time\nI wrote my name\nin my undergarments."
+          },
+          {
+            "index": 417,
+            "start": 1225.623,
+            "end": 1226.69,
+            "text": "Hey."
+          },
+          {
+            "index": 418,
+            "start": 1226.723,
+            "end": 1228.623,
+            "text": "Hey, Lily!\nLily!"
+          },
+          {
+            "index": 419,
+            "start": 1228.657,
+            "end": 1230.257,
+            "text": "You're back!"
+          },
+          {
+            "index": 420,
+            "start": 1230.29,
+            "end": 1233.823,
+            "text": "Barney, when you told me that\npeanut butter and jam joke,"
+          },
+          {
+            "index": 421,
+            "start": 1233.857,
+            "end": 1236.357,
+            "text": "I was completely disgusted."
+          },
+          {
+            "index": 422,
+            "start": 1236.39,
+            "end": 1239.357,
+            "text": "But I was\nin the shower this morning\nand it popped into my head"
+          },
+          {
+            "index": 423,
+            "start": 1239.39,
+            "end": 1244.123,
+            "text": "and it actually\nmade me laugh.\nPeanut butter."
+          },
+          {
+            "index": 424,
+            "start": 1244.157,
+            "end": 1247.257,
+            "text": "So I can see now\nhow I may have\noverreacted."
+          },
+          {
+            "index": 425,
+            "start": 1247.29,
+            "end": 1249.323,
+            "text": "Marshall's words,\nnot mine."
+          },
+          {
+            "index": 426,
+            "start": 1249.357,
+            "end": 1251.423,
+            "text": "Well, it's good to\nsee you again, Lily."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1224.4714050292969,
+        "topCueIndex": -1,
+        "bottomCueIndex": 416
+      }
     }
   ]
 }
