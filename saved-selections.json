@@ -119190,6 +119190,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 42
       }
+    },
+    {
+      "id": "5a07444c-0864-4c89-b0a9-33010ac987ee",
+      "createdAt": "2026-09-20T20:54:34.520Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/cc85407f-8c6c-40a6-8874-5c95420215dd",
+      "audioTrackName": "",
+      "selectedText": "flaps",
+      "selection": {
+        "rawText": "flaps",
+        "startOffset": 12,
+        "endOffset": 17,
+        "cueIndex": 53,
+        "cueStart": 149.516,
+        "cueEnd": 151.017,
+        "cueText": "A butterfly\nflaps its wings,"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 43,
+            "start": 116.482,
+            "end": 119.52,
+            "text": "OLDER TED: Kids, I've been\ntelling you the story\nof how I met your mother."
+          },
+          {
+            "index": 44,
+            "start": 119.553,
+            "end": 121.588,
+            "text": "And while there's many things\nto learn from this story,"
+          },
+          {
+            "index": 45,
+            "start": 121.622,
+            "end": 123.957,
+            "text": "this may be the biggest."
+          },
+          {
+            "index": 46,
+            "start": 123.99,
+            "end": 127.661,
+            "text": "The great moments of your life\nwon't necessarily\nbe the things you do."
+          },
+          {
+            "index": 47,
+            "start": 127.694,
+            "end": 130.33,
+            "text": "They'll also be the things\nthat happen to you."
+          },
+          {
+            "index": 48,
+            "start": 130.363,
+            "end": 134,
+            "text": "No, I'm not saying you can't\ntake action to affect\nthe outcome of your life."
+          },
+          {
+            "index": 49,
+            "start": 134.034,
+            "end": 137.37,
+            "text": "You have to take action,\nand you will."
+          },
+          {
+            "index": 50,
+            "start": 137.403,
+            "end": 139.873,
+            "text": "But never forget that,\non any day,"
+          },
+          {
+            "index": 51,
+            "start": 139.906,
+            "end": 144.377,
+            "text": "you could step out\nthe front door and your whole\nlife can change forever."
+          },
+          {
+            "index": 52,
+            "start": 144.41,
+            "end": 149.482,
+            "text": "You see, the universe has\na plan, kids, and that plan\nis always in motion."
+          },
+          {
+            "index": 53,
+            "start": 149.516,
+            "end": 151.017,
+            "text": "A butterfly\nflaps its wings,"
+          },
+          {
+            "index": 54,
+            "start": 151.051,
+            "end": 152.352,
+            "text": "(THUNDER RUMBLING)"
+          },
+          {
+            "index": 55,
+            "start": 152.385,
+            "end": 154.655,
+            "text": "and it starts to rain."
+          },
+          {
+            "index": 56,
+            "start": 154.688,
+            "end": 157.958,
+            "text": "It's a scary thought,\nbut it's also\nkind of wonderful."
+          },
+          {
+            "index": 57,
+            "start": 157.991,
+            "end": 161.061,
+            "text": "All these little parts\nof the machine\nconstantly working,"
+          },
+          {
+            "index": 58,
+            "start": 161.094,
+            "end": 163.664,
+            "text": "making sure that you end up\nexactly where\nyou're supposed to be,"
+          },
+          {
+            "index": 59,
+            "start": 163.697,
+            "end": 166.499,
+            "text": "exactly when you're supposed\nto be there."
+          },
+          {
+            "index": 60,
+            "start": 166.533,
+            "end": 169.235,
+            "text": "The right place\nat the right time."
+          },
+          {
+            "index": 61,
+            "start": 186.587,
+            "end": 189.255,
+            "text": "OLDER TED: Kids,\nit's a miracle that I ended up\non that street corner,"
+          },
+          {
+            "index": 62,
+            "start": 189.289,
+            "end": 192.993,
+            "text": "especially when you consider\nhow easy it would have been\nnot to end up there."
+          },
+          {
+            "index": 63,
+            "start": 193.026,
+            "end": 195.395,
+            "text": "I mean, for instance,\nwhen I first\nstepped out of the apartment,"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 151.55930004882813,
+        "topCueIndex": -1,
+        "bottomCueIndex": 53
+      }
     }
   ]
 }
