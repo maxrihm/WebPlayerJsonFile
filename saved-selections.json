@@ -123738,6 +123738,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 14
       }
+    },
+    {
+      "id": "bee83f2e-dc9f-472d-8436-29fb7df45a47",
+      "createdAt": "2026-09-20T21:44:40.288Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/0b16c23e-9f2d-4edb-8721-3cf22f9934bb",
+      "audioTrackName": "",
+      "selectedText": "As a matter of fact,",
+      "selection": {
+        "rawText": "As a matter of fact,",
+        "startOffset": 0,
+        "endOffset": 20,
+        "cueIndex": 21,
+        "cueStart": 47.141,
+        "cueEnd": 49.708,
+        "cueText": "As a matter of fact,\nI'd say on a scale\nranging from..."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 11,
+            "start": 23.741,
+            "end": 25.508,
+            "text": "\"What a nice surprise\"?"
+          },
+          {
+            "index": 12,
+            "start": 25.541,
+            "end": 28.074,
+            "text": "No, a nice surprise\nwould be if a safe fell"
+          },
+          {
+            "index": 13,
+            "start": 28.108,
+            "end": 30.508,
+            "text": "from 40 stories\nand smushed them both."
+          },
+          {
+            "index": 14,
+            "start": 30.541,
+            "end": 31.941,
+            "text": "I mean, you didn't\nlet them have it?"
+          },
+          {
+            "index": 15,
+            "start": 31.974,
+            "end": 33.674,
+            "text": "No, we had\na nice friendly chat,"
+          },
+          {
+            "index": 16,
+            "start": 33.708,
+            "end": 35.441,
+            "text": "then they went their way\nand I went mine."
+          },
+          {
+            "index": 17,
+            "start": 35.474,
+            "end": 38.108,
+            "text": "Ted, you blew it.\nHe blew it, right?"
+          },
+          {
+            "index": 18,
+            "start": 40.274,
+            "end": 41.941,
+            "text": "Well played, sir.\nBravo."
+          },
+          {
+            "index": 19,
+            "start": 41.974,
+            "end": 44.674,
+            "text": "What?\nYou see, Robin,\nTed played it cool,"
+          },
+          {
+            "index": 20,
+            "start": 44.708,
+            "end": 47.108,
+            "text": "which is exactly what\nhe should have done."
+          },
+          {
+            "index": 21,
+            "start": 47.141,
+            "end": 49.708,
+            "text": "As a matter of fact,\nI'd say on a scale\nranging from..."
+          },
+          {
+            "index": 22,
+            "start": 49.741,
+            "end": 52.574,
+            "text": "And I kept this\nsweater of yours"
+          },
+          {
+            "index": 23,
+            "start": 52.608,
+            "end": 55.108,
+            "text": "and sometimes I just\nsit in the bathtub"
+          },
+          {
+            "index": 24,
+            "start": 55.141,
+            "end": 59.074,
+            "text": "for hours just, you know,\njust sniffing it."
+          },
+          {
+            "index": 25,
+            "start": 59.108,
+            "end": 60.241,
+            "text": "...all the way to..."
+          },
+          {
+            "index": 26,
+            "start": 60.274,
+            "end": 63.908,
+            "text": "This is my new fiancee.\nShe's basically Stella,"
+          },
+          {
+            "index": 27,
+            "start": 63.941,
+            "end": 68.374,
+            "text": "except she's French\nand, as you can see,\nshe's got enormous cans."
+          },
+          {
+            "index": 28,
+            "start": 68.408,
+            "end": 70.074,
+            "text": "(SPEAKING FRENCH)"
+          },
+          {
+            "index": 29,
+            "start": 71.741,
+            "end": 73.374,
+            "text": "(SPEAKING FRENCH)"
+          },
+          {
+            "index": 30,
+            "start": 75.941,
+            "end": 77.408,
+            "text": "(GIGGLES)"
+          },
+          {
+            "index": 31,
+            "start": 77.441,
+            "end": 79.908,
+            "text": "I'd say you nailed it."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 51.0958759765625,
+        "topCueIndex": -1,
+        "bottomCueIndex": 21
+      }
     }
   ]
 }
