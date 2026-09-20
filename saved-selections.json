@@ -119037,6 +119037,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 37
       }
+    },
+    {
+      "id": "7272d84a-7a2b-444f-b2a9-f3dd58cb4ca8",
+      "createdAt": "2026-09-20T20:52:36.671Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/cc85407f-8c6c-40a6-8874-5c95420215dd",
+      "audioTrackName": "",
+      "selectedText": "lined up",
+      "selection": {
+        "rawText": "lined up",
+        "startOffset": 40,
+        "endOffset": 48,
+        "cueIndex": 42,
+        "cueStart": 108.642,
+        "cueEnd": 111.812,
+        "cueText": "Can't wait to see\nwhat the universe has\nlined up for me out there."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 32,
+            "start": 84.184,
+            "end": 88.121,
+            "text": "A cinnamon‐raisin bagel\nwith a little cream cheese."
+          },
+          {
+            "index": 33,
+            "start": 88.154,
+            "end": 90.657,
+            "text": "Actually, that sounds\npretty good.\nI'm going to get a bagel."
+          },
+          {
+            "index": 34,
+            "start": 90.691,
+            "end": 92.893,
+            "text": "Bring an umbrella."
+          },
+          {
+            "index": 35,
+            "start": 92.926,
+            "end": 94.26,
+            "text": "It's supposed to rain,\naccording to Galoshes,\nour weather clown."
+          },
+          {
+            "index": 36,
+            "start": 94.294,
+            "end": 96.797,
+            "text": "Your show has a clown\nwho does the weather?"
+          },
+          {
+            "index": 37,
+            "start": 96.83,
+            "end": 97.631,
+            "text": "That's a little cheesy,\ndon't you think?"
+          },
+          {
+            "index": 38,
+            "start": 97.664,
+            "end": 99.9,
+            "text": "Yeah."
+          },
+          {
+            "index": 39,
+            "start": 99.933,
+            "end": 104.304,
+            "text": "And what's that restaurant\nyou're designing\nshaped like, Hoss?"
+          },
+          {
+            "index": 40,
+            "start": 104.337,
+            "end": 106.472,
+            "text": "Fine. You want me out\nof the house,\nI'll get out of the house."
+          },
+          {
+            "index": 41,
+            "start": 106.507,
+            "end": 108.609,
+            "text": "Uh‐huh."
+          },
+          {
+            "index": 42,
+            "start": 108.642,
+            "end": 111.812,
+            "text": "Can't wait to see\nwhat the universe has\nlined up for me out there."
+          },
+          {
+            "index": 43,
+            "start": 116.482,
+            "end": 119.52,
+            "text": "OLDER TED: Kids, I've been\ntelling you the story\nof how I met your mother."
+          },
+          {
+            "index": 44,
+            "start": 119.553,
+            "end": 121.588,
+            "text": "And while there's many things\nto learn from this story,"
+          },
+          {
+            "index": 45,
+            "start": 121.622,
+            "end": 123.957,
+            "text": "this may be the biggest."
+          },
+          {
+            "index": 46,
+            "start": 123.99,
+            "end": 127.661,
+            "text": "The great moments of your life\nwon't necessarily\nbe the things you do."
+          },
+          {
+            "index": 47,
+            "start": 127.694,
+            "end": 130.33,
+            "text": "They'll also be the things\nthat happen to you."
+          },
+          {
+            "index": 48,
+            "start": 130.363,
+            "end": 134,
+            "text": "No, I'm not saying you can't\ntake action to affect\nthe outcome of your life."
+          },
+          {
+            "index": 49,
+            "start": 134.034,
+            "end": 137.37,
+            "text": "You have to take action,\nand you will."
+          },
+          {
+            "index": 50,
+            "start": 137.403,
+            "end": 139.873,
+            "text": "But never forget that,\non any day,"
+          },
+          {
+            "index": 51,
+            "start": 139.906,
+            "end": 144.377,
+            "text": "you could step out\nthe front door and your whole\nlife can change forever."
+          },
+          {
+            "index": 52,
+            "start": 144.41,
+            "end": 149.482,
+            "text": "You see, the universe has\na plan, kids, and that plan\nis always in motion."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 112.05796508789062,
+        "topCueIndex": -1,
+        "bottomCueIndex": 42
+      }
     }
   ]
 }
