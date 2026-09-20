@@ -127716,6 +127716,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 290
       }
+    },
+    {
+      "id": "a0ca5dfd-41bf-44b1-b7a4-552e201b47bb",
+      "createdAt": "2026-09-20T22:19:01.408Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/0b16c23e-9f2d-4edb-8721-3cf22f9934bb",
+      "audioTrackName": "",
+      "selectedText": "tolls,",
+      "selection": {
+        "rawText": "tolls,",
+        "startOffset": 21,
+        "endOffset": 27,
+        "cueIndex": 350,
+        "cueStart": 993.899,
+        "cueEnd": 996.565,
+        "cueText": "Okay. You'll pay\nfor tolls, right?"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 340,
+            "start": 970.099,
+            "end": 971.465,
+            "text": "I have a sausage\nwith your name on it!"
+          },
+          {
+            "index": 341,
+            "start": 971.499,
+            "end": 972.532,
+            "text": "Out of the car now!"
+          },
+          {
+            "index": 342,
+            "start": 972.565,
+            "end": 974.399,
+            "text": "(SHRIEKS)"
+          },
+          {
+            "index": 343,
+            "start": 974.432,
+            "end": 977.799,
+            "text": "I need you\nto come to Brazzaville,\nNew Jersey and bail me out."
+          },
+          {
+            "index": 344,
+            "start": 977.832,
+            "end": 979.499,
+            "text": "I'm kind of\nin the middle\nof something."
+          },
+          {
+            "index": 345,
+            "start": 979.532,
+            "end": 982.032,
+            "text": "Hurry, Ted.\nYou have no idea of the kind\nof the hardened criminals"
+          },
+          {
+            "index": 346,
+            "start": 982.065,
+            "end": 983.699,
+            "text": "they've got me in here with."
+          },
+          {
+            "index": 347,
+            "start": 983.732,
+            "end": 986.865,
+            "text": "Are we gonna get\nour spray paint back?"
+          },
+          {
+            "index": 348,
+            "start": 986.899,
+            "end": 988.565,
+            "text": "(WHIMPERING)\nSave me, Ted!"
+          },
+          {
+            "index": 349,
+            "start": 990.265,
+            "end": 993.865,
+            "text": "You want to do\nsomething for me?\nI need a ride to New Jersey."
+          },
+          {
+            "index": 350,
+            "start": 993.899,
+            "end": 996.565,
+            "text": "Okay. You'll pay\nfor tolls, right?"
+          },
+          {
+            "index": 351,
+            "start": 997.565,
+            "end": 1000.565,
+            "text": "I'm kidding."
+          },
+          {
+            "index": 352,
+            "start": 1000.599,
+            "end": 1003.165,
+            "text": "OLDER TED: So Stella and I\ndrove all the way out\nto New Jersey,"
+          },
+          {
+            "index": 353,
+            "start": 1003.199,
+            "end": 1004.832,
+            "text": "bailed your Uncle Barney\nout of jail"
+          },
+          {
+            "index": 354,
+            "start": 1004.865,
+            "end": 1006.699,
+            "text": "and drove all the way home."
+          },
+          {
+            "index": 355,
+            "start": 1006.732,
+            "end": 1008.399,
+            "text": "Oh, by the way, Ted,\nhow's that girl\nyou've been seeing?"
+          },
+          {
+            "index": 356,
+            "start": 1008.432,
+            "end": 1012.065,
+            "text": "That super hot French chick\nwith the big enormous boobs?"
+          },
+          {
+            "index": 357,
+            "start": 1012.099,
+            "end": 1015.365,
+            "text": "Oh, you mean Claudette?\nYeah, she's... She's fine."
+          },
+          {
+            "index": 358,
+            "start": 1015.399,
+            "end": 1019.332,
+            "text": "Man, she's the hottest girl\nyou have ever been with, Ted."
+          },
+          {
+            "index": 359,
+            "start": 1019.365,
+            "end": 1021.265,
+            "text": "Ever! Bye, Stella."
+          },
+          {
+            "index": 360,
+            "start": 1022.232,
+            "end": 1023.332,
+            "text": "Bye."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1001.2804450683594,
+        "topCueIndex": -1,
+        "bottomCueIndex": 350
+      }
     }
   ]
 }
