@@ -120261,6 +120261,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 146
       }
+    },
+    {
+      "id": "efd34d52-2a2f-4af8-a6a5-e6399365ef8d",
+      "createdAt": "2026-09-20T21:06:20.107Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/cc85407f-8c6c-40a6-8874-5c95420215dd",
+      "audioTrackName": "",
+      "selectedText": "As in",
+      "selection": {
+        "rawText": "As in",
+        "startOffset": 0,
+        "endOffset": 5,
+        "cueIndex": 162,
+        "cueStart": 425.592,
+        "cueEnd": 430.564,
+        "cueText": "As in \"sex with.\"\nI request\nthe highest of fives."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 152,
+            "start": 401.902,
+            "end": 404.104,
+            "text": "This girl is the one."
+          },
+          {
+            "index": 153,
+            "start": 404.137,
+            "end": 406.306,
+            "text": "Of course, she's the one.\nYou have to marry those."
+          },
+          {
+            "index": 154,
+            "start": 406.339,
+            "end": 407.508,
+            "text": "Her."
+          },
+          {
+            "index": 155,
+            "start": 408.575,
+            "end": 409.71,
+            "text": "Marry?"
+          },
+          {
+            "index": 156,
+            "start": 409.743,
+            "end": 411.377,
+            "text": "(LAUGHING MOCKINGLY)"
+          },
+          {
+            "index": 157,
+            "start": 411.411,
+            "end": 415.916,
+            "text": "No. I have something much,\nmuch more special in mind."
+          },
+          {
+            "index": 158,
+            "start": 415.949,
+            "end": 418.118,
+            "text": "Petra here,\nif all goes well,"
+          },
+          {
+            "index": 159,
+            "start": 418.151,
+            "end": 420.486,
+            "text": "will be my...\nWait for it. ...200th."
+          },
+          {
+            "index": 160,
+            "start": 420.521,
+            "end": 422.656,
+            "text": "Sorry, I couldn't wait.\nIt's all too exciting."
+          },
+          {
+            "index": 161,
+            "start": 422.689,
+            "end": 425.559,
+            "text": "Your 200th,\nas in \"sex with\"?"
+          },
+          {
+            "index": 162,
+            "start": 425.592,
+            "end": 430.564,
+            "text": "As in \"sex with.\"\nI request\nthe highest of fives."
+          },
+          {
+            "index": 163,
+            "start": 430.597,
+            "end": 432.833,
+            "text": "Not if I was wearing\na HazMat suit."
+          },
+          {
+            "index": 164,
+            "start": 433.834,
+            "end": 435.936,
+            "text": "Two hundred is too many."
+          },
+          {
+            "index": 165,
+            "start": 435.969,
+            "end": 439.573,
+            "text": "Oh. Right, 'cause\nthere can be too many\nof something wonderful."
+          },
+          {
+            "index": 166,
+            "start": 439.606,
+            "end": 443.81,
+            "text": "\"Hey, Babe Ruth,\neasy, big fella. Let's not\nhit too many homers.\""
+          },
+          {
+            "index": 167,
+            "start": 443.844,
+            "end": 447.48,
+            "text": "\"Hey, Steve Guttenberg,\nmaybe just make\nthree Police Academy movies."
+          },
+          {
+            "index": 168,
+            "start": 447.514,
+            "end": 449.282,
+            "text": "\"America's laughed enough.\""
+          },
+          {
+            "index": 169,
+            "start": 449.315,
+            "end": 451.084,
+            "text": "Who are these girls?"
+          },
+          {
+            "index": 170,
+            "start": 451.117,
+            "end": 453.019,
+            "text": "That was rhetorical.\nDon't show me the list."
+          },
+          {
+            "index": 171,
+            "start": 453.053,
+            "end": 456.523,
+            "text": "A hundred and ninety‐nine\nsatisfied customers."
+          },
+          {
+            "index": 172,
+            "start": 456.557,
+            "end": 459.125,
+            "text": "Anyway, the big night\nis Thursday."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 427.40393408203124,
+        "topCueIndex": -1,
+        "bottomCueIndex": 162
+      }
     }
   ]
 }
