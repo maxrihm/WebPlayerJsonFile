@@ -127563,6 +127563,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 276
       }
+    },
+    {
+      "id": "6ec7b192-06ba-4d72-8754-07556d01d604",
+      "createdAt": "2026-09-20T22:14:49.404Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/0b16c23e-9f2d-4edb-8721-3cf22f9934bb",
+      "audioTrackName": "",
+      "selectedText": "appealing",
+      "selection": {
+        "rawText": "appealing",
+        "startOffset": 7,
+        "endOffset": 16,
+        "cueIndex": 290,
+        "cueStart": 847.165,
+        "cueEnd": 849.699,
+        "cueText": "You're appealing to\nthe romantic in me?"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 280,
+            "start": 819.932,
+            "end": 822.332,
+            "text": "Just go back inside,\nMrs. Matsen."
+          },
+          {
+            "index": 281,
+            "start": 824.165,
+            "end": 826.232,
+            "text": "(DOOR CLOSES)"
+          },
+          {
+            "index": 282,
+            "start": 826.265,
+            "end": 828.232,
+            "text": "It was good\nseeing you, Stella."
+          },
+          {
+            "index": 283,
+            "start": 828.265,
+            "end": 830.065,
+            "text": "Can you talk to Tony?"
+          },
+          {
+            "index": 284,
+            "start": 832.332,
+            "end": 834.832,
+            "text": "What?\nHe'd listen to you."
+          },
+          {
+            "index": 285,
+            "start": 834.865,
+            "end": 837.199,
+            "text": "I mean,\nyou changed his mind.\nYou could change it back."
+          },
+          {
+            "index": 286,
+            "start": 837.232,
+            "end": 838.965,
+            "text": "I know it's an awful\nthing to ask..."
+          },
+          {
+            "index": 287,
+            "start": 838.999,
+            "end": 841.132,
+            "text": "Yeah, it's an awful\nthing to ask."
+          },
+          {
+            "index": 288,
+            "start": 841.165,
+            "end": 845.199,
+            "text": "Well, I don't know\nwhat else to do, okay?\nI love him."
+          },
+          {
+            "index": 289,
+            "start": 845.232,
+            "end": 847.132,
+            "text": "Oh, you love him.\nSo, what? You're..."
+          },
+          {
+            "index": 290,
+            "start": 847.165,
+            "end": 849.699,
+            "text": "You're appealing to\nthe romantic in me?"
+          },
+          {
+            "index": 291,
+            "start": 849.732,
+            "end": 851.399,
+            "text": "Is that your strategy?"
+          },
+          {
+            "index": 292,
+            "start": 851.432,
+            "end": 855.465,
+            "text": "Because that guy's gone.\nYou can't pull\nthose strings anymore."
+          },
+          {
+            "index": 293,
+            "start": 855.499,
+            "end": 858.665,
+            "text": "They're not\nattached to anything,\nthanks to you."
+          },
+          {
+            "index": 294,
+            "start": 858.699,
+            "end": 860.465,
+            "text": "Go ahead, honey, kiss him."
+          },
+          {
+            "index": 295,
+            "start": 860.499,
+            "end": 863.699,
+            "text": "Go inside, Mrs. Matsen!\nMrs. Matsen, go inside!"
+          },
+          {
+            "index": 296,
+            "start": 863.732,
+            "end": 865.165,
+            "text": "(DOOR CLOSES)"
+          },
+          {
+            "index": 297,
+            "start": 865.199,
+            "end": 867.732,
+            "text": "Okay, you can do this.\nYou can do this!"
+          },
+          {
+            "index": 298,
+            "start": 868.865,
+            "end": 872.032,
+            "text": "Oh, you can do this."
+          },
+          {
+            "index": 299,
+            "start": 872.065,
+            "end": 874.465,
+            "text": "License and...\nLicense and registration."
+          },
+          {
+            "index": 300,
+            "start": 874.499,
+            "end": 875.965,
+            "text": "Excuse me?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 849.5386669921875,
+        "topCueIndex": -1,
+        "bottomCueIndex": 290
+      }
     }
   ]
 }
