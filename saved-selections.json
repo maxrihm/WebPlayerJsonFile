@@ -129093,6 +129093,129 @@
         "topCueIndex": -1,
         "bottomCueIndex": 416
       }
+    },
+    {
+      "id": "74ed5107-30a2-4fe6-9de6-45c3ba5b5f15",
+      "createdAt": "2026-09-20T22:26:40.553Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/0b16c23e-9f2d-4edb-8721-3cf22f9934bb",
+      "audioTrackName": "",
+      "selectedText": "been up to?",
+      "selection": {
+        "rawText": "been up to?",
+        "startOffset": 17,
+        "endOffset": 28,
+        "cueIndex": 428,
+        "cueStart": 1252.89,
+        "cueEnd": 1255.023,
+        "cueText": "So what have you\nbeen up to?"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 418,
+            "start": 1226.723,
+            "end": 1228.623,
+            "text": "Hey, Lily!\nLily!"
+          },
+          {
+            "index": 419,
+            "start": 1228.657,
+            "end": 1230.257,
+            "text": "You're back!"
+          },
+          {
+            "index": 420,
+            "start": 1230.29,
+            "end": 1233.823,
+            "text": "Barney, when you told me that\npeanut butter and jam joke,"
+          },
+          {
+            "index": 421,
+            "start": 1233.857,
+            "end": 1236.357,
+            "text": "I was completely disgusted."
+          },
+          {
+            "index": 422,
+            "start": 1236.39,
+            "end": 1239.357,
+            "text": "But I was\nin the shower this morning\nand it popped into my head"
+          },
+          {
+            "index": 423,
+            "start": 1239.39,
+            "end": 1244.123,
+            "text": "and it actually\nmade me laugh.\nPeanut butter."
+          },
+          {
+            "index": 424,
+            "start": 1244.157,
+            "end": 1247.257,
+            "text": "So I can see now\nhow I may have\noverreacted."
+          },
+          {
+            "index": 425,
+            "start": 1247.29,
+            "end": 1249.323,
+            "text": "Marshall's words,\nnot mine."
+          },
+          {
+            "index": 426,
+            "start": 1249.357,
+            "end": 1251.423,
+            "text": "Well, it's good to\nsee you again, Lily."
+          },
+          {
+            "index": 427,
+            "start": 1251.457,
+            "end": 1252.857,
+            "text": "Thanks."
+          },
+          {
+            "index": 428,
+            "start": 1252.89,
+            "end": 1255.023,
+            "text": "So what have you\nbeen up to?"
+          },
+          {
+            "index": 429,
+            "start": 1255.057,
+            "end": 1257.49,
+            "text": "I'm going to an amnesia ward\nwith a bunch of photos\nof my \"children\""
+          },
+          {
+            "index": 430,
+            "start": 1257.523,
+            "end": 1259.69,
+            "text": "and a wedding ring."
+          },
+          {
+            "index": 431,
+            "start": 1259.723,
+            "end": 1262.023,
+            "text": "I'm gonna find\nthe hottest patient/my wife,\nand we are going..."
+          },
+          {
+            "index": 432,
+            "start": 1262.057,
+            "end": 1265.823,
+            "text": "Okay, so that's\ngood enough for tonight.\nI gotta ease back into this."
+          },
+          {
+            "index": 433,
+            "start": 1265.857,
+            "end": 1267.39,
+            "text": "See you tomorrow!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1256.514162109375,
+        "topCueIndex": -1,
+        "bottomCueIndex": 428
+      }
     }
   ]
 }
