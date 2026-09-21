@@ -130161,6 +130161,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 40
       }
+    },
+    {
+      "id": "3e632132-3634-40ba-a81b-7e1985771134",
+      "createdAt": "2026-09-21T21:56:33.901Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/30621eeb-e047-466a-9f58-7d1a3d7b83a5",
+      "audioTrackName": "",
+      "selectedText": "showed up",
+      "selection": {
+        "rawText": "showed up",
+        "startOffset": 21,
+        "endOffset": 30,
+        "cueIndex": 49,
+        "cueStart": 161.528,
+        "cueEnd": 164.364,
+        "cueText": "The fact that anyone\nshowed up to the first one\nwas surprise enough."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 39,
+            "start": 135.969,
+            "end": 138.539,
+            "text": "Now, it's your birthday.\nCome up to the roof\nand have a beer with me."
+          },
+          {
+            "index": 40,
+            "start": 138.572,
+            "end": 142.208,
+            "text": "No can do. Presentation is\ntomorrow. Hat buildings\ndon't design themselves."
+          },
+          {
+            "index": 41,
+            "start": 142.242,
+            "end": 144.778,
+            "text": "It's a rib joint for\nfat tourists."
+          },
+          {
+            "index": 42,
+            "start": 144.811,
+            "end": 147.147,
+            "text": "Just make sure the doors\nare wide and the chairs\nare reinforced."
+          },
+          {
+            "index": 43,
+            "start": 147.18,
+            "end": 150.283,
+            "text": "Now, birthday beer\non the roof. Let's go!"
+          },
+          {
+            "index": 44,
+            "start": 150.316,
+            "end": 152.385,
+            "text": "Why do you want me to come up\nto the roof so bad?"
+          },
+          {
+            "index": 45,
+            "start": 152.418,
+            "end": 154.12,
+            "text": "What, are you throwing me\na surprise party?"
+          },
+          {
+            "index": 46,
+            "start": 154.154,
+            "end": 156.189,
+            "text": "(SCOFFING) What? Come on."
+          },
+          {
+            "index": 47,
+            "start": 156.222,
+            "end": 158.892,
+            "text": "Ted, we threw you a surprise\nparty last year, okay?"
+          },
+          {
+            "index": 48,
+            "start": 158.925,
+            "end": 161.494,
+            "text": "You don't get two surprise\nparties in a row."
+          },
+          {
+            "index": 49,
+            "start": 161.528,
+            "end": 164.364,
+            "text": "The fact that anyone\nshowed up to the first one\nwas surprise enough."
+          },
+          {
+            "index": 50,
+            "start": 164.397,
+            "end": 168.669,
+            "text": "Right? Two surprise parties\nin a row! That is rich!"
+          },
+          {
+            "index": 51,
+            "start": 168.702,
+            "end": 170.671,
+            "text": "(LAUGHING) That is rich!"
+          },
+          {
+            "index": 52,
+            "start": 172.038,
+            "end": 174.174,
+            "text": "(LAUGHING) Classic! Classic..."
+          },
+          {
+            "index": 53,
+            "start": 174.207,
+            "end": 175.742,
+            "text": "(WHISPERING)\nHe still won't come up."
+          },
+          {
+            "index": 54,
+            "start": 175.776,
+            "end": 176.643,
+            "text": "(ALL EXCLAIMING\nIN DISAPPOINTMENT)"
+          },
+          {
+            "index": 55,
+            "start": 176.677,
+            "end": 178.411,
+            "text": "Come on. What the crap?"
+          },
+          {
+            "index": 56,
+            "start": 178.444,
+            "end": 181.515,
+            "text": "I knew having a second\nsurprise party was a bad idea."
+          },
+          {
+            "index": 57,
+            "start": 181.548,
+            "end": 186.92,
+            "text": "Yes, Robin, I know.\nThis party is...\nIt's a disaster."
+          },
+          {
+            "index": 58,
+            "start": 186.953,
+            "end": 189.956,
+            "text": "It was my idea.\nI take responsibility."
+          },
+          {
+            "index": 59,
+            "start": 191.758,
+            "end": 194.961,
+            "text": "And there's really only\none thing to do about it."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 163.00042309570313,
+        "topCueIndex": -1,
+        "bottomCueIndex": 49
+      }
     }
   ]
 }
