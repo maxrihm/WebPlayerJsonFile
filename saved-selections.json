@@ -133374,6 +133374,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 195
       }
+    },
+    {
+      "id": "b9edd5b4-536c-4642-829e-6e147803d5d3",
+      "createdAt": "2026-09-21T22:17:58.744Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/30621eeb-e047-466a-9f58-7d1a3d7b83a5",
+      "audioTrackName": "",
+      "selectedText": "turnstile.",
+      "selection": {
+        "rawText": "turnstile.",
+        "startOffset": 25,
+        "endOffset": 35,
+        "cueIndex": 210,
+        "cueStart": 698.264,
+        "cueEnd": 703.77,
+        "cueText": "I was ready to\njump that turnstile.\nWhat changed all that?"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 200,
+            "start": 670.17,
+            "end": 672.338,
+            "text": "Okay, well, first of all..."
+          },
+          {
+            "index": 201,
+            "start": 675.408,
+            "end": 676.643,
+            "text": "(GRUNTS)"
+          },
+          {
+            "index": 202,
+            "start": 676.677,
+            "end": 679.012,
+            "text": "Second of all,\nthere is a maneuver\nyou can try."
+          },
+          {
+            "index": 203,
+            "start": 679.045,
+            "end": 681.381,
+            "text": "It's high‐risk, but it's\nalso high‐reward."
+          },
+          {
+            "index": 204,
+            "start": 681.414,
+            "end": 685.185,
+            "text": "For lack of a better term,\nI'm going to call it"
+          },
+          {
+            "index": 205,
+            "start": 685.218,
+            "end": 687.153,
+            "text": "\"The Mosby.\"\nThe Mosby?"
+          },
+          {
+            "index": 206,
+            "start": 687.187,
+            "end": 689.222,
+            "text": "No, she couldn't\nMosby him."
+          },
+          {
+            "index": 207,
+            "start": 689.255,
+            "end": 692.826,
+            "text": "She could Mosby\nthe crap out of him.\nWhat's the Mosby?"
+          },
+          {
+            "index": 208,
+            "start": 692.859,
+            "end": 694.728,
+            "text": "Robin, you remember\nyour first date with Ted?"
+          },
+          {
+            "index": 209,
+            "start": 694.761,
+            "end": 698.231,
+            "text": "You wanted to hop\non the T‐train,\ntake a ride downtown."
+          },
+          {
+            "index": 210,
+            "start": 698.264,
+            "end": 703.77,
+            "text": "I was ready to\njump that turnstile.\nWhat changed all that?"
+          },
+          {
+            "index": 211,
+            "start": 703.804,
+            "end": 706.106,
+            "text": "I think I'm in love with you.\nWhat?"
+          },
+          {
+            "index": 212,
+            "start": 706.907,
+            "end": 709.876,
+            "text": "Oh! The Mosby!"
+          },
+          {
+            "index": 213,
+            "start": 709.91,
+            "end": 712.012,
+            "text": "That is genius.\nThank you."
+          },
+          {
+            "index": 214,
+            "start": 712.045,
+            "end": 715.248,
+            "text": "And, excuse me."
+          },
+          {
+            "index": 215,
+            "start": 715.281,
+            "end": 716.883,
+            "text": "(GRUNTS)"
+          },
+          {
+            "index": 216,
+            "start": 716.917,
+            "end": 719.219,
+            "text": "Oh, I mean, you're\nvery pretty, but\nyou're freakishly tall,"
+          },
+          {
+            "index": 217,
+            "start": 719.252,
+            "end": 722.556,
+            "text": "and you don't\nbelieve in ghosts."
+          },
+          {
+            "index": 218,
+            "start": 722.589,
+            "end": 725.626,
+            "text": "So, when she said she thinks\nshe's in love with me,"
+          },
+          {
+            "index": 219,
+            "start": 725.659,
+            "end": 728.729,
+            "text": "she meant the opposite.\nExactly."
+          },
+          {
+            "index": 220,
+            "start": 728.762,
+            "end": 731.197,
+            "text": "And look how well it worked.\nYou're back to normal."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 700.2674050292969,
+        "topCueIndex": -1,
+        "bottomCueIndex": 210
+      }
     }
   ]
 }
