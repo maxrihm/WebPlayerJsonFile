@@ -129315,6 +129315,99 @@
         "topCueIndex": -1,
         "bottomCueIndex": 432
       }
+    },
+    {
+      "id": "768ce37c-947d-4b28-a6b0-cbb65a744626",
+      "createdAt": "2026-09-21T21:47:37.736Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/30621eeb-e047-466a-9f58-7d1a3d7b83a5",
+      "audioTrackName": "",
+      "selectedText": "point",
+      "selection": {
+        "rawText": "point",
+        "startOffset": 31,
+        "endOffset": 36,
+        "cueIndex": 0,
+        "cueStart": 2.068,
+        "cueEnd": 4.905,
+        "cueText": "OLDER TED: Every architect\ncan point to that one design\nthat changed their career."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 0,
+            "start": 2.068,
+            "end": 4.905,
+            "text": "OLDER TED: Every architect\ncan point to that one design\nthat changed their career."
+          },
+          {
+            "index": 1,
+            "start": 4.938,
+            "end": 7.974,
+            "text": "For me, it was around the time\nof my 31st birthday."
+          },
+          {
+            "index": 2,
+            "start": 8.008,
+            "end": 12.345,
+            "text": "It wasn't a museum\nor a concert hall\nor a skyscraper."
+          },
+          {
+            "index": 3,
+            "start": 12.378,
+            "end": 14.581,
+            "text": "It was something else."
+          },
+          {
+            "index": 4,
+            "start": 14.615,
+            "end": 18.519,
+            "text": "We're opening a restaurant\ncalled Rib Town, and we\nwant it to be shaped..."
+          },
+          {
+            "index": 5,
+            "start": 18.552,
+            "end": 20.253,
+            "text": "Like a cowboy hat."
+          },
+          {
+            "index": 6,
+            "start": 22.288,
+            "end": 24.858,
+            "text": "Look, I need the work.\nI don't have any\nother options."
+          },
+          {
+            "index": 7,
+            "start": 24.891,
+            "end": 26.927,
+            "text": "Well, there's always\nthat teaching job."
+          },
+          {
+            "index": 8,
+            "start": 26.96,
+            "end": 30.363,
+            "text": "Yeah, I didn't work this hard\nto be stuck in some crappy,\ndead‐end teaching job."
+          },
+          {
+            "index": 9,
+            "start": 30.396,
+            "end": 33.6,
+            "text": "No offense, Lily.\nI got peed on three\ntimes today."
+          },
+          {
+            "index": 10,
+            "start": 33.634,
+            "end": 35.569,
+            "text": "No arguments here."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 3.597404052734375,
+        "topCueIndex": -1,
+        "bottomCueIndex": 0
+      }
     }
   ]
 }
