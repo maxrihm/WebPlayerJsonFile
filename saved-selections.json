@@ -132915,6 +132915,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 179
       }
+    },
+    {
+      "id": "d7443b95-6095-45e0-b69e-5504f65b6435",
+      "createdAt": "2026-09-21T22:14:22.204Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/30621eeb-e047-466a-9f58-7d1a3d7b83a5",
+      "audioTrackName": "",
+      "selectedText": "groundbreaking",
+      "selection": {
+        "rawText": "groundbreaking",
+        "startOffset": 19,
+        "endOffset": 33,
+        "cueIndex": 179,
+        "cueStart": 611.945,
+        "cueEnd": 614.915,
+        "cueText": "What a tremendous,\ngroundbreaking surprise!"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 169,
+            "start": 583.617,
+            "end": 586.452,
+            "text": "(SIGHS) There's beans."
+          },
+          {
+            "index": 170,
+            "start": 586.486,
+            "end": 588.254,
+            "text": "The suit is Robin."
+          },
+          {
+            "index": 171,
+            "start": 588.288,
+            "end": 589.155,
+            "text": "I know!"
+          },
+          {
+            "index": 172,
+            "start": 589.189,
+            "end": 590.456,
+            "text": "(MIMICKING EXPLOSION)"
+          },
+          {
+            "index": 173,
+            "start": 590.49,
+            "end": 592.325,
+            "text": "Right?"
+          },
+          {
+            "index": 174,
+            "start": 592.358,
+            "end": 595.996,
+            "text": "I'm with you, buddy.\nYou are now."
+          },
+          {
+            "index": 175,
+            "start": 596.029,
+            "end": 598.599,
+            "text": "Because I explained it\nto you.\nWhat are you..."
+          },
+          {
+            "index": 176,
+            "start": 600.634,
+            "end": 602.102,
+            "text": "BARNEY: There you go."
+          },
+          {
+            "index": 177,
+            "start": 607.608,
+            "end": 609.242,
+            "text": "(SIGHS) Oh, crap."
+          },
+          {
+            "index": 178,
+            "start": 609.275,
+            "end": 611.912,
+            "text": "He said that? Oh, my God!\nWhoa!"
+          },
+          {
+            "index": 179,
+            "start": 611.945,
+            "end": 614.915,
+            "text": "What a tremendous,\ngroundbreaking surprise!"
+          },
+          {
+            "index": 180,
+            "start": 614.948,
+            "end": 616.316,
+            "text": "How long have you known?\nEight months."
+          },
+          {
+            "index": 181,
+            "start": 616.349,
+            "end": 619.085,
+            "text": "And you've kept it\na secret since then?\nGood for you."
+          },
+          {
+            "index": 182,
+            "start": 619.119,
+            "end": 622.088,
+            "text": "Yeah. Wow.\nGood for you, Lily."
+          },
+          {
+            "index": 183,
+            "start": 622.122,
+            "end": 624.591,
+            "text": "I mean, what a bombshell.\nWho saw that coming?"
+          },
+          {
+            "index": 184,
+            "start": 624.625,
+            "end": 627.093,
+            "text": "How long have you known?\nSeven months, 29 days."
+          },
+          {
+            "index": 185,
+            "start": 627.127,
+            "end": 629.095,
+            "text": "(SIGHS) What am I\ngoing to do?"
+          },
+          {
+            "index": 186,
+            "start": 629.129,
+            "end": 632.465,
+            "text": "I don't know.\nWhat are you going to do?"
+          },
+          {
+            "index": 187,
+            "start": 632.498,
+            "end": 635.301,
+            "text": "I'm going to marry Barney\nin a big church wedding."
+          },
+          {
+            "index": 188,
+            "start": 635.335,
+            "end": 637.37,
+            "text": "And we're going to move\nto some sleepy\nNew Hampshire town"
+          },
+          {
+            "index": 189,
+            "start": 637.403,
+            "end": 638.639,
+            "text": "and open\na bed‐and‐breakfast."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 613.7880310058594,
+        "topCueIndex": -1,
+        "bottomCueIndex": 179
+      }
     }
   ]
 }
