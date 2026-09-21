@@ -131691,6 +131691,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 122
       }
+    },
+    {
+      "id": "88f2072d-4cff-4b10-a253-55b5f43e2fba",
+      "createdAt": "2026-09-21T22:07:20.186Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/30621eeb-e047-466a-9f58-7d1a3d7b83a5",
+      "audioTrackName": "",
+      "selectedText": "mercy,",
+      "selection": {
+        "rawText": "mercy,",
+        "startOffset": 31,
+        "endOffset": 37,
+        "cueIndex": 122,
+        "cueStart": 427.994,
+        "cueEnd": 430.597,
+        "cueText": "And how Aunt Lily,\nin a fit of mercy,"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 112,
+            "start": 392.726,
+            "end": 393.994,
+            "text": "(GOAT BLEATING)"
+          },
+          {
+            "index": 113,
+            "start": 398.565,
+            "end": 399.399,
+            "text": "(CELL PHONE RINGING)"
+          },
+          {
+            "index": 114,
+            "start": 401.935,
+            "end": 405.906,
+            "text": "It's Ted. Everybody, shh!\nShh! Shh!"
+          },
+          {
+            "index": 115,
+            "start": 405.939,
+            "end": 409.109,
+            "text": "Hey, Ted, what's up?\nIt's here, Lily."
+          },
+          {
+            "index": 116,
+            "start": 410.644,
+            "end": 413.213,
+            "text": "It's looking at me."
+          },
+          {
+            "index": 117,
+            "start": 413.246,
+            "end": 416.082,
+            "text": "What is?\nThe goat."
+          },
+          {
+            "index": 118,
+            "start": 416.116,
+            "end": 419.252,
+            "text": "OLDER TED: Now, I've told you\nsome of the story\nof the goat already."
+          },
+          {
+            "index": 119,
+            "start": 419.285,
+            "end": 422.422,
+            "text": "How Aunt Lily invited\na local farmer to come\ntalk to her class,"
+          },
+          {
+            "index": 120,
+            "start": 422.455,
+            "end": 424.29,
+            "text": "and how he brought a goat,"
+          },
+          {
+            "index": 121,
+            "start": 424.324,
+            "end": 427.961,
+            "text": "and how he told the whole\nclass what he was gonna\ndo to the goat later that day."
+          },
+          {
+            "index": 122,
+            "start": 427.994,
+            "end": 430.597,
+            "text": "And how Aunt Lily,\nin a fit of mercy,"
+          },
+          {
+            "index": 123,
+            "start": 430.631,
+            "end": 433.767,
+            "text": "bought the goat off the guy\nin order to commute\nits sentence."
+          },
+          {
+            "index": 124,
+            "start": 433.8,
+            "end": 435.569,
+            "text": "Lily, something amazing\nhas happened."
+          },
+          {
+            "index": 125,
+            "start": 435.602,
+            "end": 438.805,
+            "text": "I was talking to Robin,\nI was all set to tell her\nhow I feel,"
+          },
+          {
+            "index": 126,
+            "start": 438.839,
+            "end": 442.075,
+            "text": "but before I could,\nyou'll never believe\nwhat she said."
+          },
+          {
+            "index": 127,
+            "start": 442.108,
+            "end": 443.409,
+            "text": "I think I'm in love\nwith you."
+          },
+          {
+            "index": 128,
+            "start": 443.443,
+            "end": 446.112,
+            "text": "Aw! What did you say?\nWhat do you think I said?"
+          },
+          {
+            "index": 129,
+            "start": 446.146,
+            "end": 448.148,
+            "text": "What would anyone say\nto something like that?"
+          },
+          {
+            "index": 130,
+            "start": 449.115,
+            "end": 452.953,
+            "text": "Yeah, Robin, listen."
+          },
+          {
+            "index": 131,
+            "start": 453.82,
+            "end": 455.121,
+            "text": "You're great."
+          },
+          {
+            "index": 132,
+            "start": 455.155,
+            "end": 459.025,
+            "text": "I mean, you're really\nawesome, but, I mean,\nwe're friends."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 430.5794951171875,
+        "topCueIndex": -1,
+        "bottomCueIndex": 122
+      }
     }
   ]
 }
