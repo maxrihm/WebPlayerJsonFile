@@ -133527,6 +133527,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 210
       }
+    },
+    {
+      "id": "79e48d05-edea-4d56-a186-f66ac622f4c2",
+      "createdAt": "2026-09-21T22:20:21.889Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/30621eeb-e047-466a-9f58-7d1a3d7b83a5",
+      "audioTrackName": "",
+      "selectedText": "fascination",
+      "selection": {
+        "rawText": "fascination",
+        "startOffset": 25,
+        "endOffset": 36,
+        "cueIndex": 229,
+        "cueStart": 773.64,
+        "cueEnd": 776.943,
+        "cueText": "I do not understand\nyour fascination\nwith this washcloth."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 219,
+            "start": 725.659,
+            "end": 728.729,
+            "text": "she meant the opposite.\nExactly."
+          },
+          {
+            "index": 220,
+            "start": 728.762,
+            "end": 731.197,
+            "text": "And look how well it worked.\nYou're back to normal."
+          },
+          {
+            "index": 221,
+            "start": 731.231,
+            "end": 735.602,
+            "text": "Yes. Yes, I am.\nAnd it is great.\nIt's awesome."
+          },
+          {
+            "index": 222,
+            "start": 737.47,
+            "end": 740.173,
+            "text": "So, Robin's not in\nlove with me.\nNope."
+          },
+          {
+            "index": 223,
+            "start": 741.474,
+            "end": 742.943,
+            "text": "(WHINING) Why not?"
+          },
+          {
+            "index": 224,
+            "start": 746.279,
+            "end": 747.347,
+            "text": "Mr. Goat?"
+          },
+          {
+            "index": 225,
+            "start": 762.863,
+            "end": 763.93,
+            "text": "Mr. Goat?"
+          },
+          {
+            "index": 226,
+            "start": 763.964,
+            "end": 764.965,
+            "text": "(BLEATING)"
+          },
+          {
+            "index": 227,
+            "start": 765.999,
+            "end": 767.934,
+            "text": "Okay. That's it."
+          },
+          {
+            "index": 228,
+            "start": 771.437,
+            "end": 773.607,
+            "text": "Stupid goat."
+          },
+          {
+            "index": 229,
+            "start": 773.64,
+            "end": 776.943,
+            "text": "I do not understand\nyour fascination\nwith this washcloth."
+          },
+          {
+            "index": 230,
+            "start": 776.977,
+            "end": 779.279,
+            "text": "I guess that's what happens\nwhen you have\na brain the size of a..."
+          },
+          {
+            "index": 231,
+            "start": 779.312,
+            "end": 780.48,
+            "text": "(SCREAMING)"
+          },
+          {
+            "index": 232,
+            "start": 780.514,
+            "end": 781.648,
+            "text": "No! No! No!"
+          },
+          {
+            "index": 233,
+            "start": 786.019,
+            "end": 789.022,
+            "text": "(PANTING) Okay. Okay. Okay."
+          },
+          {
+            "index": 234,
+            "start": 789.055,
+            "end": 791.091,
+            "text": "Marshall, can you\njust go get Ted?"
+          },
+          {
+            "index": 235,
+            "start": 791.124,
+            "end": 794.46,
+            "text": "(ENUNCIATING) Lily,\nI was just about to jump."
+          },
+          {
+            "index": 236,
+            "start": 794.494,
+            "end": 797.43,
+            "text": "Didn't you hear me\nsaying \"Okay\"\nover and over again?"
+          },
+          {
+            "index": 237,
+            "start": 797.463,
+            "end": 800.867,
+            "text": "I'm sorry. Go ahead and jump.\n(SIGHS) No, it's fine."
+          },
+          {
+            "index": 238,
+            "start": 800.901,
+            "end": 804.137,
+            "text": "Sorry, everybody.\nLily won't let me jump."
+          },
+          {
+            "index": 239,
+            "start": 804.17,
+            "end": 805.205,
+            "text": "(ALL GROANING DISAPPOINTEDLY)"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 777.1279350585937,
+        "topCueIndex": -1,
+        "bottomCueIndex": 229
+      }
     }
   ]
 }
