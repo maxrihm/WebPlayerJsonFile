@@ -130773,6 +130773,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 65
       }
+    },
+    {
+      "id": "0a581123-2ced-4155-a77e-a26b9351db73",
+      "createdAt": "2026-09-21T21:59:45.429Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/30621eeb-e047-466a-9f58-7d1a3d7b83a5",
+      "audioTrackName": "",
+      "selectedText": "patio",
+      "selection": {
+        "rawText": "patio",
+        "startOffset": 27,
+        "endOffset": 32,
+        "cueIndex": 67,
+        "cueStart": 221.287,
+        "cueEnd": 224.958,
+        "cueText": "OLDER TED: Ah. The rooftop\npatio one building\nover from ours."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 57,
+            "start": 181.548,
+            "end": 186.92,
+            "text": "Yes, Robin, I know.\nThis party is...\nIt's a disaster."
+          },
+          {
+            "index": 58,
+            "start": 186.953,
+            "end": 189.956,
+            "text": "It was my idea.\nI take responsibility."
+          },
+          {
+            "index": 59,
+            "start": 191.758,
+            "end": 194.961,
+            "text": "And there's really only\none thing to do about it."
+          },
+          {
+            "index": 60,
+            "start": 199.432,
+            "end": 202.603,
+            "text": "Oh, Marshall, no.\n(SHOUTING) Lily,\nI have to do this!"
+          },
+          {
+            "index": 61,
+            "start": 202.636,
+            "end": 205.105,
+            "text": "(VOICE BREAKING)\nThere's no point in\nputting it off any longer."
+          },
+          {
+            "index": 62,
+            "start": 205.138,
+            "end": 207.741,
+            "text": "OLDER TED: I should explain.\nYou see,\na few years earlier..."
+          },
+          {
+            "index": 63,
+            "start": 209.776,
+            "end": 211.111,
+            "text": "No."
+          },
+          {
+            "index": 64,
+            "start": 211.144,
+            "end": 214.748,
+            "text": "Uh‐uh. Forget it.\nThis is so not pimped out."
+          },
+          {
+            "index": 65,
+            "start": 214.781,
+            "end": 216.983,
+            "text": "If anything,\nthis is pimped in."
+          },
+          {
+            "index": 66,
+            "start": 218.218,
+            "end": 221.254,
+            "text": "You know who knows how\nto live? Those people."
+          },
+          {
+            "index": 67,
+            "start": 221.287,
+            "end": 224.958,
+            "text": "OLDER TED: Ah. The rooftop\npatio one building\nover from ours."
+          },
+          {
+            "index": 68,
+            "start": 224.991,
+            "end": 229.462,
+            "text": "Across a chasm of just\nsix or seven feet awaited\na landscaped paradise."
+          },
+          {
+            "index": 69,
+            "start": 229.495,
+            "end": 230.597,
+            "text": "And best of all..."
+          },
+          {
+            "index": 70,
+            "start": 230.631,
+            "end": 236.236,
+            "text": "That looks to be\none hot tub."
+          },
+          {
+            "index": 71,
+            "start": 236.269,
+            "end": 238.939,
+            "text": "Great. How do we get\nover there? What are\nwe gonna do? Jump?"
+          },
+          {
+            "index": 72,
+            "start": 238.972,
+            "end": 240.641,
+            "text": "(CHORTLING)"
+          },
+          {
+            "index": 73,
+            "start": 249.916,
+            "end": 251.652,
+            "text": "I can jump that far."
+          },
+          {
+            "index": 74,
+            "start": 253.319,
+            "end": 256.59,
+            "text": "Marshall, lately it takes you\ntwo tries to get off the sofa."
+          },
+          {
+            "index": 75,
+            "start": 256.623,
+            "end": 258.091,
+            "text": "You can't jump that far."
+          },
+          {
+            "index": 76,
+            "start": 258.124,
+            "end": 261.361,
+            "text": "Oh, really?\nReally."
+          },
+          {
+            "index": 77,
+            "start": 261.962,
+            "end": 263.296,
+            "text": "Watch me."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 224.32494409179688,
+        "topCueIndex": -1,
+        "bottomCueIndex": 67
+      }
     }
   ]
 }
