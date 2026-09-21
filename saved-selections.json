@@ -133680,6 +133680,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 229
       }
+    },
+    {
+      "id": "3dc58fd1-0e28-4745-b0df-06fe6247a03e",
+      "createdAt": "2026-09-21T22:22:50.093Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/30621eeb-e047-466a-9f58-7d1a3d7b83a5",
+      "audioTrackName": "",
+      "selectedText": "if anything,",
+      "selection": {
+        "rawText": "if anything,",
+        "startOffset": 5,
+        "endOffset": 17,
+        "cueIndex": 257,
+        "cueStart": 870.771,
+        "cueEnd": 873.039,
+        "cueText": "Hey, if anything,\nthat goat tried to\nmake it with me."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 247,
+            "start": 833.534,
+            "end": 835.502,
+            "text": "I was savaged."
+          },
+          {
+            "index": 248,
+            "start": 835.536,
+            "end": 839.205,
+            "text": "That is the sweetest,\ncutest little goat\nin the whole world."
+          },
+          {
+            "index": 249,
+            "start": 839.239,
+            "end": 843.243,
+            "text": "Sweetest, cutest little goat\nin the whole world?"
+          },
+          {
+            "index": 250,
+            "start": 843.276,
+            "end": 844.745,
+            "text": "OLDER TED: I was pretty\nsleep‐deprived at this point,"
+          },
+          {
+            "index": 251,
+            "start": 844.778,
+            "end": 846.813,
+            "text": "so this probably isn't how\nit really happened,"
+          },
+          {
+            "index": 252,
+            "start": 846.847,
+            "end": 848.081,
+            "text": "but here's how I remember it."
+          },
+          {
+            "index": 253,
+            "start": 850.283,
+            "end": 851.084,
+            "text": "(BLEATING)"
+          },
+          {
+            "index": 254,
+            "start": 858.792,
+            "end": 859.593,
+            "text": "(GOAT GRUNTS)"
+          },
+          {
+            "index": 255,
+            "start": 863.93,
+            "end": 865.365,
+            "text": "(CHOKING)"
+          },
+          {
+            "index": 256,
+            "start": 867.233,
+            "end": 870.737,
+            "text": "So, you're the guy\nwho tried to make\nit with a goat?"
+          },
+          {
+            "index": 257,
+            "start": 870.771,
+            "end": 873.039,
+            "text": "Hey, if anything,\nthat goat tried to\nmake it with me."
+          },
+          {
+            "index": 258,
+            "start": 873.073,
+            "end": 874.107,
+            "text": "(BARNEY STIFLING LAUGHTER)"
+          },
+          {
+            "index": 259,
+            "start": 874.14,
+            "end": 876.442,
+            "text": "Can I go, please?\nSure, you can go."
+          },
+          {
+            "index": 260,
+            "start": 876.476,
+            "end": 879.613,
+            "text": "But remember,\nbuddy, \"baa\" means \"baa.\""
+          },
+          {
+            "index": 261,
+            "start": 879.646,
+            "end": 883.049,
+            "text": "(LAUGHING)"
+          },
+          {
+            "index": 262,
+            "start": 883.083,
+            "end": 886.086,
+            "text": "Great. Great. Now I'm\ngoing to be late for\nmy presentation."
+          },
+          {
+            "index": 263,
+            "start": 886.119,
+            "end": 887.688,
+            "text": "Thanks a lot, Mr. Goat."
+          },
+          {
+            "index": 264,
+            "start": 887.721,
+            "end": 891.024,
+            "text": "(CHUCKLES) Mr. Goat?\nTed, that goat's a girl."
+          },
+          {
+            "index": 265,
+            "start": 891.057,
+            "end": 893.627,
+            "text": "Her name's Missy.\nYou got beat up by a girl."
+          },
+          {
+            "index": 266,
+            "start": 898.999,
+            "end": 900,
+            "text": "(LAUGHING)"
+          },
+          {
+            "index": 267,
+            "start": 901.167,
+            "end": 904.437,
+            "text": "So. You're in love with me.\nWhat?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 874.2892749023438,
+        "topCueIndex": -1,
+        "bottomCueIndex": 257
+      }
     }
   ]
 }
