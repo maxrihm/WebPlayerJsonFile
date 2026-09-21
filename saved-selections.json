@@ -134292,6 +134292,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 285
       }
+    },
+    {
+      "id": "404be637-09f7-4a1f-b369-4c4bafd084de",
+      "createdAt": "2026-09-21T22:27:05.949Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/30621eeb-e047-466a-9f58-7d1a3d7b83a5",
+      "audioTrackName": "",
+      "selectedText": "smothering",
+      "selection": {
+        "rawText": "smothering",
+        "startOffset": 11,
+        "endOffset": 21,
+        "cueIndex": 303,
+        "cueStart": 1001.535,
+        "cueEnd": 1003.804,
+        "cueText": "No, you're smothering me.\nOkay, forget it."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 293,
+            "start": 978.812,
+            "end": 981.014,
+            "text": "Friends."
+          },
+          {
+            "index": 294,
+            "start": 981.047,
+            "end": 983.65,
+            "text": "Oh, my God. You just did it\nagain. You just Mosby'd me."
+          },
+          {
+            "index": 295,
+            "start": 983.684,
+            "end": 985.952,
+            "text": "I did not!\nYou did. You little minx."
+          },
+          {
+            "index": 296,
+            "start": 985.986,
+            "end": 988.321,
+            "text": "(SIGHING) Okay, you're right.\nI did just Mosby you."
+          },
+          {
+            "index": 297,
+            "start": 988.354,
+            "end": 990.123,
+            "text": "Why are you so afraid\nof giving this a chance?"
+          },
+          {
+            "index": 298,
+            "start": 990.156,
+            "end": 993.226,
+            "text": "Because I am scared\nof how much I like you."
+          },
+          {
+            "index": 299,
+            "start": 993.259,
+            "end": 996.53,
+            "text": "Whoa! This is a bad idea.\nYou're right.\nThis is a mistake."
+          },
+          {
+            "index": 300,
+            "start": 996.563,
+            "end": 998.198,
+            "text": "Yes. No.\nI love you."
+          },
+          {
+            "index": 301,
+            "start": 998.231,
+            "end": 1000.033,
+            "text": "Let's be friends.\nOkay. Friends, then."
+          },
+          {
+            "index": 302,
+            "start": 1000.066,
+            "end": 1001.502,
+            "text": "I love you.\nLet's get married."
+          },
+          {
+            "index": 303,
+            "start": 1001.535,
+            "end": 1003.804,
+            "text": "No, you're smothering me.\nOkay, forget it."
+          },
+          {
+            "index": 304,
+            "start": 1003.837,
+            "end": 1004.571,
+            "text": "(BOTH EXCLAIMING\nIN FRUSTRATION)"
+          },
+          {
+            "index": 305,
+            "start": 1009.843,
+            "end": 1011.077,
+            "text": "You know what?\nWe can sort this out later."
+          },
+          {
+            "index": 306,
+            "start": 1011.111,
+            "end": 1015.248,
+            "text": "Yeah. That sounds good.\nThat sounds good. Let's go."
+          },
+          {
+            "index": 307,
+            "start": 1015.281,
+            "end": 1017.483,
+            "text": "OLDER TED: It had been a long\nand crazy night,"
+          },
+          {
+            "index": 308,
+            "start": 1017.518,
+            "end": 1019.886,
+            "text": "but that morning,\nagainst all odds,"
+          },
+          {
+            "index": 309,
+            "start": 1019.92,
+            "end": 1021.387,
+            "text": "I made it to my presentation."
+          },
+          {
+            "index": 310,
+            "start": 1021.421,
+            "end": 1026.192,
+            "text": "Here you have it, gentlemen.\nRib Town. Right?"
+          },
+          {
+            "index": 311,
+            "start": 1026.226,
+            "end": 1030.564,
+            "text": "(CHUCKLING) Right?\n(EQUIVOCALLY) Yeah."
+          },
+          {
+            "index": 312,
+            "start": 1030.597,
+            "end": 1036.436,
+            "text": "Ted, listen. You're great,\nand you've done\na real special job here."
+          },
+          {
+            "index": 313,
+            "start": 1036.469,
+            "end": 1040.206,
+            "text": "And you're going to make\nsome other restaurant\nvery happy someday,"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1003.522998046875,
+        "topCueIndex": -1,
+        "bottomCueIndex": 303
+      }
     }
   ]
 }
