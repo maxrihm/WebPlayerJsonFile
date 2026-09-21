@@ -129408,6 +129408,147 @@
         "topCueIndex": -1,
         "bottomCueIndex": 0
       }
+    },
+    {
+      "id": "b6857d89-e963-44ed-bbb5-e136e7d8e437",
+      "createdAt": "2026-09-21T21:50:55.991Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/30621eeb-e047-466a-9f58-7d1a3d7b83a5",
+      "audioTrackName": "",
+      "selectedText": "dead‐end",
+      "selection": {
+        "rawText": "dead‐end",
+        "startOffset": 58,
+        "endOffset": 66,
+        "cueIndex": 8,
+        "cueStart": 26.96,
+        "cueEnd": 30.363,
+        "cueText": "Yeah, I didn't work this hard\nto be stuck in some crappy,\ndead‐end teaching job."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 0,
+            "start": 2.068,
+            "end": 4.905,
+            "text": "OLDER TED: Every architect\ncan point to that one design\nthat changed their career."
+          },
+          {
+            "index": 1,
+            "start": 4.938,
+            "end": 7.974,
+            "text": "For me, it was around the time\nof my 31st birthday."
+          },
+          {
+            "index": 2,
+            "start": 8.008,
+            "end": 12.345,
+            "text": "It wasn't a museum\nor a concert hall\nor a skyscraper."
+          },
+          {
+            "index": 3,
+            "start": 12.378,
+            "end": 14.581,
+            "text": "It was something else."
+          },
+          {
+            "index": 4,
+            "start": 14.615,
+            "end": 18.519,
+            "text": "We're opening a restaurant\ncalled Rib Town, and we\nwant it to be shaped..."
+          },
+          {
+            "index": 5,
+            "start": 18.552,
+            "end": 20.253,
+            "text": "Like a cowboy hat."
+          },
+          {
+            "index": 6,
+            "start": 22.288,
+            "end": 24.858,
+            "text": "Look, I need the work.\nI don't have any\nother options."
+          },
+          {
+            "index": 7,
+            "start": 24.891,
+            "end": 26.927,
+            "text": "Well, there's always\nthat teaching job."
+          },
+          {
+            "index": 8,
+            "start": 26.96,
+            "end": 30.363,
+            "text": "Yeah, I didn't work this hard\nto be stuck in some crappy,\ndead‐end teaching job."
+          },
+          {
+            "index": 9,
+            "start": 30.396,
+            "end": 33.6,
+            "text": "No offense, Lily.\nI got peed on three\ntimes today."
+          },
+          {
+            "index": 10,
+            "start": 33.634,
+            "end": 35.569,
+            "text": "No arguments here."
+          },
+          {
+            "index": 11,
+            "start": 35.602,
+            "end": 39.773,
+            "text": "I just gotta nail this hat\nbuilding, so I'll see you\nall in three days."
+          },
+          {
+            "index": 12,
+            "start": 39.806,
+            "end": 41.274,
+            "text": "OLDER TED: For the next\nthree days, I worked harder"
+          },
+          {
+            "index": 13,
+            "start": 41.307,
+            "end": 44.611,
+            "text": "than I'd ever worked\nin my life."
+          },
+          {
+            "index": 14,
+            "start": 44.645,
+            "end": 47.748,
+            "text": "And I got nowhere."
+          },
+          {
+            "index": 15,
+            "start": 51.752,
+            "end": 53.186,
+            "text": "Hey, Ted, what're you doing?"
+          },
+          {
+            "index": 16,
+            "start": 53.219,
+            "end": 55.756,
+            "text": "Designing a building\nshaped like a hat."
+          },
+          {
+            "index": 17,
+            "start": 55.789,
+            "end": 57.758,
+            "text": "Now a good time to chat?\nNo."
+          },
+          {
+            "index": 18,
+            "start": 57.791,
+            "end": 59.092,
+            "text": "So, what do you think\nof Robin?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 27.29584912109375,
+        "topCueIndex": -1,
+        "bottomCueIndex": 8
+      }
     }
   ]
 }
