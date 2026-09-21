@@ -134139,6 +134139,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 283
       }
+    },
+    {
+      "id": "ff9a626d-e412-4bca-aeaa-93e6a4f74fc6",
+      "createdAt": "2026-09-21T22:25:23.816Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/30621eeb-e047-466a-9f58-7d1a3d7b83a5",
+      "audioTrackName": "",
+      "selectedText": "\"Nip it in the bud,\"",
+      "selection": {
+        "rawText": "\"Nip it in the bud,\"",
+        "startOffset": 26,
+        "endOffset": 46,
+        "cueIndex": 285,
+        "cueStart": 953.954,
+        "cueEnd": 956.523,
+        "cueText": "Maybe my head was saying,\n\"Nip it in the bud,\""
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 275,
+            "start": 925.926,
+            "end": 928.294,
+            "text": "Maybe I want the trouble."
+          },
+          {
+            "index": 276,
+            "start": 928.328,
+            "end": 930.463,
+            "text": "I haven't wanted the\ntrouble in a long time."
+          },
+          {
+            "index": 277,
+            "start": 930.496,
+            "end": 933.767,
+            "text": "But with you, the\ntrouble doesn't seem so"
+          },
+          {
+            "index": 278,
+            "start": 933.8,
+            "end": 934.601,
+            "text": "troubling."
+          },
+          {
+            "index": 279,
+            "start": 936.537,
+            "end": 939.005,
+            "text": "I don't know. I thought..."
+          },
+          {
+            "index": 280,
+            "start": 939.039,
+            "end": 941.875,
+            "text": "I guess I thought you\nfelt the same way."
+          },
+          {
+            "index": 281,
+            "start": 942.208,
+            "end": 944.344,
+            "text": "Maybe I do."
+          },
+          {
+            "index": 282,
+            "start": 944.377,
+            "end": 946.179,
+            "text": "(SIGHS) I don't know."
+          },
+          {
+            "index": 283,
+            "start": 946.212,
+            "end": 950.416,
+            "text": "I'm not exactly the biggest\nconfronter of feelings."
+          },
+          {
+            "index": 284,
+            "start": 950.45,
+            "end": 953.92,
+            "text": "I mean, clearly,\nthere's something between us."
+          },
+          {
+            "index": 285,
+            "start": 953.954,
+            "end": 956.523,
+            "text": "Maybe my head was saying,\n\"Nip it in the bud,\""
+          },
+          {
+            "index": 286,
+            "start": 956.557,
+            "end": 960.393,
+            "text": "because my heart was\nsaying something else."
+          },
+          {
+            "index": 287,
+            "start": 962.328,
+            "end": 965.766,
+            "text": "Look, I have feelings\nfor you, Barney."
+          },
+          {
+            "index": 288,
+            "start": 965.799,
+            "end": 967.167,
+            "text": "(SIGHS)"
+          },
+          {
+            "index": 289,
+            "start": 967.2,
+            "end": 969.002,
+            "text": "Maybe I even love you."
+          },
+          {
+            "index": 290,
+            "start": 969.035,
+            "end": 971.638,
+            "text": "Whoa! This is going\npretty fast,\ndon't you think?"
+          },
+          {
+            "index": 291,
+            "start": 971.672,
+            "end": 974.708,
+            "text": "What?\nWe have a really\ngood friendship going."
+          },
+          {
+            "index": 292,
+            "start": 974.741,
+            "end": 977.578,
+            "text": "Why screw up\na good thing? Friends?"
+          },
+          {
+            "index": 293,
+            "start": 978.812,
+            "end": 981.014,
+            "text": "Friends."
+          },
+          {
+            "index": 294,
+            "start": 981.047,
+            "end": 983.65,
+            "text": "Oh, my God. You just did it\nagain. You just Mosby'd me."
+          },
+          {
+            "index": 295,
+            "start": 983.684,
+            "end": 985.952,
+            "text": "I did not!\nYou did. You little minx."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 956.3279990234375,
+        "topCueIndex": -1,
+        "bottomCueIndex": 285
+      }
     }
   ]
 }
