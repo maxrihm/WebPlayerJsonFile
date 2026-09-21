@@ -132303,6 +132303,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 139
       }
+    },
+    {
+      "id": "9198d83b-2838-4216-85bc-affd1f8bc7e8",
+      "createdAt": "2026-09-21T22:11:20.392Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/30621eeb-e047-466a-9f58-7d1a3d7b83a5",
+      "audioTrackName": "",
+      "selectedText": "aspiring",
+      "selection": {
+        "rawText": "aspiring",
+        "startOffset": 24,
+        "endOffset": 32,
+        "cueIndex": 154,
+        "cueStart": 539.239,
+        "cueEnd": 543.61,
+        "cueText": "How lucky is it that\nan aspiring dancer"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 144,
+            "start": 515.015,
+            "end": 518.619,
+            "text": "Okay. This is it."
+          },
+          {
+            "index": 145,
+            "start": 519.92,
+            "end": 521.221,
+            "text": "Here"
+          },
+          {
+            "index": 146,
+            "start": 521.254,
+            "end": 522.355,
+            "text": "we"
+          },
+          {
+            "index": 147,
+            "start": 522.388,
+            "end": 523.389,
+            "text": "go!"
+          },
+          {
+            "index": 148,
+            "start": 525.291,
+            "end": 527.227,
+            "text": "This is it."
+          },
+          {
+            "index": 149,
+            "start": 527.26,
+            "end": 529.863,
+            "text": "Tracey, Tracey,\ntell Lily what you\njust told me."
+          },
+          {
+            "index": 150,
+            "start": 529.896,
+            "end": 531.331,
+            "text": "Um, that I just\nmoved to New York?"
+          },
+          {
+            "index": 151,
+            "start": 531.364,
+            "end": 533.233,
+            "text": "No, no, but tell her\nhow you got here."
+          },
+          {
+            "index": 152,
+            "start": 533.266,
+            "end": 535.201,
+            "text": "I just got off the\nbus from Iowa."
+          },
+          {
+            "index": 153,
+            "start": 535.235,
+            "end": 539.205,
+            "text": "(ENUNCIATING)\nJust got off the\nbus from Iowa!"
+          },
+          {
+            "index": 154,
+            "start": 539.239,
+            "end": 543.61,
+            "text": "How lucky is it that\nan aspiring dancer"
+          },
+          {
+            "index": 155,
+            "start": 543.644,
+            "end": 545.746,
+            "text": "just off the bus from Iowa"
+          },
+          {
+            "index": 156,
+            "start": 545.779,
+            "end": 550.083,
+            "text": "runs into the producer\nof the Rockettes?"
+          },
+          {
+            "index": 157,
+            "start": 550.116,
+            "end": 552.753,
+            "text": "I feel like I'm in one\nof those classic\nshow‐biz stories."
+          },
+          {
+            "index": 158,
+            "start": 552.786,
+            "end": 556.222,
+            "text": "Oh, honey, you are.\nYou really are."
+          },
+          {
+            "index": 159,
+            "start": 556.256,
+            "end": 558.925,
+            "text": "Hey, Tracey, why don't\nyou make me one of\nthose rum and beers"
+          },
+          {
+            "index": 160,
+            "start": 558.959,
+            "end": 562.428,
+            "text": "that your dad loves so much?\nSure thing."
+          },
+          {
+            "index": 161,
+            "start": 562.462,
+            "end": 563.53,
+            "text": "(LAUGHING)"
+          },
+          {
+            "index": 162,
+            "start": 563.564,
+            "end": 566.567,
+            "text": "Damn it.\nWhat?"
+          },
+          {
+            "index": 163,
+            "start": 566.6,
+            "end": 570.236,
+            "text": "Everybody always says,\n\"Don't tell Lily.\nLily can't keep a secret.\""
+          },
+          {
+            "index": 164,
+            "start": 570.27,
+            "end": 571.905,
+            "text": "And, usually,\nthey're right."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 545.3441599121094,
+        "topCueIndex": -1,
+        "bottomCueIndex": 154
+      }
     }
   ]
 }
