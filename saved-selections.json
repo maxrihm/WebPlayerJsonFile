@@ -130008,6 +130008,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 21
       }
+    },
+    {
+      "id": "072a5903-9cea-4bc0-aca4-2c054d58a770",
+      "createdAt": "2026-09-21T21:55:34.203Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/30621eeb-e047-466a-9f58-7d1a3d7b83a5",
+      "audioTrackName": "",
+      "selectedText": "No can do.",
+      "selection": {
+        "rawText": "No can do.",
+        "startOffset": 0,
+        "endOffset": 10,
+        "cueIndex": 40,
+        "cueStart": 138.572,
+        "cueEnd": 142.208,
+        "cueText": "No can do. Presentation is\ntomorrow. Hat buildings\ndon't design themselves."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 30,
+            "start": 92.826,
+            "end": 96.262,
+            "text": "Tell the suit how you feel.\nOkay."
+          },
+          {
+            "index": 31,
+            "start": 97.798,
+            "end": 101.301,
+            "text": "But, Ted, remember\nthat that was your\nanswer because..."
+          },
+          {
+            "index": 32,
+            "start": 104.505,
+            "end": 106.306,
+            "text": "The suit is Robin."
+          },
+          {
+            "index": 33,
+            "start": 106.339,
+            "end": 107.608,
+            "text": "I know!"
+          },
+          {
+            "index": 34,
+            "start": 107.641,
+            "end": 108.441,
+            "text": "(MIMICKING EXPLOSION)"
+          },
+          {
+            "index": 35,
+            "start": 108.474,
+            "end": 110.31,
+            "text": "Right?"
+          },
+          {
+            "index": 36,
+            "start": 110.343,
+            "end": 114.18,
+            "text": "I'm with you, buddy.\nYou are now."
+          },
+          {
+            "index": 37,
+            "start": 114.214,
+            "end": 116.683,
+            "text": "Because I explained it\nto you.\nWhat are you..."
+          },
+          {
+            "index": 38,
+            "start": 132.666,
+            "end": 135.936,
+            "text": "Come on, dude, you've been\nat this for three days\nwithout a break."
+          },
+          {
+            "index": 39,
+            "start": 135.969,
+            "end": 138.539,
+            "text": "Now, it's your birthday.\nCome up to the roof\nand have a beer with me."
+          },
+          {
+            "index": 40,
+            "start": 138.572,
+            "end": 142.208,
+            "text": "No can do. Presentation is\ntomorrow. Hat buildings\ndon't design themselves."
+          },
+          {
+            "index": 41,
+            "start": 142.242,
+            "end": 144.778,
+            "text": "It's a rib joint for\nfat tourists."
+          },
+          {
+            "index": 42,
+            "start": 144.811,
+            "end": 147.147,
+            "text": "Just make sure the doors\nare wide and the chairs\nare reinforced."
+          },
+          {
+            "index": 43,
+            "start": 147.18,
+            "end": 150.283,
+            "text": "Now, birthday beer\non the roof. Let's go!"
+          },
+          {
+            "index": 44,
+            "start": 150.316,
+            "end": 152.385,
+            "text": "Why do you want me to come up\nto the roof so bad?"
+          },
+          {
+            "index": 45,
+            "start": 152.418,
+            "end": 154.12,
+            "text": "What, are you throwing me\na surprise party?"
+          },
+          {
+            "index": 46,
+            "start": 154.154,
+            "end": 156.189,
+            "text": "(SCOFFING) What? Come on."
+          },
+          {
+            "index": 47,
+            "start": 156.222,
+            "end": 158.892,
+            "text": "Ted, we threw you a surprise\nparty last year, okay?"
+          },
+          {
+            "index": 48,
+            "start": 158.925,
+            "end": 161.494,
+            "text": "You don't get two surprise\nparties in a row."
+          },
+          {
+            "index": 49,
+            "start": 161.528,
+            "end": 164.364,
+            "text": "The fact that anyone\nshowed up to the first one\nwas surprise enough."
+          },
+          {
+            "index": 50,
+            "start": 164.397,
+            "end": 168.669,
+            "text": "Right? Two surprise parties\nin a row! That is rich!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 139.4987819824219,
+        "topCueIndex": -1,
+        "bottomCueIndex": 40
+      }
     }
   ]
 }
