@@ -133833,6 +133833,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 257
       }
+    },
+    {
+      "id": "5103f61f-7e66-401b-880a-a6cb9bec78b9",
+      "createdAt": "2026-09-21T22:23:38.456Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/30621eeb-e047-466a-9f58-7d1a3d7b83a5",
+      "audioTrackName": "",
+      "selectedText": "knock it off.",
+      "selection": {
+        "rawText": "knock it off.",
+        "startOffset": 14,
+        "endOffset": 27,
+        "cueIndex": 269,
+        "cueStart": 906.807,
+        "cueEnd": 909.409,
+        "cueText": "Okay, you can knock it off.\nLily told me."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 259,
+            "start": 874.14,
+            "end": 876.442,
+            "text": "Can I go, please?\nSure, you can go."
+          },
+          {
+            "index": 260,
+            "start": 876.476,
+            "end": 879.613,
+            "text": "But remember,\nbuddy, \"baa\" means \"baa.\""
+          },
+          {
+            "index": 261,
+            "start": 879.646,
+            "end": 883.049,
+            "text": "(LAUGHING)"
+          },
+          {
+            "index": 262,
+            "start": 883.083,
+            "end": 886.086,
+            "text": "Great. Great. Now I'm\ngoing to be late for\nmy presentation."
+          },
+          {
+            "index": 263,
+            "start": 886.119,
+            "end": 887.688,
+            "text": "Thanks a lot, Mr. Goat."
+          },
+          {
+            "index": 264,
+            "start": 887.721,
+            "end": 891.024,
+            "text": "(CHUCKLES) Mr. Goat?\nTed, that goat's a girl."
+          },
+          {
+            "index": 265,
+            "start": 891.057,
+            "end": 893.627,
+            "text": "Her name's Missy.\nYou got beat up by a girl."
+          },
+          {
+            "index": 266,
+            "start": 898.999,
+            "end": 900,
+            "text": "(LAUGHING)"
+          },
+          {
+            "index": 267,
+            "start": 901.167,
+            "end": 904.437,
+            "text": "So. You're in love with me.\nWhat?"
+          },
+          {
+            "index": 268,
+            "start": 904.47,
+            "end": 906.773,
+            "text": "Oh, yeah.\nVery much."
+          },
+          {
+            "index": 269,
+            "start": 906.807,
+            "end": 909.409,
+            "text": "Okay, you can knock it off.\nLily told me."
+          },
+          {
+            "index": 270,
+            "start": 909.442,
+            "end": 913.146,
+            "text": "Oh, damn it, Lily!\nI can't believe\nyou would do that."
+          },
+          {
+            "index": 271,
+            "start": 913.179,
+            "end": 916.482,
+            "text": "(SIGHS) It's just...\nLike, I care about you,\nBarney."
+          },
+          {
+            "index": 272,
+            "start": 916.517,
+            "end": 920.386,
+            "text": "And this kind of stuff,\nthe emotional stuff?"
+          },
+          {
+            "index": 273,
+            "start": 920.42,
+            "end": 923.489,
+            "text": "It's not your thing.\nI thought I'd save you\nthe trouble."
+          },
+          {
+            "index": 274,
+            "start": 923.524,
+            "end": 925.892,
+            "text": "Maybe I don't want to\nbe saved the trouble."
+          },
+          {
+            "index": 275,
+            "start": 925.926,
+            "end": 928.294,
+            "text": "Maybe I want the trouble."
+          },
+          {
+            "index": 276,
+            "start": 928.328,
+            "end": 930.463,
+            "text": "I haven't wanted the\ntrouble in a long time."
+          },
+          {
+            "index": 277,
+            "start": 930.496,
+            "end": 933.767,
+            "text": "But with you, the\ntrouble doesn't seem so"
+          },
+          {
+            "index": 278,
+            "start": 933.8,
+            "end": 934.601,
+            "text": "troubling."
+          },
+          {
+            "index": 279,
+            "start": 936.537,
+            "end": 939.005,
+            "text": "I don't know. I thought..."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 909.4584860839843,
+        "topCueIndex": -1,
+        "bottomCueIndex": 269
+      }
     }
   ]
 }
