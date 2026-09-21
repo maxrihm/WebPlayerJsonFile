@@ -131385,6 +131385,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 92
       }
+    },
+    {
+      "id": "d605d967-7cad-450d-98b4-99c0527c207f",
+      "createdAt": "2026-09-21T22:04:52.010Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/30621eeb-e047-466a-9f58-7d1a3d7b83a5",
+      "audioTrackName": "",
+      "selectedText": "star‐spangled",
+      "selection": {
+        "rawText": "star‐spangled",
+        "startOffset": 34,
+        "endOffset": 47,
+        "cueIndex": 91,
+        "cueStart": 308.141,
+        "cueEnd": 311.177,
+        "cueText": "When Evel Knievel sat astride\nhis star‐spangled rocket"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 81,
+            "start": 278.645,
+            "end": 281.114,
+            "text": "(SOFTLY) Okay. Okay."
+          },
+          {
+            "index": 82,
+            "start": 281.147,
+            "end": 284.685,
+            "text": "And in the years\nthat followed, he\nkept almost jumping."
+          },
+          {
+            "index": 83,
+            "start": 284.718,
+            "end": 286.252,
+            "text": "Okay."
+          },
+          {
+            "index": 84,
+            "start": 286.286,
+            "end": 287.487,
+            "text": "Okay!"
+          },
+          {
+            "index": 85,
+            "start": 291.625,
+            "end": 294.027,
+            "text": "But each time,\nwithout fail..."
+          },
+          {
+            "index": 86,
+            "start": 294.06,
+            "end": 296.597,
+            "text": "(SHIVERING) Okay.\nHere we go."
+          },
+          {
+            "index": 87,
+            "start": 296.63,
+            "end": 298.498,
+            "text": "...he didn't jump."
+          },
+          {
+            "index": 88,
+            "start": 298.532,
+            "end": 302.335,
+            "text": "But don't worry.\n'Cause if I can make\nthis jump tonight,"
+          },
+          {
+            "index": 89,
+            "start": 302.368,
+            "end": 304.437,
+            "text": "it's totally gonna\nsave the party."
+          },
+          {
+            "index": 90,
+            "start": 304.47,
+            "end": 308.108,
+            "text": "Honey, please get\ndown from there.\nLily!"
+          },
+          {
+            "index": 91,
+            "start": 308.141,
+            "end": 311.177,
+            "text": "When Evel Knievel sat astride\nhis star‐spangled rocket"
+          },
+          {
+            "index": 92,
+            "start": 311.211,
+            "end": 313.279,
+            "text": "on the rim of\nSnake River Canyon,"
+          },
+          {
+            "index": 93,
+            "start": 313.313,
+            "end": 316.617,
+            "text": "do you think his wife said,\n\"Honey, get down from there\"?"
+          },
+          {
+            "index": 94,
+            "start": 316.65,
+            "end": 322.523,
+            "text": "For the last time,\nI am not Linda Knievel!\nI will never be Linda Knievel!"
+          },
+          {
+            "index": 95,
+            "start": 324.024,
+            "end": 326.192,
+            "text": "You don't need to remind me."
+          },
+          {
+            "index": 96,
+            "start": 335.602,
+            "end": 338.739,
+            "text": "Marshall, please,\ndon't do this.\nPlease, don't jump."
+          },
+          {
+            "index": 97,
+            "start": 338.772,
+            "end": 340.574,
+            "text": "I'm sorry, Lily,\nbut I gotta do this."
+          },
+          {
+            "index": 98,
+            "start": 340.607,
+            "end": 343.343,
+            "text": "You can't do this.\nWhy?"
+          },
+          {
+            "index": 99,
+            "start": 343.376,
+            "end": 346.88,
+            "text": "You want a reason?\nI'll give you a reason."
+          },
+          {
+            "index": 100,
+            "start": 346.913,
+            "end": 348.414,
+            "text": "I'm pregnant."
+          },
+          {
+            "index": 101,
+            "start": 349.382,
+            "end": 352.919,
+            "text": "Oh, my God!\nOh, my God, really?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 313.88581005859373,
+        "topCueIndex": -1,
+        "bottomCueIndex": 91
+      }
     }
   ]
 }
