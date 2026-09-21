@@ -134445,6 +134445,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 303
       }
+    },
+    {
+      "id": "ac554bb5-1f6f-4369-b424-363e892cc1b7",
+      "createdAt": "2026-09-21T22:36:27.327Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/30621eeb-e047-466a-9f58-7d1a3d7b83a5",
+      "audioTrackName": "",
+      "selectedText": "still on?",
+      "selection": {
+        "rawText": "still on?",
+        "startOffset": 8,
+        "endOffset": 17,
+        "cueIndex": 338,
+        "cueStart": 1120.353,
+        "cueEnd": 1123.023,
+        "cueText": "Is that still on?\nGood for you."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 328,
+            "start": 1088.454,
+            "end": 1092.559,
+            "text": "You're like that goat\nwith the washcloth.\nYou want it so bad,"
+          },
+          {
+            "index": 329,
+            "start": 1092.593,
+            "end": 1094.961,
+            "text": "and every time the world\ntries to take it away\nfrom you,"
+          },
+          {
+            "index": 330,
+            "start": 1094.995,
+            "end": 1097.764,
+            "text": "you keep grabbing it.\nBut you know what?"
+          },
+          {
+            "index": 331,
+            "start": 1097.798,
+            "end": 1101.167,
+            "text": "It's just a washcloth.\nWhy do you even want it?"
+          },
+          {
+            "index": 332,
+            "start": 1101.201,
+            "end": 1104.538,
+            "text": "Because I have to be\nan architect. That's..."
+          },
+          {
+            "index": 333,
+            "start": 1105.471,
+            "end": 1107.173,
+            "text": "That's the plan."
+          },
+          {
+            "index": 334,
+            "start": 1107.207,
+            "end": 1110.31,
+            "text": "Oh, screw the plan.\nI planned on being\na famous artist."
+          },
+          {
+            "index": 335,
+            "start": 1110.343,
+            "end": 1113.146,
+            "text": "Marshall planned on being\nan environmental lawyer."
+          },
+          {
+            "index": 336,
+            "start": 1113.179,
+            "end": 1115.582,
+            "text": "Robin planned on\nbeing a TV reporter."
+          },
+          {
+            "index": 337,
+            "start": 1115.616,
+            "end": 1120.32,
+            "text": "Uh, I am a TV reporter.\nI'm on every morning\nat 4:00 a. m."
+          },
+          {
+            "index": 338,
+            "start": 1120.353,
+            "end": 1123.023,
+            "text": "Is that still on?\nGood for you."
+          },
+          {
+            "index": 339,
+            "start": 1123.056,
+            "end": 1125.692,
+            "text": "Okay, somebody\nwatch it, please."
+          },
+          {
+            "index": 340,
+            "start": 1125.726,
+            "end": 1127.661,
+            "text": "Barney planned\non being a violinist."
+          },
+          {
+            "index": 341,
+            "start": 1127.694,
+            "end": 1130.33,
+            "text": "Lily?\nDon't tell me things."
+          },
+          {
+            "index": 342,
+            "start": 1130.363,
+            "end": 1134.334,
+            "text": "Look, you can't design\nyour life like a building."
+          },
+          {
+            "index": 343,
+            "start": 1134.367,
+            "end": 1139.372,
+            "text": "It doesn't work that way.\nYou just have to live it,\nand it will design itself."
+          },
+          {
+            "index": 344,
+            "start": 1139.405,
+            "end": 1141.508,
+            "text": "So, what, I should\njust do nothing?"
+          },
+          {
+            "index": 345,
+            "start": 1141.542,
+            "end": 1146.312,
+            "text": "No. Listen to what the world\nis telling you to do\nand take the leap."
+          },
+          {
+            "index": 346,
+            "start": 1154.688,
+            "end": 1156.156,
+            "text": "You're right."
+          },
+          {
+            "index": 347,
+            "start": 1156.189,
+            "end": 1157.991,
+            "text": "You're absolutely right."
+          },
+          {
+            "index": 348,
+            "start": 1159.593,
+            "end": 1161.895,
+            "text": "(VOICE BREAKING)\nI love you, Lily."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1123.5657150878906,
+        "topCueIndex": -1,
+        "bottomCueIndex": 338
+      }
     }
   ]
 }
