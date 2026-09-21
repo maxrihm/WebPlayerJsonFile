@@ -133221,6 +133221,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 183
       }
+    },
+    {
+      "id": "6087d409-c55b-4338-9013-97ea10d93527",
+      "createdAt": "2026-09-21T22:15:39.458Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/30621eeb-e047-466a-9f58-7d1a3d7b83a5",
+      "audioTrackName": "",
+      "selectedText": "sludge",
+      "selection": {
+        "rawText": "sludge",
+        "startOffset": 37,
+        "endOffset": 43,
+        "cueIndex": 195,
+        "cueStart": 653.854,
+        "cueEnd": 657.724,
+        "cueText": "Whatever it is that pumps\nthat black sludge\nthrough his veins."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 185,
+            "start": 627.127,
+            "end": 629.095,
+            "text": "(SIGHS) What am I\ngoing to do?"
+          },
+          {
+            "index": 186,
+            "start": 629.129,
+            "end": 632.465,
+            "text": "I don't know.\nWhat are you going to do?"
+          },
+          {
+            "index": 187,
+            "start": 632.498,
+            "end": 635.301,
+            "text": "I'm going to marry Barney\nin a big church wedding."
+          },
+          {
+            "index": 188,
+            "start": 635.335,
+            "end": 637.37,
+            "text": "And we're going to move\nto some sleepy\nNew Hampshire town"
+          },
+          {
+            "index": 189,
+            "start": 637.403,
+            "end": 638.639,
+            "text": "and open\na bed‐and‐breakfast."
+          },
+          {
+            "index": 190,
+            "start": 638.672,
+            "end": 640.14,
+            "text": "Aw!\nOh!"
+          },
+          {
+            "index": 191,
+            "start": 640.173,
+            "end": 643.109,
+            "text": "Really?\nNo! It's Barney!"
+          },
+          {
+            "index": 192,
+            "start": 643.143,
+            "end": 646.98,
+            "text": "(IN MORE NEUTRAL VOICE)\nI mean, it's Barney."
+          },
+          {
+            "index": 193,
+            "start": 647.013,
+            "end": 650.951,
+            "text": "But it's Barney.\nI gotta tell him no."
+          },
+          {
+            "index": 194,
+            "start": 650.984,
+            "end": 653.82,
+            "text": "Oh, man, you're\ngoing to break his..."
+          },
+          {
+            "index": 195,
+            "start": 653.854,
+            "end": 657.724,
+            "text": "Whatever it is that pumps\nthat black sludge\nthrough his veins."
+          },
+          {
+            "index": 196,
+            "start": 657.758,
+            "end": 659.993,
+            "text": "Crap. You're right."
+          },
+          {
+            "index": 197,
+            "start": 660.026,
+            "end": 663.897,
+            "text": "The first time Barney\nexpresses feelings for\na girl, and she rejects him?"
+          },
+          {
+            "index": 198,
+            "start": 663.93,
+            "end": 666.399,
+            "text": "(SIGHS) And not just\nany girl. I mean..."
+          },
+          {
+            "index": 199,
+            "start": 667.433,
+            "end": 669.235,
+            "text": "It will destroy him."
+          },
+          {
+            "index": 200,
+            "start": 670.17,
+            "end": 672.338,
+            "text": "Okay, well, first of all..."
+          },
+          {
+            "index": 201,
+            "start": 675.408,
+            "end": 676.643,
+            "text": "(GRUNTS)"
+          },
+          {
+            "index": 202,
+            "start": 676.677,
+            "end": 679.012,
+            "text": "Second of all,\nthere is a maneuver\nyou can try."
+          },
+          {
+            "index": 203,
+            "start": 679.045,
+            "end": 681.381,
+            "text": "It's high‐risk, but it's\nalso high‐reward."
+          },
+          {
+            "index": 204,
+            "start": 681.414,
+            "end": 685.185,
+            "text": "For lack of a better term,\nI'm going to call it"
+          },
+          {
+            "index": 205,
+            "start": 685.218,
+            "end": 687.153,
+            "text": "\"The Mosby.\"\nThe Mosby?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 658.2120859375,
+        "topCueIndex": -1,
+        "bottomCueIndex": 195
+      }
     }
   ]
 }
