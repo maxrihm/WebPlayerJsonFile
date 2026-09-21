@@ -132609,6 +132609,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 166
       }
+    },
+    {
+      "id": "33f6b66a-4d7c-4849-826e-8ae21e802a70",
+      "createdAt": "2026-09-21T22:13:04.807Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/30621eeb-e047-466a-9f58-7d1a3d7b83a5",
+      "audioTrackName": "",
+      "selectedText": "spill the beans!",
+      "selection": {
+        "rawText": "spill the beans!",
+        "startOffset": 49,
+        "endOffset": 65,
+        "cueIndex": 167,
+        "cueStart": 576.943,
+        "cueEnd": 581.648,
+        "cueText": "and you force me to pull\nan old classic Lily\nand spill the beans!"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 157,
+            "start": 550.116,
+            "end": 552.753,
+            "text": "I feel like I'm in one\nof those classic\nshow‐biz stories."
+          },
+          {
+            "index": 158,
+            "start": 552.786,
+            "end": 556.222,
+            "text": "Oh, honey, you are.\nYou really are."
+          },
+          {
+            "index": 159,
+            "start": 556.256,
+            "end": 558.925,
+            "text": "Hey, Tracey, why don't\nyou make me one of\nthose rum and beers"
+          },
+          {
+            "index": 160,
+            "start": 558.959,
+            "end": 562.428,
+            "text": "that your dad loves so much?\nSure thing."
+          },
+          {
+            "index": 161,
+            "start": 562.462,
+            "end": 563.53,
+            "text": "(LAUGHING)"
+          },
+          {
+            "index": 162,
+            "start": 563.564,
+            "end": 566.567,
+            "text": "Damn it.\nWhat?"
+          },
+          {
+            "index": 163,
+            "start": 566.6,
+            "end": 570.236,
+            "text": "Everybody always says,\n\"Don't tell Lily.\nLily can't keep a secret.\""
+          },
+          {
+            "index": 164,
+            "start": 570.27,
+            "end": 571.905,
+            "text": "And, usually,\nthey're right."
+          },
+          {
+            "index": 165,
+            "start": 571.938,
+            "end": 574.908,
+            "text": "But this time,\nI kept the secret."
+          },
+          {
+            "index": 166,
+            "start": 574.941,
+            "end": 576.91,
+            "text": "And then you come\nalong with this crap"
+          },
+          {
+            "index": 167,
+            "start": 576.943,
+            "end": 581.648,
+            "text": "and you force me to pull\nan old classic Lily\nand spill the beans!"
+          },
+          {
+            "index": 168,
+            "start": 581.682,
+            "end": 583.584,
+            "text": "What beans? There's beans?"
+          },
+          {
+            "index": 169,
+            "start": 583.617,
+            "end": 586.452,
+            "text": "(SIGHS) There's beans."
+          },
+          {
+            "index": 170,
+            "start": 586.486,
+            "end": 588.254,
+            "text": "The suit is Robin."
+          },
+          {
+            "index": 171,
+            "start": 588.288,
+            "end": 589.155,
+            "text": "I know!"
+          },
+          {
+            "index": 172,
+            "start": 589.189,
+            "end": 590.456,
+            "text": "(MIMICKING EXPLOSION)"
+          },
+          {
+            "index": 173,
+            "start": 590.49,
+            "end": 592.325,
+            "text": "Right?"
+          },
+          {
+            "index": 174,
+            "start": 592.358,
+            "end": 595.996,
+            "text": "I'm with you, buddy.\nYou are now."
+          },
+          {
+            "index": 175,
+            "start": 596.029,
+            "end": 598.599,
+            "text": "Because I explained it\nto you.\nWhat are you..."
+          },
+          {
+            "index": 176,
+            "start": 600.634,
+            "end": 602.102,
+            "text": "BARNEY: There you go."
+          },
+          {
+            "index": 177,
+            "start": 607.608,
+            "end": 609.242,
+            "text": "(SIGHS) Oh, crap."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 581.5415969238281,
+        "topCueIndex": -1,
+        "bottomCueIndex": 167
+      }
     }
   ]
 }
