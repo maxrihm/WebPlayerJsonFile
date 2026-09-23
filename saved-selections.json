@@ -136587,6 +136587,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 109
       }
+    },
+    {
+      "id": "083d0b6b-6f22-49d9-9654-7c806a987cc0",
+      "createdAt": "2026-09-23T21:52:23.758Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/62c613cf-c334-4e02-a859-3725775b04a1",
+      "audioTrackName": "",
+      "selectedText": "cheer",
+      "selection": {
+        "rawText": "cheer",
+        "startOffset": 38,
+        "endOffset": 43,
+        "cueIndex": 133,
+        "cueStart": 361.027,
+        "cueEnd": 363.029,
+        "cueText": "you had a classroom full\nof people to cheer you on"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 123,
+            "start": 337.938,
+            "end": 339.072,
+            "text": "(PANTING) Oh, God."
+          },
+          {
+            "index": 124,
+            "start": 339.105,
+            "end": 341.374,
+            "text": "Barney, it was awful.\nI was teaching..."
+          },
+          {
+            "index": 125,
+            "start": 341.407,
+            "end": 342.909,
+            "text": "Shh! Ted, now's\nnot a good time."
+          },
+          {
+            "index": 126,
+            "start": 342.943,
+            "end": 344.377,
+            "text": "Where do you\nkeep your condoms?"
+          },
+          {
+            "index": 127,
+            "start": 346.68,
+            "end": 349.082,
+            "text": "I am freaking out.\nI don't think I can do this."
+          },
+          {
+            "index": 128,
+            "start": 349.115,
+            "end": 352.686,
+            "text": "Okay, look,\nmistake number one was\ntaking that girl's question."
+          },
+          {
+            "index": 129,
+            "start": 352.719,
+            "end": 354.788,
+            "text": "You don't take\nquestions on the first day."
+          },
+          {
+            "index": 130,
+            "start": 354.821,
+            "end": 356.156,
+            "text": "It shows weakness."
+          },
+          {
+            "index": 131,
+            "start": 356.189,
+            "end": 359.693,
+            "text": "Mistake number two was\nyou should've hit that."
+          },
+          {
+            "index": 132,
+            "start": 359.726,
+            "end": 360.994,
+            "text": "Dude, your pants\nwere already off,"
+          },
+          {
+            "index": 133,
+            "start": 361.027,
+            "end": 363.029,
+            "text": "you had a classroom full\nof people to cheer you on"
+          },
+          {
+            "index": 134,
+            "start": 363.063,
+            "end": 365.431,
+            "text": "and you can't knock her up\n'cause it's a dream."
+          },
+          {
+            "index": 135,
+            "start": 365.465,
+            "end": 367.133,
+            "text": "Class dismissed."
+          },
+          {
+            "index": 136,
+            "start": 367.167,
+            "end": 369.503,
+            "text": "Mistake number three,\ndude, where was the hat?"
+          },
+          {
+            "index": 137,
+            "start": 369.536,
+            "end": 372.205,
+            "text": "Because if you're\nnot going to wear it,\nI'm taking it back."
+          },
+          {
+            "index": 138,
+            "start": 372.238,
+            "end": 375.441,
+            "text": "I think what\nBarney's saying is that\ndefinitions are important."
+          },
+          {
+            "index": 139,
+            "start": 375.475,
+            "end": 377.01,
+            "text": "You're their teacher,\nnot their friend."
+          },
+          {
+            "index": 140,
+            "start": 377.043,
+            "end": 379.045,
+            "text": "Exactly."
+          },
+          {
+            "index": 141,
+            "start": 379.079,
+            "end": 380.714,
+            "text": "If people don't\nknow their place,\nnobody's happy."
+          },
+          {
+            "index": 142,
+            "start": 380.747,
+            "end": 382.248,
+            "text": "Amen."
+          },
+          {
+            "index": 143,
+            "start": 382.282,
+            "end": 383.75,
+            "text": "You have to\nmake things clear."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 362.1479450683594,
+        "topCueIndex": -1,
+        "bottomCueIndex": 133
+      }
     }
   ]
 }
