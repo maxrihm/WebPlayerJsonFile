@@ -135516,6 +135516,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 53
       }
+    },
+    {
+      "id": "28e20600-880b-43d2-b77e-f7746b6fc500",
+      "createdAt": "2026-09-23T21:43:59.774Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/62c613cf-c334-4e02-a859-3725775b04a1",
+      "audioTrackName": "",
+      "selectedText": "fever!",
+      "selection": {
+        "rawText": "fever!",
+        "startOffset": 43,
+        "endOffset": 49,
+        "cueIndex": 67,
+        "cueStart": 178.879,
+        "cueEnd": 181.381,
+        "cueText": "I'm so excited\nabout this whip!\nI got whip fever!"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 57,
+            "start": 157.19,
+            "end": 159.225,
+            "text": "Even better,\nseeing him naked. What!"
+          },
+          {
+            "index": 58,
+            "start": 159.259,
+            "end": 161.828,
+            "text": "(BOTH EXCLAIM)"
+          },
+          {
+            "index": 59,
+            "start": 161.862,
+            "end": 163.664,
+            "text": "I should go, too.\nI hooked up with this\nChinese girl last night,"
+          },
+          {
+            "index": 60,
+            "start": 163.697,
+            "end": 164.565,
+            "text": "and I don't know,\nit's weird."
+          },
+          {
+            "index": 61,
+            "start": 164.598,
+            "end": 166.032,
+            "text": "I already\nfeel like seconds."
+          },
+          {
+            "index": 62,
+            "start": 166.066,
+            "end": 167.534,
+            "text": "(BOTH EXCLAIM)"
+          },
+          {
+            "index": 63,
+            "start": 169.369,
+            "end": 171.672,
+            "text": "Okay, Ted,\nyou got first whip!"
+          },
+          {
+            "index": 64,
+            "start": 171.705,
+            "end": 173.306,
+            "text": "All right."
+          },
+          {
+            "index": 65,
+            "start": 173.339,
+            "end": 177.21,
+            "text": "Hey, dummy.\nWhat did I tell you\nabout smoking in here?"
+          },
+          {
+            "index": 66,
+            "start": 177.243,
+            "end": 178.845,
+            "text": "Make him whip the habit!"
+          },
+          {
+            "index": 67,
+            "start": 178.879,
+            "end": 181.381,
+            "text": "I'm so excited\nabout this whip!\nI got whip fever!"
+          },
+          {
+            "index": 68,
+            "start": 181.414,
+            "end": 184.785,
+            "text": "Just whip him, Ted!\nDon't even aim!\nJust whip him!"
+          },
+          {
+            "index": 69,
+            "start": 184.818,
+            "end": 185.852,
+            "text": "I'm so sorry."
+          },
+          {
+            "index": 70,
+            "start": 185.886,
+            "end": 187.187,
+            "text": "It's just the whip's\nnot a toy, Ted."
+          },
+          {
+            "index": 71,
+            "start": 187.22,
+            "end": 189.69,
+            "text": "There's such a thing as\ncommon sense, you know?"
+          },
+          {
+            "index": 72,
+            "start": 189.723,
+            "end": 191.024,
+            "text": "Hey, you can whip me\nif you want."
+          },
+          {
+            "index": 73,
+            "start": 191.057,
+            "end": 192.526,
+            "text": "I will, some other time."
+          },
+          {
+            "index": 74,
+            "start": 198.331,
+            "end": 199.566,
+            "text": "(WHOOPS)"
+          },
+          {
+            "index": 75,
+            "start": 213.68,
+            "end": 216.617,
+            "text": "So, how long has\nthis been going on?"
+          },
+          {
+            "index": 76,
+            "start": 216.65,
+            "end": 218.719,
+            "text": "(SIGHING) All summer."
+          },
+          {
+            "index": 77,
+            "start": 218.752,
+            "end": 221.321,
+            "text": "I knew it!\nI knew it!\nI knew it!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 181.84599096679688,
+        "topCueIndex": -1,
+        "bottomCueIndex": 67
+      }
     }
   ]
 }
