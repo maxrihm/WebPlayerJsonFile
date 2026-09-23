@@ -136434,6 +136434,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 103
       }
+    },
+    {
+      "id": "2c76c2d8-1fea-4c25-917a-64a8d04bdc79",
+      "createdAt": "2026-09-23T21:50:24.385Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/62c613cf-c334-4e02-a859-3725775b04a1",
+      "audioTrackName": "",
+      "selectedText": "peer",
+      "selection": {
+        "rawText": "peer",
+        "startOffset": 17,
+        "endOffset": 21,
+        "cueIndex": 109,
+        "cueStart": 302.603,
+        "cueEnd": 306.507,
+        "cueText": "\"Who's this\ncool peer of mine\nup in front of the class?\""
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 99,
+            "start": 276.677,
+            "end": 278.879,
+            "text": "Guys, you can't\njust keep hooking up"
+          },
+          {
+            "index": 100,
+            "start": 278.912,
+            "end": 281.515,
+            "text": "and not at least\ntry and figure out\nwhat you mean to each other."
+          },
+          {
+            "index": 101,
+            "start": 281.548,
+            "end": 283.083,
+            "text": "Yeah, we knew\nyou would say that."
+          },
+          {
+            "index": 102,
+            "start": 283.116,
+            "end": 285.385,
+            "text": "That's why we\nkept it a secret."
+          },
+          {
+            "index": 103,
+            "start": 285.418,
+            "end": 288.188,
+            "text": "Well, that and the fact that\nelaborate lies really\nturn us on."
+          },
+          {
+            "index": 104,
+            "start": 288.221,
+            "end": 291.157,
+            "text": "No, no, no. No."
+          },
+          {
+            "index": 105,
+            "start": 291.191,
+            "end": 294.194,
+            "text": "You need to\ndefine the relationship.\nYou need to have the talk."
+          },
+          {
+            "index": 106,
+            "start": 294.227,
+            "end": 296.697,
+            "text": "Or... Or..."
+          },
+          {
+            "index": 107,
+            "start": 296.73,
+            "end": 297.964,
+            "text": "(BOTH MOANING)"
+          },
+          {
+            "index": 108,
+            "start": 300.701,
+            "end": 302.569,
+            "text": "I know what\nyou're all thinking."
+          },
+          {
+            "index": 109,
+            "start": 302.603,
+            "end": 306.507,
+            "text": "\"Who's this\ncool peer of mine\nup in front of the class?\""
+          },
+          {
+            "index": 110,
+            "start": 306.54,
+            "end": 309.442,
+            "text": "Well, I know the board says\n\"Professor Mosby,\"\nbut to you,"
+          },
+          {
+            "index": 111,
+            "start": 310.877,
+            "end": 312.412,
+            "text": "I'm Ted."
+          },
+          {
+            "index": 112,
+            "start": 314.414,
+            "end": 316.817,
+            "text": "Question. Awesome. Hit it."
+          },
+          {
+            "index": 113,
+            "start": 316.85,
+            "end": 319.319,
+            "text": "Yeah, here's my question, Ted,"
+          },
+          {
+            "index": 114,
+            "start": 319.352,
+            "end": 320.987,
+            "text": "who the hell do\nyou think you are?"
+          },
+          {
+            "index": 115,
+            "start": 321.888,
+            "end": 323.724,
+            "text": "Yeah, \"Ted.\""
+          },
+          {
+            "index": 116,
+            "start": 323.757,
+            "end": 326.893,
+            "text": "We're supposed\nto learn from you?\nYou failed as an architect."
+          },
+          {
+            "index": 117,
+            "start": 326.927,
+            "end": 328.494,
+            "text": "Well...\nAnd if you're a professor,"
+          },
+          {
+            "index": 118,
+            "start": 328.529,
+            "end": 329.896,
+            "text": "where's your\nhat and your whip?"
+          },
+          {
+            "index": 119,
+            "start": 329.93,
+            "end": 331.164,
+            "text": "They're at home. I..."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 306.9012770996094,
+        "topCueIndex": -1,
+        "bottomCueIndex": 109
+      }
     }
   ]
 }
