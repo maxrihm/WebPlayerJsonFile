@@ -136740,6 +136740,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 133
       }
+    },
+    {
+      "id": "8d211d59-a7c1-4f4b-95eb-5945af47f029",
+      "createdAt": "2026-09-23T21:58:06.122Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/62c613cf-c334-4e02-a859-3725775b04a1",
+      "audioTrackName": "",
+      "selectedText": "thought of",
+      "selection": {
+        "rawText": "thought of",
+        "startOffset": 7,
+        "endOffset": 17,
+        "cueIndex": 171,
+        "cueStart": 451.117,
+        "cueEnd": 452.953,
+        "cueText": "I just thought of a reason."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 161,
+            "start": 422.756,
+            "end": 425.291,
+            "text": "I know you're a hockey fan,\nso I was thinking..."
+          },
+          {
+            "index": 162,
+            "start": 425.325,
+            "end": 426.492,
+            "text": "(STAMMERING)"
+          },
+          {
+            "index": 163,
+            "start": 427.994,
+            "end": 430.296,
+            "text": "What do I have to do?\nPut a gun to your head?"
+          },
+          {
+            "index": 164,
+            "start": 432.633,
+            "end": 435.435,
+            "text": "Buy you a six‐pack?\nCome on, Brad, that's..."
+          },
+          {
+            "index": 165,
+            "start": 435.468,
+            "end": 437.303,
+            "text": "Wow, there's\nreally six of them."
+          },
+          {
+            "index": 166,
+            "start": 438.672,
+            "end": 440.24,
+            "text": "Uh, but I can't."
+          },
+          {
+            "index": 167,
+            "start": 440.273,
+            "end": 441.608,
+            "text": "Why not?\nYou have a boyfriend?"
+          },
+          {
+            "index": 168,
+            "start": 443.276,
+            "end": 445.045,
+            "text": "No. No, no boyfriend."
+          },
+          {
+            "index": 169,
+            "start": 445.078,
+            "end": 447.013,
+            "text": "Great! It's a date."
+          },
+          {
+            "index": 170,
+            "start": 447.047,
+            "end": 448.915,
+            "text": "Hey, Barn.\nHey..."
+          },
+          {
+            "index": 171,
+            "start": 451.117,
+            "end": 452.953,
+            "text": "I just thought of a reason."
+          },
+          {
+            "index": 172,
+            "start": 459.449,
+            "end": 462.885,
+            "text": "OLDER TED: The next night,\nRobin and Brad went to\na hockey game."
+          },
+          {
+            "index": 173,
+            "start": 462.919,
+            "end": 465.922,
+            "text": "You're probably wondering\nwhy I've been quiet\nall night."
+          },
+          {
+            "index": 174,
+            "start": 465.955,
+            "end": 467.257,
+            "text": "Um..."
+          },
+          {
+            "index": 175,
+            "start": 467.29,
+            "end": 470.16,
+            "text": "Damn it, Hordichuk!\nYou miss another\ngimme like that,"
+          },
+          {
+            "index": 176,
+            "start": 470.193,
+            "end": 472.629,
+            "text": "I'm gonna come down there\nand put a slapper right\nup your beerhole!"
+          },
+          {
+            "index": 177,
+            "start": 472.662,
+            "end": 474.264,
+            "text": "Come on!"
+          },
+          {
+            "index": 178,
+            "start": 474.297,
+            "end": 476.633,
+            "text": "Not really."
+          },
+          {
+            "index": 179,
+            "start": 476.666,
+            "end": 479.502,
+            "text": "The truth is, I feel kind\nof weird being out with you."
+          },
+          {
+            "index": 180,
+            "start": 479.536,
+            "end": 481.438,
+            "text": "Oh, man."
+          },
+          {
+            "index": 181,
+            "start": 481.471,
+            "end": 483.406,
+            "text": "Is this the talk?\nWhat?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 453.53742602539063,
+        "topCueIndex": -1,
+        "bottomCueIndex": 171
+      }
     }
   ]
 }
