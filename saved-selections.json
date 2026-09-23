@@ -135975,6 +135975,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 73
       }
+    },
+    {
+      "id": "f45c8ba6-5a05-4ee8-bb9d-ca00c43bc25c",
+      "createdAt": "2026-09-23T21:47:34.093Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/62c613cf-c334-4e02-a859-3725775b04a1",
+      "audioTrackName": "",
+      "selectedText": "slow your roll",
+      "selection": {
+        "rawText": "slow your roll",
+        "startOffset": 6,
+        "endOffset": 20,
+        "cueIndex": 80,
+        "cueStart": 227.794,
+        "cueEnd": 229.563,
+        "cueText": "Lily, slow your roll\nthere, lily pad. Okay?"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 70,
+            "start": 185.886,
+            "end": 187.187,
+            "text": "It's just the whip's\nnot a toy, Ted."
+          },
+          {
+            "index": 71,
+            "start": 187.22,
+            "end": 189.69,
+            "text": "There's such a thing as\ncommon sense, you know?"
+          },
+          {
+            "index": 72,
+            "start": 189.723,
+            "end": 191.024,
+            "text": "Hey, you can whip me\nif you want."
+          },
+          {
+            "index": 73,
+            "start": 191.057,
+            "end": 192.526,
+            "text": "I will, some other time."
+          },
+          {
+            "index": 74,
+            "start": 198.331,
+            "end": 199.566,
+            "text": "(WHOOPS)"
+          },
+          {
+            "index": 75,
+            "start": 213.68,
+            "end": 216.617,
+            "text": "So, how long has\nthis been going on?"
+          },
+          {
+            "index": 76,
+            "start": 216.65,
+            "end": 218.719,
+            "text": "(SIGHING) All summer."
+          },
+          {
+            "index": 77,
+            "start": 218.752,
+            "end": 221.321,
+            "text": "I knew it!\nI knew it!\nI knew it!"
+          },
+          {
+            "index": 78,
+            "start": 221.354,
+            "end": 224.157,
+            "text": "You guys\nare boyfriend\nand girlfriend."
+          },
+          {
+            "index": 79,
+            "start": 224.19,
+            "end": 227.761,
+            "text": "(STAMMERING) Hey.\nWait... Girlfriend?\n(STAMMERING) Wow..."
+          },
+          {
+            "index": 80,
+            "start": 227.794,
+            "end": 229.563,
+            "text": "Lily, slow your roll\nthere, lily pad. Okay?"
+          },
+          {
+            "index": 81,
+            "start": 229.596,
+            "end": 230.997,
+            "text": "Yeah. Yeah."
+          },
+          {
+            "index": 82,
+            "start": 231.031,
+            "end": 233.399,
+            "text": "You've been together\nall summer. I don't get it."
+          },
+          {
+            "index": 83,
+            "start": 233.433,
+            "end": 234.835,
+            "text": "Okay, it's like this."
+          },
+          {
+            "index": 84,
+            "start": 234.868,
+            "end": 238.438,
+            "text": "After we kissed,\nwe sat down to\nhave the talk."
+          },
+          {
+            "index": 85,
+            "start": 238.471,
+            "end": 240.607,
+            "text": "We should figure\nout what this is."
+          },
+          {
+            "index": 86,
+            "start": 240.641,
+            "end": 242.142,
+            "text": "Yes, we should."
+          },
+          {
+            "index": 87,
+            "start": 242.175,
+            "end": 244.344,
+            "text": "Yeah.\nOr... Or..."
+          },
+          {
+            "index": 88,
+            "start": 247.614,
+            "end": 249.616,
+            "text": "Okay, now,\nwe have to figure this out."
+          },
+          {
+            "index": 89,
+            "start": 249.65,
+            "end": 251.718,
+            "text": "(BREATHING HEAVILY)\nYes, we do."
+          },
+          {
+            "index": 90,
+            "start": 251.752,
+            "end": 253.153,
+            "text": "Or... Or..."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 231.52064697265624,
+        "topCueIndex": -1,
+        "bottomCueIndex": 80
+      }
     }
   ]
 }
