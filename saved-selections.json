@@ -134904,6 +134904,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 20
       }
+    },
+    {
+      "id": "ff9d905e-70d6-4b82-aa22-1ce56effff3a",
+      "createdAt": "2026-09-23T21:40:01.374Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/62c613cf-c334-4e02-a859-3725775b04a1",
+      "audioTrackName": "",
+      "selectedText": "bullwhip",
+      "selection": {
+        "rawText": "bullwhip",
+        "startOffset": 9,
+        "endOffset": 17,
+        "cueIndex": 48,
+        "cueStart": 139.706,
+        "cueEnd": 142.943,
+        "cueText": "the best\nbullwhip on the market,\naccording to my whip guy."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 38,
+            "start": 108.775,
+            "end": 111.477,
+            "text": "OLDER TED: After that,\nthe summer went by\nway too fast."
+          },
+          {
+            "index": 39,
+            "start": 111.512,
+            "end": 115.081,
+            "text": "Until, all of a sudden, it was\nthe Friday before my first day\nas a\ncollege professor."
+          },
+          {
+            "index": 40,
+            "start": 115.115,
+            "end": 116.249,
+            "text": "Whoa!"
+          },
+          {
+            "index": 41,
+            "start": 116.282,
+            "end": 117.884,
+            "text": "Oh, boy.\nWhat's this?"
+          },
+          {
+            "index": 42,
+            "start": 117.918,
+            "end": 120.253,
+            "text": "It's just\na little something\nthat we got for you"
+          },
+          {
+            "index": 43,
+            "start": 120.286,
+            "end": 123.89,
+            "text": "that used to\nbelong to my favorite\nprofessor of all time."
+          },
+          {
+            "index": 44,
+            "start": 127.694,
+            "end": 129.095,
+            "text": "A fedora.\nMmm."
+          },
+          {
+            "index": 45,
+            "start": 129.963,
+            "end": 131.031,
+            "text": "(GASPS)"
+          },
+          {
+            "index": 46,
+            "start": 133.9,
+            "end": 136.77,
+            "text": "I'm Indiana Jones!\nI'm Indiana Jones!"
+          },
+          {
+            "index": 47,
+            "start": 136.803,
+            "end": 139.673,
+            "text": "That, my friend,\nis the Dominator 8000,"
+          },
+          {
+            "index": 48,
+            "start": 139.706,
+            "end": 142.943,
+            "text": "the best\nbullwhip on the market,\naccording to my whip guy."
+          },
+          {
+            "index": 49,
+            "start": 142.976,
+            "end": 144.611,
+            "text": "Yeah, I have a whip guy."
+          },
+          {
+            "index": 50,
+            "start": 144.645,
+            "end": 145.746,
+            "text": "(IMITATES WHIP CRACKING)"
+          },
+          {
+            "index": 51,
+            "start": 145.779,
+            "end": 147.548,
+            "text": "You know what we should do?\nWe should..."
+          },
+          {
+            "index": 52,
+            "start": 147.581,
+            "end": 150.35,
+            "text": "Finish our drinks, go out\nin the alley and whip stuff."
+          },
+          {
+            "index": 53,
+            "start": 150.383,
+            "end": 152.385,
+            "text": "God, you just get me."
+          },
+          {
+            "index": 54,
+            "start": 152.418,
+            "end": 154.154,
+            "text": "(MARSHALL SIGHS)"
+          },
+          {
+            "index": 55,
+            "start": 154.187,
+            "end": 155.989,
+            "text": "(LAUGHING)\nOkay, I should\nget going. I got a date."
+          },
+          {
+            "index": 56,
+            "start": 156.022,
+            "end": 157.157,
+            "text": "BARNEY: Oh, you're\nstill seeing that guy?"
+          },
+          {
+            "index": 57,
+            "start": 157.19,
+            "end": 159.225,
+            "text": "Even better,\nseeing him naked. What!"
+          },
+          {
+            "index": 58,
+            "start": 159.259,
+            "end": 161.828,
+            "text": "(BOTH EXCLAIM)"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 141.62101708984375,
+        "topCueIndex": -1,
+        "bottomCueIndex": 48
+      }
     }
   ]
 }
