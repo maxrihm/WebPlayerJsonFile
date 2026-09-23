@@ -136128,6 +136128,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 80
       }
+    },
+    {
+      "id": "41c28b99-7764-4357-a665-0e1964596186",
+      "createdAt": "2026-09-23T21:48:32.757Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/62c613cf-c334-4e02-a859-3725775b04a1",
+      "audioTrackName": "",
+      "selectedText": "mad.\"",
+      "selection": {
+        "rawText": "mad.\"",
+        "startOffset": 28,
+        "endOffset": 33,
+        "cueIndex": 96,
+        "cueStart": 271.505,
+        "cueEnd": 272.973,
+        "cueText": "\"I hope it doesn't\nmake you mad.\""
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 86,
+            "start": 240.641,
+            "end": 242.142,
+            "text": "Yes, we should."
+          },
+          {
+            "index": 87,
+            "start": 242.175,
+            "end": 244.344,
+            "text": "Yeah.\nOr... Or..."
+          },
+          {
+            "index": 88,
+            "start": 247.614,
+            "end": 249.616,
+            "text": "Okay, now,\nwe have to figure this out."
+          },
+          {
+            "index": 89,
+            "start": 249.65,
+            "end": 251.718,
+            "text": "(BREATHING HEAVILY)\nYes, we do."
+          },
+          {
+            "index": 90,
+            "start": 251.752,
+            "end": 253.153,
+            "text": "Or... Or..."
+          },
+          {
+            "index": 91,
+            "start": 258.559,
+            "end": 262.228,
+            "text": "We kept trying to\nhave the talk and then we\nrealized we hate the talk."
+          },
+          {
+            "index": 92,
+            "start": 262.262,
+            "end": 264.965,
+            "text": "Yeah, the talk sucks.\nYou have to, like, talk,"
+          },
+          {
+            "index": 93,
+            "start": 264.998,
+            "end": 266.933,
+            "text": "(SCOFFS)"
+          },
+          {
+            "index": 94,
+            "start": 266.967,
+            "end": 269.636,
+            "text": "and be all, \"I don't know.\nIt's not that I don't\nlike you."
+          },
+          {
+            "index": 95,
+            "start": 269.67,
+            "end": 271.471,
+            "text": "\"It's just that I haven't\nhad a girlfriend in\na really long time."
+          },
+          {
+            "index": 96,
+            "start": 271.505,
+            "end": 272.973,
+            "text": "\"I hope it doesn't\nmake you mad.\""
+          },
+          {
+            "index": 97,
+            "start": 273.006,
+            "end": 274.741,
+            "text": "(GROANS IN DISGUST)\nWho needs it?"
+          },
+          {
+            "index": 98,
+            "start": 274.775,
+            "end": 276.643,
+            "text": "You \"needs\" it."
+          },
+          {
+            "index": 99,
+            "start": 276.677,
+            "end": 278.879,
+            "text": "Guys, you can't\njust keep hooking up"
+          },
+          {
+            "index": 100,
+            "start": 278.912,
+            "end": 281.515,
+            "text": "and not at least\ntry and figure out\nwhat you mean to each other."
+          },
+          {
+            "index": 101,
+            "start": 281.548,
+            "end": 283.083,
+            "text": "Yeah, we knew\nyou would say that."
+          },
+          {
+            "index": 102,
+            "start": 283.116,
+            "end": 285.385,
+            "text": "That's why we\nkept it a secret."
+          },
+          {
+            "index": 103,
+            "start": 285.418,
+            "end": 288.188,
+            "text": "Well, that and the fact that\nelaborate lies really\nturn us on."
+          },
+          {
+            "index": 104,
+            "start": 288.221,
+            "end": 291.157,
+            "text": "No, no, no. No."
+          },
+          {
+            "index": 105,
+            "start": 291.191,
+            "end": 294.194,
+            "text": "You need to\ndefine the relationship.\nYou need to have the talk."
+          },
+          {
+            "index": 106,
+            "start": 294.227,
+            "end": 296.697,
+            "text": "Or... Or..."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 274.1431999511719,
+        "topCueIndex": -1,
+        "bottomCueIndex": 96
+      }
     }
   ]
 }
