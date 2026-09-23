@@ -134598,6 +134598,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 338
       }
+    },
+    {
+      "id": "9470fa48-9b05-4418-88ee-f684390f0e47",
+      "createdAt": "2026-09-23T21:36:54.847Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/62c613cf-c334-4e02-a859-3725775b04a1",
+      "audioTrackName": "",
+      "selectedText": "\"quite a bit.\"",
+      "selection": {
+        "rawText": "\"quite a bit.\"",
+        "startOffset": 45,
+        "endOffset": 59,
+        "cueIndex": 19,
+        "cueStart": 54.921,
+        "cueEnd": 58.992,
+        "cueText": "Robin's more\nthan just awe \"some.\"\nShe's awe \"quite a bit.\""
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 9,
+            "start": 34.801,
+            "end": 37.203,
+            "text": "Lily, volume.\nUse your indoor \"whoo.\""
+          },
+          {
+            "index": 10,
+            "start": 37.237,
+            "end": 38.805,
+            "text": "Sorry. (SOFTLY) Whoo."
+          },
+          {
+            "index": 11,
+            "start": 38.839,
+            "end": 41.542,
+            "text": "It's just they kissed!\nThey're finally a couple."
+          },
+          {
+            "index": 12,
+            "start": 41.575,
+            "end": 43.276,
+            "text": "(GASPING) Oh, my God,\nyou guys."
+          },
+          {
+            "index": 13,
+            "start": 43.309,
+            "end": 45.846,
+            "text": "This is our first\ndouble date!"
+          },
+          {
+            "index": 14,
+            "start": 45.879,
+            "end": 48.214,
+            "text": "First of millions!\nWhat if our kids\nget married?"
+          },
+          {
+            "index": 15,
+            "start": 48.248,
+            "end": 49.482,
+            "text": "Oh, I love this!"
+          },
+          {
+            "index": 16,
+            "start": 49.516,
+            "end": 51.084,
+            "text": "Yeah."
+          },
+          {
+            "index": 17,
+            "start": 51.117,
+            "end": 52.753,
+            "text": "Lily, listen."
+          },
+          {
+            "index": 18,
+            "start": 52.786,
+            "end": 54.888,
+            "text": "Barney's awesome."
+          },
+          {
+            "index": 19,
+            "start": 54.921,
+            "end": 58.992,
+            "text": "Robin's more\nthan just awe \"some.\"\nShe's awe \"quite a bit.\""
+          },
+          {
+            "index": 20,
+            "start": 59.025,
+            "end": 61.227,
+            "text": "She's awe\n\"a whole darn lot.\""
+          },
+          {
+            "index": 21,
+            "start": 61.261,
+            "end": 62.996,
+            "text": "Wait, what are you saying?"
+          },
+          {
+            "index": 22,
+            "start": 63.029,
+            "end": 64.264,
+            "text": "(MUTTERING)"
+          },
+          {
+            "index": 23,
+            "start": 64.297,
+            "end": 65.599,
+            "text": "We're just not\nfeeling it right now,"
+          },
+          {
+            "index": 24,
+            "start": 65.632,
+            "end": 67,
+            "text": "but we'll totally still\nbe friends."
+          },
+          {
+            "index": 25,
+            "start": 67.033,
+            "end": 67.868,
+            "text": "Oh, yeah."
+          },
+          {
+            "index": 26,
+            "start": 69.536,
+            "end": 71.605,
+            "text": "Is it something I did?"
+          },
+          {
+            "index": 27,
+            "start": 71.638,
+            "end": 75.175,
+            "text": "Oh, no. No, no, no. God, no.\nLily, it's not you. It's us."
+          },
+          {
+            "index": 28,
+            "start": 75.208,
+            "end": 78.411,
+            "text": "Yeah. It's us.\nYou understand, right?"
+          },
+          {
+            "index": 29,
+            "start": 78.444,
+            "end": 80.814,
+            "text": "Sure, of course."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 62.502162109375,
+        "topCueIndex": -1,
+        "bottomCueIndex": 19
+      }
     }
   ]
 }
