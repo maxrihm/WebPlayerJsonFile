@@ -138423,6 +138423,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 282
       }
+    },
+    {
+      "id": "ee829927-dcfc-4dab-81e0-894cc69757a2",
+      "createdAt": "2026-09-24T22:13:18.822Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/62c613cf-c334-4e02-a859-3725775b04a1",
+      "audioTrackName": "",
+      "selectedText": "crossroads",
+      "selection": {
+        "rawText": "crossroads",
+        "startOffset": 27,
+        "endOffset": 37,
+        "cueIndex": 295,
+        "cueStart": 802.692,
+        "cueEnd": 805.928,
+        "cueText": "OLDER TED: This was it,\nmy crossroads moment."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 285,
+            "start": 767.523,
+            "end": 770.025,
+            "text": "S'up, dudes? Silence!"
+          },
+          {
+            "index": 286,
+            "start": 772.528,
+            "end": 775.698,
+            "text": "This is Architecture 101.\nI am Professor Mosby,"
+          },
+          {
+            "index": 287,
+            "start": 777.166,
+            "end": 778.968,
+            "text": "but you can call me Ted."
+          },
+          {
+            "index": 288,
+            "start": 779.835,
+            "end": 781.504,
+            "text": "Professor Mosby."
+          },
+          {
+            "index": 289,
+            "start": 782.772,
+            "end": 784.54,
+            "text": "T‐Dawg."
+          },
+          {
+            "index": 290,
+            "start": 784.574,
+            "end": 786.409,
+            "text": "Do not call me T‐Dawg."
+          },
+          {
+            "index": 291,
+            "start": 790.145,
+            "end": 793.983,
+            "text": "Never take questions on the\nfirst day. It shows weakness."
+          },
+          {
+            "index": 292,
+            "start": 794.016,
+            "end": 797.286,
+            "text": "Also, don't look right here."
+          },
+          {
+            "index": 293,
+            "start": 797.319,
+            "end": 799.121,
+            "text": "(CHUCKLING)"
+          },
+          {
+            "index": 294,
+            "start": 799.154,
+            "end": 800.923,
+            "text": "Okay, good luck. Byesies."
+          },
+          {
+            "index": 295,
+            "start": 802.692,
+            "end": 805.928,
+            "text": "OLDER TED: This was it,\nmy crossroads moment."
+          },
+          {
+            "index": 296,
+            "start": 805.961,
+            "end": 808.13,
+            "text": "What kind of professor\nwas I gonna be?"
+          },
+          {
+            "index": 297,
+            "start": 808.163,
+            "end": 810.032,
+            "text": "I had to decide."
+          },
+          {
+            "index": 298,
+            "start": 810.065,
+            "end": 813.436,
+            "text": "Please save all your questions\nuntil the end of the lecture.\nThank you!"
+          },
+          {
+            "index": 299,
+            "start": 814.303,
+            "end": 815.705,
+            "text": "Now..."
+          },
+          {
+            "index": 300,
+            "start": 815.738,
+            "end": 817.407,
+            "text": "OLDER TED:\nProfessor Mosby had arrived."
+          },
+          {
+            "index": 301,
+            "start": 817.44,
+            "end": 819.909,
+            "text": "Of course,\nif I had taken\nthat girl's question,"
+          },
+          {
+            "index": 302,
+            "start": 819.942,
+            "end": 821.577,
+            "text": "who, by the way,\nwas not your mom."
+          },
+          {
+            "index": 303,
+            "start": 821.611,
+            "end": 823.446,
+            "text": "Your mom was sitting..."
+          },
+          {
+            "index": 304,
+            "start": 823.479,
+            "end": 825.515,
+            "text": "Wait, let me finish this\nreal quick."
+          },
+          {
+            "index": 305,
+            "start": 825.548,
+            "end": 827.783,
+            "text": "Here's what that\ngirl would have said."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 807.9139350585938,
+        "topCueIndex": -1,
+        "bottomCueIndex": 295
+      }
     }
   ]
 }
