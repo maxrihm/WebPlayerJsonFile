@@ -138729,6 +138729,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 423
       }
+    },
+    {
+      "id": "f6e21b61-5d40-42ce-a69c-fc5dbdf68c1a",
+      "createdAt": "2026-09-24T22:23:36.973Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/62c613cf-c334-4e02-a859-3725775b04a1",
+      "audioTrackName": "",
+      "selectedText": "Hook, line and sinker.",
+      "selection": {
+        "rawText": "Hook, line and sinker.",
+        "startOffset": 0,
+        "endOffset": 22,
+        "cueIndex": 438,
+        "cueStart": 1197.72,
+        "cueEnd": 1199.388,
+        "cueText": "Hook, line and sinker."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 428,
+            "start": 1172.127,
+            "end": 1173.963,
+            "text": "she's awesome."
+          },
+          {
+            "index": 429,
+            "start": 1173.996,
+            "end": 1175.398,
+            "text": "And he's awesome."
+          },
+          {
+            "index": 430,
+            "start": 1176.231,
+            "end": 1177.7,
+            "text": "He looks nice in a suit."
+          },
+          {
+            "index": 431,
+            "start": 1177.733,
+            "end": 1179.234,
+            "text": "She can handle her scotch."
+          },
+          {
+            "index": 432,
+            "start": 1180.335,
+            "end": 1181.637,
+            "text": "He's my boyfriend."
+          },
+          {
+            "index": 433,
+            "start": 1181.671,
+            "end": 1183.338,
+            "text": "And she's my girlfriend."
+          },
+          {
+            "index": 434,
+            "start": 1183.372,
+            "end": 1184.574,
+            "text": "(DOOR KNOB RATTLING)"
+          },
+          {
+            "index": 435,
+            "start": 1192.114,
+            "end": 1193.382,
+            "text": "Good enough!"
+          },
+          {
+            "index": 436,
+            "start": 1195.384,
+            "end": 1196.486,
+            "text": "(BARNEY AND ROBIN LAUGHING)"
+          },
+          {
+            "index": 437,
+            "start": 1196.519,
+            "end": 1197.687,
+            "text": "She bought it."
+          },
+          {
+            "index": 438,
+            "start": 1197.72,
+            "end": 1199.388,
+            "text": "Hook, line and sinker."
+          },
+          {
+            "index": 439,
+            "start": 1199.422,
+            "end": 1202.057,
+            "text": "We are good.\nTotally."
+          },
+          {
+            "index": 440,
+            "start": 1202.091,
+            "end": 1204.193,
+            "text": "So, you want to\nget some breakfast?"
+          },
+          {
+            "index": 441,
+            "start": 1204.226,
+            "end": 1206.429,
+            "text": "You know,\nbrunch actually\ndoes sound kind of good."
+          },
+          {
+            "index": 442,
+            "start": 1206.462,
+            "end": 1209.499,
+            "text": "Hmm. Well, lead the way,\nsweetie pie."
+          },
+          {
+            "index": 443,
+            "start": 1209.532,
+            "end": 1211.3,
+            "text": "Whoa! Flugelhorn.\nYeah, that felt wrong."
+          },
+          {
+            "index": 444,
+            "start": 1212.134,
+            "end": 1213.536,
+            "text": "(CHUCKLING)"
+          },
+          {
+            "index": 445,
+            "start": 1224.179,
+            "end": 1226.181,
+            "text": "You do realize\nthey were lying, right?"
+          },
+          {
+            "index": 446,
+            "start": 1226.215,
+            "end": 1227.783,
+            "text": "No, Ted."
+          },
+          {
+            "index": 447,
+            "start": 1227.817,
+            "end": 1230.119,
+            "text": "They don't realize\nthey weren't lying."
+          },
+          {
+            "index": 448,
+            "start": 1230.152,
+            "end": 1231.22,
+            "text": "(BOTH CHATTERING)"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1200.1860739746094,
+        "topCueIndex": -1,
+        "bottomCueIndex": 438
+      }
     }
   ]
 }
