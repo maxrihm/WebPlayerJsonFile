@@ -137811,6 +137811,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 236
       }
+    },
+    {
+      "id": "6f71a491-9b14-4a7a-a4c8-38706e0c003a",
+      "createdAt": "2026-09-24T22:08:33.768Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/62c613cf-c334-4e02-a859-3725775b04a1",
+      "audioTrackName": "",
+      "selectedText": "thought of everything.",
+      "selection": {
+        "rawText": "thought of\neverything.",
+        "startOffset": 6,
+        "endOffset": 28,
+        "cueIndex": 247,
+        "cueStart": 650.64,
+        "cueEnd": 653.41,
+        "cueText": "I had thought of\neverything. Except..."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 237,
+            "start": 623.313,
+            "end": 624.814,
+            "text": "A bit strongly.\nShe's not my girlfriend."
+          },
+          {
+            "index": 238,
+            "start": 624.847,
+            "end": 628.385,
+            "text": "Yeah. A girlfriend's\na bit much, Brad,\nokay? We..."
+          },
+          {
+            "index": 239,
+            "start": 628.418,
+            "end": 632.722,
+            "text": "Okay, seriously.\nWe're at the point\nof physical violence."
+          },
+          {
+            "index": 240,
+            "start": 632.755,
+            "end": 634.824,
+            "text": "Now, will you\nplease have the talk?"
+          },
+          {
+            "index": 241,
+            "start": 634.857,
+            "end": 638.228,
+            "text": "Because of that? Come on.\nThat's my thing."
+          },
+          {
+            "index": 242,
+            "start": 638.261,
+            "end": 640.663,
+            "text": "I'm always\npunching guys, girls."
+          },
+          {
+            "index": 243,
+            "start": 640.697,
+            "end": 642.199,
+            "text": "I'll punch a baby.\nI don't care."
+          },
+          {
+            "index": 244,
+            "start": 645.368,
+            "end": 647.204,
+            "text": "OLDER TED: Finally,\nmy first class had arrived."
+          },
+          {
+            "index": 245,
+            "start": 647.237,
+            "end": 648.705,
+            "text": "For real this time."
+          },
+          {
+            "index": 246,
+            "start": 648.738,
+            "end": 650.607,
+            "text": "I knew I had to make\na strong impression."
+          },
+          {
+            "index": 247,
+            "start": 650.64,
+            "end": 653.41,
+            "text": "I had thought of\neverything. Except..."
+          },
+          {
+            "index": 248,
+            "start": 653.443,
+            "end": 655.878,
+            "text": "TED: Wait.\nDoes professor\nhave one \"F\" or two?"
+          },
+          {
+            "index": 249,
+            "start": 655.912,
+            "end": 657.947,
+            "text": "Oh, my God.\nOh, my God!"
+          },
+          {
+            "index": 250,
+            "start": 657.98,
+            "end": 662.285,
+            "text": "Professor. Professor.\nThey're all staring at me."
+          },
+          {
+            "index": 251,
+            "start": 662.319,
+            "end": 665.322,
+            "text": "Professor. I don't know.\nJust do something!"
+          },
+          {
+            "index": 252,
+            "start": 667.29,
+            "end": 669.092,
+            "text": "Two \"F's\"."
+          },
+          {
+            "index": 253,
+            "start": 669.126,
+            "end": 671.328,
+            "text": "That looks right.\nI think that's right."
+          },
+          {
+            "index": 254,
+            "start": 687.344,
+            "end": 689.079,
+            "text": "Hey, sorry I went\na little too far\nlast night."
+          },
+          {
+            "index": 255,
+            "start": 689.112,
+            "end": 690.513,
+            "text": "Look, we've been over this."
+          },
+          {
+            "index": 256,
+            "start": 690.547,
+            "end": 692.549,
+            "text": "Unless I say \"flugelhorn,\"\nyou haven't gone too far."
+          },
+          {
+            "index": 257,
+            "start": 693.583,
+            "end": 696.052,
+            "text": "No, I meant punching Brad."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 652.2373449707031,
+        "topCueIndex": -1,
+        "bottomCueIndex": 247
+      }
     }
   ]
 }
