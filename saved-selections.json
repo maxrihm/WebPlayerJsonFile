@@ -136893,6 +136893,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 171
       }
+    },
+    {
+      "id": "ffc5cf1d-64b3-40d7-a5c8-bd5c07c9a762",
+      "createdAt": "2026-09-24T21:57:24.039Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/62c613cf-c334-4e02-a859-3725775b04a1",
+      "audioTrackName": "",
+      "selectedText": "get it all out of the way.",
+      "selection": {
+        "rawText": "get it all\nout of the way.",
+        "startOffset": 24,
+        "endOffset": 50,
+        "cueIndex": 182,
+        "cueStart": 483.44,
+        "cueEnd": 486.209,
+        "cueText": "No, this is good.\nLet's get it all\nout of the way."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 172,
+            "start": 459.449,
+            "end": 462.885,
+            "text": "OLDER TED: The next night,\nRobin and Brad went to\na hockey game."
+          },
+          {
+            "index": 173,
+            "start": 462.919,
+            "end": 465.922,
+            "text": "You're probably wondering\nwhy I've been quiet\nall night."
+          },
+          {
+            "index": 174,
+            "start": 465.955,
+            "end": 467.257,
+            "text": "Um..."
+          },
+          {
+            "index": 175,
+            "start": 467.29,
+            "end": 470.16,
+            "text": "Damn it, Hordichuk!\nYou miss another\ngimme like that,"
+          },
+          {
+            "index": 176,
+            "start": 470.193,
+            "end": 472.629,
+            "text": "I'm gonna come down there\nand put a slapper right\nup your beerhole!"
+          },
+          {
+            "index": 177,
+            "start": 472.662,
+            "end": 474.264,
+            "text": "Come on!"
+          },
+          {
+            "index": 178,
+            "start": 474.297,
+            "end": 476.633,
+            "text": "Not really."
+          },
+          {
+            "index": 179,
+            "start": 476.666,
+            "end": 479.502,
+            "text": "The truth is, I feel kind\nof weird being out with you."
+          },
+          {
+            "index": 180,
+            "start": 479.536,
+            "end": 481.438,
+            "text": "Oh, man."
+          },
+          {
+            "index": 181,
+            "start": 481.471,
+            "end": 483.406,
+            "text": "Is this the talk?\nWhat?"
+          },
+          {
+            "index": 182,
+            "start": 483.44,
+            "end": 486.209,
+            "text": "No, this is good.\nLet's get it all\nout of the way."
+          },
+          {
+            "index": 183,
+            "start": 486.243,
+            "end": 488.278,
+            "text": "Robin, I'm looking\nfor something serious."
+          },
+          {
+            "index": 184,
+            "start": 488.311,
+            "end": 489.879,
+            "text": "No, Brad, no, it's..."
+          },
+          {
+            "index": 185,
+            "start": 489.912,
+            "end": 491.381,
+            "text": "But before we\ngo any further,"
+          },
+          {
+            "index": 186,
+            "start": 491.414,
+            "end": 494.184,
+            "text": "you should know something\nabout my stuff below the belt."
+          },
+          {
+            "index": 187,
+            "start": 494.217,
+            "end": 496.186,
+            "text": "I was born\na little different."
+          },
+          {
+            "index": 188,
+            "start": 496.219,
+            "end": 499.222,
+            "text": "God, no. Brad, no."
+          },
+          {
+            "index": 189,
+            "start": 499.256,
+            "end": 502.425,
+            "text": "This is about me and Barney.\nYou and..."
+          },
+          {
+            "index": 190,
+            "start": 502.459,
+            "end": 504.026,
+            "text": "Oh! So, you guys are..."
+          },
+          {
+            "index": 191,
+            "start": 504.061,
+            "end": 505.762,
+            "text": "Well, we don't know\nwhat we are."
+          },
+          {
+            "index": 192,
+            "start": 505.795,
+            "end": 507.697,
+            "text": "I mean, my heart says,\n\"Leap into it.\""
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 486.51701806640625,
+        "topCueIndex": -1,
+        "bottomCueIndex": 182
+      }
     }
   ]
 }
