@@ -138117,6 +138117,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 255
       }
+    },
+    {
+      "id": "a9a21bed-e8a5-4dc0-9e2b-534878905700",
+      "createdAt": "2026-09-24T22:11:34.492Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/62c613cf-c334-4e02-a859-3725775b04a1",
+      "audioTrackName": "",
+      "selectedText": "slip",
+      "selection": {
+        "rawText": "slip",
+        "startOffset": 0,
+        "endOffset": 4,
+        "cueIndex": 273,
+        "cueStart": 735.224,
+        "cueEnd": 738.728,
+        "cueText": "slip it under the door and\nif I like what I read,\nyou can go."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 263,
+            "start": 707.029,
+            "end": 708.598,
+            "text": "No."
+          },
+          {
+            "index": 264,
+            "start": 709.966,
+            "end": 711.434,
+            "text": "Ted."
+          },
+          {
+            "index": 265,
+            "start": 711.468,
+            "end": 712.802,
+            "text": "Ted, are you out there?"
+          },
+          {
+            "index": 266,
+            "start": 712.835,
+            "end": 715.205,
+            "text": "Ted's not here, Robin."
+          },
+          {
+            "index": 267,
+            "start": 715.238,
+            "end": 716.206,
+            "text": "Lily, let us out of here."
+          },
+          {
+            "index": 268,
+            "start": 716.239,
+            "end": 717.94,
+            "text": "I'd be glad to."
+          },
+          {
+            "index": 269,
+            "start": 717.974,
+            "end": 720.377,
+            "text": "Just as soon as you\nand Barney have the talk."
+          },
+          {
+            "index": 270,
+            "start": 726.882,
+            "end": 729.051,
+            "text": "Lily! Come on. Let us out!"
+          },
+          {
+            "index": 271,
+            "start": 729.084,
+            "end": 732.321,
+            "text": "No. Sit down,\ndefine the relationship,"
+          },
+          {
+            "index": 272,
+            "start": 732.354,
+            "end": 735.19,
+            "text": "write down\nthat definition\non a piece of paper,"
+          },
+          {
+            "index": 273,
+            "start": 735.224,
+            "end": 738.728,
+            "text": "slip it under the door and\nif I like what I read,\nyou can go."
+          },
+          {
+            "index": 274,
+            "start": 738.761,
+            "end": 740.563,
+            "text": "We are not having the talk!"
+          },
+          {
+            "index": 275,
+            "start": 740.596,
+            "end": 742.465,
+            "text": "Then you'll die in there."
+          },
+          {
+            "index": 276,
+            "start": 742.498,
+            "end": 744.233,
+            "text": "You're gonna\nlock us in here?\nWell, guess what?"
+          },
+          {
+            "index": 277,
+            "start": 744.266,
+            "end": 747.136,
+            "text": "Maybe we'll spend the\nwhole day having sex!"
+          },
+          {
+            "index": 278,
+            "start": 747.169,
+            "end": 748.838,
+            "text": "Well, guess what?"
+          },
+          {
+            "index": 279,
+            "start": 748.871,
+            "end": 751.541,
+            "text": "I brought Marshall with me,\nso maybe we'll do the same."
+          },
+          {
+            "index": 280,
+            "start": 752.341,
+            "end": 755.978,
+            "text": "Hey, guys."
+          },
+          {
+            "index": 281,
+            "start": 756.011,
+            "end": 758.748,
+            "text": "OLDER TED: I still\nhadn't decided what kind\nof professor I\nwanted to be."
+          },
+          {
+            "index": 282,
+            "start": 758.781,
+            "end": 761.517,
+            "text": "Authoritative or cool guy."
+          },
+          {
+            "index": 283,
+            "start": 761.551,
+            "end": 765.521,
+            "text": "I thought I would\ndecide in the moment.\nAnd I did, a\nbout 20 times."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 737.6737729492188,
+        "topCueIndex": -1,
+        "bottomCueIndex": 273
+      }
     }
   ]
 }
