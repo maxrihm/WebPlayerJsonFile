@@ -137199,6 +137199,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 197
       }
+    },
+    {
+      "id": "1bb9bde4-5680-4542-8c96-cce47ea9f447",
+      "createdAt": "2026-09-24T22:02:05.883Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/62c613cf-c334-4e02-a859-3725775b04a1",
+      "audioTrackName": "",
+      "selectedText": "sleep over",
+      "selection": {
+        "rawText": "sleep over",
+        "startOffset": 20,
+        "endOffset": 30,
+        "cueIndex": 213,
+        "cueStart": 553.876,
+        "cueEnd": 557.28,
+        "cueText": "meaning she doesn't sleep over\nand you don't have breakfast\nwith her."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 203,
+            "start": 528.351,
+            "end": 529.652,
+            "text": "(HIGH‐PITCHED) What?"
+          },
+          {
+            "index": 204,
+            "start": 529.686,
+            "end": 532.655,
+            "text": "MacLaren's Bar,\nfour years ago."
+          },
+          {
+            "index": 205,
+            "start": 532.689,
+            "end": 535.258,
+            "text": "How do you keep a girl\nfrom becoming your girlfriend?"
+          },
+          {
+            "index": 206,
+            "start": 535.292,
+            "end": 538.495,
+            "text": "Simple, the rules for girls\nare the same as the rules\nfor Gremlins."
+          },
+          {
+            "index": 207,
+            "start": 538.528,
+            "end": 540.397,
+            "text": "Gremlins?\nGremlins."
+          },
+          {
+            "index": 208,
+            "start": 540.43,
+            "end": 543.333,
+            "text": "Rule number one,\nnever get them wet."
+          },
+          {
+            "index": 209,
+            "start": 543.366,
+            "end": 545.702,
+            "text": "In other words,\ndon't let her take\na shower at your place."
+          },
+          {
+            "index": 210,
+            "start": 545.735,
+            "end": 547.97,
+            "text": "Number two, keep\nthem away from sunlight,"
+          },
+          {
+            "index": 211,
+            "start": 548.004,
+            "end": 550.94,
+            "text": "i.e. don't ever see\nthem during the day."
+          },
+          {
+            "index": 212,
+            "start": 550.973,
+            "end": 553.843,
+            "text": "And rule number three,\nnever feed them\nafter midnight,"
+          },
+          {
+            "index": 213,
+            "start": 553.876,
+            "end": 557.28,
+            "text": "meaning she doesn't sleep over\nand you don't have breakfast\nwith her."
+          },
+          {
+            "index": 214,
+            "start": 557.314,
+            "end": 558.848,
+            "text": "Ever."
+          },
+          {
+            "index": 215,
+            "start": 558.881,
+            "end": 560.983,
+            "text": "What about brunch?\nIs brunch cool?"
+          },
+          {
+            "index": 216,
+            "start": 562.552,
+            "end": 564.654,
+            "text": "No, Ted, brunch is not cool."
+          },
+          {
+            "index": 217,
+            "start": 566.356,
+            "end": 569.192,
+            "text": "Okay, new topic.\nHow do I pick a tie?"
+          },
+          {
+            "index": 218,
+            "start": 569.226,
+            "end": 572.028,
+            "text": "Simple. Remember in\nthe movie, Predator..."
+          },
+          {
+            "index": 219,
+            "start": 572.062,
+            "end": 575.498,
+            "text": "I've done all three of\nthose things with Robin."
+          },
+          {
+            "index": 220,
+            "start": 575.532,
+            "end": 577.033,
+            "text": "Is she my girlfriend?"
+          },
+          {
+            "index": 221,
+            "start": 579.369,
+            "end": 581.838,
+            "text": "Just once, I wish you guys\nwould call me on Tuxedo Night."
+          },
+          {
+            "index": 222,
+            "start": 583.84,
+            "end": 585.742,
+            "text": "ANNOUNCER:\nLadies and gentlemen,"
+          },
+          {
+            "index": 223,
+            "start": 585.775,
+            "end": 589.746,
+            "text": "time to pucker up for the\nNew York Rangers Kiss Cam!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 557.5772451171875,
+        "topCueIndex": -1,
+        "bottomCueIndex": 213
+      }
     }
   ]
 }
