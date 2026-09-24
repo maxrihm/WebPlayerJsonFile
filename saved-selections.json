@@ -137199,6 +137199,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 197
       }
+    },
+    {
+      "id": "fbf282da-450c-40c4-ac63-7bc1710b73c0",
+      "createdAt": "2026-09-24T22:01:35.999Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/62c613cf-c334-4e02-a859-3725775b04a1",
+      "audioTrackName": "",
+      "selectedText": "i.e.",
+      "selection": {
+        "rawText": "i.e.",
+        "startOffset": 0,
+        "endOffset": 4,
+        "cueIndex": 211,
+        "cueStart": 548.004,
+        "cueEnd": 550.94,
+        "cueText": "i.e. don't ever see\nthem during the day."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 201,
+            "start": 524.447,
+            "end": 526.083,
+            "text": "Thank you, Ted."
+          },
+          {
+            "index": 202,
+            "start": 526.116,
+            "end": 528.318,
+            "text": "Because Robin is\nalready his girlfriend."
+          },
+          {
+            "index": 203,
+            "start": 528.351,
+            "end": 529.652,
+            "text": "(HIGH‐PITCHED) What?"
+          },
+          {
+            "index": 204,
+            "start": 529.686,
+            "end": 532.655,
+            "text": "MacLaren's Bar,\nfour years ago."
+          },
+          {
+            "index": 205,
+            "start": 532.689,
+            "end": 535.258,
+            "text": "How do you keep a girl\nfrom becoming your girlfriend?"
+          },
+          {
+            "index": 206,
+            "start": 535.292,
+            "end": 538.495,
+            "text": "Simple, the rules for girls\nare the same as the rules\nfor Gremlins."
+          },
+          {
+            "index": 207,
+            "start": 538.528,
+            "end": 540.397,
+            "text": "Gremlins?\nGremlins."
+          },
+          {
+            "index": 208,
+            "start": 540.43,
+            "end": 543.333,
+            "text": "Rule number one,\nnever get them wet."
+          },
+          {
+            "index": 209,
+            "start": 543.366,
+            "end": 545.702,
+            "text": "In other words,\ndon't let her take\na shower at your place."
+          },
+          {
+            "index": 210,
+            "start": 545.735,
+            "end": 547.97,
+            "text": "Number two, keep\nthem away from sunlight,"
+          },
+          {
+            "index": 211,
+            "start": 548.004,
+            "end": 550.94,
+            "text": "i.e. don't ever see\nthem during the day."
+          },
+          {
+            "index": 212,
+            "start": 550.973,
+            "end": 553.843,
+            "text": "And rule number three,\nnever feed them\nafter midnight,"
+          },
+          {
+            "index": 213,
+            "start": 553.876,
+            "end": 557.28,
+            "text": "meaning she doesn't sleep over\nand you don't have breakfast\nwith her."
+          },
+          {
+            "index": 214,
+            "start": 557.314,
+            "end": 558.848,
+            "text": "Ever."
+          },
+          {
+            "index": 215,
+            "start": 558.881,
+            "end": 560.983,
+            "text": "What about brunch?\nIs brunch cool?"
+          },
+          {
+            "index": 216,
+            "start": 562.552,
+            "end": 564.654,
+            "text": "No, Ted, brunch is not cool."
+          },
+          {
+            "index": 217,
+            "start": 566.356,
+            "end": 569.192,
+            "text": "Okay, new topic.\nHow do I pick a tie?"
+          },
+          {
+            "index": 218,
+            "start": 569.226,
+            "end": 572.028,
+            "text": "Simple. Remember in\nthe movie, Predator..."
+          },
+          {
+            "index": 219,
+            "start": 572.062,
+            "end": 575.498,
+            "text": "I've done all three of\nthose things with Robin."
+          },
+          {
+            "index": 220,
+            "start": 575.532,
+            "end": 577.033,
+            "text": "Is she my girlfriend?"
+          },
+          {
+            "index": 221,
+            "start": 579.369,
+            "end": 581.838,
+            "text": "Just once, I wish you guys\nwould call me on Tuxedo Night."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 549.9196459960938,
+        "topCueIndex": -1,
+        "bottomCueIndex": 211
+      }
     }
   ]
 }
