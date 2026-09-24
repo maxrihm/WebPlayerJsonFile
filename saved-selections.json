@@ -137505,6 +137505,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 221
       }
+    },
+    {
+      "id": "aac1ab5d-f692-4952-891b-770d431932cb",
+      "createdAt": "2026-09-24T22:06:45.175Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/62c613cf-c334-4e02-a859-3725775b04a1",
+      "audioTrackName": "",
+      "selectedText": "putting it",
+      "selection": {
+        "rawText": "putting it",
+        "startOffset": 7,
+        "endOffset": 17,
+        "cueIndex": 236,
+        "cueStart": 621.344,
+        "cueEnd": 623.28,
+        "cueText": "That's putting it\na bit strongly. Okay."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 226,
+            "start": 592.682,
+            "end": 594.251,
+            "text": "Okay, how about this?"
+          },
+          {
+            "index": 227,
+            "start": 594.284,
+            "end": 595.652,
+            "text": "If you kiss me and\nyou feel bad about it,"
+          },
+          {
+            "index": 228,
+            "start": 595.685,
+            "end": 597.354,
+            "text": "you're meant to be\nwith Barney."
+          },
+          {
+            "index": 229,
+            "start": 597.387,
+            "end": 599.356,
+            "text": "(SIGHS) Why not?\nLay it on me."
+          },
+          {
+            "index": 230,
+            "start": 606.329,
+            "end": 607.697,
+            "text": "Hey, Brad."
+          },
+          {
+            "index": 231,
+            "start": 609.232,
+            "end": 611.268,
+            "text": "Brad, we can't fight\nlike this all night!"
+          },
+          {
+            "index": 232,
+            "start": 611.301,
+            "end": 614.537,
+            "text": "We both got\nsome good shots in.\nLet's call a truce!"
+          },
+          {
+            "index": 233,
+            "start": 614.571,
+            "end": 616.073,
+            "text": "It's okay, dude."
+          },
+          {
+            "index": 234,
+            "start": 616.106,
+            "end": 618.075,
+            "text": "I shouldn't go kissing\nsome other guy's girlfriend."
+          },
+          {
+            "index": 235,
+            "start": 618.108,
+            "end": 621.311,
+            "text": "BARNEY:\nWhoa, whoa, whoa, whoa.\nGirlfriend? Hey, come on."
+          },
+          {
+            "index": 236,
+            "start": 621.344,
+            "end": 623.28,
+            "text": "That's putting it\na bit strongly. Okay."
+          },
+          {
+            "index": 237,
+            "start": 623.313,
+            "end": 624.814,
+            "text": "A bit strongly.\nShe's not my girlfriend."
+          },
+          {
+            "index": 238,
+            "start": 624.847,
+            "end": 628.385,
+            "text": "Yeah. A girlfriend's\na bit much, Brad,\nokay? We..."
+          },
+          {
+            "index": 239,
+            "start": 628.418,
+            "end": 632.722,
+            "text": "Okay, seriously.\nWe're at the point\nof physical violence."
+          },
+          {
+            "index": 240,
+            "start": 632.755,
+            "end": 634.824,
+            "text": "Now, will you\nplease have the talk?"
+          },
+          {
+            "index": 241,
+            "start": 634.857,
+            "end": 638.228,
+            "text": "Because of that? Come on.\nThat's my thing."
+          },
+          {
+            "index": 242,
+            "start": 638.261,
+            "end": 640.663,
+            "text": "I'm always\npunching guys, girls."
+          },
+          {
+            "index": 243,
+            "start": 640.697,
+            "end": 642.199,
+            "text": "I'll punch a baby.\nI don't care."
+          },
+          {
+            "index": 244,
+            "start": 645.368,
+            "end": 647.204,
+            "text": "OLDER TED: Finally,\nmy first class had arrived."
+          },
+          {
+            "index": 245,
+            "start": 647.237,
+            "end": 648.705,
+            "text": "For real this time."
+          },
+          {
+            "index": 246,
+            "start": 648.738,
+            "end": 650.607,
+            "text": "I knew I had to make\na strong impression."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 624.2406799316407,
+        "topCueIndex": -1,
+        "bottomCueIndex": 236
+      }
     }
   ]
 }
