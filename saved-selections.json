@@ -137352,6 +137352,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 213
       }
+    },
+    {
+      "id": "0f70f650-f07a-4055-b8ab-0703425e7df4",
+      "createdAt": "2026-09-24T22:04:26.973Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/62c613cf-c334-4e02-a859-3725775b04a1",
+      "audioTrackName": "",
+      "selectedText": "Just once,",
+      "selection": {
+        "rawText": "Just once,",
+        "startOffset": 0,
+        "endOffset": 10,
+        "cueIndex": 221,
+        "cueStart": 579.369,
+        "cueEnd": 581.838,
+        "cueText": "Just once, I wish you guys\nwould call me on Tuxedo Night."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 211,
+            "start": 548.004,
+            "end": 550.94,
+            "text": "i.e. don't ever see\nthem during the day."
+          },
+          {
+            "index": 212,
+            "start": 550.973,
+            "end": 553.843,
+            "text": "And rule number three,\nnever feed them\nafter midnight,"
+          },
+          {
+            "index": 213,
+            "start": 553.876,
+            "end": 557.28,
+            "text": "meaning she doesn't sleep over\nand you don't have breakfast\nwith her."
+          },
+          {
+            "index": 214,
+            "start": 557.314,
+            "end": 558.848,
+            "text": "Ever."
+          },
+          {
+            "index": 215,
+            "start": 558.881,
+            "end": 560.983,
+            "text": "What about brunch?\nIs brunch cool?"
+          },
+          {
+            "index": 216,
+            "start": 562.552,
+            "end": 564.654,
+            "text": "No, Ted, brunch is not cool."
+          },
+          {
+            "index": 217,
+            "start": 566.356,
+            "end": 569.192,
+            "text": "Okay, new topic.\nHow do I pick a tie?"
+          },
+          {
+            "index": 218,
+            "start": 569.226,
+            "end": 572.028,
+            "text": "Simple. Remember in\nthe movie, Predator..."
+          },
+          {
+            "index": 219,
+            "start": 572.062,
+            "end": 575.498,
+            "text": "I've done all three of\nthose things with Robin."
+          },
+          {
+            "index": 220,
+            "start": 575.532,
+            "end": 577.033,
+            "text": "Is she my girlfriend?"
+          },
+          {
+            "index": 221,
+            "start": 579.369,
+            "end": 581.838,
+            "text": "Just once, I wish you guys\nwould call me on Tuxedo Night."
+          },
+          {
+            "index": 222,
+            "start": 583.84,
+            "end": 585.742,
+            "text": "ANNOUNCER:\nLadies and gentlemen,"
+          },
+          {
+            "index": 223,
+            "start": 585.775,
+            "end": 589.746,
+            "text": "time to pucker up for the\nNew York Rangers Kiss Cam!"
+          },
+          {
+            "index": 224,
+            "start": 589.779,
+            "end": 591.248,
+            "text": "CROWD:\nKiss! Kiss! Kiss!\nKiss! Kiss! Kiss!"
+          },
+          {
+            "index": 225,
+            "start": 591.281,
+            "end": 592.649,
+            "text": "Kiss! Kiss! Kiss!\nKiss! Kiss! Kiss!"
+          },
+          {
+            "index": 226,
+            "start": 592.682,
+            "end": 594.251,
+            "text": "Okay, how about this?"
+          },
+          {
+            "index": 227,
+            "start": 594.284,
+            "end": 595.652,
+            "text": "If you kiss me and\nyou feel bad about it,"
+          },
+          {
+            "index": 228,
+            "start": 595.685,
+            "end": 597.354,
+            "text": "you're meant to be\nwith Barney."
+          },
+          {
+            "index": 229,
+            "start": 597.387,
+            "end": 599.356,
+            "text": "(SIGHS) Why not?\nLay it on me."
+          },
+          {
+            "index": 230,
+            "start": 606.329,
+            "end": 607.697,
+            "text": "Hey, Brad."
+          },
+          {
+            "index": 231,
+            "start": 609.232,
+            "end": 611.268,
+            "text": "Brad, we can't fight\nlike this all night!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 582.0504250488282,
+        "topCueIndex": -1,
+        "bottomCueIndex": 221
+      }
     }
   ]
 }
