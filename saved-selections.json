@@ -138576,6 +138576,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 295
       }
+    },
+    {
+      "id": "4ef2eb67-9673-4826-ad7b-1c763e934915",
+      "createdAt": "2026-09-24T22:21:48.293Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/62c613cf-c334-4e02-a859-3725775b04a1",
+      "audioTrackName": "",
+      "selectedText": "nuts,",
+      "selection": {
+        "rawText": "nuts,",
+        "startOffset": 17,
+        "endOffset": 22,
+        "cueIndex": 423,
+        "cueStart": 1159.048,
+        "cueEnd": 1161.551,
+        "cueText": "I know it sounds nuts,\nbut it feels good to say."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 413,
+            "start": 1129.251,
+            "end": 1131.487,
+            "text": "What are we good at?"
+          },
+          {
+            "index": 414,
+            "start": 1131.521,
+            "end": 1133.556,
+            "text": "I know\nsomething we're good at.\nI don't know."
+          },
+          {
+            "index": 415,
+            "start": 1133.589,
+            "end": 1135.124,
+            "text": "If we're gonna do it again,\nI'm gonna need some\nGatorade..."
+          },
+          {
+            "index": 416,
+            "start": 1135.157,
+            "end": 1137.96,
+            "text": "No. No, not that."
+          },
+          {
+            "index": 417,
+            "start": 1137.993,
+            "end": 1139.562,
+            "text": "Lying. Think about it."
+          },
+          {
+            "index": 418,
+            "start": 1139.595,
+            "end": 1141.196,
+            "text": "We spent\nthe whole summer lying\nabout being just friends."
+          },
+          {
+            "index": 419,
+            "start": 1141.23,
+            "end": 1143.399,
+            "text": "Why not just keep lying?"
+          },
+          {
+            "index": 420,
+            "start": 1151.306,
+            "end": 1153.409,
+            "text": "Really?\nYeah. Really."
+          },
+          {
+            "index": 421,
+            "start": 1153.443,
+            "end": 1157.246,
+            "text": "We sat down.\nWe had the talk.\nBarney's my boyfriend now."
+          },
+          {
+            "index": 422,
+            "start": 1157.279,
+            "end": 1159.014,
+            "text": "And Robin's\nmy girlfriend."
+          },
+          {
+            "index": 423,
+            "start": 1159.048,
+            "end": 1161.551,
+            "text": "I know it sounds nuts,\nbut it feels good to say."
+          },
+          {
+            "index": 424,
+            "start": 1161.584,
+            "end": 1163.686,
+            "text": "We're both\nafraid of commitment,"
+          },
+          {
+            "index": 425,
+            "start": 1163.719,
+            "end": 1166.789,
+            "text": "but the fact is,\nwe also can't live\nwithout each other."
+          },
+          {
+            "index": 426,
+            "start": 1166.822,
+            "end": 1168.29,
+            "text": "And if the alternative\nis not being together,"
+          },
+          {
+            "index": 427,
+            "start": 1168.323,
+            "end": 1170.46,
+            "text": "then it's worth\ntaking this risk 'cause"
+          },
+          {
+            "index": 428,
+            "start": 1172.127,
+            "end": 1173.963,
+            "text": "she's awesome."
+          },
+          {
+            "index": 429,
+            "start": 1173.996,
+            "end": 1175.398,
+            "text": "And he's awesome."
+          },
+          {
+            "index": 430,
+            "start": 1176.231,
+            "end": 1177.7,
+            "text": "He looks nice in a suit."
+          },
+          {
+            "index": 431,
+            "start": 1177.733,
+            "end": 1179.234,
+            "text": "She can handle her scotch."
+          },
+          {
+            "index": 432,
+            "start": 1180.335,
+            "end": 1181.637,
+            "text": "He's my boyfriend."
+          },
+          {
+            "index": 433,
+            "start": 1181.671,
+            "end": 1183.338,
+            "text": "And she's my girlfriend."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1161.7241088867188,
+        "topCueIndex": -1,
+        "bottomCueIndex": 423
+      }
     }
   ]
 }
