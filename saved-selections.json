@@ -137964,6 +137964,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 247
       }
+    },
+    {
+      "id": "ec414581-a320-4bd8-a6fd-94dafdbab639",
+      "createdAt": "2026-09-24T22:10:16.048Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/62c613cf-c334-4e02-a859-3725775b04a1",
+      "audioTrackName": "",
+      "selectedText": "we've been over this.",
+      "selection": {
+        "rawText": "we've been over this.",
+        "startOffset": 6,
+        "endOffset": 27,
+        "cueIndex": 255,
+        "cueStart": 689.112,
+        "cueEnd": 690.513,
+        "cueText": "Look, we've been over this."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 245,
+            "start": 647.237,
+            "end": 648.705,
+            "text": "For real this time."
+          },
+          {
+            "index": 246,
+            "start": 648.738,
+            "end": 650.607,
+            "text": "I knew I had to make\na strong impression."
+          },
+          {
+            "index": 247,
+            "start": 650.64,
+            "end": 653.41,
+            "text": "I had thought of\neverything. Except..."
+          },
+          {
+            "index": 248,
+            "start": 653.443,
+            "end": 655.878,
+            "text": "TED: Wait.\nDoes professor\nhave one \"F\" or two?"
+          },
+          {
+            "index": 249,
+            "start": 655.912,
+            "end": 657.947,
+            "text": "Oh, my God.\nOh, my God!"
+          },
+          {
+            "index": 250,
+            "start": 657.98,
+            "end": 662.285,
+            "text": "Professor. Professor.\nThey're all staring at me."
+          },
+          {
+            "index": 251,
+            "start": 662.319,
+            "end": 665.322,
+            "text": "Professor. I don't know.\nJust do something!"
+          },
+          {
+            "index": 252,
+            "start": 667.29,
+            "end": 669.092,
+            "text": "Two \"F's\"."
+          },
+          {
+            "index": 253,
+            "start": 669.126,
+            "end": 671.328,
+            "text": "That looks right.\nI think that's right."
+          },
+          {
+            "index": 254,
+            "start": 687.344,
+            "end": 689.079,
+            "text": "Hey, sorry I went\na little too far\nlast night."
+          },
+          {
+            "index": 255,
+            "start": 689.112,
+            "end": 690.513,
+            "text": "Look, we've been over this."
+          },
+          {
+            "index": 256,
+            "start": 690.547,
+            "end": 692.549,
+            "text": "Unless I say \"flugelhorn,\"\nyou haven't gone too far."
+          },
+          {
+            "index": 257,
+            "start": 693.583,
+            "end": 696.052,
+            "text": "No, I meant punching Brad."
+          },
+          {
+            "index": 258,
+            "start": 696.086,
+            "end": 699.356,
+            "text": "Right. Look, don't even\nworry about it. It's... Oh!"
+          },
+          {
+            "index": 259,
+            "start": 699.389,
+            "end": 702.159,
+            "text": "God. The doorknob's\nbroken off."
+          },
+          {
+            "index": 260,
+            "start": 702.192,
+            "end": 704.061,
+            "text": "We're locked in here.\nDid you do this?"
+          },
+          {
+            "index": 261,
+            "start": 704.094,
+            "end": 705.395,
+            "text": "No."
+          },
+          {
+            "index": 262,
+            "start": 705.428,
+            "end": 706.996,
+            "text": "Flugelhorn. Did you do this?"
+          },
+          {
+            "index": 263,
+            "start": 707.029,
+            "end": 708.598,
+            "text": "No."
+          },
+          {
+            "index": 264,
+            "start": 709.966,
+            "end": 711.434,
+            "text": "Ted."
+          },
+          {
+            "index": 265,
+            "start": 711.468,
+            "end": 712.802,
+            "text": "Ted, are you out there?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 690.8354008789063,
+        "topCueIndex": -1,
+        "bottomCueIndex": 255
+      }
     }
   ]
 }
