@@ -141570,6 +141570,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 116
       }
+    },
+    {
+      "id": "77c44954-4091-4951-b813-7225e7526953",
+      "createdAt": "2026-09-25T23:23:28.901Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/eb9f4f95-c051-4fb3-892f-302366725a75",
+      "audioTrackName": "",
+      "selectedText": "perky",
+      "selection": {
+        "rawText": "perky",
+        "startOffset": 16,
+        "endOffset": 21,
+        "cueIndex": 129,
+        "cueStart": 372.254,
+        "cueEnd": 374.055,
+        "cueText": "Everything's as perky\nas we've always imagined!"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 119,
+            "start": 342.824,
+            "end": 346.294,
+            "text": "from this day forward,\nI will be the wingman\nof your mind."
+          },
+          {
+            "index": 120,
+            "start": 346.328,
+            "end": 348.596,
+            "text": "Now, focus\non the next dancer."
+          },
+          {
+            "index": 121,
+            "start": 348.63,
+            "end": 350.698,
+            "text": "Put Lily completely\nout of your mind."
+          },
+          {
+            "index": 122,
+            "start": 350.732,
+            "end": 353.635,
+            "text": "ANNOUNCER: Gentlemen,\nsay hello to\n(STAMMERING) Jasmine."
+          },
+          {
+            "index": 123,
+            "start": 353.668,
+            "end": 354.969,
+            "text": "(CROWD CHEERING)"
+          },
+          {
+            "index": 124,
+            "start": 360.908,
+            "end": 363.077,
+            "text": "Barney?"
+          },
+          {
+            "index": 125,
+            "start": 363.111,
+            "end": 366.414,
+            "text": "Is it just me or\ndoes that stripper\nlook exactly like..."
+          },
+          {
+            "index": 126,
+            "start": 366.448,
+            "end": 368.916,
+            "text": "Ted, we found a stripper\nwho looks exactly like Lily!"
+          },
+          {
+            "index": 127,
+            "start": 368.95,
+            "end": 370.285,
+            "text": "Uh, yeah,\nI can't talk right now."
+          },
+          {
+            "index": 128,
+            "start": 370.318,
+            "end": 372.22,
+            "text": "I'm speechless, too."
+          },
+          {
+            "index": 129,
+            "start": 372.254,
+            "end": 374.055,
+            "text": "Everything's as perky\nas we've always imagined!"
+          },
+          {
+            "index": 130,
+            "start": 374.089,
+            "end": 375.823,
+            "text": "Stop looking at her."
+          },
+          {
+            "index": 131,
+            "start": 375.857,
+            "end": 378.326,
+            "text": "Look, I gotta go.\n(WHISPERING) Take a picture."
+          },
+          {
+            "index": 132,
+            "start": 378.36,
+            "end": 380.795,
+            "text": "Oh, I will."
+          },
+          {
+            "index": 133,
+            "start": 380.828,
+            "end": 382.597,
+            "text": "But first, I'm going to make\nMarshall watch as I wedge\nUlysses S. Grant"
+          },
+          {
+            "index": 134,
+            "start": 382.63,
+            "end": 384.299,
+            "text": "between his wife's tatas.\nI'll kill you!"
+          },
+          {
+            "index": 135,
+            "start": 384.332,
+            "end": 385.567,
+            "text": "(BARNEY YELLING)"
+          },
+          {
+            "index": 136,
+            "start": 387.302,
+            "end": 388.536,
+            "text": "Sorry about that."
+          },
+          {
+            "index": 137,
+            "start": 388.57,
+            "end": 390.472,
+            "text": "So, any thoughts on food?"
+          },
+          {
+            "index": 138,
+            "start": 393.175,
+            "end": 395.877,
+            "text": "Yeah, do you wanna\nshare the oysters?"
+          },
+          {
+            "index": 139,
+            "start": 395.91,
+            "end": 397.945,
+            "text": "I would love to\nshare the oysters."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 373.2111450195313,
+        "topCueIndex": -1,
+        "bottomCueIndex": 129
+      }
     }
   ]
 }
