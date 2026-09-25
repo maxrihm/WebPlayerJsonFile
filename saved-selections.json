@@ -142947,6 +142947,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 202
       }
+    },
+    {
+      "id": "42930159-cb64-4e90-8252-72b73cdf4a19",
+      "createdAt": "2026-09-25T23:35:41.025Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/eb9f4f95-c051-4fb3-892f-302366725a75",
+      "audioTrackName": "",
+      "selectedText": "impervious",
+      "selection": {
+        "rawText": "impervious",
+        "startOffset": 11,
+        "endOffset": 21,
+        "cueIndex": 226,
+        "cueStart": 646.961,
+        "cueEnd": 649.797,
+        "cueText": "I'm pretty impervious\nto stuff like that."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 216,
+            "start": 620.635,
+            "end": 624.139,
+            "text": "unless you\ngo into the back room, but,\nhoney, you gotta pay for that."
+          },
+          {
+            "index": 217,
+            "start": 624.172,
+            "end": 626.974,
+            "text": "So, strip club."
+          },
+          {
+            "index": 218,
+            "start": 627.008,
+            "end": 628.31,
+            "text": "(VOICE SHAKING)\nMarshall made me go."
+          },
+          {
+            "index": 219,
+            "start": 630.278,
+            "end": 631.979,
+            "text": "All right,\nso what did I\ndo wrong next?"
+          },
+          {
+            "index": 220,
+            "start": 632.013,
+            "end": 634.149,
+            "text": "Let me have it.\nI'm here to learn."
+          },
+          {
+            "index": 221,
+            "start": 634.182,
+            "end": 636.984,
+            "text": "Well, I kept dropping\nhints that I was cold,"
+          },
+          {
+            "index": 222,
+            "start": 637.018,
+            "end": 639.887,
+            "text": "but you didn't\noffer me your jacket."
+          },
+          {
+            "index": 223,
+            "start": 639.921,
+            "end": 641.989,
+            "text": "It's a little\nbrisk out tonight, huh?"
+          },
+          {
+            "index": 224,
+            "start": 642.023,
+            "end": 643.758,
+            "text": "Not really."
+          },
+          {
+            "index": 225,
+            "start": 643.791,
+            "end": 646.928,
+            "text": "Really? I can't\nfeel my fingers."
+          },
+          {
+            "index": 226,
+            "start": 646.961,
+            "end": 649.797,
+            "text": "I'm pretty impervious\nto stuff like that."
+          },
+          {
+            "index": 227,
+            "start": 649.831,
+            "end": 652.934,
+            "text": "I couldn't admit I was cold.\nI didn't want to seem like\na wimp"
+          },
+          {
+            "index": 228,
+            "start": 652.967,
+            "end": 654.769,
+            "text": "compared to your\naction hero ex‐boyfriend"
+          },
+          {
+            "index": 229,
+            "start": 654.802,
+            "end": 656.738,
+            "text": "who you wouldn't\nstop talking about."
+          },
+          {
+            "index": 230,
+            "start": 656.771,
+            "end": 658.606,
+            "text": "After a day of\nfighting fires,"
+          },
+          {
+            "index": 231,
+            "start": 658.64,
+            "end": 662.277,
+            "text": "Jim would love to come home\nand unwind working on his\n'68 Camaro."
+          },
+          {
+            "index": 232,
+            "start": 662.31,
+            "end": 666.414,
+            "text": "That or bare‐knuckle boxing,\nwhich he learned in the\nMarine Corps."
+          },
+          {
+            "index": 233,
+            "start": 666.448,
+            "end": 668.983,
+            "text": "I had an aunt in\nthe Coast Guard."
+          },
+          {
+            "index": 234,
+            "start": 669.016,
+            "end": 672.987,
+            "text": "Okay, so no talking\nabout the ex."
+          },
+          {
+            "index": 235,
+            "start": 673.02,
+            "end": 675.823,
+            "text": "Not even about his\nshockingly small wiener?"
+          },
+          {
+            "index": 236,
+            "start": 675.857,
+            "end": 678.626,
+            "text": "See? Why didn't you\nlead off with that?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 648.6396760253906,
+        "topCueIndex": -1,
+        "bottomCueIndex": 226
+      }
     }
   ]
 }
