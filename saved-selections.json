@@ -139428,6 +139428,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 41
       }
+    },
+    {
+      "id": "23918e12-cda1-4db5-999b-436257c91e19",
+      "createdAt": "2026-09-25T23:09:46.983Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/eb9f4f95-c051-4fb3-892f-302366725a75",
+      "audioTrackName": "",
+      "selectedText": "poncho",
+      "selection": {
+        "rawText": "poncho",
+        "startOffset": 6,
+        "endOffset": 12,
+        "cueIndex": 59,
+        "cueStart": 152.6,
+        "cueEnd": 155.137,
+        "cueText": "and a poncho for\nthe 10:30 Jell‐O show."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 49,
+            "start": 131.113,
+            "end": 132.314,
+            "text": "Thanks, man."
+          },
+          {
+            "index": 50,
+            "start": 132.347,
+            "end": 133.981,
+            "text": "You're a terrible couple."
+          },
+          {
+            "index": 51,
+            "start": 134.015,
+            "end": 135.65,
+            "text": "Lily has taken all\nthe man out of you."
+          },
+          {
+            "index": 52,
+            "start": 135.683,
+            "end": 137.585,
+            "text": "I used to think that's\njust every relationship."
+          },
+          {
+            "index": 53,
+            "start": 137.619,
+            "end": 139.221,
+            "text": "But what I've got\nwith Robin proves"
+          },
+          {
+            "index": 54,
+            "start": 139.254,
+            "end": 141.156,
+            "text": "that you can\nhave a girlfriend"
+          },
+          {
+            "index": 55,
+            "start": 141.189,
+            "end": 144.726,
+            "text": "and fully functioning\nmale genitalia all at\nthe same time."
+          },
+          {
+            "index": 56,
+            "start": 144.759,
+            "end": 147.429,
+            "text": "Okay, right.\nSo, if Robin knew\nthat you were here,"
+          },
+          {
+            "index": 57,
+            "start": 147.462,
+            "end": 149.764,
+            "text": "she would be\ncompletely fine with it?"
+          },
+          {
+            "index": 58,
+            "start": 149.797,
+            "end": 152.567,
+            "text": "Are you kidding?\nShe'd sprint down here\nwith a purse full of singles"
+          },
+          {
+            "index": 59,
+            "start": 152.6,
+            "end": 155.137,
+            "text": "and a poncho for\nthe 10:30 Jell‐O show."
+          },
+          {
+            "index": 60,
+            "start": 155.17,
+            "end": 159.207,
+            "text": "B t dub,\nI called ahead, it's lime."
+          },
+          {
+            "index": 61,
+            "start": 159.241,
+            "end": 162.377,
+            "text": "OLDER TED: Meanwhile, Jen and\nI were in my favorite first\ndate\nrestaurant"
+          },
+          {
+            "index": 62,
+            "start": 162.41,
+            "end": 163.578,
+            "text": "for the second time."
+          },
+          {
+            "index": 63,
+            "start": 163.611,
+            "end": 165.046,
+            "text": "So, Jen, what do you do?"
+          },
+          {
+            "index": 64,
+            "start": 165.079,
+            "end": 166.281,
+            "text": "I'm between jobs."
+          },
+          {
+            "index": 65,
+            "start": 166.314,
+            "end": 168.15,
+            "text": "Banking crisis."
+          },
+          {
+            "index": 66,
+            "start": 168.183,
+            "end": 171.586,
+            "text": "I'm between jobs.\nInternet bubble burst."
+          },
+          {
+            "index": 67,
+            "start": 171.619,
+            "end": 175.323,
+            "text": "Makes me realize I should go\ninto something more stable,\nlike banking."
+          },
+          {
+            "index": 68,
+            "start": 176.424,
+            "end": 177.392,
+            "text": "So, what about you?"
+          },
+          {
+            "index": 69,
+            "start": 177.425,
+            "end": 179.127,
+            "text": "I'm an architect."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 154.9172790527344,
+        "topCueIndex": -1,
+        "bottomCueIndex": 59
+      }
     }
   ]
 }
