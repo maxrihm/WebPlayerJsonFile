@@ -139275,6 +139275,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 17
       }
+    },
+    {
+      "id": "7b90cb57-69a6-4aca-b9a1-b10bafa802c3",
+      "createdAt": "2026-09-25T23:08:01.402Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/eb9f4f95-c051-4fb3-892f-302366725a75",
+      "audioTrackName": "",
+      "selectedText": "scored",
+      "selection": {
+        "rawText": "scored",
+        "startOffset": 26,
+        "endOffset": 32,
+        "cueIndex": 41,
+        "cueStart": 109.924,
+        "cueEnd": 113.661,
+        "cueText": "My guy in the DA's office\nscored us front row seats\nto a lethal injection."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 31,
+            "start": 85.667,
+            "end": 89.971,
+            "text": "We're not\ngoing to the Origins of\nChewbacca exhibit, Marshall."
+          },
+          {
+            "index": 32,
+            "start": 90.004,
+            "end": 93.074,
+            "text": "It's in\nHouston this year.\nEveryone knows that."
+          },
+          {
+            "index": 33,
+            "start": 93.108,
+            "end": 95.21,
+            "text": "I just wanted to\nget rid of the girls."
+          },
+          {
+            "index": 34,
+            "start": 95.243,
+            "end": 97.212,
+            "text": "Where are you\ntaking me, Barney?"
+          },
+          {
+            "index": 35,
+            "start": 97.245,
+            "end": 98.746,
+            "text": "OLDER TED: This wasn't\nthe first time your\nUncle Barney"
+          },
+          {
+            "index": 36,
+            "start": 98.78,
+            "end": 100.548,
+            "text": "had kidnapped one of us."
+          },
+          {
+            "index": 37,
+            "start": 100.582,
+            "end": 102.384,
+            "text": "Wait a second."
+          },
+          {
+            "index": 38,
+            "start": 102.417,
+            "end": 105.287,
+            "text": "The Origins of Chewbacca\nexhibit's in Montreal\nthis year."
+          },
+          {
+            "index": 39,
+            "start": 105.32,
+            "end": 107.589,
+            "text": "Everyone knows that."
+          },
+          {
+            "index": 40,
+            "start": 107.622,
+            "end": 109.891,
+            "text": "Where are you taking me?"
+          },
+          {
+            "index": 41,
+            "start": 109.924,
+            "end": 113.661,
+            "text": "My guy in the DA's office\nscored us front row seats\nto a lethal injection."
+          },
+          {
+            "index": 42,
+            "start": 113.695,
+            "end": 115.497,
+            "text": "But we're\nstill stopping\nfor chili dogs first."
+          },
+          {
+            "index": 43,
+            "start": 115.53,
+            "end": 117.232,
+            "text": "Stop the cab."
+          },
+          {
+            "index": 44,
+            "start": 117.265,
+            "end": 118.933,
+            "text": "Where are you taking me?"
+          },
+          {
+            "index": 45,
+            "start": 119.834,
+            "end": 121.769,
+            "text": "(UPBEAT MUSIC PLAYING)"
+          },
+          {
+            "index": 46,
+            "start": 123.805,
+            "end": 125.573,
+            "text": "Barney, why are we here?"
+          },
+          {
+            "index": 47,
+            "start": 125.607,
+            "end": 128.11,
+            "text": "Marshall, now that\nRobin and I are together,"
+          },
+          {
+            "index": 48,
+            "start": 128.143,
+            "end": 131.078,
+            "text": "I've learned a lot\nabout relationships\nby watching you and Lily."
+          },
+          {
+            "index": 49,
+            "start": 131.113,
+            "end": 132.314,
+            "text": "Thanks, man."
+          },
+          {
+            "index": 50,
+            "start": 132.347,
+            "end": 133.981,
+            "text": "You're a terrible couple."
+          },
+          {
+            "index": 51,
+            "start": 134.015,
+            "end": 135.65,
+            "text": "Lily has taken all\nthe man out of you."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 113.7770009765625,
+        "topCueIndex": -1,
+        "bottomCueIndex": 41
+      }
     }
   ]
 }
