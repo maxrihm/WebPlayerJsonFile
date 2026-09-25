@@ -138999,6 +138999,129 @@
         "topCueIndex": -1,
         "bottomCueIndex": 4
       }
+    },
+    {
+      "id": "71b74886-e340-41fd-91df-ccd5666b6450",
+      "createdAt": "2026-09-25T23:02:37.568Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/eb9f4f95-c051-4fb3-892f-302366725a75",
+      "audioTrackName": "",
+      "selectedText": "fall",
+      "selection": {
+        "rawText": "fall",
+        "startOffset": 10,
+        "endOffset": 14,
+        "cueIndex": 5,
+        "cueStart": 18.5,
+        "cueEnd": 20.235,
+        "cueText": "Until the fall of 2009,"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 0,
+            "start": 2.65,
+            "end": 3.918,
+            "text": "OLDER TED:\nThis is the story\nof two blind dates."
+          },
+          {
+            "index": 1,
+            "start": 3.951,
+            "end": 5.32,
+            "text": "One in 2009,"
+          },
+          {
+            "index": 2,
+            "start": 7.989,
+            "end": 10.592,
+            "text": "and one seven years earlier."
+          },
+          {
+            "index": 3,
+            "start": 10.625,
+            "end": 12.327,
+            "text": "In all that time,\nmy dating routine"
+          },
+          {
+            "index": 4,
+            "start": 12.36,
+            "end": 13.761,
+            "text": "remained more\nor less the same."
+          },
+          {
+            "index": 5,
+            "start": 18.5,
+            "end": 20.235,
+            "text": "Until the fall of 2009,"
+          },
+          {
+            "index": 6,
+            "start": 20.268,
+            "end": 22.104,
+            "text": "when I finally had\na date that was different"
+          },
+          {
+            "index": 7,
+            "start": 24.106,
+            "end": 27.209,
+            "text": "because it was\nexactly the same."
+          },
+          {
+            "index": 8,
+            "start": 27.242,
+            "end": 29.076,
+            "text": "I was\non a blind date\nwith the same woman"
+          },
+          {
+            "index": 9,
+            "start": 29.111,
+            "end": 30.778,
+            "text": "I went on a blind date\nwith seven years earlier."
+          },
+          {
+            "index": 10,
+            "start": 31.646,
+            "end": 33.381,
+            "text": "Ted?\nJen?"
+          },
+          {
+            "index": 11,
+            "start": 33.415,
+            "end": 34.882,
+            "text": "It's nice to meet you."
+          },
+          {
+            "index": 12,
+            "start": 34.916,
+            "end": 37.485,
+            "text": "OLDER TED: And she didn't\nremember it. But then again..."
+          },
+          {
+            "index": 13,
+            "start": 37.519,
+            "end": 39.221,
+            "text": "It's nice to meet you, too."
+          },
+          {
+            "index": 14,
+            "start": 39.254,
+            "end": 40.054,
+            "text": "OLDER TED:\n...neither did I."
+          },
+          {
+            "index": 15,
+            "start": 40.088,
+            "end": 41.323,
+            "text": "Do you want to?\nYeah."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 22.376569091796874,
+        "topCueIndex": -1,
+        "bottomCueIndex": 5
+      }
     }
   ]
 }
