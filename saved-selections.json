@@ -142029,6 +142029,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 153
       }
+    },
+    {
+      "id": "f65a3dec-7274-4c1f-beec-6ad7c6d02f96",
+      "createdAt": "2026-09-25T23:29:06.032Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/eb9f4f95-c051-4fb3-892f-302366725a75",
+      "audioTrackName": "",
+      "selectedText": "understudy",
+      "selection": {
+        "rawText": "understudy",
+        "startOffset": 42,
+        "endOffset": 52,
+        "cueIndex": 164,
+        "cueStart": 473.755,
+        "cueEnd": 477.992,
+        "cueText": "Good to know we're\nnot getting the crappy\nunderstudy lobsters, right?"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 154,
+            "start": 446.628,
+            "end": 448.73,
+            "text": "of all the single\npeople in New York"
+          },
+          {
+            "index": 155,
+            "start": 448.763,
+            "end": 451.065,
+            "text": "only to end up back here,\nwith each other."
+          },
+          {
+            "index": 156,
+            "start": 451.099,
+            "end": 453.101,
+            "text": "Whoa."
+          },
+          {
+            "index": 157,
+            "start": 453.135,
+            "end": 455.303,
+            "text": "We're going to die alone,\naren't we?"
+          },
+          {
+            "index": 158,
+            "start": 455.337,
+            "end": 458.24,
+            "text": "Well, you've got your cats."
+          },
+          {
+            "index": 159,
+            "start": 458.273,
+            "end": 460.375,
+            "text": "This is insane."
+          },
+          {
+            "index": 160,
+            "start": 460.408,
+            "end": 462.644,
+            "text": "Wait, I gotta ask.\nWhy did you think\nI was snobby?"
+          },
+          {
+            "index": 161,
+            "start": 464.446,
+            "end": 466.814,
+            "text": "Wait, okay, yeah,\nwe were sitting over there."
+          },
+          {
+            "index": 162,
+            "start": 468.015,
+            "end": 470.285,
+            "text": "(TED LAUGHING)"
+          },
+          {
+            "index": 163,
+            "start": 470.318,
+            "end": 473.721,
+            "text": "\"Main Lobster.\" They spelled\nMaine without the \"e.\""
+          },
+          {
+            "index": 164,
+            "start": 473.755,
+            "end": 477.992,
+            "text": "Good to know we're\nnot getting the crappy\nunderstudy lobsters, right?"
+          },
+          {
+            "index": 165,
+            "start": 478.025,
+            "end": 480.428,
+            "text": "Tonight, the\nrole of pound‐and‐a‐half\nlobster will be played by..."
+          },
+          {
+            "index": 166,
+            "start": 480.462,
+            "end": 483.365,
+            "text": "I get it, Ted."
+          },
+          {
+            "index": 167,
+            "start": 483.398,
+            "end": 486.568,
+            "text": "Pointing out spelling errors\nin a menu makes you seem\nkind of snooty."
+          },
+          {
+            "index": 168,
+            "start": 486.601,
+            "end": 487.602,
+            "text": "Huh."
+          },
+          {
+            "index": 169,
+            "start": 488.303,
+            "end": 489.471,
+            "text": "I had no idea."
+          },
+          {
+            "index": 170,
+            "start": 489.504,
+            "end": 492.974,
+            "text": "Okay, well,\nwhat about me?\nAside from the cats,"
+          },
+          {
+            "index": 171,
+            "start": 493.007,
+            "end": 494.542,
+            "text": "how did I come across?"
+          },
+          {
+            "index": 172,
+            "start": 494.576,
+            "end": 496.711,
+            "text": "That's right, the check."
+          },
+          {
+            "index": 173,
+            "start": 496.744,
+            "end": 499.547,
+            "text": "The check came and,\nof course,\nI was going to pay,"
+          },
+          {
+            "index": 174,
+            "start": 499.581,
+            "end": 501.283,
+            "text": "but you didn't\ndo the check dance."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 477.27335400390626,
+        "topCueIndex": -1,
+        "bottomCueIndex": 164
+      }
     }
   ]
 }
