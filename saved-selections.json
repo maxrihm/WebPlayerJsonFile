@@ -142182,6 +142182,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 164
       }
+    },
+    {
+      "id": "f9df88b3-f82e-4651-a3b7-2cca4c632a46",
+      "createdAt": "2026-09-25T23:30:34.204Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/eb9f4f95-c051-4fb3-892f-302366725a75",
+      "audioTrackName": "",
+      "selectedText": "come across?",
+      "selection": {
+        "rawText": "come across?",
+        "startOffset": 10,
+        "endOffset": 22,
+        "cueIndex": 171,
+        "cueStart": 493.007,
+        "cueEnd": 494.542,
+        "cueText": "how did I come across?"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 161,
+            "start": 464.446,
+            "end": 466.814,
+            "text": "Wait, okay, yeah,\nwe were sitting over there."
+          },
+          {
+            "index": 162,
+            "start": 468.015,
+            "end": 470.285,
+            "text": "(TED LAUGHING)"
+          },
+          {
+            "index": 163,
+            "start": 470.318,
+            "end": 473.721,
+            "text": "\"Main Lobster.\" They spelled\nMaine without the \"e.\""
+          },
+          {
+            "index": 164,
+            "start": 473.755,
+            "end": 477.992,
+            "text": "Good to know we're\nnot getting the crappy\nunderstudy lobsters, right?"
+          },
+          {
+            "index": 165,
+            "start": 478.025,
+            "end": 480.428,
+            "text": "Tonight, the\nrole of pound‐and‐a‐half\nlobster will be played by..."
+          },
+          {
+            "index": 166,
+            "start": 480.462,
+            "end": 483.365,
+            "text": "I get it, Ted."
+          },
+          {
+            "index": 167,
+            "start": 483.398,
+            "end": 486.568,
+            "text": "Pointing out spelling errors\nin a menu makes you seem\nkind of snooty."
+          },
+          {
+            "index": 168,
+            "start": 486.601,
+            "end": 487.602,
+            "text": "Huh."
+          },
+          {
+            "index": 169,
+            "start": 488.303,
+            "end": 489.471,
+            "text": "I had no idea."
+          },
+          {
+            "index": 170,
+            "start": 489.504,
+            "end": 492.974,
+            "text": "Okay, well,\nwhat about me?\nAside from the cats,"
+          },
+          {
+            "index": 171,
+            "start": 493.007,
+            "end": 494.542,
+            "text": "how did I come across?"
+          },
+          {
+            "index": 172,
+            "start": 494.576,
+            "end": 496.711,
+            "text": "That's right, the check."
+          },
+          {
+            "index": 173,
+            "start": 496.744,
+            "end": 499.547,
+            "text": "The check came and,\nof course,\nI was going to pay,"
+          },
+          {
+            "index": 174,
+            "start": 499.581,
+            "end": 501.283,
+            "text": "but you didn't\ndo the check dance."
+          },
+          {
+            "index": 175,
+            "start": 521.903,
+            "end": 524.439,
+            "text": "Guys want to wave the girl off\nand, you know, look like\na big shot."
+          },
+          {
+            "index": 176,
+            "start": 524.472,
+            "end": 525.707,
+            "text": "Huh."
+          },
+          {
+            "index": 177,
+            "start": 525.74,
+            "end": 527.475,
+            "text": "I had no idea."
+          },
+          {
+            "index": 178,
+            "start": 527.509,
+            "end": 529.411,
+            "text": "This is good.\nWe're learning stuff."
+          },
+          {
+            "index": 179,
+            "start": 529.444,
+            "end": 532.58,
+            "text": "You know what we should do?\nWe should retrace the rest\nof that night"
+          },
+          {
+            "index": 180,
+            "start": 532.614,
+            "end": 535.75,
+            "text": "and figure out what else\nwe do wrong on first dates."
+          },
+          {
+            "index": 181,
+            "start": 535.783,
+            "end": 539.421,
+            "text": "'Cause let's be honest.\nWe are scaring people\noff, Jen."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 494.5978640136719,
+        "topCueIndex": -1,
+        "bottomCueIndex": 171
+      }
     }
   ]
 }
