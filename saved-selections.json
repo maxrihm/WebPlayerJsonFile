@@ -140193,6 +140193,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 82
       }
+    },
+    {
+      "id": "abae3dd9-1366-43eb-be49-f0489a98d6cd",
+      "createdAt": "2026-09-25T23:15:54.954Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/eb9f4f95-c051-4fb3-892f-302366725a75",
+      "audioTrackName": "",
+      "selectedText": "first,",
+      "selection": {
+        "rawText": "first,",
+        "startOffset": 4,
+        "endOffset": 10,
+        "cueIndex": 87,
+        "cueStart": 228.476,
+        "cueEnd": 231.078,
+        "cueText": "So, first,\nI need to have\na different fantasy."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 77,
+            "start": 201.583,
+            "end": 204.752,
+            "text": "It's harmless. Wait."
+          },
+          {
+            "index": 78,
+            "start": 204.786,
+            "end": 207.622,
+            "text": "Don't tell me you don't\nfantasize about other women."
+          },
+          {
+            "index": 79,
+            "start": 207.655,
+            "end": 209.023,
+            "text": "I do!"
+          },
+          {
+            "index": 80,
+            "start": 210.258,
+            "end": 211.959,
+            "text": "It's just not that easy."
+          },
+          {
+            "index": 81,
+            "start": 211.993,
+            "end": 214.061,
+            "text": "False."
+          },
+          {
+            "index": 82,
+            "start": 214.096,
+            "end": 218.065,
+            "text": "I once fantasized about that\nsilhouette chick you see on\na truck's mud flaps."
+          },
+          {
+            "index": 83,
+            "start": 218.1,
+            "end": 220.368,
+            "text": "Took me less than a mile."
+          },
+          {
+            "index": 84,
+            "start": 220.402,
+            "end": 222.47,
+            "text": "Not everyone is you,\nokay, Barney?"
+          },
+          {
+            "index": 85,
+            "start": 222.504,
+            "end": 225.307,
+            "text": "Even when\nI do start to have\na dirty thought like that,"
+          },
+          {
+            "index": 86,
+            "start": 225.34,
+            "end": 228.443,
+            "text": "it seems\nso much like cheating\non Lily, that I feel guilty."
+          },
+          {
+            "index": 87,
+            "start": 228.476,
+            "end": 231.078,
+            "text": "So, first,\nI need to have\na different fantasy."
+          },
+          {
+            "index": 88,
+            "start": 232.58,
+            "end": 233.748,
+            "text": "(HICCUPS)"
+          },
+          {
+            "index": 89,
+            "start": 239.454,
+            "end": 243.225,
+            "text": "Bad news.\nLily has a rare and\nfatal hiccup disorder"
+          },
+          {
+            "index": 90,
+            "start": 243.258,
+            "end": 244.792,
+            "text": "that's apparently\nmedically legitimate."
+          },
+          {
+            "index": 91,
+            "start": 244.826,
+            "end": 247.262,
+            "text": "What? How could this be?"
+          },
+          {
+            "index": 92,
+            "start": 247.295,
+            "end": 250.332,
+            "text": "Beats me, but it says it\nright here on this doctor\nclipboard that doctors have."
+          },
+          {
+            "index": 93,
+            "start": 251.766,
+            "end": 252.967,
+            "text": "(HICCUPS)"
+          },
+          {
+            "index": 94,
+            "start": 253,
+            "end": 254.336,
+            "text": "(CRYING SOFTLY)"
+          },
+          {
+            "index": 95,
+            "start": 261.008,
+            "end": 261.976,
+            "text": "(HICCUPS)"
+          },
+          {
+            "index": 96,
+            "start": 263.611,
+            "end": 264.512,
+            "text": "It's time, baby."
+          },
+          {
+            "index": 97,
+            "start": 266.914,
+            "end": 268.45,
+            "text": "(CRYING) I will\nnever love again."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 236.65230493164063,
+        "topCueIndex": -1,
+        "bottomCueIndex": 87
+      }
     }
   ]
 }
