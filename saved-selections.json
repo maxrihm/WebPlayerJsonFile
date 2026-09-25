@@ -142488,6 +142488,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 175
       }
+    },
+    {
+      "id": "0b36cf23-f2d4-4dc1-9e0c-36fd900bfb95",
+      "createdAt": "2026-09-25T23:32:06.075Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/eb9f4f95-c051-4fb3-892f-302366725a75",
+      "audioTrackName": "",
+      "selectedText": "retrace",
+      "selection": {
+        "rawText": "retrace",
+        "startOffset": 38,
+        "endOffset": 45,
+        "cueIndex": 179,
+        "cueStart": 529.444,
+        "cueEnd": 532.58,
+        "cueText": "You know what we should do?\nWe should retrace the rest\nof that night"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 169,
+            "start": 488.303,
+            "end": 489.471,
+            "text": "I had no idea."
+          },
+          {
+            "index": 170,
+            "start": 489.504,
+            "end": 492.974,
+            "text": "Okay, well,\nwhat about me?\nAside from the cats,"
+          },
+          {
+            "index": 171,
+            "start": 493.007,
+            "end": 494.542,
+            "text": "how did I come across?"
+          },
+          {
+            "index": 172,
+            "start": 494.576,
+            "end": 496.711,
+            "text": "That's right, the check."
+          },
+          {
+            "index": 173,
+            "start": 496.744,
+            "end": 499.547,
+            "text": "The check came and,\nof course,\nI was going to pay,"
+          },
+          {
+            "index": 174,
+            "start": 499.581,
+            "end": 501.283,
+            "text": "but you didn't\ndo the check dance."
+          },
+          {
+            "index": 175,
+            "start": 521.903,
+            "end": 524.439,
+            "text": "Guys want to wave the girl off\nand, you know, look like\na big shot."
+          },
+          {
+            "index": 176,
+            "start": 524.472,
+            "end": 525.707,
+            "text": "Huh."
+          },
+          {
+            "index": 177,
+            "start": 525.74,
+            "end": 527.475,
+            "text": "I had no idea."
+          },
+          {
+            "index": 178,
+            "start": 527.509,
+            "end": 529.411,
+            "text": "This is good.\nWe're learning stuff."
+          },
+          {
+            "index": 179,
+            "start": 529.444,
+            "end": 532.58,
+            "text": "You know what we should do?\nWe should retrace the rest\nof that night"
+          },
+          {
+            "index": 180,
+            "start": 532.614,
+            "end": 535.75,
+            "text": "and figure out what else\nwe do wrong on first dates."
+          },
+          {
+            "index": 181,
+            "start": 535.783,
+            "end": 539.421,
+            "text": "'Cause let's be honest.\nWe are scaring people\noff, Jen."
+          },
+          {
+            "index": 182,
+            "start": 539.454,
+            "end": 541.289,
+            "text": "We really are."
+          },
+          {
+            "index": 183,
+            "start": 541.323,
+            "end": 543.158,
+            "text": "Okay, I'm in."
+          },
+          {
+            "index": 184,
+            "start": 543.191,
+            "end": 545.093,
+            "text": "Great.\nWhere'd we go next?"
+          },
+          {
+            "index": 185,
+            "start": 545.127,
+            "end": 546.828,
+            "text": "I think we went to MacLaren's.\nOkay."
+          },
+          {
+            "index": 186,
+            "start": 551.933,
+            "end": 555.937,
+            "text": "Hey, I didn't really talk\nabout my cats that much,\ndid I?"
+          },
+          {
+            "index": 187,
+            "start": 555.97,
+            "end": 558.106,
+            "text": "And then, there's\nTabby‐Gail Adams,"
+          },
+          {
+            "index": 188,
+            "start": 558.14,
+            "end": 559.974,
+            "text": "the jester of the group."
+          },
+          {
+            "index": 189,
+            "start": 561.976,
+            "end": 564.179,
+            "text": "Tone down the\nkitty talk. Check."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 534.9215080566406,
+        "topCueIndex": -1,
+        "bottomCueIndex": 179
+      }
     }
   ]
 }
