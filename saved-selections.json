@@ -140652,6 +140652,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 92
       }
+    },
+    {
+      "id": "30d2b204-d510-4878-a6ec-b38b25fb9929",
+      "createdAt": "2026-09-25T23:18:48.623Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/eb9f4f95-c051-4fb3-892f-302366725a75",
+      "audioTrackName": "",
+      "selectedText": "that one time",
+      "selection": {
+        "rawText": "that\none time",
+        "startOffset": 44,
+        "endOffset": 57,
+        "cueIndex": 106,
+        "cueStart": 289.737,
+        "cueEnd": 293.308,
+        "cueText": "you must find that busty\ndelivery girl from that\none time"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 96,
+            "start": 263.611,
+            "end": 264.512,
+            "text": "It's time, baby."
+          },
+          {
+            "index": 97,
+            "start": 266.914,
+            "end": 268.45,
+            "text": "(CRYING) I will\nnever love again."
+          },
+          {
+            "index": 98,
+            "start": 268.483,
+            "end": 271.319,
+            "text": "No, Marshall, you must."
+          },
+          {
+            "index": 99,
+            "start": 271.353,
+            "end": 274.089,
+            "text": "And after\nan appropriate\nnumber of years,"
+          },
+          {
+            "index": 100,
+            "start": 274.122,
+            "end": 276.491,
+            "text": "you should find someone else,"
+          },
+          {
+            "index": 101,
+            "start": 276.524,
+            "end": 280.128,
+            "text": "someone like that busty\ndelivery girl from that\none time,"
+          },
+          {
+            "index": 102,
+            "start": 280.162,
+            "end": 283.731,
+            "text": "and plow her\nlike a cornfield."
+          },
+          {
+            "index": 103,
+            "start": 283.765,
+            "end": 285.367,
+            "text": "(HICCUPS RAPIDLY)"
+          },
+          {
+            "index": 104,
+            "start": 285.4,
+            "end": 286.768,
+            "text": "(MOANING)"
+          },
+          {
+            "index": 105,
+            "start": 286.801,
+            "end": 289.704,
+            "text": "And so, Marshall,\nto honor Lily,"
+          },
+          {
+            "index": 106,
+            "start": 289.737,
+            "end": 293.308,
+            "text": "you must find that busty\ndelivery girl from that\none time"
+          },
+          {
+            "index": 107,
+            "start": 293.341,
+            "end": 295.243,
+            "text": "and plow her\nlike a cornfield."
+          },
+          {
+            "index": 108,
+            "start": 300.482,
+            "end": 301.649,
+            "text": "(DOORBELL RINGING)"
+          },
+          {
+            "index": 109,
+            "start": 302.617,
+            "end": 303.585,
+            "text": "(CLEARING THROAT)"
+          },
+          {
+            "index": 110,
+            "start": 307.689,
+            "end": 309.591,
+            "text": "Delivery for\nMarshall Eriksen."
+          },
+          {
+            "index": 111,
+            "start": 316.764,
+            "end": 318.1,
+            "text": "This one's for you, Lil."
+          },
+          {
+            "index": 112,
+            "start": 320.001,
+            "end": 321.068,
+            "text": "Where do I sign?"
+          },
+          {
+            "index": 113,
+            "start": 324.939,
+            "end": 328.51,
+            "text": "And then watch out,\nbecause it is on!"
+          },
+          {
+            "index": 114,
+            "start": 330.145,
+            "end": 333.08,
+            "text": "That is the saddest\nthing I've ever heard."
+          },
+          {
+            "index": 115,
+            "start": 333.115,
+            "end": 335.617,
+            "text": "Dude, Lily gets you\nin real life."
+          },
+          {
+            "index": 116,
+            "start": 335.65,
+            "end": 337.652,
+            "text": "She has\nno business\nin your fantasies."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 293.3827080078125,
+        "topCueIndex": -1,
+        "bottomCueIndex": 106
+      }
     }
   ]
 }
