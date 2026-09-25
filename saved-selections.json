@@ -142641,6 +142641,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 179
       }
+    },
+    {
+      "id": "79c45a04-723f-4088-9b08-ace926449b40",
+      "createdAt": "2026-09-25T23:32:53.948Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/eb9f4f95-c051-4fb3-892f-302366725a75",
+      "audioTrackName": "",
+      "selectedText": "jester",
+      "selection": {
+        "rawText": "jester",
+        "startOffset": 4,
+        "endOffset": 10,
+        "cueIndex": 188,
+        "cueStart": 558.14,
+        "cueEnd": 559.974,
+        "cueText": "the jester of the group."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 178,
+            "start": 527.509,
+            "end": 529.411,
+            "text": "This is good.\nWe're learning stuff."
+          },
+          {
+            "index": 179,
+            "start": 529.444,
+            "end": 532.58,
+            "text": "You know what we should do?\nWe should retrace the rest\nof that night"
+          },
+          {
+            "index": 180,
+            "start": 532.614,
+            "end": 535.75,
+            "text": "and figure out what else\nwe do wrong on first dates."
+          },
+          {
+            "index": 181,
+            "start": 535.783,
+            "end": 539.421,
+            "text": "'Cause let's be honest.\nWe are scaring people\noff, Jen."
+          },
+          {
+            "index": 182,
+            "start": 539.454,
+            "end": 541.289,
+            "text": "We really are."
+          },
+          {
+            "index": 183,
+            "start": 541.323,
+            "end": 543.158,
+            "text": "Okay, I'm in."
+          },
+          {
+            "index": 184,
+            "start": 543.191,
+            "end": 545.093,
+            "text": "Great.\nWhere'd we go next?"
+          },
+          {
+            "index": 185,
+            "start": 545.127,
+            "end": 546.828,
+            "text": "I think we went to MacLaren's.\nOkay."
+          },
+          {
+            "index": 186,
+            "start": 551.933,
+            "end": 555.937,
+            "text": "Hey, I didn't really talk\nabout my cats that much,\ndid I?"
+          },
+          {
+            "index": 187,
+            "start": 555.97,
+            "end": 558.106,
+            "text": "And then, there's\nTabby‐Gail Adams,"
+          },
+          {
+            "index": 188,
+            "start": 558.14,
+            "end": 559.974,
+            "text": "the jester of the group."
+          },
+          {
+            "index": 189,
+            "start": 561.976,
+            "end": 564.179,
+            "text": "Tone down the\nkitty talk. Check."
+          },
+          {
+            "index": 190,
+            "start": 566.281,
+            "end": 569.05,
+            "text": "You will not believe\nwho we saw tonight."
+          },
+          {
+            "index": 191,
+            "start": 569.084,
+            "end": 572.12,
+            "text": "Dude...\nWe saw the third doppelganger!"
+          },
+          {
+            "index": 192,
+            "start": 572.154,
+            "end": 573.488,
+            "text": "(GASPING)"
+          },
+          {
+            "index": 193,
+            "start": 573.521,
+            "end": 574.889,
+            "text": "OLDER TED:\nI should explain."
+          },
+          {
+            "index": 194,
+            "start": 574.922,
+            "end": 576.491,
+            "text": "Over the years,\nwe had spotted\ntwo strangers"
+          },
+          {
+            "index": 195,
+            "start": 576.524,
+            "end": 578.993,
+            "text": "who looked exactly\nlike members of our group."
+          },
+          {
+            "index": 196,
+            "start": 579.026,
+            "end": 580.228,
+            "text": "(ALL CHATTERING)"
+          },
+          {
+            "index": 197,
+            "start": 580.262,
+            "end": 581.763,
+            "text": "Hey, hey, hey!"
+          },
+          {
+            "index": 198,
+            "start": 581.796,
+            "end": 583.064,
+            "text": "OLDER TED: Lesbian Robin."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 560.0302800292968,
+        "topCueIndex": -1,
+        "bottomCueIndex": 188
+      }
     }
   ]
 }
