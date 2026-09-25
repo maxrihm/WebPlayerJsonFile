@@ -140040,6 +140040,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 70
       }
+    },
+    {
+      "id": "606399bf-7062-4277-93f6-692be7795163",
+      "createdAt": "2026-09-25T23:13:59.753Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/eb9f4f95-c051-4fb3-892f-302366725a75",
+      "audioTrackName": "",
+      "selectedText": "flaps.",
+      "selection": {
+        "rawText": "flaps.",
+        "startOffset": 71,
+        "endOffset": 77,
+        "cueIndex": 82,
+        "cueStart": 214.096,
+        "cueEnd": 218.065,
+        "cueText": "I once fantasized about that\nsilhouette chick you see on\na truck's mud flaps."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 72,
+            "start": 185.3,
+            "end": 187.935,
+            "text": "I teach architecture."
+          },
+          {
+            "index": 73,
+            "start": 187.969,
+            "end": 191.106,
+            "text": "Get 50% off\nat the bookstore,\nso that's pretty sweet."
+          },
+          {
+            "index": 74,
+            "start": 194.075,
+            "end": 196.144,
+            "text": "Married!"
+          },
+          {
+            "index": 75,
+            "start": 196.178,
+            "end": 198.413,
+            "text": "What is wrong with you?"
+          },
+          {
+            "index": 76,
+            "start": 198.446,
+            "end": 201.549,
+            "text": "You're just looking.\nIt's like fantasizing\nabout other women."
+          },
+          {
+            "index": 77,
+            "start": 201.583,
+            "end": 204.752,
+            "text": "It's harmless. Wait."
+          },
+          {
+            "index": 78,
+            "start": 204.786,
+            "end": 207.622,
+            "text": "Don't tell me you don't\nfantasize about other women."
+          },
+          {
+            "index": 79,
+            "start": 207.655,
+            "end": 209.023,
+            "text": "I do!"
+          },
+          {
+            "index": 80,
+            "start": 210.258,
+            "end": 211.959,
+            "text": "It's just not that easy."
+          },
+          {
+            "index": 81,
+            "start": 211.993,
+            "end": 214.061,
+            "text": "False."
+          },
+          {
+            "index": 82,
+            "start": 214.096,
+            "end": 218.065,
+            "text": "I once fantasized about that\nsilhouette chick you see on\na truck's mud flaps."
+          },
+          {
+            "index": 83,
+            "start": 218.1,
+            "end": 220.368,
+            "text": "Took me less than a mile."
+          },
+          {
+            "index": 84,
+            "start": 220.402,
+            "end": 222.47,
+            "text": "Not everyone is you,\nokay, Barney?"
+          },
+          {
+            "index": 85,
+            "start": 222.504,
+            "end": 225.307,
+            "text": "Even when\nI do start to have\na dirty thought like that,"
+          },
+          {
+            "index": 86,
+            "start": 225.34,
+            "end": 228.443,
+            "text": "it seems\nso much like cheating\non Lily, that I feel guilty."
+          },
+          {
+            "index": 87,
+            "start": 228.476,
+            "end": 231.078,
+            "text": "So, first,\nI need to have\na different fantasy."
+          },
+          {
+            "index": 88,
+            "start": 232.58,
+            "end": 233.748,
+            "text": "(HICCUPS)"
+          },
+          {
+            "index": 89,
+            "start": 239.454,
+            "end": 243.225,
+            "text": "Bad news.\nLily has a rare and\nfatal hiccup disorder"
+          },
+          {
+            "index": 90,
+            "start": 243.258,
+            "end": 244.792,
+            "text": "that's apparently\nmedically legitimate."
+          },
+          {
+            "index": 91,
+            "start": 244.826,
+            "end": 247.262,
+            "text": "What? How could this be?"
+          },
+          {
+            "index": 92,
+            "start": 247.295,
+            "end": 250.332,
+            "text": "Beats me, but it says it\nright here on this doctor\nclipboard that doctors have."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 216.24946997070313,
+        "topCueIndex": -1,
+        "bottomCueIndex": 82
+      }
     }
   ]
 }
