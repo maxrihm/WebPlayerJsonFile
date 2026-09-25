@@ -139122,6 +139122,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 5
       }
+    },
+    {
+      "id": "69a483d9-fbbf-4f71-9657-8bac4e1abf5a",
+      "createdAt": "2026-09-25T23:03:50.655Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/eb9f4f95-c051-4fb3-892f-302366725a75",
+      "audioTrackName": "",
+      "selectedText": "Origins",
+      "selection": {
+        "rawText": "Origins",
+        "startOffset": 7,
+        "endOffset": 14,
+        "cueIndex": 17,
+        "cueStart": 56.971,
+        "cueEnd": 59.974,
+        "cueText": "to the Origins of Chewbacca\nStar Wars exhibit?"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 7,
+            "start": 24.106,
+            "end": 27.209,
+            "text": "because it was\nexactly the same."
+          },
+          {
+            "index": 8,
+            "start": 27.242,
+            "end": 29.076,
+            "text": "I was\non a blind date\nwith the same woman"
+          },
+          {
+            "index": 9,
+            "start": 29.111,
+            "end": 30.778,
+            "text": "I went on a blind date\nwith seven years earlier."
+          },
+          {
+            "index": 10,
+            "start": 31.646,
+            "end": 33.381,
+            "text": "Ted?\nJen?"
+          },
+          {
+            "index": 11,
+            "start": 33.415,
+            "end": 34.882,
+            "text": "It's nice to meet you."
+          },
+          {
+            "index": 12,
+            "start": 34.916,
+            "end": 37.485,
+            "text": "OLDER TED: And she didn't\nremember it. But then again..."
+          },
+          {
+            "index": 13,
+            "start": 37.519,
+            "end": 39.221,
+            "text": "It's nice to meet you, too."
+          },
+          {
+            "index": 14,
+            "start": 39.254,
+            "end": 40.054,
+            "text": "OLDER TED:\n...neither did I."
+          },
+          {
+            "index": 15,
+            "start": 40.088,
+            "end": 41.323,
+            "text": "Do you want to?\nYeah."
+          },
+          {
+            "index": 16,
+            "start": 54.936,
+            "end": 56.938,
+            "text": "Guess who just\ngot four tickets"
+          },
+          {
+            "index": 17,
+            "start": 56.971,
+            "end": 59.974,
+            "text": "to the Origins of Chewbacca\nStar Wars exhibit?"
+          },
+          {
+            "index": 18,
+            "start": 60.007,
+            "end": 61.276,
+            "text": "Why?"
+          },
+          {
+            "index": 19,
+            "start": 61.309,
+            "end": 62.377,
+            "text": "No, I said, \"Guess who?\""
+          },
+          {
+            "index": 20,
+            "start": 62.41,
+            "end": 64.146,
+            "text": "I heard you."
+          },
+          {
+            "index": 21,
+            "start": 64.179,
+            "end": 66.047,
+            "text": "Yeah, isn't it a little\nearly in our relationship"
+          },
+          {
+            "index": 22,
+            "start": 66.08,
+            "end": 68.25,
+            "text": "to do something that\nwould end our relationship?"
+          },
+          {
+            "index": 23,
+            "start": 68.283,
+            "end": 69.917,
+            "text": "What? No,\nwhat are you\ntalking about?"
+          },
+          {
+            "index": 24,
+            "start": 69.951,
+            "end": 71.719,
+            "text": "It can be our first\ndouble date as couples!"
+          },
+          {
+            "index": 25,
+            "start": 71.753,
+            "end": 74.122,
+            "text": "And plus,\nit sounds awesome!"
+          },
+          {
+            "index": 26,
+            "start": 74.156,
+            "end": 75.557,
+            "text": "Is the\noriginal Chewbacca\ngoing to be there?"
+          },
+          {
+            "index": 27,
+            "start": 75.59,
+            "end": 79.661,
+            "text": "Peter Mayhew, in the fur.\nWho's with me?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 60.63509912109375,
+        "topCueIndex": -1,
+        "bottomCueIndex": 17
+      }
     }
   ]
 }
