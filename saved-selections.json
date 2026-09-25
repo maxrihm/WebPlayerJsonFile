@@ -141723,6 +141723,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 129
       }
+    },
+    {
+      "id": "f7fc01ca-60d2-4504-bc15-689912f1c062",
+      "createdAt": "2026-09-25T23:24:43.921Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/eb9f4f95-c051-4fb3-892f-302366725a75",
+      "audioTrackName": "",
+      "selectedText": "wedge",
+      "selection": {
+        "rawText": "wedge",
+        "startOffset": 49,
+        "endOffset": 54,
+        "cueIndex": 133,
+        "cueStart": 380.828,
+        "cueEnd": 382.597,
+        "cueText": "But first, I'm going to make\nMarshall watch as I wedge\nUlysses S. Grant"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 123,
+            "start": 353.668,
+            "end": 354.969,
+            "text": "(CROWD CHEERING)"
+          },
+          {
+            "index": 124,
+            "start": 360.908,
+            "end": 363.077,
+            "text": "Barney?"
+          },
+          {
+            "index": 125,
+            "start": 363.111,
+            "end": 366.414,
+            "text": "Is it just me or\ndoes that stripper\nlook exactly like..."
+          },
+          {
+            "index": 126,
+            "start": 366.448,
+            "end": 368.916,
+            "text": "Ted, we found a stripper\nwho looks exactly like Lily!"
+          },
+          {
+            "index": 127,
+            "start": 368.95,
+            "end": 370.285,
+            "text": "Uh, yeah,\nI can't talk right now."
+          },
+          {
+            "index": 128,
+            "start": 370.318,
+            "end": 372.22,
+            "text": "I'm speechless, too."
+          },
+          {
+            "index": 129,
+            "start": 372.254,
+            "end": 374.055,
+            "text": "Everything's as perky\nas we've always imagined!"
+          },
+          {
+            "index": 130,
+            "start": 374.089,
+            "end": 375.823,
+            "text": "Stop looking at her."
+          },
+          {
+            "index": 131,
+            "start": 375.857,
+            "end": 378.326,
+            "text": "Look, I gotta go.\n(WHISPERING) Take a picture."
+          },
+          {
+            "index": 132,
+            "start": 378.36,
+            "end": 380.795,
+            "text": "Oh, I will."
+          },
+          {
+            "index": 133,
+            "start": 380.828,
+            "end": 382.597,
+            "text": "But first, I'm going to make\nMarshall watch as I wedge\nUlysses S. Grant"
+          },
+          {
+            "index": 134,
+            "start": 382.63,
+            "end": 384.299,
+            "text": "between his wife's tatas.\nI'll kill you!"
+          },
+          {
+            "index": 135,
+            "start": 384.332,
+            "end": 385.567,
+            "text": "(BARNEY YELLING)"
+          },
+          {
+            "index": 136,
+            "start": 387.302,
+            "end": 388.536,
+            "text": "Sorry about that."
+          },
+          {
+            "index": 137,
+            "start": 388.57,
+            "end": 390.472,
+            "text": "So, any thoughts on food?"
+          },
+          {
+            "index": 138,
+            "start": 393.175,
+            "end": 395.877,
+            "text": "Yeah, do you wanna\nshare the oysters?"
+          },
+          {
+            "index": 139,
+            "start": 395.91,
+            "end": 397.945,
+            "text": "I would love to\nshare the oysters."
+          },
+          {
+            "index": 140,
+            "start": 397.979,
+            "end": 401.616,
+            "text": "Good. 'Cause if you didn't,\nthat would be mighty\nshellfish."
+          },
+          {
+            "index": 141,
+            "start": 403.285,
+            "end": 406.321,
+            "text": "Wow, that's bad."
+          },
+          {
+            "index": 142,
+            "start": 406.354,
+            "end": 407.789,
+            "text": "That's why it's funny!"
+          },
+          {
+            "index": 143,
+            "start": 410.158,
+            "end": 411.326,
+            "text": "We've been on\nthis date before."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 381.91599194335936,
+        "topCueIndex": -1,
+        "bottomCueIndex": 133
+      }
     }
   ]
 }
