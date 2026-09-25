@@ -139887,6 +139887,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 71
       }
+    },
+    {
+      "id": "e5c1043c-be73-40f9-9154-eb9f35acc60e",
+      "createdAt": "2026-09-25T23:12:47.025Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/eb9f4f95-c051-4fb3-892f-302366725a75",
+      "audioTrackName": "",
+      "selectedText": "humble",
+      "selection": {
+        "rawText": "humble",
+        "startOffset": 37,
+        "endOffset": 43,
+        "cueIndex": 70,
+        "cueStart": 179.161,
+        "cueEnd": 181.629,
+        "cueText": "Hopefully, one day,\nI can use my own humble brush"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 60,
+            "start": 155.17,
+            "end": 159.207,
+            "text": "B t dub,\nI called ahead, it's lime."
+          },
+          {
+            "index": 61,
+            "start": 159.241,
+            "end": 162.377,
+            "text": "OLDER TED: Meanwhile, Jen and\nI were in my favorite first\ndate\nrestaurant"
+          },
+          {
+            "index": 62,
+            "start": 162.41,
+            "end": 163.578,
+            "text": "for the second time."
+          },
+          {
+            "index": 63,
+            "start": 163.611,
+            "end": 165.046,
+            "text": "So, Jen, what do you do?"
+          },
+          {
+            "index": 64,
+            "start": 165.079,
+            "end": 166.281,
+            "text": "I'm between jobs."
+          },
+          {
+            "index": 65,
+            "start": 166.314,
+            "end": 168.15,
+            "text": "Banking crisis."
+          },
+          {
+            "index": 66,
+            "start": 168.183,
+            "end": 171.586,
+            "text": "I'm between jobs.\nInternet bubble burst."
+          },
+          {
+            "index": 67,
+            "start": 171.619,
+            "end": 175.323,
+            "text": "Makes me realize I should go\ninto something more stable,\nlike banking."
+          },
+          {
+            "index": 68,
+            "start": 176.424,
+            "end": 177.392,
+            "text": "So, what about you?"
+          },
+          {
+            "index": 69,
+            "start": 177.425,
+            "end": 179.127,
+            "text": "I'm an architect."
+          },
+          {
+            "index": 70,
+            "start": 179.161,
+            "end": 181.629,
+            "text": "Hopefully, one day,\nI can use my own humble brush"
+          },
+          {
+            "index": 71,
+            "start": 181.663,
+            "end": 185.267,
+            "text": "on the masterpiece\nthat is Manhattan's skyline."
+          },
+          {
+            "index": 72,
+            "start": 185.3,
+            "end": 187.935,
+            "text": "I teach architecture."
+          },
+          {
+            "index": 73,
+            "start": 187.969,
+            "end": 191.106,
+            "text": "Get 50% off\nat the bookstore,\nso that's pretty sweet."
+          },
+          {
+            "index": 74,
+            "start": 194.075,
+            "end": 196.144,
+            "text": "Married!"
+          },
+          {
+            "index": 75,
+            "start": 196.178,
+            "end": 198.413,
+            "text": "What is wrong with you?"
+          },
+          {
+            "index": 76,
+            "start": 198.446,
+            "end": 201.549,
+            "text": "You're just looking.\nIt's like fantasizing\nabout other women."
+          },
+          {
+            "index": 77,
+            "start": 201.583,
+            "end": 204.752,
+            "text": "It's harmless. Wait."
+          },
+          {
+            "index": 78,
+            "start": 204.786,
+            "end": 207.622,
+            "text": "Don't tell me you don't\nfantasize about other women."
+          },
+          {
+            "index": 79,
+            "start": 207.655,
+            "end": 209.023,
+            "text": "I do!"
+          },
+          {
+            "index": 80,
+            "start": 210.258,
+            "end": 211.959,
+            "text": "It's just not that easy."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 184.55089208984376,
+        "topCueIndex": -1,
+        "bottomCueIndex": 70
+      }
     }
   ]
 }
