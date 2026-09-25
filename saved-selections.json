@@ -141417,6 +141417,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 115
       }
+    },
+    {
+      "id": "608d88d8-4940-4595-81f0-2e1dbf10da9d",
+      "createdAt": "2026-09-25T23:21:31.690Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/eb9f4f95-c051-4fb3-892f-302366725a75",
+      "audioTrackName": "",
+      "selectedText": "has no business",
+      "selection": {
+        "rawText": "has\nno business",
+        "startOffset": 4,
+        "endOffset": 19,
+        "cueIndex": 116,
+        "cueStart": 335.65,
+        "cueEnd": 337.652,
+        "cueText": "She has\nno business\nin your fantasies."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 106,
+            "start": 289.737,
+            "end": 293.308,
+            "text": "you must find that busty\ndelivery girl from that\none time"
+          },
+          {
+            "index": 107,
+            "start": 293.341,
+            "end": 295.243,
+            "text": "and plow her\nlike a cornfield."
+          },
+          {
+            "index": 108,
+            "start": 300.482,
+            "end": 301.649,
+            "text": "(DOORBELL RINGING)"
+          },
+          {
+            "index": 109,
+            "start": 302.617,
+            "end": 303.585,
+            "text": "(CLEARING THROAT)"
+          },
+          {
+            "index": 110,
+            "start": 307.689,
+            "end": 309.591,
+            "text": "Delivery for\nMarshall Eriksen."
+          },
+          {
+            "index": 111,
+            "start": 316.764,
+            "end": 318.1,
+            "text": "This one's for you, Lil."
+          },
+          {
+            "index": 112,
+            "start": 320.001,
+            "end": 321.068,
+            "text": "Where do I sign?"
+          },
+          {
+            "index": 113,
+            "start": 324.939,
+            "end": 328.51,
+            "text": "And then watch out,\nbecause it is on!"
+          },
+          {
+            "index": 114,
+            "start": 330.145,
+            "end": 333.08,
+            "text": "That is the saddest\nthing I've ever heard."
+          },
+          {
+            "index": 115,
+            "start": 333.115,
+            "end": 335.617,
+            "text": "Dude, Lily gets you\nin real life."
+          },
+          {
+            "index": 116,
+            "start": 335.65,
+            "end": 337.652,
+            "text": "She has\nno business\nin your fantasies."
+          },
+          {
+            "index": 117,
+            "start": 337.685,
+            "end": 340.155,
+            "text": "It's all I know, okay?\nI can't help it."
+          },
+          {
+            "index": 118,
+            "start": 340.188,
+            "end": 342.79,
+            "text": "I accept your invitation.\nMarshall Eriksen,"
+          },
+          {
+            "index": 119,
+            "start": 342.824,
+            "end": 346.294,
+            "text": "from this day forward,\nI will be the wingman\nof your mind."
+          },
+          {
+            "index": 120,
+            "start": 346.328,
+            "end": 348.596,
+            "text": "Now, focus\non the next dancer."
+          },
+          {
+            "index": 121,
+            "start": 348.63,
+            "end": 350.698,
+            "text": "Put Lily completely\nout of your mind."
+          },
+          {
+            "index": 122,
+            "start": 350.732,
+            "end": 353.635,
+            "text": "ANNOUNCER: Gentlemen,\nsay hello to\n(STAMMERING) Jasmine."
+          },
+          {
+            "index": 123,
+            "start": 353.668,
+            "end": 354.969,
+            "text": "(CROWD CHEERING)"
+          },
+          {
+            "index": 124,
+            "start": 360.908,
+            "end": 363.077,
+            "text": "Barney?"
+          },
+          {
+            "index": 125,
+            "start": 363.111,
+            "end": 366.414,
+            "text": "Is it just me or\ndoes that stripper\nlook exactly like..."
+          },
+          {
+            "index": 126,
+            "start": 366.448,
+            "end": 368.916,
+            "text": "Ted, we found a stripper\nwho looks exactly like Lily!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 337.93198803710936,
+        "topCueIndex": -1,
+        "bottomCueIndex": 116
+      }
     }
   ]
 }
