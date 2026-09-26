@@ -145548,6 +145548,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 366
       }
+    },
+    {
+      "id": "2abffb91-a817-47ee-8019-36d3bc18cdfd",
+      "createdAt": "2026-09-26T21:50:36.607Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/eb9f4f95-c051-4fb3-892f-302366725a75",
+      "audioTrackName": "",
+      "selectedText": "miss by",
+      "selection": {
+        "rawText": "miss by",
+        "startOffset": 33,
+        "endOffset": 40,
+        "cueIndex": 373,
+        "cueStart": 1075.357,
+        "cueEnd": 1078.293,
+        "cueText": "if you think about it,\nwe didn't miss by\nthat much."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 363,
+            "start": 1047.662,
+            "end": 1050.965,
+            "text": "and talk\nsome sense into 2002 Ted,\nbut that guy's a lost cause."
+          },
+          {
+            "index": 364,
+            "start": 1051.799,
+            "end": 1053.868,
+            "text": "He's 24."
+          },
+          {
+            "index": 365,
+            "start": 1053.901,
+            "end": 1057.105,
+            "text": "He thinks a little\nfacial hair makes him\nlook like Johnny Depp."
+          },
+          {
+            "index": 366,
+            "start": 1057.139,
+            "end": 1059.941,
+            "text": "And he has no idea what\na great girl he's\nmissing out on."
+          },
+          {
+            "index": 367,
+            "start": 1059.974,
+            "end": 1063.878,
+            "text": "But I've\nlearned a lot since then.\nI've learned a lot tonight."
+          },
+          {
+            "index": 368,
+            "start": 1063.911,
+            "end": 1065.947,
+            "text": "The only thing that\nwe've learned is that"
+          },
+          {
+            "index": 369,
+            "start": 1065.98,
+            "end": 1068.316,
+            "text": "seven years ago,\nit was a mistake\nfor us to go out."
+          },
+          {
+            "index": 370,
+            "start": 1068.35,
+            "end": 1070.452,
+            "text": "And I guess\nit was a mistake\nfor us to go out tonight."
+          },
+          {
+            "index": 371,
+            "start": 1070.485,
+            "end": 1072.487,
+            "text": "No, it wasn't."
+          },
+          {
+            "index": 372,
+            "start": 1072.52,
+            "end": 1075.323,
+            "text": "I had a great time tonight.\nAnd seven years ago,"
+          },
+          {
+            "index": 373,
+            "start": 1075.357,
+            "end": 1078.293,
+            "text": "if you think about it,\nwe didn't miss by\nthat much."
+          },
+          {
+            "index": 374,
+            "start": 1078.326,
+            "end": 1080.528,
+            "text": "I mean, if\na couple of things had\ngone a little bit differently,"
+          },
+          {
+            "index": 375,
+            "start": 1081.796,
+            "end": 1083.565,
+            "text": "who knows what\nwould have happened?"
+          },
+          {
+            "index": 376,
+            "start": 1083.598,
+            "end": 1085.1,
+            "text": "(REWIND PLAYING)"
+          },
+          {
+            "index": 377,
+            "start": 1090.638,
+            "end": 1096.077,
+            "text": "♪ Asking you to stay\nThe words are finally here"
+          },
+          {
+            "index": 378,
+            "start": 1096.111,
+            "end": 1102.284,
+            "text": "♪ Let's rewind and rewind"
+          },
+          {
+            "index": 379,
+            "start": 1104.286,
+            "end": 1110.592,
+            "text": "♪ You see,\nyou're the only star\nin the film I never made"
+          },
+          {
+            "index": 380,
+            "start": 1110.625,
+            "end": 1117.365,
+            "text": "♪ Would you\nrewind it all the time\nRewind it all the time ♪"
+          },
+          {
+            "index": 381,
+            "start": 1120.402,
+            "end": 1121.469,
+            "text": "Wow."
+          },
+          {
+            "index": 382,
+            "start": 1121.503,
+            "end": 1122.637,
+            "text": "Wow."
+          },
+          {
+            "index": 383,
+            "start": 1128.009,
+            "end": 1131.446,
+            "text": "You are the best,\nyou are the best."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1077.2162299804688,
+        "topCueIndex": -1,
+        "bottomCueIndex": 373
+      }
     }
   ]
 }
