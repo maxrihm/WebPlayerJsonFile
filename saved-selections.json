@@ -144936,6 +144936,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 313
       }
+    },
+    {
+      "id": "4afddd22-8ff9-4ffc-8199-53316af22898",
+      "createdAt": "2026-09-26T21:42:50.762Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/eb9f4f95-c051-4fb3-892f-302366725a75",
+      "audioTrackName": "",
+      "selectedText": "gotten to the point",
+      "selection": {
+        "rawText": "gotten to the point",
+        "startOffset": 5,
+        "endOffset": 24,
+        "cueIndex": 339,
+        "cueStart": 978.16,
+        "cueEnd": 979.894,
+        "cueText": "It's gotten to the point\nwhere every time I drive\npast a cemetery,"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 329,
+            "start": 947.061,
+            "end": 948.73,
+            "text": "The truth is,\nI had a great time tonight,"
+          },
+          {
+            "index": 330,
+            "start": 948.763,
+            "end": 950.932,
+            "text": "and I'd love\nto see you again."
+          },
+          {
+            "index": 331,
+            "start": 950.965,
+            "end": 953.868,
+            "text": "Ted, there are\ntwo kinds of guys."
+          },
+          {
+            "index": 332,
+            "start": 953.901,
+            "end": 955.87,
+            "text": "The guys that you\nwant to call you,\nwho don't,"
+          },
+          {
+            "index": 333,
+            "start": 955.903,
+            "end": 958.973,
+            "text": "and the guys you don't want\nto call you, who always do."
+          },
+          {
+            "index": 334,
+            "start": 959.006,
+            "end": 961.476,
+            "text": "And somehow,\nright now, you're both."
+          },
+          {
+            "index": 335,
+            "start": 964.679,
+            "end": 968.15,
+            "text": "Baby, you should\nbe able to fantasize\nabout another woman"
+          },
+          {
+            "index": 336,
+            "start": 968.183,
+            "end": 972.087,
+            "text": "without feeling guilty,\nor, you know, killing me off."
+          },
+          {
+            "index": 337,
+            "start": 972.12,
+            "end": 974.489,
+            "text": "I wish that I could,\nbut I've been doing\nthis for so long,"
+          },
+          {
+            "index": 338,
+            "start": 974.522,
+            "end": 978.126,
+            "text": "I'm all confused\nabout death and sex."
+          },
+          {
+            "index": 339,
+            "start": 978.16,
+            "end": 979.894,
+            "text": "It's gotten to the point\nwhere every time I drive\npast a cemetery,"
+          },
+          {
+            "index": 340,
+            "start": 979.927,
+            "end": 981.129,
+            "text": "I'm sporting a partial."
+          },
+          {
+            "index": 341,
+            "start": 982.964,
+            "end": 985.633,
+            "text": "All right, we gotta fix this."
+          },
+          {
+            "index": 342,
+            "start": 985.667,
+            "end": 988.303,
+            "text": "Okay, when Stripper Lily\ngets out here,"
+          },
+          {
+            "index": 343,
+            "start": 988.336,
+            "end": 990.772,
+            "text": "you have my permission\nto fantasize about her."
+          },
+          {
+            "index": 344,
+            "start": 990.805,
+            "end": 994.276,
+            "text": "And since she's basically me,\nmaybe you won't feel guilty."
+          },
+          {
+            "index": 345,
+            "start": 994.309,
+            "end": 996.644,
+            "text": "Thanks, baby.\nI'm so lucky to have you."
+          },
+          {
+            "index": 346,
+            "start": 996.678,
+            "end": 997.745,
+            "text": "And stripper you."
+          },
+          {
+            "index": 347,
+            "start": 999.481,
+            "end": 1000.948,
+            "text": "Bring out Stripper Lily!"
+          },
+          {
+            "index": 348,
+            "start": 1005.087,
+            "end": 1006.821,
+            "text": "You know,\nI don't come\nhere that much."
+          },
+          {
+            "index": 349,
+            "start": 1006.854,
+            "end": 1009.291,
+            "text": "Hey, Barney.\nHere's the usual"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 982.0900148925781,
+        "topCueIndex": -1,
+        "bottomCueIndex": 339
+      }
     }
   ]
 }
