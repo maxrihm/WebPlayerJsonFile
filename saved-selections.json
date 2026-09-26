@@ -144630,6 +144630,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 281
       }
+    },
+    {
+      "id": "41d2e8fd-aea4-460c-84d2-ba08219fccc9",
+      "createdAt": "2026-09-26T21:37:11.230Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/eb9f4f95-c051-4fb3-892f-302366725a75",
+      "audioTrackName": "",
+      "selectedText": "rotund",
+      "selection": {
+        "rawText": "rotund",
+        "startOffset": 2,
+        "endOffset": 8,
+        "cueIndex": 305,
+        "cueStart": 864.512,
+        "cueEnd": 866.814,
+        "cueText": "a rotund couple going\nat it against the glass."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 295,
+            "start": 831.913,
+            "end": 833.481,
+            "text": "We were checking out\nMustache Marshall."
+          },
+          {
+            "index": 296,
+            "start": 833.515,
+            "end": 835.583,
+            "text": "ALL: Oh!"
+          },
+          {
+            "index": 297,
+            "start": 835.617,
+            "end": 838.72,
+            "text": "Gosh, I thought\nyou were such a jerk.\nI'm so sorry."
+          },
+          {
+            "index": 298,
+            "start": 838.753,
+            "end": 843.291,
+            "text": "Yeah, well,\nit's nice to know \"past me\"\nwasn't a total jackass, huh?"
+          },
+          {
+            "index": 299,
+            "start": 843.325,
+            "end": 844.959,
+            "text": "\"Present you\"\nisn't so bad, either."
+          },
+          {
+            "index": 300,
+            "start": 848.296,
+            "end": 850.265,
+            "text": "Thank you very much. Yes.\nYou got it?"
+          },
+          {
+            "index": 301,
+            "start": 852.6,
+            "end": 857.272,
+            "text": "Oh, yeah!\nI remember this."
+          },
+          {
+            "index": 302,
+            "start": 857.305,
+            "end": 859.04,
+            "text": "And there's\nthe Chrysler Building."
+          },
+          {
+            "index": 303,
+            "start": 859.073,
+            "end": 861.109,
+            "text": "And the Empire\nState Building."
+          },
+          {
+            "index": 304,
+            "start": 862.644,
+            "end": 864.479,
+            "text": "And at twelve o' clock,"
+          },
+          {
+            "index": 305,
+            "start": 864.512,
+            "end": 866.814,
+            "text": "a rotund couple going\nat it against the glass."
+          },
+          {
+            "index": 306,
+            "start": 866.848,
+            "end": 868.083,
+            "text": "Oh!"
+          },
+          {
+            "index": 307,
+            "start": 868.116,
+            "end": 870.252,
+            "text": "That's kind of sweet."
+          },
+          {
+            "index": 308,
+            "start": 870.285,
+            "end": 872.654,
+            "text": "Oh, look, snack break."
+          },
+          {
+            "index": 309,
+            "start": 874.089,
+            "end": 875.79,
+            "text": "Good for them."
+          },
+          {
+            "index": 310,
+            "start": 875.823,
+            "end": 878.226,
+            "text": "Letting a guy eat pizza\noff your back, that's love."
+          },
+          {
+            "index": 311,
+            "start": 878.26,
+            "end": 879.694,
+            "text": "(GIGGLING)"
+          },
+          {
+            "index": 312,
+            "start": 881.729,
+            "end": 886.101,
+            "text": "So, I know this wasn't\nthe best first date of\nall time,"
+          },
+          {
+            "index": 313,
+            "start": 886.134,
+            "end": 889.137,
+            "text": "but I'm glad\nwe stuck it out."
+          },
+          {
+            "index": 314,
+            "start": 889.171,
+            "end": 890.071,
+            "text": "Me, too."
+          },
+          {
+            "index": 315,
+            "start": 897.179,
+            "end": 900.448,
+            "text": "That was really great.\nWhat went wrong?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 866.8447849121094,
+        "topCueIndex": -1,
+        "bottomCueIndex": 305
+      }
     }
   ]
 }
