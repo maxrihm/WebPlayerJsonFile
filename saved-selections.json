@@ -143559,6 +143559,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 248
       }
+    },
+    {
+      "id": "466877cb-96ab-41fe-9242-cdbbb2a7d6cd",
+      "createdAt": "2026-09-26T21:25:07.259Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/eb9f4f95-c051-4fb3-892f-302366725a75",
+      "audioTrackName": "",
+      "selectedText": "spare no expense",
+      "selection": {
+        "rawText": "spare no expense",
+        "startOffset": 2,
+        "endOffset": 18,
+        "cueIndex": 263,
+        "cueStart": 748.763,
+        "cueEnd": 750.565,
+        "cueText": "I spare no expense\nfor your care!"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 253,
+            "start": 713.728,
+            "end": 714.896,
+            "text": "(LAUGHING) No, we're not."
+          },
+          {
+            "index": 254,
+            "start": 718.666,
+            "end": 723.205,
+            "text": "Lily, sometimes I think\nabout other women.\nOkay, it happens."
+          },
+          {
+            "index": 255,
+            "start": 723.238,
+            "end": 727.074,
+            "text": "But even when I do,\nI feel so guilty\nthat I..."
+          },
+          {
+            "index": 256,
+            "start": 727.109,
+            "end": 730.044,
+            "text": "I have to imagine\nyou passing away first"
+          },
+          {
+            "index": 257,
+            "start": 730.077,
+            "end": 734.081,
+            "text": "because even\nin a fantasy world,\nI could never cheat on you."
+          },
+          {
+            "index": 258,
+            "start": 734.116,
+            "end": 736.451,
+            "text": "You're just my life,\nbaby, and I love you."
+          },
+          {
+            "index": 259,
+            "start": 739.121,
+            "end": 741.256,
+            "text": "You kill me off?"
+          },
+          {
+            "index": 260,
+            "start": 741.289,
+            "end": 743.458,
+            "text": "I mean,\nfantasize about\nother girls all you want,"
+          },
+          {
+            "index": 261,
+            "start": 743.491,
+            "end": 745.627,
+            "text": "but could you\nmaybe not murder me?"
+          },
+          {
+            "index": 262,
+            "start": 745.66,
+            "end": 748.73,
+            "text": "Murder? No! I... Baby, no.\nYou develop a chronic illness!"
+          },
+          {
+            "index": 263,
+            "start": 748.763,
+            "end": 750.565,
+            "text": "I spare no expense\nfor your care!"
+          },
+          {
+            "index": 264,
+            "start": 750.598,
+            "end": 752.033,
+            "text": "I even set up a foundation\nin your name."
+          },
+          {
+            "index": 265,
+            "start": 752.066,
+            "end": 753.601,
+            "text": "We're, like,\nthis close to a cure."
+          },
+          {
+            "index": 266,
+            "start": 755.27,
+            "end": 757.139,
+            "text": "Remember?"
+          },
+          {
+            "index": 267,
+            "start": 757.172,
+            "end": 759.274,
+            "text": "Oh, yeah!\nI do remember."
+          },
+          {
+            "index": 268,
+            "start": 759.307,
+            "end": 761.809,
+            "text": "We went in here for a drink\nwith your friends,\nwho I loved."
+          },
+          {
+            "index": 269,
+            "start": 761.843,
+            "end": 764.412,
+            "text": "Or hated, depending on\nwhether you're still\nfriends with them."
+          },
+          {
+            "index": 270,
+            "start": 764.446,
+            "end": 766.814,
+            "text": "You love them.\nThey're family, Ted."
+          },
+          {
+            "index": 271,
+            "start": 766.848,
+            "end": 768.583,
+            "text": "Let's go in and see\nwhat they remember."
+          },
+          {
+            "index": 272,
+            "start": 768.616,
+            "end": 771.119,
+            "text": "And they are my best friends,"
+          },
+          {
+            "index": 273,
+            "start": 771.153,
+            "end": 774.589,
+            "text": "so don't be surprised if they\nsuddenly can't think of\nanything I do wrong."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 750.6969489746094,
+        "topCueIndex": -1,
+        "bottomCueIndex": 263
+      }
     }
   ]
 }
