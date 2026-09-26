@@ -145701,6 +145701,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 373
       }
+    },
+    {
+      "id": "0cd092d3-aaf0-49b8-b4ef-9b926dd46b96",
+      "createdAt": "2026-09-26T21:56:14.359Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/eb9f4f95-c051-4fb3-892f-302366725a75",
+      "audioTrackName": "",
+      "selectedText": "couldn't care less.",
+      "selection": {
+        "rawText": "couldn't care less.",
+        "startOffset": 49,
+        "endOffset": 68,
+        "cueIndex": 384,
+        "cueStart": 1131.479,
+        "cueEnd": 1134.382,
+        "cueText": "My girlfriend\nis at a strip club with me\nand she couldn't care less."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 374,
+            "start": 1078.326,
+            "end": 1080.528,
+            "text": "I mean, if\na couple of things had\ngone a little bit differently,"
+          },
+          {
+            "index": 375,
+            "start": 1081.796,
+            "end": 1083.565,
+            "text": "who knows what\nwould have happened?"
+          },
+          {
+            "index": 376,
+            "start": 1083.598,
+            "end": 1085.1,
+            "text": "(REWIND PLAYING)"
+          },
+          {
+            "index": 377,
+            "start": 1090.638,
+            "end": 1096.077,
+            "text": "♪ Asking you to stay\nThe words are finally here"
+          },
+          {
+            "index": 378,
+            "start": 1096.111,
+            "end": 1102.284,
+            "text": "♪ Let's rewind and rewind"
+          },
+          {
+            "index": 379,
+            "start": 1104.286,
+            "end": 1110.592,
+            "text": "♪ You see,\nyou're the only star\nin the film I never made"
+          },
+          {
+            "index": 380,
+            "start": 1110.625,
+            "end": 1117.365,
+            "text": "♪ Would you\nrewind it all the time\nRewind it all the time ♪"
+          },
+          {
+            "index": 381,
+            "start": 1120.402,
+            "end": 1121.469,
+            "text": "Wow."
+          },
+          {
+            "index": 382,
+            "start": 1121.503,
+            "end": 1122.637,
+            "text": "Wow."
+          },
+          {
+            "index": 383,
+            "start": 1128.009,
+            "end": 1131.446,
+            "text": "You are the best,\nyou are the best."
+          },
+          {
+            "index": 384,
+            "start": 1131.479,
+            "end": 1134.382,
+            "text": "My girlfriend\nis at a strip club with me\nand she couldn't care less."
+          },
+          {
+            "index": 385,
+            "start": 1134.416,
+            "end": 1136.418,
+            "text": "I do care, Barney."
+          },
+          {
+            "index": 386,
+            "start": 1136.451,
+            "end": 1138.72,
+            "text": "Look, we're\ndating now, okay?\nThat changes things."
+          },
+          {
+            "index": 387,
+            "start": 1138.753,
+            "end": 1140.955,
+            "text": "We need to have\na serious talk\nabout this."
+          },
+          {
+            "index": 388,
+            "start": 1140.988,
+            "end": 1142.457,
+            "text": "Just the best."
+          },
+          {
+            "index": 389,
+            "start": 1142.49,
+            "end": 1144.492,
+            "text": "Hey, girlfriend trouble?"
+          },
+          {
+            "index": 390,
+            "start": 1144.526,
+            "end": 1146.761,
+            "text": "I wish I could help,\nbut my unbelievably\ncool wife"
+          },
+          {
+            "index": 391,
+            "start": 1146.794,
+            "end": 1148.23,
+            "text": "just bought us\na private dance"
+          },
+          {
+            "index": 392,
+            "start": 1148.263,
+            "end": 1149.431,
+            "text": "with her\nstripper body double."
+          },
+          {
+            "index": 393,
+            "start": 1149.464,
+            "end": 1151.399,
+            "text": "So, if you need me,\nI'll be getting grinded"
+          },
+          {
+            "index": 394,
+            "start": 1151.433,
+            "end": 1153.435,
+            "text": "like some pepper\nin the champagne room."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1133.632708984375,
+        "topCueIndex": -1,
+        "bottomCueIndex": 384
+      }
     }
   ]
 }
