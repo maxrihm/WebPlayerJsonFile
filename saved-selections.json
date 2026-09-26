@@ -143253,6 +143253,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 227
       }
+    },
+    {
+      "id": "a8f576ac-e5cc-47ba-ba32-da7eff4663fb",
+      "createdAt": "2026-09-26T21:19:22.814Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/eb9f4f95-c051-4fb3-892f-302366725a75",
+      "audioTrackName": "",
+      "selectedText": "lead off with",
+      "selection": {
+        "rawText": "lead off with",
+        "startOffset": 20,
+        "endOffset": 33,
+        "cueIndex": 236,
+        "cueStart": 675.857,
+        "cueEnd": 678.626,
+        "cueText": "See? Why didn't you\nlead off with that?"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 226,
+            "start": 646.961,
+            "end": 649.797,
+            "text": "I'm pretty impervious\nto stuff like that."
+          },
+          {
+            "index": 227,
+            "start": 649.831,
+            "end": 652.934,
+            "text": "I couldn't admit I was cold.\nI didn't want to seem like\na wimp"
+          },
+          {
+            "index": 228,
+            "start": 652.967,
+            "end": 654.769,
+            "text": "compared to your\naction hero ex‐boyfriend"
+          },
+          {
+            "index": 229,
+            "start": 654.802,
+            "end": 656.738,
+            "text": "who you wouldn't\nstop talking about."
+          },
+          {
+            "index": 230,
+            "start": 656.771,
+            "end": 658.606,
+            "text": "After a day of\nfighting fires,"
+          },
+          {
+            "index": 231,
+            "start": 658.64,
+            "end": 662.277,
+            "text": "Jim would love to come home\nand unwind working on his\n'68 Camaro."
+          },
+          {
+            "index": 232,
+            "start": 662.31,
+            "end": 666.414,
+            "text": "That or bare‐knuckle boxing,\nwhich he learned in the\nMarine Corps."
+          },
+          {
+            "index": 233,
+            "start": 666.448,
+            "end": 668.983,
+            "text": "I had an aunt in\nthe Coast Guard."
+          },
+          {
+            "index": 234,
+            "start": 669.016,
+            "end": 672.987,
+            "text": "Okay, so no talking\nabout the ex."
+          },
+          {
+            "index": 235,
+            "start": 673.02,
+            "end": 675.823,
+            "text": "Not even about his\nshockingly small wiener?"
+          },
+          {
+            "index": 236,
+            "start": 675.857,
+            "end": 678.626,
+            "text": "See? Why didn't you\nlead off with that?"
+          },
+          {
+            "index": 237,
+            "start": 679.494,
+            "end": 681.596,
+            "text": "(LAUGHING)"
+          },
+          {
+            "index": 238,
+            "start": 681.629,
+            "end": 684.732,
+            "text": "Was there a shower on stage?\nSometimes there's a shower\non stage."
+          },
+          {
+            "index": 239,
+            "start": 684.766,
+            "end": 686.301,
+            "text": "I bet stripper me\nwould get in there"
+          },
+          {
+            "index": 240,
+            "start": 686.334,
+            "end": 689.537,
+            "text": "with another girl\nand just go bananas."
+          },
+          {
+            "index": 241,
+            "start": 689.571,
+            "end": 692.64,
+            "text": "See, Marshall?\nWe got to have a bros'\nnight at a strip club"
+          },
+          {
+            "index": 242,
+            "start": 692.674,
+            "end": 694.642,
+            "text": "and both of our ladies\nare totally cool with it."
+          },
+          {
+            "index": 243,
+            "start": 694.676,
+            "end": 697.044,
+            "text": "I'm not cool with it."
+          },
+          {
+            "index": 244,
+            "start": 697.078,
+            "end": 699.281,
+            "text": "Because they understand\nthat it's healthy for us\nto do that from time to time."
+          },
+          {
+            "index": 245,
+            "start": 699.314,
+            "end": 700.482,
+            "text": "It's disgusting."
+          },
+          {
+            "index": 246,
+            "start": 700.515,
+            "end": 702.217,
+            "text": "Because it's harmless."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 676.7537028808594,
+        "topCueIndex": -1,
+        "bottomCueIndex": 236
+      }
     }
   ]
 }
