@@ -144783,6 +144783,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 305
       }
+    },
+    {
+      "id": "c878ce59-3082-4ee3-94fa-e6a994103319",
+      "createdAt": "2026-09-26T21:39:18.686Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/eb9f4f95-c051-4fb3-892f-302366725a75",
+      "audioTrackName": "",
+      "selectedText": "stuck it out.",
+      "selection": {
+        "rawText": "stuck it out.",
+        "startOffset": 16,
+        "endOffset": 29,
+        "cueIndex": 313,
+        "cueStart": 886.134,
+        "cueEnd": 889.137,
+        "cueText": "but I'm glad\nwe stuck it out."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 303,
+            "start": 859.073,
+            "end": 861.109,
+            "text": "And the Empire\nState Building."
+          },
+          {
+            "index": 304,
+            "start": 862.644,
+            "end": 864.479,
+            "text": "And at twelve o' clock,"
+          },
+          {
+            "index": 305,
+            "start": 864.512,
+            "end": 866.814,
+            "text": "a rotund couple going\nat it against the glass."
+          },
+          {
+            "index": 306,
+            "start": 866.848,
+            "end": 868.083,
+            "text": "Oh!"
+          },
+          {
+            "index": 307,
+            "start": 868.116,
+            "end": 870.252,
+            "text": "That's kind of sweet."
+          },
+          {
+            "index": 308,
+            "start": 870.285,
+            "end": 872.654,
+            "text": "Oh, look, snack break."
+          },
+          {
+            "index": 309,
+            "start": 874.089,
+            "end": 875.79,
+            "text": "Good for them."
+          },
+          {
+            "index": 310,
+            "start": 875.823,
+            "end": 878.226,
+            "text": "Letting a guy eat pizza\noff your back, that's love."
+          },
+          {
+            "index": 311,
+            "start": 878.26,
+            "end": 879.694,
+            "text": "(GIGGLING)"
+          },
+          {
+            "index": 312,
+            "start": 881.729,
+            "end": 886.101,
+            "text": "So, I know this wasn't\nthe best first date of\nall time,"
+          },
+          {
+            "index": 313,
+            "start": 886.134,
+            "end": 889.137,
+            "text": "but I'm glad\nwe stuck it out."
+          },
+          {
+            "index": 314,
+            "start": 889.171,
+            "end": 890.071,
+            "text": "Me, too."
+          },
+          {
+            "index": 315,
+            "start": 897.179,
+            "end": 900.448,
+            "text": "That was really great.\nWhat went wrong?"
+          },
+          {
+            "index": 316,
+            "start": 900.482,
+            "end": 901.983,
+            "text": "I remember now."
+          },
+          {
+            "index": 317,
+            "start": 906.454,
+            "end": 910.092,
+            "text": "Wow.\nYeah."
+          },
+          {
+            "index": 318,
+            "start": 910.125,
+            "end": 913.027,
+            "text": "So, would you maybe\nwant to go out again?"
+          },
+          {
+            "index": 319,
+            "start": 913.06,
+            "end": 915.197,
+            "text": "Yeah, I... I would."
+          },
+          {
+            "index": 320,
+            "start": 915.23,
+            "end": 917.865,
+            "text": "Will you call me?\nAbsolutely."
+          },
+          {
+            "index": 321,
+            "start": 917.899,
+            "end": 919.334,
+            "text": "Promise?\nPromise."
+          },
+          {
+            "index": 322,
+            "start": 922.57,
+            "end": 925.407,
+            "text": "I have been so busy."
+          },
+          {
+            "index": 323,
+            "start": 927.442,
+            "end": 928.576,
+            "text": "Good night, Ted."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 889.04887109375,
+        "topCueIndex": -1,
+        "bottomCueIndex": 313
+      }
     }
   ]
 }
