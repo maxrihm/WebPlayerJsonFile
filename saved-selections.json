@@ -144324,6 +144324,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 274
       }
+    },
+    {
+      "id": "010f2ee3-a13f-41e7-956d-b35211abbd46",
+      "createdAt": "2026-09-26T21:28:36.738Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/eb9f4f95-c051-4fb3-892f-302366725a75",
+      "audioTrackName": "",
+      "selectedText": "panning that river,",
+      "selection": {
+        "rawText": "panning\nthat river,",
+        "startOffset": 5,
+        "endOffset": 24,
+        "cueIndex": 277,
+        "cueStart": 783.165,
+        "cueEnd": 784.899,
+        "cueText": "Keep panning\nthat river, buddy."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 267,
+            "start": 757.172,
+            "end": 759.274,
+            "text": "Oh, yeah!\nI do remember."
+          },
+          {
+            "index": 268,
+            "start": 759.307,
+            "end": 761.809,
+            "text": "We went in here for a drink\nwith your friends,\nwho I loved."
+          },
+          {
+            "index": 269,
+            "start": 761.843,
+            "end": 764.412,
+            "text": "Or hated, depending on\nwhether you're still\nfriends with them."
+          },
+          {
+            "index": 270,
+            "start": 764.446,
+            "end": 766.814,
+            "text": "You love them.\nThey're family, Ted."
+          },
+          {
+            "index": 271,
+            "start": 766.848,
+            "end": 768.583,
+            "text": "Let's go in and see\nwhat they remember."
+          },
+          {
+            "index": 272,
+            "start": 768.616,
+            "end": 771.119,
+            "text": "And they are my best friends,"
+          },
+          {
+            "index": 273,
+            "start": 771.153,
+            "end": 774.589,
+            "text": "so don't be surprised if they\nsuddenly can't think of\nanything I do wrong."
+          },
+          {
+            "index": 274,
+            "start": 774.622,
+            "end": 776.491,
+            "text": "Did he juggle? Bad puns?"
+          },
+          {
+            "index": 275,
+            "start": 776.524,
+            "end": 779.494,
+            "text": "Expect a standing ovation\nfor picking up a $19 check?"
+          },
+          {
+            "index": 276,
+            "start": 779.527,
+            "end": 783.131,
+            "text": "Let's not forget\nthe menu typo gold mine."
+          },
+          {
+            "index": 277,
+            "start": 783.165,
+            "end": 784.899,
+            "text": "Keep panning\nthat river, buddy."
+          },
+          {
+            "index": 278,
+            "start": 784.932,
+            "end": 786.568,
+            "text": "Well, it is\na lot cheaper\nthan buying a condom."
+          },
+          {
+            "index": 279,
+            "start": 786.601,
+            "end": 788.636,
+            "text": "(EXCLAIMS)"
+          },
+          {
+            "index": 280,
+            "start": 788.67,
+            "end": 791.038,
+            "text": "Actually,\nyou know what it was?"
+          },
+          {
+            "index": 281,
+            "start": 791.072,
+            "end": 793.408,
+            "text": "I remember him coming across\nas kind of a player."
+          },
+          {
+            "index": 282,
+            "start": 793.441,
+            "end": 795.143,
+            "text": "Me?\nALL: Ted?"
+          },
+          {
+            "index": 283,
+            "start": 795.177,
+            "end": 797.512,
+            "text": "Yeah. We were all\nsitting over there."
+          },
+          {
+            "index": 284,
+            "start": 800.482,
+            "end": 803.751,
+            "text": "And here's a picture of\nmy cats dressed up like\nBatman villains."
+          },
+          {
+            "index": 285,
+            "start": 803.785,
+            "end": 806.554,
+            "text": "You got the Joker,\nthe Riddler, Mr. Freeze..."
+          },
+          {
+            "index": 286,
+            "start": 806.588,
+            "end": 808.223,
+            "text": "Well, what about Catwoman?"
+          },
+          {
+            "index": 287,
+            "start": 808.256,
+            "end": 810.358,
+            "text": "Yeah, that\nwould've been good."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 788.5046640625,
+        "topCueIndex": -1,
+        "bottomCueIndex": 277
+      }
     }
   ]
 }
