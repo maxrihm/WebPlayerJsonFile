@@ -149832,6 +149832,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 194
       }
+    },
+    {
+      "id": "5901bac3-d324-46ea-a520-c470f20506d1",
+      "createdAt": "2026-09-27T22:05:20.038Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/34072df1-24ed-47a5-99b8-fc6e447c578c",
+      "audioTrackName": "",
+      "selectedText": "queasy",
+      "selection": {
+        "rawText": "queasy",
+        "startOffset": 10,
+        "endOffset": 16,
+        "cueIndex": 195,
+        "cueStart": 533.033,
+        "cueEnd": 535.866,
+        "cueText": "the pale,\nqueasy expression,\nsuggesting nausea."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 185,
+            "start": 500.533,
+            "end": 504.7,
+            "text": "Barney, I'm only gonna\nsay this once, so listen up."
+          },
+          {
+            "index": 186,
+            "start": 504.733,
+            "end": 508.666,
+            "text": "I love you and I love Robin.\nAnd I want to make this work."
+          },
+          {
+            "index": 187,
+            "start": 508.7,
+            "end": 511.3,
+            "text": "So, if you give me\na few weeks of attention,"
+          },
+          {
+            "index": 188,
+            "start": 511.333,
+            "end": 515.5,
+            "text": "I could give you\na lifetime of happiness.\nCan you do that for me?"
+          },
+          {
+            "index": 189,
+            "start": 515.533,
+            "end": 519.033,
+            "text": "Do you think I should\nget Sports Illustrated\nfor 70% off the cover price?"
+          },
+          {
+            "index": 190,
+            "start": 519.066,
+            "end": 521.333,
+            "text": "Can we have class outside?"
+          },
+          {
+            "index": 191,
+            "start": 521.366,
+            "end": 523.366,
+            "text": "I gotta\nfind a way to\nreach this kid."
+          },
+          {
+            "index": 192,
+            "start": 524.333,
+            "end": 526.633,
+            "text": "\"Class number two.\""
+          },
+          {
+            "index": 193,
+            "start": 526.666,
+            "end": 530.666,
+            "text": "\"Top 10 Robin Scherbatsky\nFacial Expressions and\nTheir Meaning.\""
+          },
+          {
+            "index": 194,
+            "start": 530.7,
+            "end": 533,
+            "text": "Now, notice\nthe vacant eyes,"
+          },
+          {
+            "index": 195,
+            "start": 533.033,
+            "end": 535.866,
+            "text": "the pale,\nqueasy expression,\nsuggesting nausea."
+          },
+          {
+            "index": 196,
+            "start": 535.9,
+            "end": 538.166,
+            "text": "What do these mean?\nYou guys just had sex?"
+          },
+          {
+            "index": 197,
+            "start": 538.2,
+            "end": 539.233,
+            "text": "(EXCLAIMING)"
+          },
+          {
+            "index": 198,
+            "start": 541.233,
+            "end": 543,
+            "text": "Wasn't me."
+          },
+          {
+            "index": 199,
+            "start": 543.033,
+            "end": 545.533,
+            "text": "Dude! I worked really\nhard on these slides, okay?"
+          },
+          {
+            "index": 200,
+            "start": 545.566,
+            "end": 547.233,
+            "text": "Can we just...\nOkay."
+          },
+          {
+            "index": 201,
+            "start": 548.1,
+            "end": 549.966,
+            "text": "This look is hunger."
+          },
+          {
+            "index": 202,
+            "start": 550,
+            "end": 552.9,
+            "text": "If you ever see\nRobin looking like this,\nget some food in her quick,"
+          },
+          {
+            "index": 203,
+            "start": 552.933,
+            "end": 554.133,
+            "text": "or one of two things\nwill happen."
+          },
+          {
+            "index": 204,
+            "start": 554.166,
+            "end": 558.633,
+            "text": "One. Weird,\nout‐of‐context laughter."
+          },
+          {
+            "index": 205,
+            "start": 558.666,
+            "end": 563.066,
+            "text": "Or two.\nSpontaneously falling\nasleep in strange places."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 534.3819829101562,
+        "topCueIndex": -1,
+        "bottomCueIndex": 195
+      }
     }
   ]
 }
