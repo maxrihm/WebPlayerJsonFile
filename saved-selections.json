@@ -145854,6 +145854,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 384
       }
+    },
+    {
+      "id": "7b330e24-80af-4f5f-882a-a036a5c8479e",
+      "createdAt": "2026-09-27T21:27:30.593Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/34072df1-24ed-47a5-99b8-fc6e447c578c",
+      "audioTrackName": "",
+      "selectedText": "other than that,",
+      "selection": {
+        "rawText": "other than that,",
+        "startOffset": 4,
+        "endOffset": 20,
+        "cueIndex": 15,
+        "cueStart": 32.733,
+        "cueEnd": 35.166,
+        "cueText": "But other than that,\nthings are good?\nBowl."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 5,
+            "start": 10,
+            "end": 11.8,
+            "text": "Mmm‐hmm."
+          },
+          {
+            "index": 6,
+            "start": 11.833,
+            "end": 14.333,
+            "text": "And, yes. We can."
+          },
+          {
+            "index": 7,
+            "start": 14.366,
+            "end": 17.333,
+            "text": "But there's\none name none of us ever\nexpected to hear him called."
+          },
+          {
+            "index": 8,
+            "start": 17.366,
+            "end": 20.333,
+            "text": "Boyfriend. Barney\nStinson is my boyfriend."
+          },
+          {
+            "index": 9,
+            "start": 20.366,
+            "end": 22.033,
+            "text": "I've said it,\nlike, 100 times."
+          },
+          {
+            "index": 10,
+            "start": 22.066,
+            "end": 23.6,
+            "text": "It still sounds\nweird to say."
+          },
+          {
+            "index": 11,
+            "start": 23.633,
+            "end": 26.2,
+            "text": "Well, anything\nsounds weird if\nyou say it 100 times."
+          },
+          {
+            "index": 12,
+            "start": 26.9,
+            "end": 28.6,
+            "text": "Bowl."
+          },
+          {
+            "index": 13,
+            "start": 28.633,
+            "end": 29.966,
+            "text": "Bowl."
+          },
+          {
+            "index": 14,
+            "start": 31.166,
+            "end": 32.7,
+            "text": "Bowl."
+          },
+          {
+            "index": 15,
+            "start": 32.733,
+            "end": 35.166,
+            "text": "But other than that,\nthings are good?\nBowl."
+          },
+          {
+            "index": 16,
+            "start": 35.2,
+            "end": 36.766,
+            "text": "Bowl.\nI don't know."
+          },
+          {
+            "index": 17,
+            "start": 36.8,
+            "end": 38.366,
+            "text": "I think Barney's\nbeen single for too long.\nBowl."
+          },
+          {
+            "index": 18,
+            "start": 38.4,
+            "end": 40.2,
+            "text": "Like, the other night,\nI wake up at 4:00 a. m..."
+          },
+          {
+            "index": 19,
+            "start": 40.233,
+            "end": 41.3,
+            "text": "(CLATTERING)"
+          },
+          {
+            "index": 20,
+            "start": 41.333,
+            "end": 42.933,
+            "text": "(GASPS)"
+          },
+          {
+            "index": 21,
+            "start": 42.966,
+            "end": 44.333,
+            "text": "Barney, are you awake?"
+          },
+          {
+            "index": 22,
+            "start": 45.533,
+            "end": 47.133,
+            "text": "Barney?"
+          },
+          {
+            "index": 23,
+            "start": 49.333,
+            "end": 51.566,
+            "text": "Barney. This is\nnot a one‐night stand."
+          },
+          {
+            "index": 24,
+            "start": 51.6,
+            "end": 53.366,
+            "text": "We're dating.\nCome back to bed."
+          },
+          {
+            "index": 25,
+            "start": 58.933,
+            "end": 61.266,
+            "text": "Bowl. Bowl.\nThat's happened three times."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 34.608489990234375,
+        "topCueIndex": -1,
+        "bottomCueIndex": 15
+      }
     }
   ]
 }
