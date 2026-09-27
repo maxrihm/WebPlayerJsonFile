@@ -147843,6 +147843,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 90
       }
+    },
+    {
+      "id": "412c0bdd-2a8a-489e-9958-4cbb6bbd98ee",
+      "createdAt": "2026-09-27T21:51:23.771Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/34072df1-24ed-47a5-99b8-fc6e447c578c",
+      "audioTrackName": "",
+      "selectedText": "resin.",
+      "selection": {
+        "rawText": "resin.",
+        "startOffset": 52,
+        "endOffset": 58,
+        "cueIndex": 91,
+        "cueStart": 224.833,
+        "cueEnd": 228.133,
+        "cueText": "Until we found out that\nLily was allergic to\nbarrel resin."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 81,
+            "start": 190.5,
+            "end": 193.266,
+            "text": "that remind me a woman's\nsexuality is a moving target."
+          },
+          {
+            "index": 82,
+            "start": 193.3,
+            "end": 198.8,
+            "text": "But she is\nno crazy, jealous\nstalker‐bitch. Let go."
+          },
+          {
+            "index": 83,
+            "start": 198.833,
+            "end": 202.266,
+            "text": "Hey, I've been down in\nthe basement storage area\ngoing through all the stuff"
+          },
+          {
+            "index": 84,
+            "start": 202.3,
+            "end": 205.1,
+            "text": "that Lily and I left behind\nwhen we moved out.\nI'm sorry, Robin."
+          },
+          {
+            "index": 85,
+            "start": 205.133,
+            "end": 206.166,
+            "text": "We should've\ncleared it out\nfor you much sooner."
+          },
+          {
+            "index": 86,
+            "start": 206.2,
+            "end": 207.766,
+            "text": "There's a basement\nstorage area?"
+          },
+          {
+            "index": 87,
+            "start": 207.8,
+            "end": 211,
+            "text": "You're not upset. Good.\nBaby, guess what I found."
+          },
+          {
+            "index": 88,
+            "start": 217.866,
+            "end": 219.333,
+            "text": "That's great, honey."
+          },
+          {
+            "index": 89,
+            "start": 219.366,
+            "end": 221,
+            "text": "What the hell is that?"
+          },
+          {
+            "index": 90,
+            "start": 221.033,
+            "end": 224.8,
+            "text": "Marshall got it in college.\nHe used it as a nightstand\nfor years."
+          },
+          {
+            "index": 91,
+            "start": 224.833,
+            "end": 228.133,
+            "text": "Until we found out that\nLily was allergic to\nbarrel resin."
+          },
+          {
+            "index": 92,
+            "start": 228.166,
+            "end": 229.9,
+            "text": "Barrel resin?\nJust go with it."
+          },
+          {
+            "index": 93,
+            "start": 229.933,
+            "end": 231.633,
+            "text": "So, you need a hand\nthrowing it out?"
+          },
+          {
+            "index": 94,
+            "start": 231.666,
+            "end": 235.166,
+            "text": "No, I'm not...\nI'm not just going\nto throw her out, okay?"
+          },
+          {
+            "index": 95,
+            "start": 235.2,
+            "end": 237.333,
+            "text": "Mabel's like family."
+          },
+          {
+            "index": 96,
+            "start": 237.366,
+            "end": 240.433,
+            "text": "So, what are you\ngoing to do with Mabel?"
+          },
+          {
+            "index": 97,
+            "start": 240.466,
+            "end": 243.166,
+            "text": "I want to\ngive her away to\na lucky new owner."
+          },
+          {
+            "index": 98,
+            "start": 243.2,
+            "end": 245.833,
+            "text": "Do you know anyone?\nYeah, let me think."
+          },
+          {
+            "index": 99,
+            "start": 245.866,
+            "end": 248.6,
+            "text": "Do I know any rodeo clowns?"
+          },
+          {
+            "index": 100,
+            "start": 248.633,
+            "end": 249.933,
+            "text": "That's weird, I do."
+          },
+          {
+            "index": 101,
+            "start": 249.966,
+            "end": 252.066,
+            "text": "But even Lenny wouldn't go\nnear that mess."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 228.15381005859376,
+        "topCueIndex": -1,
+        "bottomCueIndex": 91
+      }
     }
   ]
 }
