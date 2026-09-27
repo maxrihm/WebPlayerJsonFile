@@ -147996,6 +147996,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 91
       }
+    },
+    {
+      "id": "3f550528-fe93-4044-8111-d1012155f3cd",
+      "createdAt": "2026-09-27T21:53:01.868Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/34072df1-24ed-47a5-99b8-fc6e447c578c",
+      "audioTrackName": "",
+      "selectedText": "mess.",
+      "selection": {
+        "rawText": "mess.",
+        "startOffset": 37,
+        "endOffset": 42,
+        "cueIndex": 101,
+        "cueStart": 249.966,
+        "cueEnd": 252.066,
+        "cueText": "But even Lenny wouldn't go\nnear that mess."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 91,
+            "start": 224.833,
+            "end": 228.133,
+            "text": "Until we found out that\nLily was allergic to\nbarrel resin."
+          },
+          {
+            "index": 92,
+            "start": 228.166,
+            "end": 229.9,
+            "text": "Barrel resin?\nJust go with it."
+          },
+          {
+            "index": 93,
+            "start": 229.933,
+            "end": 231.633,
+            "text": "So, you need a hand\nthrowing it out?"
+          },
+          {
+            "index": 94,
+            "start": 231.666,
+            "end": 235.166,
+            "text": "No, I'm not...\nI'm not just going\nto throw her out, okay?"
+          },
+          {
+            "index": 95,
+            "start": 235.2,
+            "end": 237.333,
+            "text": "Mabel's like family."
+          },
+          {
+            "index": 96,
+            "start": 237.366,
+            "end": 240.433,
+            "text": "So, what are you\ngoing to do with Mabel?"
+          },
+          {
+            "index": 97,
+            "start": 240.466,
+            "end": 243.166,
+            "text": "I want to\ngive her away to\na lucky new owner."
+          },
+          {
+            "index": 98,
+            "start": 243.2,
+            "end": 245.833,
+            "text": "Do you know anyone?\nYeah, let me think."
+          },
+          {
+            "index": 99,
+            "start": 245.866,
+            "end": 248.6,
+            "text": "Do I know any rodeo clowns?"
+          },
+          {
+            "index": 100,
+            "start": 248.633,
+            "end": 249.933,
+            "text": "That's weird, I do."
+          },
+          {
+            "index": 101,
+            "start": 249.966,
+            "end": 252.066,
+            "text": "But even Lenny wouldn't go\nnear that mess."
+          },
+          {
+            "index": 102,
+            "start": 252.1,
+            "end": 254.2,
+            "text": "Well, he's not\ngoing to have\nthe chance"
+          },
+          {
+            "index": 103,
+            "start": 254.233,
+            "end": 258.6,
+            "text": "because I am\nputting old Mabel\nin the Bermuda Triangle."
+          },
+          {
+            "index": 104,
+            "start": 258.633,
+            "end": 260.733,
+            "text": "OLDER TED:\n\"The Bermuda Triangle\"\nwas the name we'd given"
+          },
+          {
+            "index": 105,
+            "start": 260.766,
+            "end": 263.4,
+            "text": "years earlier\nto the curb right\nin front of our buil\nding."
+          },
+          {
+            "index": 106,
+            "start": 264.933,
+            "end": 266.433,
+            "text": "Whenever we wanted\nto give something away,"
+          },
+          {
+            "index": 107,
+            "start": 266.466,
+            "end": 267.733,
+            "text": "we'd put it right there."
+          },
+          {
+            "index": 108,
+            "start": 272.333,
+            "end": 273.9,
+            "text": "It was uncanny."
+          },
+          {
+            "index": 109,
+            "start": 274.933,
+            "end": 276.9,
+            "text": "This is so exciting."
+          },
+          {
+            "index": 110,
+            "start": 276.933,
+            "end": 278.8,
+            "text": "Right now,\nthere's someone\nout there who has no idea"
+          },
+          {
+            "index": 111,
+            "start": 278.833,
+            "end": 282.266,
+            "text": "that tonight they're\ngoing home with just..."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 251.15568896484376,
+        "topCueIndex": -1,
+        "bottomCueIndex": 101
+      }
     }
   ]
 }
