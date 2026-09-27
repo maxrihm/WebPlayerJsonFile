@@ -152127,6 +152127,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 355
       }
+    },
+    {
+      "id": "7844b7f5-c577-4c1b-a42e-0d46cd54acfa",
+      "createdAt": "2026-09-27T22:30:15.895Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/34072df1-24ed-47a5-99b8-fc6e447c578c",
+      "audioTrackName": "",
+      "selectedText": "patently",
+      "selection": {
+        "rawText": "patently",
+        "startOffset": 45,
+        "endOffset": 53,
+        "cueIndex": 363,
+        "cueStart": 1020.566,
+        "cueEnd": 1022.666,
+        "cueText": "You know, half the stuff\nin this notebook is\npatently wrong."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 353,
+            "start": 994.366,
+            "end": 996.499,
+            "text": "Well, I tried to explain\nto him it wasn't a real class,"
+          },
+          {
+            "index": 354,
+            "start": 996.533,
+            "end": 998.533,
+            "text": "but I don't think\nhe speaks much English."
+          },
+          {
+            "index": 355,
+            "start": 998.566,
+            "end": 1001.366,
+            "text": "On the bright side, he came\nin handy standing in for you"
+          },
+          {
+            "index": 356,
+            "start": 1001.399,
+            "end": 1003.233,
+            "text": "during the role‐playing\nexercises."
+          },
+          {
+            "index": 357,
+            "start": 1003.266,
+            "end": 1006.999,
+            "text": "Wait. You did role‐playing\nexercises where I was\nplayed by Shin‐Ya?"
+          },
+          {
+            "index": 358,
+            "start": 1007.033,
+            "end": 1008.833,
+            "text": "(SPEAKING JAPANESE)"
+          },
+          {
+            "index": 359,
+            "start": 1012.199,
+            "end": 1013.933,
+            "text": "You know,\nI can't believe you, Ted."
+          },
+          {
+            "index": 360,
+            "start": 1013.966,
+            "end": 1015.999,
+            "text": "You actually think you're\nsome kind of an expert on me?"
+          },
+          {
+            "index": 361,
+            "start": 1016.033,
+            "end": 1018.799,
+            "text": "Hey! He is an expert.\nHe's a great teacher!"
+          },
+          {
+            "index": 362,
+            "start": 1018.833,
+            "end": 1020.533,
+            "text": "(CLEARING THROAT) Kiss ass."
+          },
+          {
+            "index": 363,
+            "start": 1020.566,
+            "end": 1022.666,
+            "text": "You know, half the stuff\nin this notebook is\npatently wrong."
+          },
+          {
+            "index": 364,
+            "start": 1022.699,
+            "end": 1024.933,
+            "text": "Really? Name one wrong thing."
+          },
+          {
+            "index": 365,
+            "start": 1024.966,
+            "end": 1027.499,
+            "text": "\"Robin Scherbatsky's\nSurprising Erogenous Zones.\""
+          },
+          {
+            "index": 366,
+            "start": 1027.533,
+            "end": 1030.366,
+            "text": "Let me clear\nsomething up\nfor you, Ted."
+          },
+          {
+            "index": 367,
+            "start": 1030.399,
+            "end": 1032.533,
+            "text": "Does lefty like that?"
+          },
+          {
+            "index": 368,
+            "start": 1032.566,
+            "end": 1034.433,
+            "text": "Oh, yeah."
+          },
+          {
+            "index": 369,
+            "start": 1034.466,
+            "end": 1036.033,
+            "text": "All right."
+          },
+          {
+            "index": 370,
+            "start": 1036.066,
+            "end": 1037.666,
+            "text": "Don't want to\nleave out righty."
+          },
+          {
+            "index": 371,
+            "start": 1037.699,
+            "end": 1039.266,
+            "text": "Oh, no."
+          },
+          {
+            "index": 372,
+            "start": 1039.299,
+            "end": 1043.166,
+            "text": "The right one's ticklish,\nI guess."
+          },
+          {
+            "index": 373,
+            "start": 1043.199,
+            "end": 1046.399,
+            "text": "But the left one, yeah,\nI'm glad you're back there."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1023.3683889160156,
+        "topCueIndex": -1,
+        "bottomCueIndex": 363
+      }
     }
   ]
 }
