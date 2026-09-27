@@ -151056,6 +151056,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 232
       }
+    },
+    {
+      "id": "75bf0f53-1ecc-4005-8274-0c9ff6483236",
+      "createdAt": "2026-09-27T22:11:39.769Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/34072df1-24ed-47a5-99b8-fc6e447c578c",
+      "audioTrackName": "",
+      "selectedText": "fancy.",
+      "selection": {
+        "rawText": "fancy.",
+        "startOffset": 36,
+        "endOffset": 42,
+        "cueIndex": 244,
+        "cueStart": 693.033,
+        "cueEnd": 695.8,
+        "cueText": "Oh, God,\nsilly penguins,\nacting all fancy."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 234,
+            "start": 662.9,
+            "end": 666.766,
+            "text": "(READING)"
+          },
+          {
+            "index": 235,
+            "start": 667.766,
+            "end": 670,
+            "text": "You have to\nclean your gun."
+          },
+          {
+            "index": 236,
+            "start": 670.033,
+            "end": 672.133,
+            "text": "My uncle had\na filthy, old shotgun,"
+          },
+          {
+            "index": 237,
+            "start": 672.166,
+            "end": 674,
+            "text": "blew both his thumbs off\ntrying to shoot a beaver."
+          },
+          {
+            "index": 238,
+            "start": 674.033,
+            "end": 675.733,
+            "text": "You... You want\nto distract someone,"
+          },
+          {
+            "index": 239,
+            "start": 675.766,
+            "end": 677.666,
+            "text": "make them watch my uncle\ntry to eat corn on the cob."
+          },
+          {
+            "index": 240,
+            "start": 679.333,
+            "end": 682.533,
+            "text": "(READING)"
+          },
+          {
+            "index": 241,
+            "start": 683.833,
+            "end": 685.866,
+            "text": "Did you know that\nbefore intercourse,"
+          },
+          {
+            "index": 242,
+            "start": 685.9,
+            "end": 689.7,
+            "text": "the male and female emperor\npenguins bow to each other?"
+          },
+          {
+            "index": 243,
+            "start": 689.733,
+            "end": 693,
+            "text": "\"Mr. Penguin.\"\n\"Mrs. Penguin.\""
+          },
+          {
+            "index": 244,
+            "start": 693.033,
+            "end": 695.8,
+            "text": "Oh, God,\nsilly penguins,\nacting all fancy."
+          },
+          {
+            "index": 245,
+            "start": 695.833,
+            "end": 698,
+            "text": "(LAUGHING)"
+          },
+          {
+            "index": 246,
+            "start": 698.033,
+            "end": 699.8,
+            "text": "What were\nwe talking about?"
+          },
+          {
+            "index": 247,
+            "start": 699.833,
+            "end": 702.966,
+            "text": "Uh‐oh,\nlooks like we got a taker."
+          },
+          {
+            "index": 248,
+            "start": 703,
+            "end": 705.933,
+            "text": "Come on, dude.\nYou know you want to."
+          },
+          {
+            "index": 249,
+            "start": 705.966,
+            "end": 708.6,
+            "text": "A guy like you,\nbeard, no mustache."
+          },
+          {
+            "index": 250,
+            "start": 708.633,
+            "end": 711.133,
+            "text": "You're exactly\nthe kind of guy who\ncould use a sweet barrel."
+          },
+          {
+            "index": 251,
+            "start": 712.033,
+            "end": 712.966,
+            "text": "Do it."
+          },
+          {
+            "index": 252,
+            "start": 714.333,
+            "end": 716.6,
+            "text": "No. That's not\na fire hydrant!"
+          },
+          {
+            "index": 253,
+            "start": 716.633,
+            "end": 719.9,
+            "text": "For shame, sir. For shame!"
+          },
+          {
+            "index": 254,
+            "start": 719.933,
+            "end": 723.133,
+            "text": "I bet\nyou couldn't even grow\na mustache if you wanted to!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 695.9794829101562,
+        "topCueIndex": -1,
+        "bottomCueIndex": 244
+      }
     }
   ]
 }
