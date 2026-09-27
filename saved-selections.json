@@ -151515,6 +151515,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 308
       }
+    },
+    {
+      "id": "014351de-2a0c-420e-a346-2a3c389a774a",
+      "createdAt": "2026-09-27T22:27:56.386Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/34072df1-24ed-47a5-99b8-fc6e447c578c",
+      "audioTrackName": "",
+      "selectedText": "auditing",
+      "selection": {
+        "rawText": "auditing",
+        "startOffset": 34,
+        "endOffset": 42,
+        "cueIndex": 351,
+        "cueStart": 990.099,
+        "cueEnd": 992.866,
+        "cueText": "That's Shin‐Ya.\nHe's sort of been\nauditing the class."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 341,
+            "start": 966.066,
+            "end": 967.066,
+            "text": "Crazy, huh?"
+          },
+          {
+            "index": 342,
+            "start": 969.633,
+            "end": 971.433,
+            "text": "What the hell do you\ntwo think you're doing?"
+          },
+          {
+            "index": 343,
+            "start": 971.466,
+            "end": 973.333,
+            "text": "Marshall, did you sell us out?"
+          },
+          {
+            "index": 344,
+            "start": 973.366,
+            "end": 975.566,
+            "text": "I was vulnerable, okay."
+          },
+          {
+            "index": 345,
+            "start": 975.599,
+            "end": 978.233,
+            "text": "I said goodbye to\na very dear friend today."
+          },
+          {
+            "index": 346,
+            "start": 978.266,
+            "end": 980.499,
+            "text": "Dude, it's a barrel!"
+          },
+          {
+            "index": 347,
+            "start": 980.533,
+            "end": 982.299,
+            "text": "Aw. You're giving Mabel away?"
+          },
+          {
+            "index": 348,
+            "start": 982.333,
+            "end": 984.366,
+            "text": "Okay, I have...\nI have so many questions."
+          },
+          {
+            "index": 349,
+            "start": 984.399,
+            "end": 987.299,
+            "text": "Why would you do this?\nWhat were you thinking?"
+          },
+          {
+            "index": 350,
+            "start": 987.333,
+            "end": 990.066,
+            "text": "Who the hell is that guy?"
+          },
+          {
+            "index": 351,
+            "start": 990.099,
+            "end": 992.866,
+            "text": "That's Shin‐Ya.\nHe's sort of been\nauditing the class."
+          },
+          {
+            "index": 352,
+            "start": 992.899,
+            "end": 994.333,
+            "text": "Auditing?"
+          },
+          {
+            "index": 353,
+            "start": 994.366,
+            "end": 996.499,
+            "text": "Well, I tried to explain\nto him it wasn't a real class,"
+          },
+          {
+            "index": 354,
+            "start": 996.533,
+            "end": 998.533,
+            "text": "but I don't think\nhe speaks much English."
+          },
+          {
+            "index": 355,
+            "start": 998.566,
+            "end": 1001.366,
+            "text": "On the bright side, he came\nin handy standing in for you"
+          },
+          {
+            "index": 356,
+            "start": 1001.399,
+            "end": 1003.233,
+            "text": "during the role‐playing\nexercises."
+          },
+          {
+            "index": 357,
+            "start": 1003.266,
+            "end": 1006.999,
+            "text": "Wait. You did role‐playing\nexercises where I was\nplayed by Shin‐Ya?"
+          },
+          {
+            "index": 358,
+            "start": 1007.033,
+            "end": 1008.833,
+            "text": "(SPEAKING JAPANESE)"
+          },
+          {
+            "index": 359,
+            "start": 1012.199,
+            "end": 1013.933,
+            "text": "You know,\nI can't believe you, Ted."
+          },
+          {
+            "index": 360,
+            "start": 1013.966,
+            "end": 1015.999,
+            "text": "You actually think you're\nsome kind of an expert on me?"
+          },
+          {
+            "index": 361,
+            "start": 1016.033,
+            "end": 1018.799,
+            "text": "Hey! He is an expert.\nHe's a great teacher!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 993.1128608398437,
+        "topCueIndex": -1,
+        "bottomCueIndex": 351
+      }
     }
   ]
 }
