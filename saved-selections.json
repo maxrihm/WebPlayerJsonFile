@@ -149373,6 +149373,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 167
       }
+    },
+    {
+      "id": "be93e99e-8a13-4892-94ea-c5a42c7ef307",
+      "createdAt": "2026-09-27T22:02:58.532Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/34072df1-24ed-47a5-99b8-fc6e447c578c",
+      "audioTrackName": "",
+      "selectedText": "flattered.",
+      "selection": {
+        "rawText": "flattered.",
+        "startOffset": 14,
+        "endOffset": 24,
+        "cueIndex": 181,
+        "cueStart": 487.5,
+        "cueEnd": 488.833,
+        "cueText": "You should be flattered."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 171,
+            "start": 466.033,
+            "end": 468.233,
+            "text": "Can we draw boobs\non the chalkboard?"
+          },
+          {
+            "index": 172,
+            "start": 468.266,
+            "end": 469.433,
+            "text": "We did that already."
+          },
+          {
+            "index": 173,
+            "start": 469.466,
+            "end": 471.333,
+            "text": "No, like, really big boobs."
+          },
+          {
+            "index": 174,
+            "start": 471.366,
+            "end": 475.533,
+            "text": "No. Look, I need this, too.\nI've only been a professor\na few weeks."
+          },
+          {
+            "index": 175,
+            "start": 475.566,
+            "end": 477.566,
+            "text": "Being up here, it's...\nIt's good practice for me."
+          },
+          {
+            "index": 176,
+            "start": 477.6,
+            "end": 479.166,
+            "text": "Can we have class outside?"
+          },
+          {
+            "index": 177,
+            "start": 479.2,
+            "end": 481.633,
+            "text": "No. What Robin really\nwants, deep down is..."
+          },
+          {
+            "index": 178,
+            "start": 481.666,
+            "end": 482.766,
+            "text": "(CELL PHONE DINGS)"
+          },
+          {
+            "index": 179,
+            "start": 483.7,
+            "end": 484.966,
+            "text": "Barney."
+          },
+          {
+            "index": 180,
+            "start": 485,
+            "end": 487.466,
+            "text": "What? I'm tweeting about you."
+          },
+          {
+            "index": 181,
+            "start": 487.5,
+            "end": 488.833,
+            "text": "You should be flattered."
+          },
+          {
+            "index": 182,
+            "start": 488.866,
+            "end": 492.166,
+            "text": "How do you spell\n\"blah‐blah‐blah\"?\n\"H's\" or no?"
+          },
+          {
+            "index": 183,
+            "start": 492.2,
+            "end": 495.966,
+            "text": "Wow, you were just, like,\nthe worst student in the\nworld, weren't you?"
+          },
+          {
+            "index": 184,
+            "start": 496,
+            "end": 500.5,
+            "text": "They said\nI had A‐D... Something.\nCan we have class outside?"
+          },
+          {
+            "index": 185,
+            "start": 500.533,
+            "end": 504.7,
+            "text": "Barney, I'm only gonna\nsay this once, so listen up."
+          },
+          {
+            "index": 186,
+            "start": 504.733,
+            "end": 508.666,
+            "text": "I love you and I love Robin.\nAnd I want to make this work."
+          },
+          {
+            "index": 187,
+            "start": 508.7,
+            "end": 511.3,
+            "text": "So, if you give me\na few weeks of attention,"
+          },
+          {
+            "index": 188,
+            "start": 511.333,
+            "end": 515.5,
+            "text": "I could give you\na lifetime of happiness.\nCan you do that for me?"
+          },
+          {
+            "index": 189,
+            "start": 515.533,
+            "end": 519.033,
+            "text": "Do you think I should\nget Sports Illustrated\nfor 70% off the cover price?"
+          },
+          {
+            "index": 190,
+            "start": 519.066,
+            "end": 521.333,
+            "text": "Can we have class outside?"
+          },
+          {
+            "index": 191,
+            "start": 521.366,
+            "end": 523.366,
+            "text": "I gotta\nfind a way to\nreach this kid."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 489.13007690429686,
+        "topCueIndex": -1,
+        "bottomCueIndex": 181
+      }
     }
   ]
 }
