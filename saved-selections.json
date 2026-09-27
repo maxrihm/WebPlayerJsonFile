@@ -150903,6 +150903,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 232
       }
+    },
+    {
+      "id": "1bf09dd6-2703-473b-b4ea-72380cafbbbe",
+      "createdAt": "2026-09-27T22:09:10.719Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/34072df1-24ed-47a5-99b8-fc6e447c578c",
+      "audioTrackName": "",
+      "selectedText": "goaltending",
+      "selection": {
+        "rawText": "goaltending",
+        "startOffset": 34,
+        "endOffset": 45,
+        "cueIndex": 232,
+        "cueStart": 656.333,
+        "cueEnd": 658.633,
+        "cueText": "that prevailed despite\nvery shaky goaltending"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 222,
+            "start": 625.3,
+            "end": 627.4,
+            "text": "Defusing the bomb."
+          },
+          {
+            "index": 223,
+            "start": 627.433,
+            "end": 631.033,
+            "text": "\"Defusing the bomb\"?\nWhat does that even mean?"
+          },
+          {
+            "index": 224,
+            "start": 631.066,
+            "end": 634,
+            "text": "\"Three Topics\nto Distract Robin\nFrom Being Mad at You.\""
+          },
+          {
+            "index": 225,
+            "start": 634.033,
+            "end": 636.166,
+            "text": "Distract me?\nThat is so condescending."
+          },
+          {
+            "index": 226,
+            "start": 636.2,
+            "end": 638.4,
+            "text": "These guys are really\nstarting to piss me off!"
+          },
+          {
+            "index": 227,
+            "start": 638.433,
+            "end": 642.233,
+            "text": "\"Immediately\nswitch the conversation\nto one of the following,"
+          },
+          {
+            "index": 228,
+            "start": 642.266,
+            "end": 644.733,
+            "text": "\"unless you want Robin\nto start throwing her shoes.\""
+          },
+          {
+            "index": 229,
+            "start": 646.1,
+            "end": 650.7,
+            "text": "(READING)"
+          },
+          {
+            "index": 230,
+            "start": 650.733,
+            "end": 653.5,
+            "text": "What? That's not distracting."
+          },
+          {
+            "index": 231,
+            "start": 653.533,
+            "end": 656.3,
+            "text": "That's just talking about\nthe story of a scrappy\nlittle underdog team"
+          },
+          {
+            "index": 232,
+            "start": 656.333,
+            "end": 658.633,
+            "text": "that prevailed despite\nvery shaky goaltending"
+          },
+          {
+            "index": 233,
+            "start": 658.666,
+            "end": 661.066,
+            "text": "and, frankly,\nthe declining\nskills of Trevor Linden."
+          },
+          {
+            "index": 234,
+            "start": 662.9,
+            "end": 666.766,
+            "text": "(READING)"
+          },
+          {
+            "index": 235,
+            "start": 667.766,
+            "end": 670,
+            "text": "You have to\nclean your gun."
+          },
+          {
+            "index": 236,
+            "start": 670.033,
+            "end": 672.133,
+            "text": "My uncle had\na filthy, old shotgun,"
+          },
+          {
+            "index": 237,
+            "start": 672.166,
+            "end": 674,
+            "text": "blew both his thumbs off\ntrying to shoot a beaver."
+          },
+          {
+            "index": 238,
+            "start": 674.033,
+            "end": 675.733,
+            "text": "You... You want\nto distract someone,"
+          },
+          {
+            "index": 239,
+            "start": 675.766,
+            "end": 677.666,
+            "text": "make them watch my uncle\ntry to eat corn on the cob."
+          },
+          {
+            "index": 240,
+            "start": 679.333,
+            "end": 682.533,
+            "text": "(READING)"
+          },
+          {
+            "index": 241,
+            "start": 683.833,
+            "end": 685.866,
+            "text": "Did you know that\nbefore intercourse,"
+          },
+          {
+            "index": 242,
+            "start": 685.9,
+            "end": 689.7,
+            "text": "the male and female emperor\npenguins bow to each other?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 661.6248430175781,
+        "topCueIndex": -1,
+        "bottomCueIndex": 232
+      }
     }
   ]
 }
