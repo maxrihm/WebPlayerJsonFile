@@ -150444,6 +150444,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 216
       }
+    },
+    {
+      "id": "2cc5c6b2-d003-4951-a0be-8115238ce307",
+      "createdAt": "2026-09-27T22:07:50.844Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/34072df1-24ed-47a5-99b8-fc6e447c578c",
+      "audioTrackName": "",
+      "selectedText": "condescending.",
+      "selection": {
+        "rawText": "condescending.",
+        "startOffset": 24,
+        "endOffset": 38,
+        "cueIndex": 225,
+        "cueStart": 634.033,
+        "cueEnd": 636.166,
+        "cueText": "Distract me?\nThat is so condescending."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 215,
+            "start": 592.9,
+            "end": 594.233,
+            "text": "Whoa."
+          },
+          {
+            "index": 216,
+            "start": 595.166,
+            "end": 597.4,
+            "text": "Flared nostril ridges."
+          },
+          {
+            "index": 217,
+            "start": 597.433,
+            "end": 599.3,
+            "text": "Wide, unblinking eyes."
+          },
+          {
+            "index": 218,
+            "start": 600.766,
+            "end": 606.233,
+            "text": "If you ever, ever see\nthis face, Barney, run."
+          },
+          {
+            "index": 219,
+            "start": 606.266,
+            "end": 611.1,
+            "text": "And don't take\na picture of it.\nShe will punch you."
+          },
+          {
+            "index": 220,
+            "start": 611.133,
+            "end": 617.133,
+            "text": "And you will cry for\nthe third time that night."
+          },
+          {
+            "index": 221,
+            "start": 621.933,
+            "end": 624.266,
+            "text": "Which brings us to\nan important point."
+          },
+          {
+            "index": 222,
+            "start": 625.3,
+            "end": 627.4,
+            "text": "Defusing the bomb."
+          },
+          {
+            "index": 223,
+            "start": 627.433,
+            "end": 631.033,
+            "text": "\"Defusing the bomb\"?\nWhat does that even mean?"
+          },
+          {
+            "index": 224,
+            "start": 631.066,
+            "end": 634,
+            "text": "\"Three Topics\nto Distract Robin\nFrom Being Mad at You.\""
+          },
+          {
+            "index": 225,
+            "start": 634.033,
+            "end": 636.166,
+            "text": "Distract me?\nThat is so condescending."
+          },
+          {
+            "index": 226,
+            "start": 636.2,
+            "end": 638.4,
+            "text": "These guys are really\nstarting to piss me off!"
+          },
+          {
+            "index": 227,
+            "start": 638.433,
+            "end": 642.233,
+            "text": "\"Immediately\nswitch the conversation\nto one of the following,"
+          },
+          {
+            "index": 228,
+            "start": 642.266,
+            "end": 644.733,
+            "text": "\"unless you want Robin\nto start throwing her shoes.\""
+          },
+          {
+            "index": 229,
+            "start": 646.1,
+            "end": 650.7,
+            "text": "(READING)"
+          },
+          {
+            "index": 230,
+            "start": 650.733,
+            "end": 653.5,
+            "text": "What? That's not distracting."
+          },
+          {
+            "index": 231,
+            "start": 653.533,
+            "end": 656.3,
+            "text": "That's just talking about\nthe story of a scrappy\nlittle underdog team"
+          },
+          {
+            "index": 232,
+            "start": 656.333,
+            "end": 658.633,
+            "text": "that prevailed despite\nvery shaky goaltending"
+          },
+          {
+            "index": 233,
+            "start": 658.666,
+            "end": 661.066,
+            "text": "and, frankly,\nthe declining\nskills of Trevor Linden."
+          },
+          {
+            "index": 234,
+            "start": 662.9,
+            "end": 666.766,
+            "text": "(READING)"
+          },
+          {
+            "index": 235,
+            "start": 667.766,
+            "end": 670,
+            "text": "You have to\nclean your gun."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 637.1472229003906,
+        "topCueIndex": -1,
+        "bottomCueIndex": 225
+      }
     }
   ]
 }
