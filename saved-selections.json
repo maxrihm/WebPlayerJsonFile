@@ -146925,6 +146925,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 61
       }
+    },
+    {
+      "id": "58a729cf-74ab-430b-9371-14d00d0c8023",
+      "createdAt": "2026-09-27T21:33:18.486Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/34072df1-24ed-47a5-99b8-fc6e447c578c",
+      "audioTrackName": "",
+      "selectedText": "considerate,",
+      "selection": {
+        "rawText": "considerate,",
+        "startOffset": 0,
+        "endOffset": 12,
+        "cueIndex": 62,
+        "cueStart": 143.433,
+        "cueEnd": 146.566,
+        "cueText": "considerate, sweet."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 52,
+            "start": 120.1,
+            "end": 121.666,
+            "text": "If you don't\nwant to lose her,"
+          },
+          {
+            "index": 53,
+            "start": 121.7,
+            "end": 123.333,
+            "text": "you gotta try\na little harder."
+          },
+          {
+            "index": 54,
+            "start": 123.366,
+            "end": 125.533,
+            "text": "Be more attentive to\nwhere she is emotionally."
+          },
+          {
+            "index": 55,
+            "start": 125.566,
+            "end": 127.833,
+            "text": "You know,\njust be present."
+          },
+          {
+            "index": 56,
+            "start": 127.866,
+            "end": 131.6,
+            "text": "Yes, totally.\nYeah. Only thing,\nand this is just me,"
+          },
+          {
+            "index": 57,
+            "start": 131.633,
+            "end": 133.766,
+            "text": "I like my testicles\nattached to my body,"
+          },
+          {
+            "index": 58,
+            "start": 133.8,
+            "end": 136.266,
+            "text": "rather than rolling around\nnext to some eyeliner in\nRobin's purse."
+          },
+          {
+            "index": 59,
+            "start": 136.3,
+            "end": 138.6,
+            "text": "Stinson out!"
+          },
+          {
+            "index": 60,
+            "start": 138.633,
+            "end": 140.933,
+            "text": "OLDER TED: But then,\na funny thing happened."
+          },
+          {
+            "index": 61,
+            "start": 140.966,
+            "end": 143.4,
+            "text": "Over the\nnext couple of weeks,\nBarney was thoughtful,"
+          },
+          {
+            "index": 62,
+            "start": 143.433,
+            "end": 146.566,
+            "text": "considerate, sweet."
+          },
+          {
+            "index": 63,
+            "start": 146.6,
+            "end": 148.866,
+            "text": "In short,\nthe perfect boyfriend,"
+          },
+          {
+            "index": 64,
+            "start": 148.9,
+            "end": 151.033,
+            "text": "which, to Robin,\nmeant only one thing."
+          },
+          {
+            "index": 65,
+            "start": 151.066,
+            "end": 152.566,
+            "text": "He's cheating on me.\nWhat?"
+          },
+          {
+            "index": 66,
+            "start": 152.6,
+            "end": 154,
+            "text": "Why else would\nhe buy me flowers?"
+          },
+          {
+            "index": 67,
+            "start": 154.033,
+            "end": 155.133,
+            "text": "He's getting\nsome on the side."
+          },
+          {
+            "index": 68,
+            "start": 155.166,
+            "end": 156.8,
+            "text": "Come on, Robin."
+          },
+          {
+            "index": 69,
+            "start": 156.833,
+            "end": 159.3,
+            "text": "Barney's not the type\nof guy who would...\nGo on."
+          },
+          {
+            "index": 70,
+            "start": 159.333,
+            "end": 161.466,
+            "text": "Plus, he keeps\nsaying he's working late."
+          },
+          {
+            "index": 71,
+            "start": 161.5,
+            "end": 163.633,
+            "text": "But when I call his office,\nthey say he left hours ago."
+          },
+          {
+            "index": 72,
+            "start": 163.666,
+            "end": 165.3,
+            "text": "Well, that doesn't\nprove anything."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 145.85810107421875,
+        "topCueIndex": -1,
+        "bottomCueIndex": 62
+      }
     }
   ]
 }
