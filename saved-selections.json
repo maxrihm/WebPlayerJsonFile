@@ -151362,6 +151362,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 308
       }
+    },
+    {
+      "id": "61c08491-508e-40b1-8ecf-beae9c92500a",
+      "createdAt": "2026-09-27T22:18:25.211Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/34072df1-24ed-47a5-99b8-fc6e447c578c",
+      "audioTrackName": "",
+      "selectedText": "traced back",
+      "selection": {
+        "rawText": "traced back",
+        "startOffset": 50,
+        "endOffset": 61,
+        "cueIndex": 308,
+        "cueStart": 866.533,
+        "cueEnd": 869.333,
+        "cueText": "No! Robin's\ndeep‐seated need for\nattention can be traced back"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 298,
+            "start": 846.966,
+            "end": 849.266,
+            "text": "Okay. Pop quiz."
+          },
+          {
+            "index": 299,
+            "start": 849.3,
+            "end": 851.1,
+            "text": "What..."
+          },
+          {
+            "index": 300,
+            "start": 851.133,
+            "end": 853.3,
+            "text": "When Robin's PMS‐ing,\nwhat kind of chocolate\nshould you get her?"
+          },
+          {
+            "index": 301,
+            "start": 853.333,
+            "end": 854.5,
+            "text": "Trick question.\nGet her butterscotch."
+          },
+          {
+            "index": 302,
+            "start": 854.533,
+            "end": 855.633,
+            "text": "Correct! Why?"
+          },
+          {
+            "index": 303,
+            "start": 855.666,
+            "end": 857.133,
+            "text": "Butterscotch is\nto Canadian women"
+          },
+          {
+            "index": 304,
+            "start": 857.166,
+            "end": 858.3,
+            "text": "what chocolate is\nto American women."
+          },
+          {
+            "index": 305,
+            "start": 858.333,
+            "end": 861.3,
+            "text": "Correct! What is\nRobin's dream job?"
+          },
+          {
+            "index": 306,
+            "start": 861.333,
+            "end": 864.1,
+            "text": "To become the most successful\nfemale TV journalist of\nall time."
+          },
+          {
+            "index": 307,
+            "start": 864.133,
+            "end": 866.5,
+            "text": "Correct!\nAnd if she achieves that,\nwill she truly be happy?"
+          },
+          {
+            "index": 308,
+            "start": 866.533,
+            "end": 869.333,
+            "text": "No! Robin's\ndeep‐seated need for\nattention can be traced back"
+          },
+          {
+            "index": 309,
+            "start": 869.366,
+            "end": 871.266,
+            "text": "to her father's\nemotional distance,"
+          },
+          {
+            "index": 310,
+            "start": 871.3,
+            "end": 873.3,
+            "text": "and no amount of success\nwill ever make up for\nwhat she truly needs,"
+          },
+          {
+            "index": 311,
+            "start": 873.333,
+            "end": 876.8,
+            "text": "which is six\nsimple words from her dad,\n\"Robin, I'm proud of you, eh?\""
+          },
+          {
+            "index": 312,
+            "start": 876.833,
+            "end": 878.066,
+            "text": "Yes!"
+          },
+          {
+            "index": 313,
+            "start": 878.8,
+            "end": 880.966,
+            "text": "(BOTH PANTING)"
+          },
+          {
+            "index": 314,
+            "start": 881,
+            "end": 883.4,
+            "text": "But I guess you're right."
+          },
+          {
+            "index": 315,
+            "start": 883.433,
+            "end": 885.033,
+            "text": "You haven't\nlearned anything."
+          },
+          {
+            "index": 316,
+            "start": 886.7,
+            "end": 888.466,
+            "text": "Sorry to have\nwasted your time."
+          },
+          {
+            "index": 317,
+            "start": 892.133,
+            "end": 893.333,
+            "text": "\"O Captain! My Captain!\""
+          },
+          {
+            "index": 318,
+            "start": 899.866,
+            "end": 901.666,
+            "text": "How good was\nDead Poets Society?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 878.2551879882812,
+        "topCueIndex": -1,
+        "bottomCueIndex": 308
+      }
     }
   ]
 }
