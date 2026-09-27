@@ -146160,6 +146160,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 32
       }
+    },
+    {
+      "id": "b60d3900-147a-49db-8317-d51a4b2c123b",
+      "createdAt": "2026-09-27T21:30:30.069Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/34072df1-24ed-47a5-99b8-fc6e447c578c",
+      "audioTrackName": "",
+      "selectedText": "doesn't stack up.",
+      "selection": {
+        "rawText": "doesn't stack up.",
+        "startOffset": 34,
+        "endOffset": 51,
+        "cueIndex": 40,
+        "cueStart": 95.666,
+        "cueEnd": 97.866,
+        "cueText": "I guess,\nin a lot of ways,\nBarney doesn't stack up."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 30,
+            "start": 72.933,
+            "end": 74.5,
+            "text": "I'm just...\nI'm feeling so\noverwhelmed and it's just..."
+          },
+          {
+            "index": 31,
+            "start": 74.533,
+            "end": 76.266,
+            "text": "(SHUSHING)"
+          },
+          {
+            "index": 32,
+            "start": 76.3,
+            "end": 79.166,
+            "text": "What you need to do\nis talk through this stuff."
+          },
+          {
+            "index": 33,
+            "start": 79.2,
+            "end": 80.933,
+            "text": "Thanks."
+          },
+          {
+            "index": 34,
+            "start": 80.966,
+            "end": 82.8,
+            "text": "And then,\nonce you're off\nthe phone with Lily,"
+          },
+          {
+            "index": 35,
+            "start": 82.833,
+            "end": 85.933,
+            "text": "I'll be down in the bar\nready to have sex. Okay?"
+          },
+          {
+            "index": 36,
+            "start": 87.4,
+            "end": 89.366,
+            "text": "Bowl."
+          },
+          {
+            "index": 37,
+            "start": 89.4,
+            "end": 92.566,
+            "text": "Look, I'm not\nthe touchy‐feeliest\nperson in the world, but,"
+          },
+          {
+            "index": 38,
+            "start": 92.6,
+            "end": 93.8,
+            "text": "a little more\neffort would be nice."
+          },
+          {
+            "index": 39,
+            "start": 93.833,
+            "end": 95.633,
+            "text": "Bowl. Bowl.\nI understand."
+          },
+          {
+            "index": 40,
+            "start": 95.666,
+            "end": 97.866,
+            "text": "I guess,\nin a lot of ways,\nBarney doesn't stack up."
+          },
+          {
+            "index": 41,
+            "start": 97.9,
+            "end": 98.933,
+            "text": "Bowl. Bowl.\nI mean, you've had some"
+          },
+          {
+            "index": 42,
+            "start": 98.966,
+            "end": 100.433,
+            "text": "pretty incredible boyfriends."
+          },
+          {
+            "index": 43,
+            "start": 100.466,
+            "end": 105.466,
+            "text": "Bowl. Bowl.\nBowl. Bowl. Bowl."
+          },
+          {
+            "index": 44,
+            "start": 105.5,
+            "end": 106.9,
+            "text": "No, that's not it."
+          },
+          {
+            "index": 45,
+            "start": 106.933,
+            "end": 108.8,
+            "text": "I don't know.\nBowl. Bowl."
+          },
+          {
+            "index": 46,
+            "start": 108.833,
+            "end": 111.8,
+            "text": "Maybe he just\ndoesn't have it in him.\nBowl. Bowl. Bowl."
+          },
+          {
+            "index": 47,
+            "start": 111.833,
+            "end": 113.566,
+            "text": "Maybe this whole\nthing's a big mistake.\nBowl."
+          },
+          {
+            "index": 48,
+            "start": 114.5,
+            "end": 115.933,
+            "text": "Bowl?"
+          },
+          {
+            "index": 49,
+            "start": 115.966,
+            "end": 116.766,
+            "text": "She really said that?"
+          },
+          {
+            "index": 50,
+            "start": 116.8,
+            "end": 118.366,
+            "text": "And she meant it."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 96.60495703125,
+        "topCueIndex": -1,
+        "bottomCueIndex": 40
+      }
     }
   ]
 }
