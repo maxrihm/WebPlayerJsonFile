@@ -147384,6 +147384,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 80
       }
+    },
+    {
+      "id": "10899a5d-ef34-4780-bc05-62c62bc8f6d8",
+      "createdAt": "2026-09-27T21:36:11.056Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/34072df1-24ed-47a5-99b8-fc6e447c578c",
+      "audioTrackName": "",
+      "selectedText": "moving target.",
+      "selection": {
+        "rawText": "moving target.",
+        "startOffset": 40,
+        "endOffset": 54,
+        "cueIndex": 81,
+        "cueStart": 190.5,
+        "cueEnd": 193.266,
+        "cueText": "that remind me a woman's\nsexuality is a moving target."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 71,
+            "start": 161.5,
+            "end": 163.633,
+            "text": "But when I call his office,\nthey say he left hours ago."
+          },
+          {
+            "index": 72,
+            "start": 163.666,
+            "end": 165.3,
+            "text": "Well, that doesn't\nprove anything."
+          },
+          {
+            "index": 73,
+            "start": 165.333,
+            "end": 168.866,
+            "text": "Yes. Proof. Good word.\nI'm glad you brought\nthat up."
+          },
+          {
+            "index": 74,
+            "start": 168.9,
+            "end": 171.9,
+            "text": "Barney's briefcase.\nHe forgot it here\nthis morning."
+          },
+          {
+            "index": 75,
+            "start": 171.933,
+            "end": 174,
+            "text": "And what do you\nplan on doing with it?"
+          },
+          {
+            "index": 76,
+            "start": 174.033,
+            "end": 178.3,
+            "text": "We. We, you and I,\nare going to open it\nup and look for evidence."
+          },
+          {
+            "index": 77,
+            "start": 178.333,
+            "end": 180.5,
+            "text": "Ted probably\nhas a sledgehammer\naround here somewhere."
+          },
+          {
+            "index": 78,
+            "start": 180.533,
+            "end": 184.666,
+            "text": "No! Stop! Stop!\nEye contact. Listen to me."
+          },
+          {
+            "index": 79,
+            "start": 184.7,
+            "end": 186.933,
+            "text": "Robin Scherbatsky\nis many things."
+          },
+          {
+            "index": 80,
+            "start": 186.966,
+            "end": 190.466,
+            "text": "Friend, confidant,\noccasional guest star\nin some confusing dreams"
+          },
+          {
+            "index": 81,
+            "start": 190.5,
+            "end": 193.266,
+            "text": "that remind me a woman's\nsexuality is a moving target."
+          },
+          {
+            "index": 82,
+            "start": 193.3,
+            "end": 198.8,
+            "text": "But she is\nno crazy, jealous\nstalker‐bitch. Let go."
+          },
+          {
+            "index": 83,
+            "start": 198.833,
+            "end": 202.266,
+            "text": "Hey, I've been down in\nthe basement storage area\ngoing through all the stuff"
+          },
+          {
+            "index": 84,
+            "start": 202.3,
+            "end": 205.1,
+            "text": "that Lily and I left behind\nwhen we moved out.\nI'm sorry, Robin."
+          },
+          {
+            "index": 85,
+            "start": 205.133,
+            "end": 206.166,
+            "text": "We should've\ncleared it out\nfor you much sooner."
+          },
+          {
+            "index": 86,
+            "start": 206.2,
+            "end": 207.766,
+            "text": "There's a basement\nstorage area?"
+          },
+          {
+            "index": 87,
+            "start": 207.8,
+            "end": 211,
+            "text": "You're not upset. Good.\nBaby, guess what I found."
+          },
+          {
+            "index": 88,
+            "start": 217.866,
+            "end": 219.333,
+            "text": "That's great, honey."
+          },
+          {
+            "index": 89,
+            "start": 219.366,
+            "end": 221,
+            "text": "What the hell is that?"
+          },
+          {
+            "index": 90,
+            "start": 221.033,
+            "end": 224.8,
+            "text": "Marshall got it in college.\nHe used it as a nightstand\nfor years."
+          },
+          {
+            "index": 91,
+            "start": 224.833,
+            "end": 228.133,
+            "text": "Until we found out that\nLily was allergic to\nbarrel resin."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 191.86793603515625,
+        "topCueIndex": -1,
+        "bottomCueIndex": 81
+      }
     }
   ]
 }
