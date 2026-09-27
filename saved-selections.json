@@ -148761,6 +148761,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 135
       }
+    },
+    {
+      "id": "cd198250-24ef-4bc6-bf9b-8d791397beaf",
+      "createdAt": "2026-09-27T21:58:39.249Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/34072df1-24ed-47a5-99b8-fc6e447c578c",
+      "audioTrackName": "",
+      "selectedText": "handcart",
+      "selection": {
+        "rawText": "handcart",
+        "startOffset": 36,
+        "endOffset": 44,
+        "cueIndex": 136,
+        "cueStart": 345.5,
+        "cueEnd": 348.533,
+        "cueText": "He's probably\nrushing home to get\na handcart or something."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 126,
+            "start": 315.933,
+            "end": 319.3,
+            "text": "\"Age 29, but tells\npeople that she's 26.\""
+          },
+          {
+            "index": 127,
+            "start": 319.333,
+            "end": 321.166,
+            "text": "Oh, my God,\nthese are notes about me,"
+          },
+          {
+            "index": 128,
+            "start": 321.2,
+            "end": 323.5,
+            "text": "or some 29‐year‐old\nversion of me."
+          },
+          {
+            "index": 129,
+            "start": 323.533,
+            "end": 324.266,
+            "text": "(DOOR OPENS)"
+          },
+          {
+            "index": 130,
+            "start": 325.333,
+            "end": 326.9,
+            "text": "I hope I'm not too late!"
+          },
+          {
+            "index": 131,
+            "start": 326.933,
+            "end": 328.933,
+            "text": "I want to\nsee the look of joy\non the new owner's face!"
+          },
+          {
+            "index": 132,
+            "start": 334.4,
+            "end": 337.133,
+            "text": "She's still there!"
+          },
+          {
+            "index": 133,
+            "start": 337.166,
+            "end": 340.033,
+            "text": "Okay, Mabel,\nlet's find you a new home."
+          },
+          {
+            "index": 134,
+            "start": 340.066,
+            "end": 341.8,
+            "text": "Here comes a guy!"
+          },
+          {
+            "index": 135,
+            "start": 341.833,
+            "end": 345.466,
+            "text": "And he...\nHe just walked,\nwalked right on by it."
+          },
+          {
+            "index": 136,
+            "start": 345.5,
+            "end": 348.533,
+            "text": "He's probably\nrushing home to get\na handcart or something."
+          },
+          {
+            "index": 137,
+            "start": 348.566,
+            "end": 350.166,
+            "text": "Yeah! Hey,\nbetter hurry up, pal."
+          },
+          {
+            "index": 138,
+            "start": 350.2,
+            "end": 352.666,
+            "text": "(LAUGHS)"
+          },
+          {
+            "index": 139,
+            "start": 352.7,
+            "end": 354.166,
+            "text": "What are you guys\ndoing with Barney's\nsecret Robin notebook?"
+          },
+          {
+            "index": 140,
+            "start": 357.2,
+            "end": 359.833,
+            "text": "Let me rephrase that."
+          },
+          {
+            "index": 141,
+            "start": 359.866,
+            "end": 363.866,
+            "text": "Did you two ladies\nlose some weight?"
+          },
+          {
+            "index": 142,
+            "start": 363.9,
+            "end": 365.833,
+            "text": "What do you know\nabout this, Marshall?"
+          },
+          {
+            "index": 143,
+            "start": 365.866,
+            "end": 369.033,
+            "text": "Why would\nBarney have a notebook\nfull of information about me?"
+          },
+          {
+            "index": 144,
+            "start": 369.066,
+            "end": 370.266,
+            "text": "Well..."
+          },
+          {
+            "index": 145,
+            "start": 370.3,
+            "end": 372.166,
+            "text": "OLDER TED: The truth was"
+          },
+          {
+            "index": 146,
+            "start": 372.2,
+            "end": 376.333,
+            "text": "Barney was taking a night\nschool class taught by me."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 348.94231298828123,
+        "topCueIndex": -1,
+        "bottomCueIndex": 136
+      }
     }
   ]
 }
