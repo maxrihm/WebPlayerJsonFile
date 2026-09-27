@@ -152892,6 +152892,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 387
       }
+    },
+    {
+      "id": "c970c156-909b-415c-9c5f-a607bb841f02",
+      "createdAt": "2026-09-27T22:34:54.701Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/34072df1-24ed-47a5-99b8-fc6e447c578c",
+      "audioTrackName": "",
+      "selectedText": "to good use,",
+      "selection": {
+        "rawText": "to good use,",
+        "startOffset": 28,
+        "endOffset": 40,
+        "cueIndex": 401,
+        "cueStart": 1129.566,
+        "cueEnd": 1132.766,
+        "cueText": "Robin Scherbatsky knowledge\nto good use, you know?"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 391,
+            "start": 1102.933,
+            "end": 1105.066,
+            "text": "All that stuff I told Barney,"
+          },
+          {
+            "index": 392,
+            "start": 1105.099,
+            "end": 1106.933,
+            "text": "it was personal\nbetween you and me."
+          },
+          {
+            "index": 393,
+            "start": 1107.966,
+            "end": 1110.233,
+            "text": "I'm really sorry."
+          },
+          {
+            "index": 394,
+            "start": 1110.266,
+            "end": 1112.466,
+            "text": "I guess I'm impressed\nby how much you remembered."
+          },
+          {
+            "index": 395,
+            "start": 1114.133,
+            "end": 1116.166,
+            "text": "It's funny."
+          },
+          {
+            "index": 396,
+            "start": 1116.199,
+            "end": 1119.099,
+            "text": "When you date someone,\nit's like you're\ntaking one long course"
+          },
+          {
+            "index": 397,
+            "start": 1119.133,
+            "end": 1121.333,
+            "text": "in who that person is\nand then when you break up,"
+          },
+          {
+            "index": 398,
+            "start": 1121.366,
+            "end": 1123.733,
+            "text": "all that stuff\nbecomes useless."
+          },
+          {
+            "index": 399,
+            "start": 1123.766,
+            "end": 1127.866,
+            "text": "It's the\nemotional equivalent\nof an English degree."
+          },
+          {
+            "index": 400,
+            "start": 1127.899,
+            "end": 1129.533,
+            "text": "I guess I just liked\nthe idea of putting\nall my"
+          },
+          {
+            "index": 401,
+            "start": 1129.566,
+            "end": 1132.766,
+            "text": "Robin Scherbatsky knowledge\nto good use, you know?"
+          },
+          {
+            "index": 402,
+            "start": 1132.799,
+            "end": 1136.933,
+            "text": "Well, since you\nknow me pretty well,"
+          },
+          {
+            "index": 403,
+            "start": 1136.966,
+            "end": 1139.699,
+            "text": "am I fooling myself\nwith this whole\nBarney thing?"
+          },
+          {
+            "index": 404,
+            "start": 1139.733,
+            "end": 1141.299,
+            "text": "I don't know."
+          },
+          {
+            "index": 405,
+            "start": 1142.066,
+            "end": 1143.899,
+            "text": "I will say this, though."
+          },
+          {
+            "index": 406,
+            "start": 1143.933,
+            "end": 1147.199,
+            "text": "I've seen Barney work\nvery hard to get women."
+          },
+          {
+            "index": 407,
+            "start": 1147.233,
+            "end": 1150.733,
+            "text": "I've seen him\nwork very hard\nto get rid of women."
+          },
+          {
+            "index": 408,
+            "start": 1150.766,
+            "end": 1153.033,
+            "text": "I've never seen\nhim work this hard\nto keep one around."
+          },
+          {
+            "index": 409,
+            "start": 1154.566,
+            "end": 1156.866,
+            "text": "I was going\nto give him an A."
+          },
+          {
+            "index": 410,
+            "start": 1156.899,
+            "end": 1159.199,
+            "text": "Well, B+.\nShin‐Ya kind of\nscrewed up the curve."
+          },
+          {
+            "index": 411,
+            "start": 1164.399,
+            "end": 1166.066,
+            "text": "Hey. Before\nyou say anything,"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1133.4927609863282,
+        "topCueIndex": -1,
+        "bottomCueIndex": 401
+      }
     }
   ]
 }
