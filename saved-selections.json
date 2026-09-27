@@ -146007,6 +146007,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 15
       }
+    },
+    {
+      "id": "136ffdd8-bd81-4d7b-9dc4-8a0e4ca49a19",
+      "createdAt": "2026-09-27T21:28:50.456Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/34072df1-24ed-47a5-99b8-fc6e447c578c",
+      "audioTrackName": "",
+      "selectedText": "talk through",
+      "selection": {
+        "rawText": "talk through",
+        "startOffset": 23,
+        "endOffset": 35,
+        "cueIndex": 32,
+        "cueStart": 76.3,
+        "cueEnd": 79.166,
+        "cueText": "What you need to do\nis talk through this stuff."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 22,
+            "start": 45.533,
+            "end": 47.133,
+            "text": "Barney?"
+          },
+          {
+            "index": 23,
+            "start": 49.333,
+            "end": 51.566,
+            "text": "Barney. This is\nnot a one‐night stand."
+          },
+          {
+            "index": 24,
+            "start": 51.6,
+            "end": 53.366,
+            "text": "We're dating.\nCome back to bed."
+          },
+          {
+            "index": 25,
+            "start": 58.933,
+            "end": 61.266,
+            "text": "Bowl. Bowl.\nThat's happened three times."
+          },
+          {
+            "index": 26,
+            "start": 61.3,
+            "end": 62.533,
+            "text": "And it's not just that,\nit's other things."
+          },
+          {
+            "index": 27,
+            "start": 64.7,
+            "end": 66.833,
+            "text": "Hey. What's wrong?"
+          },
+          {
+            "index": 28,
+            "start": 66.866,
+            "end": 69.5,
+            "text": "It was just one thing\nafter another at\nwork today,"
+          },
+          {
+            "index": 29,
+            "start": 69.533,
+            "end": 72.9,
+            "text": "and then I found out\nmy aunt's in the hospital."
+          },
+          {
+            "index": 30,
+            "start": 72.933,
+            "end": 74.5,
+            "text": "I'm just...\nI'm feeling so\noverwhelmed and it's just..."
+          },
+          {
+            "index": 31,
+            "start": 74.533,
+            "end": 76.266,
+            "text": "(SHUSHING)"
+          },
+          {
+            "index": 32,
+            "start": 76.3,
+            "end": 79.166,
+            "text": "What you need to do\nis talk through this stuff."
+          },
+          {
+            "index": 33,
+            "start": 79.2,
+            "end": 80.933,
+            "text": "Thanks."
+          },
+          {
+            "index": 34,
+            "start": 80.966,
+            "end": 82.8,
+            "text": "And then,\nonce you're off\nthe phone with Lily,"
+          },
+          {
+            "index": 35,
+            "start": 82.833,
+            "end": 85.933,
+            "text": "I'll be down in the bar\nready to have sex. Okay?"
+          },
+          {
+            "index": 36,
+            "start": 87.4,
+            "end": 89.366,
+            "text": "Bowl."
+          },
+          {
+            "index": 37,
+            "start": 89.4,
+            "end": 92.566,
+            "text": "Look, I'm not\nthe touchy‐feeliest\nperson in the world, but,"
+          },
+          {
+            "index": 38,
+            "start": 92.6,
+            "end": 93.8,
+            "text": "a little more\neffort would be nice."
+          },
+          {
+            "index": 39,
+            "start": 93.833,
+            "end": 95.633,
+            "text": "Bowl. Bowl.\nI understand."
+          },
+          {
+            "index": 40,
+            "start": 95.666,
+            "end": 97.866,
+            "text": "I guess,\nin a lot of ways,\nBarney doesn't stack up."
+          },
+          {
+            "index": 41,
+            "start": 97.9,
+            "end": 98.933,
+            "text": "Bowl. Bowl.\nI mean, you've had some"
+          },
+          {
+            "index": 42,
+            "start": 98.966,
+            "end": 100.433,
+            "text": "pretty incredible boyfriends."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 85.91114794921874,
+        "topCueIndex": -1,
+        "bottomCueIndex": 32
+      }
     }
   ]
 }
