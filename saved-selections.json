@@ -148914,6 +148914,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 136
       }
+    },
+    {
+      "id": "c8840f18-9df5-4992-8e3b-5a0f62cde96c",
+      "createdAt": "2026-09-27T22:00:16.673Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/34072df1-24ed-47a5-99b8-fc6e447c578c",
+      "audioTrackName": "",
+      "selectedText": "for starters,",
+      "selection": {
+        "rawText": "for starters,",
+        "startOffset": 6,
+        "endOffset": 19,
+        "cueIndex": 157,
+        "cueStart": 429.633,
+        "cueEnd": 434.233,
+        "cueText": "Okay, for starters, don't\never cry in front of her."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 147,
+            "start": 376.366,
+            "end": 378.533,
+            "text": "Welcome to Robin 101."
+          },
+          {
+            "index": 148,
+            "start": 397.8,
+            "end": 400.466,
+            "text": "Why is\nTed teaching\na class about me?"
+          },
+          {
+            "index": 149,
+            "start": 400.5,
+            "end": 403,
+            "text": "It all started\na few weeks ago."
+          },
+          {
+            "index": 150,
+            "start": 403.033,
+            "end": 405.6,
+            "text": "...rather than rolling around\nnext to some eyeliner in\nRobin's purse."
+          },
+          {
+            "index": 151,
+            "start": 405.633,
+            "end": 407,
+            "text": "Stinson out!"
+          },
+          {
+            "index": 152,
+            "start": 411.866,
+            "end": 414.466,
+            "text": "Stinson back in."
+          },
+          {
+            "index": 153,
+            "start": 414.5,
+            "end": 419.266,
+            "text": "Say, hypothetically,\nI did want to change who I am"
+          },
+          {
+            "index": 154,
+            "start": 419.3,
+            "end": 423.733,
+            "text": "to become a better\nboyfriend to Robin,\nwhich I do not,"
+          },
+          {
+            "index": 155,
+            "start": 423.766,
+            "end": 426.2,
+            "text": "what kind of changes\nare we talking about?"
+          },
+          {
+            "index": 156,
+            "start": 426.233,
+            "end": 429.6,
+            "text": "Why... There's just so much\nyou need to know about her."
+          },
+          {
+            "index": 157,
+            "start": 429.633,
+            "end": 434.233,
+            "text": "Okay, for starters, don't\never cry in front of her."
+          },
+          {
+            "index": 158,
+            "start": 434.266,
+            "end": 436.2,
+            "text": "Okay."
+          },
+          {
+            "index": 159,
+            "start": 436.233,
+            "end": 440.333,
+            "text": "And whatever you do, don't\ncry in front of her\nfour times."
+          },
+          {
+            "index": 160,
+            "start": 441.666,
+            "end": 443.733,
+            "text": "Hey, guys.\nWhat you talking about?"
+          },
+          {
+            "index": 161,
+            "start": 443.766,
+            "end": 445.066,
+            "text": "Fantasy football.\nFantasy football."
+          },
+          {
+            "index": 162,
+            "start": 447.3,
+            "end": 449.4,
+            "text": "They realized they\ncouldn't talk about\nthis stuff at the bar,"
+          },
+          {
+            "index": 163,
+            "start": 449.433,
+            "end": 452.6,
+            "text": "and since you live with Ted,\nthey had to find\nsomeplace safe."
+          },
+          {
+            "index": 164,
+            "start": 452.633,
+            "end": 455.2,
+            "text": "So, Ted's classroom."
+          },
+          {
+            "index": 165,
+            "start": 455.233,
+            "end": 457.7,
+            "text": "\"How To Date\nRobin Scherbatsky.\""
+          },
+          {
+            "index": 166,
+            "start": 457.733,
+            "end": 459.166,
+            "text": "Lesson one."
+          },
+          {
+            "index": 167,
+            "start": 459.2,
+            "end": 461.266,
+            "text": "Now, even though she\nputs up a tough exterior,"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 432.0838039550781,
+        "topCueIndex": -1,
+        "bottomCueIndex": 157
+      }
     }
   ]
 }
