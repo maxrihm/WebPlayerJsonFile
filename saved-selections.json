@@ -147078,6 +147078,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 62
       }
+    },
+    {
+      "id": "b0d6f52a-597f-4ed0-a505-f0cdf4a0f67c",
+      "createdAt": "2026-09-27T21:33:51.066Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/34072df1-24ed-47a5-99b8-fc6e447c578c",
+      "audioTrackName": "",
+      "selectedText": "brought that up.",
+      "selection": {
+        "rawText": "brought\nthat up.",
+        "startOffset": 36,
+        "endOffset": 52,
+        "cueIndex": 73,
+        "cueStart": 165.333,
+        "cueEnd": 168.866,
+        "cueText": "Yes. Proof. Good word.\nI'm glad you brought\nthat up."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 63,
+            "start": 146.6,
+            "end": 148.866,
+            "text": "In short,\nthe perfect boyfriend,"
+          },
+          {
+            "index": 64,
+            "start": 148.9,
+            "end": 151.033,
+            "text": "which, to Robin,\nmeant only one thing."
+          },
+          {
+            "index": 65,
+            "start": 151.066,
+            "end": 152.566,
+            "text": "He's cheating on me.\nWhat?"
+          },
+          {
+            "index": 66,
+            "start": 152.6,
+            "end": 154,
+            "text": "Why else would\nhe buy me flowers?"
+          },
+          {
+            "index": 67,
+            "start": 154.033,
+            "end": 155.133,
+            "text": "He's getting\nsome on the side."
+          },
+          {
+            "index": 68,
+            "start": 155.166,
+            "end": 156.8,
+            "text": "Come on, Robin."
+          },
+          {
+            "index": 69,
+            "start": 156.833,
+            "end": 159.3,
+            "text": "Barney's not the type\nof guy who would...\nGo on."
+          },
+          {
+            "index": 70,
+            "start": 159.333,
+            "end": 161.466,
+            "text": "Plus, he keeps\nsaying he's working late."
+          },
+          {
+            "index": 71,
+            "start": 161.5,
+            "end": 163.633,
+            "text": "But when I call his office,\nthey say he left hours ago."
+          },
+          {
+            "index": 72,
+            "start": 163.666,
+            "end": 165.3,
+            "text": "Well, that doesn't\nprove anything."
+          },
+          {
+            "index": 73,
+            "start": 165.333,
+            "end": 168.866,
+            "text": "Yes. Proof. Good word.\nI'm glad you brought\nthat up."
+          },
+          {
+            "index": 74,
+            "start": 168.9,
+            "end": 171.9,
+            "text": "Barney's briefcase.\nHe forgot it here\nthis morning."
+          },
+          {
+            "index": 75,
+            "start": 171.933,
+            "end": 174,
+            "text": "And what do you\nplan on doing with it?"
+          },
+          {
+            "index": 76,
+            "start": 174.033,
+            "end": 178.3,
+            "text": "We. We, you and I,\nare going to open it\nup and look for evidence."
+          },
+          {
+            "index": 77,
+            "start": 178.333,
+            "end": 180.5,
+            "text": "Ted probably\nhas a sledgehammer\naround here somewhere."
+          },
+          {
+            "index": 78,
+            "start": 180.533,
+            "end": 184.666,
+            "text": "No! Stop! Stop!\nEye contact. Listen to me."
+          },
+          {
+            "index": 79,
+            "start": 184.7,
+            "end": 186.933,
+            "text": "Robin Scherbatsky\nis many things."
+          },
+          {
+            "index": 80,
+            "start": 186.966,
+            "end": 190.466,
+            "text": "Friend, confidant,\noccasional guest star\nin some confusing dreams"
+          },
+          {
+            "index": 81,
+            "start": 190.5,
+            "end": 193.266,
+            "text": "that remind me a woman's\nsexuality is a moving target."
+          },
+          {
+            "index": 82,
+            "start": 193.3,
+            "end": 198.8,
+            "text": "But she is\nno crazy, jealous\nstalker‐bitch. Let go."
+          },
+          {
+            "index": 83,
+            "start": 198.833,
+            "end": 202.266,
+            "text": "Hey, I've been down in\nthe basement storage area\ngoing through all the stuff"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 168.38301196289063,
+        "topCueIndex": -1,
+        "bottomCueIndex": 73
+      }
     }
   ]
 }
