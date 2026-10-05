@@ -155985,6 +155985,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 152
       }
+    },
+    {
+      "id": "c125db1e-4305-4b68-8192-08e867c7f145",
+      "createdAt": "2026-10-05T16:23:43.043Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/ad760cf3-b787-4d72-82d3-92a3f61ee5eb",
+      "audioTrackName": "",
+      "selectedText": "Innkeeper.",
+      "selection": {
+        "rawText": "Innkeeper.",
+        "startOffset": 19,
+        "endOffset": 29,
+        "cueIndex": 161,
+        "cueStart": 451.585,
+        "cueEnd": 452.986,
+        "cueText": "You're the\nSexless Innkeeper."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 151,
+            "start": 421.588,
+            "end": 425.959,
+            "text": "Last night, she picked me\nup at the bar. And then..."
+          },
+          {
+            "index": 152,
+            "start": 425.992,
+            "end": 430.096,
+            "text": "Well, she actually wound up\nfalling asleep on the couch.\nBut, hey, that happens."
+          },
+          {
+            "index": 153,
+            "start": 431.497,
+            "end": 432.899,
+            "text": "Uh, no, it doesn't."
+          },
+          {
+            "index": 154,
+            "start": 432.933,
+            "end": 435.569,
+            "text": "Sure, it does.\nYou know, she was..."
+          },
+          {
+            "index": 155,
+            "start": 435.602,
+            "end": 438.639,
+            "text": "She was\njust exhausted\nfrom being turned on."
+          },
+          {
+            "index": 156,
+            "start": 438.672,
+            "end": 441.407,
+            "text": "But you heard her.\nShe wants to do\nit again, soon."
+          },
+          {
+            "index": 157,
+            "start": 442.509,
+            "end": 444.711,
+            "text": "Ted, let me\nask you a question."
+          },
+          {
+            "index": 158,
+            "start": 444.745,
+            "end": 446.813,
+            "text": "Where does this\ngirl live, exactly?"
+          },
+          {
+            "index": 159,
+            "start": 446.847,
+            "end": 448.048,
+            "text": "Westchester. Why?"
+          },
+          {
+            "index": 160,
+            "start": 448.081,
+            "end": 449.249,
+            "text": "(LAUGHS)"
+          },
+          {
+            "index": 161,
+            "start": 451.585,
+            "end": 452.986,
+            "text": "You're the\nSexless Innkeeper."
+          },
+          {
+            "index": 162,
+            "start": 453.019,
+            "end": 454.555,
+            "text": "Oh, my God!\nYou're right!"
+          },
+          {
+            "index": 163,
+            "start": 454.588,
+            "end": 456.356,
+            "text": "He's totally\nthe Sexless Innkeeper!"
+          },
+          {
+            "index": 164,
+            "start": 456.389,
+            "end": 458.859,
+            "text": "What the hell is\nthe Sexless Innkeeper?"
+          },
+          {
+            "index": 165,
+            "start": 458.892,
+            "end": 462.696,
+            "text": "Ted, many a man...\nNay, many a soul"
+          },
+          {
+            "index": 166,
+            "start": 462.729,
+            "end": 464.831,
+            "text": "has their own tale\nof the Sexless Innkeeper."
+          },
+          {
+            "index": 167,
+            "start": 464.865,
+            "end": 467.834,
+            "text": "Why, I had a run‐in\nwith one just last year."
+          },
+          {
+            "index": 168,
+            "start": 467.868,
+            "end": 470.07,
+            "text": "I even composed\na poem about it."
+          },
+          {
+            "index": 169,
+            "start": 470.103,
+            "end": 472.372,
+            "text": "Would you care to hear it?\nNot really."
+          },
+          {
+            "index": 170,
+            "start": 472.405,
+            "end": 475.876,
+            "text": "'Twas the night\nbefore New Year's,\nand the weather grew mean."
+          },
+          {
+            "index": 171,
+            "start": 475.909,
+            "end": 479.112,
+            "text": "It was 3:00 in the morning,\nand I was stranded in Queens."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 453.81789599609374,
+        "topCueIndex": -1,
+        "bottomCueIndex": 161
+      }
     }
   ]
 }
