@@ -155679,6 +155679,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 139
       }
+    },
+    {
+      "id": "ef3c6e26-04bc-4c8a-a4c3-3bb2085f7c49",
+      "createdAt": "2026-10-05T16:21:25.470Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/ad760cf3-b787-4d72-82d3-92a3f61ee5eb",
+      "audioTrackName": "",
+      "selectedText": "blatantly",
+      "selection": {
+        "rawText": "blatantly",
+        "startOffset": 19,
+        "endOffset": 28,
+        "cueIndex": 143,
+        "cueStart": 402.603,
+        "cueEnd": 404.204,
+        "cueText": "Why would\nyou just blatantly\nlie to them like that?"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 133,
+            "start": 380.08,
+            "end": 383.383,
+            "text": "Needless to say,\nwe've both changed\nour e‐mail addresses."
+          },
+          {
+            "index": 134,
+            "start": 383.416,
+            "end": 386.486,
+            "text": "I don't understand.\nIf last night went\nso horribly,"
+          },
+          {
+            "index": 135,
+            "start": 386.52,
+            "end": 388.555,
+            "text": "why do Lily and Marshall\nthink it was such a hit?"
+          },
+          {
+            "index": 136,
+            "start": 388.589,
+            "end": 390.356,
+            "text": "I mean,\nwe knew we were\ngonna have fun tonight,"
+          },
+          {
+            "index": 137,
+            "start": 390.39,
+            "end": 392.793,
+            "text": "but we had\nno idea how much."
+          },
+          {
+            "index": 138,
+            "start": 392.826,
+            "end": 395.495,
+            "text": "Yeah, tough luck, every\nSaturday night I've\never had,"
+          },
+          {
+            "index": 139,
+            "start": 395.529,
+            "end": 397.397,
+            "text": "'cause this one just\nblew you out of the water."
+          },
+          {
+            "index": 140,
+            "start": 397.43,
+            "end": 398.665,
+            "text": "Let's do it again, soon."
+          },
+          {
+            "index": 141,
+            "start": 398.699,
+            "end": 399.7,
+            "text": "Yeah, we'll call you."
+          },
+          {
+            "index": 142,
+            "start": 400.567,
+            "end": 402.569,
+            "text": "They're your friends!"
+          },
+          {
+            "index": 143,
+            "start": 402.603,
+            "end": 404.204,
+            "text": "Why would\nyou just blatantly\nlie to them like that?"
+          },
+          {
+            "index": 144,
+            "start": 404.237,
+            "end": 406.206,
+            "text": "Well, that's what you say\nat the end of a crappy date."
+          },
+          {
+            "index": 145,
+            "start": 406.239,
+            "end": 408.642,
+            "text": "Hey, Ted.\nGreat time last night."
+          },
+          {
+            "index": 146,
+            "start": 408.675,
+            "end": 411.044,
+            "text": "Let's do it again, soon.\nI'll call you."
+          },
+          {
+            "index": 147,
+            "start": 412.779,
+            "end": 414.515,
+            "text": "(DOOR CLOSES)\nRight?"
+          },
+          {
+            "index": 148,
+            "start": 415.616,
+            "end": 416.717,
+            "text": "Who was that?"
+          },
+          {
+            "index": 149,
+            "start": 416.75,
+            "end": 418.685,
+            "text": "I don't want to brag,"
+          },
+          {
+            "index": 150,
+            "start": 418.719,
+            "end": 421.555,
+            "text": "but it seems\nchicks are really digging\nthe whole professor thing."
+          },
+          {
+            "index": 151,
+            "start": 421.588,
+            "end": 425.959,
+            "text": "Last night, she picked me\nup at the bar. And then..."
+          },
+          {
+            "index": 152,
+            "start": 425.992,
+            "end": 430.096,
+            "text": "Well, she actually wound up\nfalling asleep on the couch.\nBut, hey, that happens."
+          },
+          {
+            "index": 153,
+            "start": 431.497,
+            "end": 432.899,
+            "text": "Uh, no, it doesn't."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 404.25722705078124,
+        "topCueIndex": -1,
+        "bottomCueIndex": 143
+      }
     }
   ]
 }
