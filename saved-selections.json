@@ -154608,6 +154608,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 71
       }
+    },
+    {
+      "id": "289ac887-fe1a-4a60-a7e0-69b38f3b72e9",
+      "createdAt": "2026-10-05T16:11:15.151Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/ad760cf3-b787-4d72-82d3-92a3f61ee5eb",
+      "audioTrackName": "",
+      "selectedText": "making sense",
+      "selection": {
+        "rawText": "making\nsense",
+        "startOffset": 23,
+        "endOffset": 35,
+        "cueIndex": 83,
+        "cueStart": 236.57,
+        "cueEnd": 238.705,
+        "cueText": "that they\nweren't even making\nsense half the time."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 73,
+            "start": 194.528,
+            "end": 195.962,
+            "text": "Whether it's in\nthe dating world..."
+          },
+          {
+            "index": 74,
+            "start": 195.996,
+            "end": 197.698,
+            "text": "Take care. Bye.\nBye!"
+          },
+          {
+            "index": 75,
+            "start": 197.731,
+            "end": 200.366,
+            "text": "...or the double‐dating world."
+          },
+          {
+            "index": 76,
+            "start": 200.4,
+            "end": 202.569,
+            "text": "Nailed it!\nBest night ever!"
+          },
+          {
+            "index": 77,
+            "start": 204.437,
+            "end": 206.573,
+            "text": "Worst night ever."
+          },
+          {
+            "index": 78,
+            "start": 208.675,
+            "end": 209.442,
+            "text": "(SIGHS)"
+          },
+          {
+            "index": 79,
+            "start": 225.391,
+            "end": 228.394,
+            "text": "Hey, how was\nthe big couples' night\nwith Marshall and Lily?"
+          },
+          {
+            "index": 80,
+            "start": 228.428,
+            "end": 230.831,
+            "text": "Brutal.\nReally? How?"
+          },
+          {
+            "index": 81,
+            "start": 230.864,
+            "end": 235.168,
+            "text": "It was like we were on a date\nwith a sad, chubby girl our\nmom made us call."
+          },
+          {
+            "index": 82,
+            "start": 235.201,
+            "end": 236.537,
+            "text": "Yeah, and they\nwere so nervous,"
+          },
+          {
+            "index": 83,
+            "start": 236.57,
+            "end": 238.705,
+            "text": "that they\nweren't even making\nsense half the time."
+          },
+          {
+            "index": 84,
+            "start": 238.739,
+            "end": 240.34,
+            "text": "Hey.\nCome on in."
+          },
+          {
+            "index": 85,
+            "start": 240.373,
+            "end": 242.075,
+            "text": "Would you like a margarita?"
+          },
+          {
+            "index": 86,
+            "start": 242.108,
+            "end": 244.01,
+            "text": "In Cabo,\nI saw Sammy Hagar\neating a Belgian waffle!"
+          },
+          {
+            "index": 87,
+            "start": 246.513,
+            "end": 250.016,
+            "text": "And they kept shoving\nplatters of food in\nour faces."
+          },
+          {
+            "index": 88,
+            "start": 250.05,
+            "end": 252.886,
+            "text": "Let me guess. Did Marshall\nget, like, super intense\nabout the cheese?"
+          },
+          {
+            "index": 89,
+            "start": 252.919,
+            "end": 254.487,
+            "text": "(GASPS) Yeah,\nhow'd you know?"
+          },
+          {
+            "index": 90,
+            "start": 254.521,
+            "end": 255.989,
+            "text": "Poor Marshall."
+          },
+          {
+            "index": 91,
+            "start": 256.022,
+            "end": 258.224,
+            "text": "Lily's this gourmet cook,\nand all she lets Marshall do"
+          },
+          {
+            "index": 92,
+            "start": 258.258,
+            "end": 261.061,
+            "text": "is pick out one\nsad block of cheese."
+          },
+          {
+            "index": 93,
+            "start": 261.094,
+            "end": 263.163,
+            "text": "That's\nprosciutto‐wrapped melon."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 238.7875920410156,
+        "topCueIndex": -1,
+        "bottomCueIndex": 83
+      }
     }
   ]
 }
