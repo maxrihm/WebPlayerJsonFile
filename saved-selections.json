@@ -154302,6 +154302,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 28
       }
+    },
+    {
+      "id": "13388b62-d650-42ad-a922-1b08ec0050c0",
+      "createdAt": "2026-10-05T16:03:04.903Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/ad760cf3-b787-4d72-82d3-92a3f61ee5eb",
+      "audioTrackName": "",
+      "selectedText": "not that into you.",
+      "selection": {
+        "rawText": "not that into you.",
+        "startOffset": 48,
+        "endOffset": 66,
+        "cueIndex": 38,
+        "cueStart": 103.737,
+        "cueEnd": 110.544,
+        "cueText": "I'm sorry, Marshall,\nbut Falguni and I are just\nnot that into you. And you."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 28,
+            "start": 69.402,
+            "end": 73.574,
+            "text": "So, should we just go ahead\nand lock the four of us in\nfor New Year's?"
+          },
+          {
+            "index": 29,
+            "start": 73.607,
+            "end": 76.309,
+            "text": "Um, it's April."
+          },
+          {
+            "index": 30,
+            "start": 76.342,
+            "end": 79.379,
+            "text": "Right. Sorry.\nWe're getting\nahead of ourselves."
+          },
+          {
+            "index": 31,
+            "start": 79.412,
+            "end": 81.081,
+            "text": "Let's talk Thanksgiving."
+          },
+          {
+            "index": 32,
+            "start": 81.114,
+            "end": 83.584,
+            "text": "(GASPS) Our parents\n(IN SING SONG)\nreally want to meet you!"
+          },
+          {
+            "index": 33,
+            "start": 88.321,
+            "end": 90.957,
+            "text": "Well, we should\nprobably be going."
+          },
+          {
+            "index": 34,
+            "start": 90.991,
+            "end": 93.627,
+            "text": "Wait. No, wait, if you leave\nnow, Colonel Mustard just\ngets away with it."
+          },
+          {
+            "index": 35,
+            "start": 93.66,
+            "end": 95.996,
+            "text": "It's getting pretty late.\nWe're going to go."
+          },
+          {
+            "index": 36,
+            "start": 96.029,
+            "end": 97.063,
+            "text": "There's still pie."
+          },
+          {
+            "index": 37,
+            "start": 100.2,
+            "end": 103.704,
+            "text": "Tonight was fantastic.\nWe should do it again."
+          },
+          {
+            "index": 38,
+            "start": 103.737,
+            "end": 110.544,
+            "text": "I'm sorry, Marshall,\nbut Falguni and I are just\nnot that into you. And you."
+          },
+          {
+            "index": 39,
+            "start": 110.577,
+            "end": 113.079,
+            "text": "OLDER TED: But just when Lily\nand Marshall were about to\ngive up,"
+          },
+          {
+            "index": 40,
+            "start": 113.113,
+            "end": 115.516,
+            "text": "two of their best friends\nin the world got together."
+          },
+          {
+            "index": 41,
+            "start": 115.549,
+            "end": 117.684,
+            "text": "(DOOR OPENING)\nAnd hope returned\nto their hearts."
+          },
+          {
+            "index": 42,
+            "start": 117.718,
+            "end": 119.72,
+            "text": "(WHOOPING)"
+          },
+          {
+            "index": 43,
+            "start": 119.753,
+            "end": 121.487,
+            "text": "So, when Lily said..."
+          },
+          {
+            "index": 44,
+            "start": 121.522,
+            "end": 123.857,
+            "text": "Marshall and I wanted\nto invite you to our place"
+          },
+          {
+            "index": 45,
+            "start": 123.89,
+            "end": 125.626,
+            "text": "for a little couples' night."
+          },
+          {
+            "index": 46,
+            "start": 125.659,
+            "end": 128.529,
+            "text": "Sure, why not?"
+          },
+          {
+            "index": 47,
+            "start": 128.562,
+            "end": 131.064,
+            "text": "OLDER TED: Barney and Robin\nhad no idea what they were\nabou\nt to walk into."
+          },
+          {
+            "index": 48,
+            "start": 131.097,
+            "end": 132.566,
+            "text": "Okay. Game time."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 107.61401806640625,
+        "topCueIndex": -1,
+        "bottomCueIndex": 38
+      }
     }
   ]
 }
