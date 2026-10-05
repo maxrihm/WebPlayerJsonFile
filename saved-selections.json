@@ -154455,6 +154455,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 38
       }
+    },
+    {
+      "id": "5c7bf3f1-0ecc-4546-8fb9-97a3f1c0a27d",
+      "createdAt": "2026-10-05T16:09:14.266Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/ad760cf3-b787-4d72-82d3-92a3f61ee5eb",
+      "audioTrackName": "",
+      "selectedText": "fall into place.",
+      "selection": {
+        "rawText": "fall into place.",
+        "startOffset": 40,
+        "endOffset": 56,
+        "cueIndex": 71,
+        "cueStart": 188.922,
+        "cueEnd": 191.825,
+        "cueText": "Sometimes things just seem\nto magically fall into place."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 61,
+            "start": 161.595,
+            "end": 162.996,
+            "text": "(DOORBELL RINGING)"
+          },
+          {
+            "index": 62,
+            "start": 163.864,
+            "end": 165.666,
+            "text": "Baby, we can do this."
+          },
+          {
+            "index": 63,
+            "start": 168.168,
+            "end": 172.305,
+            "text": "Welcome.\nGouda?"
+          },
+          {
+            "index": 64,
+            "start": 172.338,
+            "end": 175.509,
+            "text": "OLDER TED: Meanwhile,\nmy half‐baked theory that\nladies dig the\nprofessor look"
+          },
+          {
+            "index": 65,
+            "start": 175.542,
+            "end": 177.31,
+            "text": "was actually\nproving to be true."
+          },
+          {
+            "index": 66,
+            "start": 177.343,
+            "end": 178.712,
+            "text": "So, is it hard\nto grade papers?"
+          },
+          {
+            "index": 67,
+            "start": 178.745,
+            "end": 180.547,
+            "text": "No, you just\ngot to make it fun."
+          },
+          {
+            "index": 68,
+            "start": 180.581,
+            "end": 184.818,
+            "text": "For example, every time I spot\na grammatical error,\nI do a shot."
+          },
+          {
+            "index": 69,
+            "start": 184.851,
+            "end": 187.22,
+            "text": "I'm trashed right now,\nand I blame our\npublic school system."
+          },
+          {
+            "index": 70,
+            "start": 187.253,
+            "end": 188.889,
+            "text": "(GIGGLES)"
+          },
+          {
+            "index": 71,
+            "start": 188.922,
+            "end": 191.825,
+            "text": "Sometimes things just seem\nto magically fall into place."
+          },
+          {
+            "index": 72,
+            "start": 191.858,
+            "end": 194.494,
+            "text": "So, you said you\nlive right upstairs?"
+          },
+          {
+            "index": 73,
+            "start": 194.528,
+            "end": 195.962,
+            "text": "Whether it's in\nthe dating world..."
+          },
+          {
+            "index": 74,
+            "start": 195.996,
+            "end": 197.698,
+            "text": "Take care. Bye.\nBye!"
+          },
+          {
+            "index": 75,
+            "start": 197.731,
+            "end": 200.366,
+            "text": "...or the double‐dating world."
+          },
+          {
+            "index": 76,
+            "start": 200.4,
+            "end": 202.569,
+            "text": "Nailed it!\nBest night ever!"
+          },
+          {
+            "index": 77,
+            "start": 204.437,
+            "end": 206.573,
+            "text": "Worst night ever."
+          },
+          {
+            "index": 78,
+            "start": 208.675,
+            "end": 209.442,
+            "text": "(SIGHS)"
+          },
+          {
+            "index": 79,
+            "start": 225.391,
+            "end": 228.394,
+            "text": "Hey, how was\nthe big couples' night\nwith Marshall and Lily?"
+          },
+          {
+            "index": 80,
+            "start": 228.428,
+            "end": 230.831,
+            "text": "Brutal.\nReally? How?"
+          },
+          {
+            "index": 81,
+            "start": 230.864,
+            "end": 235.168,
+            "text": "It was like we were on a date\nwith a sad, chubby girl our\nmom made us call."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 191.11090600585936,
+        "topCueIndex": -1,
+        "bottomCueIndex": 71
+      }
     }
   ]
 }
