@@ -155832,6 +155832,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 143
       }
+    },
+    {
+      "id": "48da8e0b-a4a8-48a1-9b35-27e9fcd39e60",
+      "createdAt": "2026-10-05T16:22:35.461Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/ad760cf3-b787-4d72-82d3-92a3f61ee5eb",
+      "audioTrackName": "",
+      "selectedText": "wound up",
+      "selection": {
+        "rawText": "wound up",
+        "startOffset": 19,
+        "endOffset": 27,
+        "cueIndex": 152,
+        "cueStart": 425.992,
+        "cueEnd": 430.096,
+        "cueText": "Well, she actually wound up\nfalling asleep on the couch.\nBut, hey, that happens."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 142,
+            "start": 400.567,
+            "end": 402.569,
+            "text": "They're your friends!"
+          },
+          {
+            "index": 143,
+            "start": 402.603,
+            "end": 404.204,
+            "text": "Why would\nyou just blatantly\nlie to them like that?"
+          },
+          {
+            "index": 144,
+            "start": 404.237,
+            "end": 406.206,
+            "text": "Well, that's what you say\nat the end of a crappy date."
+          },
+          {
+            "index": 145,
+            "start": 406.239,
+            "end": 408.642,
+            "text": "Hey, Ted.\nGreat time last night."
+          },
+          {
+            "index": 146,
+            "start": 408.675,
+            "end": 411.044,
+            "text": "Let's do it again, soon.\nI'll call you."
+          },
+          {
+            "index": 147,
+            "start": 412.779,
+            "end": 414.515,
+            "text": "(DOOR CLOSES)\nRight?"
+          },
+          {
+            "index": 148,
+            "start": 415.616,
+            "end": 416.717,
+            "text": "Who was that?"
+          },
+          {
+            "index": 149,
+            "start": 416.75,
+            "end": 418.685,
+            "text": "I don't want to brag,"
+          },
+          {
+            "index": 150,
+            "start": 418.719,
+            "end": 421.555,
+            "text": "but it seems\nchicks are really digging\nthe whole professor thing."
+          },
+          {
+            "index": 151,
+            "start": 421.588,
+            "end": 425.959,
+            "text": "Last night, she picked me\nup at the bar. And then..."
+          },
+          {
+            "index": 152,
+            "start": 425.992,
+            "end": 430.096,
+            "text": "Well, she actually wound up\nfalling asleep on the couch.\nBut, hey, that happens."
+          },
+          {
+            "index": 153,
+            "start": 431.497,
+            "end": 432.899,
+            "text": "Uh, no, it doesn't."
+          },
+          {
+            "index": 154,
+            "start": 432.933,
+            "end": 435.569,
+            "text": "Sure, it does.\nYou know, she was..."
+          },
+          {
+            "index": 155,
+            "start": 435.602,
+            "end": 438.639,
+            "text": "She was\njust exhausted\nfrom being turned on."
+          },
+          {
+            "index": 156,
+            "start": 438.672,
+            "end": 441.407,
+            "text": "But you heard her.\nShe wants to do\nit again, soon."
+          },
+          {
+            "index": 157,
+            "start": 442.509,
+            "end": 444.711,
+            "text": "Ted, let me\nask you a question."
+          },
+          {
+            "index": 158,
+            "start": 444.745,
+            "end": 446.813,
+            "text": "Where does this\ngirl live, exactly?"
+          },
+          {
+            "index": 159,
+            "start": 446.847,
+            "end": 448.048,
+            "text": "Westchester. Why?"
+          },
+          {
+            "index": 160,
+            "start": 448.081,
+            "end": 449.249,
+            "text": "(LAUGHS)"
+          },
+          {
+            "index": 161,
+            "start": 451.585,
+            "end": 452.986,
+            "text": "You're the\nSexless Innkeeper."
+          },
+          {
+            "index": 162,
+            "start": 453.019,
+            "end": 454.555,
+            "text": "Oh, my God!\nYou're right!"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 429.0791489257812,
+        "topCueIndex": -1,
+        "bottomCueIndex": 152
+      }
     }
   ]
 }
