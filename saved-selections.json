@@ -155220,6 +155220,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 95
       }
+    },
+    {
+      "id": "b923c57f-abe0-4f70-96a2-231dcb856f1a",
+      "createdAt": "2026-10-05T16:14:47.013Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/ad760cf3-b787-4d72-82d3-92a3f61ee5eb",
+      "audioTrackName": "",
+      "selectedText": "seared",
+      "selection": {
+        "rawText": "seared",
+        "startOffset": 7,
+        "endOffset": 13,
+        "cueIndex": 95,
+        "cueStart": 265.365,
+        "cueEnd": 267.868,
+        "cueText": "That's seared scallops\nwith a mango chutney."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 85,
+            "start": 240.373,
+            "end": 242.075,
+            "text": "Would you like a margarita?"
+          },
+          {
+            "index": 86,
+            "start": 242.108,
+            "end": 244.01,
+            "text": "In Cabo,\nI saw Sammy Hagar\neating a Belgian waffle!"
+          },
+          {
+            "index": 87,
+            "start": 246.513,
+            "end": 250.016,
+            "text": "And they kept shoving\nplatters of food in\nour faces."
+          },
+          {
+            "index": 88,
+            "start": 250.05,
+            "end": 252.886,
+            "text": "Let me guess. Did Marshall\nget, like, super intense\nabout the cheese?"
+          },
+          {
+            "index": 89,
+            "start": 252.919,
+            "end": 254.487,
+            "text": "(GASPS) Yeah,\nhow'd you know?"
+          },
+          {
+            "index": 90,
+            "start": 254.521,
+            "end": 255.989,
+            "text": "Poor Marshall."
+          },
+          {
+            "index": 91,
+            "start": 256.022,
+            "end": 258.224,
+            "text": "Lily's this gourmet cook,\nand all she lets Marshall do"
+          },
+          {
+            "index": 92,
+            "start": 258.258,
+            "end": 261.061,
+            "text": "is pick out one\nsad block of cheese."
+          },
+          {
+            "index": 93,
+            "start": 261.094,
+            "end": 263.163,
+            "text": "That's\nprosciutto‐wrapped melon."
+          },
+          {
+            "index": 94,
+            "start": 263.196,
+            "end": 265.331,
+            "text": "You guys\nare going to want to\nget in on this gouda."
+          },
+          {
+            "index": 95,
+            "start": 265.365,
+            "end": 267.868,
+            "text": "That's seared scallops\nwith a mango chutney."
+          },
+          {
+            "index": 96,
+            "start": 267.901,
+            "end": 270.17,
+            "text": "Seriously, don't sleep\non the gouda."
+          },
+          {
+            "index": 97,
+            "start": 270.203,
+            "end": 273.373,
+            "text": "And that's\nlobster ravioli in\na black truffle oil."
+          },
+          {
+            "index": 98,
+            "start": 273.406,
+            "end": 276.843,
+            "text": "Tick‐tock goes\nthe gouda clock."
+          },
+          {
+            "index": 99,
+            "start": 276.877,
+            "end": 279.412,
+            "text": "We didn't realize\nthere was gonna\nbe dinner."
+          },
+          {
+            "index": 100,
+            "start": 279.445,
+            "end": 281.682,
+            "text": "We sucked down\na couple of tacos\noutside the subway."
+          },
+          {
+            "index": 101,
+            "start": 281.715,
+            "end": 283.55,
+            "text": "P.S., not sitting great."
+          },
+          {
+            "index": 102,
+            "start": 286.086,
+            "end": 290.49,
+            "text": "And if anything didn't go\naccording to plan, they\nwould freak out."
+          },
+          {
+            "index": 103,
+            "start": 290.524,
+            "end": 292.659,
+            "text": "What do you mean,\nthe egg timer\nis broken?"
+          },
+          {
+            "index": 104,
+            "start": 292.693,
+            "end": 294.561,
+            "text": "What are we going to\nuse for charades, sweetie?"
+          },
+          {
+            "index": 105,
+            "start": 294.595,
+            "end": 295.829,
+            "text": "I'm working on it, darling."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 267.88656591796877,
+        "topCueIndex": -1,
+        "bottomCueIndex": 95
+      }
     }
   ]
 }
