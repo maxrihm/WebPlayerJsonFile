@@ -154761,6 +154761,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 83
       }
+    },
+    {
+      "id": "3284bd8e-87cd-474f-84a6-fce3eaddb1ac",
+      "createdAt": "2026-10-05T16:11:59.351Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/ad760cf3-b787-4d72-82d3-92a3f61ee5eb",
+      "audioTrackName": "",
+      "selectedText": "platters",
+      "selection": {
+        "rawText": "platters",
+        "startOffset": 22,
+        "endOffset": 30,
+        "cueIndex": 87,
+        "cueStart": 246.513,
+        "cueEnd": 250.016,
+        "cueText": "And they kept shoving\nplatters of food in\nour faces."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 77,
+            "start": 204.437,
+            "end": 206.573,
+            "text": "Worst night ever."
+          },
+          {
+            "index": 78,
+            "start": 208.675,
+            "end": 209.442,
+            "text": "(SIGHS)"
+          },
+          {
+            "index": 79,
+            "start": 225.391,
+            "end": 228.394,
+            "text": "Hey, how was\nthe big couples' night\nwith Marshall and Lily?"
+          },
+          {
+            "index": 80,
+            "start": 228.428,
+            "end": 230.831,
+            "text": "Brutal.\nReally? How?"
+          },
+          {
+            "index": 81,
+            "start": 230.864,
+            "end": 235.168,
+            "text": "It was like we were on a date\nwith a sad, chubby girl our\nmom made us call."
+          },
+          {
+            "index": 82,
+            "start": 235.201,
+            "end": 236.537,
+            "text": "Yeah, and they\nwere so nervous,"
+          },
+          {
+            "index": 83,
+            "start": 236.57,
+            "end": 238.705,
+            "text": "that they\nweren't even making\nsense half the time."
+          },
+          {
+            "index": 84,
+            "start": 238.739,
+            "end": 240.34,
+            "text": "Hey.\nCome on in."
+          },
+          {
+            "index": 85,
+            "start": 240.373,
+            "end": 242.075,
+            "text": "Would you like a margarita?"
+          },
+          {
+            "index": 86,
+            "start": 242.108,
+            "end": 244.01,
+            "text": "In Cabo,\nI saw Sammy Hagar\neating a Belgian waffle!"
+          },
+          {
+            "index": 87,
+            "start": 246.513,
+            "end": 250.016,
+            "text": "And they kept shoving\nplatters of food in\nour faces."
+          },
+          {
+            "index": 88,
+            "start": 250.05,
+            "end": 252.886,
+            "text": "Let me guess. Did Marshall\nget, like, super intense\nabout the cheese?"
+          },
+          {
+            "index": 89,
+            "start": 252.919,
+            "end": 254.487,
+            "text": "(GASPS) Yeah,\nhow'd you know?"
+          },
+          {
+            "index": 90,
+            "start": 254.521,
+            "end": 255.989,
+            "text": "Poor Marshall."
+          },
+          {
+            "index": 91,
+            "start": 256.022,
+            "end": 258.224,
+            "text": "Lily's this gourmet cook,\nand all she lets Marshall do"
+          },
+          {
+            "index": 92,
+            "start": 258.258,
+            "end": 261.061,
+            "text": "is pick out one\nsad block of cheese."
+          },
+          {
+            "index": 93,
+            "start": 261.094,
+            "end": 263.163,
+            "text": "That's\nprosciutto‐wrapped melon."
+          },
+          {
+            "index": 94,
+            "start": 263.196,
+            "end": 265.331,
+            "text": "You guys\nare going to want to\nget in on this gouda."
+          },
+          {
+            "index": 95,
+            "start": 265.365,
+            "end": 267.868,
+            "text": "That's seared scallops\nwith a mango chutney."
+          },
+          {
+            "index": 96,
+            "start": 267.901,
+            "end": 270.17,
+            "text": "Seriously, don't sleep\non the gouda."
+          },
+          {
+            "index": 97,
+            "start": 270.203,
+            "end": 273.373,
+            "text": "And that's\nlobster ravioli in\na black truffle oil."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 250.20101489257812,
+        "topCueIndex": -1,
+        "bottomCueIndex": 87
+      }
     }
   ]
 }
