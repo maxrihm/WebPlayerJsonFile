@@ -153468,6 +153468,117 @@
         "topCueIndex": -1,
         "bottomCueIndex": 4
       }
+    },
+    {
+      "id": "346d176e-7de2-4aa2-b3b4-79343574c826",
+      "createdAt": "2026-10-05T15:57:33.783Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/ad760cf3-b787-4d72-82d3-92a3f61ee5eb",
+      "audioTrackName": "",
+      "selectedText": "tweed.",
+      "selection": {
+        "rawText": "tweed.",
+        "startOffset": 4,
+        "endOffset": 10,
+        "cueIndex": 3,
+        "cueStart": 9.71,
+        "cueEnd": 11.845,
+        "cueText": "Ah, tweed."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 0,
+            "start": 1.655,
+            "end": 5.672,
+            "text": "OLDER TED:\nIt was the fall of 2009\nand I was a professor\nnow."
+          },
+          {
+            "index": 1,
+            "start": 5.7059999999999995,
+            "end": 8.141,
+            "text": "So, I decided to change\nmy look a little bit."
+          },
+          {
+            "index": 2,
+            "start": 8.174,
+            "end": 9.676,
+            "text": "And people were noticing."
+          },
+          {
+            "index": 3,
+            "start": 9.71,
+            "end": 11.845,
+            "text": "Ah, tweed."
+          },
+          {
+            "index": 4,
+            "start": 11.878,
+            "end": 14.214,
+            "text": "Textile of the eunuch."
+          },
+          {
+            "index": 5,
+            "start": 14.247,
+            "end": 16.983,
+            "text": "You know, I've always wondered\nwhy those tweed jackets have\nelbow patches."
+          },
+          {
+            "index": 6,
+            "start": 17.017,
+            "end": 19.385,
+            "text": "Because the people\nwho wear them are\nconstantly going,"
+          },
+          {
+            "index": 7,
+            "start": 19.419,
+            "end": 21.922,
+            "text": "\"Aw, geez,\nwhy can't I get laid?\""
+          },
+          {
+            "index": 8,
+            "start": 22.656,
+            "end": 24.024,
+            "text": "You are wrong."
+          },
+          {
+            "index": 9,
+            "start": 24.057,
+            "end": 26.159,
+            "text": "The ladies dig\nthe professor look."
+          },
+          {
+            "index": 10,
+            "start": 26.192,
+            "end": 27.961,
+            "text": "You know,\nthere is something to that."
+          },
+          {
+            "index": 11,
+            "start": 27.994,
+            "end": 31.898,
+            "text": "I remember thinking my tenth\ngrade math teacher was\nvery sexy."
+          },
+          {
+            "index": 12,
+            "start": 31.932,
+            "end": 33.867,
+            "text": "I wonder if Harold's\nstill in jail."
+          },
+          {
+            "index": 13,
+            "start": 34.868,
+            "end": 37.07,
+            "text": "What? Tax evasion."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 13.460672119140625,
+        "topCueIndex": -1,
+        "bottomCueIndex": 3
+      }
     }
   ]
 }
