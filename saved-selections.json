@@ -155373,6 +155373,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 95
       }
+    },
+    {
+      "id": "beeff611-dc69-4527-8d38-526f5638f823",
+      "createdAt": "2026-10-05T16:17:55.957Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/ad760cf3-b787-4d72-82d3-92a3f61ee5eb",
+      "audioTrackName": "",
+      "selectedText": "stall them.",
+      "selection": {
+        "rawText": "stall them.",
+        "startOffset": 11,
+        "endOffset": 22,
+        "cueIndex": 106,
+        "cueStart": 295.862,
+        "cueEnd": 298.231,
+        "cueText": "Okay? Just stall them."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 96,
+            "start": 267.901,
+            "end": 270.17,
+            "text": "Seriously, don't sleep\non the gouda."
+          },
+          {
+            "index": 97,
+            "start": 270.203,
+            "end": 273.373,
+            "text": "And that's\nlobster ravioli in\na black truffle oil."
+          },
+          {
+            "index": 98,
+            "start": 273.406,
+            "end": 276.843,
+            "text": "Tick‐tock goes\nthe gouda clock."
+          },
+          {
+            "index": 99,
+            "start": 276.877,
+            "end": 279.412,
+            "text": "We didn't realize\nthere was gonna\nbe dinner."
+          },
+          {
+            "index": 100,
+            "start": 279.445,
+            "end": 281.682,
+            "text": "We sucked down\na couple of tacos\noutside the subway."
+          },
+          {
+            "index": 101,
+            "start": 281.715,
+            "end": 283.55,
+            "text": "P.S., not sitting great."
+          },
+          {
+            "index": 102,
+            "start": 286.086,
+            "end": 290.49,
+            "text": "And if anything didn't go\naccording to plan, they\nwould freak out."
+          },
+          {
+            "index": 103,
+            "start": 290.524,
+            "end": 292.659,
+            "text": "What do you mean,\nthe egg timer\nis broken?"
+          },
+          {
+            "index": 104,
+            "start": 292.693,
+            "end": 294.561,
+            "text": "What are we going to\nuse for charades, sweetie?"
+          },
+          {
+            "index": 105,
+            "start": 294.595,
+            "end": 295.829,
+            "text": "I'm working on it, darling."
+          },
+          {
+            "index": 106,
+            "start": 295.862,
+            "end": 298.231,
+            "text": "Okay? Just stall them."
+          },
+          {
+            "index": 107,
+            "start": 298.264,
+            "end": 301.367,
+            "text": "Now, Robin.\nYou work in television."
+          },
+          {
+            "index": 108,
+            "start": 301.401,
+            "end": 305.205,
+            "text": "We're experiencing some\ntechnical difficulties.\nYou get that?"
+          },
+          {
+            "index": 109,
+            "start": 305.238,
+            "end": 307.908,
+            "text": "(LAUGHING NERVOUSLY)\nSo, we're still laughing."
+          },
+          {
+            "index": 110,
+            "start": 307.941,
+            "end": 309.943,
+            "text": "Right? Laugh, Marshall."
+          },
+          {
+            "index": 111,
+            "start": 311.011,
+            "end": 312.078,
+            "text": "(LAUGHS NERVOUSLY)"
+          },
+          {
+            "index": 112,
+            "start": 314.581,
+            "end": 316.082,
+            "text": "Come on,\nthey just got excited."
+          },
+          {
+            "index": 113,
+            "start": 316.116,
+            "end": 318.652,
+            "text": "They've been looking for\ncouple best friends forever."
+          },
+          {
+            "index": 114,
+            "start": 318.685,
+            "end": 320.386,
+            "text": "Plus, I'm sure\nthey weren't that bad."
+          },
+          {
+            "index": 115,
+            "start": 321.387,
+            "end": 323.724,
+            "text": "Show him."
+          },
+          {
+            "index": 116,
+            "start": 323.757,
+            "end": 328.194,
+            "text": "This is a web site Marshall\nalready made about last night."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 298.157587890625,
+        "topCueIndex": -1,
+        "bottomCueIndex": 106
+      }
     }
   ]
 }
