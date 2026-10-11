@@ -159351,6 +159351,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 226
       }
+    },
+    {
+      "id": "7c67cb53-d9c1-4f2c-92a5-3e7d91917a1a",
+      "createdAt": "2026-10-11T17:34:20.705Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/ad760cf3-b787-4d72-82d3-92a3f61ee5eb",
+      "audioTrackName": "",
+      "selectedText": "mundane",
+      "selection": {
+        "rawText": "mundane",
+        "startOffset": 39,
+        "endOffset": 46,
+        "cueIndex": 249,
+        "cueStart": 718.384,
+        "cueEnd": 722.255,
+        "cueText": "and photo\nmontages documenting\nvarious mundane events."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 239,
+            "start": 695.161,
+            "end": 696.53,
+            "text": "I thought we did\neverything right."
+          },
+          {
+            "index": 240,
+            "start": 696.563,
+            "end": 698.364,
+            "text": "I know!"
+          },
+          {
+            "index": 241,
+            "start": 698.398,
+            "end": 701.134,
+            "text": "I know.\nWe had the gouda.\nWe had my waffle story."
+          },
+          {
+            "index": 242,
+            "start": 701.167,
+            "end": 703.069,
+            "text": "I even sent them\nan awesome photo montage..."
+          },
+          {
+            "index": 243,
+            "start": 704.838,
+            "end": 706.64,
+            "text": "Nothing."
+          },
+          {
+            "index": 244,
+            "start": 706.673,
+            "end": 709.042,
+            "text": "Oh, dear God."
+          },
+          {
+            "index": 245,
+            "start": 709.075,
+            "end": 712.078,
+            "text": "Marshall, we've been\nover and over this."
+          },
+          {
+            "index": 246,
+            "start": 712.112,
+            "end": 714.815,
+            "text": "You have to stop\nsending those to people."
+          },
+          {
+            "index": 247,
+            "start": 714.848,
+            "end": 716.917,
+            "text": "OLDER TED: It was true."
+          },
+          {
+            "index": 248,
+            "start": 716.95,
+            "end": 718.351,
+            "text": "Marshall had\nbecome addicted\nto creating songs"
+          },
+          {
+            "index": 249,
+            "start": 718.384,
+            "end": 722.255,
+            "text": "and photo\nmontages documenting\nvarious mundane events."
+          },
+          {
+            "index": 250,
+            "start": 722.288,
+            "end": 724.658,
+            "text": "So, for months,\nall of Marshall's friends\nand professional colleague\ns"
+          },
+          {
+            "index": 251,
+            "start": 724.691,
+            "end": 726.793,
+            "text": "were getting\ne‐mails like this."
+          },
+          {
+            "index": 252,
+            "start": 726.827,
+            "end": 730.163,
+            "text": "MARSHALL:\n♪ Ordered Chinese food today"
+          },
+          {
+            "index": 253,
+            "start": 730.196,
+            "end": 733.967,
+            "text": "♪ Some moo shu\npork sauce got away"
+          },
+          {
+            "index": 254,
+            "start": 734,
+            "end": 738.204,
+            "text": "♪ Flipped the cushion\nNow everything's okay ♪"
+          },
+          {
+            "index": 255,
+            "start": 741.875,
+            "end": 745.045,
+            "text": "♪ Cat‐sitting for Lily's mom"
+          },
+          {
+            "index": 256,
+            "start": 745.078,
+            "end": 748.682,
+            "text": "♪ Cat‐sitting for Lily's mom"
+          },
+          {
+            "index": 257,
+            "start": 748.715,
+            "end": 749.983,
+            "text": "♪ It's gonna be fun"
+          },
+          {
+            "index": 258,
+            "start": 750.016,
+            "end": 753.353,
+            "text": "♪ It's gonna bring\nus all closer together ♪"
+          },
+          {
+            "index": 259,
+            "start": 756.189,
+            "end": 758.458,
+            "text": "♪ Cat funeral"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 722.0423762207031,
+        "topCueIndex": -1,
+        "bottomCueIndex": 249
+      }
     }
   ]
 }
