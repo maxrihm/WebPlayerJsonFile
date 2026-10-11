@@ -159810,6 +159810,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 284
       }
+    },
+    {
+      "id": "ef7f7bd5-2a5b-4318-a552-5da323a1d6aa",
+      "createdAt": "2026-10-11T17:39:16.258Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/ad760cf3-b787-4d72-82d3-92a3f61ee5eb",
+      "audioTrackName": "",
+      "selectedText": "taking this really hard.",
+      "selection": {
+        "rawText": "taking\nthis really hard.",
+        "startOffset": 8,
+        "endOffset": 32,
+        "cueIndex": 287,
+        "cueStart": 845.045,
+        "cueEnd": 846.647,
+        "cueText": "They're taking\nthis really hard."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 277,
+            "start": 804.605,
+            "end": 807.007,
+            "text": "I gave you one thing to\ndo, Marshall. One thing."
+          },
+          {
+            "index": 278,
+            "start": 808.041,
+            "end": 810.21,
+            "text": "One thing?\nOne thing?"
+          },
+          {
+            "index": 279,
+            "start": 811.612,
+            "end": 814.18,
+            "text": "Wow. Really?"
+          },
+          {
+            "index": 280,
+            "start": 814.214,
+            "end": 817.684,
+            "text": "So, I guess that gouda"
+          },
+          {
+            "index": 281,
+            "start": 817.718,
+            "end": 820.053,
+            "text": "just walked itself\nright through the door,"
+          },
+          {
+            "index": 282,
+            "start": 821.021,
+            "end": 823.323,
+            "text": "sliced itself up,"
+          },
+          {
+            "index": 283,
+            "start": 823.356,
+            "end": 831.031,
+            "text": "and arranged itself\nin a perfect semi‐circle\naround not three, not four,"
+          },
+          {
+            "index": 284,
+            "start": 831.064,
+            "end": 835.702,
+            "text": "but five different kinds of\nsturdy, cheese‐bearing\ncrackers?"
+          },
+          {
+            "index": 285,
+            "start": 837.938,
+            "end": 840.173,
+            "text": "You're a sturdy,\ncheese‐bearing cracker!"
+          },
+          {
+            "index": 286,
+            "start": 842.776,
+            "end": 845.011,
+            "text": "Guys, Lily and Marshall\nhaven't been to the bar\nall week."
+          },
+          {
+            "index": 287,
+            "start": 845.045,
+            "end": 846.647,
+            "text": "They're taking\nthis really hard."
+          },
+          {
+            "index": 288,
+            "start": 846.68,
+            "end": 848.915,
+            "text": "Ted, I could listen to\nthis guilt trip all day,"
+          },
+          {
+            "index": 289,
+            "start": 848.949,
+            "end": 851.184,
+            "text": "but don't you have to\nget back up to the inn?"
+          },
+          {
+            "index": 290,
+            "start": 851.217,
+            "end": 853.353,
+            "text": "I mean,\nwho's working\nthe front desk?"
+          },
+          {
+            "index": 291,
+            "start": 853.386,
+            "end": 856.657,
+            "text": "Seriously,\nthey're your friends.\nYou got to go apologize."
+          },
+          {
+            "index": 292,
+            "start": 856.69,
+            "end": 859.96,
+            "text": "To your point,\nTed, as an innkeeper,"
+          },
+          {
+            "index": 293,
+            "start": 859.993,
+            "end": 863.997,
+            "text": "do you do that cheapy thing\nwhere you only change the\nlinens upon request?"
+          },
+          {
+            "index": 294,
+            "start": 864.03,
+            "end": 868.001,
+            "text": "(STAMMERING)\nI mean, how much water\nis that actually saving?"
+          },
+          {
+            "index": 295,
+            "start": 868.034,
+            "end": 869.369,
+            "text": "Robin, you know I'm right."
+          },
+          {
+            "index": 296,
+            "start": 869.402,
+            "end": 871.237,
+            "text": "Ignoring a problem\ndoesn't make it\ngo away."
+          },
+          {
+            "index": 297,
+            "start": 871.271,
+            "end": 873.039,
+            "text": "Usually, it just makes\nit bigger."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 850.7956540527343,
+        "topCueIndex": -1,
+        "bottomCueIndex": 287
+      }
     }
   ]
 }
