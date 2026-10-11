@@ -158127,6 +158127,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 185
       }
+    },
+    {
+      "id": "ce01ff61-baf4-498c-b542-77075e749db5",
+      "createdAt": "2026-10-11T17:15:48.124Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/ad760cf3-b787-4d72-82d3-92a3f61ee5eb",
+      "audioTrackName": "",
+      "selectedText": "hooves,",
+      "selection": {
+        "rawText": "hooves,",
+        "startOffset": 18,
+        "endOffset": 25,
+        "cueIndex": 188,
+        "cueStart": 541.007,
+        "cueEnd": 545.912,
+        "cueText": "'Neath her mighty hooves,\nthe floorboards did crack."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 178,
+            "start": 504.705,
+            "end": 509.876,
+            "text": "She had a peach fuzz beard\nand weighed 16 stone."
+          },
+          {
+            "index": 179,
+            "start": 509.91,
+            "end": 512.879,
+            "text": "She gobbled up hot wings\nand swallowed the bones."
+          },
+          {
+            "index": 180,
+            "start": 512.913,
+            "end": 514.548,
+            "text": "(CRUNCHING)"
+          },
+          {
+            "index": 181,
+            "start": 514.581,
+            "end": 517.984,
+            "text": "I muffled a scream\nand threw up in my mouth."
+          },
+          {
+            "index": 182,
+            "start": 518.018,
+            "end": 521.354,
+            "text": "I asked, \"Where do you live?\"\nAnd she said,"
+          },
+          {
+            "index": 183,
+            "start": 521.387,
+            "end": 524.29,
+            "text": "\"One block south.\""
+          },
+          {
+            "index": 184,
+            "start": 524.324,
+            "end": 528.094,
+            "text": "I swallowed my pride\nand six shots of whiskey."
+          },
+          {
+            "index": 185,
+            "start": 532.098,
+            "end": 536.703,
+            "text": "And prayed to the Gods\nthat she wasn't too frisky."
+          },
+          {
+            "index": 186,
+            "start": 536.737,
+            "end": 539.54,
+            "text": "Back in her cave,\nshe prepared us\na snack."
+          },
+          {
+            "index": 187,
+            "start": 539.573,
+            "end": 540.974,
+            "text": "(FLOOR CREAKING)"
+          },
+          {
+            "index": 188,
+            "start": 541.007,
+            "end": 545.912,
+            "text": "'Neath her mighty hooves,\nthe floorboards did crack."
+          },
+          {
+            "index": 189,
+            "start": 545.946,
+            "end": 550.651,
+            "text": "But when she returned,\nshe found a sound sleeper."
+          },
+          {
+            "index": 190,
+            "start": 550.684,
+            "end": 554.755,
+            "text": "And thus she became\nthe Sexless Innkeeper."
+          },
+          {
+            "index": 191,
+            "start": 555.922,
+            "end": 557.991,
+            "text": "And so are you."
+          },
+          {
+            "index": 192,
+            "start": 558.024,
+            "end": 561.161,
+            "text": "Wait, you're saying that girl\njust used me for a place\nto crash?"
+          },
+          {
+            "index": 193,
+            "start": 561.194,
+            "end": 563.53,
+            "text": "Ted, you mentioned that\nyou live right upstairs."
+          },
+          {
+            "index": 194,
+            "start": 563.564,
+            "end": 566.332,
+            "text": "She saw\nthe tweed jacket,\nwhich basically says"
+          },
+          {
+            "index": 195,
+            "start": 566.366,
+            "end": 570.236,
+            "text": "you're not interested in,\nnor probably even capable\nof having sex."
+          },
+          {
+            "index": 196,
+            "start": 570.27,
+            "end": 573.173,
+            "text": "And she thought,\n\"Hey, free lodging.\""
+          },
+          {
+            "index": 197,
+            "start": 573.206,
+            "end": 576.81,
+            "text": "No way. I'm not\nthe Sexless Innkeeper."
+          },
+          {
+            "index": 198,
+            "start": 576.843,
+            "end": 580.714,
+            "text": "Ted, that girl had\nno intention of ever\nhooking up with you."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 544.8953898925781,
+        "topCueIndex": -1,
+        "bottomCueIndex": 188
+      }
     }
   ]
 }
