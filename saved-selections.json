@@ -159963,6 +159963,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 287
       }
+    },
+    {
+      "id": "1e0a9fae-6796-4813-9219-0dd6fb021e32",
+      "createdAt": "2026-10-11T17:40:22.256Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/ad760cf3-b787-4d72-82d3-92a3f61ee5eb",
+      "audioTrackName": "",
+      "selectedText": "linens",
+      "selection": {
+        "rawText": "linens",
+        "startOffset": 54,
+        "endOffset": 60,
+        "cueIndex": 293,
+        "cueStart": 859.993,
+        "cueEnd": 863.997,
+        "cueText": "do you do that cheapy thing\nwhere you only change the\nlinens upon request?"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 283,
+            "start": 823.356,
+            "end": 831.031,
+            "text": "and arranged itself\nin a perfect semi‐circle\naround not three, not four,"
+          },
+          {
+            "index": 284,
+            "start": 831.064,
+            "end": 835.702,
+            "text": "but five different kinds of\nsturdy, cheese‐bearing\ncrackers?"
+          },
+          {
+            "index": 285,
+            "start": 837.938,
+            "end": 840.173,
+            "text": "You're a sturdy,\ncheese‐bearing cracker!"
+          },
+          {
+            "index": 286,
+            "start": 842.776,
+            "end": 845.011,
+            "text": "Guys, Lily and Marshall\nhaven't been to the bar\nall week."
+          },
+          {
+            "index": 287,
+            "start": 845.045,
+            "end": 846.647,
+            "text": "They're taking\nthis really hard."
+          },
+          {
+            "index": 288,
+            "start": 846.68,
+            "end": 848.915,
+            "text": "Ted, I could listen to\nthis guilt trip all day,"
+          },
+          {
+            "index": 289,
+            "start": 848.949,
+            "end": 851.184,
+            "text": "but don't you have to\nget back up to the inn?"
+          },
+          {
+            "index": 290,
+            "start": 851.217,
+            "end": 853.353,
+            "text": "I mean,\nwho's working\nthe front desk?"
+          },
+          {
+            "index": 291,
+            "start": 853.386,
+            "end": 856.657,
+            "text": "Seriously,\nthey're your friends.\nYou got to go apologize."
+          },
+          {
+            "index": 292,
+            "start": 856.69,
+            "end": 859.96,
+            "text": "To your point,\nTed, as an innkeeper,"
+          },
+          {
+            "index": 293,
+            "start": 859.993,
+            "end": 863.997,
+            "text": "do you do that cheapy thing\nwhere you only change the\nlinens upon request?"
+          },
+          {
+            "index": 294,
+            "start": 864.03,
+            "end": 868.001,
+            "text": "(STAMMERING)\nI mean, how much water\nis that actually saving?"
+          },
+          {
+            "index": 295,
+            "start": 868.034,
+            "end": 869.369,
+            "text": "Robin, you know I'm right."
+          },
+          {
+            "index": 296,
+            "start": 869.402,
+            "end": 871.237,
+            "text": "Ignoring a problem\ndoesn't make it\ngo away."
+          },
+          {
+            "index": 297,
+            "start": 871.271,
+            "end": 873.039,
+            "text": "Usually, it just makes\nit bigger."
+          },
+          {
+            "index": 298,
+            "start": 873.073,
+            "end": 874.541,
+            "text": "You're right.\nThank you."
+          },
+          {
+            "index": 299,
+            "start": 874.575,
+            "end": 876.877,
+            "text": "All that\nsexlessness\nhas made you wise."
+          },
+          {
+            "index": 300,
+            "start": 876.91,
+            "end": 878.812,
+            "text": "(BARNEY CHUCKLES)\nFor God's sake!"
+          },
+          {
+            "index": 301,
+            "start": 878.845,
+            "end": 880.346,
+            "text": "Mint on the pillow, Ted!"
+          },
+          {
+            "index": 302,
+            "start": 880.38,
+            "end": 881.347,
+            "text": "And don't charge for Wi‐Fi.\nIt seems greedy!"
+          },
+          {
+            "index": 303,
+            "start": 881.381,
+            "end": 882.115,
+            "text": "Yes."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 867.6872111816406,
+        "topCueIndex": -1,
+        "bottomCueIndex": 293
+      }
     }
   ]
 }
