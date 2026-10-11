@@ -160881,6 +160881,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 404
       }
+    },
+    {
+      "id": "0e85e478-0a1c-46b5-af8b-cdccfa93f79b",
+      "createdAt": "2026-10-11T17:53:37.216Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/ad760cf3-b787-4d72-82d3-92a3f61ee5eb",
+      "audioTrackName": "",
+      "selectedText": "chamber",
+      "selection": {
+        "rawText": "chamber",
+        "startOffset": 32,
+        "endOffset": 39,
+        "cueIndex": 404,
+        "cueStart": 1215.215,
+        "cueEnd": 1218.519,
+        "cueText": "With haste\nwe did scamper\nto my chamber anon."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 394,
+            "start": 1186.43,
+            "end": 1187.721,
+            "text": "'Twas the night\nbefore this one,"
+          },
+          {
+            "index": 395,
+            "start": 1187.754,
+            "end": 1190.356,
+            "text": "I had hours to kill."
+          },
+          {
+            "index": 396,
+            "start": 1190.39,
+            "end": 1193.359,
+            "text": "I sat in the tavern,\ngrading parchments\nwith quill."
+          },
+          {
+            "index": 397,
+            "start": 1193.393,
+            "end": 1194.494,
+            "text": "With quill?"
+          },
+          {
+            "index": 398,
+            "start": 1194.528,
+            "end": 1196.462,
+            "text": "Barney. It's a poem."
+          },
+          {
+            "index": 399,
+            "start": 1198.398,
+            "end": 1201.201,
+            "text": "A busty, young\nlassie flashed me a grin."
+          },
+          {
+            "index": 400,
+            "start": 1201.234,
+            "end": 1206.139,
+            "text": "Her garb said classy,\nbut her eyes whispered sin."
+          },
+          {
+            "index": 401,
+            "start": 1206.172,
+            "end": 1209.743,
+            "text": "She said,\n\"You're a teacher?\"\nI said, \"Yes, indeed.\""
+          },
+          {
+            "index": 402,
+            "start": 1209.776,
+            "end": 1211.512,
+            "text": "\"I must have you,\"\nshe moaned."
+          },
+          {
+            "index": 403,
+            "start": 1211.545,
+            "end": 1213.046,
+            "text": "\"I'm turned on by tweed.\""
+          },
+          {
+            "index": 404,
+            "start": 1215.215,
+            "end": 1218.519,
+            "text": "With haste\nwe did scamper\nto my chamber anon."
+          },
+          {
+            "index": 405,
+            "start": 1218.552,
+            "end": 1223.657,
+            "text": "We fell to the couch,\nand, bro, it was on."
+          },
+          {
+            "index": 406,
+            "start": 1223.69,
+            "end": 1226.927,
+            "text": "I unlaced her bodice.\nOur passions grew deeper."
+          },
+          {
+            "index": 407,
+            "start": 1226.96,
+            "end": 1231.898,
+            "text": "And thus ends the tale\nof the Sexless Innkeeper."
+          },
+          {
+            "index": 408,
+            "start": 1233.734,
+            "end": 1238.505,
+            "text": "No way. You made that up."
+          },
+          {
+            "index": 409,
+            "start": 1238.539,
+            "end": 1240.741,
+            "text": "Are you coming back\nto bed, Professor?"
+          },
+          {
+            "index": 410,
+            "start": 1240.774,
+            "end": 1241.575,
+            "text": "(GASPS)"
+          },
+          {
+            "index": 411,
+            "start": 1243.376,
+            "end": 1245.178,
+            "text": "(EXHALES)"
+          },
+          {
+            "index": 412,
+            "start": 1245.211,
+            "end": 1246.379,
+            "text": "God, I love being single."
+          },
+          {
+            "index": 413,
+            "start": 1248.949,
+            "end": 1251.017,
+            "text": "Barney, you\nready for brunch\nwith Lily and Marshall?"
+          },
+          {
+            "index": 414,
+            "start": 1252.853,
+            "end": 1254.02,
+            "text": "What have I done?"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 1222.3050979003906,
+        "topCueIndex": -1,
+        "bottomCueIndex": 404
+      }
     }
   ]
 }
