@@ -156750,6 +156750,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 172
       }
+    },
+    {
+      "id": "2446a474-1854-41c3-be0a-82e11c53fffe",
+      "createdAt": "2026-10-11T17:12:13.343Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/ad760cf3-b787-4d72-82d3-92a3f61ee5eb",
+      "audioTrackName": "",
+      "selectedText": "all but",
+      "selection": {
+        "rawText": "all but",
+        "startOffset": 31,
+        "endOffset": 38,
+        "cueIndex": 173,
+        "cueStart": 485.519,
+        "cueEnd": 488.722,
+        "cueText": "The horse‐drawn carriages\nwere all but snowed in..."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 163,
+            "start": 454.588,
+            "end": 456.356,
+            "text": "He's totally\nthe Sexless Innkeeper!"
+          },
+          {
+            "index": 164,
+            "start": 456.389,
+            "end": 458.859,
+            "text": "What the hell is\nthe Sexless Innkeeper?"
+          },
+          {
+            "index": 165,
+            "start": 458.892,
+            "end": 462.696,
+            "text": "Ted, many a man...\nNay, many a soul"
+          },
+          {
+            "index": 166,
+            "start": 462.729,
+            "end": 464.831,
+            "text": "has their own tale\nof the Sexless Innkeeper."
+          },
+          {
+            "index": 167,
+            "start": 464.865,
+            "end": 467.834,
+            "text": "Why, I had a run‐in\nwith one just last year."
+          },
+          {
+            "index": 168,
+            "start": 467.868,
+            "end": 470.07,
+            "text": "I even composed\na poem about it."
+          },
+          {
+            "index": 169,
+            "start": 470.103,
+            "end": 472.372,
+            "text": "Would you care to hear it?\nNot really."
+          },
+          {
+            "index": 170,
+            "start": 472.405,
+            "end": 475.876,
+            "text": "'Twas the night\nbefore New Year's,\nand the weather grew mean."
+          },
+          {
+            "index": 171,
+            "start": 475.909,
+            "end": 479.112,
+            "text": "It was 3:00 in the morning,\nand I was stranded in Queens."
+          },
+          {
+            "index": 172,
+            "start": 481.247,
+            "end": 485.485,
+            "text": "The tavern grew empty.\nThe gaslights grew dim."
+          },
+          {
+            "index": 173,
+            "start": 485.519,
+            "end": 488.722,
+            "text": "The horse‐drawn carriages\nwere all but snowed in..."
+          },
+          {
+            "index": 174,
+            "start": 488.755,
+            "end": 492.158,
+            "text": "Wait. If this was last year,\nwhy are you acting like it\nwas Oliver Twist\n?"
+          },
+          {
+            "index": 175,
+            "start": 492.192,
+            "end": 493.894,
+            "text": "Ted, it's a poem."
+          },
+          {
+            "index": 176,
+            "start": 495.862,
+            "end": 500.333,
+            "text": "Last call was approaching,\nand my fortunes looked bleak."
+          },
+          {
+            "index": 177,
+            "start": 500.366,
+            "end": 504.671,
+            "text": "Then I turned to my left\nand stifled a shriek."
+          },
+          {
+            "index": 178,
+            "start": 504.705,
+            "end": 509.876,
+            "text": "She had a peach fuzz beard\nand weighed 16 stone."
+          },
+          {
+            "index": 179,
+            "start": 509.91,
+            "end": 512.879,
+            "text": "She gobbled up hot wings\nand swallowed the bones."
+          },
+          {
+            "index": 180,
+            "start": 512.913,
+            "end": 514.548,
+            "text": "(CRUNCHING)"
+          },
+          {
+            "index": 181,
+            "start": 514.581,
+            "end": 517.984,
+            "text": "I muffled a scream\nand threw up in my mouth."
+          },
+          {
+            "index": 182,
+            "start": 518.018,
+            "end": 521.354,
+            "text": "I asked, \"Where do you live?\"\nAnd she said,"
+          },
+          {
+            "index": 183,
+            "start": 521.387,
+            "end": 524.29,
+            "text": "\"One block south.\""
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 488.3847529296875,
+        "topCueIndex": -1,
+        "bottomCueIndex": 173
+      }
     }
   ]
 }
