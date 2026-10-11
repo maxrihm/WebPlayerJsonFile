@@ -158280,6 +158280,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 188
       }
+    },
+    {
+      "id": "7f785135-0f35-4e78-8a86-276223d1bf1c",
+      "createdAt": "2026-10-11T17:20:19.270Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/ad760cf3-b787-4d72-82d3-92a3f61ee5eb",
+      "audioTrackName": "",
+      "selectedText": "at the height of",
+      "selection": {
+        "rawText": "at the height\nof",
+        "startOffset": 38,
+        "endOffset": 54,
+        "cueIndex": 207,
+        "cueStart": 601.067,
+        "cueEnd": 605.038,
+        "cueText": "We never joke about B&B's,\nespecially at the height\nof syrup season."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 197,
+            "start": 573.206,
+            "end": 576.81,
+            "text": "No way. I'm not\nthe Sexless Innkeeper."
+          },
+          {
+            "index": 198,
+            "start": 576.843,
+            "end": 580.714,
+            "text": "Ted, that girl had\nno intention of ever\nhooking up with you."
+          },
+          {
+            "index": 199,
+            "start": 580.747,
+            "end": 585.085,
+            "text": "Which is funny, because\nusually it's the innkeeper\nwho offers turndown ser\nvice."
+          },
+          {
+            "index": 200,
+            "start": 585.118,
+            "end": 586.219,
+            "text": "(EXCLAIMS)\nHa!"
+          },
+          {
+            "index": 201,
+            "start": 587.754,
+            "end": 590.356,
+            "text": "Hey, guys. Good news."
+          },
+          {
+            "index": 202,
+            "start": 590.39,
+            "end": 592.659,
+            "text": "First of all, you can ignore\nall the e‐mails and texts\nwe've sent you."
+          },
+          {
+            "index": 203,
+            "start": 592.693,
+            "end": 594.528,
+            "text": "We have. Go on."
+          },
+          {
+            "index": 204,
+            "start": 594.561,
+            "end": 596.296,
+            "text": "Because we went\nahead and booked"
+          },
+          {
+            "index": 205,
+            "start": 596.329,
+            "end": 599.032,
+            "text": "that couples' weekend\nfor all of us in Vermont!"
+          },
+          {
+            "index": 206,
+            "start": 599.065,
+            "end": 601.034,
+            "text": "Wait, you guys were\nserious about that?"
+          },
+          {
+            "index": 207,
+            "start": 601.067,
+            "end": 605.038,
+            "text": "We never joke about B&B's,\nespecially at the height\nof syrup season."
+          },
+          {
+            "index": 208,
+            "start": 605.071,
+            "end": 607.173,
+            "text": "Saturday, we've got\napple‐picking,"
+          },
+          {
+            "index": 209,
+            "start": 607.207,
+            "end": 610.811,
+            "text": "antiquing,\nthen a haunted hay ride."
+          },
+          {
+            "index": 210,
+            "start": 610.844,
+            "end": 614.08,
+            "text": "And then, on Sunday,\nwe're up at 6:00 a.m.\nfor the fall foliage hike."
+          },
+          {
+            "index": 211,
+            "start": 614.114,
+            "end": 616.817,
+            "text": "Now, you better\npack your long johns,\n'cause it is cold up there."
+          },
+          {
+            "index": 212,
+            "start": 616.85,
+            "end": 621.822,
+            "text": "Look! I'm sorry that\nwe have been dodging\nyour calls,"
+          },
+          {
+            "index": 213,
+            "start": 621.855,
+            "end": 624.791,
+            "text": "but we respect you\nguys too much as friends to\ngive you some song and dance."
+          },
+          {
+            "index": 214,
+            "start": 624.825,
+            "end": 625.992,
+            "text": "You deserve the truth."
+          },
+          {
+            "index": 215,
+            "start": 627.528,
+            "end": 628.895,
+            "text": "(EXHALES)"
+          },
+          {
+            "index": 216,
+            "start": 631.598,
+            "end": 636.837,
+            "text": "The US Navy has found\nintelligent alien life\nat the bottom of the ocean."
+          },
+          {
+            "index": 217,
+            "start": 636.87,
+            "end": 638.672,
+            "text": "For reasons\nI can't explain,"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 604.0143500976562,
+        "topCueIndex": -1,
+        "bottomCueIndex": 207
+      }
     }
   ]
 }
