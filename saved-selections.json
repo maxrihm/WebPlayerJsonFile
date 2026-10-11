@@ -159045,6 +159045,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 218
       }
+    },
+    {
+      "id": "63a26797-18ad-45ad-85e6-9fb8c6dd540b",
+      "createdAt": "2026-10-11T17:32:29.865Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/ad760cf3-b787-4d72-82d3-92a3f61ee5eb",
+      "audioTrackName": "",
+      "selectedText": "equipped to",
+      "selection": {
+        "rawText": "equipped to",
+        "startOffset": 24,
+        "endOffset": 35,
+        "cueIndex": 225,
+        "cueStart": 659.359,
+        "cueEnd": 661.127,
+        "cueText": "Barney and I are barely\nequipped to date each other,"
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 215,
+            "start": 627.528,
+            "end": 628.895,
+            "text": "(EXHALES)"
+          },
+          {
+            "index": 216,
+            "start": 631.598,
+            "end": 636.837,
+            "text": "The US Navy has found\nintelligent alien life\nat the bottom of the ocean."
+          },
+          {
+            "index": 217,
+            "start": 636.87,
+            "end": 638.672,
+            "text": "For reasons\nI can't explain,"
+          },
+          {
+            "index": 218,
+            "start": 638.705,
+            "end": 642.375,
+            "text": "Robin and I\nhave been tapped to\nlead the expedition."
+          },
+          {
+            "index": 219,
+            "start": 642.408,
+            "end": 645.712,
+            "text": "Wow, Barney.\nThat kind of sounds like\nthe stuff you say to girls"
+          },
+          {
+            "index": 220,
+            "start": 645.746,
+            "end": 647.748,
+            "text": "when you're too much\nof a coward to dump them."
+          },
+          {
+            "index": 221,
+            "start": 647.781,
+            "end": 650.917,
+            "text": "Yeah. You know, that's\nexactly what it sounds like."
+          },
+          {
+            "index": 222,
+            "start": 650.951,
+            "end": 652.719,
+            "text": "But if that's true,\nthat's awesome."
+          },
+          {
+            "index": 223,
+            "start": 654.187,
+            "end": 656.156,
+            "text": "What's going on?"
+          },
+          {
+            "index": 224,
+            "start": 656.189,
+            "end": 659.325,
+            "text": "Look, all this coupley stuff,\nit's just not us."
+          },
+          {
+            "index": 225,
+            "start": 659.359,
+            "end": 661.127,
+            "text": "Barney and I are barely\nequipped to date each other,"
+          },
+          {
+            "index": 226,
+            "start": 661.161,
+            "end": 662.829,
+            "text": "let alone you guys."
+          },
+          {
+            "index": 227,
+            "start": 662.863,
+            "end": 665.398,
+            "text": "Plus, the alien thing."
+          },
+          {
+            "index": 228,
+            "start": 665.431,
+            "end": 667.133,
+            "text": "(SCOFFS) Come on, Marshall.\nLet's go."
+          },
+          {
+            "index": 229,
+            "start": 667.167,
+            "end": 668.334,
+            "text": "Yeah. Let's go."
+          },
+          {
+            "index": 230,
+            "start": 668.368,
+            "end": 669.703,
+            "text": "You know what, Lily...\nNo, you know what..."
+          },
+          {
+            "index": 231,
+            "start": 669.736,
+            "end": 671.371,
+            "text": "No. You know what?"
+          },
+          {
+            "index": 232,
+            "start": 671.404,
+            "end": 675.408,
+            "text": "I hope those underwater\naliens are cold‐blooded."
+          },
+          {
+            "index": 233,
+            "start": 675.441,
+            "end": 677.11,
+            "text": "'Cause then you guys\nwill get along just fine."
+          },
+          {
+            "index": 234,
+            "start": 681.682,
+            "end": 683.049,
+            "text": "(SIGHS)"
+          },
+          {
+            "index": 235,
+            "start": 683.083,
+            "end": 684.785,
+            "text": "I think they bought it."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 662.7013012695312,
+        "topCueIndex": -1,
+        "bottomCueIndex": 225
+      }
     }
   ]
 }
