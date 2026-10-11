@@ -160269,6 +160269,159 @@
         "topCueIndex": -1,
         "bottomCueIndex": 292
       }
+    },
+    {
+      "id": "06e72149-306c-4caa-a913-ed16fada1f9b",
+      "createdAt": "2026-10-11T17:43:11.989Z",
+      "videoName": "How I Met Your Mother",
+      "sourceUrl": "https://www.disneyplus.com/play/ad760cf3-b787-4d72-82d3-92a3f61ee5eb",
+      "audioTrackName": "",
+      "selectedText": "Anyhoo,",
+      "selection": {
+        "rawText": "Anyhoo,",
+        "startOffset": 0,
+        "endOffset": 7,
+        "cueIndex": 335,
+        "cueStart": 956.089,
+        "cueEnd": 958.324,
+        "cueText": "Anyhoo, we can't stay long."
+      },
+      "bottomSubPath": "",
+      "context": {
+        "bottom": [
+          {
+            "index": 325,
+            "start": 937.07,
+            "end": 938.404,
+            "text": "Yeah.\nWouldn't want\nyou to feel like"
+          },
+          {
+            "index": 326,
+            "start": 938.438,
+            "end": 941.207,
+            "text": "a fifth and sixth wheel."
+          },
+          {
+            "index": 327,
+            "start": 941.241,
+            "end": 943.376,
+            "text": "Who the hell\nare these people?"
+          },
+          {
+            "index": 328,
+            "start": 943.409,
+            "end": 945.178,
+            "text": "They just moved\nhere from Hawaii."
+          },
+          {
+            "index": 329,
+            "start": 945.211,
+            "end": 946.547,
+            "text": "Py is a total\nfoodie and Shea, well..."
+          },
+          {
+            "index": 330,
+            "start": 946.58,
+            "end": 947.981,
+            "text": "Mmm!"
+          },
+          {
+            "index": 331,
+            "start": 948.014,
+            "end": 949.049,
+            "text": "(CHUCKLING) She's... Shea..."
+          },
+          {
+            "index": 332,
+            "start": 949.082,
+            "end": 950.383,
+            "text": "Shea."
+          },
+          {
+            "index": 333,
+            "start": 950.416,
+            "end": 952.185,
+            "text": "Shea is just..."
+          },
+          {
+            "index": 334,
+            "start": 954.02,
+            "end": 955.055,
+            "text": "(SIGHING)"
+          },
+          {
+            "index": 335,
+            "start": 956.089,
+            "end": 958.324,
+            "text": "Anyhoo, we can't stay long."
+          },
+          {
+            "index": 336,
+            "start": 958.358,
+            "end": 960.493,
+            "text": "We're just\ngonna grab a quick beer\nand then take these kooks"
+          },
+          {
+            "index": 337,
+            "start": 960.527,
+            "end": 962.863,
+            "text": "for a boat ride\naround the city."
+          },
+          {
+            "index": 338,
+            "start": 962.896,
+            "end": 964.898,
+            "text": "Wow, it sounds like\nthis is getting\npretty serious."
+          },
+          {
+            "index": 339,
+            "start": 964.931,
+            "end": 966.567,
+            "text": "Well, we don't\nwant to jinx it,"
+          },
+          {
+            "index": 340,
+            "start": 966.6,
+            "end": 969.269,
+            "text": "but we kind of think\nthey might be the two."
+          },
+          {
+            "index": 341,
+            "start": 975.108,
+            "end": 976.743,
+            "text": "(SCOFFS)\nWho needs them?"
+          },
+          {
+            "index": 342,
+            "start": 976.777,
+            "end": 978.512,
+            "text": "(SCOFFS) Not us."
+          },
+          {
+            "index": 343,
+            "start": 978.545,
+            "end": 980.213,
+            "text": "(COUPLES LAUGHING)"
+          },
+          {
+            "index": 344,
+            "start": 982.182,
+            "end": 983.75,
+            "text": "(ALL BY MYSELF PLAYING)"
+          },
+          {
+            "index": 345,
+            "start": 987.287,
+            "end": 989.122,
+            "text": "♪ Living alone"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 957.7649221191406,
+        "topCueIndex": -1,
+        "bottomCueIndex": 335
+      }
     }
   ]
 }
