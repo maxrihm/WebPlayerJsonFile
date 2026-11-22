@@ -166159,6 +166159,158 @@
         "topCueIndex": 132,
         "bottomCueIndex": 142
       }
+    },
+    {
+      "id": "79ee1012-2ff4-49a9-a5b6-ee103c6a951a",
+      "createdAt": "2026-11-22T19:00:44.968Z",
+      "videoName": "Dead.Poets.Society.1989.1080p.BDRip1080p.mkv",
+      "audioTrackName": "ENG · Original",
+      "selectedText": "urge you now",
+      "selection": {
+        "rawText": "urge you now",
+        "startOffset": 7,
+        "endOffset": 19,
+        "cueIndex": 149,
+        "cueStart": 674.173,
+        "cueEnd": 677.509,
+        "cueText": "Let me urge you now\nnot to test me on this point."
+      },
+      "bottomSubPath": "D:\\Library/movies/dead-poets-society-1989/subtitles/09-eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 139,
+            "start": 620.369,
+            "end": 623.872,
+            "text": "Slow down,\nyou horrible phalanx of pubescence."
+          },
+          {
+            "index": 140,
+            "start": 624.04,
+            "end": 628.293,
+            "text": "Pick three laboratory experiments\nfrom the project list"
+          },
+          {
+            "index": 141,
+            "start": 628.461,
+            "end": 632.172,
+            "text": "and report on them every five weeks."
+          },
+          {
+            "index": 142,
+            "start": 632.34,
+            "end": 637.218,
+            "text": "The first 20 questions\nat the end of Chapter 1 are due tomorrow."
+          },
+          {
+            "index": 143,
+            "start": 638.888,
+            "end": 640.972,
+            "text": "[McAllister AND STUDENTS\nSPEAKING LATIN]"
+          },
+          {
+            "index": 144,
+            "start": 655.029,
+            "end": 656.071,
+            "text": "Again, please."
+          },
+          {
+            "index": 145,
+            "start": 656.238,
+            "end": 657.739,
+            "text": "[CONTINUES SPEAKING LATIN]"
+          },
+          {
+            "index": 146,
+            "start": 657.907,
+            "end": 663.828,
+            "text": "Your study of trigonometry\nrequires absolute precision."
+          },
+          {
+            "index": 147,
+            "start": 664.705,
+            "end": 668.792,
+            "text": "Anyone failing to turn in\nany homework assignment"
+          },
+          {
+            "index": 148,
+            "start": 668.959,
+            "end": 674.005,
+            "text": "will be penalized one point\noff their final grade."
+          },
+          {
+            "index": 149,
+            "start": 674.173,
+            "end": 677.509,
+            "text": "Let me urge you now\nnot to test me on this point."
+          },
+          {
+            "index": 150,
+            "start": 678.469,
+            "end": 680.553,
+            "text": "[CHATTERING]"
+          },
+          {
+            "index": 151,
+            "start": 689.605,
+            "end": 691.272,
+            "text": "KNOX:\nHey, Spaz. Spaz."
+          },
+          {
+            "index": 152,
+            "start": 693.15,
+            "end": 694.693,
+            "text": "BOY 1: Brain damage.\nBOY 2: Shh."
+          },
+          {
+            "index": 153,
+            "start": 694.86,
+            "end": 696.945,
+            "text": "[WHISTLING]"
+          },
+          {
+            "index": 154,
+            "start": 715.881,
+            "end": 717.674,
+            "text": "Well, come on."
+          },
+          {
+            "index": 155,
+            "start": 719.427,
+            "end": 721.511,
+            "text": "[MURMURING]"
+          },
+          {
+            "index": 156,
+            "start": 722.388,
+            "end": 724.639,
+            "text": "BOY 3: Is he kidding?\nBOY 4: He's gotta be."
+          },
+          {
+            "index": 157,
+            "start": 725.433,
+            "end": 726.474,
+            "text": "NEIL: Let's go.\nKNOX: Where?"
+          },
+          {
+            "index": 158,
+            "start": 726.642,
+            "end": 728.268,
+            "text": "Let's go, guys."
+          },
+          {
+            "index": 159,
+            "start": 729.437,
+            "end": 731.604,
+            "text": "Okay, go."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 677.227064,
+        "topCueIndex": 137,
+        "bottomCueIndex": 149
+      }
     }
   ]
 }
