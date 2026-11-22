@@ -163423,6 +163423,158 @@
         "topCueIndex": 72,
         "bottomCueIndex": 77
       }
+    },
+    {
+      "id": "bcda29b3-5fa9-4661-9598-03156ddffa92",
+      "createdAt": "2026-11-22T18:40:27.126Z",
+      "videoName": "Dead.Poets.Society.1989.1080p.BDRip1080p.mkv",
+      "audioTrackName": "ENG · Original",
+      "selectedText": "Keen.",
+      "selection": {
+        "rawText": "Keen.",
+        "startOffset": 32,
+        "endOffset": 37,
+        "cueIndex": 78,
+        "cueStart": 392.058,
+        "cueEnd": 395.102,
+        "cueText": "- How was your summer, Slick?\n- Keen."
+      },
+      "bottomSubPath": "D:\\Library/movies/dead-poets-society-1989/subtitles/09-eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 68,
+            "start": 354.062,
+            "end": 356.146,
+            "text": "[CHATTERING]"
+          },
+          {
+            "index": 69,
+            "start": 359.859,
+            "end": 362.194,
+            "text": "BOY 1: Hey, how's it going, Neil?\nBOY 2: Hey, Knox."
+          },
+          {
+            "index": 70,
+            "start": 362.362,
+            "end": 365.655,
+            "text": "CAMERON: Neil. Study group tonight?\n- Yeah, sure."
+          },
+          {
+            "index": 71,
+            "start": 365.865,
+            "end": 367.199,
+            "text": "Business as usual, huh?"
+          },
+          {
+            "index": 72,
+            "start": 367.367,
+            "end": 371.078,
+            "text": "Hey, I heard you got the new kid.\nLooks like a stiff. Ha, ha."
+          },
+          {
+            "index": 73,
+            "start": 371.746,
+            "end": 372.788,
+            "text": "Oops."
+          },
+          {
+            "index": 74,
+            "start": 375.958,
+            "end": 377.959,
+            "text": "Listen, don't mind Cameron."
+          },
+          {
+            "index": 75,
+            "start": 378.127,
+            "end": 381.755,
+            "text": "He's born with his foot in his mouth.\nYou know what I mean?"
+          },
+          {
+            "index": 76,
+            "start": 385.051,
+            "end": 387.969,
+            "text": "Rumor has it you did summer school."
+          },
+          {
+            "index": 77,
+            "start": 388.179,
+            "end": 391.89,
+            "text": "Yep. Chemistry.\nMy father thought I should get ahead."
+          },
+          {
+            "index": 78,
+            "start": 392.058,
+            "end": 395.102,
+            "text": "- How was your summer, Slick?\n- Keen."
+          },
+          {
+            "index": 79,
+            "start": 397.438,
+            "end": 401.108,
+            "text": "- Meeks, door, closed.\n- Yes, sir."
+          },
+          {
+            "index": 80,
+            "start": 401.275,
+            "end": 403.527,
+            "text": "Gentlemen, what are the four pillars?"
+          },
+          {
+            "index": 81,
+            "start": 403.694,
+            "end": 408.949,
+            "text": "[IN UNISON]\nTravesty, horror, decadence, excrement."
+          },
+          {
+            "index": 82,
+            "start": 409.409,
+            "end": 411.243,
+            "text": "Okay. Study group."
+          },
+          {
+            "index": 83,
+            "start": 411.411,
+            "end": 414.037,
+            "text": "Meeks aced Latin,\nI didn't quite flunk English."
+          },
+          {
+            "index": 84,
+            "start": 414.205,
+            "end": 416.415,
+            "text": "So if you want, we got our study group."
+          },
+          {
+            "index": 85,
+            "start": 416.582,
+            "end": 419.876,
+            "text": "Sure, Cameron asked me too.\nAnyone mind including him?"
+          },
+          {
+            "index": 86,
+            "start": 420.044,
+            "end": 422.003,
+            "text": "What's his specialty, bootlicking?"
+          },
+          {
+            "index": 87,
+            "start": 422.171,
+            "end": 425.34,
+            "text": "- He's your roommate.\n- That's not my fault."
+          },
+          {
+            "index": 88,
+            "start": 426.843,
+            "end": 430.637,
+            "text": "- Uh, I'm sorry. My name is Steven Meeks.\n- Oh, this is Todd Anderson."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 394.153994,
+        "topCueIndex": 73,
+        "bottomCueIndex": 78
+      }
     }
   ]
 }
