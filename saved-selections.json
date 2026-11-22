@@ -163575,6 +163575,158 @@
         "topCueIndex": 73,
         "bottomCueIndex": 78
       }
+    },
+    {
+      "id": "16a6854a-a152-41df-8e8f-3bf4cc609509",
+      "createdAt": "2026-11-22T18:41:04.762Z",
+      "videoName": "Dead.Poets.Society.1989.1080p.BDRip1080p.mkv",
+      "audioTrackName": "ENG · Original",
+      "selectedText": "Travesty,",
+      "selection": {
+        "rawText": "Travesty,",
+        "startOffset": 12,
+        "endOffset": 21,
+        "cueIndex": 81,
+        "cueStart": 403.694,
+        "cueEnd": 408.949,
+        "cueText": "[IN UNISON]\nTravesty, horror, decadence, excrement."
+      },
+      "bottomSubPath": "D:\\Library/movies/dead-poets-society-1989/subtitles/09-eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 71,
+            "start": 365.865,
+            "end": 367.199,
+            "text": "Business as usual, huh?"
+          },
+          {
+            "index": 72,
+            "start": 367.367,
+            "end": 371.078,
+            "text": "Hey, I heard you got the new kid.\nLooks like a stiff. Ha, ha."
+          },
+          {
+            "index": 73,
+            "start": 371.746,
+            "end": 372.788,
+            "text": "Oops."
+          },
+          {
+            "index": 74,
+            "start": 375.958,
+            "end": 377.959,
+            "text": "Listen, don't mind Cameron."
+          },
+          {
+            "index": 75,
+            "start": 378.127,
+            "end": 381.755,
+            "text": "He's born with his foot in his mouth.\nYou know what I mean?"
+          },
+          {
+            "index": 76,
+            "start": 385.051,
+            "end": 387.969,
+            "text": "Rumor has it you did summer school."
+          },
+          {
+            "index": 77,
+            "start": 388.179,
+            "end": 391.89,
+            "text": "Yep. Chemistry.\nMy father thought I should get ahead."
+          },
+          {
+            "index": 78,
+            "start": 392.058,
+            "end": 395.102,
+            "text": "- How was your summer, Slick?\n- Keen."
+          },
+          {
+            "index": 79,
+            "start": 397.438,
+            "end": 401.108,
+            "text": "- Meeks, door, closed.\n- Yes, sir."
+          },
+          {
+            "index": 80,
+            "start": 401.275,
+            "end": 403.527,
+            "text": "Gentlemen, what are the four pillars?"
+          },
+          {
+            "index": 81,
+            "start": 403.694,
+            "end": 408.949,
+            "text": "[IN UNISON]\nTravesty, horror, decadence, excrement."
+          },
+          {
+            "index": 82,
+            "start": 409.409,
+            "end": 411.243,
+            "text": "Okay. Study group."
+          },
+          {
+            "index": 83,
+            "start": 411.411,
+            "end": 414.037,
+            "text": "Meeks aced Latin,\nI didn't quite flunk English."
+          },
+          {
+            "index": 84,
+            "start": 414.205,
+            "end": 416.415,
+            "text": "So if you want, we got our study group."
+          },
+          {
+            "index": 85,
+            "start": 416.582,
+            "end": 419.876,
+            "text": "Sure, Cameron asked me too.\nAnyone mind including him?"
+          },
+          {
+            "index": 86,
+            "start": 420.044,
+            "end": 422.003,
+            "text": "What's his specialty, bootlicking?"
+          },
+          {
+            "index": 87,
+            "start": 422.171,
+            "end": 425.34,
+            "text": "- He's your roommate.\n- That's not my fault."
+          },
+          {
+            "index": 88,
+            "start": 426.843,
+            "end": 430.637,
+            "text": "- Uh, I'm sorry. My name is Steven Meeks.\n- Oh, this is Todd Anderson."
+          },
+          {
+            "index": 89,
+            "start": 430.805,
+            "end": 432.389,
+            "text": "MEEKS: Nice to meet you.\n- Nice to meet you."
+          },
+          {
+            "index": 90,
+            "start": 432.557,
+            "end": 433.64,
+            "text": "CHARLIE:\nCharlie Dalton."
+          },
+          {
+            "index": 91,
+            "start": 436.352,
+            "end": 439.354,
+            "text": "- I'm Knox Overstreet.\n- Todd's brother was Jeffrey Anderson."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 406.042789,
+        "topCueIndex": 76,
+        "bottomCueIndex": 81
+      }
     }
   ]
 }
