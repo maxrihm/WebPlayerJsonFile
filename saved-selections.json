@@ -165703,6 +165703,158 @@
         "topCueIndex": 121,
         "bottomCueIndex": 128
       }
+    },
+    {
+      "id": "17b4b213-c1a5-4354-bd03-74d4f088b36b",
+      "createdAt": "2026-11-22T18:58:35.592Z",
+      "videoName": "Dead.Poets.Society.1989.1080p.BDRip1080p.mkv",
+      "audioTrackName": "ENG · Original",
+      "selectedText": "phalanx",
+      "selection": {
+        "rawText": "phalanx",
+        "startOffset": 24,
+        "endOffset": 31,
+        "cueIndex": 139,
+        "cueStart": 620.369,
+        "cueEnd": 623.872,
+        "cueText": "Slow down,\nyou horrible phalanx of pubescence."
+      },
+      "bottomSubPath": "D:\\Library/movies/dead-poets-society-1989/subtitles/09-eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 129,
+            "start": 564.355,
+            "end": 566.69,
+            "text": "It's just a bunch ofjerks\ntrying to impress Nolan."
+          },
+          {
+            "index": 130,
+            "start": 566.899,
+            "end": 569.401,
+            "text": "I don't care.\nI don't give a damn about any of it."
+          },
+          {
+            "index": 131,
+            "start": 570.236,
+            "end": 572.821,
+            "text": "Well, uh, Latin?\nEight o'clock in my room?"
+          },
+          {
+            "index": 132,
+            "start": 572.989,
+            "end": 575.156,
+            "text": "NEIL: Yes.\n- Sounds good."
+          },
+          {
+            "index": 133,
+            "start": 575.324,
+            "end": 577.909,
+            "text": "- Todd, you're welcome to join us.\nKNOX: Yeah, come along, pal."
+          },
+          {
+            "index": 134,
+            "start": 578.077,
+            "end": 579.578,
+            "text": "Thanks."
+          },
+          {
+            "index": 135,
+            "start": 580.037,
+            "end": 581.371,
+            "text": "[BELL TOLLING]"
+          },
+          {
+            "index": 136,
+            "start": 603.227,
+            "end": 605.312,
+            "text": "[CHIRPING]"
+          },
+          {
+            "index": 137,
+            "start": 607.982,
+            "end": 610.066,
+            "text": "[CHATTERING]"
+          },
+          {
+            "index": 138,
+            "start": 617.533,
+            "end": 620.201,
+            "text": "McAllister:\nSlow down, boys."
+          },
+          {
+            "index": 139,
+            "start": 620.369,
+            "end": 623.872,
+            "text": "Slow down,\nyou horrible phalanx of pubescence."
+          },
+          {
+            "index": 140,
+            "start": 624.04,
+            "end": 628.293,
+            "text": "Pick three laboratory experiments\nfrom the project list"
+          },
+          {
+            "index": 141,
+            "start": 628.461,
+            "end": 632.172,
+            "text": "and report on them every five weeks."
+          },
+          {
+            "index": 142,
+            "start": 632.34,
+            "end": 637.218,
+            "text": "The first 20 questions\nat the end of Chapter 1 are due tomorrow."
+          },
+          {
+            "index": 143,
+            "start": 638.888,
+            "end": 640.972,
+            "text": "[McAllister AND STUDENTS\nSPEAKING LATIN]"
+          },
+          {
+            "index": 144,
+            "start": 655.029,
+            "end": 656.071,
+            "text": "Again, please."
+          },
+          {
+            "index": 145,
+            "start": 656.238,
+            "end": 657.739,
+            "text": "[CONTINUES SPEAKING LATIN]"
+          },
+          {
+            "index": 146,
+            "start": 657.907,
+            "end": 663.828,
+            "text": "Your study of trigonometry\nrequires absolute precision."
+          },
+          {
+            "index": 147,
+            "start": 664.705,
+            "end": 668.792,
+            "text": "Anyone failing to turn in\nany homework assignment"
+          },
+          {
+            "index": 148,
+            "start": 668.959,
+            "end": 674.005,
+            "text": "will be penalized one point\noff their final grade."
+          },
+          {
+            "index": 149,
+            "start": 674.173,
+            "end": 677.509,
+            "text": "Let me urge you now\nnot to test me on this point."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 622.610112,
+        "topCueIndex": 129,
+        "bottomCueIndex": 139
+      }
     }
   ]
 }
