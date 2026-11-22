@@ -161447,6 +161447,158 @@
         "topCueIndex": 18,
         "bottomCueIndex": 17
       }
+    },
+    {
+      "id": "9b093be7-fe35-4de2-bdd0-f918e9b49ce7",
+      "createdAt": "2026-11-22T18:27:45.673Z",
+      "videoName": "Dead.Poets.Society.1989.1080p.BDRip1080p.mkv",
+      "audioTrackName": "ENG · Original",
+      "selectedText": "excellence.",
+      "selection": {
+        "rawText": "excellence.",
+        "startOffset": 30,
+        "endOffset": 41,
+        "cueIndex": 19,
+        "cueStart": 183.975,
+        "cueEnd": 188.562,
+        "cueText": "Tradition, honor,\ndiscipline, excellence."
+      },
+      "bottomSubPath": "D:\\Library/movies/dead-poets-society-1989/subtitles/09-eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 9,
+            "start": 78.703,
+            "end": 80.454,
+            "text": "- All right.\nMAN 2: All right, boys, let's settle down."
+          },
+          {
+            "index": 10,
+            "start": 89.839,
+            "end": 90.923,
+            "text": "Banners up."
+          },
+          {
+            "index": 11,
+            "start": 91.341,
+            "end": 93.425,
+            "text": "[BAGPIPES PLAYING\n\"SCOTLAND THE BRAVE\"]"
+          },
+          {
+            "index": 12,
+            "start": 142.35,
+            "end": 147.729,
+            "text": "Ladies and gentlemen, boys,\nthe light of knowledge."
+          },
+          {
+            "index": 13,
+            "start": 147.939,
+            "end": 150.023,
+            "text": "[ORGAN PLAYING]"
+          },
+          {
+            "index": 14,
+            "start": 157.365,
+            "end": 159.449,
+            "text": "[APPLAUSE]"
+          },
+          {
+            "index": 15,
+            "start": 163.246,
+            "end": 167.708,
+            "text": "NOLAN:\nOne hundred years ago, in 1859,"
+          },
+          {
+            "index": 16,
+            "start": 168.877,
+            "end": 174.131,
+            "text": "41 boys sat in this room\nand were asked the same question"
+          },
+          {
+            "index": 17,
+            "start": 174.34,
+            "end": 177.426,
+            "text": "that now greets you\nat the start of each semester."
+          },
+          {
+            "index": 18,
+            "start": 177.969,
+            "end": 181.346,
+            "text": "Gentlemen, what are the four pillars?"
+          },
+          {
+            "index": 19,
+            "start": 183.975,
+            "end": 188.562,
+            "text": "Tradition, honor,\ndiscipline, excellence."
+          },
+          {
+            "index": 20,
+            "start": 190.773,
+            "end": 196.069,
+            "text": "In her first year,\nWelton Academy graduated five students."
+          },
+          {
+            "index": 21,
+            "start": 196.279,
+            "end": 199.072,
+            "text": "Last year, we graduated 51."
+          },
+          {
+            "index": 22,
+            "start": 199.282,
+            "end": 205.078,
+            "text": "And more than 75 percent of those\nwent on to the Ivy League."
+          },
+          {
+            "index": 23,
+            "start": 207.332,
+            "end": 210.292,
+            "text": "This kind of accomplishment"
+          },
+          {
+            "index": 24,
+            "start": 210.585,
+            "end": 216.256,
+            "text": "is the result of fervent dedication\nto the principles taught here."
+          },
+          {
+            "index": 25,
+            "start": 216.424,
+            "end": 220.469,
+            "text": "This is why you parents\nhave been sending us your sons."
+          },
+          {
+            "index": 26,
+            "start": 221.429,
+            "end": 226.725,
+            "text": "This is why we are the best\npreparatory school in the United States."
+          },
+          {
+            "index": 27,
+            "start": 235.985,
+            "end": 237.402,
+            "text": "As you know,"
+          },
+          {
+            "index": 28,
+            "start": 238.071,
+            "end": 240.072,
+            "text": "our beloved Mr. Portius\nof the English Department"
+          },
+          {
+            "index": 29,
+            "start": 240.24,
+            "end": 242.366,
+            "text": "retired last term."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 188.348062,
+        "topCueIndex": 20,
+        "bottomCueIndex": 19
+      }
     }
   ]
 }
