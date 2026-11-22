@@ -165095,6 +165095,158 @@
         "topCueIndex": 108,
         "bottomCueIndex": 115
       }
+    },
+    {
+      "id": "0551652b-95b8-4057-a53b-aaba5d6d0c6a",
+      "createdAt": "2026-11-22T18:49:47.647Z",
+      "videoName": "Dead.Poets.Society.1989.1080p.BDRip1080p.mkv",
+      "audioTrackName": "ENG · Original",
+      "selectedText": "Tell him off.",
+      "selection": {
+        "rawText": "Tell him off.",
+        "startOffset": 12,
+        "endOffset": 25,
+        "cueIndex": 120,
+        "cueStart": 543.668,
+        "cueEnd": 546.503,
+        "cueText": "Yeah, Neil. Tell him off.\nIt couldn't get any worse."
+      },
+      "bottomSubPath": "D:\\Library/movies/dead-poets-society-1989/subtitles/09-eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 110,
+            "start": 504.045,
+            "end": 506.505,
+            "text": "After you've finished medical school\nand you're on your own,"
+          },
+          {
+            "index": 111,
+            "start": 506.672,
+            "end": 510.091,
+            "text": "then you can do as you damn well please,\nbut until then, you do as I tell you."
+          },
+          {
+            "index": 112,
+            "start": 510.259,
+            "end": 513.386,
+            "text": "- That clear?\n- Yes, sir, I'm sorry."
+          },
+          {
+            "index": 113,
+            "start": 514.972,
+            "end": 518.058,
+            "text": "Ahem. You know how much this means\nto your mother, don't you?"
+          },
+          {
+            "index": 114,
+            "start": 518.226,
+            "end": 519.684,
+            "text": "Yes, sir."
+          },
+          {
+            "index": 115,
+            "start": 521.145,
+            "end": 523.897,
+            "text": "You know me,\nalways taking on too much."
+          },
+          {
+            "index": 116,
+            "start": 525.066,
+            "end": 527.025,
+            "text": "Well, that's my boy."
+          },
+          {
+            "index": 117,
+            "start": 527.568,
+            "end": 529.736,
+            "text": "Now, listen, you need anything,\nyou let us know, huh?"
+          },
+          {
+            "index": 118,
+            "start": 529.904,
+            "end": 531.363,
+            "text": "Yes, sir."
+          },
+          {
+            "index": 119,
+            "start": 539.914,
+            "end": 542.415,
+            "text": "CHARLIE: Why doesn't he let you\ndo what you want?"
+          },
+          {
+            "index": 120,
+            "start": 543.668,
+            "end": 546.503,
+            "text": "Yeah, Neil. Tell him off.\nIt couldn't get any worse."
+          },
+          {
+            "index": 121,
+            "start": 546.671,
+            "end": 548.88,
+            "text": "Oh, that's rich.\nLike you guys tell your parents off?"
+          },
+          {
+            "index": 122,
+            "start": 549.048,
+            "end": 551.007,
+            "text": "Mr. Future-Lawyer\nand Mr. Future-Banker."
+          },
+          {
+            "index": 123,
+            "start": 551.175,
+            "end": 553.176,
+            "text": "Okay, so I don't like it\nany more than you do."
+          },
+          {
+            "index": 124,
+            "start": 553.886,
+            "end": 556.471,
+            "text": "Don't tell me how to talk to my father.\nYou guys are the same."
+          },
+          {
+            "index": 125,
+            "start": 556.639,
+            "end": 558.473,
+            "text": "All right, all right. Jesus."
+          },
+          {
+            "index": 126,
+            "start": 558.641,
+            "end": 560.517,
+            "text": "- What are you gonna do?\nNEIL: What I have to do."
+          },
+          {
+            "index": 127,
+            "start": 560.726,
+            "end": 562.352,
+            "text": "Drop the annual."
+          },
+          {
+            "index": 128,
+            "start": 562.52,
+            "end": 564.145,
+            "text": "CHARLIE:\nI wouldn't lose too much sleep over it."
+          },
+          {
+            "index": 129,
+            "start": 564.355,
+            "end": 566.69,
+            "text": "It's just a bunch ofjerks\ntrying to impress Nolan."
+          },
+          {
+            "index": 130,
+            "start": 566.899,
+            "end": 569.401,
+            "text": "I don't care.\nI don't give a damn about any of it."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 545.262298,
+        "topCueIndex": 113,
+        "bottomCueIndex": 120
+      }
     }
   ]
 }
