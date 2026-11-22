@@ -161903,6 +161903,158 @@
         "topCueIndex": 27,
         "bottomCueIndex": 26
       }
+    },
+    {
+      "id": "f34e39a6-0093-427e-b9b0-20ee329c0494",
+      "createdAt": "2026-11-22T18:29:37.418Z",
+      "videoName": "Dead.Poets.Society.1989.1080p.BDRip1080p.mkv",
+      "audioTrackName": "ENG · Original",
+      "selectedText": "beloved",
+      "selection": {
+        "rawText": "beloved",
+        "startOffset": 4,
+        "endOffset": 11,
+        "cueIndex": 28,
+        "cueStart": 238.071,
+        "cueEnd": 240.072,
+        "cueText": "our beloved Mr. Portius\nof the English Department"
+      },
+      "bottomSubPath": "D:\\Library/movies/dead-poets-society-1989/subtitles/09-eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 18,
+            "start": 177.969,
+            "end": 181.346,
+            "text": "Gentlemen, what are the four pillars?"
+          },
+          {
+            "index": 19,
+            "start": 183.975,
+            "end": 188.562,
+            "text": "Tradition, honor,\ndiscipline, excellence."
+          },
+          {
+            "index": 20,
+            "start": 190.773,
+            "end": 196.069,
+            "text": "In her first year,\nWelton Academy graduated five students."
+          },
+          {
+            "index": 21,
+            "start": 196.279,
+            "end": 199.072,
+            "text": "Last year, we graduated 51."
+          },
+          {
+            "index": 22,
+            "start": 199.282,
+            "end": 205.078,
+            "text": "And more than 75 percent of those\nwent on to the Ivy League."
+          },
+          {
+            "index": 23,
+            "start": 207.332,
+            "end": 210.292,
+            "text": "This kind of accomplishment"
+          },
+          {
+            "index": 24,
+            "start": 210.585,
+            "end": 216.256,
+            "text": "is the result of fervent dedication\nto the principles taught here."
+          },
+          {
+            "index": 25,
+            "start": 216.424,
+            "end": 220.469,
+            "text": "This is why you parents\nhave been sending us your sons."
+          },
+          {
+            "index": 26,
+            "start": 221.429,
+            "end": 226.725,
+            "text": "This is why we are the best\npreparatory school in the United States."
+          },
+          {
+            "index": 27,
+            "start": 235.985,
+            "end": 237.402,
+            "text": "As you know,"
+          },
+          {
+            "index": 28,
+            "start": 238.071,
+            "end": 240.072,
+            "text": "our beloved Mr. Portius\nof the English Department"
+          },
+          {
+            "index": 29,
+            "start": 240.24,
+            "end": 242.366,
+            "text": "retired last term."
+          },
+          {
+            "index": 30,
+            "start": 243.034,
+            "end": 245.494,
+            "text": "You will have the opportunity later\nto meet his replacement,"
+          },
+          {
+            "index": 31,
+            "start": 245.662,
+            "end": 247.955,
+            "text": "Mr. John Keating,"
+          },
+          {
+            "index": 32,
+            "start": 248.122,
+            "end": 250.707,
+            "text": "himself an honors graduate\nof this school."
+          },
+          {
+            "index": 33,
+            "start": 250.875,
+            "end": 252.96,
+            "text": "And who, for the past several years,"
+          },
+          {
+            "index": 34,
+            "start": 253.169,
+            "end": 256.505,
+            "text": "has been teaching at the highly regarded\nChester School in London."
+          },
+          {
+            "index": 35,
+            "start": 256.714,
+            "end": 258.799,
+            "text": "[APPLAUSE]"
+          },
+          {
+            "index": 36,
+            "start": 262.47,
+            "end": 266.682,
+            "text": "BOY 1: Richard, you forgot your bag.\nBOY 2: Hi, Charlie. Hey, how you doing?"
+          },
+          {
+            "index": 37,
+            "start": 266.849,
+            "end": 268.058,
+            "text": "[CAR HORN HONKS]"
+          },
+          {
+            "index": 38,
+            "start": 268.226,
+            "end": 270.394,
+            "text": "BOY 3: Don't worry,\nI've got your club assignment."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 240.43459,
+        "topCueIndex": 29,
+        "bottomCueIndex": 28
+      }
     }
   ]
 }
