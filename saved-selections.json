@@ -164639,6 +164639,158 @@
         "topCueIndex": 91,
         "bottomCueIndex": 96
       }
+    },
+    {
+      "id": "c811ef4f-a935-4aa3-9ba5-77a3ed7f589b",
+      "createdAt": "2026-11-22T18:45:31.693Z",
+      "videoName": "Dead.Poets.Society.1989.1080p.BDRip1080p.mkv",
+      "audioTrackName": "ENG · Original",
+      "selectedText": "extracurricular",
+      "selection": {
+        "rawText": "extracurricular",
+        "startOffset": 36,
+        "endOffset": 51,
+        "cueIndex": 104,
+        "cueStart": 473.055,
+        "cueEnd": 476.224,
+        "cueText": "I think that you're taking too many\nextracurricular activities this semester,"
+      },
+      "bottomSubPath": "D:\\Library/movies/dead-poets-society-1989/subtitles/09-eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 94,
+            "start": 444.61,
+            "end": 448.655,
+            "text": "Oh, well. Welcome to Hell-ton."
+          },
+          {
+            "index": 95,
+            "start": 448.823,
+            "end": 452.159,
+            "text": "It's every bit as tough as they say,\nunless you're a genius like Meeks."
+          },
+          {
+            "index": 96,
+            "start": 452.702,
+            "end": 454.953,
+            "text": "He flatters me.\nThat's why I help him with Latin."
+          },
+          {
+            "index": 97,
+            "start": 455.121,
+            "end": 456.83,
+            "text": "And English, and trig."
+          },
+          {
+            "index": 98,
+            "start": 456.998,
+            "end": 458.039,
+            "text": "[COUGHING]"
+          },
+          {
+            "index": 99,
+            "start": 458.207,
+            "end": 459.666,
+            "text": "[KNOCKING ON DOOR]"
+          },
+          {
+            "index": 100,
+            "start": 460.334,
+            "end": 462.169,
+            "text": "It's open."
+          },
+          {
+            "index": 101,
+            "start": 464.213,
+            "end": 466.214,
+            "text": "Father, I thought you'd gone."
+          },
+          {
+            "index": 102,
+            "start": 466.382,
+            "end": 469.009,
+            "text": "- Mr. Perry, sir.\nPERRY: Keep your seats, fellas."
+          },
+          {
+            "index": 103,
+            "start": 470.428,
+            "end": 472.888,
+            "text": "Neil, I've just spoken to Mr. Nolan."
+          },
+          {
+            "index": 104,
+            "start": 473.055,
+            "end": 476.224,
+            "text": "I think that you're taking too many\nextracurricular activities this semester,"
+          },
+          {
+            "index": 105,
+            "start": 476.392,
+            "end": 479.478,
+            "text": "and I've decided\nthat you should drop the school annual."
+          },
+          {
+            "index": 106,
+            "start": 479.645,
+            "end": 482.981,
+            "text": "- But I'm the assistant editor this year.\n- Well, I'm sorry, Neil."
+          },
+          {
+            "index": 107,
+            "start": 483.191,
+            "end": 485.484,
+            "text": "But, father, I can't. It wouldn't be fair."
+          },
+          {
+            "index": 108,
+            "start": 485.651,
+            "end": 488.862,
+            "text": "Fellas, could you excuse us\nfor a moment?"
+          },
+          {
+            "index": 109,
+            "start": 501.292,
+            "end": 503.877,
+            "text": "- Don't you ever dispute me in public.\n- Father, I wasn't..."
+          },
+          {
+            "index": 110,
+            "start": 504.045,
+            "end": 506.505,
+            "text": "After you've finished medical school\nand you're on your own,"
+          },
+          {
+            "index": 111,
+            "start": 506.672,
+            "end": 510.091,
+            "text": "then you can do as you damn well please,\nbut until then, you do as I tell you."
+          },
+          {
+            "index": 112,
+            "start": 510.259,
+            "end": 513.386,
+            "text": "- That clear?\n- Yes, sir, I'm sorry."
+          },
+          {
+            "index": 113,
+            "start": 514.972,
+            "end": 518.058,
+            "text": "Ahem. You know how much this means\nto your mother, don't you?"
+          },
+          {
+            "index": 114,
+            "start": 518.226,
+            "end": 519.684,
+            "text": "Yes, sir."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 475.488689,
+        "topCueIndex": 97,
+        "bottomCueIndex": 104
+      }
     }
   ]
 }
