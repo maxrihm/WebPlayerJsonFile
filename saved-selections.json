@@ -164487,6 +164487,158 @@
         "topCueIndex": 90,
         "bottomCueIndex": 95
       }
+    },
+    {
+      "id": "e3beed4c-7169-4e8e-b488-dfcb5d8716b6",
+      "createdAt": "2026-11-22T18:44:43.128Z",
+      "videoName": "Dead.Poets.Society.1989.1080p.BDRip1080p.mkv",
+      "audioTrackName": "ENG · Original",
+      "selectedText": "flatters",
+      "selection": {
+        "rawText": "flatters",
+        "startOffset": 3,
+        "endOffset": 11,
+        "cueIndex": 96,
+        "cueStart": 452.702,
+        "cueEnd": 454.953,
+        "cueText": "He flatters me.\nThat's why I help him with Latin."
+      },
+      "bottomSubPath": "D:\\Library/movies/dead-poets-society-1989/subtitles/09-eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 86,
+            "start": 420.044,
+            "end": 422.003,
+            "text": "What's his specialty, bootlicking?"
+          },
+          {
+            "index": 87,
+            "start": 422.171,
+            "end": 425.34,
+            "text": "- He's your roommate.\n- That's not my fault."
+          },
+          {
+            "index": 88,
+            "start": 426.843,
+            "end": 430.637,
+            "text": "- Uh, I'm sorry. My name is Steven Meeks.\n- Oh, this is Todd Anderson."
+          },
+          {
+            "index": 89,
+            "start": 430.805,
+            "end": 432.389,
+            "text": "MEEKS: Nice to meet you.\n- Nice to meet you."
+          },
+          {
+            "index": 90,
+            "start": 432.557,
+            "end": 433.64,
+            "text": "CHARLIE:\nCharlie Dalton."
+          },
+          {
+            "index": 91,
+            "start": 436.352,
+            "end": 439.354,
+            "text": "- I'm Knox Overstreet.\n- Todd's brother was Jeffrey Anderson."
+          },
+          {
+            "index": 92,
+            "start": 439.522,
+            "end": 441.898,
+            "text": "- Oh, yeah, sure.\nMEEKS: Well."
+          },
+          {
+            "index": 93,
+            "start": 442.066,
+            "end": 444.443,
+            "text": "Valedictorian. National Merit scholar."
+          },
+          {
+            "index": 94,
+            "start": 444.61,
+            "end": 448.655,
+            "text": "Oh, well. Welcome to Hell-ton."
+          },
+          {
+            "index": 95,
+            "start": 448.823,
+            "end": 452.159,
+            "text": "It's every bit as tough as they say,\nunless you're a genius like Meeks."
+          },
+          {
+            "index": 96,
+            "start": 452.702,
+            "end": 454.953,
+            "text": "He flatters me.\nThat's why I help him with Latin."
+          },
+          {
+            "index": 97,
+            "start": 455.121,
+            "end": 456.83,
+            "text": "And English, and trig."
+          },
+          {
+            "index": 98,
+            "start": 456.998,
+            "end": 458.039,
+            "text": "[COUGHING]"
+          },
+          {
+            "index": 99,
+            "start": 458.207,
+            "end": 459.666,
+            "text": "[KNOCKING ON DOOR]"
+          },
+          {
+            "index": 100,
+            "start": 460.334,
+            "end": 462.169,
+            "text": "It's open."
+          },
+          {
+            "index": 101,
+            "start": 464.213,
+            "end": 466.214,
+            "text": "Father, I thought you'd gone."
+          },
+          {
+            "index": 102,
+            "start": 466.382,
+            "end": 469.009,
+            "text": "- Mr. Perry, sir.\nPERRY: Keep your seats, fellas."
+          },
+          {
+            "index": 103,
+            "start": 470.428,
+            "end": 472.888,
+            "text": "Neil, I've just spoken to Mr. Nolan."
+          },
+          {
+            "index": 104,
+            "start": 473.055,
+            "end": 476.224,
+            "text": "I think that you're taking too many\nextracurricular activities this semester,"
+          },
+          {
+            "index": 105,
+            "start": 476.392,
+            "end": 479.478,
+            "text": "and I've decided\nthat you should drop the school annual."
+          },
+          {
+            "index": 106,
+            "start": 479.645,
+            "end": 482.981,
+            "text": "- But I'm the assistant editor this year.\n- Well, I'm sorry, Neil."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 454.144302,
+        "topCueIndex": 91,
+        "bottomCueIndex": 96
+      }
     }
   ]
 }
