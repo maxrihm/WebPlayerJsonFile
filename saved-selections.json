@@ -162055,6 +162055,158 @@
         "topCueIndex": 29,
         "bottomCueIndex": 28
       }
+    },
+    {
+      "id": "f142e8c2-f093-4357-bd3b-5ad9d1be5be6",
+      "createdAt": "2026-11-22T18:30:53.524Z",
+      "videoName": "Dead.Poets.Society.1989.1080p.BDRip1080p.mkv",
+      "audioTrackName": "ENG · Original",
+      "selectedText": "highly",
+      "selection": {
+        "rawText": "highly",
+        "startOffset": 25,
+        "endOffset": 31,
+        "cueIndex": 34,
+        "cueStart": 253.169,
+        "cueEnd": 256.505,
+        "cueText": "has been teaching at the highly regarded\nChester School in London."
+      },
+      "bottomSubPath": "D:\\Library/movies/dead-poets-society-1989/subtitles/09-eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 24,
+            "start": 210.585,
+            "end": 216.256,
+            "text": "is the result of fervent dedication\nto the principles taught here."
+          },
+          {
+            "index": 25,
+            "start": 216.424,
+            "end": 220.469,
+            "text": "This is why you parents\nhave been sending us your sons."
+          },
+          {
+            "index": 26,
+            "start": 221.429,
+            "end": 226.725,
+            "text": "This is why we are the best\npreparatory school in the United States."
+          },
+          {
+            "index": 27,
+            "start": 235.985,
+            "end": 237.402,
+            "text": "As you know,"
+          },
+          {
+            "index": 28,
+            "start": 238.071,
+            "end": 240.072,
+            "text": "our beloved Mr. Portius\nof the English Department"
+          },
+          {
+            "index": 29,
+            "start": 240.24,
+            "end": 242.366,
+            "text": "retired last term."
+          },
+          {
+            "index": 30,
+            "start": 243.034,
+            "end": 245.494,
+            "text": "You will have the opportunity later\nto meet his replacement,"
+          },
+          {
+            "index": 31,
+            "start": 245.662,
+            "end": 247.955,
+            "text": "Mr. John Keating,"
+          },
+          {
+            "index": 32,
+            "start": 248.122,
+            "end": 250.707,
+            "text": "himself an honors graduate\nof this school."
+          },
+          {
+            "index": 33,
+            "start": 250.875,
+            "end": 252.96,
+            "text": "And who, for the past several years,"
+          },
+          {
+            "index": 34,
+            "start": 253.169,
+            "end": 256.505,
+            "text": "has been teaching at the highly regarded\nChester School in London."
+          },
+          {
+            "index": 35,
+            "start": 256.714,
+            "end": 258.799,
+            "text": "[APPLAUSE]"
+          },
+          {
+            "index": 36,
+            "start": 262.47,
+            "end": 266.682,
+            "text": "BOY 1: Richard, you forgot your bag.\nBOY 2: Hi, Charlie. Hey, how you doing?"
+          },
+          {
+            "index": 37,
+            "start": 266.849,
+            "end": 268.058,
+            "text": "[CAR HORN HONKS]"
+          },
+          {
+            "index": 38,
+            "start": 268.226,
+            "end": 270.394,
+            "text": "BOY 3: Don't worry,\nI've got your club assignment."
+          },
+          {
+            "index": 39,
+            "start": 270.561,
+            "end": 272.646,
+            "text": "[CHATTERING]"
+          },
+          {
+            "index": 40,
+            "start": 283.95,
+            "end": 285.742,
+            "text": "NOLAN:\nI'm glad you could come by."
+          },
+          {
+            "index": 41,
+            "start": 286.327,
+            "end": 289.162,
+            "text": "- Thrilling ceremony as usual, Dr. Nolan.\nNOLAN: You've been away too long."
+          },
+          {
+            "index": 42,
+            "start": 289.33,
+            "end": 290.831,
+            "text": "- Hello, Dr. Nolan.\nNOLAN: How've you been?"
+          },
+          {
+            "index": 43,
+            "start": 290.999,
+            "end": 293.125,
+            "text": "- This is our youngest, Todd.\nNOLAN: Mr. Anderson."
+          },
+          {
+            "index": 44,
+            "start": 293.334,
+            "end": 295.21,
+            "text": "You have some big shoes to fill,\nyoung man."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 255.95469,
+        "topCueIndex": 35,
+        "bottomCueIndex": 34
+      }
     }
   ]
 }
