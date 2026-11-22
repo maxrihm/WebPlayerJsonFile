@@ -165551,6 +165551,158 @@
         "topCueIndex": 114,
         "bottomCueIndex": 121
       }
+    },
+    {
+      "id": "ac0950f0-3ac0-43bf-b952-82160b933c86",
+      "createdAt": "2026-11-22T18:56:54.873Z",
+      "videoName": "Dead.Poets.Society.1989.1080p.BDRip1080p.mkv",
+      "audioTrackName": "ENG · Original",
+      "selectedText": "lose too much sleep over it.",
+      "selection": {
+        "rawText": "lose too much sleep over it.",
+        "startOffset": 20,
+        "endOffset": 48,
+        "cueIndex": 128,
+        "cueStart": 562.52,
+        "cueEnd": 564.145,
+        "cueText": "CHARLIE:\nI wouldn't lose too much sleep over it."
+      },
+      "bottomSubPath": "D:\\Library/movies/dead-poets-society-1989/subtitles/09-eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 118,
+            "start": 529.904,
+            "end": 531.363,
+            "text": "Yes, sir."
+          },
+          {
+            "index": 119,
+            "start": 539.914,
+            "end": 542.415,
+            "text": "CHARLIE: Why doesn't he let you\ndo what you want?"
+          },
+          {
+            "index": 120,
+            "start": 543.668,
+            "end": 546.503,
+            "text": "Yeah, Neil. Tell him off.\nIt couldn't get any worse."
+          },
+          {
+            "index": 121,
+            "start": 546.671,
+            "end": 548.88,
+            "text": "Oh, that's rich.\nLike you guys tell your parents off?"
+          },
+          {
+            "index": 122,
+            "start": 549.048,
+            "end": 551.007,
+            "text": "Mr. Future-Lawyer\nand Mr. Future-Banker."
+          },
+          {
+            "index": 123,
+            "start": 551.175,
+            "end": 553.176,
+            "text": "Okay, so I don't like it\nany more than you do."
+          },
+          {
+            "index": 124,
+            "start": 553.886,
+            "end": 556.471,
+            "text": "Don't tell me how to talk to my father.\nYou guys are the same."
+          },
+          {
+            "index": 125,
+            "start": 556.639,
+            "end": 558.473,
+            "text": "All right, all right. Jesus."
+          },
+          {
+            "index": 126,
+            "start": 558.641,
+            "end": 560.517,
+            "text": "- What are you gonna do?\nNEIL: What I have to do."
+          },
+          {
+            "index": 127,
+            "start": 560.726,
+            "end": 562.352,
+            "text": "Drop the annual."
+          },
+          {
+            "index": 128,
+            "start": 562.52,
+            "end": 564.145,
+            "text": "CHARLIE:\nI wouldn't lose too much sleep over it."
+          },
+          {
+            "index": 129,
+            "start": 564.355,
+            "end": 566.69,
+            "text": "It's just a bunch ofjerks\ntrying to impress Nolan."
+          },
+          {
+            "index": 130,
+            "start": 566.899,
+            "end": 569.401,
+            "text": "I don't care.\nI don't give a damn about any of it."
+          },
+          {
+            "index": 131,
+            "start": 570.236,
+            "end": 572.821,
+            "text": "Well, uh, Latin?\nEight o'clock in my room?"
+          },
+          {
+            "index": 132,
+            "start": 572.989,
+            "end": 575.156,
+            "text": "NEIL: Yes.\n- Sounds good."
+          },
+          {
+            "index": 133,
+            "start": 575.324,
+            "end": 577.909,
+            "text": "- Todd, you're welcome to join us.\nKNOX: Yeah, come along, pal."
+          },
+          {
+            "index": 134,
+            "start": 578.077,
+            "end": 579.578,
+            "text": "Thanks."
+          },
+          {
+            "index": 135,
+            "start": 580.037,
+            "end": 581.371,
+            "text": "[BELL TOLLING]"
+          },
+          {
+            "index": 136,
+            "start": 603.227,
+            "end": 605.312,
+            "text": "[CHIRPING]"
+          },
+          {
+            "index": 137,
+            "start": 607.982,
+            "end": 610.066,
+            "text": "[CHATTERING]"
+          },
+          {
+            "index": 138,
+            "start": 617.533,
+            "end": 620.201,
+            "text": "McAllister:\nSlow down, boys."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 563.880165,
+        "topCueIndex": 121,
+        "bottomCueIndex": 128
+      }
     }
   ]
 }
