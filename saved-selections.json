@@ -167223,6 +167223,158 @@
         "topCueIndex": 152,
         "bottomCueIndex": 167
       }
+    },
+    {
+      "id": "8802c0b8-a603-48e0-9440-cc29d63d439b",
+      "createdAt": "2026-11-22T19:03:56.604Z",
+      "videoName": "Dead.Poets.Society.1989.1080p.BDRip1080p.mkv",
+      "audioTrackName": "ENG · Original",
+      "selectedText": "dispel",
+      "selection": {
+        "rawText": "dispel",
+        "startOffset": 12,
+        "endOffset": 18,
+        "cueIndex": 167,
+        "cueStart": 783.741,
+        "cueEnd": 786.493,
+        "cueText": "Now, let me dispel a few rumors\nso they don't fester into facts."
+      },
+      "bottomSubPath": "D:\\Library/movies/dead-poets-society-1989/subtitles/09-eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 157,
+            "start": 725.433,
+            "end": 726.474,
+            "text": "NEIL: Let's go.\nKNOX: Where?"
+          },
+          {
+            "index": 158,
+            "start": 726.642,
+            "end": 728.268,
+            "text": "Let's go, guys."
+          },
+          {
+            "index": 159,
+            "start": 729.437,
+            "end": 731.604,
+            "text": "Okay, go."
+          },
+          {
+            "index": 160,
+            "start": 753.544,
+            "end": 756.629,
+            "text": "O Captain! My Captain!"
+          },
+          {
+            "index": 161,
+            "start": 757.506,
+            "end": 759.591,
+            "text": "Who knows where that comes from?"
+          },
+          {
+            "index": 162,
+            "start": 760.217,
+            "end": 761.718,
+            "text": "Anybody?"
+          },
+          {
+            "index": 163,
+            "start": 766.432,
+            "end": 768.099,
+            "text": "Not a clue?"
+          },
+          {
+            "index": 164,
+            "start": 768.601,
+            "end": 772.52,
+            "text": "It's from a poem by Walt Whitman\nabout Mr. Abraham Lincoln."
+          },
+          {
+            "index": 165,
+            "start": 772.688,
+            "end": 775.523,
+            "text": "Now, in this class,\nyou can either call me Mr. Keating,"
+          },
+          {
+            "index": 166,
+            "start": 775.691,
+            "end": 779.486,
+            "text": "or if you're slightly more daring,\nO Captain, My Captain."
+          },
+          {
+            "index": 167,
+            "start": 783.741,
+            "end": 786.493,
+            "text": "Now, let me dispel a few rumors\nso they don't fester into facts."
+          },
+          {
+            "index": 168,
+            "start": 786.66,
+            "end": 790.246,
+            "text": "Yes, I too attended Hell-ton\nand survived."
+          },
+          {
+            "index": 169,
+            "start": 790.414,
+            "end": 794.626,
+            "text": "And no, at that time, I was not\nthe mental giant you see before you."
+          },
+          {
+            "index": 170,
+            "start": 794.794,
+            "end": 798.254,
+            "text": "I was the intellectual equivalent\nof a 98-pound weakling."
+          },
+          {
+            "index": 171,
+            "start": 798.422,
+            "end": 799.464,
+            "text": "I would go to the beach"
+          },
+          {
+            "index": 172,
+            "start": 799.632,
+            "end": 802.05,
+            "text": "and people would kick\ncopies of Byron in my face."
+          },
+          {
+            "index": 173,
+            "start": 806.43,
+            "end": 807.514,
+            "text": "Now,"
+          },
+          {
+            "index": 174,
+            "start": 808.349,
+            "end": 811.851,
+            "text": "Mr. Pitts."
+          },
+          {
+            "index": 175,
+            "start": 812.019,
+            "end": 816.523,
+            "text": "That's a rather unfortunate name.\nMr. Pitts, where are you?"
+          },
+          {
+            "index": 176,
+            "start": 817.733,
+            "end": 821.277,
+            "text": "Mr. Pitts, will you open your hymnal\nto page 542?"
+          },
+          {
+            "index": 177,
+            "start": 821.445,
+            "end": 824.239,
+            "text": "Read the first stanza\nof the poem you find there."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 785.365144,
+        "topCueIndex": 152,
+        "bottomCueIndex": 167
+      }
     }
   ]
 }
