@@ -162511,6 +162511,158 @@
         "topCueIndex": 42,
         "bottomCueIndex": 44
       }
+    },
+    {
+      "id": "1b0ffcf6-47d8-4858-b012-fecf5d730eb3",
+      "createdAt": "2026-11-22T18:33:28.524Z",
+      "videoName": "Dead.Poets.Society.1989.1080p.BDRip1080p.mkv",
+      "audioTrackName": "ENG · Original",
+      "selectedText": "finest.",
+      "selection": {
+        "rawText": "finest.",
+        "startOffset": 28,
+        "endOffset": 35,
+        "cueIndex": 45,
+        "cueStart": 295.378,
+        "cueEnd": 296.837,
+        "cueText": "Your brother was one of our finest."
+      },
+      "bottomSubPath": "D:\\Library/movies/dead-poets-society-1989/subtitles/09-eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 35,
+            "start": 256.714,
+            "end": 258.799,
+            "text": "[APPLAUSE]"
+          },
+          {
+            "index": 36,
+            "start": 262.47,
+            "end": 266.682,
+            "text": "BOY 1: Richard, you forgot your bag.\nBOY 2: Hi, Charlie. Hey, how you doing?"
+          },
+          {
+            "index": 37,
+            "start": 266.849,
+            "end": 268.058,
+            "text": "[CAR HORN HONKS]"
+          },
+          {
+            "index": 38,
+            "start": 268.226,
+            "end": 270.394,
+            "text": "BOY 3: Don't worry,\nI've got your club assignment."
+          },
+          {
+            "index": 39,
+            "start": 270.561,
+            "end": 272.646,
+            "text": "[CHATTERING]"
+          },
+          {
+            "index": 40,
+            "start": 283.95,
+            "end": 285.742,
+            "text": "NOLAN:\nI'm glad you could come by."
+          },
+          {
+            "index": 41,
+            "start": 286.327,
+            "end": 289.162,
+            "text": "- Thrilling ceremony as usual, Dr. Nolan.\nNOLAN: You've been away too long."
+          },
+          {
+            "index": 42,
+            "start": 289.33,
+            "end": 290.831,
+            "text": "- Hello, Dr. Nolan.\nNOLAN: How've you been?"
+          },
+          {
+            "index": 43,
+            "start": 290.999,
+            "end": 293.125,
+            "text": "- This is our youngest, Todd.\nNOLAN: Mr. Anderson."
+          },
+          {
+            "index": 44,
+            "start": 293.334,
+            "end": 295.21,
+            "text": "You have some big shoes to fill,\nyoung man."
+          },
+          {
+            "index": 45,
+            "start": 295.378,
+            "end": 296.837,
+            "text": "Your brother was one of our finest."
+          },
+          {
+            "index": 46,
+            "start": 297.588,
+            "end": 299.131,
+            "text": "Thank you."
+          },
+          {
+            "index": 47,
+            "start": 300.174,
+            "end": 303.093,
+            "text": "WOMAN: Lovely ceremony.\nNOLAN: Thank you. I'm so glad you liked it."
+          },
+          {
+            "index": 48,
+            "start": 303.261,
+            "end": 304.386,
+            "text": "PERRY: Gale.\n- John."
+          },
+          {
+            "index": 49,
+            "start": 304.554,
+            "end": 305.595,
+            "text": "Good to see you again."
+          },
+          {
+            "index": 50,
+            "start": 305.763,
+            "end": 307.514,
+            "text": "- Hello, Mr. Nolan.\n- Neil."
+          },
+          {
+            "index": 51,
+            "start": 307.682,
+            "end": 309.516,
+            "text": "We expect great things from you\nthis year."
+          },
+          {
+            "index": 52,
+            "start": 309.684,
+            "end": 311.81,
+            "text": "- Thank you, sir.\n- Well, he won't disappoint us."
+          },
+          {
+            "index": 53,
+            "start": 311.978,
+            "end": 314.646,
+            "text": "- Right, Neil?\n- I'll do my best, sir."
+          },
+          {
+            "index": 54,
+            "start": 314.814,
+            "end": 316.023,
+            "text": "[BELL TOLLING]"
+          },
+          {
+            "index": 55,
+            "start": 316.19,
+            "end": 319.526,
+            "text": "MAN 1: Come on, son. No tears, now.\nWOMAN 1: Chin up. Chin up."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 295.397829,
+        "topCueIndex": 43,
+        "bottomCueIndex": 45
+      }
     }
   ]
 }
