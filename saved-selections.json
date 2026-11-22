@@ -166007,6 +166007,158 @@
         "topCueIndex": 129,
         "bottomCueIndex": 139
       }
+    },
+    {
+      "id": "40849120-324d-4a98-b6ff-bb1b251ff0d8",
+      "createdAt": "2026-11-22T18:59:08.071Z",
+      "videoName": "Dead.Poets.Society.1989.1080p.BDRip1080p.mkv",
+      "audioTrackName": "ENG · Original",
+      "selectedText": "due",
+      "selection": {
+        "rawText": "due",
+        "startOffset": 51,
+        "endOffset": 54,
+        "cueIndex": 142,
+        "cueStart": 632.34,
+        "cueEnd": 637.218,
+        "cueText": "The first 20 questions\nat the end of Chapter 1 are due tomorrow."
+      },
+      "bottomSubPath": "D:\\Library/movies/dead-poets-society-1989/subtitles/09-eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 132,
+            "start": 572.989,
+            "end": 575.156,
+            "text": "NEIL: Yes.\n- Sounds good."
+          },
+          {
+            "index": 133,
+            "start": 575.324,
+            "end": 577.909,
+            "text": "- Todd, you're welcome to join us.\nKNOX: Yeah, come along, pal."
+          },
+          {
+            "index": 134,
+            "start": 578.077,
+            "end": 579.578,
+            "text": "Thanks."
+          },
+          {
+            "index": 135,
+            "start": 580.037,
+            "end": 581.371,
+            "text": "[BELL TOLLING]"
+          },
+          {
+            "index": 136,
+            "start": 603.227,
+            "end": 605.312,
+            "text": "[CHIRPING]"
+          },
+          {
+            "index": 137,
+            "start": 607.982,
+            "end": 610.066,
+            "text": "[CHATTERING]"
+          },
+          {
+            "index": 138,
+            "start": 617.533,
+            "end": 620.201,
+            "text": "McAllister:\nSlow down, boys."
+          },
+          {
+            "index": 139,
+            "start": 620.369,
+            "end": 623.872,
+            "text": "Slow down,\nyou horrible phalanx of pubescence."
+          },
+          {
+            "index": 140,
+            "start": 624.04,
+            "end": 628.293,
+            "text": "Pick three laboratory experiments\nfrom the project list"
+          },
+          {
+            "index": 141,
+            "start": 628.461,
+            "end": 632.172,
+            "text": "and report on them every five weeks."
+          },
+          {
+            "index": 142,
+            "start": 632.34,
+            "end": 637.218,
+            "text": "The first 20 questions\nat the end of Chapter 1 are due tomorrow."
+          },
+          {
+            "index": 143,
+            "start": 638.888,
+            "end": 640.972,
+            "text": "[McAllister AND STUDENTS\nSPEAKING LATIN]"
+          },
+          {
+            "index": 144,
+            "start": 655.029,
+            "end": 656.071,
+            "text": "Again, please."
+          },
+          {
+            "index": 145,
+            "start": 656.238,
+            "end": 657.739,
+            "text": "[CONTINUES SPEAKING LATIN]"
+          },
+          {
+            "index": 146,
+            "start": 657.907,
+            "end": 663.828,
+            "text": "Your study of trigonometry\nrequires absolute precision."
+          },
+          {
+            "index": 147,
+            "start": 664.705,
+            "end": 668.792,
+            "text": "Anyone failing to turn in\nany homework assignment"
+          },
+          {
+            "index": 148,
+            "start": 668.959,
+            "end": 674.005,
+            "text": "will be penalized one point\noff their final grade."
+          },
+          {
+            "index": 149,
+            "start": 674.173,
+            "end": 677.509,
+            "text": "Let me urge you now\nnot to test me on this point."
+          },
+          {
+            "index": 150,
+            "start": 678.469,
+            "end": 680.553,
+            "text": "[CHATTERING]"
+          },
+          {
+            "index": 151,
+            "start": 689.605,
+            "end": 691.272,
+            "text": "KNOX:\nHey, Spaz. Spaz."
+          },
+          {
+            "index": 152,
+            "start": 693.15,
+            "end": 694.693,
+            "text": "BOY 1: Brain damage.\nBOY 2: Shh."
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 636.109533,
+        "topCueIndex": 132,
+        "bottomCueIndex": 142
+      }
     }
   ]
 }
