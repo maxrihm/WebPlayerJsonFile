@@ -160881,6 +160881,134 @@
         "topCueIndex": -1,
         "bottomCueIndex": 404
       }
+    },
+    {
+      "id": "735af82c-db51-4477-b176-5ff5b243bef5",
+      "createdAt": "2026-11-22T18:23:28.645Z",
+      "videoName": "Dead.Poets.Society.1989.1080p.BDRip1080p.mkv",
+      "audioTrackName": "ENG · Original",
+      "selectedText": "procession",
+      "selection": {
+        "rawText": "procession",
+        "startOffset": 33,
+        "endOffset": 43,
+        "cueIndex": 6,
+        "cueStart": 68.902,
+        "cueEnd": 71.32,
+        "cueText": "you're going to follow along\nthe procession"
+      },
+      "bottomSubPath": "D:\\Library/movies/dead-poets-society-1989/subtitles/09-eng.vtt",
+      "context": {
+        "bottom": [
+          {
+            "index": 0,
+            "start": 34.409,
+            "end": 36.493,
+            "text": "[PEOPLE MURMURING]"
+          },
+          {
+            "index": 1,
+            "start": 41.833,
+            "end": 44.585,
+            "text": "WOMAN: Now, remember,\nkeep your shoulders back."
+          },
+          {
+            "index": 2,
+            "start": 54.22,
+            "end": 56.221,
+            "text": "Okay, put your arm around your brother.\nThat's it."
+          },
+          {
+            "index": 3,
+            "start": 57.057,
+            "end": 59.308,
+            "text": "Right, and freeze."
+          },
+          {
+            "index": 4,
+            "start": 60.643,
+            "end": 61.977,
+            "text": "Okay, one more."
+          },
+          {
+            "index": 5,
+            "start": 66.691,
+            "end": 68.734,
+            "text": "MAN 1:\nNow, just to review,"
+          },
+          {
+            "index": 6,
+            "start": 68.902,
+            "end": 71.32,
+            "text": "you're going to follow along\nthe procession"
+          },
+          {
+            "index": 7,
+            "start": 71.488,
+            "end": 74.198,
+            "text": "until you get to the headmaster."
+          },
+          {
+            "index": 8,
+            "start": 74.365,
+            "end": 78.535,
+            "text": "And at that point, he will indicate to you\nto light the candles of the boys."
+          },
+          {
+            "index": 9,
+            "start": 78.703,
+            "end": 80.454,
+            "text": "- All right.\nMAN 2: All right, boys, let's settle down."
+          },
+          {
+            "index": 10,
+            "start": 89.839,
+            "end": 90.923,
+            "text": "Banners up."
+          },
+          {
+            "index": 11,
+            "start": 91.341,
+            "end": 93.425,
+            "text": "[BAGPIPES PLAYING\n\"SCOTLAND THE BRAVE\"]"
+          },
+          {
+            "index": 12,
+            "start": 142.35,
+            "end": 147.729,
+            "text": "Ladies and gentlemen, boys,\nthe light of knowledge."
+          },
+          {
+            "index": 13,
+            "start": 147.939,
+            "end": 150.023,
+            "text": "[ORGAN PLAYING]"
+          },
+          {
+            "index": 14,
+            "start": 157.365,
+            "end": 159.449,
+            "text": "[APPLAUSE]"
+          },
+          {
+            "index": 15,
+            "start": 163.246,
+            "end": 167.708,
+            "text": "NOLAN:\nOne hundred years ago, in 1859,"
+          },
+          {
+            "index": 16,
+            "start": 168.877,
+            "end": 174.131,
+            "text": "41 boys sat in this room\nand were asked the same question"
+          }
+        ]
+      },
+      "capturedAt": {
+        "playbackTime": 70.715946,
+        "topCueIndex": 6,
+        "bottomCueIndex": 6
+      }
     }
   ]
 }
